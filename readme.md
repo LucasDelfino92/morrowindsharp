@@ -8,7 +8,7 @@ Contact info
 - RPG Codex user: Sigourn
 - Nexus Mods user: Lucas9
 
-Sigourn's Mod List is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 100 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
+Sigourn's Mod List is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 200 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
 
 Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, and the existence of an in-game mod configuration menu. Mods that function correctly and without annoying issues were a priority for this mod list.
 
@@ -34,21 +34,6 @@ The good news is that because I use every single mod in this list (minor conflic
 
 The bad news is that because of the complexity of the guide, some modding experience is required. People with modding experience in future Bethesda titles will feel right at home and should have no issues whatsoever. People with no modding experience, I suggest you read the mods' descriptions and installation instructions before installing them in your game.
 
-## ON MENDED MORROWIND
-
-Morrowind Improved is the sister mod list to Mended Morrowind, a short and sweet guide to ironing out many of Morrowind's bugs and optimization issues. My intention is that you use this mod list in tandem with Mended Morrowind.
-
 ## INDEX
 
-- MWSE Fixes: basic Morrowind Script Extender set up and fixes that require it.
-- User Interface: mods that improve the functionality of Morrowind's user interface, as well as the game's low resolution fonts.
-- Content Restoration: mods that restore content cut from the final release.
-- Lore Consistency: mods that modify given aspects of the game to better match in-game information.
-- Visuals: mods that tweak certain textures, meshes, or add new visual effects into the game.
-- Audio: mods that tweak certain sound files, or add new sound effects into the game.
-- Overhauls: mods that make significant changes to how the game's set pieces, dungeons, towns, cities, buildings or environments look like.
-- Miscellaneous: mods that do not fit any of the above categories.
-- Equipment: mods that add new equipment into the game.
-- Gameplay: mods that modify certain gameplay aspects of the game without balance or new mechanics in mind.
-- Balance: mods that rebalance different aspects of the game.
-- Better Bodies: mods related to Better Bodies.
+- [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a basic mod list for a (mostly) bug-free and stable Morrowind experience.
