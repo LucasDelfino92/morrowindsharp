@@ -111,15 +111,13 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
-## GRAPHICS
+**GRAPHICS**
 
-**DISPLAY**
-
-All features in this page are self-explainable, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
+All features in this page are self-explained, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
 
 **DISTANT LAND**
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy my personal settings found here.
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
 
 The **Distant land generator wizard** lets you select which plugins you want MGE XE to use when generating distant land. My recommendation is to select **Use current load order**. When you click **Continue**, a new menu will appear, asking you which method of Distant Land generation you want to use.
 
@@ -129,7 +127,9 @@ The **Distant land generator wizard** lets you select which plugins you want MGE
 
 **IN-GAME**
 
+The **Options** section has a handful of features you will want to be aware of. **Skip opening movie** is a timesaver, while **Responsive menu caching** is a must have. **Crosshair autohide** is nice at first, but grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. Finally, **Daggerfall combat controls** may appeal to the veteran Daggerfall player.
 
+Under **Morrowind engine settings**, you will definitely want to have **Allow yes to all load errors**, **Allow screenshots**, and **Thread loading** ticked. **Show subtitles** is very useful as well. Just don't activate the buggy **High detail actor shadows** option.
 
 # HIGH QUALITY VANILLA TEXTURES
 
@@ -255,4 +255,32 @@ Your plugins are listed on the pane to the right. They should be as follows:
 - Lake Fjalding Anti-Suck.esp
 - Expansion Delay.esp
 - ***All plugins that deal with the official plugins should be loaded here***
+
+# .INI EDITS
+
+The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
+
+1. Launch Mod Organizer 2.
+2. Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
+3. On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
+
+**[Weather Rain]**
+
+Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+
+Max Raindrops=450 -> Change this to **Max Raindrops=1500**
+
+**[Weather Thunderstorm]**
+
+Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+
+Max Raindrops=650 -> Change this to **Max Raindrops=3000**
+
+**[Weather Snow]**
+
+Snow Diameter=800 -> Change this to **Snow Diameter=1600**
+
+Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
+
+4. Click Save to finish editing the Morrowind.ini.
 
