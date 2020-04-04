@@ -152,6 +152,7 @@ Remember, *use one or the other*, not both at once.
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes. Install normally.
 - [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell. Install normally.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones. Install normally.
+- [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
 - [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead. Install normally.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion. Install normally.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
@@ -159,6 +160,7 @@ Remember, *use one or the other*, not both at once.
 1. Install the **Glowing Flames** main file.
 2. Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 
+- [**Immersive Run Fix**]
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
 
 1. Install the **No More Stage Diving** main file.
@@ -252,9 +254,9 @@ Your plugins are listed on the pane to the right. They should be as follows:
 - FMI_Legion_Dialogue_1.1.esp
 - Glowing Flames - NoMoreLightlessFlames v1.1.esp
 - NoMoreStageDiving.esp
+- ***All plugins that deal with the official plugins should be loaded here***
 - Lake Fjalding Anti-Suck.esp
 - Expansion Delay.esp
-- ***All plugins that deal with the official plugins should be loaded here***
 
 # .INI EDITS
 
