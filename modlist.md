@@ -4,9 +4,9 @@ Last updated: March 30th, 2020.
 
 Contact info
 
-Reddit user: Sigourn
-RPG Codex user: Sigourn
-Nexus Mods user: Lucas9
+- Reddit user: Sigourn
+- RPG Codex user: Sigourn
+- Nexus Mods user: Lucas9
 
 The goal of Morrowind Improved is to offer new and veteran Morrowind players the best lightweight modded Morrowind experience, as free of bugs and stability issues as reasonably possible, without sacrificing the elements that make Morrowind Morrowind, by boosting everything that makes Morrowind great and polishing the rough edges off the game.
 
