@@ -1,4 +1,4 @@
-## INSTALLING MORROWIND
+# INSTALLING MORROWIND
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -14,7 +14,7 @@ Because you will have to choose whether you want to use patched or "modded" vers
 
 Near the end of the guide there will be a detailed section on how to deal with the add-ons.
 
-## MODDING BASICS
+# MODDING BASICS
 
 A crash course to Morrowind and Bethesda modding in general is:
 
@@ -26,7 +26,7 @@ Your Morrowind root folder contains the game’s executable (Morrowind.exe), the
 
 When installing mods manually, by extracting the contents of a mod and dropping them inside your Data Files folder, there is a chance you will be overwriting one mod's files with another mod's. This is where mod managers come in: they make modding easy by providing you with lots of tools to aid you in modding your game.
 
-## MOD ORGANIZER 2
+# MOD ORGANIZER 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
@@ -83,11 +83,11 @@ This concludes this brief tutorial.
 
 As I said earlier, my experience with it is a positive one. But my experience with MO2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods, for instance, which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. But MO2 won't break your game as long as you use it for mod installation and nothing else.
 
-## MORROWIND CODE PATCH
+# MORROWIND CODE PATCH
 
 The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind, as opposed to OpenMW.
 
-Unlike mods, the Morrowind Code Patch requires specific install instructions. This is where a lot of MO2 users get it wrong.
+Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2.
 
 1. First, download the **Morrowind Code Patch** main file from [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files).
 2. Extract the contents of the file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
@@ -98,7 +98,40 @@ Unlike mods, the Morrowind Code Patch requires specific install instructions. Th
 
 Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder, and you will be done. We can finally move on to the next step, which is actually installing mods through Mod Organizer 2 (or your mod manager of choice).
 
-## HIGH QUALITY VANILLA TEXTURES
+# MGE XE
+
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away. Just like the Morrowind Code Patch, MGE XE can't be installed through Mod Organizer 2.
+
+- [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) by Hrnchamd.
+
+1. Download the **MGE XE Manual Install** main file.
+2. Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
+3. Right click on MWSE-Update.exe and select **Run as Administrator**. Once the updating process is finished, the window will close itself.
+4. Now launch Mod Organizer 2. If you click on the icon to the left of the **Run** button, you will get a dropdown menu. Select **MGE XE** and click the **Run** button to launch the application.
+
+MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
+
+## GRAPHICS
+
+**DISPLAY**
+
+All features in this page are self-explainable, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
+
+**DISTANT LAND**
+
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy my personal settings found here.
+
+The **Distant land generator wizard** lets you select which plugins you want MGE XE to use when generating distant land. My recommendation is to select **Use current load order**. When you click **Continue**, a new menu will appear, asking you which method of Distant Land generation you want to use.
+
+- **Automatic setup** will generate Distant Land for you.
+- **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. My suggestion, if you have a half-decent rig that can run Skyrim at 60fps, is to set the **world mesh detail** to **Ultra High**.
+- **Update existing distant land** will regenerate Distant Land according to the saved/default settings. If you have customized your setup in the past, this is the option you want to use.
+
+**IN-GAME**
+
+
+
+# HIGH QUALITY VANILLA TEXTURES
 
 This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures. I will mention two of them.
 
@@ -111,6 +144,8 @@ Installing these textures is entirely up to you. Needless to say, I use them mys
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros. Install normally.
 
 Remember, *use one or the other*, not both at once.
+
+# MENDED MORROWIND
 
 ## BUG FIXES
 
@@ -139,7 +174,7 @@ Remember, *use one or the other*, not both at once.
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## OFFICIAL PLUGINS
+# OFFICIAL PLUGINS
 
 Before you decide what you want to do about the official plugins, you need to know what each of them *do*:
 
@@ -152,8 +187,72 @@ Before you decide what you want to do about the official plugins, you need to kn
 - **Adamantium Armor**: a new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
 - **Siege at Firemoth**: the island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
 
-- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?): fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
+Out of all those plugins, the following two have received better implementations:
 
-1. Once you've made up your mind, and assuming you are interested in any of these plugins, download the **UMOPP 3.0.4** main file and install it.
-2. You will want to deactivate whatever plugins you are not interested in. Those of you who want ALL mods should deactivate all of them, as we can replace them all with a single plugin. **Mod Organizer 2 users** can hide unnecessary plugins by right clicking on the installed mod on the left window, clicking **Information...**, selecting the **Filetree** tab, right clicking on the plugins you want to hide, and selecting **Hide**.
-3. Those of you who have deactivated all plugins in preparation for the merged plugin, download the **Merged and Compatibility Versions** main file and install it. Mod Organizer 2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK*.
+- [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
+- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
+
+All in all, we are looking at a complicated package of plugins, all with their own bugs, except for Necrolesian's re-implementations. Because of this, if you want to use any add-ons other than Necrolesian's edited plugins, you WILL need the following:
+
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
+
+Because there are many ways we can go with this, I'll provide separate installation instructions depending on what you want to do.
+
+## ALL OFFICIAL PLUGINS, NO NECROLESIAN EDITS
+
+1. Install the **UMOPP 3.0.4** main file.
+2. Hide/deactivate all plugins.
+3. Install the **Merged and Compatibility Versions** main file. MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK*.
+
+## ALL OFFICIAL PLUGINS, BUT WITH NECROLESIAN EDITS
+
+1. Install the **UMOPP 3.0.4** main file.
+2. Hide/deactivate **adamantiumarmor.esp** and **AreaEffectArrows.esp**.
+3. Install **Adamantium Armor Integrated**.
+4. Install **Area Effects Arrows Integrated**.
+5. Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+
+## ONLY SOME OF THE PLUGINS, WITH OR WITHOUT NECROLESIAN EDITS
+1. Install the **UMOPP 3.0.4** main file.
+2. Hide/deactivate plugins as appropiate.
+3. Install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts as appropiate, and the unnecessary Area Effects Arrows Integrated plugins as mentioned above.
+
+The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use **all of the official add-ons*.
+
+# MANAGING OUR INSTALLATION AND LOAD ORDER
+
+Your installed mods are listed on the pane to the left. Remember that Tribunal and Bloodmoon are technically mods of the original game. Your installed mods, thus, should be as follows:
+
+- DLC: Tribunal
+- DLC: Bloodmoon
+- Morrowind Uncompressed Vanilla Textures **OR** Intelligent Textures
+- Patch for Purists
+- Arrille Inventory Fix
+- Correct UV Rocks
+- FMI - Current Councilors
+- FMI - Legion Dialogue
+- Glowing Flames
+- No More Stage Diving - Desele's Dancing Girls
+- ***ALL mods that deal with the official plugins should be loaded here, before Morrowind Optimization Patch***
+- Morrowind Optimization Patch
+- Project Atlas
+- Atlased Silt Strider
+- Expansion Delay
+
+Your plugins are listed on the pane to the right. They should be as follows:
+
+- Morrowind.esm
+- Tribunal.esm
+- Bloodmoon.esm
+- Patch for Purists.esm
+- Patch for Purists - Book Typos.esp
+- Patch for Purists - Decimal Errors.esp
+- Arrille Inventory Fix.esp
+- FMI_Current_Councilors.esp
+- FMI_Legion_Dialogue_1.1.esp
+- Glowing Flames - NoMoreLightlessFlames v1.1.esp
+- NoMoreStageDiving.esp
+- Lake Fjalding Anti-Suck.esp
+- Expansion Delay.esp
+- ***All plugins that deal with the official plugins should be loaded here***
+
