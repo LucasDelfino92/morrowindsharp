@@ -10,4 +10,8 @@
 - [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r: adds clock to UI that displays either game world time or real time.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
-- [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: this mod is dirty and requires cleaning.
+- [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: adds global map markers to all dungeons on Vvardenfell and Solstheim.
+
+## NOTES
+
+**Global Map Markers** is dirty and requires cleaning. Additionally, this plugin should be loaded at the end of your load order.
