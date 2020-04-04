@@ -160,7 +160,7 @@ Remember, *use one or the other*, not both at once.
 1. Install the **Glowing Flames** main file.
 2. Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 
-- [**Immersive Run Fix**]
+- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
 
 1. Install the **No More Stage Diving** main file.
