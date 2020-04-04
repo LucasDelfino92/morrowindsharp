@@ -4,9 +4,9 @@ Last updated: March 30th, 2020.
 
 Contact info
 
-- Reddit user: Sigourn
-- RPG Codex user: Sigourn
-- Nexus Mods user: Lucas9
+- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
+- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
 
 Sigourn's Mod List is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 200 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
 
