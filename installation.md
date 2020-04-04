@@ -2,7 +2,7 @@
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
-Install Morrowind to a root directory (e.g. **C:\Games\Morrowind\**). This will save you headaches later on.
+Install Morrowind to a root directory (e.g. C:\Games\Morrowind\). This will save you headaches later on.
 
 Your **Data Files** folder contains your game’s data. If you followed my advice earlier, it should be found in C:\Games\Morrowind\Data Files\. 
 
@@ -100,80 +100,60 @@ Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe**
 
 ## HIGH QUALITY VANILLA TEXTURES
 
+This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures. I will mention two of them.
+
 For some reason, Morrowind uses textures that have undergone considerable compression. After some tweaking, I was able to make the game use textures that are much more defined and sharper, lacking the readily apparent compression artifacts of the vanilla textures. Some people take issue with the term "uncompressed" as these textures are compressed themselves, but issues aside, the difference [**can be very noticeable at times**](https://staticdelivery.nexusmods.com/mods/100/images/45551/45551-1522291196-1194635012.jpeg).
 
-[**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks. Install normally.
+- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks. Install normally.
 
-Installing these textures is entirely up to you. Needless to say, I use them myself. The best alternative, and one which many consider superior, is:
+Installing these textures is entirely up to you. Needless to say, I use them myself. However, thanks to the advancement of high resolution AI upscaling, there's a fantastic alternative available, and one which many consider superior.
 
-[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros. Install normally.
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros. Install normally.
 
 Remember, *use one or the other*, not both at once.
 
 ## BUG FIXES
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes. Install normally.
-
-[**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell. Install normally.
-
-[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones. Install normally.
-
-[**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead. Install normally.
-
-[**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion. Install normally.
-
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
+- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes. Install normally.
+- [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell. Install normally.
+- [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones. Install normally.
+- [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead. Install normally.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion. Install normally.
+- [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
 
 1. Install the **Glowing Flames** main file.
 2. Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 
-[**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
+- [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
 
 1. Install the **No More Stage Diving** main file.
 2. Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
 ## OPTIMIZATION
 
-[**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors.
-
-MO2 will install the mod as a BAIN package. Tick **Tick 00 Core**, **01 Fixed Vanilla Textures**, **02 Lake Fjalding Anti-Suck**, **03 MGE XE Addon**, and **04 Weapon Sheathing Patch**. Click **OK**.
-
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
-
-MO2 will install the mod as a BAIN package. Tick **00 Core**. Click **OK**.
-
-[**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
+- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
+- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. MO2 will install the mod as a BAIN package: tick **00 Core** and click **OK**.
+- [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
 ## EXPANSION IMPLEMENTATION
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
+- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## 
+## OFFICIAL PLUGINS
 
+Before you decide what you want to do about the official plugins, you need to know what each of them *do*:
 
-
-
-
-
-
-
-[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?): fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
-
-Many experienced modders agree the official add-ons are very poor mods, some with a questionable implementation to say the least. Luckily for you, some modders have taken to implement them in a more sensible way.
-
-With that in mind, these are the add-ons that haven'
-
-This is a good moment to decide which official add-ons you want to install:
-
-- **Helm of Tohan**: The Adamantium Helm of Tohan is a rare and powerful artifact lost in the Sheogorad Region. Travel north to Dagon Fel to find out more about this legendary helm.
-- **Entertainers**: Speak with Dulnea Ralaal in Balmora, Eight Plates on the topic "entertain the patrons". She will give you options to tell jokes, dance the high-kick, play the drum, play the lute and sing, or juggle.
-- **Bitter Coast Sounds**: Let the gentle chorus of swamp wildlife draw you further into the mire throughout the entire swampy region of the Bitter Coast. You'll find dragonfly creatures now inhabit the muck ponds along the coast.
-- **Area Effect Arrows**: Visit Aradraen the Fletcher in Vivec's Foreign Quarter Lower Waistworks for the world famous area effect arrows exclusive to her shop.
-- **Master Index**: This is a quest to find the ten propylon indices. In return for completing this quest, you will receive the Master Index, allowing you to travel to any propylon chamber, or return to the Caldera Mages Guild from any propylon chamber.
+- **Helm of Tohan**: the Adamantium Helm of Tohan is a rare and powerful artifact lost in the Sheogorad Region. Travel north to Dagon Fel to find out more about this legendary helm.
+- **Entertainers**: speak with Dulnea Ralaal in Balmora, Eight Plates on the topic "entertain the patrons". She will give you options to tell jokes, dance the high-kick, play the drum, play the lute and sing, or juggle.
+- **Bitter Coast Sounds**: let the gentle chorus of swamp wildlife draw you further into the mire throughout the entire swampy region of the Bitter Coast. You'll find dragonfly creatures now inhabit the muck ponds along the coast.
+- **Area Effect Arrows**: visit Aradraen the Fletcher in Vivec's Foreign Quarter Lower Waistworks for the world famous area effect arrows exclusive to her shop.
+- **Master Index**: this is a quest to find the ten propylon indices. In return for completing this quest, you will receive the Master Index, allowing you to travel to any propylon chamber, or return to the Caldera Mages Guild from any propylon chamber.
 - **LeFemm Armor**: LeFemm Armor, specially tailored for the ladies, is on sale at the Fighters Guild in Vivec, from Sirollus Saccus in Ebonheart, the Redoran Vaults, and the lady smiths in Ald-ruhn, Sadrith Mora, and Ald Velothi.
-- **Adamantium Armor**: A new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
-- **Siege at Firemoth**: The island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
+- **Adamantium Armor**: a new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
+- **Siege at Firemoth**: the island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
+
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?): fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
 
 1. Once you've made up your mind, and assuming you are interested in any of these plugins, download the **UMOPP 3.0.4** main file and install it.
-2. You will want to deactivate whatever plugins you are not interested in. Those of you who want ALL mods should deactivate all of them, as we can replace them all with a single plugin. *Mod Organizer 2 users* can hide unnecessary plugins by right clicking on the installed mod on the left window, clicking **Information...**, selecting the **Filetree** tab, right clicking on the plugins you want to hide, and selecting **Hide**.
+2. You will want to deactivate whatever plugins you are not interested in. Those of you who want ALL mods should deactivate all of them, as we can replace them all with a single plugin. **Mod Organizer 2 users** can hide unnecessary plugins by right clicking on the installed mod on the left window, clicking **Information...**, selecting the **Filetree** tab, right clicking on the plugins you want to hide, and selecting **Hide**.
 3. Those of you who have deactivated all plugins in preparation for the merged plugin, download the **Merged and Compatibility Versions** main file and install it. Mod Organizer 2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK*.
