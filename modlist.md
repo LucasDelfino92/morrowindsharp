@@ -38,3 +38,17 @@ The bad news is that because of the complexity of the guide, some modding experi
 
 Morrowind Improved is the sister mod list to Mended Morrowind, a short and sweet guide to ironing out many of Morrowind's bugs and optimization issues. My intention is that you use this mod list in tandem with Mended Morrowind.
 
+## INDEX
+
+- MWSE Fixes: basic Morrowind Script Extender set up and fixes that require it.
+- User Interface: mods that improve the functionality of Morrowind's user interface, as well as the game's low resolution fonts.
+- Content Restoration: mods that restore content cut from the final release.
+- Lore Consistency: mods that modify given aspects of the game to better match in-game information.
+- Visuals: mods that tweak certain textures, meshes, or add new visual effects into the game.
+- Audio: mods that tweak certain sound files, or add new sound effects into the game.
+- Overhauls: mods that make significant changes to how the game's set pieces, dungeons, towns, cities, buildings or environments look like.
+- Miscellaneous: mods that do not fit any of the above categories.
+- Equipment: mods that add new equipment into the game.
+- Gameplay: mods that modify certain gameplay aspects of the game without balance or new mechanics in mind.
+- Balance: mods that rebalance different aspects of the game.
+- Better Bodies: mods related to Better Bodies.
