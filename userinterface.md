@@ -13,10 +13,13 @@
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
 - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: adds global map markers to all dungeons on Vvardenfell and Solstheim.
+  - Only install the **Global Map Markers V1.3 - No TR version** main file.
 
 ## NOTES
 
-**Global Map Markers** is dirty and requires cleaning. Additionally, this plugin should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
+**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+
+**GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
 
 ## CONFLICT NOTES
 
