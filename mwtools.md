@@ -29,12 +29,12 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
 1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
 3. Click on **New Executable**, and input the following information:
-  - In **Title**, the name of the tool (for instance, MWEdit)
-  - In **Binary**, search for the location of the tool using the icon to the right (for instance, C:\Games\Morrowind\MWEdit\MWEdit.exe)
-  - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
-  - Leave the **Arguments** field empty.
-  - Tick **Use application's icon for desktop shortcuts**.
-  - Finally, click **Apply** and then **OK**.
+   1. In **Title**, the name of the tool (for instance, MWEdit)
+   2. In **Binary**, search for the location of the tool using the icon to the right (for instance, C:\Games\Morrowind\MWEdit\MWEdit.exe)
+   3. In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
+   4. Leave the **Arguments** field empty.
+   5. Tick **Use application's icon for desktop shortcuts**.
+   6. Finally, click **Apply** and then **OK**.
 4. Remember to repeat the same process for each of the tools mentioned above.
 
 When you click the executable drop-down menu next to the **Run** button in Mod Organizer 2, you should see the following executables:
