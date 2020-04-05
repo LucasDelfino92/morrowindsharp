@@ -44,6 +44,12 @@
 
 **true corprus.esp** is dirty and requires cleaning.
 
+**MW_Inconsistencies.esp** is dirty and requires cleaning.
+
+**HealersEdit.esp** is dirty and requires cleaning.
+
+**Talos Cult Revised.esp** is dirty and requires cleaning.
+
 **Talos Cult Revised - G93's Version** should not be used alongisde [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576).
 
 ## CONFLICT NOTES
