@@ -86,7 +86,7 @@
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files**, **1-Glow in the Dahrk Patch**, **1-White Suran Ground Textures**, and click **OK**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-# NOTES
+## NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
 
@@ -95,3 +95,23 @@
 ## CONFLICT NOTES
 
 None of the assets' in these mods conflict with one another.
+
+**correctUV Ore Replacer 1.0.esp** must load before **di.Still.ed_Lights.esp**
+
+**Folded in Port.esp** must load before **di.Still.ed_Lights.esp**
+
+**md_Forge of Hilbongard.esp** must load before **di.Still.ed_Lights.esp**
+
+**GITD_Telvanni_Dormers.esp** must load before **di.Still.ed_Lights.esp**
+
+**GITD_WL_RR_Interiors.esp** must load before **di.Still.ed_Lights.esp**
+
+**Nordic Chest Replacer.esp** must load before **di.Still.ed_Lights.esp**
+
+**Red Vos.esp** must load before **di.Still.ed_Lights.esp**
+
+**WhiteSuran2_MD_Edition.esp** must load before **di.Still.ed_Lights.esp**
+
+**Waterfalls Tweaks.esp** must load before **di.Still.ed_Lights.esp**
+
+**No Interior Blue Water Glow.esp** must load after **di.Still.ed_Lights.esp**
