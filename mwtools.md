@@ -93,7 +93,7 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as
 
 As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
 
-**TESTool**
+### TESTool
 
 TESTool is an older alternative to TES3Merge. However, its main purpose is its automatic cleaning ability.
 
