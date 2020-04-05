@@ -14,3 +14,7 @@
 ## NOTES
 
 **Bloated Caves** is dirty and requires cleaning.
+
+## CONFLICT NOTES
+
+None of these mods' assets or plugins conflict with one another.
