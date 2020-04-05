@@ -17,12 +17,12 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
-- Morrowind\MWEdit\**MWEdit.exe** and related files
-- Morrowind\TES3Merge\**TES3Merge.exe** and related files
-- Morrowind\TES3View\**TES3View.exe** and related files
-- Morrowind\TESAME\**TES Advanced Mod Editor.exe** and related files
-- Morrowind\TESPCD\**tespcdv031.exe** and related files
-- Morrowind\TESTool\**TESTool.exe** and related files
+- Morrowind\MWEdit\MWEdit.exe and related files
+- Morrowind\TES3Merge\TES3Merge.exe and related files
+- Morrowind\TES3View\TES3View.exe and related files
+- Morrowind\TESAME\TES Advanced Mod Editor.exe and related files
+- Morrowind\TESPCD\tespcdv031.exe and related files
+- Morrowind\TESTool\TESTool.exe and related files
 
 Now launch Mod Organizer 2. Note that the following process will have to be repeated for *each* of the tools we have listed in this section.
 
