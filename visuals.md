@@ -101,6 +101,14 @@ Choose between one of these two alternatives:
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
+## MGE XE MODS
+
+- [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291?) by multiple:
+- [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) by Piratelord:
+- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper:
+- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd:
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: 
+
 ## NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
