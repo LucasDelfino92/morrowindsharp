@@ -9,6 +9,7 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 - [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
 - [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
+- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins. **Note that unlike the other tools listed here, tes3cmd cannot be run through Mod Organizer 2**.
 
 ## SETTING UP TOOLS IN MOD ORGANIZER 2
 
@@ -94,7 +95,7 @@ As explained earlier, it is a good idea to move the cleaned plugin from the **Ov
 
 **TESTool**
 
-TESTool is an older alternative to TES3Merge. However, it's best funct
+TESTool is an older alternative to TES3Merge. However, its main purpose is its automatic cleaning ability.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
@@ -108,6 +109,8 @@ TESTool is an older alternative to TES3Merge. However, it's best funct
 - With Clean ESP/ESM files still selected, click **Execute**.
 - Once the process is finished, two things will happen: cleaned plugins will be generated in your **Overwrite** folder, and a log will be generated in your **Morrowind\TESTool** folder, called TESTool.log.
 
-# CLEANING PLUGINS
+As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
 
-- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins.
+**tes3cmd**
+
+
