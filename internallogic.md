@@ -58,5 +58,6 @@ None of these mods' assets conflict with one another.
 4. Hit the **Delete** key. 
 5. Save as **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**. Close TESAME.
 6. Hide/deactivate the original **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
+7. Drag **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** from the **Overwrite** folder into the mod's installation folder.
 
 None of these mods' plugins will conflict with one another anymore.
