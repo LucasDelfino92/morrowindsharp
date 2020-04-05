@@ -9,9 +9,21 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 - [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
 - [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
-- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins. **Note that unlike the other tools listed here, tes3cmd cannot be run through Mod Organizer 2**.
+- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins.
 
 ## SETTING UP TOOLS IN MOD ORGANIZER 2
+
+### tes3cmd
+
+Unlike the other tools listed above, tes3cmd *should not* be run through Mod Organizer 2. It can be a major pain in the ass, and we do not want that.
+
+- After downloading **tes3cmd**, place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+- Rename the resulting .txt file **Tes3cmd clean fancy2.bat**, modifying the file extension from .txt to .bat.
+
+**tes3cmd** is now set and ready to go.
+
+### Standard executables
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
@@ -33,7 +45,7 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
    6. Finally, click **Apply** and then **OK**.
 4. Repeat the same process for each of the tools mentioned above.
 
-Once you are finished installing all tools and registering them in MO2, you should see the following list of executables when you click the executable drop-down menu next to the **Run** button:
+You should see the following list of executables when you click the executable drop-down menu next to the **Run** button:
 
 - **Morrowind** (automatically detected by MO2)
 - **Morrowind Launcher** (automatically detected by MO2)
@@ -45,9 +57,11 @@ Once you are finished installing all tools and registering them in MO2, you shou
 - **TESAME**
 - **TESTool**
 
-## USING TOOLS IN MOD ORGANIZER 2
+We have finished installing all tools and registering them in MO2.
 
-Now all tools are properly installed and registered. But is that it? There are more quirks about MO2 we need to talk about, in particular the **Overwrite** folder and how it ties together with these tools.
+## THE OVERWRITE FOLDER
+
+Now that we have finished our installation, there is one more quirk about MO2 we need to talk about, and that is the **Overwrite** folder and how it ties together with these tools.
 
 The **Overwrite** folder is the destiny folder for the output of many of these tools, for instance:
 
@@ -58,8 +72,6 @@ The **Overwrite** folder is the destiny folder for the output of many of these t
 - TESAME will place its cleaned (edited) plugins here.
 
 Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names. What you can do, however, is make the files in the **Ovewrite** folder into separate "mods", or even drag and drop the files into existing mods you have installed.
-
-So for instance, let's say you [**follow these instructions**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md#conflict-notes) in order to make two mods compatible. You will now have an extra plugin in your **Overwrite** folder, which is working as a substitute for the original plugin which is rendered useless. You can then drag and drop the edited plugin from the **Ovewrite** folder into the mod's installation folder.
 
 You shouldn't do this indiscriminately though. By following my mod list, from time to time you will come across plugins that need to be edited for compatibility. Hopefully that way you will learn the habit of keeping a clean **Overwrite** folder.
 
