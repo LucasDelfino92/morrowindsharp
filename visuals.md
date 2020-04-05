@@ -86,6 +86,15 @@
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files**, **1-Glow in the Dahrk Patch**, **1-White Suran Ground Textures**, and click **OK**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
+## CHOOSE YOUR OWN MOD
+
+Choose between one of these two alternatives:
+
+- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis:  makes road signs legible. Uses vanilla background and resolution.
+  - MO2 will install this mod as a BAIN package. Tick *00 Core*, **01 Vvardenfell only**, and click **OK**.
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
+  - Install only one of the main files.
+
 ## NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
