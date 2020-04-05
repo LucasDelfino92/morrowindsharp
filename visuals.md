@@ -54,6 +54,12 @@
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and **1-Glow in the Dahrk Patch** and click **OK**.
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
+- [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685?) by Melchior Dahrk and Resdayn Revival Team: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
+  - Only install the **Main file for English version** main file.
+  - This mod includes a .BSA file which you will have to register.
+    1. In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
+    2. On the morrowind.ini that just opened, use CTRL+F and search for **[Archives]**.
+    3. Input **Archive 2=RR_Melchior's_Mudcrab_Merchant.bsa** below **Archive 1=Bloodmoon.bsa*. Click **Save**, and close the window.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
 - [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) by PoodleSandwich: retexture of Lougian's **Scum Retexture**.
