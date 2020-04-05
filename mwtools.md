@@ -123,6 +123,22 @@ TESTool is an older alternative to TES3Merge. However, its main purpose to us is
 
 As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
 
-### tes3cmd
+### Tes3cmd clean fancy2.bat
 
+Like TESTool, tes3cmd is used for cleaning mods. How it works is as follows.
 
+- Copy and paste the plugin you want to clean into **Morrowind\Data Files** and drop it into **Tes3cmd clean fancy2.bat**.
+- One of two things will happen:
+  1. The mod will be cleaned, and a .tmp file will be generated, as well as a log. You can delete the original .esp, and **rename the .tmp file** to remove the .tmp extension. It will now be your cleaned plugin.
+  2. The mod will not be cleaned, and a log will be generated.
+  
+Once the plugin is cleaned, you have two options, entirely up to you:
+
+- Make the plugin a .zip file and install it through MO2, overwriting the original, unclean plugin.
+- Drag and drop the cleaned plugin into its MO2 installation folder, found in **Mod Organizer 2\mods** (paste into the appropiate mod folder, overwriting when asked).
+
+I personally prefer method one, but like I said, it is entirely up to you.
+
+## A NOTE ON MOD CLEANING
+
+We have seen three different tools used to clean mods. But of particular importance are **TESTool** and **tes3cmd**. You may have asked yourself why do I list two mods that achieve the same effect. The truth is what one tool misses, the other tool gets, and viceversa. Both tools should be used when cleaning mods. We want to make sure the mods we install are squeaky clean.
