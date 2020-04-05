@@ -95,7 +95,7 @@ As explained earlier, it is a good idea to move the cleaned plugin from the **Ov
 
 ### TESTool
 
-TESTool is an older alternative to TES3Merge. However, its main purpose is its automatic cleaning ability.
+TESTool is an older alternative to TES3Merge. However, its main purpose to us is its automatic cleaning ability.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
