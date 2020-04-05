@@ -113,7 +113,9 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 ## NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
+
 **GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
+
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
