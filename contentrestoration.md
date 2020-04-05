@@ -15,6 +15,7 @@
 ## NOTES
 
 **Bloated Caves.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
