@@ -87,7 +87,6 @@
   - This mod is incorrectly packaged. Set **Data Files** as the proper **Data** directory in MO2.
 - [**Well Diversified**](http://mw.modhistory.com/download-46-15575) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
-- [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella: replaces Travel Lanterns with models that look like bright lights. Does not change the light's illumination.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files**, **1-Glow in the Dahrk Patch**, **1-White Suran Ground Textures**, and click **OK**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
