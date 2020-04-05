@@ -15,3 +15,7 @@
 ## NOTES
 
 **Global Map Markers** is dirty and requires cleaning. Additionally, this plugin should be loaded at the end of your load order.
+
+## CONFLICT NOTES
+
+None of these mods' assets or plugins conflict with one another.
