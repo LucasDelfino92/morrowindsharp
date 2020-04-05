@@ -233,10 +233,10 @@ Your installed mods are listed on the pane to the left. Remember that Tribunal a
 - Correct UV Rocks
 - FMI - Current Councilors
 - FMI - Legion Dialogue
-- Glowing Flames
 - No More Stage Diving - Desele's Dancing Girls
 - ***ALL mods that deal with the official plugins should be loaded here, before Morrowind Optimization Patch***
 - Morrowind Optimization Patch
+- Glowing Flames
 - Project Atlas
 - Atlased Silt Strider
 - Expansion Delay
