@@ -59,7 +59,7 @@
   - This mod includes a .BSA file which you will have to register.
     1. In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
     2. On the morrowind.ini that just opened, use CTRL+F and search for **[Archives]**.
-    3. Input **Archive 2=RR_Melchior's_Mudcrab_Merchant.bsa** below **Archive 1=Bloodmoon.bsa*. Click **Save**, and close the window.
+    3. Input **Archive 2=RR_Melchior's_Mudcrab_Merchant.bsa** below **Archive 1=Bloodmoon.bsa**. Click **Save**, and close the window.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
 - [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) by PoodleSandwich: retexture of Lougian's **Scum Retexture**.
