@@ -18,6 +18,7 @@
 ## NOTES
 
 **GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
 
