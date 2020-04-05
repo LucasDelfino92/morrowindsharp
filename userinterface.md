@@ -2,7 +2,7 @@
 
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
-  - This mod is incorrectly packaged. Place **daedric_font.fnt** and **daedric_font_obw.text** inside your Data Files\Fonts\ folder.
+  - This mod is incorrectly packaged. Place **daedric_font.fnt** and **daedric_font_obw.text** inside your **Data Files\Fonts** folder.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat: adds a continue button to the main menu to instantly load your most recent save.
