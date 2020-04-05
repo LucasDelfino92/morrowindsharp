@@ -4,6 +4,7 @@ Many Morrowind tools have been made available over the years. Their purpose vari
 
 Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. Before adding them to Mod Organizer 2, however, we need to download them.
 
+- [**TESPCD**](https://en.uesp.net/wiki/Tes3Mod:TES_Plugin_Conflict_Detector): TES Plugin Conflict Detector is primarily used for detecting and dealing with mod conflicts, but also has powerful global search abilities which can be used across multiple mods.
 - [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
 - [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
 - [**MWEdit**](http://wiki.theassimilationlab.com/mmw/MWEdit): MWEdit is an unofficial incomplete alternate editor for Morrowind plugin files (ESPs and ESMs). It allows creating, editing and deleting records in a plugin file and has different and extra features compared to the Construction Set.
