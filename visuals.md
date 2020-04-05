@@ -111,3 +111,17 @@ The following plugins must load BEFORE **di.Still.ed_Lights.esp** for the mod's 
 The following plugin must load BEFORE **No Interior Blue Water Glow.esp** for the mod's lighting tweaks to work correctly:
 
 - **di.Still.ed_Lights.esp**
+
+Example load order:
+
+- **correctUV Ore Replacer 1.0.esp**
+- **Folded in Port.esp**
+- **md_Forge of Hilbongard.esp**
+- **GITD_Telvanni_Dormers.esp**
+- **GITD_WL_RR_Interiors.esp**
+- **Nordic Chest Replacer.esp**
+- **Red Vos.esp**
+- **WhiteSuran2_MD_Edition.esp**
+- **Waterfalls Tweaks.esp**
+- **di.Still.ed_Lights.esp**
+- **No Interior Blue Water Glow.esp**
