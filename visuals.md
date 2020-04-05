@@ -116,6 +116,8 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 **GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
 
+**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
+
 ## CONFLICT NOTES
 
 The following mod must load BEFORE **Glow in the Dahrk** for the mod to function correctly.
