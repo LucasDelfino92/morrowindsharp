@@ -54,8 +54,8 @@ The **Overwrite** folder is the destiny folder for the output of many of these t
 - Distant Land generation will place its contents here.
 - MWSE will place its mod configuration files here.
 - TES3Merge will place its Merged Objects.esp here.
-- TESTool will place its Merged_Objects.esp here.
-- TESAME will place its Cleaned_ .esps here.
+- TESTool will place its cleaned plugins here.
+- TESAME will place its cleaned (edited) plugins here.
 
 Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names. What you can do, however, is make the files in the **Ovewrite** folder into separate "mods", or even drag and drop the files into existing mods you have installed.
 
@@ -65,11 +65,11 @@ You shouldn't do this indiscriminately though. By following my mod list, from ti
 
 ## A QUICK RUNDOWN OF EACH TOOL
 
-**TES3Merge**
+### TES3Merge
 
 When launching TES3Merge in MO2, the tool will merge the objects in your active plugins in order to reduce conflicts. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like.
 
-**TES3View**
+### TES3View
 
 TES3View and TES3Merge are great companion tools, as you can see how many conflicts TES3Merge's **Merged Objects.esp** solves, and how many conflicts are still unresolved. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
@@ -79,7 +79,7 @@ TES3View and TES3Merge are great companion tools, as you can see how many confli
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-**TESAME**
+### TESAME
 
 TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as to merge plugins. I personally use it only to delete unwanted records from a mod, which is what I'll explain how to do. Just like it was for TES3Merge, TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
 
@@ -111,6 +111,6 @@ TESTool is an older alternative to TES3Merge. However, its main purpose is its a
 
 As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
 
-**tes3cmd**
+### tes3cmd
 
 
