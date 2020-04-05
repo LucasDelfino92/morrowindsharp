@@ -22,7 +22,7 @@
   - MO2 will install the mod a a BAIN package. Tick **00 Core**, **01 Hi Res Window Texture Replacer**, **02 Interior Sunrays**, **03 Nord Glass Windows Interior Sunrays**, **04 Telvanni Dormers on Vvardenfell**, **05 Raven Rock Glass Windows Interior Sunrays**, and click **OK**.
 - [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **\meshes\r** folder.
+  - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model. 
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
