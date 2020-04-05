@@ -94,7 +94,7 @@ As explained earlier, it is a good idea to move the cleaned plugin from the **Ov
 
 **TESTool**
 
-TESTool is an older alternative to TES3Merge. Just like TES3Merge, you can use it to merge the objects in your active plugins in order to reduce conflicts. Additionally, it can be used to clean plugins. These are its two recommended functions.
+TESTool is an older alternative to TES3Merge. However, it's best funct
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
