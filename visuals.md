@@ -8,7 +8,7 @@
 - [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) by Trainwiz: replaces bound weaponry with an effect similar to Skyrim's.
 - [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
-  - This mod is incorrectly packaged. Set the proper **Data** directory in Mod Organizer 2.
+  - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
@@ -48,19 +48,22 @@
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
-- [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
-  - Only install the **Alternative 1** main file.
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
+- [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
+  - Only install the **Alternative 1** main file.
+- [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) by PoodleSandwich: retexture of Lougian's **Scum Retexture**.
+- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
+- [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
+- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
+- [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277) by R-Zero: makes Bloodmoon Draugrs look a bit more like their Skyrim counterparts by changing their eye glow color from red to light blue.
+- [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) by Leyawynn: makes rats smaller.
+  - Only install the **Smaller Rats Tribunal** main file.
+- [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) by Saint_Jiub: remodel and retexture of the Ancient Steel Armor set found in Bloodmoon, inspired by the Skyrim Dawnguard DLC.
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
+- [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
+  - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
+  - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
 - [****]()
 - [****]()
 - [****]()
