@@ -12,7 +12,8 @@
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich: stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong Council Club, so long as the Camonna Tong thugs are still hanging around. 
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich: fixes inconsistencies between where ingredients are said to be found, and where they are actually found.
-- [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game. **Install both main files.**
+- [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
+  - Install both main files.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich: NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich: not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
 - [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) by PoodleSandwich: fixes typos and grammatical errors in "Note from the Archcanon", including creating correct gender version for female player characters. 
@@ -36,7 +37,8 @@
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk: makes Hackle-lo leaves thicker as described in-game ("succulent").
-- [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion. **Hide/deactivate True_Scourge_zerosouls.esp.**
+- [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
+  - Hide/deactivate **True_Scourge_zerosouls.esp.**
 
 ## NOTES
 
