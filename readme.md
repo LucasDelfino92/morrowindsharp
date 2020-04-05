@@ -40,4 +40,3 @@ The bad news is that because of the complexity of the guide, some modding experi
 - [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of the user interface.
 - [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of the game.
 - [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve on deficient aspects of the game's lore and overall internal logic or consistency.
-- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that improve on the visual aspects of Morrowind, either by making texture or mesh tweaks, or adding new effects altogether.
