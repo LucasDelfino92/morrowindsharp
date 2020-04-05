@@ -9,6 +9,7 @@
 - [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
+- [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
@@ -23,7 +24,9 @@
 - [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
-- [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model. 
+- [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
+- [**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: small mods that don't warrant their own page on Nexus.
+  - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/deactivate **Hopesfire Torch.esp.** 
@@ -48,6 +51,7 @@
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
+  - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and **1-Glow in the Dahrk Patch** and click **OK**.
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
@@ -64,25 +68,30 @@
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
   - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
-- [****]()
+- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood. Also adds a new Spriggan variant: the Twiggan, a forest spirit which takes on a more masculine form.
+  - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
+- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe: replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+  - This mod is incorrectly packaged. Set **faint** as the proper **Data** directory in MO2.
+- [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) by Matilija: makes the water flowing around the Vivec Temple look better when compared toh MGE's phenomenal 3D water.
+- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
+- [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
+- [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+  - Only install the **WeaponSheathing 1.6-MWSE** main file.
+  - This mod is incorrectly packaged. Set **Data Files** as the proper **Data** directory in MO2.
+- [**Well Diversified**](http://mw.modhistory.com/download-46-15575) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+  - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
+- [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella: replaces Travel Lanterns with models that look like bright lights. Does not change the light's illumination.
+- [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
+  - MO2 will install this mod as a BAIN package. Tick **0-Data Files**, **1-Glow in the Dahrk Patch**, **1-White Suran Ground Textures**, and click **OK**.
+- [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 # NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
 
 **GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
+
+## CONFLICT NOTES
+
+None of the assets' in these mods conflict with one another.
