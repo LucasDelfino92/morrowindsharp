@@ -119,7 +119,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - Clean with TESTool and tes3cmd.
 
 **Nordic Chest Replacer.esp** is dirty and requires cleaning.
-- Open the file in TESAME and delete **Cell - Solstheim, Bloodskal Barrow**.
+- Delete **Cell - Solstheim, Bloodskal Barrow** in TESAME.
 
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
