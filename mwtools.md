@@ -15,3 +15,38 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 ## SETTING UP TOOLS IN MOD ORGANIZER 2
 
+In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
+
+- Morrowind\MWEdit\**MWEdit.exe** and related files
+- Morrowind\TES3Merge\**TES3Merge.exe** and related files
+- Morrowind\TES3View\**TES3View.exe** and related files
+- Morrowind\TESAME\**TES Advanced Mod Editor.exe** and related files
+- Morrowind\TESPCD\**tespcdv031.exe** and related files
+- Morrowind\TESTool\**TESTool.exe** and related files
+
+Now launch Mod Organizer 2. Note that the following process will have to be repeated for *each* of the tools we have listed in this section.
+
+1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+3. Click on **New Executable**, and input the following information:
+  - In **Title**, the name of the tool (for instance, MWEdit)
+  - In **Binary**, search for the location of the tool using the icon to the right (for instance, C:\Games\Morrowind\MWEdit\MWEdit.exe)
+  - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
+  - Leave the **Arguments** field empty.
+  - Tick **Use application's icon for desktop shortcuts**.
+  - Finally, click **Apply** and then **OK**.
+4. Remember to repeat the same process for each of the tools mentioned above.
+
+When you click the executable drop-down menu next to the **Run** button in Mod Organizer 2, you should see the following executables:
+
+- **Morrowind**: launches Morrowind.
+- **Morrowind Launcher**: launches the Morrowind launcher. Between MGE XE and Mod Organizer 2, you don't need it any longer.
+- **Explore Virtual Folder**: let's you explore your virtual file system.
+- **MGE XE**: launches the Morrowind Graphics Extender XE. It is automatically detected by MO2.
+- **Construction Set**: launches the Construction Set. It is automatically detected by MO2.
+- **MWEdit**
+- **TES3Merge**
+- **TES3View**
+- **TESAME**
+- **TESPCD**
+- **TESTool**
