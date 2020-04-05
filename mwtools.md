@@ -4,23 +4,19 @@ Many Morrowind tools have been made available over the years. Their purpose vari
 
 Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. Before adding them to Mod Organizer 2, however, we need to download them.
 
-- [**TESPCD**](https://en.uesp.net/wiki/Tes3Mod:TES_Plugin_Conflict_Detector): TES Plugin Conflict Detector is primarily used for detecting and dealing with mod conflicts, but also has powerful global search abilities which can be used across multiple mods.
-- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
-- [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
-- [**MWEdit**](http://wiki.theassimilationlab.com/mmw/MWEdit): MWEdit is an unofficial incomplete alternate editor for Morrowind plugin files (ESPs and ESMs). It allows creating, editing and deleting records in a plugin file and has different and extra features compared to the Construction Set.
+- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): this tool helps to automatically patch conflicts between mods for The Elder Scrolls III: Morrowind.
 - [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file): TES3View is an advanced graphical module viewer and conflict detector for Morrowind, created by ElminsterAU and the xEdit Team. 
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): this tool helps to automatically patch conflicts between mods for The Elder Scrolls III: Morrowind.
+- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
+- [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
 
 ## SETTING UP TOOLS IN MOD ORGANIZER 2
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
-- Morrowind\MWEdit\MWEdit.exe and related files
 - Morrowind\TES3Merge\TES3Merge.exe and related files
 - Morrowind\TES3View\TES3View.exe and related files
 - Morrowind\TESAME\TES Advanced Mod Editor.exe and related files
-- Morrowind\TESPCD\tespcdv031.exe and related files
 - Morrowind\TESTool\TESTool.exe and related files
 
 Now launch Mod Organizer 2. Note that the following process will have to be repeated for *each* of the tools we have listed in this section.
@@ -28,8 +24,8 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
 1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
 3. Click on **New Executable**, and input the following information:
-   1. In **Title**, the name of the tool (for instance, MWEdit)
-   2. In **Binary**, search for the location of the tool using the icon to the right (for instance, C:\Games\Morrowind\MWEdit\MWEdit.exe)
+   1. In **Title**, the name of the tool (for instance, TES3Merge)
+   2. In **Binary**, search for the location of the tool using the icon to the right (for instance, C:\Games\Morrowind\TES3Merge\TES3Merge.exe)
    3. In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
    4. Leave the **Arguments** field empty.
    5. Tick **Use application's icon for desktop shortcuts**.
@@ -43,11 +39,9 @@ Once you are finished installing all tools and registering them in MO2, you shou
 - **Explore Virtual Folder** (MO2 utility)
 - **MGE XE** (automatically detected by MO2)
 - **Construction Set** (automatically detected by MO2)
-- **MWEdit**
 - **TES3Merge**
 - **TES3View**
 - **TESAME**
-- **TESPCD**
 - **TESTool**
 
 ## USING TOOLS IN MOD ORGANIZER 2
@@ -70,24 +64,49 @@ You shouldn't do this indiscriminately though. By following my mod list, from ti
 
 ## A QUICK RUNDOWN OF EACH TOOL
 
-**MWEdit**
-1. Launch MWEdit in MO2.
-2. Go to File -> Open...
-3. Similarly to the Construction Set, this tool lets you open different plugins in order to edit them.
-
 **TES3Merge**
-1. When launching TES3Merge in MO2, the tool will merge the objects in your active plugins in order to reduce conflicts. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like.
+
+When launching TES3Merge in MO2, the tool will merge the objects in your active plugins in order to reduce conflicts. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like.
 
 **TES3View**
-1. Launch TES3Merge in MO2.
-2. Right click on any plugin, and click **Select all**. Click **OK**.
+
+TES3View and TES3Merge are great companion tools, as you can see how many conflicts TES3Merge's **Merged Objects.esp** solves, and how many conflicts are still unresolved. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
+
+- Launch TES3View in MO2.
+- Right click on any plugin, and click **Select all**. Click **OK**.
 - Once TES3View has finished loading all your plugins, you can expand them and their individual records to see what a mod changes compared to the master files (Morrowind.esm, Tribunal.esm, Bloodmoon.esm) and other loaded plugins.
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
-- TES3View and TES3Merge are great companion tools, as you can see how many conflicts TES3Merge's **Merged Objects.esp** solves, and how many conflicts are still unresolved. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
+- Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-- **TESAME**
-- **TESPCD**
-- **TESTool**
+**TESAME**
+
+TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as to merge plugins. I personally use it only to delete unwanted records from a mod, which is what I'll explain how to do. Just like it was for TES3Merge, TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
+
+- Launch TESAME in MO2.
+- Go to **Mods -> Open ..**
+- Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
+- Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
+- Now press **Delete**, and the records will be gone.
+- Go to **Mods -> Save as ..**
+- Save the edited plugin with the default name given with TESAME (which is "Clean" + the original plugin name).
+
+As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
+
+**TESTool**
+
+TESTool is an older alternative to TES3Merge. Just like TES3Merge, you can use it to merge the objects in your active plugins in order to reduce conflicts. Additionally, it can be used to clean plugins. These are its two recommended functions.
+
+- Launch TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- **Merge Objects for active plugins** will generate a Merged_Objects.esp, similar to TES3Merge's Merged Objects.esp. It will be placed in your **Overwrite** folder, and you shouldn't move it away from there.
+- Select **Clean ESP/ESM files** and click **Execute**.
+- A pop-up will ask you if you want to visit the Options dialog. Click **Yes**.
+- Activate "Ignore tribunal.esm" and "Ignore bloodmoon.esm". Click **Done**.
+- With Clean ESP/ESM files still selected, click **Execute**.
+- Browse for your **Morrowind\Data Files** folder, and select all plugins you want to clean. **In order to avoid potential issues, avoid cleaning any .esm file.**
+- Activate "Ignore tribunal.esm" and "Ignore bloodmoon.esm". Click **Done**.
+- With Clean ESP/ESM files still selected, click **Execute**.
+- Once the process is finished, two things will happen: cleaned plugins will be generated in your **Overwrite** folder, and a log will be generated in your **Morrowind\TESTool** folder, called TESTool.log.
 
 # CLEANING PLUGINS
 
