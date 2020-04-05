@@ -39,11 +39,11 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
 
 When you click the executable drop-down menu next to the **Run** button in Mod Organizer 2, you should see the following executables:
 
-- **Morrowind**: launches Morrowind.
-- **Morrowind Launcher**: launches the Morrowind launcher. Between MGE XE and Mod Organizer 2, you don't need it any longer.
+- **Morrowind** (automatically detected by MO2)
+- **Morrowind Launcher** (automatically detected by MO2)
 - **Explore Virtual Folder**: let's you explore your virtual file system.
-- **MGE XE**: launches the Morrowind Graphics Extender XE. It is automatically detected by MO2.
-- **Construction Set**: launches the Construction Set. It is automatically detected by MO2.
+- **MGE XE** (automatically detected by MO2)
+- **Construction Set** (automatically detected by MO2)
 - **MWEdit**
 - **TES3Merge**
 - **TES3View**
