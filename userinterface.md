@@ -14,7 +14,7 @@
 
 ## NOTES
 
-**Global Map Markers** is dirty and requires cleaning. Additionally, this plugin should be loaded at the end of your load order, as changes done by other mods can override the Cells name edits of this mod.
+**Global Map Markers** is dirty and requires cleaning. Additionally, this plugin should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
 
 ## CONFLICT NOTES
 
