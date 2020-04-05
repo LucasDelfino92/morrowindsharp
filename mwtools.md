@@ -41,7 +41,7 @@ When you click the executable drop-down menu next to the **Run** button in Mod O
 
 - **Morrowind** (automatically detected by MO2)
 - **Morrowind Launcher** (automatically detected by MO2)
-- **Explore Virtual Folder**: let's you explore your virtual file system.
+- **Explore Virtual Folder** (MO2 utility)
 - **MGE XE** (automatically detected by MO2)
 - **Construction Set** (automatically detected by MO2)
 - **MWEdit**
@@ -50,3 +50,5 @@ When you click the executable drop-down menu next to the **Run** button in Mod O
 - **TESAME**
 - **TESPCD**
 - **TESTool**
+
+## USING TOOLS IN MOD ORGANIZER 2
