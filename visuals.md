@@ -103,11 +103,13 @@ Choose between one of these two alternatives:
 
 ## MGE XE MODS
 
-- [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291?) by multiple:
-- [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) by Piratelord:
-- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper:
-- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd:
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: 
+The following mods require specific MGE XE install instructions. Read the mod pages carefully.
+
+- [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291?) by multiple: removes flicker effect from all light sources except fire flames, rationalizes every light emittance in the game, and darkens interiors.
+- [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) by Piratelord: makes lights visible in the distance with MGE XE. Best used with mods that make night dark. See those towns, villages, hamlets, camps from far away.
+- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
+- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
 
 ## NOTES
 
@@ -117,7 +119,9 @@ Choose between one of these two alternatives:
 
 ## CONFLICT NOTES
 
-None of the assets' in these mods conflict with one another.
+The following mod must load BEFORE **Glow in the Dahrk** for the mod to function correctly.
+
+- **Distant Lights**
 
 The following plugins must load BEFORE **di.Still.ed_Lights.esp** for the mod's lighting tweaks to work correctly:
 
