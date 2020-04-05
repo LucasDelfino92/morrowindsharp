@@ -96,22 +96,18 @@
 
 None of the assets' in these mods conflict with one another.
 
-**correctUV Ore Replacer 1.0.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
+The following plugins must load BEFORE **di.Still.ed_Lights.esp** for the mod's lighting tweaks to work correctly:
 
-**Folded in Port.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
+- **correctUV Ore Replacer 1.0.esp**
+- **Folded in Port.esp**
+- **md_Forge of Hilbongard.esp**
+- **GITD_Telvanni_Dormers.esp**
+- **GITD_WL_RR_Interiors.esp**
+- **Nordic Chest Replacer.esp**
+- **Red Vos.esp**
+- **WhiteSuran2_MD_Edition.esp**
+- **Waterfalls Tweaks.esp**
 
-**md_Forge of Hilbongard.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
+The following plugin must load BEFORE **No Interior Blue Water Glow.esp** for the mod's lighting tweaks to work correctly:
 
-**GITD_Telvanni_Dormers.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**GITD_WL_RR_Interiors.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**Nordic Chest Replacer.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**Red Vos.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**WhiteSuran2_MD_Edition.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**Waterfalls Tweaks.esp** must load before **di.Still.ed_Lights.esp** for its lighting tweaks to take effects.
-
-**di.Still.ed_Lights.esp** must load before **No Interior Blue Water Glow.esp** for its lighting tweaks to take effects.
+- **di.Still.ed_Lights.esp**
