@@ -114,11 +114,14 @@ TESTool is an older alternative to TES3Merge. However, its main purpose to us is
 - **Merge Objects for active plugins** will generate a Merged_Objects.esp, similar to TES3Merge's Merged Objects.esp. It will be placed in your **Overwrite** folder, and you shouldn't move it away from there.
 - Select **Clean ESP/ESM files** and click **Execute**.
 - A pop-up will ask you if you want to visit the Options dialog. Click **Yes**.
-- Activate "Ignore tribunal.esm" and "Ignore bloodmoon.esm". Click **Done**.
+- Make sure the following options are active:
+  - Ignore tribunal.esm
+  - Ignore bloodmoon.esm
+  - Restricted dialog cleaning
+  - Restricted cell cleaning
+- Click **Done**.
 - With Clean ESP/ESM files still selected, click **Execute**.
 - Browse for your **Morrowind\Data Files** folder, and select all plugins you want to clean. **In order to avoid potential issues, avoid cleaning any .esm file.**
-- Activate "Ignore tribunal.esm" and "Ignore bloodmoon.esm". Click **Done**.
-- With Clean ESP/ESM files still selected, click **Execute**.
 - Once the process is finished, two things will happen: cleaned plugins will be generated in your **Overwrite** folder, and a log will be generated in your **Morrowind\TESTool** folder, called TESTool.log.
 
 As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
