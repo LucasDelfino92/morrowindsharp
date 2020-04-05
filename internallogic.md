@@ -46,7 +46,7 @@
 
 ## CONFLICT NOTES
 
-None of these mods' assets conflict with each other.
+None of these mods' assets conflict with one another.
 
 **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** will conflict with **Severa Magia DB fix**, as they both edit the NPC Severa Magia.
 
@@ -57,4 +57,4 @@ None of these mods' assets conflict with each other.
 5. Save as **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**. Close TESAME.
 6. Hide/deactivate the original **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
 
-None of these mods' plugins will conflict with each other anymore.
+None of these mods' plugins will conflict with one another anymore.
