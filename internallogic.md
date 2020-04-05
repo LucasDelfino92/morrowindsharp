@@ -30,6 +30,7 @@
 - [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93: as Asciene Rene's dialogue suggests, you won't be allowed to travel to Mournhold if you have a disease now. 
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero: there are several mentions of a fishing village at the site of Ald Redaynia in both in-game dialogue and books. This mod adds the missing village of Ald Redaynia. 
 - [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93: if you are a Redoran, you can rent a room at the Flowers of Gold in Vivec for free, as the dialogue suggests.
+- [**Severa Magia DB fix**](https://www.nexusmods.com/morrowind/mods/45647?) by Corsair83: updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary. 
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
@@ -42,3 +43,16 @@
 **Corprus Fix** is dirty and requires cleaning.
 
 **Talos Cult Revised - G93's Version** should not be used alongisde [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576).
+
+## CONFLICT NOTES
+
+None of these mods' assets conflict with each other.
+
+**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** will conflict **Severa Magia DB fix**, as they both edit the NPC Severa Magia.
+
+1. Launch **TESAME**.
+2. Open **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
+3. Right click the NPC record **severa magia**. It should turn black.
+4. Hit the **Delete** key. 
+5. Save as **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**. Close TESAME.
+6. Hide/deactivate the original **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
