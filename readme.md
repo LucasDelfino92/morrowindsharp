@@ -30,6 +30,17 @@ Notable mod categories which are absent from this list are:
 - [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods I didn't know where else to fit, but which are great mods on their own anyhow.
 - [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
 
+### BASIC INSTALLATION PROCEDURES
+
+Every module listed above can be installed independently from each other. All modules, however, will provide specific install instructions for compatibility with the other mods (like installing compatibility patches). These, however, are very obvious and I leave it to your judgement to know when you should or shouldn't install a certain compatibility patch.
+
+You will also notice many times I leave no installation instructions whatsoever. This means two things:
+
+1. That you should only install the main file (if the mod is hosted on Nexus).
+2. That the installation is straightforward.
+
+Last but not least: these modules are meant to be installed in that order. I've listed the mods in alphabetical order within each module, but specific instructions may be present below under **CONFLICT NOTES** when the default alphabetical installation order may mess with some mods.
+
 ## A WORD OF ADVICE
 
 Every single mod present in this guide is a mod I use or, in very few exceptions, a mod that is an alternative to a mod I'm using. Absent from this guide are mods I do not use, for a simple reason: if I'm not using it, it is because...
