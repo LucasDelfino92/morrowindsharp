@@ -31,18 +31,25 @@
 ## NOTES
 
 **Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **All Meteorite Ministry plugins** are dirty and require cleaning.
+- Clean with TESTool and tes3cmd.
 
 **No-Frills Open Vivec v1.1.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **Passage of Prayers - Full.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **RR_Ghost_Gate_Fortress_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 **RR_Holamayan_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
