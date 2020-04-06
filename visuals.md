@@ -163,16 +163,4 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 Load **Distant Lights** before **Glow in the Dahrk**.
 
-Load **di.Still.ed_Lights.esp** after the following plugins:
-
-- **correctUV Ore Replacer 1.0.esp**
-- **Folded in Port.esp**
-- **md_Forge of Hilbongard.esp**
-- **GITD_Telvanni_Dormers.esp**
-- **GITD_WL_RR_Interiors.esp**
-- **Nordic Chest Replacer.esp**
-- **Red Vos.esp**
-- **WhiteSuran2_MD_Edition.esp**
-- **Waterfalls Tweaks.esp**
-
-Load **No Interior Blue Water Glow.esp** after **di.Still.ed_Lights.esp**.
+Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order.
