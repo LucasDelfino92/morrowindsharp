@@ -157,27 +157,13 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 ## CONFLICT NOTES
 
-The following mod must load BEFORE **Glow in the Dahrk** for the mod to function correctly.
+**Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
 
-- **Distant Lights**
+**Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
 
-The following plugins must load BEFORE **di.Still.ed_Lights.esp** for the mod's lighting tweaks to work correctly:
+Load **Distant Lights** before **Glow in the Dahrk**.
 
-- **correctUV Ore Replacer 1.0.esp**
-- **Folded in Port.esp**
-- **md_Forge of Hilbongard.esp**
-- **GITD_Telvanni_Dormers.esp**
-- **GITD_WL_RR_Interiors.esp**
-- **Nordic Chest Replacer.esp**
-- **Red Vos.esp**
-- **WhiteSuran2_MD_Edition.esp**
-- **Waterfalls Tweaks.esp**
-
-The following plugin must load BEFORE **No Interior Blue Water Glow.esp** for the mod's lighting tweaks to work correctly:
-
-- **di.Still.ed_Lights.esp**
-
-Example load order:
+Load **di.Still.ed_Lights.esp** after the following plugins:
 
 - **correctUV Ore Replacer 1.0.esp**
 - **Folded in Port.esp**
@@ -188,5 +174,5 @@ Example load order:
 - **Red Vos.esp**
 - **WhiteSuran2_MD_Edition.esp**
 - **Waterfalls Tweaks.esp**
-- **di.Still.ed_Lights.esp**
-- **No Interior Blue Water Glow.esp**
+
+Load **No Interior Blue Water Glow.esp** after **di.Still.ed_Lights.esp**.
