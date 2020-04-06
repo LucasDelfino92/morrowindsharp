@@ -25,11 +25,11 @@
 ## NOTES
 
 **Bloated Caves.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 - The following records must be deleted from the plugin using TESAME:
     - Container - **cavern_spore00**
     - Lev Item - **MU_Bloat_Random**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
