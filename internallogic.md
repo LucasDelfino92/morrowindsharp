@@ -75,12 +75,8 @@ None of these mods' assets conflict with one another.
 
 **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** will conflict with **Severa Magia DB fix**, as they both edit the NPC Severa Magia.
 
-1. Launch **TESAME**.
-2. Open **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
-3. Right click the NPC record **severa magia**. It should turn black.
-4. Hit the **Delete** key. 
-5. Save as **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**. Close TESAME.
-6. Hide/deactivate the original **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**.
-7. Drag **Clean What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** from the **Overwrite** folder into the mod's installation folder.
+1. The following records must be deleted from the plugin using TESAME:
+    - NPC - **severa magia**.
+2. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) to know how to delete records using TESAME.
 
 None of these mods' plugins will conflict with one another anymore.
