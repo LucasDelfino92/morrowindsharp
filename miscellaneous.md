@@ -19,5 +19,15 @@
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
+  - Hide/deactivate **CurioPortrait_Object.esp**.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
+
+## NOTES
+
+**Creeper the drummer.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+## CONFLICT NOTES
+
+None of these mods' assets or plugins conflict with one another.
