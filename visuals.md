@@ -153,13 +153,13 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
-**Weapon Sheathing** mod installation file should load before **Morrowind Optimization Patch**.
-
 ## CONFLICT NOTES
 
 **Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
 
 **Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
+
+Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
 Load **Distant Lights** before **Glow in the Dahrk**.
 
