@@ -3,8 +3,8 @@
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
   - This plugin requires you to manually edit your Morrowind.ini file.
-    - In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
-    - On the morrowind.ini that just opened, use CTRL+F to find the following entries and replace them with the data in bold:
+    1. In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
+    2. On the morrowind.ini that just opened, use CTRL+F to find the following entries and replace them with the data in bold:
       - Thunder Sound ID 0=Distant_Thunder_00
       - Thunder Sound ID 1=Distant_Thunder_01
       - Thunder Sound ID 2=Distant_Thunder_02
