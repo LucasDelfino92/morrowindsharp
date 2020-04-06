@@ -19,3 +19,10 @@
 - [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
+
+## NOTES
+
+**RFD_Heartthrum.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+## CONFLICT NOTES
