@@ -134,7 +134,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - The following records must be deleted from the plugin using TESAME:
     - Cell - **Solstheim, Bloodskal Barrow**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-- Clean with TESTool and tes3cmd.
 
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
