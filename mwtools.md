@@ -111,9 +111,9 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as
 - Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
 - Now press **Delete**, and the records will be gone.
 - Go to **Mods -> Save as ..**
-- Save the edited plugin with the default name given with TESAME (which is "Clean" + the original plugin name).
+- Remove the **Clean** prefix from the plugin name and save it, **overwriting** the original .esp.
 
-As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
+The newly edited plugin will be found in the mod's installation folder.
 
 ### TESTool
 
