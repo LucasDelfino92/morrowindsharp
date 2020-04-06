@@ -23,6 +23,10 @@
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
   - Hide/deactivate **CurioPortrait_Object.esp**.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
+  - MO2 will install this mod as a BAIN package. Tick the following and click **OK**:
+    - **00 Core**
+    - **01 Closed Book Icons**-
+    - **03 Melchior's Magnificent Manuscripts**
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
 ## NOTES
