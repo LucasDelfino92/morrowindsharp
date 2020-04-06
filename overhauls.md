@@ -46,3 +46,11 @@
 
 ## CONFLICT NOTES
 
+**Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
+
+- The following records must be deleted from QL_SevenGracesShrines.esp using TESAME:
+  - Cell **(unnamed)**
+  - Cell **(unnamed)**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+None of these mods' plugins will conflict with one another anymore.
