@@ -26,3 +26,5 @@
 - Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
+
+None of these mods' assets or plugins conflict with one another.
