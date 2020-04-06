@@ -22,7 +22,7 @@
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
-  - This mod is incorrectly packaged. Delete **correctUV Ore Replacer 1.0.esp** and set the proper **Data** directory in MO2.
+  - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
 - [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) by Leyawynn: removes the guard on the Fang of Haynekhtnamet to make it look more like a fang.
