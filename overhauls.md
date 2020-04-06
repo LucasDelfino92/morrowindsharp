@@ -12,9 +12,16 @@
   - Hide/deactivate **Passage of Prayers - No Lore.esp**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick **00 - Main Files**, **01 - Main ESP - English**, **03 - Main Files - Glow in the Dahrk Patch**, and **06 - Optional - Better Ghostfence Pillars - Scythe**.
+  - MO2 will install this mod as a BAIN package. Tick the following options:
+    - **00 - Main Files**
+    - **01 - Main ESP - English**
+    - **03 - Main Files - Glow in the Dahrk Patch**
+    - **06 - Optional - Better Ghostfence Pillars - Scythe**
 - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick **00 - Main Files**, **01 - Main ESP - English**, and **03 - Main Files - Glow in the Dahrk Patch**.
+  - MO2 will install this mod as a BAIN package. Tick the following options:
+    - **00 - Main Files**
+    - **01 - Main ESP - English**
+    - **03 - Main Files - Glow in the Dahrk Patch**
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
