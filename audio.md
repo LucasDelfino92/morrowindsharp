@@ -4,10 +4,10 @@
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
   - In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
   - On the morrowind.ini that just opened, use CTRL+F to find the following entries and replace them with the data in bold:
-    - Thunder Sound ID 0=Distant_Thunder_00
-    - Thunder Sound ID 1=Distant_Thunder_01
-    - Thunder Sound ID 2=Distant_Thunder_02
-    - Thunder Sound ID 3=Distant_Thunder_03
+    - Thunder Sound ID 0=**Distant_Thunder_00**
+    - Thunder Sound ID 1=**Distant_Thunder_01**
+    - Thunder Sound ID 2=**Distant_Thunder_02**
+    - Thunder Sound ID 3=**Distant_Thunder_03**
 - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by rot: disables attack voices like "You will suffer greatly" on sneak kills or other instant deaths.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk: gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
