@@ -42,3 +42,4 @@ The bad news is that because of the complexity of the guide, some modding experi
 - [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of the game.
 - [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve on deficient aspects of the game's lore and overall internal logic or consistency.
 - [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that improve on the visual aspects of the game, either by tweaking existing textures and meshes, adding new ones, or adding new effects.
+- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that improve on the game's audio design, by adding new sound effects or tweaking existing sounds.
