@@ -1,3 +1,15 @@
+# INDEX
+
+- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a basic mod list for a (mostly) bug-free and stable Morrowind experience.
+- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
+- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of the user interface.
+- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of the game.
+- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve on deficient aspects of the game's lore and overall internal logic or consistency.
+- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that improve on the visual aspects of the game, either by tweaking existing textures and meshes, adding new ones, or adding new effects.
+- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that improve on the game's audio design, by adding new sound effects or tweaking existing sounds.
+- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods I didn't know where else to fit, but which are great mods on their own anyhow.
+- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
+
 # OVERHAULS
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities. 
