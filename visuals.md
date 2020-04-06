@@ -18,6 +18,7 @@
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk: new effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt:adds unique textures to all blighted animals.
   - Install the **Blighted Animals with Vanilla textures** main file.
+- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae: replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) by Trainwiz: replaces bound weaponry with an effect similar to Skyrim's.
 - [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
