@@ -1,10 +1,12 @@
 # AUDIO
 
-- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny:
+- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
+  - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
+  - This plugin requires you to manually edit your Morrowind.ini file.
 - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by rot: disables attack voices like "You will suffer greatly" on sneak kills or other instant deaths.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk: gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
-- [**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068) by Half11.
+- [**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: small mods that don't warrant their own page on Nexus.
   - Only install the **Outdoor Banners With Sound** main file.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord: drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero: Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
