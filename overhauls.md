@@ -81,4 +81,6 @@
   - Cell **(unnamed)**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-None of these mods' plugins will conflict with one another anymore.
+Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
+
+None of these mods' assets or plugins will conflict with one another anymore.
