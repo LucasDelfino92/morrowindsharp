@@ -33,6 +33,12 @@
 **Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
+**Clean Atmospheric Delights.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**COI.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 **frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
@@ -49,6 +55,9 @@
 - Clean with TESTool and tes3cmd.
 
 **RR_Holamayan_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**QL_SevenGracesShrines.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
