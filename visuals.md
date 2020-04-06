@@ -34,7 +34,13 @@
   - Only install the **Unique Rippened Belladonna** optional file.
 - [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros: folds up the sails of longboats in port.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade: makes windows glow in the dark.
-  - MO2 will install the mod a a BAIN package. Tick **00 Core**, **01 Hi Res Window Texture Replacer**, **02 Interior Sunrays**, **03 Nord Glass Windows Interior Sunrays**, **04 Telvanni Dormers on Vvardenfell**, **05 Raven Rock Glass Windows Interior Sunrays**, and click **OK**.
+  - MO2 will install the mod a a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Hi Res Window Texture Replacer**
+    - **02 Interior Sunrays**
+    - **03 Nord Glass Windows Interior Sunrays**
+    - **04 Telvanni Dormers on Vvardenfell**
+    - **05 Raven Rock Glass Windows Interior Sunrays**
 - [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
@@ -65,7 +71,9 @@
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
-  - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and **1-Glow in the Dahrk Patch** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **0-Data Files**
+    - **1-Glow in the Dahrk Patch**
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685?) by Melchior Dahrk and Resdayn Revival Team: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
@@ -102,7 +110,10 @@
 - [**Well Diversified**](http://mw.modhistory.com/download-46-15575) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
-  - MO2 will install this mod as a BAIN package. Tick **0-Data Files**, **1-Glow in the Dahrk Patch**, **1-White Suran Ground Textures**, and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **0-Data Files**
+    - **1-Glow in the Dahrk Patch**
+    - **1-White Suran Ground Textures**
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ## CHOOSE YOUR OWN MOD
@@ -110,7 +121,9 @@
 Choose between one of these two alternatives:
 
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis:  makes road signs legible. Uses vanilla background and resolution.
-  - MO2 will install this mod as a BAIN package. Tick *00 Core*, **01 Vvardenfell only**, and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Vvardenfell only**
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
