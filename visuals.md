@@ -125,6 +125,8 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
+**Weapon Sheathing** mod installation file should load before **Morrowind Optimization Patch**.
+
 ## CONFLICT NOTES
 
 The following mod must load BEFORE **Glow in the Dahrk** for the mod to function correctly.
