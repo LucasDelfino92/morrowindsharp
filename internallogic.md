@@ -75,7 +75,7 @@ None of these mods' assets conflict with one another.
 
 **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** will conflict with **Severa Magia DB fix**, as they both edit the NPC Severa Magia.
 
-- The following records must be deleted from the plugin using TESAME:
+- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother.esp** using TESAME:
     - NPC - **severa magia**.
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
