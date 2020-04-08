@@ -24,9 +24,15 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 - [**Better Imperial Silver Armor**](https://www.mediafire.com/file/cx0690qeklksy94/Better_Imperial_Silver_Armor_v1.01b.zip/file) by Alaisiagae, Moranar, Endoran, and Sigourn: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
+- [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
+	- Only activate **Dwarven Spectres BB + Fem.esp**.
 
 # NOTES
 
 None to mention.
 
 # CONFLICT NOTES
+
+None of these mods' assets or plugins conflict with one another.
+
+Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
