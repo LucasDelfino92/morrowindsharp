@@ -46,8 +46,7 @@
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
-- [**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: small mods that don't warrant their own page on Nexus.
-  - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
+- [**Half11's Misc Mods: Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: tweaked texture based on Qarl's Sexy Almalexy, which retains the vanilla detail on her body and armour,  as well as her skin and eye color.
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/deactivate **Hopesfire Torch.esp.** 
