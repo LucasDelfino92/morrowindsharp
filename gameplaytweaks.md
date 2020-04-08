@@ -16,8 +16,7 @@
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
-- [**PeterBitts Small Mods**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: a collection of PeterBitt's small mods.
-  - Only install the **Gondolier Destinations** main file.
+- [**PeterBitts Small Mods: Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627?) by NullCascade: auto-loots the inventory of any organic, unscripted container in the game, instead of opening the interface.
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures. 
 - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds Intervention markers to temples at Suran, Vos, Maar Gan and Ghostgate. An alternate version teleports you to Ghostagate when casting ALMSIVI Intervention inside Ghostfence even if Maar Gan or Ald-ruhn temples are nearer.
@@ -38,7 +37,6 @@
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It works with any light source, whether vanilla or custom. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk: overhauls Umbra into a truly challenging opponent with scripted behavior and new equipment.
 - [**Pikas Miscellaneous Mods: Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
-  - Only install the **Vodunius Nuccius House Lodgings** main file.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
 ## NOTES
@@ -53,3 +51,7 @@
 - Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
+
+None of these mods' assets or plugins will conflict with one another.
+
+**Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
