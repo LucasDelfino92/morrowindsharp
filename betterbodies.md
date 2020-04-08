@@ -17,7 +17,7 @@
 - [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773) by Moranar: replaces male meshes with more smooth versions and adds the analogous female variant of the robe too.
 	- This mod is incorrectly packaged.
 		- Set the proper **Data** directory in MO2.
-- [**Better Morrowind Armor + Expanded LeFemm Armor**]() by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets.
+- [**Better Morrowind Armor + Expanded LeFemm Armor**](http://www.mediafire.com/file/pjtnkpw2je2xg3u/Better_Morrowind_Armor_%252B_Expanded_LeFemm_Armor_v1.0.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets.
 	- MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
 		- **00 Core**
 		- **02 LeFemm Armor Steel Cuirass Patch**
