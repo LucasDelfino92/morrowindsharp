@@ -1,5 +1,7 @@
 # BETTER BODIES
 
+Note that all mods in this section assume the use of Better Bodies and New Beast Bodies.
+
 - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) by Psychodog Studios and ZWolol: replaces the default body meshes and textures with high quality ones for all non-beast playable races. The go to body replacer for mod compatibility.
 	  - This mod is incorrectly packaged. Set the proper **Data* directory in MO2.
 	  - If you want nude bodies, overwrite the files inside **Data Files** with the contents from the **Other\Data Files** folder.
@@ -23,7 +25,6 @@
 	- Requires [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/?).
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
-	- Requires **Better Bodies**.
 
 # NOTES
 
