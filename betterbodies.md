@@ -11,12 +11,10 @@
 - [**New Beast Bodies - Clean Version**](http://mw.modhistory.com/download-10-10928) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. No genitals and nipples version. Standalone install.
 - [**New Beast Bodies - Mature Version**](http://mw.modhistory.com/download-10-11364) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. Genitals and nipples version. Standalone install.
 - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by the Better Clothes Team and authors who provided numerous fixes: collection of Better Clothes and its fixes (Tribunal and Bloodmoon included).
-	- This mod is incorrectly packaged.
-		- Set the proper **Data** directory in MO2.
-		- Also install [**this texture fix**](https://www.mediafire.com/file/hyw28dbyiyu152y/Better_Clothes_Complete_-_Darknut_Texture_Fix.zip/file) which reverts two Darknut leftover textures.
+	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
+	- Also install [**this texture fix**](https://www.mediafire.com/file/hyw28dbyiyu152y/Better_Clothes_Complete_-_Darknut_Texture_Fix.zip/file) which reverts two Darknut leftover textures.
 - [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773) by Moranar: replaces male meshes with more smooth versions and adds the analogous female variant of the robe too.
-	- This mod is incorrectly packaged.
-		- Set the proper **Data** directory in MO2.
+	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**Better Morrowind Armor + Expanded LeFemm Armor**](http://www.mediafire.com/file/pjtnkpw2je2xg3u/Better_Morrowind_Armor_%252B_Expanded_LeFemm_Armor_v1.0.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets.
 	- MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
 		- **00 Core**
