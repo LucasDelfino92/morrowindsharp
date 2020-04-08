@@ -50,8 +50,10 @@
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk: makes Hackle-lo leaves thicker as described in-game ("succulent").
+- [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?) by TriangleTooth: adds new NPCs who were mentioned by dialogue but had no physical presence on Vvardenfell. Also gives them new unique dialogue lines that fit seamlessly into the vanilla game.
+  - Hide/deactivate **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
-  - Hide/deactivate **True_Scourge_zerosouls.esp.**
+  - Hide/deactivate **True_Scourge_zerosouls.esp**.
 
 ## NOTES
 
