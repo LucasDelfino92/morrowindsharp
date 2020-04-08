@@ -22,7 +22,6 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 		- **04 Expanded LeFemm Armor Patch**
 		- **05 Snow Prince Armor Redux Patch**
 - [**Better Imperial Silver Armor**](https://www.mediafire.com/file/cx0690qeklksy94/Better_Imperial_Silver_Armor_v1.01b.zip/file) by Alaisiagae, Moranar, Endoran, and Sigourn: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
-	- Requires [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/?).
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 
