@@ -171,10 +171,10 @@
 - GlobalMapMarkers - no TR.ESP
 - Merged Objects.esp
 - Merged_Leveled_Lists.esp
-	Rem_AC.esp
-	Rem_AI.esp
-	Rem_AL.esp
-	Rem_BC.esp
-	Rem_GL.esp
-	Rem_WG.esp
-	Rem_Solstheim.esp
+	- *Rem_AC.esp*
+	- *Rem_AI.esp*
+	- *Rem_AL.esp*
+	- *Rem_BC.esp*
+	- *Rem_GL.esp*
+	- *Rem_WG.esp*
+	- *Rem_Solstheim.esp*
