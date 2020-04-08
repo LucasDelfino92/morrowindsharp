@@ -8,8 +8,6 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065/) by Yar-Yulme: retexture of Better Bodies original textures, aimed to make its underwear look just like it looked in original Morrowind.
 	- Requires [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) underwear meshes.
 	- This mod is incorrectly packaged. Merge the contents from the **Female\Data Files** and **Male\Data Files** folders. Install over Better Bodies ZW (underwear option).
-- [**New Beast Bodies - Clean Version**](http://mw.modhistory.com/download-10-10928) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. No genitals and nipples version. Standalone install.
-- [**New Beast Bodies - Mature Version**](http://mw.modhistory.com/download-10-11364) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. Genitals and nipples version. Standalone install.
 - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by the Better Clothes Team and authors who provided numerous fixes: collection of Better Clothes and its fixes (Tribunal and Bloodmoon included).
 	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 	- Also install [**this texture fix**](https://www.mediafire.com/file/hyw28dbyiyu152y/Better_Clothes_Complete_-_Darknut_Texture_Fix.zip/file) which reverts two Darknut leftover textures.
@@ -26,6 +24,13 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
 	- Only activate **Dwarven Spectres BB + Fem.esp**.
+
+# CHOOSE YOUR OWN MOD
+
+Choose between one of these two alternatives:
+
+- [**New Beast Bodies - Clean Version**](http://mw.modhistory.com/download-10-10928) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
+- [**New Beast Bodies - Mature Version**](http://mw.modhistory.com/download-10-11364) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
 
 # NOTES
 
