@@ -1,13 +1,11 @@
 # BETTER BODIES
 
 - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) by Psychodog Studios and ZWolol: replaces the default body meshes and textures with high quality ones for all non-beast playable races. The go to body replacer for mod compatibility.
-  - This mod is packaged incorrectly:
-    - The **Data Files** folder contains the necessary files, and uses underwear meshes.
-    - If you want nude bodies, overwrite the files inside **Data Files** with the contents from the **Other\Data Files** folder.
+	  - This mod is incorrectly packaged. Set the proper **Data* directory in MO2.
+	  - If you want nude bodies, overwrite the files inside **Data Files** with the contents from the **Other\Data Files** folder.
 - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065/) by Yar-Yulme: retexture of Better Bodies original textures, aimed to make its underwear look just like it looked in original Morrowind.
-  - Requires [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) underwear meshes.
-  - This mod is packaged incorrectly:
-    - Merge the contents from the Female\Data Files and Male\Data Files folders. Install over Better Bodies ZW (underwear option).
+	  - Requires [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) underwear meshes.
+	  - This mod is incorrectly packaged. Merge the contents from the Female\Data Files and Male\Data Files folders. Install over Better Bodies ZW (underwear option).
 - [**New Beast Bodies - Clean Version**](http://mw.modhistory.com/download-10-10928) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. No genitals and nipples version. Standalone install.
 - [**New Beast Bodies - Mature Version**](http://mw.modhistory.com/download-10-11364) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races. Genitals and nipples version. Standalone install.
 - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by the Better Clothes Team and authors who provided numerous fixes: collection of Better Clothes and its fixes (Tribunal and Bloodmoon included).
