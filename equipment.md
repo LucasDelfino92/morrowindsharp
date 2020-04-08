@@ -11,11 +11,11 @@
 - [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/) by Endoran: completes both sets of Imperial silver armour: the regular silver and the Duke's guard silver armour. It puts it in logical and lore friendly locations. You can find the regular silver armour on the guards in Ebonheart, and sold by Sirollus Saccus in the Hawkmoth Legion garrison. The silver cuirass has also been updated to be a recognized legion uniform. The Duke's silver armour is found on all of the Duke's guards and members of the Order of Ebonheart including the Knight of the Imperial Dragon. It is given to the player as a reward from Varus Vantinius after returning the Lord's Mail and becoming part of the Order of Ebonheart.
   - Also install the **Alternate Silver Helmet** optional file.
   
-  ## NOTES
+## NOTES
   
-  **Mage Robes.esp** is dirty and requires cleaning.
-  - Clean with TESTool and tes3cmd.
+**Mage Robes.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
 
-  ## CONFLICT NOTES
+## CONFLICT NOTES
   
-  None of these mods' assets or plugins conflict with one another.
+None of these mods' assets or plugins conflict with one another.
