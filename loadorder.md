@@ -29,7 +29,6 @@
 - Burial of a Taxman.ESP
 - true corprus.ESP
 - MW_Inconsistencies.ESP
-- What is something that can be perceived with one of your senses of life - Something edgy related to death my brother.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Ancient_Altar.ESP
@@ -60,6 +59,7 @@
 - The Madstone.ESP
 - Ttooth's Missing NPCs - No Nolus.ESP
 - TrueScourge.ESP
+- What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.ESP
 - BlightedAnimalsRetextured.esp
 - BoundWeaponReplacer.ESP
 - Cave Drips.ESP
