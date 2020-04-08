@@ -9,6 +9,7 @@
 - [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that improve on the game's audio design, by adding new sound effects or tweaking existing sounds.
 - [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods I didn't know where else to fit, but which are great mods on their own anyhow.
 - [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
+- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
 
 # OVERHAULS
 
