@@ -20,6 +20,7 @@
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
   - Only activate one of the plugins. I recommend **Meteorite Ministry Temple - Higher.esp**.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
+  - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
   - Hide/deactivate **Passage of Prayers - No Lore.esp**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
