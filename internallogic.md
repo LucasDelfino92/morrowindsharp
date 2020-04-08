@@ -17,7 +17,6 @@
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245) by Corsair83: addresses a handful of issues found in the game's text and lore versus what's presented in in-game items and so on.
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) by RedFurryDemon, Melchior Dahrk, PoodleSandwich, and Remiros: gives the Altar of the Shrine of the Dead the correct appearance to match what it is; an ancient Dunmer shrine, not an Imperial Altar.
@@ -54,6 +53,7 @@
   - Hide/deactivate **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
   - Hide/deactivate **True_Scourge_zerosouls.esp**.
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
 
 ## NOTES
 
@@ -78,9 +78,9 @@
 
 None of these mods' assets conflict with one another.
 
-**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** will conflict with **Severa Magia DB fix**, as they both edit the NPC Severa Magia.
+**- What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** will conflict with **Clean_Severa Magia Fix.esp**, as they both edit the NPC Severa Magia.
 
-- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother.esp** using TESAME:
+- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** using TESAME:
     - NPC - **severa magia**.
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
