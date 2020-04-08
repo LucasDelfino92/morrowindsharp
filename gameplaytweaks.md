@@ -58,3 +58,5 @@
 None of these mods' assets or plugins will conflict with one another.
 
 **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
+
+Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
