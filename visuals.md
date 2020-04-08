@@ -164,3 +164,5 @@ Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 Load **Distant Lights** before **Glow in the Dahrk**.
 
 Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order.
+
+Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
