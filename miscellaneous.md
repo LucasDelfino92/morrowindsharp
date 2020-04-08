@@ -37,3 +37,5 @@
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
+
+Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
