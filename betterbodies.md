@@ -4,7 +4,7 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 
 - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) by Psychodog Studios and ZWolol: replaces the default body meshes and textures with high quality ones for all non-beast playable races. The go to body replacer for mod compatibility.
 	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-	- If you want nude bodies, overwrite the files inside **Data Files** with the contents from the **Other\Data Files** folder.
+	- If you want nude bodies, overwrite the installed files with the contents from the **Other\Data Files** folder.
 - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065/) by Yar-Yulme: retexture of Better Bodies original textures, aimed to make its underwear look just like it looked in original Morrowind.
 	- Requires [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395) underwear meshes.
 	- This mod is incorrectly packaged. Merge the contents from the Female\Data Files and Male\Data Files folders. Install over Better Bodies ZW (underwear option).
