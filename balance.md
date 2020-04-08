@@ -23,6 +23,7 @@
 ## FACTIONS
 
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
+  - Hide/deactive **higher faction requirements - Morrowind Only.esp**.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom: factions will limit their services based on faction affiliation and rank.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
 
