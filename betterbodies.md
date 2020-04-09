@@ -27,10 +27,9 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 
 # CHOOSE YOUR OWN MOD
 
-Choose between one of these two alternatives:
-
-- [**New Beast Bodies - Clean Version**](http://mw.modhistory.com/download-10-10928) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
-- [**New Beast Bodies - Mature Version**](http://mw.modhistory.com/download-10-11364) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
+- [**New Beast Bodies by Liztail**](https://www.nexusmods.com/morrowind/mods/47678?) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
+	- **New Best Bodies by Liztail - Clean** main file is a no-genitals version.
+	- **New Best Bodies by Liztail - Mature** optional file is a genitals version.
 
 # NOTES
 
