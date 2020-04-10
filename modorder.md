@@ -1,5 +1,5 @@
-DLC: Tribunal
-DLC: Bloodmoon
+- DLC: Tribunal
+- DLC: Bloodmoon
 - Morrowind Uncompressed Textures v1.0
 - Intelligent Textures v1.2
 - Patch for Purists v3.2.1
