@@ -31,14 +31,16 @@
 - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: adds global map markers to all dungeons on Vvardenfell and Solstheim.
   - Only install the **Global Map Markers V1.3 - No TR version** main file.
 
+## CLEANING NOTES
+
+**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
 
 ## LOAD ORDER
-
-**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 **GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
 
