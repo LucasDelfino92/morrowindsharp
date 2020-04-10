@@ -33,7 +33,7 @@
     - **03 Melchior's Magnificent Manuscripts**
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
-## NOTES
+## CLEANING NOTES
 
 **Creeper the drummer.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
@@ -43,3 +43,7 @@
 None of these mods' assets or plugins conflict with one another.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
