@@ -278,27 +278,17 @@ Your plugins are listed on the pane to the right. They should be as follows:
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
-1. Launch Mod Organizer 2.
-2. Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
-3. On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
-
-**[Weather Rain]**
-
-Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-
-Max Raindrops=450 -> Change this to **Max Raindrops=1500**
-
-**[Weather Thunderstorm]**
-
-Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-
-Max Raindrops=650 -> Change this to **Max Raindrops=3000**
-
-**[Weather Snow]**
-
-Snow Diameter=800 -> Change this to **Snow Diameter=1600**
-
-Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
-
-4. Click Save to finish editing the Morrowind.ini.
+- Launch Mod Organizer 2.
+- Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
+- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
+  - **[Weather Rain]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
+  - **[Weather Thunderstorm]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
+  - **[Weather Snow]**
+  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
+  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
+- Click Save to finish editing the Morrowind.ini.
 
