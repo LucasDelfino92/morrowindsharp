@@ -185,7 +185,8 @@ Remember, *use one or the other*, not both at once.
   - **00 Core**
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC MUshrooms - Normal - Glowing Bitter Coast Patch**: only if you install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
-- **Intelligent Textures - Atlas Textures** by Remiros: this is the file I had you create earlier. Install normally.
+- **Intelligent Textures - Atlas Textures** by Remiros: this is the file I had you create earlier.
+  - Only install if you installed **Intelligent Textures**.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
 ## EXPANSION IMPLEMENTATION
