@@ -238,7 +238,7 @@ Because there are many ways we can go with this, I'll provide separate installat
 
 The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use **all of the official add-ons*.
 
-## .INI EDITS
+# .INI EDITS
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
@@ -256,6 +256,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click Save to finish editing the Morrowind.ini.
 
-## LOAD ORDER
+# LOAD ORDER
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
