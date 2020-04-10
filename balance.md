@@ -52,12 +52,12 @@
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) by Talrivian and HotFusion: modifies how HP is calculated, leading to less metagaming.
 
-## NOTES
-
-None to mention.
-
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
 
 Remember to re-run TES3Merge to regenerate your Merged Objects.esp after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
