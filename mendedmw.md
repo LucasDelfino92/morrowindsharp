@@ -238,44 +238,7 @@ Because there are many ways we can go with this, I'll provide separate installat
 
 The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use **all of the official add-ons*.
 
-# MANAGING OUR INSTALLATION AND LOAD ORDER
-
-Your installed mods are listed on the pane to the left. Remember that Tribunal and Bloodmoon are technically mods of the original game. Your installed mods, thus, should be as follows:
-
-- DLC: Tribunal
-- DLC: Bloodmoon
-- Morrowind Uncompressed Vanilla Textures **OR** Intelligent Textures
-- Patch for Purists
-- Arrille Inventory Fix
-- Correct UV Rocks
-- FMI - Current Councilors
-- FMI - Legion Dialogue
-- No More Stage Diving - Desele's Dancing Girls
-- ***ALL mods that deal with the official plugins should be loaded here, before Morrowind Optimization Patch***
-- Morrowind Optimization Patch
-- Glowing Flames
-- Project Atlas
-- Atlased Silt Strider
-- Expansion Delay
-
-Your plugins are listed on the pane to the right. They should be as follows:
-
-- Morrowind.esm
-- Tribunal.esm
-- Bloodmoon.esm
-- Patch for Purists.esm
-- Patch for Purists - Book Typos.esp
-- Patch for Purists - Decimal Errors.esp
-- Arrille Inventory Fix.esp
-- FMI_Current_Councilors.esp
-- FMI_Legion_Dialogue_1.1.esp
-- Glowing Flames - NoMoreLightlessFlames v1.1.esp
-- NoMoreStageDiving.esp
-- ***All plugins that deal with the official plugins should be loaded here***
-- Lake Fjalding Anti-Suck.esp
-- Expansion Delay.esp
-
-# .INI EDITS
+## .INI EDITS
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
@@ -293,3 +256,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click Save to finish editing the Morrowind.ini.
 
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
