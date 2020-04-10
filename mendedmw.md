@@ -173,7 +173,6 @@ Remember, *use one or the other*, not both at once.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
   - Install the **Glowing Flames** main file.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
-
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
   - Install the **No More Stage Diving** main file.
@@ -186,7 +185,7 @@ Remember, *use one or the other*, not both at once.
   - **00 Core**
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC MUshrooms - Normal - Glowing Bitter Coast Patch**: only if you install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
-- [**Intelligent Textures - Atlas Textures**] by Remiros: this is the file I had you create earlier. Install normally.
+- **Intelligent Textures - Atlas Textures** by Remiros: this is the file I had you create earlier. Install normally.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
 ## EXPANSION IMPLEMENTATION
