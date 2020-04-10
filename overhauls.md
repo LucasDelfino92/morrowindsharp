@@ -45,7 +45,7 @@
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora. 
 
-## NOTES
+## CLEANING NOTES
 
 **Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
@@ -86,8 +86,12 @@
   - Cell **(unnamed)**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
-
 None of these mods' assets or plugins will conflict with one another anymore.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
