@@ -162,8 +162,12 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
+Load **Glowing Bitter Coast** before Project Atlas.
+
+Load **Glow in the Dahrk** before Project Atlas.
+
 Load **Distant Lights** before **Glow in the Dahrk**.
 
-Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order.
+Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order, before **GlobalMapMarkers - no TR.esp**.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
