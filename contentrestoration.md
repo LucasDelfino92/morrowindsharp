@@ -28,7 +28,7 @@
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-## NOTES
+## CLEANING NOTES
 
 **Bloated Caves.esp** is dirty and requires cleaning.
 - The following records must be deleted from the plugin using TESAME:
@@ -42,3 +42,7 @@
 None of these mods' assets or plugins conflict with one another.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
