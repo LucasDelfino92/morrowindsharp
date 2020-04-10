@@ -1,3 +1,19 @@
+# INDEX
+
+- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a basic mod list for a (mostly) bug-free and stable Morrowind experience.
+- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
+- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of the user interface.
+- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of the game.
+- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve on deficient aspects of the game's lore and overall internal logic or consistency.
+- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that improve on the visual aspects of the game, either by tweaking existing textures and meshes, adding new ones, or adding new effects.
+- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that improve on the game's audio design, by adding new sound effects or tweaking existing sounds.
+- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods I didn't know where else to fit, but which are great mods on their own anyhow.
+- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
+- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
+- [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that modify the fundamental balance of the game.
+- [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
+- [**Better Bodies**](https://github.com/Sigourn/morrowind-improved/blob/master/betterbodies.md): mods that use Better Bodies and New Beast Bodies as a base.
+
 # BETTER BODIES
 
 Note that all mods in this section assume the use of Better Bodies and New Beast Bodies.
@@ -18,8 +34,9 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 		- **00 Core**
 		- **02 LeFemm Armor Steel Cuirass Patch**
 		- **04 Expanded LeFemm Armor Patch**
-		- **05 Snow Prince Armor Redux Patch**
+		- **05 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
 - [**Better Imperial Silver Armor**](https://www.mediafire.com/file/cx0690qeklksy94/Better_Imperial_Silver_Armor_v1.01b.zip/file) by Alaisiagae, Moranar, Endoran, and Sigourn: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
+	- Only install if you installed [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751) earlier.
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
