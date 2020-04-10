@@ -169,9 +169,9 @@ Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after
 
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
-Load **Glowing Bitter Coast** before Project Atlas.
+Load **Glowing Bitter Coast** before **Project Atlas**.
 
-Load **Glow in the Dahrk** before Project Atlas.
+Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Distant Lights** before **Glow in the Dahrk**.
 
