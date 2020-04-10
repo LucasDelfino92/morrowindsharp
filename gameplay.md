@@ -57,7 +57,7 @@
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## NOTES
+## CLEANING NOTES
 
 **Intervention Improved - NoScript - Ghostgate.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
@@ -78,3 +78,7 @@ None of these mods' assets or plugins will conflict with one another.
 **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
