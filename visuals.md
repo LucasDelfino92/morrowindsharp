@@ -141,7 +141,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
 
-## NOTES
+## CLEANING NOTES
 
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
@@ -163,6 +163,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 **Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
 
+Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
 Load **Glowing Bitter Coast** before Project Atlas.
@@ -173,4 +177,4 @@ Load **Distant Lights** before **Glow in the Dahrk**.
 
 Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order, before **GlobalMapMarkers - no TR.esp**.
 
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
