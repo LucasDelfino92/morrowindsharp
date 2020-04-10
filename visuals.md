@@ -65,10 +65,6 @@
   - Only install the old **No Interior Blue Water Glow** file.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
-- [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
-  - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
-- [**R-Zero's Random Retextures (and Replacers)**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: a collection of texture replacers made by R-Zero.
-  - Only install the **R-Zero's Random Replacers - Iron Towershield** optional file.
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
@@ -83,6 +79,10 @@
     1. In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
     2. On the morrowind.ini that just opened, use CTRL+F and search for **[Archives]**.
     3. Input **Archive 2=RR_Melchior's_Mudcrab_Merchant.bsa** below **Archive 1=Bloodmoon.bsa**. Click **Save**, and close the window.
+- [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
+  - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
+- [**R-Zero's Random Retextures (and Replacers)**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: a collection of texture replacers made by R-Zero.
+  - Only install the **R-Zero's Random Replacers - Iron Towershield** optional file.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
 - [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) by PoodleSandwich: retexture of Lougian's **Scum Retexture**.
