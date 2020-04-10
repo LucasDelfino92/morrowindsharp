@@ -42,18 +42,18 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
 	- Only activate **Dwarven Spectres BB + Fem.esp**.
 
-# CHOOSE YOUR OWN MOD
+### CHOOSE YOUR OWN MOD
 
 - [**New Beast Bodies by Liztail**](https://www.nexusmods.com/morrowind/mods/47678?) by LizTail: replaces the default body meshes and textures with high quality ones for all beast playable races.
 	- **New Best Bodies by Liztail - Clean** main file is a no-genitals version.
 	- **New Best Bodies by Liztail - Mature** optional file is a genitals version.
 
-# NOTES
-
-None to mention.
-
-# CONFLICT NOTES
+## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
