@@ -59,7 +59,7 @@
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
   - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 
-## NOTES
+## CLEANING NOTES
 
 **true corprus.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
@@ -76,8 +76,6 @@
 **Talos Cult Revised.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
-**Talos Cult Revised - G93's Version** should not be used alongisde [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576).
-
 ## CONFLICT NOTES
 
 None of these mods' assets conflict with one another.
@@ -91,3 +89,7 @@ None of these mods' assets conflict with one another.
 None of these mods' plugins will conflict with one another anymore.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
+
+## LOAD ORDER
+
+[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
