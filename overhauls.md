@@ -92,6 +92,8 @@ Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after
 
 ## LOAD ORDER
 
+Load **Clean Atmospheric Delights.esp** after after **di.Still.ed_Lights.ESP**.
+
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
