@@ -36,11 +36,22 @@ Notable mod categories which are absent from this list are:
 Every module listed above can be installed independently from each other. All modules, however, will provide specific install instructions for compatibility with the other mods (like installing compatibility patches). These, however, are very obvious and I leave it to your judgement to know when you should or shouldn't install a certain compatibility patch.
 
 You will also notice many times I leave no installation instructions whatsoever. This means two things:
-
 1. That you should only install the main file (if the mod is hosted on Nexus).
 2. That the installation is straightforward.
 
-Last but not least: these modules are meant to be installed in that order. I've listed the mods in alphabetical order within each module, but specific instructions may be present below under **CONFLICT NOTES** when the default alphabetical installation order may mess with some mods.
+### MOD ORDER AND LOAD ORDER
+
+Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and plugin load order.
+
+[**Download these files here.**](http://www.mediafire.com/file/0qu9rlgyjlwe76w/Sigourn%2527s_Mod_List.zip/file)
+
+The gist of this is simple:
+- The **Mod installation order.txt** shows the proper installation order of all mods. In Mod Organizer 2, you can simply move mods around in the left pane, meaning you don't actually *need* to physically install mods in that order, but they need to be virtually installed in Mod Organizer 2 following that order.
+- The **loadorder.txt** is a Mod Organizer 2-ready text file that will automatically sort your installed mods following that specific load order (which contains *all* plugins present in the mod list above). For Mod Organizer 2 to recognize said text file, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder.
+
+As you install more and more mods from this mod list, you will want to regularly replace your existent loadorder.txt from the one download above. This will update your load order as you get closer to the end of this guide.
+
+Note that you don't *have* to replace your **loadorder.txt** if you don't want to. Simply match your load order as closely as possible to that of the one present in the text file.
 
 ## A WORD OF ADVICE
 
