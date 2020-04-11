@@ -37,8 +37,8 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 		- **03 LeFemm Armor Steel Cuirass Patch**
 		- **05 Expanded LeFemm Armor Patch**
 		- **06 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
-- [**Better Imperial Silver Armor**](https://www.mediafire.com/file/cx0690qeklksy94/Better_Imperial_Silver_Armor_v1.01b.zip/file) by Alaisiagae, Moranar, Endoran, and Sigourn: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
-	- Only install if you installed [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751) earlier.
+- [**Better Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751?) by Endoran and Moranar: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
+	- Only install if you installed the **Imperial Silver Armor** main file earlier.
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Dahrk Mods by Melchior: md_bm_berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
