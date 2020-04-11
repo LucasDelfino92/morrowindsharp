@@ -33,6 +33,7 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 	- MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
 		- **00 Core**
 		- **01 Pherim's Fixed Left Gloves - Pauldrons**
+		- **02 No Boob Plate Patch**: only if you dislike breasts on female armor.
 		- **03 LeFemm Armor Steel Cuirass Patch**
 		- **05 Expanded LeFemm Armor Patch**
 		- **06 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
