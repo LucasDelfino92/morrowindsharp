@@ -32,8 +32,7 @@
 
 ### ECONOMY
 
-- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort: merchants will now pay less for the more expensive items.
-- [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) by Greatness7: increases the Mercantile skill of all NPCs. Doesn't interfere with Trainers' services.
+- [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
 - [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
 
 ### FACTIONS
