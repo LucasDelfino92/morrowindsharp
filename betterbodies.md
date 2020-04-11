@@ -29,12 +29,13 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 	- Also install [**this texture fix**](https://www.mediafire.com/file/hyw28dbyiyu152y/Better_Clothes_Complete_-_Darknut_Texture_Fix.zip/file) which reverts two Darknut leftover textures.
 - [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773) by Moranar: replaces male meshes with more smooth versions and adds the analogous female variant of the robe too.
 	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-- [**Better Morrowind Armor + Expanded LeFemm Armor**](http://www.mediafire.com/file/pjtnkpw2je2xg3u/Better_Morrowind_Armor_%252B_Expanded_LeFemm_Armor_v1.0.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets.
+- [**Better Morrowind Armor + Expanded LeFemm Armor**](https://www.mediafire.com/file/1aysnie8qi0qjky/Better_Morrowind_Armor_+_Expanded_LeFemm_Armor_v1.1.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets. Detailed readmes inside.
 	- MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
 		- **00 Core**
-		- **02 LeFemm Armor Steel Cuirass Patch**
-		- **04 Expanded LeFemm Armor Patch**
-		- **05 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
+		- **01 Pherim's Fixed Left Gloves - Pauldrons**
+		- **03 LeFemm Armor Steel Cuirass Patch**
+		- **05 Expanded LeFemm Armor Patch**
+		- **06 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
 - [**Better Imperial Silver Armor**](https://www.mediafire.com/file/cx0690qeklksy94/Better_Imperial_Silver_Armor_v1.01b.zip/file) by Alaisiagae, Moranar, Endoran, and Sigourn: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
 	- Only install if you installed [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751) earlier.
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
