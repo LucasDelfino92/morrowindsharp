@@ -40,9 +40,9 @@
     - **00 Correct UV Ore + README**: only if you installed Correct UV Diverse Ore veins earlier.
     - **08 Glowing Bitter Coast**: only if you installed Glowing Bitter Coast earlier.
     - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed Project Atlas earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
-      - If you installed **00 Correct UV Ore + README**, hide/deactivate the following .esps:
-        - correctUV Ore Replacer 1.0.esp.
-        - correctUV Ore Replacer_fixed.esp
+    - If you installed **00 Correct UV Ore + README**, hide/deactivate the following .esps:
+      - correctUV Ore Replacer 1.0.esp.
+      - correctUV Ore Replacer_fixed.esp
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures. 
 - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds Intervention markers to temples at Suran, Vos, Maar Gan and Ghostgate. An alternate version teleports you to Ghostagate when casting ALMSIVI Intervention inside Ghostfence even if Maar Gan or Ald-ruhn temples are nearer.
   - Only activate **Intervention Improved - NoScript - Ghostgate.esp**.
