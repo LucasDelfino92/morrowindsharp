@@ -37,9 +37,9 @@
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
-    - **00 Correct UV Ore + README**: only if you installed Correct UV Diverse Ore veins earlier.
-    - **08 Glowing Bitter Coast**: only if you installed Glowing Bitter Coast earlier.
-    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed Project Atlas earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
+    - **00 Correct UV Ore + README**: only if you installed [**Correct UV Diverse Ore veins**](http://mw.modhistory.com/download-42-13484) earlier.
+    - **08 Glowing Bitter Coast**: only if you installed [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) earlier.
+    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
     - If you installed **00 Correct UV Ore + README**, hide/deactivate the following .esps:
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
