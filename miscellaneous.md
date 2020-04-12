@@ -23,6 +23,9 @@
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over twenty new ones.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
+- [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?) by Yar-Yulme: replaces textual descriptions in seven old Dwemer books from TES3: Tribunal with actual graphics.
+  - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
+  - Hide/deactivate **Old_dwemer_books.esp**.
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
   - Hide/deactivate **CurioPortrait_Object.esp**.
