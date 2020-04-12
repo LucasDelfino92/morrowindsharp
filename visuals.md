@@ -64,8 +64,6 @@
 - [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) by PeterBitt: adds glow maps to all three Atronachs in Morrowind so that they glow in the dark.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**No Unnatural Lights**](https://www.nexusmods.com/morrowind/mods/47126) by Necrolesian: interior water sources will no longer emit light.
-  - Only install the old **No Interior Blue Water Glow** file.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
@@ -175,6 +173,6 @@ Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Distant Lights** before **Glow in the Dahrk**.
 
-Load **di.Still.ed_Lights.esp** and **No Interior Blue Water Glow.esp** at the end of your load order, before **GlobalMapMarkers - no TR.esp**.
+Load **di.Still.ed_Lights.esp** at the end of your load order, before **GlobalMapMarkers - no TR.esp**.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
