@@ -35,7 +35,14 @@
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
-- [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627?) by NullCascade: auto-loots the inventory of any organic, unscripted container in the game, instead of opening the interface.
+- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
+    - **00 Correct UV Ore + README**: only if you installed Correct UV Diverse Ore veins earlier.
+    - **08 Glowing Bitter Coast**: only if you installed Glowing Bitter Coast earlier.
+    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed Project Atlas earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
+      - If you installed **00 Correct UV Ore + README**, hide/deactivate the following .esps:
+        - correctUV Ore Replacer 1.0.esp.
+        - correctUV Ore Replacer_fixed.esp
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures. 
 - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds Intervention markers to temples at Suran, Vos, Maar Gan and Ghostgate. An alternate version teleports you to Ghostagate when casting ALMSIVI Intervention inside Ghostfence even if Maar Gan or Ald-ruhn temples are nearer.
   - Only activate **Intervention Improved - NoScript - Ghostgate.esp**.
