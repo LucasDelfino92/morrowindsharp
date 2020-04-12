@@ -29,16 +29,17 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 	- Also install [**this texture fix**](https://www.mediafire.com/file/hyw28dbyiyu152y/Better_Clothes_Complete_-_Darknut_Texture_Fix.zip/file) which reverts two Darknut leftover textures.
 - [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773) by Moranar: replaces male meshes with more smooth versions and adds the analogous female variant of the robe too.
 	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-- [**Better Morrowind Armor + Expanded LeFemm Armor**](https://www.mediafire.com/file/1aysnie8qi0qjky/Better_Morrowind_Armor_+_Expanded_LeFemm_Armor_v1.1.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets. Detailed readmes inside.
-	- MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-		- **00 Core**
-		- **01 Pherim's Fixed Left Gloves - Pauldrons**
+- [**Better Morrowind Armor + Expanded LeFemm Armor**](https://www.mediafire.com/file/pc9vei2hwzwbawb/Better_Morrowind_Armor_+_Expanded_LeFemm_Armor_v1.3.zip/file) by Moranar, tiebrakre, Articus, and Pherim: replaces armor meshes with Better Bodies compatible version, and expands Gold Armor and Domina Armor sets. Detailed readmes inside.
+	- MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
+		- **00 Core**: required files.
+		- **01 Pherim's Fixed Left Gloves - Pauldrons**: corrects ground meshes for the left gloves and pauldrons.
 		- **02 No Boob Plate Patch**: only if you dislike breasts on female armor.
-		- **03 LeFemm Armor Steel Cuirass Patch**
-		- **05 Expanded LeFemm Armor Patch**
-		- **06 Snow Prince Armor Redux Patch**: only if you installed [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344) earlier.
-- [**Better Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751?) by Endoran and Moranar: Better Morrowind Armor patch for Endoran's Imperial Silver Armor.
-	- Only install if you installed the **Imperial Silver Armor** main file earlier.
+		- **03 LeFemm Armor Steel Cuirass Patch**: female Steel Cuirass will now use LeFemm Armor's model
+		- **04 Imperial Steel Cuirass Belt Patch**: adds belts to the Imperial Steel Cuirass meshes.
+		- **05 Expanded LeFemm Armor Patch**: patches the LeFemm Armor official plugin and adds new armor pieces for the Domina and Gold armor sets.
+		- **06 Complete Armor Joints**: certain pieces of armor will now fully cover exposed joints.
+		- **07 Snow Prince Armor Redux Patch**: patches [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344). Only install if you installed **Snow Prince Armor Redux** earlier.
+- [**Better Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751?) by Endoran and Moranar: patches Imperial Silver Armor. Only install if you installed the **Imperial Silver Armor** main file earlier.
 	- MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Bloodmoon Berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
