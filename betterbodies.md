@@ -33,8 +33,8 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 	- MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
 		- **00 Core**: required files.
 		- **01 Pherim's Fixed Left Gloves - Pauldrons**: corrects ground meshes for the left gloves and pauldrons.
-		- **02 No Boob Plate Patch**: only if you dislike breasts on female armor.
-		- **03 LeFemm Armor Steel Cuirass Patch**: female Steel Cuirass will now use LeFemm Armor's model
+		- **02 No Boob Plate Patch**: removes the breasts shape from female cuirasses.
+		- **03 LeFemm Armor Steel Cuirass Patch**: the female Steel Cuirass will now use LeFemm Armor's mesh.
 		- **04 Imperial Steel Cuirass Belt Patch**: adds belts to the Imperial Steel Cuirass meshes.
 		- **05 Expanded LeFemm Armor Patch**: patches the LeFemm Armor official plugin and adds new armor pieces for the Domina and Gold armor sets.
 		- **06 Complete Armor Joints**: certain pieces of armor will now fully cover exposed joints.
