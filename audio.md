@@ -35,11 +35,6 @@
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
 
-## CLEANING NOTES
-
-**RFD_Heartthrum.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
