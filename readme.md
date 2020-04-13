@@ -46,7 +46,7 @@ You will also notice many times I leave no installation instructions whatsoever.
 
 Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and plugin load order.
 
-[**Download these files here.**](https://www.mediafire.com/file/dzpjnpnbbvqxqyg/Sigourns_Mod_List_%28April_12th_v2%29.zip/file)
+[**Download these files here.**](https://www.mediafire.com/file/lmnss6xyf7p8wff/Sigourns_Mod_List_%28April_12th_v4%29.zip/file)
 
 The gist of this is simple:
 - The **Mod installation order.txt** shows the proper installation order of all mods. In Mod Organizer 2, your mod installation order is found in the left window. There you can move mods around, changing their installation order.
