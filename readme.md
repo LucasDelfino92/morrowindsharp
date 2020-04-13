@@ -6,31 +6,31 @@ Last updated: April 12th, 2020.
 
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
-- [**Things to keep in mind**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#things-to-keep-in-mind)
 - [**Installation index**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
 - [**Contact info**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#contact-info)
 
 ### INTRODUCTION
 
-*Sigourn's Mod List* is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 200 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
+*Sigourn's Mod List* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
 
-Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, and the existence of an in-game mod configuration menu. Mods that function correctly and without annoying issues were a priority for this mod list.
+This mod list consists of, roughly, 250 mods and 175 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
 
-Notable mod categories which are absent from this list are:
+Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, or the existence of an in-game mod configuration menu. Mods that function correctly and without any pesky issues were a priority for this mod list. And above all, mods that do exactly what they say on the tin: there's nothing more annoying than installing a mod that changes so much more than it is advertised.
 
-- Visual upgrades that aren't suggested because of internal consistency or because they add something to the game.
-- Player homes.
-- Quest tweaks, new quests, new factions, etc.
+Because this personal mod list reflects my personal, subjective taste, here are the mod categories you simply won't find here:
+
+- High resolution retextures, high resolution meshes, and similar: I try to keep Morrowind looking like the 2002 game it is, but better, using sensible, small scale visual improvements.
+- New monsters, new NPCs, new dungeons, new towns, and similar: the vanilla content is priority, and only mods that make very small expansions upon it, all while being very well integrated and lore friendly, will be featured here.
+- Quest tweaks, quest additions, new factions, and similar: just as I said above, the vanilla content is priority in this mod list. If you feel like Morrowind needs much more content, I invite you to install your own mods.
 
 ### HOW TO INSTALL THIS MOD LIST
 
-Every module listed above can be installed independently from each other. All modules, however, will provide specific install instructions for compatibility with the other mods (like installing compatibility patches). These, however, are very obvious and I leave it to your judgement to know when you should or shouldn't install a certain compatibility patch.
+This mod list is divided in a serious of modules for your convenience. All modules can be installed independently from one another. Should certain mods require inter-module compatibility, specific instructions will be provided on how to achieve it. All mods will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
-You will also notice many times I leave no installation instructions whatsoever. This means two things:
-1. That you should only install the main file (if the mod is hosted on Nexus).
-2. That the installation is straightforward.
+For the most part, I will provide no installation instructions whatsoever. This means two things:
 
-### MOD ORDER AND LOAD ORDER
+- That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
+- That the installation is straightforward, and requires no special instructions.
 
 Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and plugin load order. A changelog is also provided to keep you up to speed with removed and added mods.
 
@@ -45,22 +45,6 @@ For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside 
 Note that you don't *have* to replace your **loadorder.txt** if you don't want to. Simply match your load order as closely as possible to that of the one present in the text file.
 
 Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend to rename downloaded archives for clarity. But simply follow **Mod installation order.txt** and you will be fine. I recommend following my mod list in order to minimize the amount of mods you will have to rearrange in your Mod Organizer 2 left window.
-
-### THINGS TO KEEP IN MIND
-
-Every single mod present in this guide is a mod I use or, in very few exceptions, a mod that is an alternative to a mod I'm using. Absent from this guide are mods I do not use, for a simple reason: if I'm not using it, it is because...
-
-- I do not think it is a good mod.
-- I think it is a good mod, but with flaws that stop me from using it.
-- I'm not interested in said mod.
-- I haven't gotten to play with it yet because it drastically modifies aspects of the game (the world, the factions, the quests) that I've yet to experience as the devs intended.
-- I'm not aware of said mod's existence. This only applies for "obscure" mods, as all the popular ones are covered by the four exceptions mentioned above.
-
-I want to make this clear from the start because no doubt some people will wonder why "X" mod which is very popular was not included in the guide.
-
-The good news is that because I use every single mod in this list (minor conflicting alternatives) I have a good idea of the level of compatibility between the mods listed here. As such, I can tell you the conflicts are kept to a minimum, to ensure the appropriate enjoyment of each of the mods present here.
-
-The bad news is that because of the complexity of the guide, some modding experience is required. People with modding experience in future Bethesda titles will feel right at home and should have no issues whatsoever. People with no modding experience, I suggest you read the mods' descriptions and installation instructions before installing them in your game.
 
 ### INSTALLATION INDEX
 
