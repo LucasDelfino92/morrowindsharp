@@ -2,13 +2,7 @@
 
 Last updated: April 12th, 2020.
 
-Contact info
-
-- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
-- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
-- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
-
-Sigourn's Mod List is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 200 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
+*Sigourn's Mod List* is just that, a list of Morrowind mods I use and recommend. In spite of its size, with over 200 mods, it is a mod list that is actually fairly lightweight in what it adds and changes from the game. 
 
 Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, and the existence of an in-game mod configuration menu. Mods that function correctly and without annoying issues were a priority for this mod list.
 
@@ -58,7 +52,7 @@ Note that you don't *have* to replace your **loadorder.txt** if you don't want t
 
 Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend to rename downloaded archives for clarity. But simply follow **Mod installation order.txt** and you will be fine. I recommend following my mod list in order to minimize the amount of mods you will have to rearrange in your Mod Organizer 2 left window.
 
-## A WORD OF ADVICE
+### A WORD OF ADVICE
 
 Every single mod present in this guide is a mod I use or, in very few exceptions, a mod that is an alternative to a mod I'm using. Absent from this guide are mods I do not use, for a simple reason: if I'm not using it, it is because...
 
@@ -73,3 +67,9 @@ I want to make this clear from the start because no doubt some people will wonde
 The good news is that because I use every single mod in this list (minor conflicting alternatives) I have a good idea of the level of compatibility between the mods listed here. As such, I can tell you the conflicts are kept to a minimum, to ensure the appropriate enjoyment of each of the mods present here.
 
 The bad news is that because of the complexity of the guide, some modding experience is required. People with modding experience in future Bethesda titles will feel right at home and should have no issues whatsoever. People with no modding experience, I suggest you read the mods' descriptions and installation instructions before installing them in your game.
+
+### CONTACT INFO
+
+- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
+- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
