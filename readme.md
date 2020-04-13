@@ -2,7 +2,7 @@
 
 Last updated: April 12th, 2020.
 
-# INDEX
+## INDEX
 
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
