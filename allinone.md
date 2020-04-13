@@ -15,11 +15,6 @@
 - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: adds global map markers to all dungeons on Vvardenfell and Solstheim.
   - Only install the **Global Map Markers V1.3 - No TR version** main file.
 
-## CLEANING NOTES
-
-**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
@@ -27,8 +22,6 @@ None of these mods' assets or plugins conflict with one another.
 ## LOAD ORDER
 
 **GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # CONTENT RESTORATION
 
@@ -41,15 +34,6 @@ None of these mods' assets or plugins conflict with one another.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-## CLEANING NOTES
-
-**Bloated Caves.esp** is dirty and requires cleaning.
-- The following records must be deleted from the plugin using TESAME:
-    - Container - **cavern_spore00**
-    - Lev Item - **MU_Bloat_Random**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
@@ -100,23 +84,6 @@ None of these mods' assets or plugins conflict with one another.
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
   - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 
-## CLEANING NOTES
-
-**true corprus.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**MW_Inconsistencies.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Dubdilla Location Fix.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**HealersEdit.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Talos Cult Revised.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
 ## CONFLICT NOTES
 
 None of these mods' assets conflict with one another.
@@ -128,12 +95,6 @@ None of these mods' assets conflict with one another.
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 None of these mods' plugins will conflict with one another anymore.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # VISUALS
 
@@ -264,6 +225,31 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 ## CLEANING NOTES
 
+**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Bloated Caves.esp** is dirty and requires cleaning.
+- The following records must be deleted from the plugin using TESAME:
+    - Container - **cavern_spore00**
+    - Lev Item - **MU_Bloat_Random**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+- Clean with TESTool and tes3cmd.
+
+**true corprus.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**MW_Inconsistencies.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Dubdilla Location Fix.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**HealersEdit.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Talos Cult Revised.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 **correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
@@ -298,8 +284,6 @@ Load **Distant Lights** before **Glow in the Dahrk**.
 
 Load **di.Still.ed_Lights.esp** at the end of your load order, before **GlobalMapMarkers - no TR.esp**.
 
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
-
 # AUDIO
 
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
@@ -324,9 +308,3 @@ Load **di.Still.ed_Lights.esp** at the end of your load order, before **GlobalMa
 ## CONFLICT NOTES
 
 None of these mods' assets or plugins conflict with one another.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
