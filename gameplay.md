@@ -44,8 +44,9 @@
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures. 
-- [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds Intervention markers to temples at Suran, Vos, Maar Gan and Ghostgate. An alternate version teleports you to Ghostagate when casting ALMSIVI Intervention inside Ghostfence even if Maar Gan or Ald-ruhn temples are nearer.
-  - Only activate **Intervention Improved - NoScript - Ghostgate.esp**.
+- [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds Intervention markers to temples at Suran, Vos, Maar Gan and Ghostgate.
+  - Only activate **Intervention Improved - NoScript.esp**.
+  - If you installed [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) earlier, [**download this edited plugin**](https://www.mediafire.com/file/bkgmk6536oiesmy/Intervention_Improved_v1.2a_%28Sigourn_Edit%29.zip/file) instead, which moves the location of the Ghostgate Temple Marker.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
@@ -66,9 +67,6 @@
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
 ## CLEANING NOTES
-
-**Intervention Improved - NoScript - Ghostgate.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 **More Redoran Master Helms.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
