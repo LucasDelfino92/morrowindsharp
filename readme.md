@@ -2,14 +2,14 @@
 
 Last updated: April 12th, 2020.
 
-## INDEX
+# INDEX
 
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
 - [**Installation index**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
 - [**Contact info**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#contact-info)
 
-### INTRODUCTION
+## INTRODUCTION
 
 *Sigourn's Mod List* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
 
@@ -23,7 +23,7 @@ Because this personal mod list reflects my personal, subjective taste, here are 
 - New monsters, new NPCs, new dungeons, new towns, and similar: the vanilla content is priority, and only mods that make very small expansions upon it, all while being very well integrated and lore friendly, will be featured here.
 - Quest tweaks, quest additions, new factions, and similar: just as I said above, the vanilla content is priority in this mod list. If you feel like Morrowind needs much more content, I invite you to install your own mods.
 
-### HOW TO INSTALL THIS MOD LIST
+## HOW TO INSTALL THIS MOD LIST
 
 This mod list is divided in a serious of modules for your convenience. All modules can be installed independently from one another. Should certain mods require inter-module compatibility, specific instructions will be provided on how to achieve it. All mods will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
@@ -46,7 +46,7 @@ Note that you don't *have* to replace your **loadorder.txt** if you don't want t
 
 Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend to rename downloaded archives for clarity. But simply follow **Mod installation order.txt** and you will be fine. I recommend following my mod list in order to minimize the amount of mods you will have to rearrange in your Mod Organizer 2 left window.
 
-### INSTALLATION INDEX
+## INSTALLATION INDEX
 
 - [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a basic mod list for a (mostly) bug-free and stable Morrowind experience.
 - [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
@@ -62,7 +62,7 @@ Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend 
 - [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
 - [**Better Bodies**](https://github.com/Sigourn/morrowind-improved/blob/master/betterbodies.md): mods that use Better Bodies and New Beast Bodies as a base.
 
-### CONTACT INFO
+## CONTACT INFO
 
 - Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
 - RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
