@@ -29,22 +29,21 @@ This mod list is divided in a serious of modules for your convenience. All modul
 
 For the most part, I will provide no installation instructions whatsoever. This means two things:
 
-- That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
-- That the installation is straightforward, and requires no special instructions.
+1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
+2. That the installation is straightforward, and requires no special instructions.
 
-Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and plugin load order. A changelog is also provided to keep you up to speed with removed and added mods.
+My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and a plugin load order. A changelog is also provided to keep you up to speed with removed and added mods. 
 
-[**Download these files here.**](https://www.mediafire.com/file/o2to8m74dab8bow/Sigourns_Mod_List_%28April_13th%29.zip/file)
+You can download a package containing all three files from here:
 
-The gist of this is simple:
-- The **Mod installation order.txt** shows the proper installation order of all mods. In Mod Organizer 2, your mod installation order is found in the left window. There you can move mods around, changing their installation order.
-- The **loadorder.txt** is a Mod Organizer 2-ready text file that will automatically sort your installed mods following that specific load order (which contains *all* plugins present in the mod list above). In Mod Organizer 2, your plugin load order is found in the right window. There you can move plugins around, changing their load order. 
+[**Sigourn's Mod List: April 13th.**](https://www.mediafire.com/file/o2to8m74dab8bow/Sigourns_Mod_List_%28April_13th%29.zip/file)
 
-For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. As you install more and more mods from this mod list, you will want to regularly replace your existent loadorder.txt from the one download above. This will update your load order as you get closer to the end of this guide.
+The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. 
+- Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
+- If you use a different mod manager, no need to worry: you may not be able to adjust your load order automatically, but you can do it manually by following the plugin order in **loadorder.txt**. Likewise, if you don't want to overwrite your own **loadorder.txt**, simply do as I said earlier and match your load order manually.
+- Mod Organizer 2 or not, you *will* have to adjust your mod order manually.
 
-Note that you don't *have* to replace your **loadorder.txt** if you don't want to. Simply match your load order as closely as possible to that of the one present in the text file.
-
-Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend to rename downloaded archives for clarity. But simply follow **Mod installation order.txt** and you will be fine. I recommend following my mod list in order to minimize the amount of mods you will have to rearrange in your Mod Organizer 2 left window.
+More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind** below.
 
 ## INSTALLATION INDEX
 
