@@ -70,6 +70,6 @@ The bad news is that because of the complexity of the guide, some modding experi
 
 ### CONTACT INFO
 
-- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
-- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
-- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
+- Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
+- RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
