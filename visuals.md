@@ -139,6 +139,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
+  - I recommend opening up the console in-game and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 ## CLEANING NOTES
 
