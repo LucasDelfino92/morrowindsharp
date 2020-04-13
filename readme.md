@@ -25,7 +25,7 @@ Because this personal mod list reflects my personal, subjective taste, here are 
 
 ## HOW TO INSTALL THIS MOD LIST
 
-This mod list is divided in a serious of modules for your convenience. All modules can be installed independently from one another. Should certain mods require inter-module compatibility, specific instructions will be provided on how to achieve it. All mods will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
+This mod list is divided in a serious of modules for your convenience. All modules can be installed independently from one another. All mods will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
 For the most part, I will provide no installation instructions whatsoever. This means two things:
 
@@ -39,9 +39,9 @@ You can download a package containing all three files from here: [**Sigourn's Mo
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. 
 - Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager, no need to worry: you may not be able to adjust your load order automatically, but you can do it manually by following the plugin order in **loadorder.txt**. Likewise, if you don't want to overwrite your own **loadorder.txt**, simply do as I said earlier and match your load order manually.
-- Mod Organizer 2 or not, you *will* have to adjust your mod order manually.
+- Mod Organizer 2 or not, you *will* have to adjust your mod order manually. More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind** below.
 
-More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind** below.
+Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
 
 ## INSTALLATION INDEX
 
