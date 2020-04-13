@@ -4,8 +4,9 @@ Last updated: April 12th, 2020.
 
 ## README INDEX
 
-- **Introduction**
+- [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - **How to install this mod list**
+- **Mod order and load order**
 - **Things to keep in mind**
 - **Installation index**
 - **Contact info**
@@ -22,29 +23,13 @@ Notable mod categories which are absent from this list are:
 - Player homes.
 - Quest tweaks, new quests, new factions, etc.
 
-### BASIC INSTALLATION PROCEDURES
+### HOW TO INSTALL THIS MOD LIST
 
 Every module listed above can be installed independently from each other. All modules, however, will provide specific install instructions for compatibility with the other mods (like installing compatibility patches). These, however, are very obvious and I leave it to your judgement to know when you should or shouldn't install a certain compatibility patch.
 
 You will also notice many times I leave no installation instructions whatsoever. This means two things:
 1. That you should only install the main file (if the mod is hosted on Nexus).
 2. That the installation is straightforward.
-
-### THINGS TO KEEP IN MIND
-
-Every single mod present in this guide is a mod I use or, in very few exceptions, a mod that is an alternative to a mod I'm using. Absent from this guide are mods I do not use, for a simple reason: if I'm not using it, it is because...
-
-- I do not think it is a good mod.
-- I think it is a good mod, but with flaws that stop me from using it.
-- I'm not interested in said mod.
-- I haven't gotten to play with it yet because it drastically modifies aspects of the game (the world, the factions, the quests) that I've yet to experience as the devs intended.
-- I'm not aware of said mod's existence. This only applies for "obscure" mods, as all the popular ones are covered by the four exceptions mentioned above.
-
-I want to make this clear from the start because no doubt some people will wonder why "X" mod which is very popular was not included in the guide.
-
-The good news is that because I use every single mod in this list (minor conflicting alternatives) I have a good idea of the level of compatibility between the mods listed here. As such, I can tell you the conflicts are kept to a minimum, to ensure the appropriate enjoyment of each of the mods present here.
-
-The bad news is that because of the complexity of the guide, some modding experience is required. People with modding experience in future Bethesda titles will feel right at home and should have no issues whatsoever. People with no modding experience, I suggest you read the mods' descriptions and installation instructions before installing them in your game.
 
 ### MOD ORDER AND LOAD ORDER
 
@@ -61,6 +46,22 @@ For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside 
 Note that you don't *have* to replace your **loadorder.txt** if you don't want to. Simply match your load order as closely as possible to that of the one present in the text file.
 
 Sadly, it is near impossible to provide a functional **modlist.txt**, as I tend to rename downloaded archives for clarity. But simply follow **Mod installation order.txt** and you will be fine. I recommend following my mod list in order to minimize the amount of mods you will have to rearrange in your Mod Organizer 2 left window.
+
+### THINGS TO KEEP IN MIND
+
+Every single mod present in this guide is a mod I use or, in very few exceptions, a mod that is an alternative to a mod I'm using. Absent from this guide are mods I do not use, for a simple reason: if I'm not using it, it is because...
+
+- I do not think it is a good mod.
+- I think it is a good mod, but with flaws that stop me from using it.
+- I'm not interested in said mod.
+- I haven't gotten to play with it yet because it drastically modifies aspects of the game (the world, the factions, the quests) that I've yet to experience as the devs intended.
+- I'm not aware of said mod's existence. This only applies for "obscure" mods, as all the popular ones are covered by the four exceptions mentioned above.
+
+I want to make this clear from the start because no doubt some people will wonder why "X" mod which is very popular was not included in the guide.
+
+The good news is that because I use every single mod in this list (minor conflicting alternatives) I have a good idea of the level of compatibility between the mods listed here. As such, I can tell you the conflicts are kept to a minimum, to ensure the appropriate enjoyment of each of the mods present here.
+
+The bad news is that because of the complexity of the guide, some modding experience is required. People with modding experience in future Bethesda titles will feel right at home and should have no issues whatsoever. People with no modding experience, I suggest you read the mods' descriptions and installation instructions before installing them in your game.
 
 ### INSTALLATION INDEX
 
