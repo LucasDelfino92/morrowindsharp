@@ -49,6 +49,9 @@
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. Also introduces a sprinting mechanic, mapped to the Alt button.
+  - If you are not interested in the sprinting mechanic, simply hide/delete the **MWSE** folder found inside the mod.
+  - I recommend deleting the **fJumpRunMultiplier** record in TESAME. You will now move faster while jumping, which is crucial to clearing some obstacles in the game.
 - [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) by Talrivian and HotFusion: modifies how HP is calculated, leading to less metagaming.
 
 ## CONFLICT NOTES
