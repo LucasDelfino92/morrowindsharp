@@ -24,6 +24,7 @@
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11: makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar: adds more options for clearing a bounty on your name, all RP friendly.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk: increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
+- [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord: adds a new "defensive stance" mechanic, which increases your block and reduces your speed if you have a shield equipped while crouching. 
 - [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail: adds the descriptions from "The Consolations of Prayer" book to the message box which appears when using temple shrines to give you a better idea of what blessing you're about to receive. Also adds a "Cancel" functionality.
   - Only install the **Descriptive Shrines** main file.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -44,6 +45,7 @@
   - Only activate **Intervention Improved - NoScript.esp**.
   - If you installed [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) earlier, [**download this edited plugin**](https://www.mediafire.com/file/bkgmk6536oiesmy/Intervention_Improved_v1.2a_%28Sigourn_Edit%29.zip/file) instead, which moves the location of the Ghostgate Temple Marker.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/) by Lurlock: overhauls Morag Tong writs and also adds punishments and rewards for completing your missions, depending on whether you were caught.
