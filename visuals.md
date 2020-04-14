@@ -92,7 +92,7 @@
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277) by R-Zero: makes Bloodmoon Draugrs look a bit more like their Skyrim counterparts by changing their eye glow color from red to light blue.
 - [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) by Leyawynn: makes rats smaller.
-  - Only install the **Smaller Rats Tribunal** main file.
+  - Install the **Smaller Rats** and **Smaller Rats Tribunal** main files.
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) by Saint_Jiub: remodel and retexture of the Ancient Steel Armor set found in Bloodmoon, inspired by the Skyrim Dawnguard DLC.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
