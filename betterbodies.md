@@ -44,6 +44,8 @@ Note that all mods in this section assume the use of Better Bodies and New Beast
 - [**Bloodmoon Berserkers_2.2**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to Bloodmoon berserkers.
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists, and replaces one unique spectre with the new model. Better Bodies conversion of the original Dwarven Spectre. Makes the robe worn by the spectres a random drop.
 	- Only activate **Dwarven Spectres BB + Fem.esp**.
+- [**Golden Saint Variety**](https://www.mediafire.com/file/nei30tez8l8luwh/Golden_Saint_Variety_v1.2_%28Sigourn_Edit%29.zip/file) by Leyawynn: adds four versions of golden saints, all integrated into the same levelled lists and with the same stats. This will just make fighting golden saints more fun, as they won't look the same every time.
+	- This is my personal edit of Leyawynn's original mod, [**which can be found here**](https://www.nexusmods.com/morrowind/mods/46430). It removes the armored GoldenSaint5 and all related files.
 
 ### CHOOSE YOUR OWN MOD
 
