@@ -66,6 +66,7 @@
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
+- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd: displays projectiles on struck characters, NPCs, and more. Read the mod's FAQ for detailed information.
 - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
