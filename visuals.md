@@ -135,7 +135,7 @@ Choose between one of these two alternatives:
 The following mods require specific MGE XE install instructions. Read the mod pages carefully.
 
 - [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291?) by multiple: removes flicker effect from all light sources except fire flames, rationalizes every light emittance in the game, and darkens interiors.
-  - If you dislike the changes made to non-fire sources (like the glowing crystals, glowing lichen, and water) [**install my edited plugin**](https://www.mediafire.com/file/7w7p2r70i0v0kax/di.Still.ed_Lights_v1.0_%28Sigourn_Edit%29.zip/file) instead.
+  - If you dislike the changes made to non-fire sources (like the glowing crystals, glowing lichen, and water) [**install my edited plugin**](https://www.mediafire.com/file/xhxl486tzvnt9s8/di.Still.ed_Lights_v1.0_%28Sigourn_Edit%29.zip/file) instead, which also solves the awful lighting issue with Jiub at the beginning of the game.
 - [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) by Piratelord: makes lights visible in the distance with MGE XE. Best used with mods that make night dark. See those towns, villages, hamlets, camps from far away.
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
