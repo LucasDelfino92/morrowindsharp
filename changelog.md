@@ -8,6 +8,7 @@
 - Removed Pincushion (**Visuals**).
 - Removed RainSplash (**Visuals**).
 - Removed RR Mod Series - Better Gnisis Arch (**Visuals**).
+- Removed Vanilla Friendly Almalexia Replacer (**Visuals**).
 - Removed Umbra - Blademaster (**Gameplay**).
 - Removed Cloth Helm (**Equipment**).
 - Removed the Better Bodies category in its entirety (**Better Bodies**).
