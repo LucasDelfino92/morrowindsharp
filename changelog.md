@@ -1,9 +1,14 @@
 # CHANGELOG
 
+## APRIL 20th
+
+- Added back RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
+- Added back RR Mod Series - Ghostgate Fortress (**Overhauls**).
+- Added back the Intervention Improved compatibility patch for RR Mod Series - Ghostgate Fortress (**Gameplay**).
+
 ## APRIL 19th
 
 - Added Better Robes (**Visuals**).
-- Modified installation instructions for RR Mod Series - Ghostgate Fortress (**Overhauls**).
 - Removed FMI - Ancient Altar (**Internal Logic**). The mod has been hidden from Nexus.
 - Removed Healers (**Internal Logic**).
 - Removed di.Still.ed Lights (**Visuals**).
@@ -13,7 +18,6 @@
 - Removed Vanilla Friendly Almalexia Replacer (**Visuals**).
 - Removed RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
 - Removed Umbra - Blademaster (**Gameplay**).
-- Removed RR Mod Series - Ghostgate Fortress compatibility plugin from Intervention Improved (**Gameplay**). It is no longer needed.
 - Removed Cloth Helm (**Equipment**).
 - Removed the Better Bodies category in its entirety (**Better Bodies**).
 
