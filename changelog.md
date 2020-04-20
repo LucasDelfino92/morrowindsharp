@@ -5,6 +5,7 @@
 - Added Better Robes (**Visuals**).
 - Modified installation instructions for RR Mod Series - Ghostgate Fortress (**Overhauls**).
 - Removed FMI - Ancient Altar (**Internal Logic**). The mod has been hidden from Nexus.
+- Removed Healers (**Internal Logic**).
 - Removed di.Still.ed Lights (**Visuals**).
 - Removed Pincushion (**Visuals**).
 - Removed RainSplash (**Visuals**).
