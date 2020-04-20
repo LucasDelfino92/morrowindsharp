@@ -42,6 +42,7 @@
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures. 
 - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267?) by hollaajith: adds missing Temple markers at Suran, Vos, Maar Gan and Ghostgate, adds shrines to temples at Suran, Molag Mar and Vos Chapel, and moves the Tribunal shrine from Fort Darius at Gnisis to the Gnisis Temple.
   - Only activate **Intervention Improved - NoScript.esp**.
+  - If you installed [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) earlier, install [**this compatibility patch**](https://www.mediafire.com/file/rktbjuhz3dde792/Intervention_Improved_v1.2a_%28Ghostgate_Fortress_Compatible%29.zip/file) on top.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
