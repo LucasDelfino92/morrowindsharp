@@ -152,6 +152,9 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - Cell - **Solstheim, Bloodskal Barrow**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
+**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 ## CONFLICT NOTES
 
 **Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
