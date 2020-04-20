@@ -12,7 +12,6 @@
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that modify the fundamental balance of the game.
 - [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
-- [**Better Bodies**](https://github.com/Sigourn/morrowind-improved/blob/master/betterbodies.md): mods that use Better Bodies and New Beast Bodies as a base.
 
 # USER INTERFACE
 
