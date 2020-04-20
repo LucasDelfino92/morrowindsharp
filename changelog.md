@@ -2,6 +2,7 @@
 
 ## APRIL 20th
 
+- Added back RR Mod Series - Better Gnisis Arch (**Visuals**).
 - Added back RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
 - Added back RR Mod Series - Ghostgate Fortress (**Overhauls**).
 - Added back the Intervention Improved compatibility patch for RR Mod Series - Ghostgate Fortress (**Gameplay**).
@@ -14,7 +15,6 @@
 - Removed di.Still.ed Lights (**Visuals**).
 - Removed Pincushion (**Visuals**).
 - Removed RainSplash (**Visuals**).
-- Removed RR Mod Series - Better Gnisis Arch (**Visuals**).
 - Removed Vanilla Friendly Almalexia Replacer (**Visuals**).
 - Removed RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
 - Removed Umbra - Blademaster (**Gameplay**).
