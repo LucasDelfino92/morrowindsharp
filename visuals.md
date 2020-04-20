@@ -68,15 +68,11 @@
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
-- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd: displays projectiles on struck characters, NPCs, and more. Read the mod's FAQ for detailed information.
-- [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) by abot: adds rain splashes around the player when it is raining.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **0-Data Files**
     - **1-Glow in the Dahrk Patch**
-- [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
-  - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685?) by Melchior Dahrk and Resdayn Revival Team: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
   - Only install the **Main file for English version** main file.
   - This mod includes a .BSA file which you will have to register.
@@ -106,7 +102,6 @@
   - This mod is incorrectly packaged. Set **faint** as the proper **Data** directory in MO2.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) by Matilija: makes the water flowing around the Vivec Temple look better when compared toh MGE's phenomenal 3D water.
-- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: tweaked texture based on Qarl's Sexy Almalexy, which retains the vanilla detail on her body and armour,  as well as her skin and eye color.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -154,9 +149,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - The following records must be deleted from the plugin using TESAME:
     - Cell - **Solstheim, Bloodskal Barrow**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
