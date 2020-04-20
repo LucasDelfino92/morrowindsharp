@@ -14,7 +14,7 @@
 
 ## APRIL 18th
 
-+ Added Dagoth Ur Welcomes You (**Overhauls**).
+- Added Dagoth Ur Welcomes You (**Overhauls**).
 
 ## APRIL 14th
 
