@@ -33,7 +33,6 @@
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich: fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
 - [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich: changes the intro cinematic from "he" to "they", to refer to the player character.
 - [**FMI - Unique Lore Friendly Cave Rats**](https://www.nexusmods.com/morrowind/mods/47193) by PoodleSandwich: makes Cave Rats look like how they're described.
-- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752/) by Raejak and Simbelmyne: injured PCs can now actually visit healers, just like the NPCs suggest. These healers charge varying amounts for their services (depending on several factors), and can generally be found at the nearest Temple.
 - [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284) by R-Zero: in-game dialogues and journal entries suggested that some exceptional members of Royal Guard wield King's Oath blades, but that wasn't the case. This plugin adds King's Oath to Helseth's personal guards (the ones in the throne room, except Tienius Delitian and Karrod).
 - [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499) by Lucevar: refilters and adds on to vanilla dialogue about abolitionists, so that plantation and mine owners who make their money off slavery don't give the same line as other Hlaalu, who are more ambivalent about the practice. 
 - [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455) by Lucevar: adds an option to refuse Larrius Varro's Bloodbath quest, and edits the filtering on vanilla Balmora rumours so that they don't get overwritten by the Varro rumours. 16+ rumours now appear!
@@ -66,9 +65,6 @@
 - Clean with TESTool and tes3cmd.
 
 **Dubdilla Location Fix.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**HealersEdit.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 **Talos Cult Revised.esp** is dirty and requires cleaning.
