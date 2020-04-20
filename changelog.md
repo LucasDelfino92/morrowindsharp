@@ -12,7 +12,7 @@
 - Removed Vanilla Friendly Almalexia Replacer (**Visuals**).
 - Removed RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
 - Removed Umbra - Blademaster (**Gameplay**).
-- Removed unnecessary optional compatibility plugin from Intervention Improved (**Gameplay**).
+- Removed RR Mod Series - Ghostgate Fortress compatibility plugin from Intervention Improved (**Gameplay**). It is no longer needed.
 - Removed Cloth Helm (**Equipment**).
 - Removed the Better Bodies category in its entirety (**Better Bodies**).
 
