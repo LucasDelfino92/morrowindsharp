@@ -18,7 +18,7 @@
 - Removed [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
 - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
 - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
-- Removed the Better Bodies category in its entirety (**Better Bodies**). Personal preference.
+- Removed the **Better Bodies** category. These mods vary in quality and execution, particularly Better Clothes Complete. The only vanilla compatible mod, **Better Robes**, has been kept.
   - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395)
   - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065)
   - [**New Beast Bodies by Liztail**](https://www.nexusmods.com/morrowind/mods/47678)
