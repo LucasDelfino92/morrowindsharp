@@ -12,11 +12,9 @@
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that modify the fundamental balance of the game.
 - [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
-- [**Better Bodies**](https://github.com/Sigourn/morrowind-improved/blob/master/betterbodies.md): mods that use Better Bodies and New Beast Bodies as a base.
 
 # EQUIPMENT
 
-- [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783/) by Axeljk: adds a cloth helm to the game, which looks like a scarf. It is distributed around Vvardenfell.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk: provides a useful alternative to armor for mages as well as to provide an immersive experience by adding a uniform to mages guild members. Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
