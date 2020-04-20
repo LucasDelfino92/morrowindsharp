@@ -32,9 +32,9 @@ For the most part, I will provide no installation instructions whatsoever. This 
 1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
 2. That the installation is straightforward, and requires no special instructions.
 
-My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and a plugin load order. A changelog is also provided to keep you up to speed with removed and added mods. 
+My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and a plugin load order.
 
-You can download a package containing all three files from here: [**Sigourn's Mod List: April 18th**](https://www.mediafire.com/file/dft1yas1f7wj0wt/Sigourn%27s_Mod_List_%28April_18th%29.zip/file)
+You can download a package containing these files here: [**Sigourn's Mod List: April 19th**](https://www.mediafire.com/file/0ze43lndhloergr/Sigourn%27s_Mod_List_%28April_19th%29.zip/file)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. 
 - Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
@@ -57,6 +57,10 @@ Last but not least: when installing mods, conflicts are bound to appear sooner o
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that modify the fundamental balance of the game.
 - [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
+
+## CHANGELOG
+
+[**Click here to find the mod list's changelog.**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
 
 ## CONTACT INFO
 
