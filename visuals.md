@@ -73,6 +73,8 @@
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **0-Data Files**
     - **1-Glow in the Dahrk Patch**
+- [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
+  - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685?) by Melchior Dahrk and Resdayn Revival Team: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
   - Only install the **Main file for English version** main file.
   - This mod includes a .BSA file which you will have to register.
