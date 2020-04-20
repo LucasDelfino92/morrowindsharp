@@ -75,12 +75,25 @@
 **Passage of Prayers - Full.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
+**RR_Ghost_Gate_Fortress_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**RR_Holamayan_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 **QL_SevenGracesShrines.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
-None of these mods' assets or plugins conflict with one another.
+**Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
+
+- The following records must be deleted from QL_SevenGracesShrines.esp using TESAME:
+  - Cell **(unnamed)**
+  - Cell **(unnamed)**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+None of these mods' assets or plugins will conflict with one another anymore.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
 
