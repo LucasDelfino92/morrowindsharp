@@ -19,7 +19,16 @@
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities. 
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557) by R-Zero: adds a statue of Hlaalu Brevur to Balmora High Town district.
 - [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho: bump-maps the Cavern of the Incarnate and the Azura statue meshes, adds flowers, grass, and tiny fireflies, and modifies the armor and clothes on some of the failed incarnates.
-  - You can disable the bump-mapping on the cavern and the statue by hiding/deleting the files inside **Meshes\i**.
+  - We are only interested in the Failed Incarnates overhaul.
+    - Hide/delete the **Meshes** and **Textures** folders.
+    - In TESAME, delete the following records:
+      - Light **orange_256_ci_01**
+      - Light **azura ring light**
+      - Static **_COI_lil01**
+      - Static **_COI_lil02**
+      - Static **_COI_gra**
+      - CREA **_COI_firefly**
+      - Cell **Cavern of the Incarnate**
 - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
@@ -43,9 +52,6 @@
 - Clean with TESTool and tes3cmd.
 
 **Clean Atmospheric Delights.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**COI.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 **frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
