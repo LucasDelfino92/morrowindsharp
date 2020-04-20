@@ -19,6 +19,14 @@
 - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
 - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
 - Removed the Better Bodies category in its entirety (**Better Bodies**). Personal preference.
+  - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395)
+  - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065)
+  - [**New Beast Bodies by Liztail**](https://www.nexusmods.com/morrowind/mods/47678)
+  - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549)
+  - [**Better Morrowind Armor 2020**](http://www.mediafire.com/file/pffrp899uvuvg34/Better_Morrowind_Armor_2020_v1.0.zip/file)
+  - [**Berserkers**](https://www.nexusmods.com/morrowind/mods/43528)
+  - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617)
+  - [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430)
 
 ## APRIL 18th
 
