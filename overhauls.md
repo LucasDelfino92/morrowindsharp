@@ -28,6 +28,7 @@
     - Static **_COI_gra**
     - CREA **_COI_firefly**
     - Cell **Cavern of the Incarnate**
+  - Save the plugi nas **COI.esp**, overwriting the original when asked.
 - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
