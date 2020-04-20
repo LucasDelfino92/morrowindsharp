@@ -12,7 +12,6 @@
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how the game plays like, from small tweaks, quality of life improvements, minor radiant quest additions, or mechanical tweaks.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that modify the fundamental balance of the game.
 - [**Equipment**](https://github.com/Sigourn/morrowind-improved/blob/master/equipment.md): mods that add new pieces of equipment to the game.
-- [**Better Bodies**](https://github.com/Sigourn/morrowind-improved/blob/master/betterbodies.md): mods that use Better Bodies and New Beast Bodies as a base.
 
 # GAMEPLAY
 
@@ -60,7 +59,6 @@
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 - [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93: adds a merchant to Ghostgate, Temple who will sell you soul gems and soul trap scrolls. Especially convenient for completing the Pilgrimages of the Seven Graces.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It works with any light source, whether vanilla or custom. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-- [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk: overhauls Umbra into a truly challenging opponent with scripted behavior and new equipment.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
