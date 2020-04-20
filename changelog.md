@@ -3,13 +3,16 @@
 ## APRIL 19th
 
 - Added Better Robes (**Visuals**).
+- Modified installation instructions for RR Mod Series - Ghostgate Fortress (**Overhauls**).
 - Removed FMI - Ancient Altar (**Internal Logic**). The mod has been hidden from Nexus.
 - Removed di.Still.ed Lights (**Visuals**).
 - Removed Pincushion (**Visuals**).
 - Removed RainSplash (**Visuals**).
 - Removed RR Mod Series - Better Gnisis Arch (**Visuals**).
 - Removed Vanilla Friendly Almalexia Replacer (**Visuals**).
+- Removed RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
 - Removed Umbra - Blademaster (**Gameplay**).
+- Removed unnecessary optional compatibility plugin from Intervention Improved (**Gameplay**).
 - Removed Cloth Helm (**Equipment**).
 - Removed the Better Bodies category in its entirety (**Better Bodies**).
 
