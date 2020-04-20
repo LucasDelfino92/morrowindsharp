@@ -38,8 +38,17 @@
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
   - Hide/deactivate **Passage of Prayers - No Lore.esp**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
-- [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick only **06 - Optional - Better Ghostfence Pillars - Scythe** and click **OK**.
+- [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
+  - MO2 will install this mod as a BAIN package. Tick the following options:
+    - **00 - Main Files**
+    - **01 - Main ESP - English**
+    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
+    - **06 - Optional - Better Ghostfence Pillars - Scythe**
+- [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
+  - MO2 will install this mod as a BAIN package. Tick the following options:
+    - **00 - Main Files**
+    - **01 - Main ESP - English**
+    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
