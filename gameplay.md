@@ -30,7 +30,6 @@
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
-- [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) by Sigourn: adds a [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) compatible Temple Marker for your Almsivi Intervention needs.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
@@ -79,6 +78,13 @@
 None of these mods' assets or plugins will conflict with one another.
 
 **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
+
+**Religions Elaborated.esp** will conflict with **RR_Ghost_Gate_Fortress_Eng.ESP**, as the former's Ghostgate Temple Marker will teleport you underground.
+
+- Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) by Sigourn: adds a [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) compatible Temple Marker.
+- The following record must be deleted from **Religions Elaborated.esp**:
+  - Cell **Ghostgate**.
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
 
