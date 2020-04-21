@@ -2,6 +2,7 @@
 
 ## APRIL 21st
 
+- Added Complete Armor Joints (**Visuals**).
 - Added Ghostgate Fortress Temple Marker (**Gameplay**).
 - Added Religions Elaborated (**Gameplay**).
 - Added Temples with Shrines (**Gameplay**).
