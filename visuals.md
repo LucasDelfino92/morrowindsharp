@@ -29,6 +29,8 @@
 - [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
+- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+  - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
