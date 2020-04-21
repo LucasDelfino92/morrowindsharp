@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## APRIL 21st
+
+- Added Ghostgate Fortress Temple Marker (**Gameplay**).
+- Added Religions Elaborated (**Gameplay**).
+- Added Temples with Shrines (**Gameplay**).
+- Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) (**Gameplay**). Personal preference.
+
 ## APRIL 20th
 
 - Added back RR Mod Series - Better Gnisis Arch (**Visuals**).
