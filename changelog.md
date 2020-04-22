@@ -1,5 +1,7 @@
 # CHANGELOG
 
+[**Back to Readme.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
 ## APRIL 21st
 
 - Added Complete Armor Joints (**Visuals**).
