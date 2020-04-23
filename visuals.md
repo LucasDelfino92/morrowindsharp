@@ -5,9 +5,6 @@
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
   - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
-- [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773) by Moranar: replaces male meshes with more smooth versions and adds the analogous female variant of the robe too.
-	- This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-  - Note that this mod doesn't actually *require* Better Bodies to work.
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk: new effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt:adds unique textures to all blighted animals.
   - Install the **Blighted Animals with Vanilla textures** main file.
