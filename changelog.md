@@ -4,6 +4,7 @@
 
 ## April 23rd
 
+- Removed [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773/) (**Visuals**). Personal preference, since the mod is based on Better Bodies assets.
 - Removed [**Mages Robes**](https://www.nexusmods.com/morrowind/mods/45739) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
 - Removed [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
 
