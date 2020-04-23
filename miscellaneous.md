@@ -1,5 +1,3 @@
-# INDEX
-
 [**Back to the Installation Index.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
 
 # MISCELLANEOUS
