@@ -2,6 +2,11 @@
 
 [**Back to Readme.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 23rd
+
+- Removed [**Mages Robes**](https://www.nexusmods.com/morrowind/mods/45739) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
+- Removed [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
+
 ## APRIL 21st
 
 - Added Complete Armor Joints (**Visuals**).
