@@ -5,6 +5,7 @@
 ## April 24th
 
 - Finally added Weather Adjuster, and my Weather Adjuster json configuration (**Visuals**).
+- Added MGE XE shaders and shader chain instructions (**Mended Morrowind**).
 
 ## April 23rd
 
