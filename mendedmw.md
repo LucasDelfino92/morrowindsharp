@@ -126,7 +126,7 @@ This tab lets you generate distant land, which in other words means you will see
 The **Distant land generator wizard** lets you select which plugins you want MGE XE to use when generating distant land. My recommendation is to select **Use current load order**. When you click **Continue**, a new menu will appear, asking you which method of Distant Land generation you want to use.
 
 - **Automatic setup** will generate Distant Land for you.
-- **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. [**These are my personal settings**](https://www.mediafire.com/view/0gy55r1yvb5jlue/MGE_XE_Distant_Land_Generation.png/file) for Distant Land Generation.
+- **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. [**These are my personal settings**](https://www.mediafire.com/view/0gy55r1yvb5jlue/MGE_XE_Distant_Land_Generation.png/file) for Distant Land Generation. The "lists of statics overriding parameters" found in the fourth panel from left to the right refers to a mod that can be installed later in the mod list. Don't pay too much attention to it right now.
 - **Update existing distant land** will regenerate Distant Land according to the saved/default settings. If you have customized your setup in the past, this is the option you want to use.
 
 **IN-GAME**
