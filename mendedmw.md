@@ -126,7 +126,7 @@ This tab lets you generate distant land, which in other words means you will see
 The **Distant land generator wizard** lets you select which plugins you want MGE XE to use when generating distant land. My recommendation is to select **Use current load order**. When you click **Continue**, a new menu will appear, asking you which method of Distant Land generation you want to use.
 
 - **Automatic setup** will generate Distant Land for you.
-- **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. My suggestion, if you have a half-decent rig that can run Skyrim at 60fps, is to set the **world mesh detail** to **Ultra High**.
+- **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. [**These are my personal settings**](https://www.mediafire.com/view/0gy55r1yvb5jlue/MGE_XE_Distant_Land_Generation.png/file) for Distant Land Generation.
 - **Update existing distant land** will regenerate Distant Land according to the saved/default settings. If you have customized your setup in the past, this is the option you want to use.
 
 **IN-GAME**
