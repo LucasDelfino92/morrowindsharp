@@ -2,9 +2,14 @@
 
 # BALANCE
 
+The major rebalances we will be installing are mort's trilogy of rebalances.
+
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort: makes the Sixth House, properly, the most difficult content in the game.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
+
+The following rebalances modify certain, specific aspects of the game.
+
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
@@ -19,12 +24,15 @@
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom: factions will limit their services based on faction affiliation and rank.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
-- [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. Also introduces a sprinting mechanic, mapped to the Alt button.
   - If you are not interested in the sprinting mechanic, simply hide/delete the **MWSE** folder found inside the mod.
   - I recommend deleting the **fJumpRunMultiplier** record in TESAME. You will now move faster while jumping, which is crucial to clearing some obstacles in the game.
 - [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) by Talrivian and HotFusion: modifies how HP is calculated, leading to less metagaming.
+
+The following mod should only be installed if you are playing with the official Siege of Firemoth plugin.
+
+- [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
 ## CONFLICT NOTES
 
