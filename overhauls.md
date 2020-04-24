@@ -18,7 +18,7 @@
 - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
-  - Only activate one of the plugins. I recommend **Meteorite Ministry Temple - Higher.esp**.
+  - Only activate **Meteorite Ministry Temple - Higher.esp**.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
   - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
@@ -52,7 +52,7 @@
 **frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
-**All Meteorite Ministry plugins** are dirty and require cleaning.
+**Meteorite Ministry Temple - Higher.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 **No-Frills Open Vivec (Vanilla Placement) v1.1.esp** is dirty and requires cleaning.
