@@ -28,7 +28,7 @@
 - Moved Better Robes (**Visuals**).
 - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
 - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (**Internal Logic**). Personal preference. Replaced with Religions Elaborated.
-- Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). There are lighting issues that arise from this mod, most notably the pronounced difference between light and shadow which leads to pitch black areas on meshes that shouldn't look like so, on top of the game's dungeons not being designed around such a low light level.
+- Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). Personal preference. While there are bound to be some gameplay issues when a game isn't designed for low visibility (such as shadows not working as the player would expect), there are some lighting issues some players may find untolerable.
 - Removed [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (**Visuals**). The visual effect leads to gameplay dissonance as the player cannot pick up the visible projectiles stuck on fallen enemies or the landscape, whether for their own inventory or to remove them from the game. The projectiles also don't stick to NPC heads.
 - Removed [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) (**Visuals**). Personal preference.
 - Removed [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
