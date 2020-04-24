@@ -176,7 +176,7 @@ Remember, *use one or the other*, not both at once.
   - Install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
-### OPTIMIZATION
+# OPTIMIZATION
 
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. MO2 will install the mod as a BAIN package. Tick the following options and click **OK**.
@@ -187,11 +187,11 @@ Remember, *use one or the other*, not both at once.
   - Only install if you installed **Intelligent Textures**.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
-### EXPANSION IMPLEMENTATION
+# EXPANSION IMPLEMENTATION
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-### OFFICIAL PLUGINS
+# OFFICIAL PLUGINS
 
 Before you decide what you want to do about the official plugins, you need to know what each of them *do*:
 
@@ -215,13 +215,13 @@ All in all, we are looking at a complicated package of plugins, all with their o
 
 Because there are many ways we can go with this, I'll provide separate installation instructions depending on what you want to do.
 
-**ALL OFFICIAL PLUGINS, NO NECROLESIAN EDITS**
+### ALL OFFICIAL PLUGINS, NO NECROLESIAN EDITS
 
 1. Install the **UMOPP 3.0.4** main file.
 2. Hide/deactivate all plugins.
 3. Install the **Merged and Compatibility Versions** main file. MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK*.
 
-**ALL OFFICIAL PLUGINS, BUT WITH NECROLESIAN EDITS**
+### ALL OFFICIAL PLUGINS, BUT WITH NECROLESIAN EDITS
 
 1. Install the **UMOPP 3.0.4** main file.
 2. Hide/deactivate **adamantiumarmor.esp** and **AreaEffectArrows.esp**.
@@ -229,7 +229,8 @@ Because there are many ways we can go with this, I'll provide separate installat
 4. Install **Area Effects Arrows Integrated**.
 5. Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
-**ONLY SOME OF THE PLUGINS, WITH OR WITHOUT NECROLESIAN EDITS**
+### ONLY SOME OF THE PLUGINS, WITH OR WITHOUT NECROLESIAN EDITS
+
 1. Install the **UMOPP 3.0.4** main file.
 2. Hide/deactivate plugins as appropiate.
 3. Install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts as appropiate, and the unnecessary Area Effects Arrows Integrated plugins as mentioned above.
