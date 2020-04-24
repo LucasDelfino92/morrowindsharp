@@ -128,6 +128,23 @@ MGE XE receives constant support from the dedicated modding community, generally
 
 To install this shaders, unpack the .zip files and merge them with your Morrowind **Data Files** folder, overwriting if asked.
 
+- Launch Mod Organizer 2. From the dropdown menu, launch **MGE XE**.
+- In the **Graphics** tab, click **Shader setup...**.
+- On the **Set active shaders** window, click on **Modding >>>** and double click on the newly installed shaders on the list at the top to make them active shaders on the list at the bottom. The shaders are **EdgeAA**, **Apels GammaCorrection**, and **deband_fogaware**.
+
+The shader combination that works the best for me, and which I personally recommend, is the following:
+
+- EdgeAA
+- SSAO HQ
+- Bloom Fine
+- Underwater Effects
+- Underwater Interior Effects
+- Sunshafts
+- Eye Adaptation (HDR)
+- Depth of Field
+- Apels GammaCorrection
+- deband_fogaware
+
 ### DISTANT LAND
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
