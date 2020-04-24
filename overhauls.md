@@ -55,7 +55,7 @@
 **All Meteorite Ministry plugins** are dirty and require cleaning.
 - Clean with TESTool and tes3cmd.
 
-**No-Frills Open Vivec v1.1.esp** is dirty and requires cleaning.
+**No-Frills Open Vivec (Vanilla Placement) v1.1.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 **Passage of Prayers - Full.esp** is dirty and requires cleaning.
