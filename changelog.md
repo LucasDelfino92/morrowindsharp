@@ -2,6 +2,10 @@
 
 [**Back to Readme.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 24th
+
+- Finally added Weather Adjuster, and my Weather Adjuster json configuration (**Visuals**).
+
 ## April 23rd
 
 - Removed [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773/) (**Visuals**). Personal preference, since the mod is based on Better Bodies assets.
