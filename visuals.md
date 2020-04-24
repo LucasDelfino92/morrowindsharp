@@ -94,6 +94,10 @@
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
   - This mod is incorrectly packaged. Set **Data Files** as the proper **Data** directory in MO2.
+- [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd: regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
+  - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets.
+- [**Weather Adjuster - Sigourn's Mod List json**]() by Sigourn: personal preset for darker nights and less horrible fog.
+  - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
