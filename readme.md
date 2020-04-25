@@ -13,8 +13,7 @@ Last updated: April 25th, 2020.
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
 - [**Installation index**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
-- [**Contact info**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#contact-info)
-- [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
+- [**Changelog page**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
 
 ## INTRODUCTION
 
