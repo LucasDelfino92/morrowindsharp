@@ -1,6 +1,12 @@
 # CHANGELOG
 
-[**Back to Readme.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
+## April 25th
+
+- Fixed Weather Adjuster - Sigourn's Mod List json link (**Visuals**). Thanks to ShadowFyre for reporting it.
+- Fixed No-Frills Open Vivec information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin.
+- Merged **Equipment** section with **Gameplay** section.
 
 ## April 24th
 
