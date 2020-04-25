@@ -4,7 +4,7 @@
 
 ## April 25th Second Update
 
-- Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) (**Balance**). Personal preference, but I heavily recommend against installing a mod that makes Morrowind's already slow movement speed much slower on average.
+- Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) (**Balance**). Personal preference, but I heavily recommend against installing a mod that makes Morrowind's already slow movement speed much slower on average. Between the reduced movement speed and the noticeable stamina drain, the player will find themselves having to take regular breaks when moving from point A to point B, else risk fighting enemies without any stamina left. It's a good way to artificially extend the length of your playthrough, however, if you are so inclined.
 - Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease).
 
 ## April 25th
