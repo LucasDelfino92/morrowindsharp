@@ -25,10 +25,6 @@ The following rebalances modify certain, specific aspects of the game.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom: factions will limit their services based on faction affiliation and rank.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
 - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. Also introduces a sprinting mechanic, mapped to the Alt button.
-  - If you are not interested in the sprinting mechanic, simply hide/delete the **MWSE** folder found inside the mod.
-  - I recommend deleting the **fJumpRunMultiplier** record in TESAME. You will now move faster while jumping, which is crucial to clearing some obstacles in the game.
-- [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) by Talrivian and HotFusion: modifies how HP is calculated, leading to less metagaming.
 
 The following mod should only be installed if you are playing with the official Siege of Firemoth plugin.
 
