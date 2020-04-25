@@ -50,7 +50,7 @@ Last but not least: when installing mods, conflicts are bound to appear sooner o
 
 ## INSTALLATION INDEX
 
-- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a basic mod list for a (mostly) bug-free and stable Morrowind experience.
+- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free and stable Morrowind experience.
 - [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
 - [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of Morrowind's user interface.
 - [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of Morrowind.
