@@ -2,6 +2,12 @@
 
 Last updated: April 25th, 2020.
 
+## CONTACT INFO
+
+- Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
+- RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
+
 ## INDEX
 
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
@@ -60,9 +66,3 @@ Last but not least: when installing mods, conflicts are bound to appear sooner o
 ## CHANGELOG
 
 [**Click here to find the mod list's changelog.**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
-
-## CONTACT INFO
-
-- Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
-- RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
-- Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
