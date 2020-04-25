@@ -14,6 +14,7 @@ Last updated: April 25th, 2020.
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
 - [**Installation index**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
 - [**Contact info**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#contact-info)
+- [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
 
 ## INTRODUCTION
 
@@ -62,7 +63,3 @@ Last but not least: when installing mods, conflicts are bound to appear sooner o
 - [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how Morrowind plays, without attempting to rebalance the game.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that attempt to rebalance Morrowind.
-
-## CHANGELOG
-
-[**Click here to find the mod list's changelog.**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md)
