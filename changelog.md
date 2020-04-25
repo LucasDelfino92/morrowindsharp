@@ -2,6 +2,11 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 25th Second Update
+
+- Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029). Personal preference, but I heavily recommend against installing a mod that makes Morrowind's already slow movement speed much slower on average.
+- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease).
+
 ## April 25th
 
 - Fixed Weather Adjuster - Sigourn's Mod List json link (**Visuals**). Thanks to ShadowFyre for reporting it.
