@@ -1,6 +1,6 @@
 # SIGOURN'S MOD LIST
 
-Last updated: April 24th, 2020.
+Last updated: April 25th, 2020.
 
 ## INDEX
 
