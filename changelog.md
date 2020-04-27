@@ -2,6 +2,18 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 27th
+
+- Moved Sound Spell Sound Effect (**Audio**) to the correct **Content Restoration** section.
+- Added Great Service (**Content Restoration**).
+- Added Telvanni Staff for the Telvanni Staff (**Internal Logic**).
+- Added Pete's Scroll 2018 ...in 2020 (**Visuals**).
+- Added Settled Jiub (**Miscellaneous**).
+- Added Brutal Backstabbing (**Gameplay**).
+- Added Supply Chests Merged (**Gameplay**).
+- Added Purist Friendly Magicka Regen (**Balance**).
+- Removed Smaller Rats (**Visuals**). The hitbox of the smaller rats is misleading relative to their size.
+
 ## April 25th Second Update
 
 - Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) (**Balance**). Personal preference, but I heavily recommend against installing a mod that makes Morrowind's already slow movement speed much slower on average. Between the reduced movement speed and the noticeable stamina drain, the player will find themselves having to take regular breaks when moving from point A to point B, else risk fighting enemies without any stamina left. It's a good way to artificially extend the length of your playthrough, however, if you are so inclined.
