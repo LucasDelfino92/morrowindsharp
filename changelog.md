@@ -12,7 +12,7 @@
 - Added Brutal Backstabbing (**Gameplay**).
 - Added Supply Chests Merged (**Gameplay**).
 - Added Purist Friendly Magicka Regen (**Balance**).
-- Removed Smaller Rats (**Visuals**). The hitbox of the smaller rats is misleading relative to their size.
+- Removed [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) (**Visuals**). The hitbox of the smaller rats is misleading relative to their size.
 
 ## April 25th Second Update
 
