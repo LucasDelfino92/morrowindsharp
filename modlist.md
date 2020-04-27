@@ -438,7 +438,7 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - If used alongside **Clean_Severa Magia Fix.esp**, delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**:
-    - NPC - **severa magia**.
+    - NPC **severa magia**
 - If used alongside **RR_Ghost_Gate_Fortress_Eng.ESP**, delete the following records from **QL_SevenGracesShrines.esp**:
     - Cell **(unnamed)**
     - Cell **(unnamed)**
