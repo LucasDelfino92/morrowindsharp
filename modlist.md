@@ -259,7 +259,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - Hide/deactivate **CurioPortrait_Object.esp**.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
-  - MO2 will install this mod as a BAIN package. Tick the following and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
     - **03 Melchior's Magnificent Manuscripts**
@@ -290,13 +290,13 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - Hide/deactivate **Passage of Prayers - No Lore.esp**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the following options:
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
     - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
     - **06 - Optional - Better Ghostfence Pillars - Scythe**
 - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the following options:
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
     - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
