@@ -180,18 +180,18 @@
     - **1-White Suran Ground Textures**
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-## CHOOSE YOUR OWN MOD
+### READABLE SIGNPOSTS
 
 Choose between one of these two alternatives:
 
-- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis:  makes road signs legible. Uses vanilla background and resolution.
+- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis: makes road signs legible. Uses vanilla background and resolution.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vvardenfell only**
-- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures. It is my personal favorite.
   - Install only one of the main files.
 
-## MGE XE MODS
+### MGE XE MODS
 
 The following mods require specific MGE XE install instructions. Read the mod pages carefully.
 
