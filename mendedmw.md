@@ -232,27 +232,26 @@ All in all, we are looking at a complicated package of plugins, all with their o
 
 Because there are many ways we can go with this, I'll provide separate installation instructions depending on what you want to do.
 
-### ALL OFFICIAL PLUGINS, NO NECROLESIAN EDITS
+### ALL OFFICIAL PLUGINS
 
-1. Install the **UMOPP 3.0.4** main file.
-2. Hide/deactivate all plugins.
-3. Install the **Merged and Compatibility Versions** main file. MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
+- Install the **UMOPP 3.0.4** main file.
+- Hide/deactivate all plugins.
+- Install the **Merged and Compatibility Versions** main file. 
+  - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
-### ALL OFFICIAL PLUGINS, BUT WITH NECROLESIAN EDITS
+### ALL OFFICIAL PLUGINS, WITH NECROLESIAN EDITS
 
-1. Install the **UMOPP 3.0.4** main file.
-2. Hide/deactivate **adamantiumarmor.esp** and **AreaEffectArrows.esp**.
-3. Install **Adamantium Armor Integrated**.
-4. Install **Area Effects Arrows Integrated**.
-5. Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+- Install the **UMOPP 3.0.4** main file.
+- Hide/deactivate **adamantiumarmor.esp** and **AreaEffectArrows.esp**.
+- Install **Adamantium Armor Integrated**.
+- Install **Area Effects Arrows Integrated**.
+- Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 ### ONLY SOME OF THE PLUGINS, WITH OR WITHOUT NECROLESIAN EDITS
 
-1. Install the **UMOPP 3.0.4** main file.
-2. Hide/deactivate plugins as appropiate.
-3. Install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts as appropiate, and the unnecessary Area Effects Arrows Integrated plugins as mentioned above.
-
-The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use *all* of the official plugins.
+- Install the **UMOPP 3.0.4** main file.
+- Hide/deactivate the plugins you don't want to use.
+- If you desire, install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts and **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 # .INI EDITS
 
