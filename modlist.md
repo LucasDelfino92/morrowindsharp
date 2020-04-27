@@ -10,9 +10,9 @@
 8. [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
 9. [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#balance)
 10. [**Finishing touches**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
-    1. Cleaning notes
-    2. Conflict notes
-    3. Load order
+    1. [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
+    2. [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
+    3. [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 
 # USER INTERFACE
 
