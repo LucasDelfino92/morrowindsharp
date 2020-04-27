@@ -393,80 +393,40 @@ The following mod should only be installed if you are playing with the official 
 
 ## CLEANING NOTES
 
-**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+The following plugins are dirty and require cleaning. Clean with TESTool and tes3cmd.
 
-**Bloated Caves.esp** is dirty and requires cleaning.
-- The following records must be deleted from the plugin using TESAME:
+- **GlobalMapMarkers - no TR.esp**
+- **Bloated Caves.esp**
+- **true corprus.esp**
+- **MW_Inconsistencies.esp**
+- **Dubdilla Location Fix.esp**
+- **Talos Cult Revised.esp**
+- **correctUV Ore Replacer 1.0.esp**
+- **GITD_WL_RR_Interiors.esp**
+- **Nordic Chest Replacer.esp**
+- **RR_Gnisis_Arch_Eng.esp**
+- **Creeper the drummer.esp**
+- **settledjiub.ESP**
+- **Brevur of Balmora - Finally Some Good Statue Mod.esp**
+- **Clean Atmospheric Delights.esp**
+- **frostmoth_repaired_v0_31.esp**
+- **Meteorite Ministry Temple - Higher.esp**
+- **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
+- **Passage of Prayers - Full.esp**
+- **RR_Ghost_Gate_Fortress_Eng.esp**
+- **RR_Holamayan_Eng.esp**
+- **QL_SevenGracesShrines.esp**
+- **More Redoran Master Helms.esp**
+- **Passive_Healthy_Wildlife PS EDIT.esp**
+- **Soul Gems at Ghostgate.esp**
+
+The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+- **Bloated Caves.esp**: delete the following records:
     - Container - **cavern_spore00**
     - Lev Item - **MU_Bloat_Random**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-- Clean with TESTool and tes3cmd.
-
-**true corprus.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**MW_Inconsistencies.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Dubdilla Location Fix.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Talos Cult Revised.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Nordic Chest Replacer.esp** is dirty and requires cleaning.
-- The following records must be deleted from the plugin using TESAME:
+- **Nordic Chest Replacer.esp**: delete the following records:
     - Cell - **Solstheim, Bloodskal Barrow**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
-
-**Creeper the drummer.esp** is dirty and requires cleaning.
-
-**settledjiub.ESP** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Clean Atmospheric Delights.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Meteorite Ministry Temple - Higher.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**No-Frills Open Vivec (Vanilla Placement) v1.1.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Passage of Prayers - Full.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**RR_Ghost_Gate_Fortress_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**RR_Holamayan_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**QL_SevenGracesShrines.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**More Redoran Master Helms.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Passive_Healthy_Wildlife PS EDIT.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Soul Gems at Ghostgate.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
 
@@ -478,7 +438,7 @@ The following mod should only be installed if you are playing with the official 
 
 **Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
 
-**Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
+**Luminous Atronach** will overwrite **Creature VFX Restoration**'s changes to the Flame, Frost, and Storm Atronachs.
 
 **Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
 
