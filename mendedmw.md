@@ -236,7 +236,7 @@ Because there are many ways we can go with this, I'll provide separate installat
 
 1. Install the **UMOPP 3.0.4** main file.
 2. Hide/deactivate all plugins.
-3. Install the **Merged and Compatibility Versions** main file. MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK*.
+3. Install the **Merged and Compatibility Versions** main file. MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
 ### ALL OFFICIAL PLUGINS, BUT WITH NECROLESIAN EDITS
 
@@ -252,7 +252,7 @@ Because there are many ways we can go with this, I'll provide separate installat
 2. Hide/deactivate plugins as appropiate.
 3. Install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts as appropiate, and the unnecessary Area Effects Arrows Integrated plugins as mentioned above.
 
-The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use **all of the official add-ons*.
+The bottom line is that the **Merged and Compatibility Versions** of UMOPP will only work if you use *all* of the official plugins.
 
 # .INI EDITS
 
