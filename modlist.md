@@ -394,7 +394,6 @@ The following mod should only be installed if you are playing with the official 
 ## CLEANING NOTES
 
 **GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 **Bloated Caves.esp** is dirty and requires cleaning.
 - The following records must be deleted from the plugin using TESAME:
