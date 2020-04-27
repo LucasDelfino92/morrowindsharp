@@ -435,31 +435,22 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 ## CONFLICT NOTES
 
-**What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** will conflict with **Clean_Severa Magia Fix.esp**, as they both edit the NPC Severa Magia.
+The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** using TESAME:
+- **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** and **Clean_Severa Magia Fix.esp**: delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**:
     - NPC - **severa magia**.
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+- **QL_SevenGracesShrines.esp** and **RR_Ghost_Gate_Fortress_Eng.ESP**: delete the following records from **QL_SevenGracesShrines.esp**:
+    - Cell **(unnamed)**
+    - Cell **(unnamed)**
+- **Religions Elaborated.esp** and **RR_Ghost_Gate_Fortress_Eng.ESP**: delete the following records from **Religions Elaborated.esp**:
+    - Cell **Ghostgate**.
+    - Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file), which adds a compatible Temple Marker for both mods.
 
-**Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
+The following mods will conflict with each other. There's no guided fix.
 
-**Luminous Atronach** will overwrite **Creature VFX Restoration**'s changes to the Flame, Frost, and Storm Atronachs.
-
-**Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
-
-- The following records must be deleted from QL_SevenGracesShrines.esp using TESAME:
-  - Cell **(unnamed)**
-  - Cell **(unnamed)**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-**Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
-
-**Religions Elaborated.esp** will conflict with **RR_Ghost_Gate_Fortress_Eng.ESP**, as the former's Ghostgate Temple Marker will teleport you underground.
-
-- Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) by Sigourn: adds a [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) compatible Temple Marker.
-- The following record must be deleted from **Religions Elaborated.esp**:
-  - Cell **Ghostgate**.
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+- **Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
+- **Luminous Atronach** will overwrite **Creature VFX Restoration**'s changes to the Flame, Frost, and Storm Atronachs.
+- **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
 
 Remember to re-run TES3Merge to regenerate your Merged Objects.esp after installing new plugins.
 
