@@ -1,6 +1,6 @@
 # INDEX
 
-0. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md)
+0. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mended-morrowind)
 1. [User Interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
 2. [Content Restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 3. [Internal Logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
