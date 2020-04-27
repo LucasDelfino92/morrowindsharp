@@ -20,15 +20,9 @@
 **GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
-## CONFLICT NOTES
-
-None of these mods' assets or plugins conflict with one another.
-
 ## LOAD ORDER
 
 **GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # CONTENT RESTORATION
 
@@ -51,16 +45,6 @@ None of these mods' assets or plugins conflict with one another.
     - Lev Item - **MU_Bloat_Random**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 - Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-None of these mods' assets or plugins conflict with one another.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # INTERNAL LOGIC
 
@@ -122,21 +106,11 @@ Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after
 
 ## CONFLICT NOTES
 
-None of these mods' assets conflict with one another.
-
 **- What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** will conflict with **Clean_Severa Magia Fix.esp**, as they both edit the NPC Severa Magia.
 
 - The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** using TESAME:
     - NPC - **severa magia**.
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-None of these mods' plugins will conflict with one another anymore.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # VISUALS
 
@@ -289,8 +263,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 
 **Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
 
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
 ## LOAD ORDER
 
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
@@ -300,8 +272,6 @@ Load **Glowing Bitter Coast** before **Project Atlas**.
 Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Distant Lights** before **Glow in the Dahrk**.
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # AUDIO
 
@@ -322,16 +292,6 @@ Load **Distant Lights** before **Glow in the Dahrk**.
 - [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
-
-## CONFLICT NOTES
-
-None of these mods' assets or plugins conflict with one another.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # MISCELLANEOUS
 
@@ -363,16 +323,6 @@ Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after
 
 **settledjiub.ESP** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-None of these mods' assets or plugins conflict with one another.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # OVERHAULS
 
@@ -453,15 +403,9 @@ Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after
   - Cell **(unnamed)**
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-None of these mods' assets or plugins will conflict with one another anymore.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
 ## LOAD ORDER
 
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # GAMEPLAY
 
@@ -533,8 +477,6 @@ Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
 
 ## CONFLICT NOTES
 
-None of these mods' assets or plugins will conflict with one another.
-
 **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
 
 **Religions Elaborated.esp** will conflict with **RR_Ghost_Gate_Fortress_Eng.ESP**, as the former's Ghostgate Temple Marker will teleport you underground.
@@ -543,12 +485,6 @@ None of these mods' assets or plugins will conflict with one another.
 - The following record must be deleted from **Religions Elaborated.esp**:
   - Cell **Ghostgate**.
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-Remember to re-run **TES3Merge** to regenerate your **Merged Objects.esp** after installing new plugins.
-
-## LOAD ORDER
-
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 # BALANCE
 
@@ -582,8 +518,6 @@ The following mod should only be installed if you are playing with the official 
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
 ## CONFLICT NOTES
-
-None of these mods' assets or plugins conflict with one another.
 
 Remember to re-run TES3Merge to regenerate your Merged Objects.esp after installing new plugins.
 
