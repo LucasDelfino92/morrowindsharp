@@ -4,6 +4,7 @@
 
 ## April 27th
 
+- Complete overhaul of the mod list's format. All sections in one page.
 - Moved Sound Spell Sound Effect (**Audio**) to the correct **Content Restoration** section.
 - Added Great Service (**Content Restoration**).
 - Added Telvanni Staff for the Telvanni Staff (**Internal Logic**).
