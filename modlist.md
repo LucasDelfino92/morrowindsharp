@@ -437,12 +437,12 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-- **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** and **Clean_Severa Magia Fix.esp**: delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**:
+- If used alongside **Clean_Severa Magia Fix.esp**, delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**:
     - NPC - **severa magia**.
-- **QL_SevenGracesShrines.esp** and **RR_Ghost_Gate_Fortress_Eng.ESP**: delete the following records from **QL_SevenGracesShrines.esp**:
+- If used alongside **RR_Ghost_Gate_Fortress_Eng.ESP**, delete the following records from **QL_SevenGracesShrines.esp**:
     - Cell **(unnamed)**
     - Cell **(unnamed)**
-- **Religions Elaborated.esp** and **RR_Ghost_Gate_Fortress_Eng.ESP**: delete the following records from **Religions Elaborated.esp**:
+- If used alongside **RR_Ghost_Gate_Fortress_Eng.ESP**, delete the following records from **Religions Elaborated.esp**:
     - Cell **Ghostgate**.
     - Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file), which adds a compatible Temple Marker for both mods.
 
