@@ -1,15 +1,15 @@
 # INDEX
 
-- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of Morrowind's user interface.
-- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of Morrowind.
-- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve Morrowind's internal consistency.
-- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that modify Morrowind's visual aspect.
-- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that modify Morrowind's audio aspect.
-- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods that don't fit in any of the other categories.
-- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
-- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how Morrowind plays, without attempting to rebalance the game.
-- [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that attempt to rebalance Morrowind.
-- [**Finishing touches**](): mod cleaning, conflict notes, and load order instructions.
+- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
+- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
+- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
+- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#visuals)
+- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
+- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#miscellaneous)
+- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
+- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
+- [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#balance)
+- [**Finishing touches**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
 
 # USER INTERFACE
 
