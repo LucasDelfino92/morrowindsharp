@@ -15,6 +15,7 @@
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
   - Hide/deactivate **CurioPortrait_Object.esp**.
+- [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the following and click **OK**:
     - **00 Core**
@@ -25,6 +26,9 @@
 ## CLEANING NOTES
 
 **Creeper the drummer.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**settledjiub.ESP** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
 
 ## CONFLICT NOTES
