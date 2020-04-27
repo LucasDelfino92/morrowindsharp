@@ -15,15 +15,6 @@
 - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) by EnvyDeveloper: adds global map markers to all dungeons on Vvardenfell and Solstheim.
   - Only install the **Global Map Markers V1.3 - No TR version** main file.
 
-## CLEANING NOTES
-
-**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-## LOAD ORDER
-
-**GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
-
 # CONTENT RESTORATION
 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
@@ -36,15 +27,6 @@
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-## CLEANING NOTES
-
-**Bloated Caves.esp** is dirty and requires cleaning.
-- The following records must be deleted from the plugin using TESAME:
-    - Container - **cavern_spore00**
-    - Lev Item - **MU_Bloat_Random**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-- Clean with TESTool and tes3cmd.
 
 # INTERNAL LOGIC
 
@@ -89,28 +71,6 @@
   - Hide/deactivate **True_Scourge_zerosouls.esp**.
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
   - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
-
-## CLEANING NOTES
-
-**true corprus.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**MW_Inconsistencies.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Dubdilla Location Fix.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Talos Cult Revised.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-**- What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** will conflict with **Clean_Severa Magia Fix.esp**, as they both edit the NPC Severa Magia.
-
-- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** using TESAME:
-    - NPC - **severa magia**.
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 # VISUALS
 
@@ -241,38 +201,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
   - I recommend opening up the console in-game and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
-## CLEANING NOTES
-
-**correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Nordic Chest Replacer.esp** is dirty and requires cleaning.
-- The following records must be deleted from the plugin using TESAME:
-    - Cell - **Solstheim, Bloodskal Barrow**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-**Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
-
-**Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
-
-## LOAD ORDER
-
-Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
-
-Load **Glowing Bitter Coast** before **Project Atlas**.
-
-Load **Glow in the Dahrk** before **Project Atlas**.
-
-Load **Distant Lights** before **Glow in the Dahrk**.
-
 # AUDIO
 
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
@@ -316,14 +244,6 @@ Load **Distant Lights** before **Glow in the Dahrk**.
     - **03 Melchior's Magnificent Manuscripts**
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
-## CLEANING NOTES
-
-**Creeper the drummer.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**settledjiub.ESP** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
 # OVERHAULS
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities. 
@@ -364,48 +284,6 @@ Load **Distant Lights** before **Glow in the Dahrk**.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora. 
-
-## CLEANING NOTES
-
-**Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Clean Atmospheric Delights.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Meteorite Ministry Temple - Higher.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**No-Frills Open Vivec (Vanilla Placement) v1.1.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Passage of Prayers - Full.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**RR_Ghost_Gate_Fortress_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**RR_Holamayan_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**QL_SevenGracesShrines.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-**Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
-
-- The following records must be deleted from QL_SevenGracesShrines.esp using TESAME:
-  - Cell **(unnamed)**
-  - Cell **(unnamed)**
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
-## LOAD ORDER
-
-Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
 
 # GAMEPLAY
 
@@ -464,28 +342,6 @@ Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec v1.1.esp**.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## CLEANING NOTES
-
-**More Redoran Master Helms.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Passive_Healthy_Wildlife PS EDIT.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-**Soul Gems at Ghostgate.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
-
-## CONFLICT NOTES
-
-**Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
-
-**Religions Elaborated.esp** will conflict with **RR_Ghost_Gate_Fortress_Eng.ESP**, as the former's Ghostgate Temple Marker will teleport you underground.
-
-- Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) by Sigourn: adds a [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) compatible Temple Marker.
-- The following record must be deleted from **Religions Elaborated.esp**:
-  - Cell **Ghostgate**.
-- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
-
 # BALANCE
 
 The major rebalances we will be installing are mort's trilogy of rebalances.
@@ -517,10 +373,128 @@ The following mod should only be installed if you are playing with the official 
 
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
+## CLEANING NOTES
+
+**GlobalMapMarkers - no TR.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Bloated Caves.esp** is dirty and requires cleaning.
+- The following records must be deleted from the plugin using TESAME:
+    - Container - **cavern_spore00**
+    - Lev Item - **MU_Bloat_Random**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+- Clean with TESTool and tes3cmd.
+
+**true corprus.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**MW_Inconsistencies.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Dubdilla Location Fix.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Talos Cult Revised.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**correctUV Ore Replacer 1.0.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**GITD_WL_RR_Interiors.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Nordic Chest Replacer.esp** is dirty and requires cleaning.
+- The following records must be deleted from the plugin using TESAME:
+    - Cell - **Solstheim, Bloodskal Barrow**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+**RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Creeper the drummer.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**settledjiub.ESP** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Brevur of Balmora - Finally Some Good Statue Mod.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Clean Atmospheric Delights.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**frostmoth_repaired_v0_31.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Meteorite Ministry Temple - Higher.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**No-Frills Open Vivec (Vanilla Placement) v1.1.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Passage of Prayers - Full.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**RR_Ghost_Gate_Fortress_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**RR_Holamayan_Eng.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**QL_SevenGracesShrines.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**More Redoran Master Helms.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Passive_Healthy_Wildlife PS EDIT.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
+**Soul Gems at Ghostgate.esp** is dirty and requires cleaning.
+- Clean with TESTool and tes3cmd.
+
 ## CONFLICT NOTES
+
+**What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** will conflict with **Clean_Severa Magia Fix.esp**, as they both edit the NPC Severa Magia.
+
+- The following records must be deleted from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** using TESAME:
+    - NPC - **severa magia**.
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+**Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
+
+**Luminous Atronach** will overwrite **Creature VFX Restoration**'s to the Flame, Frost, and Storm Atronachs.
+
+**Seven Graces Shrines Enhanced** will conflict with **RR Mod Series - Ghostgate Fortress** as they both edit the Ghostfence area.
+
+- The following records must be deleted from QL_SevenGracesShrines.esp using TESAME:
+  - Cell **(unnamed)**
+  - Cell **(unnamed)**
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+
+**Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
+
+**Religions Elaborated.esp** will conflict with **RR_Ghost_Gate_Fortress_Eng.ESP**, as the former's Ghostgate Temple Marker will teleport you underground.
+
+- Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) by Sigourn: adds a [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) compatible Temple Marker.
+- The following record must be deleted from **Religions Elaborated.esp**:
+  - Cell **Ghostgate**.
+- [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 Remember to re-run TES3Merge to regenerate your Merged Objects.esp after installing new plugins.
 
 ## LOAD ORDER
+
+**GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
+
+Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
+
+Load **Glowing Bitter Coast** before **Project Atlas**.
+
+Load **Glow in the Dahrk** before **Project Atlas**.
+
+Load **Distant Lights** before **Glow in the Dahrk**.
+
+Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
