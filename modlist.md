@@ -428,10 +428,10 @@ The following plugins are dirty and require cleaning. Clean with TESTool and tes
 The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - **Bloated Caves.esp**: delete the following records:
-    - Container - **cavern_spore00**
-    - Lev Item - **MU_Bloat_Random**
+    - Container **cavern_spore00**
+    - Lev Item **MU_Bloat_Random**
 - **Nordic Chest Replacer.esp**: delete the following records:
-    - Cell - **Solstheim, Bloodskal Barrow**
+    - Cell **Solstheim, Bloodskal Barrow**
 
 ## CONFLICT NOTES
 
