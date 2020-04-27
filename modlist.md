@@ -426,10 +426,8 @@ The following mod should only be installed if you are playing with the official 
 - [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 **RR_Gnisis_Arch_Eng.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 **Creeper the drummer.esp** is dirty and requires cleaning.
-- Clean with TESTool and tes3cmd.
 
 **settledjiub.ESP** is dirty and requires cleaning.
 - Clean with TESTool and tes3cmd.
