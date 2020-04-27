@@ -136,7 +136,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - Hide/deactivate **Hopesfire Torch.esp.** 
 - [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) by Pherim, tronvillain, and nONatee: increases visual consistency by using the skull from the skeleton instead of the crude vanilla skulls.
   - This mod is incorrectly packaged. Install the contents of the **Fixed Skeletons** and **Vanilla Textures** folders inside the **Data Files** folder.
-  - Also install the **Skeletons Atlased** optional file on top of the main file.
+  - Also install the **Skeletons Atlased** optional file.
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
