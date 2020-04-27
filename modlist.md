@@ -1,3 +1,15 @@
+# INDEX
+
+- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of Morrowind's user interface.
+- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of Morrowind.
+- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve Morrowind's internal consistency.
+- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that modify Morrowind's visual aspect.
+- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that modify Morrowind's audio aspect.
+- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods that don't fit in any of the other categories.
+- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
+- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how Morrowind plays, without attempting to rebalance the game.
+- [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that attempt to rebalance Morrowind.
+
 # USER INTERFACE
 
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
