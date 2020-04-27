@@ -460,8 +460,6 @@ Remember to re-run TES3Merge to regenerate your Merged Objects.esp after install
 
 ## LOAD ORDER
 
-**GlobalMapMarkers - no TR.esp** should be loaded at the end of your load order, as changes done by other mods can override the Cell name edits of this mod.
-
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
 Load **Glowing Bitter Coast** before **Project Atlas**.
@@ -471,5 +469,7 @@ Load **Glow in the Dahrk** before **Project Atlas**.
 Load **Distant Lights** before **Glow in the Dahrk**.
 
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
+
+Load **GlobalMapMarkers - no TR.esp** at the end of your load order, as changes done by other mods can override the Cell name edits of this plugin.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
