@@ -50,14 +50,6 @@ Last but not least: when installing mods, conflicts are bound to appear sooner o
 
 ## INSTALLATION INDEX
 
-- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free and stable Morrowind experience.
+- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
 - [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
-- [**User Interface**](https://github.com/Sigourn/morrowind-improved/blob/master/userinterface.md): mods that improve on the functionality of Morrowind's user interface.
-- [**Content Restoration**](https://github.com/Sigourn/morrowind-improved/blob/master/contentrestoration.md): mods that restore content cut from the final release of Morrowind.
-- [**Internal Logic**](https://github.com/Sigourn/morrowind-improved/blob/master/internallogic.md): mods that improve Morrowind's internal consistency.
-- [**Visuals**](https://github.com/Sigourn/morrowind-improved/blob/master/visuals.md): mods that modify Morrowind's visual aspect.
-- [**Audio**](https://github.com/Sigourn/morrowind-improved/blob/master/audio.md): mods that modify Morrowind's audio aspect.
-- [**Miscellaneous**](https://github.com/Sigourn/morrowind-improved/blob/master/miscellaneous.md): mods that don't fit in any of the other categories.
-- [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
-- [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how Morrowind plays, without attempting to rebalance the game.
-- [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that attempt to rebalance Morrowind.
+- [**Sigourn's Mod List**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): your Morrowind modding journey will begin here. Mods that go beyond the purist approach, aiming for a vanilla+ feel.
