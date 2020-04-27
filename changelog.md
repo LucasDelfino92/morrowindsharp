@@ -1,4 +1,4 @@
-# LUCAS' MORROWIND CHANGELOG
+# SIGOURN'S MOD LIST CHANGELOG
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
