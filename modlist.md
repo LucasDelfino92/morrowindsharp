@@ -1,5 +1,6 @@
 # INDEX
 
+0. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md)
 1. [User Interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
 2. [Content Restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 3. [Internal Logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
@@ -13,6 +14,10 @@
     1. [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     2. [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
     3. [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
+
+# MENDED MORROWIND
+
+The Mended Morrowind guide has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md)
 
 # USER INTERFACE
 
