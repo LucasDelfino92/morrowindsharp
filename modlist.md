@@ -9,6 +9,7 @@
 - [**Overhauls**](https://github.com/Sigourn/morrowind-improved/blob/master/overhauls.md): mods that make significant changes to locations, including dungeons, towns, and villages, and don't limit themselves to retextures or minor additions.
 - [**Gameplay**](https://github.com/Sigourn/morrowind-improved/blob/master/gameplay.md): mods that modify how Morrowind plays, without attempting to rebalance the game.
 - [**Balance**](https://github.com/Sigourn/morrowind-improved/blob/master/balance.md): mods that attempt to rebalance Morrowind.
+- [**Finishing touches**](): mod cleaning, conflict notes, and load order instructions.
 
 # USER INTERFACE
 
