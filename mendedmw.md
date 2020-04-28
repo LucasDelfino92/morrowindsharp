@@ -234,15 +234,15 @@ Because this is arguably one of the most complicated installations in this guide
 ### CUSTOM INSTALLATION
 
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
-- Install the **UMOPP 3.0.4** main file.
-  - Hide/deactivate the plugins you are not interested in.
-  - If you are using **adamantiumarmor.esp**:
-    - Hide/deactivate **adamantiumarmor.esp**.
-    - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
-  - If you are using **AreaEffectArrows.esp**:
-    - Hide/deactivate **AreaEffectArrows.esp**.
-    - Install [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-    - Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+  - Install the **UMOPP 3.0.4** main file.
+    - Hide/deactivate the plugins you are not interested in.
+    - If you are using **adamantiumarmor.esp**:
+      - Hide/deactivate **adamantiumarmor.esp**.
+      - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
+    - If you are using **AreaEffectArrows.esp**:
+      - Hide/deactivate **AreaEffectArrows.esp**.
+      - Install [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
+      - Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 # .INI EDITS
 
