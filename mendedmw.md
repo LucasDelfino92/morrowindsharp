@@ -221,7 +221,7 @@ Before you decide what you want to do about the official plugins, you need to kn
 - **Adamantium Armor**: a new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
 - **Siege at Firemoth**: the island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
 
-Because this is arguably one of the most complicated installations in this guide, I'll offer two sets of instructions, depending on whether you install all official plugins, or a combination of the others.
+I'll offer two sets of instructions, depending on whether you install all official plugins, or a combination of them.
 
 ### ALL OFFICIAL PLUGINS INSTALLATION
 
