@@ -37,7 +37,7 @@ For the most part, I will provide no installation instructions whatsoever. This 
 1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
 2. That the installation is straightforward, and requires no special instructions.
 
-My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. 
+My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
 
 ## MOD ORDER AND LOAD ORDER
 
@@ -49,8 +49,6 @@ The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, a
 - Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager, no need to worry: you may not be able to adjust your load order automatically, but you can do it manually by following the plugin order in **loadorder.txt**. Likewise, if you don't want to overwrite your own **loadorder.txt**, simply do as I said earlier and match your load order manually.
 - Mod Organizer 2 or not, you *will* have to adjust your mod order manually. More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind** below.
-
-Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
 
 ## INSTALLATION INDEX
 
