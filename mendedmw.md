@@ -223,7 +223,7 @@ Before you decide what you want to do about the official plugins, you need to kn
 
 Because this is arguably one of the most complicated installations in this guide, I'll offer two sets of instructions, depending on whether you install all official plugins, or a combination of the others.
 
-### ALL OFFICIAL PLUGINS ONLY
+### ALL OFFICIAL PLUGINS INSTALLATION
 
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
   - Install the **UMOPP 3.0.4** main file.
@@ -231,7 +231,7 @@ Because this is arguably one of the most complicated installations in this guide
   - Install the **Merged and Compatibility Versions** main file. 
     - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
-### CUSTOM INSTALL
+### CUSTOM INSTALLATION
 
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
 - Install the **UMOPP 3.0.4** main file.
