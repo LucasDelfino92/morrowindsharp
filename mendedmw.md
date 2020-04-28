@@ -221,33 +221,28 @@ Before you decide what you want to do about the official plugins, you need to kn
 - **Adamantium Armor**: a new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
 - **Siege at Firemoth**: the island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
 
-Out of all those plugins, the following two have received better implementations:
-
-- [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
-
-All in all, we are looking at a complicated package of plugins, all with their own bugs, except for Necrolesian's re-implementations. Because of this, if you want to use any add-ons other than Necrolesian's edited plugins, you WILL need the following:
-
-- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
-
-Because there are many ways we can go with this, I'll provide separate installation instructions depending on what you want to do.
+Because this is arguably one of the most complicated installations in this guide, I'll offer two sets of instructions, depending on whether you install all official plugins, or a combination of the others.
 
 ### ALL OFFICIAL PLUGINS ONLY
 
-- Install the **UMOPP 3.0.4** main file.
-- Hide/deactivate all plugins.
-- Install the **Merged and Compatibility Versions** main file. 
-  - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
+  - Install the **UMOPP 3.0.4** main file.
+    - Hide/deactivate all plugins.
+  - Install the **Merged and Compatibility Versions** main file. 
+    - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
-### YOUR OWN COMBINATION OF PLUGINS
+### CUSTOM INSTALL
 
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
 - Install the **UMOPP 3.0.4** main file.
-- Hide/deactivate the plugins you are not interested in.
-- If you are interested in Necrolesian's Integrated plugins:
-  - Install **Adamantium Armor Integrated**.
-  - Hide/deactivate **adamantiumarmor.esp**.
-  - Install **Area Effects Arrows Integrated**.
-  - Hide/deactivate **AreaEffectArrows.esp**, **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+  - Hide/deactivate the plugins you are not interested in.
+  - If you are using **adamantiumarmor.esp**:
+    - Hide/deactivate **adamantiumarmor.esp**.
+    - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
+  - If you are using **AreaEffectArrows.esp**:
+    - Hide/deactivate **AreaEffectArrows.esp**.
+    - Install [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
+    - Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 # .INI EDITS
 
