@@ -239,19 +239,15 @@ Because there are many ways we can go with this, I'll provide separate installat
 - Install the **Merged and Compatibility Versions** main file. 
   - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
-### ALL OFFICIAL PLUGINS, WITH NECROLESIAN EDITS
+### CHOOSE YOUR OWN PLUGINS
 
 - Install the **UMOPP 3.0.4** main file.
-- Hide/deactivate **adamantiumarmor.esp** and **AreaEffectArrows.esp**.
-- Install **Adamantium Armor Integrated**.
-- Install **Area Effects Arrows Integrated**.
-- Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
-
-### ONLY SOME OF THE PLUGINS, WITH OR WITHOUT NECROLESIAN EDITS
-
-- Install the **UMOPP 3.0.4** main file.
-- Hide/deactivate the plugins you don't want to use.
-- If you desire, install **Adamantium Armor Integrated** and/or **Area Effects Arrows Integrated**, disabling/enabling their official counterparts and **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+- Hide/deactivate the plugins you are not interested in.
+- If you are interested in Necrolesian's Integrated plugins:
+  - Install **Adamantium Armor Integrated**.
+  - Hide/deactivate **adamantiumarmor.esp**.
+  - Install **Area Effects Arrows Integrated**.
+  - Hide/deactivate **AreaEffectArrows.esp**, **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 # .INI EDITS
 
