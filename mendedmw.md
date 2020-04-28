@@ -236,7 +236,7 @@ I'll offer two sets of instructions, depending on whether you install all offici
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
   - Install the **UMOPP 3.0.4** main file.
     - Hide/deactivate the plugins you are not interested in.
-  - Optional but recommended:
+  - Optional but highly recommended:
     - If you are using **adamantiumarmor.esp**:
       - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale.
       - Hide/deactivate **adamantiumarmor.esp**.
