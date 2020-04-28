@@ -128,6 +128,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
     - **03 Nord Glass Windows Interior Sunrays**
     - **04 Telvanni Dormers on Vvardenfell**
     - **05 Raven Rock Glass Windows Interior Sunrays**
+  - Hide/deactive **GITD_Telvanni_Dormers_Exterior.ESP** and **GITD_Telvanni_Dormers_Interior.ESP**
 - [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
