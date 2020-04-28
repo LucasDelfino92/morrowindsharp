@@ -238,12 +238,11 @@ Because this is arguably one of the most complicated installations in this guide
     - Hide/deactivate the plugins you are not interested in.
   - Optional but recommended:
     - If you are using **adamantiumarmor.esp**:
+      - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale.
       - Hide/deactivate **adamantiumarmor.esp**.
-      - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale. 
     - If you are using **AreaEffectArrows.esp**:
-      - Hide/deactivate **AreaEffectArrows.esp**.
       - Install [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-      - Hide/deactivate **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+      - Hide/deactivate **AreaEffectArrows.esp**, **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
 
 # .INI EDITS
 
