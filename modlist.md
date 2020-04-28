@@ -14,6 +14,7 @@
     1. [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     2. [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
     3. [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
+11. [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDED MORROWIND
 
