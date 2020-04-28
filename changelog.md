@@ -18,7 +18,7 @@
 ## April 25th Second Update
 
 - Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) (**Balance**). Personal preference. May make your average movement speed slower if you tend to carry a lot of weight.
-- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease).
+- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease). It also inflates your HP too much.
 
 ## April 25th
 
