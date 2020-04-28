@@ -2,6 +2,11 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 28th
+
+- Added Vanilla Friendly Scum Texture (**Visuals**).
+- Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) (**Visuals**). Replaced with Vanilla Friendly Scum Texture.
+
 ## April 27th
 
 - Complete overhaul of the mod list's format. All sections in one page.
