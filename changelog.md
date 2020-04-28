@@ -4,6 +4,8 @@
 
 ## April 28th
 
+- Fixed misleading installation instructions for the official plugins (**Mended Morrowind**) and Glow in the Dahrk (**Visuals**).
+- Fixed wrong plugin in loadorder.txt (now properly reads Area Effect Arrows Integrated.esp).
 - Added Vanilla Friendly Scum Texture (**Visuals**).
 - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) (**Visuals**). Replaced with Vanilla Friendly Scum Texture.
 
