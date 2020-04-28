@@ -37,7 +37,11 @@ For the most part, I will provide no installation instructions whatsoever. This 
 1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
 2. That the installation is straightforward, and requires no special instructions.
 
-My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and a plugin load order.
+My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. 
+
+## MOD ORDER AND LOAD ORDER
+
+Since you will be (potentially) installing hundreds of mods and hundreds of plugins, I saw fit to provide a working mod installation order and a plugin load order.
 
 You can download a package containing these files here: [**Sigourn's Mod List: April 27th**](https://www.mediafire.com/file/byikvr2e6ffw3hm/Sigourn%27s_Mod_List_%28April_27th%29.zip/file)
 
