@@ -232,14 +232,14 @@ All in all, we are looking at a complicated package of plugins, all with their o
 
 Because there are many ways we can go with this, I'll provide separate installation instructions depending on what you want to do.
 
-### ALL OFFICIAL PLUGINS
+### ALL OFFICIAL PLUGINS ONLY
 
 - Install the **UMOPP 3.0.4** main file.
 - Hide/deactivate all plugins.
 - Install the **Merged and Compatibility Versions** main file. 
   - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
 
-### CHOOSE YOUR OWN PLUGINS
+### YOUR OWN COMBINATION OF PLUGINS
 
 - Install the **UMOPP 3.0.4** main file.
 - Hide/deactivate the plugins you are not interested in.
