@@ -5,6 +5,7 @@
 ## April 29th
 
 - Drastically simplified installation instructions for the official plugins (**Mended Morrowind**). Now their merged installation is mandatory.
+- Expanded on the instructions for plugin cleaning (**Tools**).
 - Moved installation of Necrolesian's official plugins integration to the **Gameplay** section.
 - Modified Melchior's Mudcrab Merchant with a link to a newer version (**Visuals**).
 - Modified Facelift with instructions for installing its update (**Visuals**).
