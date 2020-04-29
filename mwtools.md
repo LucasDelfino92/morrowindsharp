@@ -152,7 +152,7 @@ The first step is to clean plugins using TESTool.
 
 ### Tes3cmd clean fancy2.bat
 
-Our second step is to clean the "already clean" plugins and the plugins which TESTool effectively cleaned.
+Our second step is to clean the plugins which TESTool didn't clean, and the plugins which TESTool effectively cleaned (but which may still require some cleaning).
 
 - You will have to **cut** and paste into your **Morrowind\Data Files** folder all plugins which TESTool cleaned. These plugins are found in your **Morrowind\Mod Organizer 2\overwrite\Clean** folder.
 
