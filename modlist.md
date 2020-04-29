@@ -459,7 +459,7 @@ The following mods will conflict with each other. There's no guided fix.
 - **Luminous Atronach** will overwrite **Creature VFX Restoration**'s changes to the Flame, Frost, and Storm Atronachs.
 - **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
 
-Remember to re-run TES3Merge to regenerate your Merged Objects.esp after installing new plugins, and regenerate your Distant Land.
+Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
 
 ## LOAD ORDER
 
