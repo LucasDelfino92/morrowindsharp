@@ -8,15 +8,7 @@ The Morrowind we will be modding is the Game of the Year Edition [**available fo
 
 Install Morrowind to a root directory (e.g. C:\Games\Morrowind\). This will save you headaches later on.
 
-Your **Data Files** folder contains your game’s data. If you followed my advice earlier, it should be found in C:\Games\Morrowind\Data Files\. 
-
-### A NOTE ON THE OFFICIAL ADD-ONS
-
-Many experienced modders agree the official add-ons are, in general lines, poorly made. Some have a very questionable implementation that reeks of amateurism. Thankfully some modders have done right by them.
-
-Because you will have to choose whether you want to use patched or "modded" versions of these add-ons, not to mention use them **at all**, the first thing to do is to **remove the official plugins**. To do so, enter your Data Files folder, create a new folder named “Official Plugins”, and move ALL .esp and .txt files into said folder.
-
-Near the end of the guide there will be a detailed section on how to deal with the add-ons.
+Your **Data Files** folder contains your game’s data. If you followed my advice earlier, it should be found in C:\Games\Morrowind\Data Files\.
 
 ### MODDING BASICS
 
@@ -208,41 +200,29 @@ Remember, *use one or the other*, not both at once.
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-# OFFICIAL PLUGINS
+# OFFICIAL PLUGINS PATCHED
 
-Before you decide what you want to do about the official plugins, you need to know what each of them *do*:
+Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) Though many experienced modders agree the official add-ons are, in general lines, poorly made or implemented into the game, my opinion is that it doesn't hurt to have them. But first, we have to patch them, as Patch for Purists doesn't cover them.
 
-- **Helm of Tohan**: the Adamantium Helm of Tohan is a rare and powerful artifact lost in the Sheogorad Region. Travel north to Dagon Fel to find out more about this legendary helm.
-- **Entertainers**: speak with Dulnea Ralaal in Balmora, Eight Plates on the topic "entertain the patrons". She will give you options to tell jokes, dance the high-kick, play the drum, play the lute and sing, or juggle.
-- **Bitter Coast Sounds**: let the gentle chorus of swamp wildlife draw you further into the mire throughout the entire swampy region of the Bitter Coast. You'll find dragonfly creatures now inhabit the muck ponds along the coast.
-- **Area Effect Arrows**: visit Aradraen the Fletcher in Vivec's Foreign Quarter Lower Waistworks for the world famous area effect arrows exclusive to her shop.
-- **Master Index**: this is a quest to find the ten propylon indices. In return for completing this quest, you will receive the Master Index, allowing you to travel to any propylon chamber, or return to the Caldera Mages Guild from any propylon chamber.
-- **LeFemm Armor**: LeFemm Armor, specially tailored for the ladies, is on sale at the Fighters Guild in Vivec, from Sirollus Saccus in Ebonheart, the Redoran Vaults, and the lady smiths in Ald-ruhn, Sadrith Mora, and Ald Velothi.
-- **Adamantium Armor**: a new shipment of hard to find Adamantium Armor has arrived in places across Vvardenfell.
-- **Siege at Firemoth**: the island fortress of Firemoth was taken by the skeleton army of Grurn years ago. It's time to take it back.
+The first step is to remove the official plugins from your Data Files folder. Note that **Tribunal** and **Bloodmoon** are *expansions*, so *don't* make the mistake of removing those. The plugins you should remove are, thus:
+- adamantiumarmor.esp
+- AreaEffectArrows.esp
+- bcsounds.esp
+- EBQ_Artifact.esp
+- entertainers.esp
+- LeFemmArmor.esp
+- master_index.esp
+- Siege at Firemoth.esp
 
-I'll offer two sets of instructions, depending on whether you install all official plugins, or a combination of them.
-
-### ALL OFFICIAL PLUGINS INSTALLATION
+The second step is to install patched versions of the official plugins.
 
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
   - Install the **UMOPP 3.0.4** main file.
-    - Hide/deactivate all plugins.
   - Install the **Merged and Compatibility Versions** main file. 
     - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
+    - Hide/deactivate all official plugins.
 
-### CUSTOM INSTALLATION
-
-- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
-  - Install the **UMOPP 3.0.4** main file.
-    - Hide/deactivate the plugins you are not interested in.
-  - Optional but highly recommended:
-    - If you are using **adamantiumarmor.esp**:
-      - Install [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian: places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're no longer for sale.
-      - Hide/deactivate **adamantiumarmor.esp**.
-    - If you are using **AreaEffectArrows.esp**:
-      - Install [**Area Effects Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian: distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-      - Hide/deactivate **AreaEffectArrows.esp**, **Area Effects Projectiles Integrated.esp** and **Area Effects Projectiles Integrated (PAR Edit).esp**.
+This ensures you have all official plugins by Bethesda, patched for bug fixes, and merged into a single plugin.
 
 # .INI EDITS
 
