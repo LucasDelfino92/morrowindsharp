@@ -13,9 +13,9 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 - [**TESAME**](http://wiki.theassimilationlab.com/mmw/TESAME): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
 - [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins.
 
-## SETTING UP TOOLS IN MOD ORGANIZER 2
+# SETTING UP TOOLS IN MOD ORGANIZER 2
 
-### tes3cmd
+## tes3cmd
 
 Unlike the other tools listed above, tes3cmd *should not* be run through Mod Organizer 2. It can be a major pain in the ass, and we do not want that.
 
@@ -25,7 +25,7 @@ Unlike the other tools listed above, tes3cmd *should not* be run through Mod Org
 
 **tes3cmd** is now set and ready to go.
 
-### Standard executables
+## Standard executables
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
@@ -77,15 +77,13 @@ Files in the **Overwrite** folder will overwrite all your installed assets and p
 
 You shouldn't do this indiscriminately though. By following my mod list, from time to time you will come across plugins that need to be edited for compatibility. Hopefully that way you will learn the habit of keeping a clean **Overwrite** folder.
 
-## A QUICK RUNDOWN OF EACH TOOL
+# A QUICK RUNDOWN OF EACH TOOL
 
-### TES3Merge
-
-When launching TES3Merge in MO2, the tool will merge the objects in your active plugins in order to reduce conflicts. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like.
+## CONFLICTING SOLVING
 
 ### TES3View
 
-TES3View and TES3Merge are great companion tools, as you can see how many conflicts TES3Merge's **Merged Objects.esp** solves, and how many conflicts are still unresolved. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
+TES3View is a great tool that let's you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
 - Launch TES3View in MO2.
 - Right click on any plugin, and click **Select all**. Click **OK**.
@@ -95,7 +93,7 @@ TES3View and TES3Merge are great companion tools, as you can see how many confli
 
 ### TESAME
 
-TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as to merge plugins. I personally use it only to delete unwanted records from a mod, which is what I'll explain how to do. Just like it was for TES3Merge, TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
+TES Advanced Mod Editor let's you open a plugin in order to clean it manually, deleting unwanted records from a mod. TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
 
 - Launch TESAME in MO2.
 - Go to **Mods -> Open ..**
@@ -105,11 +103,29 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it, as well as
 - Go to **Mods -> Save as ..**
 - Remove the **Clean** prefix from the plugin name and save it, **overwriting** the original .esp.
 
-The newly edited plugin will be found in the mod's installation folder.
+The newly edited plugin will be found in the mod's installation folder inside Mod Organizer 2\mods\.
+
+### TES3Merge
+
+TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
+
+To run it, simply launch TES3Merge in MO2. Once it's finished, **Merged Objects.esp** will now be present at the end of your load order.
 
 ### TESTool
 
-TESTool is an older alternative to TES3Merge. However, its main purpose to us is its ability to clean mods, and the generation of **Merged_Leveled_Lists.esp**.
+TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. 
+
+- Launch TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Select **Merge Leveled Lists for active plugins** and click **Execute**.
+- If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
+- Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
+
+## PLUGIN CLEANING
+
+### TESTool
+
+In addition to merging leveled lists, TESTool also has the ability to clean mods.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
@@ -137,10 +153,10 @@ Like TESTool, tes3cmd is used for cleaning mods. How it works is as follows.
   
 Once the plugin is cleaned, you have two options, entirely up to you:
 
-- Make the plugin a .zip file and install it through MO2, overwriting the original, unclean plugin.
-- Drag and drop the cleaned plugin into its MO2 installation folder, found in **Mod Organizer 2\mods** (paste into the appropiate mod folder, overwriting when asked).
+1. Make the plugin a .zip file and install it through MO2, overwriting the original, unclean plugin.
+2. Drag and drop the cleaned plugin into its MO2 installation folder, found in **Mod Organizer 2\mods** (paste into the appropiate mod folder, overwriting when asked).
 
-I personally prefer method one, but like I said, it is entirely up to you.
+I personally prefer method 1, but like I said, it is entirely up to you.
 
 ## A NOTE ON MOD CLEANING
 
