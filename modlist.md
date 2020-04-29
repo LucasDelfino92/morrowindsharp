@@ -407,30 +407,30 @@ The following mod should only be installed if you are playing with the official 
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
-- **GlobalMapMarkers - no TR.esp**
 - **Bloated Caves.esp**
-- **true corprus.esp**
-- **MW_Inconsistencies.esp**
-- **Dubdilla Location Fix.esp**
-- **Talos Cult Revised.esp**
-- **correctUV Ore Replacer 1.0.esp**
-- **GITD_WL_RR_Interiors.esp**
-- **Nordic Chest Replacer.esp**
-- **RR_Gnisis_Arch_Eng.esp**
-- **Creeper the drummer.esp**
-- **settledjiub.ESP**
 - **Brevur of Balmora - Finally Some Good Statue Mod.esp**
 - **Clean Atmospheric Delights.esp**
+- **correctUV Ore Replacer 1.0.esp**
+- **Creeper the drummer.esp**
+- **Dubdilla Location Fix.esp**
 - **frostmoth_repaired_v0_31.esp**
+- **GITD_WL_RR_Interiors.esp**
+- **GlobalMapMarkers - no TR.esp**
 - **Meteorite Ministry Temple - Higher.esp**
-- **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
-- **Passage of Prayers - Full.esp**
-- **RR_Ghost_Gate_Fortress_Eng.esp**
-- **RR_Holamayan_Eng.esp**
-- **QL_SevenGracesShrines.esp**
 - **More Redoran Master Helms.esp**
+- **MW_Inconsistencies.esp**
+- **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
+- **Nordic Chest Replacer.esp**
+- **Passage of Prayers - Full.esp**
 - **Passive_Healthy_Wildlife PS EDIT.esp**
+- **QL_SevenGracesShrines.esp**
+- **RR_Ghost_Gate_Fortress_Eng.esp**
+- **RR_Gnisis_Arch_Eng.esp**
+- **RR_Holamayan_Eng.esp**
+- **settledjiub.ESP**
 - **Soul Gems at Ghostgate.esp**
+- **Talos Cult Revised.esp**
+- **true corprus.esp**
 
 The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
