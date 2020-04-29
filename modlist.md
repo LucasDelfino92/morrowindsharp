@@ -131,7 +131,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
     - **03 Nord Glass Windows Interior Sunrays**
     - **04 Telvanni Dormers on Vvardenfell**
     - **05 Raven Rock Glass Windows Interior Sunrays**
-  - Hide/deactive **GITD_Telvanni_Dormers_Exterior.ESP** and **GITD_Telvanni_Dormers_Interior.ESP**
+  - Hide/disable **GITD_Telvanni_Dormers_Exterior.ESP** and **GITD_Telvanni_Dormers_Interior.ESP**
 - [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
@@ -150,7 +150,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
-  - Hide/deactive **Melchior's Mudcrab Merchant - ReducedGold.ESP**.
+  - Hide/disable **Melchior's Mudcrab Merchant - ReducedGold.ESP**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat: replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -384,7 +384,7 @@ The following rebalances modify certain, specific aspects of the game.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
-  - Hide/deactive **higher faction requirements - Morrowind Only.esp**.
+  - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade: puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
