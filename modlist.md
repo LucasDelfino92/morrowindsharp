@@ -405,7 +405,7 @@ The following mod should only be installed if you are playing with the official 
 
 ## CLEANING NOTES
 
-The following plugins are dirty and require cleaning. Clean with TESTool and tes3cmd.
+The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
 - **GlobalMapMarkers - no TR.esp**
 - **Bloated Caves.esp**
