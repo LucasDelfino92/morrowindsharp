@@ -113,6 +113,8 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
+  - Only install the **kart_facelift_default** main file.
+  - Also install the **kart_facelift_update_0-10-2** update file.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
 - [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) by Leyawynn: removes the guard on the Fang of Haynekhtnamet to make it look more like a fang.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
