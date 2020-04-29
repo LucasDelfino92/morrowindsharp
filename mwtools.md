@@ -123,41 +123,57 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 
 ## PLUGIN CLEANING
 
-At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Follow the instructions found here for each of these tools.
-
-### TESTool
+At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Before we begin, we will set up TESTool for plugin cleaning.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
 - Click **Options**.
 - Make sure the following options are active:
+  - Don't change plugin filenames.
   - Ignore tribunal.esm
   - Ignore bloodmoon.esm
   - Restricted dialog cleaning
   - Restricted cell cleaning
 - Click **Done**.
-- Select **Clean ESP/ESM files** and click **Execute**.
-- Browse for your **Morrowind\Data Files** folder, and select all plugins that require cleaning.
-- Once the process is finished, two things will happen: cleaned plugins will be generated in your **Overwrite** folder, and a log will be generated in your **Morrowind\TESTool** folder, called TESTool.log.
+- Close TESTool.
 
-As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
-
-### Tes3cmd clean fancy2.bat
-
-- Cut and paste the plugins that require cleaning into **Morrowind\Data Files** and drop individually drop them into **Tes3cmd clean fancy2.bat**.
-- One of two things will happen:
-  1. The mod will be cleaned, and both a .tmp file and a cleaning log will be generated. You can delete the original .esp, and **rename the .tmp file** to remove the .tmp extension. It will now be your cleaned plugin, and you will have to install it through MO2.
-  2. The mod will not be cleaned, and a cleaning log will be generated.
-
-## HOW TO INSTALL CLEANED PLUGINS
-
-Once the plugin is cleaned, you have two options, entirely up to you:
-
-1. Make the plugin a .zip file and install it through MO2, overwriting the original, unclean plugin.
-2. Drag and drop the cleaned plugin into its MO2 installation folder, found in **Mod Organizer 2\mods** (paste into the appropiate mod folder, overwriting when asked).
-
-I personally prefer method 1, but like I said, it is entirely up to you.
+Now that TESTool is setup, we can actual begin cleaning our plugins.
 
 ## A NOTE ON MOD CLEANING
 
-We have seen three different tools used to clean mods. But of particular importance are **TESTool** and **tes3cmd**. You may have asked yourself why do I list two mods that achieve the same effect. The truth is what one tool misses, the other tool gets, and viceversa. Both tools should be used when cleaning mods. We want to make sure the mods we install are squeaky clean.
+We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
+
+### TESTool
+
+The first step is to clean plugins using TESTool.
+
+- Launch TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Select **Clean ESP/ESM files (save results in "Clean" subfolder)**. TESTool will ask you if you want to visit the Options dialogue. Click **No**.
+- Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
+- Pay attention to the execution log. In some cases, it will say **YourPluginName.Esp is already clean**. Write down the plugins which TESTool claims are already clean.
+- Close TESTool.
+
+### Tes3cmd clean fancy2.bat
+
+Our second step is to clean the "already clean" plugins and the plugins which TESTool effectively cleaned.
+
+- You will have to **cut** and paste into your **Morrowind\Data Files** folder all plugins which TESTool cleaned. These plugins are found in your **Morrowind\Mod Organizer 2\overwrite\Clean** folder.
+
+Remember what I said about writing down the plugins which TESTool claimed were already clean? I hope you did it.
+
+- You will have to **copy** and paste into your **Morrowind\Data Files** folder all plugins which TESTool claimed were already cleaned. These plugins are found in their respective folders inside **Mod Organizer 2\mods**. Remember, the only plugins you need to move are the plugins you *tried* to clean with TESTool (which I *explicitly* told you to clean) and which TESTool claimed were *already* clean.
+
+Once you are finished moving the plugins into your **Morrowind\Data Files** folder, the next step is to drag and drop the plugins, *one at a time*, into **Tes3cmd clean fancy2.bat**.
+
+Each time you drop a plugin into the .bat file, a **.log** file will be generated. Once you are done dropping all plugins into the .bat file, you can safely delete the .log files.
+
+You will notice that .tmp files will also be generated. **These are cleaned plugins generated by Tes3cmd**. If you see duplicate plugins, keep the one with a .tmp extension and delete the original.
+
+There is one last step: we need to remove the .tmp extension from all plugins which have it, else Morrowind won't recognize them. Simply rename the file, and delete the extension, leaving the original .esp extension intact.
+
+## HOW TO INSTALL CLEANED PLUGINS
+
+Once all plugins are cleaned, you should .zip them into a new file (such as **Cleaned Plugins.zip**). You can safely delete all those beautiful, clean plugins from your **Morrowind\Data Files** folder: they are no longer needed.
+
+To finish this, install **Cleaned Plugins.zip** through Mod Organizer 2. The clean plugins will overwrite the installed dirty plugins.
