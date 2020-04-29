@@ -157,12 +157,8 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
     - **1-Glow in the Dahrk Patch**
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
-- [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685?) by Melchior Dahrk and Resdayn Revival Team: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
-  - Only install the **Main file for English version** main file.
-  - This mod includes a .BSA file which you will have to register.
-    1. In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
-    2. On the morrowind.ini that just opened, use CTRL+F and search for **[Archives]**.
-    3. Input **Archive 2=RR_Melchior's_Mudcrab_Merchant.bsa** below **Archive 1=Bloodmoon.bsa**. Click **Save**, and close the window.
+- [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
+  - Hide/deactive **Melchior's Mudcrab Merchant - ReducedGold.ESP**
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
