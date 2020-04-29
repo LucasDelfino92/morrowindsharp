@@ -88,9 +88,9 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk: makes Hackle-lo leaves thicker as described in-game ("succulent").
 - [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?) by TriangleTooth: adds new NPCs who were mentioned by dialogue but had no physical presence on Vvardenfell. Also gives them new unique dialogue lines that fit seamlessly into the vanilla game.
-  - Hide/deactivate **Ttooth's Missing NPCs - Nolus.esp**.
+  - Hide/disable **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
-  - Hide/deactivate **True_Scourge_zerosouls.esp**.
+  - Hide/disable **True_Scourge_zerosouls.esp**.
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
   - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 
@@ -138,7 +138,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
-  - Hide/deactivate **Hopesfire Torch.esp.** 
+  - Hide/disable **Hopesfire Torch.esp.** 
 - [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) by Pherim, tronvillain, and nONatee: increases visual consistency by using the skull from the skeleton instead of the crude vanilla skulls.
   - This mod is incorrectly packaged. Install the contents of the **Fixed Skeletons** and **Vanilla Textures** folders inside the **Data Files** folder.
   - Also install the **Skeletons Atlased** optional file.
@@ -255,10 +255,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?) by Yar-Yulme: replaces textual descriptions in seven old Dwemer books from TES3: Tribunal with actual graphics.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-  - Hide/deactivate **Old_dwemer_books.esp**.
+  - Hide/disable **Old_dwemer_books.esp**.
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
-  - Hide/deactivate **CurioPortrait_Object.esp**.
+  - Hide/disable **CurioPortrait_Object.esp**.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -285,11 +285,11 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
-  - Only activate **Meteorite Ministry Temple - Higher.esp**.
+  - Disable all plugins minus **Meteorite Ministry Temple - Higher.esp**.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
   - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
-  - Hide/deactivate **Passage of Prayers - No Lore.esp**.
+  - Hide/disable **Passage of Prayers - No Lore.esp**.
 - [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
@@ -333,7 +333,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - **00 Correct UV Ore + README**: only if you installed [**Correct UV Diverse Ore veins**](http://mw.modhistory.com/download-42-13484) earlier.
     - **08 Glowing Bitter Coast**: only if you installed [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) earlier.
     - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
-    - If you installed **00 Correct UV Ore + README**, hide/deactivate the following .esps:
+    - If you installed **00 Correct UV Ore + README**, hide/disable the following .esps:
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
 - [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097) by hollaajith: let's you complete the main quest normally even if your level and reputation are high, stopping the "concerned people" from forcing you to meet the archanon.
