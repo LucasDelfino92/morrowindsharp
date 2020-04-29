@@ -202,7 +202,7 @@ Remember, *use one or the other*, not both at once.
 
 # OFFICIAL PLUGINS PATCHED
 
-Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) Though many experienced modders agree the official add-ons are, in general lines, poorly made or implemented into the game, my opinion is that it doesn't hurt to have them. But first, we have to patch them, as Patch for Purists doesn't cover them.
+Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
 
 The first step is to remove the official plugins from your Data Files folder. Note that **Tribunal** and **Bloodmoon** are *expansions*, so *don't* make the mistake of removing those. The plugins you should remove are, thus:
 - adamantiumarmor.esp
