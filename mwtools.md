@@ -123,9 +123,9 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 
 ## PLUGIN CLEANING
 
-### TESTool
+At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Follow the instructions found here for each of these tools.
 
-In addition to merging leveled lists, TESTool also has the ability to clean mods.
+### TESTool
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
@@ -137,20 +137,20 @@ In addition to merging leveled lists, TESTool also has the ability to clean mods
   - Restricted cell cleaning
 - Click **Done**.
 - Select **Clean ESP/ESM files** and click **Execute**.
-- Browse for your **Morrowind\Data Files** folder, and select all plugins you want to clean. **In order to avoid potential issues, avoid cleaning any .esm file.**
+- Browse for your **Morrowind\Data Files** folder, and select all plugins that require cleaning.
 - Once the process is finished, two things will happen: cleaned plugins will be generated in your **Overwrite** folder, and a log will be generated in your **Morrowind\TESTool** folder, called TESTool.log.
 
 As explained earlier, it is a good idea to move the cleaned plugin from the **Overwrite** folder into the original mod's installation folder.
 
 ### Tes3cmd clean fancy2.bat
 
-Like TESTool, tes3cmd is used for cleaning mods. How it works is as follows.
-
-- Copy and paste the plugin you want to clean into **Morrowind\Data Files** and drop it into **Tes3cmd clean fancy2.bat**.
+- Cut and paste the plugins that require cleaning into **Morrowind\Data Files** and drop individually drop them into **Tes3cmd clean fancy2.bat**.
 - One of two things will happen:
-  1. The mod will be cleaned, and a .tmp file will be generated, as well as a log. You can delete the original .esp, and **rename the .tmp file** to remove the .tmp extension. It will now be your cleaned plugin.
-  2. The mod will not be cleaned, and a log will be generated.
-  
+  1. The mod will be cleaned, and both a .tmp file and a cleaning log will be generated. You can delete the original .esp, and **rename the .tmp file** to remove the .tmp extension. It will now be your cleaned plugin, and you will have to install it through MO2.
+  2. The mod will not be cleaned, and a cleaning log will be generated.
+
+## HOW TO INSTALL CLEANED PLUGINS
+
 Once the plugin is cleaned, you have two options, entirely up to you:
 
 1. Make the plugin a .zip file and install it through MO2, overwriting the original, unclean plugin.
