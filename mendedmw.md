@@ -220,7 +220,7 @@ The second step is to install patched versions of the official plugins.
   - Install the **UMOPP 3.0.4** main file.
   - Install the **Merged and Compatibility Versions** main file. 
     - MO2 will install the mod as a BAIN package. Tick **UMOPP Merged**, and click **OK**.
-    - Hide/deactivate all official plugins.
+  - Hide/deactivate all official plugins.
 
 This ensures you have all official plugins by Bethesda, patched for bug fixes, and merged into a single plugin.
 
