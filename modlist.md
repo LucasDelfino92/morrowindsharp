@@ -126,6 +126,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade: makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
+    - **01 Hi Res Window Texture Replacer**
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
     - **04 Telvanni Dormers on Vvardenfell**
