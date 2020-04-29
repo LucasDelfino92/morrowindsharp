@@ -137,10 +137,6 @@ At the end of my mod list, you will find a [**list of plugins that require clean
 - Click **Done**.
 - Close TESTool.
 
-Now that TESTool is setup, we can actual begin cleaning our plugins.
-
-## A NOTE ON MOD CLEANING
-
 We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
 
 ### TESTool
