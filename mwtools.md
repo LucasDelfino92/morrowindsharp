@@ -109,11 +109,10 @@ The newly edited plugin will be found in the mod's installation folder.
 
 ### TESTool
 
-TESTool is an older alternative to TES3Merge. However, its main purpose to us is its automatic cleaning ability.
+TESTool is an older alternative to TES3Merge. However, its main purpose to us is its ability to clean mods, and the generation of **Merged_Leveled_Lists.esp**.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- **Merge Objects for active plugins** will generate a Merged_Objects.esp, similar to TES3Merge's Merged Objects.esp. It will be placed in your **Overwrite** folder, and you shouldn't move it away from there.
 - Click **Options**.
 - Make sure the following options are active:
   - Ignore tribunal.esm
