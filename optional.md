@@ -14,7 +14,7 @@ Better Bodies is not perfect. For that reason, neither are the vanilla bodies: t
 
 Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage most of these mods since the packaging was terrible and made this section far longer than it needed be. Links the original mods can be found in the **Credits** section.
 
-- [**Better Bodies ZW**](https://www.mediafire.com/file/icm2pod4dsem54y/Better_Bodies_ZW_v2.5.zip/file) by PsychoDog Studios and ZWolol: replaces all humanoid races of Morrowind with non-segmented bodies.
+- [**Better Bodies ZW**](https://www.mediafire.com/file/3qmhfiqmq5o4go0/Better_Bodies_ZW_v2.5.zip/file) by PsychoDog Studios, ZWolol, and Yar-Yulme: replaces all humanoid races of Morrowind with non-segmented bodies. Lore-friendly underwear, optional nudity.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
 - [**Muscle Textures for Better Bodies**](http://www.mediafire.com/file/jj387w83qeyzu8l/Muscle_Textures_for_Better_Bodies.zip/file) by Lizardo, SATAN, and Yar-Yulme (repackaged): retexture of Better Bodies, including a lore-friendly underwear texture.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
