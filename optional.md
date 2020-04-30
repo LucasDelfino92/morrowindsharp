@@ -12,7 +12,7 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 Better Bodies is not perfect. For that reason, neither are the vanilla bodies: there *is* clipping going on with the vanilla meshes, for instance. But the truth is that the vanilla bodies are artistically cohesive with each other, and also with the world surrounding them, in a way that Better Bodies simply does not.
 
-Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage most of these mods since the packaging was terrible and made this section far longer than it needed be. Links the original mods can be found in the **Credits** section.
+Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage and patch most of these mods since the packaging was terrible and made this section far longer than it needed be. Links to the original mods and the files implemented can be found in the **Credits** section.
 
 - [**Better Bodies ZW**](https://www.mediafire.com/file/3qmhfiqmq5o4go0/Better_Bodies_ZW_v2.5.zip/file) by PsychoDog Studios, ZWolol, and Yar-Yulme: replaces all humanoid races of Morrowind with non-segmented bodies. Lore-friendly underwear, optional nudity.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
