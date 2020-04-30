@@ -18,9 +18,8 @@ Still, no argument can disuade people from a simple fact of life: either you lik
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
 - [**Muscle Textures for Better Bodies**](http://www.mediafire.com/file/jj387w83qeyzu8l/Muscle_Textures_for_Better_Bodies.zip/file) by Lizardo, SATAN, and Yar-Yulme (repackaged): retexture of Better Bodies, including a lore-friendly underwear texture.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
-  - If you installed nude bodies earlier, tick **02 Nude** instead and click **OK**.
-- [**New Beast Bodies**](https://www.mediafire.com/file/o5xir56zayxcxh4/LizTail%27s_New_Beast_Bodies_v3.3.zip/file) by LizTail (repackaged): replaces all beast races of Morrowind with non-segmented bodies.
-  - If you installed nude bodies earlier, only install the **New Best Bodies by Liztail - Mature** optional file.
+- [**New Beast Bodies**](https://www.mediafire.com/file/o5xir56zayxcxh4/LizTail%27s_New_Beast_Bodies_v3.3.zip/file) by LizTail: replaces all beast races of Morrowind with non-segmented bodies.
+  - MO2 will install this mod as a BAIN package. Tick **00 Nude Clean** and click **OK**.
 - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by PsychoDog Studios and countless other authors: replaces vanilla clothing with Better Bodies-compatible clothing.
   - MO2 will install this mod as a BAIN package. Tick **#Data Files** and click **OK**.
 - [**Better Clothes Complete Hotfix**](https://www.mediafire.com/file/gzfb79jg32z3b07/Better_Clothes_Complete_Hotfix.zip/file) by PsychoDog Studios and Sigourn: reverts back the bc_shirt_com_01_Fem and bc_shirt_com_01_Male textures by Darknut to the original Better Clothes textures.
