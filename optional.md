@@ -30,10 +30,10 @@ Still, no argument can disuade people from a simple fact of life: either you lik
     - 00 Core
     - 01 LeFemm Steel Cuirass
     - 02 Expanded LeFemm Armor
-    - 03 DeFemm: removes non-vanilla female cuirass variants.
+    - 03 DeFemm
     - 04 Complete Armor Joints
     - 06 Snow Prince Armor Redux Patch
-- [**Better Imperial Silver Armour v1.1b**](http://www.mediafire.com/file/crw60qirzcqrjpe/Better_Imperial_Silver_Armour_v1.1b.zip/file): patches Endoran's Imperial Silver Armour mod.
+- [**Better Imperial Silver Armour v1.1b**](http://www.mediafire.com/file/crw60qirzcqrjpe/Better_Imperial_Silver_Armour_v1.1b.zip/file): patches Endoran's [**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751).
 
 ## CREDITS
 
