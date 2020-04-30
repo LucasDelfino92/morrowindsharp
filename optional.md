@@ -1,4 +1,4 @@
-#
+# OPTIONAL MODS
 
 My mod list so far has contained mods which I vouch for, and which I enthusiastically recommend. This section is separate from it because the mods you are going to see here don't fit the standard of quality I hold for the rest of the mod list. This doesn't mean I do not recommend these mods, as I personally use them. All this means is that these mods have issues some people are more than willing to forgive, and others aren't.
 
