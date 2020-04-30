@@ -2,6 +2,12 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## April 30th
+
+- Simplified installation instructions for the mod list, by removing user choice. The mod list now expects the user to install all mods, providing no instructions on whether certain mods require additional mods already present in the list to be installed beforehand.
+- Modified Necrolesian's Official Plugins Integrated (**Gameplay**). The edited Unofficial Morrowind Official Plugins Patched is now its own separate download.
+- Added UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible) (**Gameplay**).
+
 ## April 29th
 
 - Drastically simplified installation instructions for the official plugins (**Mended Morrowind**). Now their merged installation is mandatory.
