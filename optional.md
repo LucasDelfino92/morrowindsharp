@@ -26,4 +26,12 @@ Still, no argument can disuade people from a simple fact of life: either you lik
 - [**Better Robes**](https://www.mediafire.com/file/jwyomn9v7vozgwu/Better_Robes_v0.31.zip/file) by Moranar: replaces vanilla robes with Better Bodies-compatible clothing.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Better Morrowind Armor 2020**](http://www.mediafire.com/file/pffrp899uvuvg34/Better_Morrowind_Armor_2020_v1.0.zip/file) by Moranar and tiebrakre: replaces vanilla armor with Better Bodies-compatible armor.
-  - MO2 will install this mod as a BAIN package.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - 00 Core
+    - 01 Imperial Steel Cuirass Belt: adds a belt to the Imperial Steel Cuirass.
+    - 02 LeFemm Steel Cuirass: replaces the Steel Cuirass with the LeFemm variation.
+    - 03 DeFemm: vanilla-friendly no boobplate patch.
+    - 04 DeFemm Imperial Steel Cuirass Belt: adds a belt to the Imperial Steel Cuirass. Compatible with DeFemm.
+    - 05 Complete Armor Joints
+    - 06 Expanded LeFemm Armor Patch
+    - 07 Snow Prince Armor Redux Patch
