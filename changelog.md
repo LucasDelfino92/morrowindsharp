@@ -4,7 +4,7 @@
 
 ## April 30th
 
-- Simplified installation instructions for the mod list, by removing user choice. The mod list now expects the user to install all mods, providing no instructions on whether certain mods require additional mods already present in the list to be installed beforehand.
+- Simplified installation instructions when it comes to patches: if the mod list recommends a patch, it is expected that the player has installed the adequate mods beforehand. If the mod list has been followed to the letter, the adequate mods will have already been installed.
 - Modified Necrolesian's Official Plugins Integrated (**Gameplay**). The edited Unofficial Morrowind Official Plugins Patched is now its own separate download.
 - Added UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible) (**Gameplay**).
 
