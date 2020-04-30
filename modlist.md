@@ -167,8 +167,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
-- [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
-  - Only if you installed **Scum Retexture** above.
+- [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast. Requires Lougian's [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?)
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
@@ -281,7 +280,8 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - Static **_COI_gra**
     - CREA **_COI_firefly**
     - Cell **Cavern of the Incarnate**
-  - Save the plugi nas **COI.esp**, overwriting the original when asked.
+  - Save the plugin as **COI.esp**, overwriting the original when asked.
+  - This keeps only the armor and clothing modifications on the Failed Incarnates.
 - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
@@ -294,13 +294,13 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
+    - **03 - Main Files - Glow in the Dahrk Patch**
     - **06 - Optional - Better Ghostfence Pillars - Scythe**
 - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) earlier.
+    - **03 - Main Files - Glow in the Dahrk Patch**
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
     - This mod is already included in [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/), so don't use both.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
@@ -330,10 +330,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
-    - **00 Correct UV Ore + README**: only if you installed [**Correct UV Diverse Ore veins**](http://mw.modhistory.com/download-42-13484) earlier.
-    - **08 Glowing Bitter Coast**: only if you installed [**Glowing Bitter Coast**](http://mw.modhistory.com/download-44-14321) earlier.
-    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) earlier. Requires **08 Glowing Bitter Coast** to be installed as well.
-    - If you installed **00 Correct UV Ore + README**, hide/disable the following .esps:
+    - **00 Correct UV Ore + README**
+    - **08 Glowing Bitter Coast**
+    - **11 Atlas - Glowing Bitter Coast Patch**
+    - Hide/disable the following .esps:
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
 - [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097) by hollaajith: let's you complete the main quest normally even if your level and reputation are high, stopping the "concerned people" from forcing you to meet the archanon.
@@ -352,7 +352,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279?) by abot: dynamically traps/locks some more containers and doors.
   - I recommend opening up the console in-game and typing **set ab01mtNoJarLock to 1** to stop the mod from locking jars and urns.
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/lyv45m52f8j2h4m/Necrolesian%27s_Official_Plugins_Integrated.zip/file) by Necrolesian: integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way. Includes compatibility patch for Unofficial Morrowind Official Plugins Patched by PikachunoTM.
-  - Only if you installed [**Unofficial Morrowind Official Plugins Patched**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins-patched) earlier.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Putting Power In Willpower 2 - Antimagic Boogaloo**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero: rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
@@ -362,11 +361,9 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 - [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93: adds a merchant to Ghostgate, Temple who will sell you soul gems and soul trap scrolls. Especially convenient for completing the Pilgrimages of the Seven Graces.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Choose your option and click **OK**:
-    - **00 Complete**: only if you didn't install [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) earlier.
-    - **02 Religions Elaborated Compatible**: only if you installed [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) earlier.
+  - MO2 will install this mod as a BAIN package. Tick **02 Religions Elaborated Compatible** and click **OK**.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
-- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It works with any light source, whether vanilla or custom. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
+- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
@@ -444,12 +441,12 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-- If used alongside **Clean_Severa Magia Fix.esp**, delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp**:
+- Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
     - NPC **severa magia**
-- If used alongside **RR_Ghost_Gate_Fortress_Eng.ESP**, delete the following records from **QL_SevenGracesShrines.esp**:
+- Delete the following records from **QL_SevenGracesShrines.esp** for compatibility with **RR_Ghost_Gate_Fortress_Eng.ESP**:
     - Cell **(unnamed)**
     - Cell **(unnamed)**
-- If used alongside **RR_Ghost_Gate_Fortress_Eng.ESP**, delete the following records from **Religions Elaborated.esp**:
+- Delete the following records from **Religions Elaborated.esp** for compatibility with **RR_Ghost_Gate_Fortress_Eng.ESP**:
     - Cell **Ghostgate**.
     - Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file), which adds a compatible Temple Marker for both mods.
 
