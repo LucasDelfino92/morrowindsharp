@@ -329,7 +329,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Choose your options and click **OK**:
+  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Correct UV Ore + README**
     - **08 Glowing Bitter Coast**
     - **11 Atlas - Glowing Bitter Coast Patch**
