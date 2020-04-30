@@ -33,7 +33,7 @@ Still, no argument can disuade people from a simple fact of life: either you lik
     - 03 DeFemm
     - 04 Complete Armor Joints
     - 06 Snow Prince Armor Redux Patch
-- [**UMOPP v3.0.4 (Expanded LeFemm Armor and Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/xw4sped7qdzby4z/UMOPP_v3.0.4_%28Expanded_LeFemm_Armor_and_Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: edited Unofficial Morrowind Official Plugins Patched plugin for compatibility with Necrolesian's Official Plugins Integrated and Expanded LeFemm Armor's LeFemmArmor.esp.
+- [**UMOPP v3.0.4 (Expanded LeFemm Armor and Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/xw4sped7qdzby4z/UMOPP_v3.0.4_%28Expanded_LeFemm_Armor_and_Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: edited Unofficial Morrowind Official Plugins Patched merged plugin for compatibility with Necrolesian's Official Plugins Integrated and Expanded LeFemm Armor.
 - [**Better Imperial Silver Armour v1.1b**](http://www.mediafire.com/file/crw60qirzcqrjpe/Better_Imperial_Silver_Armour_v1.1b.zip/file): patches Endoran's [**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751).
 
 ## CREDITS
