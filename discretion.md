@@ -12,11 +12,11 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 Better Bodies is not perfect. For that reason, neither are the vanilla bodies: there *is* clipping going on with the vanilla meshes, for instance. But the truth is that the vanilla bodies are artistically cohesive with each other, and also with the world surrounding them, in a way that Better Bodies simply does not.
 
-Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage many of these mods since the packaging was *awful*.
+Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage most of these mods since the packaging was terrible and made this section far longer than it needed be. Links the original mods can be found in the **Credits** section.
 
-- [**Better Bodies ZW**](https://www.mediafire.com/file/icm2pod4dsem54y/Better_Bodies_ZW_v2.5.zip/file) by PsychoDog Studios and ZWolol (repackaged): replaces all humanoid races of Morrowind with non-segmented bodies. [Original mod can be found here](https://www.nexusmods.com/morrowind/mods/42395).
+- [**Better Bodies ZW**](https://www.mediafire.com/file/icm2pod4dsem54y/Better_Bodies_ZW_v2.5.zip/file) by PsychoDog Studios and ZWolol: replaces all humanoid races of Morrowind with non-segmented bodies.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
-- [**Muscle Textures for Better Bodies](http://www.mediafire.com/file/jj387w83qeyzu8l/Muscle_Textures_for_Better_Bodies.zip/file) by Lizardo, SATAN, and Yar-Yulme (repackaged): retexture of Better Bodies, including a lore-friendly underwear texture.
+- [**Muscle Textures for Better Bodies**](http://www.mediafire.com/file/jj387w83qeyzu8l/Muscle_Textures_for_Better_Bodies.zip/file) by Lizardo, SATAN, and Yar-Yulme (repackaged): retexture of Better Bodies, including a lore-friendly underwear texture.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
   - If you installed nude bodies earlier, tick **02 Nude** instead and click **OK**.
 - [**New Beast Bodies**](https://www.mediafire.com/file/o5xir56zayxcxh4/LizTail%27s_New_Beast_Bodies_v3.3.zip/file) by LizTail (repackaged): replaces all beast races of Morrowind with non-segmented bodies.
@@ -24,6 +24,7 @@ Still, no argument can disuade people from a simple fact of life: either you lik
 - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by PsychoDog Studios and countless other authors: replaces vanilla clothing with Better Bodies-compatible clothing.
   - MO2 will install this mod as a BAIN package. Tick **#Data Files** and click **OK**.
 - [**Better Clothes Complete Hotfix**](https://www.mediafire.com/file/gzfb79jg32z3b07/Better_Clothes_Complete_Hotfix.zip/file) by PsychoDog Studios and Sigourn: reverts back the bc_shirt_com_01_Fem and bc_shirt_com_01_Male textures by Darknut to the original Better Clothes textures.
-- [**Better Robes**]() by Moranar (repackaged): replaces vanilla robes with Better Bodies-compatible clothing. [Original mod can be found here.](https://www.nexusmods.com/morrowind/mods/42773/) 
+- [**Better Robes**](https://www.mediafire.com/file/jwyomn9v7vozgwu/Better_Robes_v0.31.zip/file) by Moranar: replaces vanilla robes with Better Bodies-compatible clothing.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**Better Morrowind Armor**]() by Moranar (repackaged):
+- [**Better Morrowind Armor 2020**](http://www.mediafire.com/file/pffrp899uvuvg34/Better_Morrowind_Armor_2020_v1.0.zip/file) by Moranar and tiebrakre: replaces vanilla armor with Better Bodies-compatible armor.
+  - MO2 will install this mod as a BAIN package.
