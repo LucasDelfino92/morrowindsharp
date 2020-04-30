@@ -30,7 +30,7 @@ Still, no argument can disuade people from a simple fact of life: either you lik
     - 00 Core
     - 01 Imperial Steel Cuirass Belt: adds a belt to the Imperial Steel Cuirass.
     - 02 LeFemm Steel Cuirass: replaces the Steel Cuirass with the LeFemm variation.
-    - 03 DeFemm: vanilla-friendly no boobplate patch.
+    - 03 DeFemm: vanilla-friendly "no boobplate" patch.
     - 04 DeFemm Imperial Steel Cuirass Belt: adds a belt to the Imperial Steel Cuirass. Compatible with DeFemm.
     - 05 Complete Armor Joints
     - 06 Expanded LeFemm Armor Patch
