@@ -12,7 +12,7 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 Better Bodies is not perfect. For that reason, neither are the vanilla bodies: there *is* clipping going on with the vanilla meshes, for instance. But the truth is that the vanilla bodies are artistically cohesive with each other, and also with the world surrounding them, in a way that Better Bodies simply does not.
 
-Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage and patch most of these mods since the packaging was terrible and made this section far longer than it needed be. Links to the original mods and the files implemented can be found in the **Credits** section.
+Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage and patch most of these mods since the packaging was terrible and made this section far longer than it needed be. Links to the original mods and the files included in these repackages can be found in the **Credits** section.
 
 - [**Better Bodies ZW**](https://www.mediafire.com/file/3qmhfiqmq5o4go0/Better_Bodies_ZW_v2.5.zip/file): replaces all humanoid races of Morrowind with non-segmented bodies. Lore-friendly underwear, optional nudity.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
@@ -20,7 +20,7 @@ Still, no argument can disuade people from a simple fact of life: either you lik
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
 - [**New Beast Bodies**](https://www.mediafire.com/file/o5xir56zayxcxh4/LizTail%27s_New_Beast_Bodies_v3.3.zip/file): replaces all beast races of Morrowind with non-segmented bodies.
   - MO2 will install this mod as a BAIN package. Tick **00 Nude Clean** and click **OK**.
-- [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549): replaces vanilla clothing with Better Bodies-compatible clothing.
+- [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549) by PsychoDog Team and many other authors: replaces vanilla clothing with Better Bodies-compatible clothing.
   - MO2 will install this mod as a BAIN package. Tick **#Data Files** and click **OK**.
 - [**Better Clothes Complete Hotfix**](https://www.mediafire.com/file/gzfb79jg32z3b07/Better_Clothes_Complete_Hotfix.zip/file): reverts back the bc_shirt_com_01_Fem and bc_shirt_com_01_Male textures by Darknut to the original Better Clothes textures.
 - [**Better Robes**](https://www.mediafire.com/file/jwyomn9v7vozgwu/Better_Robes_v0.31.zip/file): replaces vanilla robes with Better Bodies-compatible clothing.
