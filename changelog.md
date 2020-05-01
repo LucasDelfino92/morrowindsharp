@@ -2,6 +2,11 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 1st
+
+- Added back installation instructions for patches by popular demand (two or three users). One of the things I'm most proud of about this mod list is that people can pick and choose knowing these mods are very compatible with each other, so it is fitting that people have separate instructions in case they haven't installed a given mod earlier on.
+- Added Keg Drip (**Visuals**).
+
 ## April 30th
 
 - Simplified installation instructions when it comes to patches: if the mod list recommends a patch, it is expected that the player has installed the adequate mods beforehand. If the mod list has been followed to the letter, the adequate mods will have already been installed.
