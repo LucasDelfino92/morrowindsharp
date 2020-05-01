@@ -161,9 +161,9 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - Only install the **Pete's Journal and Scroll** optional file. MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 1K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
+    - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
@@ -172,7 +172,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
 - [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
-  - Assuming you installed **Scum Retexture** earlier.
+  - Only if you installed **Scum Retexture** earlier.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
@@ -201,9 +201,9 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
+    - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
     - **1-White Suran Ground Textures**
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
@@ -265,10 +265,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - Hide/disable **CurioPortrait_Object.esp**.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
-    - **03 Melchior's Magnificent Manuscripts**: assuming you installed **Melchior's Magnificent Manuscripts** earlier.
+    - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
 # OVERHAULS
@@ -296,16 +296,16 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
   - Hide/disable **Passage of Prayers - No Lore.esp**.
 - [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
+    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
     - **06 - Optional - Better Ghostfence Pillars - Scythe**
 - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
+    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
     - Do not use this mod alongside **RR Mod Series - Holamayan Monastery Replacer**, as it is already included in that mod.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
@@ -335,10 +335,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Correct UV Ore + README**: assuming you installed **correctUV Diverse Ore Veins** earlier.
-    - **08 Glowing Bitter Coast**: assuming you installed **Glowing Bitter Coast** earlier.
-    - **10 Atlas - Vanilla BC Mushrooms**: assuming you installed **Project Atlas** earlier but didn't install **Glowing Bitter Coast**.
-    - **11 Atlas - Glowing Bitter Coast Patch**: assuming you installed both **Project Atlas** *and* **Glowing Bitter Coast** earlier.
+    - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
+    - **08 Glowing Bitter Coast**: only if you installed **Glowing Bitter Coast** earlier.
+    - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier but didn't install **Glowing Bitter Coast**.
+    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed both **Project Atlas** *and* **Glowing Bitter Coast** earlier.
     - Hide/disable the following .esps:
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
@@ -368,7 +368,9 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 - [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93: adds a merchant to Ghostgate, Temple who will sell you soul gems and soul trap scrolls. Especially convenient for completing the Pilgrimages of the Seven Graces.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Tick **02 Religions Elaborated Compatible** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
+    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
