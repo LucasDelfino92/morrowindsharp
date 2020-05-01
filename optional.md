@@ -43,6 +43,9 @@ These mods don't require Better Bodies, but you will find them to be somewhat in
 
 - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists and replaces one unique spectre with the new model. This mod is also a Better Bodies conversion of the original Dwarven Spectre. The mod also adds the robe worn by the spectres as a random drop from them, complete with male and female versions.
 - [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk: many Mages Guild members will now wear new Mages Guild robes and the player can acquire the robes through quests and purchase.
+- [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9: adds armor pieces to complete the Morag Tong armor set. The armor has been distributed throughout the game on members of the Morag Tong, and is awarded to you at the end of the first quest for the Morag Tong.
+- [**Golden Saint Variety v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/o2rjz08ba5z6ycl/Golden_Saint_Variety_v1.2_%28Sigourn_Edit%29.zip/file): adds 4 versions of Golden Saints, all integrated into the same levelled lists and with the same stats. This will just make fighting Golden Saints more fun, as they won't look the same every time.
+  - This is an edit of the original mod that removes the Golden Saint clad in Gold Armor, and reduces textures to a more vanilla-friendly resolution.
 
 ## CREDITS
 
@@ -80,3 +83,6 @@ These mods don't require Better Bodies, but you will find them to be somewhat in
 
 **Better Imperial Silver Armour v1.1b** uses files from
 - [**Better Silver Armor**](https://www.nexusmods.com/morrowind/mods/42535/) by Alaisiagae and Moranar
+
+**Golden Saint Variety v1.2 (Sigourn Edit)** uses files from
+- [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430) by Leyawynn
