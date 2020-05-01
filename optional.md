@@ -8,11 +8,11 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 ## Better Bodies
 
-**Better Bodies** and related mods, including those whose assets are based off Better Bodies, can be found here. For many players, Better Bodies is a must due to the ridiculous appearance of the segmented vanilla bodies. For others, the vanilla bodies are superior to Better Bodies, artistically and technically.
+**Better Bodies** and related mods, including those whose assets are made with Better Bodies in mind, can be found here. For many players, Better Bodies is a must due to the ridiculous appearance of the segmented vanilla bodies. For others, the vanilla bodies are superior to Better Bodies, artistically and technically.
 
 Better Bodies is not perfect. For that reason, neither are the vanilla bodies: there *is* clipping going on with the vanilla meshes, for instance. But the truth is that the vanilla bodies are artistically cohesive with each other, and also with the world surrounding them, in a way that Better Bodies simply does not.
 
-Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better. Thus this section. I've taken the liberty to repackage and patch most of these mods since the packaging was terrible and made this section far longer than it needed be. Links to the original mods and the files included in these repackages can be found in the **Credits** section.
+Still, no argument can disuade people from a simple fact of life: either you like Better Bodies better, or you like the vanilla bodies better, and no one will change your mind. Thus this section. I've taken the liberty to repackage and patch most of these mods since the packaging was terrible and made this section far longer than it needed be. Links to the original mods and the files included in these repackages can be found in the **Credits** section.
 
 - [**Better Bodies ZW**](https://www.mediafire.com/file/3qmhfiqmq5o4go0/Better_Bodies_ZW_v2.5.zip/file): replaces all humanoid races of Morrowind with non-segmented bodies. Lore-friendly underwear, optional nudity.
   - MO2 will install this mod as a BAIN package. Tick **00 Underwear** and click **OK**.
@@ -35,6 +35,14 @@ Still, no argument can disuade people from a simple fact of life: either you lik
     - 06 Snow Prince Armor Redux Patch
 - [**UMOPP v3.0.4 (Expanded LeFemm Armor and Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/xw4sped7qdzby4z/UMOPP_v3.0.4_%28Expanded_LeFemm_Armor_and_Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: edited Unofficial Morrowind Official Plugins Patched merged plugin for compatibility with Necrolesian's Official Plugins Integrated and Expanded LeFemm Armor.
 - [**Better Imperial Silver Armour v1.1b**](http://www.mediafire.com/file/crw60qirzcqrjpe/Better_Imperial_Silver_Armour_v1.1b.zip/file): patches Endoran's [**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751).
+- [**Berserkers**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk: adds fur coverings to berserkers in Bloodmoon.
+
+### Visually consistent with Better Bodies
+
+These mods don't require Better Bodies, but you will find them to be somewhat inconsistent with the vanilla bodies. Indeed, most of these use assets based off Better Bodies
+
+- [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk: adds female Dwarven Spectres to the leveled lists and replaces one unique spectre with the new model. This mod is also a Better Bodies conversion of the original Dwarven Spectre. The mod also adds the robe worn by the spectres as a random drop from them, complete with male and female versions.
+- [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk: many Mages Guild members will now wear new Mages Guild robes and the player can acquire the robes through quests and purchase.
 
 ## CREDITS
 
