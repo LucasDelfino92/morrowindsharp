@@ -145,6 +145,10 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+- [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7: implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 MWSE Version**
 - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488) by Leyawynn: makes the Adamantium Shortsword look less stupid.
 - [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) by PeterBitt: adds glow maps to all three Atronachs in Morrowind so that they glow in the dark.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
@@ -159,7 +163,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**
+    - **1-Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
 - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
   - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
@@ -167,7 +171,8 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
 - [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
   - Only install the **Alternative 1** main file.
-- [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast. Requires Lougian's [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?)
+- [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
+  - Assuming you installed **Scum Retexture** earlier.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
@@ -198,7 +203,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**
+    - **1-Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
     - **1-White Suran Ground Textures**
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
@@ -263,7 +268,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
-    - **03 Melchior's Magnificent Manuscripts**
+    - **03 Melchior's Magnificent Manuscripts**: assuming you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
 # OVERHAULS
@@ -294,15 +299,15 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**
+    - **03 - Main Files - Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
     - **06 - Optional - Better Ghostfence Pillars - Scythe**
 - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 - Main Files**
     - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**
+    - **03 - Main Files - Glow in the Dahrk Patch**: assuming you installed **Glow in the Dahrk** earlier.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
-    - This mod is already included in [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/), so don't use both.
+    - Do not use this mod alongside **RR Mod Series - Holamayan Monastery Replacer**, as it is already included in that mod.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -329,10 +334,11 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Correct UV Ore + README**
-    - **08 Glowing Bitter Coast**
-    - **11 Atlas - Glowing Bitter Coast Patch**
+  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Correct UV Ore + README**: assuming you installed **correctUV Diverse Ore Veins** earlier.
+    - **08 Glowing Bitter Coast**: assuming you installed **Glowing Bitter Coast** earlier.
+    - **10 Atlas - Vanilla BC Mushrooms**: assuming you installed **Project Atlas** earlier but didn't install **Glowing Bitter Coast**.
+    - **11 Atlas - Glowing Bitter Coast Patch**: assuming you installed both **Project Atlas** *and* **Glowing Bitter Coast** earlier.
     - Hide/disable the following .esps:
       - correctUV Ore Replacer 1.0.esp.
       - correctUV Ore Replacer_fixed.esp
