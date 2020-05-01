@@ -190,8 +190,8 @@ Remember, *use one or the other*, not both at once.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. MO2 will install the mod as a BAIN package. Tick the following options and click **OK**.
   - **00 Core**
-  - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
-  - **BC MUshrooms - Normal - Glowing Bitter Coast Patch**: only if you install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
+  - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
+  - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
 - **Intelligent Textures - Atlas Textures** by Remiros: this is the file I had you create earlier.
   - Only install if you installed **Intelligent Textures**.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
