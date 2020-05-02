@@ -381,6 +381,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 The major rebalances we will be installing are mort's trilogy of rebalances.
 
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort: makes the Sixth House, properly, the most difficult content in the game.
+  - Note that because of the changes this mod makes, certain quests taking places inside Red Mountain (such as [Viatrix, The Annoying Pilgrim](https://en.uesp.net/wiki/Morrowind:Viatrix,_The_Annoying_Pilgrim) and [Pilgrimages of the Seven Graces](https://en.uesp.net/wiki/Morrowind:Pilgrimages_of_the_Seven_Graces)) may be very difficult to complete if **Blight is Coming** is used alongside **Beware the Sixt House**. You can also expect a massive difficult spike over the course of the Main Quest. 
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 
