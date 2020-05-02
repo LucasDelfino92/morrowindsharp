@@ -78,7 +78,7 @@ These mods don't require Better Bodies, but you will find them to be somewhat in
 - [**Better Morrowind Armor Fixed Left Gloves and Pauldrons**](https://www.nexusmods.com/morrowind/mods/47920?) by Pherim
 - [**Expanded LeFemm Armor**](https://www.nexusmods.com/morrowind/mods/42560) by Moranar and tiebrakre
 - [**Expanded LeFemm Armor - Fixed ESP**](https://www.nexusmods.com/morrowind/mods/46372) by Articus and Pherim
-- [**Complete Armor Joints Gah-Julan Pauldron fix**](https://drive.google.com/file/d/1ig1KRiK7GxtDn_MDzrmV1Li-LEnAP3cx/view) by badboyzay
+- [**Complete Armor Joints Gah-Julan Pauldron Fix**](https://drive.google.com/file/d/1ig1KRiK7GxtDn_MDzrmV1Li-LEnAP3cx/view) by badboyzay
 - Additional fixes by Sigourn.
 
 **Better Imperial Silver Armour v1.1b** uses files from
