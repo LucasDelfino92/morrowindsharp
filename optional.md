@@ -75,7 +75,7 @@ These mods don't require Better Bodies, but you will find them to be somewhat in
 
 **Better Morrowind Armor - Sigourn Fork** uses files from
 - [**Better Morrowind Armor**](https://www.nexusmods.com/morrowind/mods/42509) by Moranar
-- [**Left gloves and left pauldrons meshes fixes**](https://www.dropbox.com/s/nvmaylqbu1t2n99/Better%20Morrowind%20Armor%20-%20fixed%20left%20gloves-pauldrons.7z) by Pherim
+- [**Better Morrowind Armor Fixed Left Gloves and Pauldrons**](https://www.nexusmods.com/morrowind/mods/47920?) by Pherim
 - [**Expanded LeFemm Armor**](https://www.nexusmods.com/morrowind/mods/42560) by Moranar and tiebrakre
 - [**Expanded LeFemm Armor - Fixed ESP**](https://www.nexusmods.com/morrowind/mods/46372) by Articus and Pherim
 - [**Complete Armor Joints Gah-Julan Pauldron fix**](https://drive.google.com/file/d/1ig1KRiK7GxtDn_MDzrmV1Li-LEnAP3cx/view) by badboyzay
