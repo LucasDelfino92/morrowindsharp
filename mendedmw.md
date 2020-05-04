@@ -166,6 +166,7 @@ Installing these textures is entirely up to you. Needless to say, I use them mys
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Extract the **01 Atlas Textures** folder from the original file and .zip it as **Intelligent Textures - Atlas Textures**. We will install it shortly.
+  - Also install the **Wood Fix** update file.
 
 Remember, *use one or the other*, not both at once.
 
