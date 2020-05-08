@@ -6,6 +6,8 @@ So far, below a mod's download link and description you would see installation i
 
 What applied for my mod list applies here too: there are minimum standards for compatibility that mods have to abide with, and the mods in this list are perfectly compatible with the mods from the main mod list. I will, of course, provide and adjusted mod order and load order that includes these mods.
 
+## Leveling
+
 ## Better Bodies
 
 **Better Bodies** and related mods, including those whose assets are made with Better Bodies in mind, can be found here. For many players, Better Bodies is a must due to the ridiculous appearance of the segmented vanilla bodies. For others, the vanilla bodies are superior to Better Bodies, artistically and technically.
@@ -47,7 +49,7 @@ These mods don't require Better Bodies, but you will find them to be somewhat in
 - [**Golden Saint Variety v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/o2rjz08ba5z6ycl/Golden_Saint_Variety_v1.2_%28Sigourn_Edit%29.zip/file) by Leyawynn: adds 4 versions of Golden Saints, all integrated into the same levelled lists and with the same stats. This will just make fighting Golden Saints more fun, as they won't look the same every time.
   - This is an edit of the original mod that removes the Golden Saint clad in Gold Armor, and reduces textures to a more vanilla-friendly resolution.
 
-## LIGHTING
+## Lighting
 
 Morrowind has very flat lighting. Areas that should be dark don't look particularly dark, and this completely destroy the atmosphere of some locations. There's a reason why lighting is so important in films and photography, and it holds true for videogames as well.
 
