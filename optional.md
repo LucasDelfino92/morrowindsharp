@@ -8,8 +8,8 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 ## Leveling
 
-- [**Retroactive Health Gain**] by hardek
-- [**mort's Ultimate Leveling Experience**] by mort
+- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
+- [**Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452) by mort: a fully customizable leveling mod that removes the level-up screen entirely. Never worry about min/maxing skill ups ever again. The functionality of GCD/MADD, but fully customizable and conflict-free. Play how you want, and leave leveling to the MULE. 
 
 ## Better Bodies
 
