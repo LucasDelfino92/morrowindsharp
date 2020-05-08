@@ -8,6 +8,9 @@ What applied for my mod list applies here too: there are minimum standards for c
 
 ## Leveling
 
+- [**Retroactive Health Gain**] by hardek
+- [**mort's Ultimate Leveling Experience**] by mort
+
 ## Better Bodies
 
 **Better Bodies** and related mods, including those whose assets are made with Better Bodies in mind, can be found here. For many players, Better Bodies is a must due to the ridiculous appearance of the segmented vanilla bodies. For others, the vanilla bodies are superior to Better Bodies, artistically and technically.
