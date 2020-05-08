@@ -12,8 +12,8 @@ Last updated: May 4th, 2020. See the [**Changelog page**](https://github.com/Sig
 
 - [**Introduction**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
 - [**How to install this mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
-- [**Mod order and load order**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order)
 - [**Installation index**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
+- [**Mod order and load order**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order)
 
 ## INTRODUCTION
 
@@ -40,6 +40,12 @@ For the most part, I will provide no installation instructions whatsoever. This 
 
 My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
 
+## INSTALLATION INDEX
+
+- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
+- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
+- [**Sigourn's Mod List**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): your Morrowind modding journey will begin here. Mods that go beyond the purist approach, aiming for a vanilla+ feel.
+
 ## MOD ORDER AND LOAD ORDER
 
 My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Sigourn's Mod List: May 1st**](https://www.mediafire.com/file/wylss6b7e0d8a10/Sigourn%27s_Mod_List_%28May_1st%29.zip/file)
@@ -48,10 +54,4 @@ The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, a
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
 - Your mod installation order *has* to be adjusted manually, regardless of which mod manager you use.
 
-More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind** below.
-
-## INSTALLATION INDEX
-
-- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
-- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
-- [**Sigourn's Mod List**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): your Morrowind modding journey will begin here. Mods that go beyond the purist approach, aiming for a vanilla+ feel.
+More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind**.
