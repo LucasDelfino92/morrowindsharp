@@ -2,6 +2,10 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 8th
+
+- Added No-Frills Closed Molag Mar (**Overhauls**).
+
 ## May 7th
 
 - Removed [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) (**User Interface**): there are two major reasons why this mod is removed, which are the cluttering of the only world map we are provided in-game, and also the loss of the sense of exploration when entering new cells which are named for their important landmarks. But most importantly, this mod is removed because of the devastating effects it has regarding the player's world map once the mod has been uninstalled, which include map markers devoid of any naming, and/or a completely wiped out world map. **Those that already have this mod installed shouldn't uninstall it mid-playthrough. I apologize for this mod's inclusion in the mod list.**
