@@ -404,7 +404,7 @@ The following rebalances modify certain, specific aspects of the game.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
 - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
 
-The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin.
+The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
 
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
