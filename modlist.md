@@ -61,7 +61,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich: stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong Council Club, so long as the Camonna Tong thugs are still hanging around. 
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich: fixes inconsistencies between where ingredients are said to be found, and where they are actually found.
 - [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
-  - Install both main files.
+  - Only install the **FMI - Misc** main file.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich: NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich: not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
 - [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) by PoodleSandwich: fixes typos and grammatical errors in "Note from the Archcanon", including creating correct gender version for female player characters. 
@@ -349,20 +349,21 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - Also install the **Alternate Silver Helmet** optional file.
 - [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero: makes Cliff Racers' aggressiveness depend on how badly Player is wounded. Diseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones. Blighted Cliff Racers now have larger aggression radius and will never flee. 
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+- [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024) by mort: removes the "You're out of uniform. Talk to me when you're serious." greeting from legion NPCs and makes the "Where's your uniform?" line happen 90% less often.
+- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/) by Lurlock: overhauls Morag Tong writs and also adds punishments and rewards for completing your missions, depending on whether you were caught.
 - [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120) by The Puma Man and PoodleSandwich: tweak of Puma Man's "Passive Healthy Wildlife", which prevented healthy creatures from attacking the player on sight. Common diseased creatures are more passive now, and cliff racers are always hostile.
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600) by Gavrilo93: adds a Redoran Master Helm into the home of almost every Redoran Councilor.
-- [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279?) by abot: dynamically traps/locks some more containers and doors.
-  - I recommend opening up the console in-game and typing **set ab01mtNoJarLock to 1** to stop the mod from locking jars and urns.
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
 - [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: edited Unofficial Morrowind Official Plugins Patched merged plugin for compatibility with Necrolesian's Official Plugins Integrated.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Putting Power In Willpower 2 - Antimagic Boogaloo**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero: rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file. Quest changes are beyond the scope of this mod list.
+- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
@@ -373,6 +374,8 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
+- [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?) by Remiros: lightweight alternative to **Loot Well Urned** and **Grave Goods**. Adds extra loot to urns in ancestral tombs.
+  - Only install the **Urnest Loot** optional file.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
@@ -403,6 +406,7 @@ The following rebalances modify certain, specific aspects of the game.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom: factions will limit their services based on faction affiliation and rank.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
 - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
 
 The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
 
