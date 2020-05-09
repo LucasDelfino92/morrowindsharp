@@ -8,7 +8,7 @@
 - Added Lock Bashing (**Gameplay**).
 - Added Urnest Loot (**Gameplay**).
 - Added Retroactive Health Gain (**Gameplay**).
-- Added Speed and Movement Rebalanced (**Balance**).
+- Added back Speed and Movement Rebalanced (**Balance**).
 - Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?) (**Internal Logic**): replaced with Urnest Loot.
 - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (**Gameplay**): aside from being incompatible with Lock Bashing, this mod can make exploration for non-Security oriented characters extremely frustrating.
 
