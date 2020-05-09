@@ -66,8 +66,6 @@ That said, I find this section worth the inconveniences (some cells being too da
   - This mod requires specific MGE XE install instructions. Read the mod page carefully.
 - [**di.Still.ed Lights - No-Frills Closed Molag Mar Patch**](http://www.mediafire.com/file/by5vnre62t5fwws/di.Still.ed_Lights_v1.0_-_No-Frills_Closed_Molag_Mar_v1.1_Patch.zip/file) by Sigourn: applies di.Still.ed Lights settings to the Molag Mar canton.
   - Only if you installed **No-Frills Closed Molag Mar** earlier.
-- [**No Unnatural Lights**](https://www.nexusmods.com/morrowind/mods/47126) by Necrolesian: disables all unnatural light sources in the game by changing the radius of the relevant lights to zero.
-  - Only install the **No Interior Blue Water Glow** old file. The main file will disable lights we don't want disabled, like those emanating from crystals or Bitter Coast mushrooms.
 - [**Negative Lights Remover**](https://www.nexusmods.com/morrowind/mods/42306) by PeterBitt: disables unpleasant black "lights", which are used in the vanilla game to simulate dark areas inside a cell, and which look terrible when using MGE XE's Per Pixel Lighting setting.
 
 ## CREDITS
