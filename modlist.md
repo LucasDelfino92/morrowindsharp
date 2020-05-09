@@ -409,7 +409,7 @@ The following rebalances modify certain, specific aspects of the game.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
     - GMST **fJumpRunMultiplier**
-  - Save the plugin as Speed and Movement.ESP, overwriting the original when asked.
+  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
 
 The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
