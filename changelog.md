@@ -2,6 +2,12 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 9th
+
+- Added Legion Uniform Apathy (**Gameplay**).
+- Added Lock Bashing (**Gameplay**).
+- Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (**Gameplay**): aside from being incompatible with Lock Bashing, this mod can make exploration for non-Security oriented characters extremely frustrating.
+
 ## May 8th
 
 - Added No-Frills Closed Molag Mar (**Overhauls**).
