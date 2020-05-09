@@ -12,6 +12,8 @@
 - Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?) (**Internal Logic**): replaced with Urnest Loot.
 - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (**Gameplay**): aside from being incompatible with Lock Bashing, this mod can make exploration for non-Security oriented characters extremely frustrating.
 
+These mods can be safely installed and uninstalled.
+
 ## May 8th
 
 - Added No-Frills Closed Molag Mar (**Overhauls**).
