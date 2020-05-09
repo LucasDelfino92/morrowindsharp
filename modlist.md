@@ -407,6 +407,10 @@ The following rebalances modify certain, specific aspects of the game.
   - This mod is incorrectly packaged. Set **Service Requirements Lore** as the proper **Data** directory in MO2.
 - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
+  - In TESAME, delete the following records: 
+    - GMST **fJumpRunMultiplier**
+  - Save the plugin as Speed and Movement.ESP, overwriting the original when asked.
+  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
 
 The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
 
