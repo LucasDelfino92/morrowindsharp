@@ -26,12 +26,11 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 ## TES3Merge, TES3View, TESAME, TESTool
 
-These tools can be easily run through Mod Organizer 2.
+These tools don't require specific instructions to be run through Mod Organizer 2.
 
 - [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): used for conflict solving.
 - [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file): used for general conflict browsing.
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): used for conflict solving and plugin cleaning.
 - [**TESAME**](http://mw.modhistory.com/download-95-15443): used for conflict solving and plugin cleaning.
 
 In your Morrowind **root folder** (where Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
@@ -39,7 +38,6 @@ In your Morrowind **root folder** (where Morrowind.exe is) create one folder for
 - Morrowind\TES3Merge\TES3Merge.exe and related files
 - Morrowind\TES3View\TES3View.exe and related files
 - Morrowind\TESAME\tesame12.exe and related files
-- Morrowind\TESTool\TESTool.exe and related files
 
 Now launch Mod Organizer 2.
 
@@ -56,11 +54,33 @@ Now launch Mod Organizer 2.
 
 These tools are now set and ready to go.
 
+## TESTool
+
+Dedicated installation instructions are provided for this tool.
+
+- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): used for conflict solving and plugin cleaning.
+
+In your Morrowind **root folder** (where Morrowind.exe is) create a folder for TESTool. For simplicity and readibility, the file structure should look like this:
+
+- Morrowind\TESTool\TESTool.exe and related files
+
+Now launch Mod Organizer 2.
+
+1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+3. Click on **New Executable**, and input the following information:
+   1. In **Title**: TESTool
+   2. In **Binary**, search for the location of TESTool.exe (for instance, C:\Games\Morrowind\TESTool\TESTool.exe)
+   3. In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
+   4. Leave the **Arguments** field empty.
+   5. Tick **Use application's icon for desktop shortcuts**.
+   6. Finally, click **Apply** and then **OK**.
+
 ## tes3cmd
 
 Dedicated installation instructions are provided for this tool.
 
-- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd)
+- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): used for plugin cleaning.
 
 1. Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
 2. Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
