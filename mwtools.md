@@ -138,9 +138,7 @@ The **Overwrite** folder is the destiny folder for the output of many of these t
 
 Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
-# USING THE TOOLS
-
-## CONFLICT SOLVING
+# CONFLICT SOLVING
 
 ### TES3View
 
@@ -182,7 +180,7 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 - If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
-## PLUGIN CLEANING
+# PLUGIN CLEANING
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Before we begin, we will set up TESTool for plugin cleaning.
 
@@ -215,7 +213,7 @@ The first step is to clean plugins using TESTool.
 
 The second step is to clean plugins using tes3cmd.
 
-## SAVE REPAIRING
+# SAVE REPAIRING
 
 When uninstalling mods frmo a save, it is a good practice to repair your saves using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
