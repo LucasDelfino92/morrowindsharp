@@ -57,7 +57,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - In TESAME, delete the following record:
     - Ingredient **ingred_scrap_metal_01**
   - Save the plugin as **MW_Inconsistencies.esp**, overwriting the original when asked.
-  - This removes the changes to Scrap Metal.
+  - This removes the weight and value changes to the Scrap Metal ingredient.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
