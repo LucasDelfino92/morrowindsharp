@@ -101,6 +101,8 @@ Dedicated installation instructions are provided for this tool.
 1. Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
 2. Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
 3. Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
+4. Create the following folder:
+   - Morrowind\Data Files\tes3cmd\backups
 
 Now we need to set up tes3cmd in Mod Organizer 2.
 
@@ -210,14 +212,16 @@ The first step is to clean plugins using TESTool.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Select **Clean ESP/ESM files**. TESTool will ask you if you want to visit the Options dialogue. Click **No**.
+- Select **Clean ESP/ESM files**. TESTool will ask you if you want to visit the Options dialogue. If you set up TESTool as instructed earlier, click **No**.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
-- Let TESTool clean the plugins.
-- Close TESTool.
+- TESTool will clean all plugins. Once it's finished, close TESTool.
 
 ### tes3cmd_clean.bat
 
 The second step is to clean plugins using tes3cmd.
+
+- Launch tes3cmd in MO2.
+- 
 
 # SAVE REPAIRING
 
