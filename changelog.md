@@ -4,6 +4,7 @@
 
 ## May 9th
 
+- Added Corsair's MW Inconsistencies TESAME instructions (**Internal Logic**).
 - Added Legion Uniform Apathy (**Gameplay**).
 - Added Lock Bashing (**Gameplay**).
 - Added Urnest Loot (**Gameplay**).
