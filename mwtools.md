@@ -5,19 +5,19 @@
 1. [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools)
 2. [**Setting up tools in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#setting-up-tools-in-mod-organizer-2)
    - [**tes3cmd**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
-   - Wrye Mash - Polemos fork - 2020
-   - MO2 executables
-   - The overwrite folder
-3. Using the tools
-   - Conflict solving
-      - TES3View
-      - TESAME
-      - TES3Merge
-      - TESTool
-   - Plugin cleaning
-      - TESTool
-      - Tes3cmd clean fancy2.bat
-      - Installing the cleaned plugins
+   - [**Wrye Mash - Polemos fork - 2020**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash---polemos-fork---2020)
+   - [**MO2 executables**]()
+   - [**The overwrite folder**]()
+3. [**Using the tools**]()
+   - [**Conflict solving**]()
+      - [**TES3View**]()
+      - [**TESAME**]()
+      - [**TES3Merge**]()
+      - [**TESTool**]()
+   - [**Plugin cleaning**]()
+      - [**TESTool**]()
+      - [**Tes3cmd clean fancy2.bat**]()
+      - [**Installing the cleaned plugins**]()
 
 # TOOLS
 
