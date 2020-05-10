@@ -16,6 +16,7 @@
   - Speed and Movement Rebalanced
 - Added Early Transport to Mournhold (**Gameplay**).
 - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) (**Internal Logic**): replaced with Early Transport to Mournhold.
+- Renamed **Balance** to **Game Balance**.
 - Removed left over mods and plugins from the mods.txt and loadorder.txt.
 - Separated sections in mods.txt for ease of following.
 
