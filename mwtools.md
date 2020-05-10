@@ -4,20 +4,20 @@
 
 1. Tools
 2. Setting up tools in Mod Organizer 2
-   1. tes3cmd
-   2. Wrye Mash - Polemos fork - 2020
-   3. MO2 executables
-   4. The overwrite folder
+   - tes3cmd
+   - Wrye Mash - Polemos fork - 2020
+   - MO2 executables
+   - The overwrite folder
 3. Using the tools
-   1. Conflict solving
-      1. TES3View
-      2. TESAME
-      3. TES3Merge
-      4. TESTool
-   2. Plugin cleaning
-      1. TESTool
-      2. Tes3cmd clean fancy2.bat
-      3. Installing the cleaned plugins
+   - Conflict solving
+      - TES3View
+      - TESAME
+      - TES3Merge
+      - TESTool
+   - Plugin cleaning
+      - TESTool
+      - Tes3cmd clean fancy2.bat
+      - Installing the cleaned plugins
 
 # TOOLS
 
