@@ -43,7 +43,7 @@ Wrye Mash needs to be installed and run through Mod Organizer 2. It requires spe
 
 **Wrye Mash** is now set and ready to go.
 
-## Standard executables
+## Executables
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
