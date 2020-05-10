@@ -33,14 +33,14 @@ These tools can be easily run through Mod Organizer 2.
 - [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): used for conflict solving and plugin cleaning.
 - [**TESAME**](http://mw.modhistory.com/download-95-15443): used for conflict solving and plugin cleaning.
 
-In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
+In your Morrowind **root folder** (where Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
 - Morrowind\TES3Merge\TES3Merge.exe and related files
 - Morrowind\TES3View\TES3View.exe and related files
 - Morrowind\TESAME\tesame12.exe and related files
 - Morrowind\TESTool\TESTool.exe and related files
 
-Now launch Mod Organizer 2. Note that the following process will have to be repeated for *each* of the tools we have listed in this section.
+Now launch Mod Organizer 2.
 
 1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -51,9 +51,9 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
    4. Leave the **Arguments** field empty.
    5. Tick **Use application's icon for desktop shortcuts**.
    6. Finally, click **Apply** and then **OK**.
-4. Repeat the same process for each of the tools mentioned above.
+4. Repeat steps 2 and 3 for each of the tools mentioned above.
 
-**These tools** are now set and ready to go.
+These tools are now set and ready to go.
 
 ## tes3cmd
 
@@ -77,7 +77,7 @@ Now we need to set up tes3cmd in Mod Organizer 2.
    5. Tick **Use application's icon for desktop shortcuts**.
    6. Finally, click **Apply** and then **OK**.
 
-**tes3cmd_clean.bat** is now set and ready to go.
+tes3cmd_clean.bat is now set and ready to go.
 
 ## Wrye Mash - Polemos fork - 2020
 
@@ -106,7 +106,7 @@ Now we need to set up Wrye Mash in Mod Organizer 2.
    5. Tick **Use application's icon for desktop shortcuts**.
    6. Finally, click **Apply** and then **OK**.
 
-**Wrye Mash** is now set and ready to go.
+Wrye Mash is now set and ready to go.
 
 ## LIST OF EXECUTABLES
 
