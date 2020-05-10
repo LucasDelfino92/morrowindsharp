@@ -18,7 +18,7 @@
       - [**TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
       - [**Tes3cmd clean fancy2.bat**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd-clean-fancy2bat)
       - [**Installing the cleaned plugins**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#installing-the-cleaned-plugins)
-   - [**Save repairing**]()
+   - [**Save repairing**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#save-repairing)
 
 # TOOLS
 
