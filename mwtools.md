@@ -18,6 +18,7 @@
       - [**TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
       - [**Tes3cmd clean fancy2.bat**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd-clean-fancy2bat)
       - [**Installing the cleaned plugins**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#installing-the-cleaned-plugins)
+   - [**Save repairing**]()
 
 # TOOLS
 
@@ -221,3 +222,6 @@ There is one last step: we need to remove the .tmp extension from all plugins wh
 Once all plugins are cleaned, you should .zip them into a new file (such as **Cleaned Plugins.zip**). You can safely delete all those beautiful, clean plugins from your **Morrowind\Data Files** folder: they are no longer needed.
 
 To finish this, install **Cleaned Plugins.zip** through Mod Organizer 2. The clean plugins will overwrite the installed dirty plugins.
+
+## SAVE REPAIRING
+
