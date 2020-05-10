@@ -24,7 +24,7 @@ Many Morrowind tools have been made available over the years. Their purpose vari
 
 Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. For this reason, I will provide specific instructions for the most particular tools, and generic instructions for the tools that are the easiest to install.
 
-## TES3Merge, TES3View, TESAME, TESTool
+## TES3Merge, TES3View, TESAME
 
 These tools don't require specific instructions to be run through Mod Organizer 2.
 
