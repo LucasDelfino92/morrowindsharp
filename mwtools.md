@@ -135,6 +135,7 @@ The **Overwrite** folder is the destiny folder for the output of many of these t
 - Distant Land generation will place its contents here.
 - MWSE will place its mod configuration files here.
 - TES3Merge will place its Merged Objects.esp here.
+- TESTool will place its Merged_Leveled_Lists.esp here.
 
 Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
