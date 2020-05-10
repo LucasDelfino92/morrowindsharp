@@ -6,7 +6,6 @@
    - [**TES3Merge, TES3View, TESAME, TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3merge-tes3view-tesame-testool)
    - [**tes3cmd**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
    - [**Wrye Mash - Polemos fork - 2020**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash---polemos-fork---2020)
-
    - [**The overwrite folder**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#the-overwrite-folder)
 2. [**Using tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#using-the-tools)
    - [**Conflict solving**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
