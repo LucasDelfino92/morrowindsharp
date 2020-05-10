@@ -3,12 +3,11 @@
 # INDEX
 
 1. [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools)
-2. [**Setting up tools in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#setting-up-tools-in-mod-organizer-2)
    - [**tes3cmd**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
    - [**Wrye Mash - Polemos fork - 2020**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash---polemos-fork---2020)
    - [**MO2 executables**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#mo2-executables)
    - [**The overwrite folder**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#the-overwrite-folder)
-3. [**Using the tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#using-the-tools)
+2. [**Using tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#using-the-tools)
    - [**Conflict solving**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
       - [**TES3View**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
       - [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
