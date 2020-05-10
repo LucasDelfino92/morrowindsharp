@@ -221,7 +221,6 @@ Choose between one of these two alternatives:
 
 The following mods require specific MGE XE install instructions. Read the mod pages carefully.
 
-- [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) by Piratelord: makes lights visible in the distance with MGE XE. Best used with mods that make night dark. See those towns, villages, hamlets, camps from far away.
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
