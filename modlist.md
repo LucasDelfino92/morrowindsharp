@@ -152,7 +152,6 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
     - **00 Core**
     - **01 MWSE Version**
 - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488) by Leyawynn: makes the Adamantium Shortsword look less stupid.
-- [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) by PeterBitt: adds glow maps to all three Atronachs in Morrowind so that they glow in the dark.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
@@ -474,7 +473,6 @@ The following mods will conflict with each other. [**Follow the instructions her
 The following mods will conflict with each other. There's no guided fix.
 
 - **Improved Better Skulls** will overwrite **Creature VFX Restoration**'s changes to the Ancient Ghost.
-- **Luminous Atronach** will overwrite **Creature VFX Restoration**'s changes to the Flame, Frost, and Storm Atronachs.
 - **Descriptive Shrines** will overwrite **Patch for Purists** shrine 0 gold fix, which removed the shrines' message asking you for 0 gold if your guild rank was two or better.
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
