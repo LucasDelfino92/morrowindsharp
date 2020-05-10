@@ -7,7 +7,6 @@
    - [**TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
    - [**tes3cmd**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
    - [**Wrye Mash - Polemos fork - 2020**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash---polemos-fork---2020)
-   - [**List of executables**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#list-of-executables)
    - [**The overwrite folder**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#the-overwrite-folder)
 2. [**Conflict solving**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
    - [**TES3View**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
@@ -129,23 +128,6 @@ Now we need to set up Wrye Mash in Mod Organizer 2.
    6. Finally, click **Apply** and then **OK**.
 
 Wrye Mash is now set and ready to go.
-
-## LIST OF EXECUTABLES
-
-You should see the following list of executables when you click the executable drop-down menu next to the **Run** button:
-
-- **Morrowind** (automatically detected by MO2)
-- **Morrowind Launcher** (automatically detected by MO2)
-- **Explore Virtual Folder** (MO2 utility)
-- **MGE XE** (automatically detected by MO2)
-- **Construction Set** (automatically detected by MO2)
-- **TES3Merge**
-- **TES3View**
-- **TESAME**
-- **TESTool**
-- **WryeMash**
-
-We have finished installing all tools and registering them in MO2.
 
 ## THE OVERWRITE FOLDER
 
