@@ -23,8 +23,6 @@
 
 Many Morrowind tools have been made available over the years. Their purpose varies: some are used to clean mods, other to check conflicts, a few others to edit mods, and so on.
 
-Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. Before adding them to Mod Organizer 2, however, we need to download them.
-
 - [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): this tool helps to automatically patch conflicts between mods for The Elder Scrolls III: Morrowind.
 - [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file): TES3View is an advanced graphical module viewer and conflict detector for Morrowind, created by ElminsterAU and the xEdit Team. 
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
@@ -35,11 +33,13 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 # SETTING UP TOOLS IN MOD ORGANIZER 2
 
+Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box.
+
 ## tes3cmd
 
-Unlike the other tools listed above, tes3cmd *should not* be run through Mod Organizer 2. It can be a major pain in the ass, and we do not want that.
+tes3cmd needs to be installed and run through Mod Organizer 2. It requires specific installation instructions as it is more complicated than simply unzipping the file into a folder.
 
-1. After downloading **tes3cmd**, place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+1. Download  **tes3cmd**, place tes3cmd.exe inside your **Morrowind\Data Files** folder.
 2. Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
 3. Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
 
