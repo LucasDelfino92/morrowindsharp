@@ -2,6 +2,22 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 10th
+
+- Moved the following mods from the **Balance** section to the **Gameplay** section:
+  - Higher Faction Requirements
+  - Marksman Rebalanced
+  - No Rest Without Beds
+  - One of a Kind - Daedric Weapons Armor and Shields
+  - Projectile Enchant Capacity
+  - Purist Friendly Magicka Regen
+  - Realistic Movement Speeds
+  - Service Requirements Lore
+  - Speed and Movement Rebalanced
+- Added Early Transport to Mournhold (**Gameplay**).
+- Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) (**Internal Logic**): replaced with Early Transport to Mournhold.
+- Removed left over mods and plugins from the mods.txt and loadorder.txt.
+
 ## May 9th
 
 - Added Corsair's MW Inconsistencies TESAME instructions (**Internal Logic**).
