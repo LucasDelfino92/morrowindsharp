@@ -2,6 +2,23 @@
 
 # INDEX
 
+1. Tools
+2. Setting up tools in Mod Organizer 2
+   1. tes3cmd
+   2. Wrye Mash - Polemos fork - 2020
+   3. MO2 executables
+   4. The overwrite folder
+3. Using the tools
+   1. Conflict solving
+      1. TES3View
+      2. TESAME
+      3. TES3Merge
+      4. TESTool
+   2. Plugin cleaning
+      1. TESTool
+      2. Tes3cmd clean fancy2.bat
+      3. Installing the cleaned plugins
+
 # TOOLS
 
 Many Morrowind tools have been made available over the years. Their purpose varies: some are used to clean mods, other to check conflicts, a few others to edit mods, and so on.
@@ -43,7 +60,7 @@ Wrye Mash needs to be installed and run through Mod Organizer 2. It requires spe
 
 **Wrye Mash** is now set and ready to go.
 
-## Executables
+## MO2 EXECUTABLES
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
