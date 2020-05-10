@@ -79,7 +79,6 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556) by Lucevar: fixes or adds on to vampire-related dialogue, to smooth out typos, fix filtering, and add dialogue in places it seemed to be missing.
 - [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) by R-Zero and Petethegoat: matches the iron warhammer model to its in-game description.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
-- [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93: as Asciene Rene's dialogue suggests, you won't be allowed to travel to Mournhold if you have a disease now. 
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero: there are several mentions of a fishing village at the site of Ald Redaynia in both in-game dialogue and books. This mod adds the missing village of Ald Redaynia. 
 - [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93: if you are a Redoran, you can rent a room at the Flowers of Gold in Vivec for free, as the dialogue suggests.
 - [**Severa Magia DB fix**](https://www.nexusmods.com/morrowind/mods/45647?) by Corsair83: updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary. 
@@ -331,6 +330,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail: adds the descriptions from "The Consolations of Prayer" book to the message box which appears when using temple shrines to give you a better idea of what blessing you're about to receive. Also adds a "Cancel" functionality.
   - Only install the **Descriptive Shrines** main file.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
