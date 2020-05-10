@@ -464,6 +464,9 @@ The following mods will conflict with each other. [**Follow the instructions her
 - Delete the following records from **Religions Elaborated.esp** for compatibility with **RR_Ghost_Gate_Fortress_Eng.ESP**:
     - Cell **Ghostgate**.
     - Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file), which adds a compatible Temple Marker for both mods.
+- Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **tribunal rebalance.ESP**:
+    - NPC **King Hlaalu Helseth**
+    - NPC **barenziah**
 
 The following mods will conflict with each other. There's no guided fix.
 
