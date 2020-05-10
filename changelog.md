@@ -16,6 +16,8 @@
 
 These mods can be safely installed and uninstalled.
 
+If you are modifying Corsair's MW Inconsistencies, make sure you are not carrying Scrap Metal in your current save, or your carry weight could get bugged.
+
 ## May 8th
 
 - Added No-Frills Closed Molag Mar (**Overhauls**).
