@@ -2,7 +2,7 @@
 
 # INDEX
 
-1. Tools
+1. [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools)
 2. Setting up tools in Mod Organizer 2
    - tes3cmd
    - Wrye Mash - Polemos fork - 2020
