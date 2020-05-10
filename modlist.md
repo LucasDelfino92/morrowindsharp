@@ -212,13 +212,13 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 
 ### READABLE SIGNPOSTS
 
-Choose between one of these two alternatives:
+Choose between one of these two alternatives for readable signposts. My personal preference is PeterBitt's, but if you are a vanilla purist nothing beats Atrayonis'.
 
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis: makes road signs legible. Uses vanilla background and resolution.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vvardenfell only**
-- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures. It is my personal favorite.
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
 ### MGE XE MODS
