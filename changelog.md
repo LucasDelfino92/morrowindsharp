@@ -4,7 +4,8 @@
 
 ## May 10th
 
-- Moved the following mods from the **Balance** section to the **Gameplay** section:
+- Renamed **Balance** to **Game Balance**.
+- Moved the following mods from the **Game Balance** section to the **Gameplay** section:
   - Higher Faction Requirements
   - Marksman Rebalanced
   - No Rest Without Beds
@@ -14,9 +15,9 @@
   - Realistic Movement Speeds
   - Service Requirements Lore
   - Speed and Movement Rebalanced
+- Added Morrowind Anti-Cheese TESAME instructions (**Game Blanace**).
 - Added Early Transport to Mournhold (**Gameplay**).
 - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) (**Internal Logic**): replaced with Early Transport to Mournhold.
-- Renamed **Balance** to **Game Balance**.
 - Removed left over mods and plugins from the mods.txt and loadorder.txt.
 - Separated sections in mods.txt for ease of following.
 
