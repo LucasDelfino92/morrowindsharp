@@ -23,8 +23,6 @@
 
 Many Morrowind tools have been made available over the years. Their purpose varies: some are used to clean mods, other to check conflicts, a few others to edit mods, and so on. This brief guide will help you install the different tools we will be using when making sure our Morrowind installation is as clean, compatible, and stable as it can be.
 
-# SETTING UP TOOLS IN MOD ORGANIZER 2
-
 Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. For this reason, I will provide specific instructions for the most particular tools, and generic instructions for the tools that are the easiest to install.
 
 ## TES3Merge, TES3View, TESAME, TESTool
