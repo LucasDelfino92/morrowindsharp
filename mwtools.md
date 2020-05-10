@@ -108,9 +108,9 @@ Files in the **Overwrite** folder will overwrite all your installed assets and p
 
 You shouldn't do this indiscriminately though. By following my mod list, from time to time you will come across plugins that need to be edited for compatibility. Hopefully that way you will learn the habit of keeping a clean **Overwrite** folder.
 
-# A QUICK RUNDOWN OF EACH TOOL
+# USING THE TOOLS
 
-## CONFLICTING SOLVING
+## CONFLICT SOLVING
 
 ### TES3View
 
@@ -152,7 +152,7 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 - If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
-# PLUGIN CLEANING
+## PLUGIN CLEANING
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Before we begin, we will set up TESTool for plugin cleaning.
 
@@ -199,7 +199,7 @@ You will also notice that .tmp files have been generated. **These are the cleane
 
 There is one last step: we need to remove the .tmp extension from all plugins which have it, else Morrowind won't recognize them. Simply rename the file, and delete the extension, leaving the original .esp extension intact.
 
-## HOW TO INSTALL THE CLEANED PLUGINS
+### INSTALLING THE CLEANED PLUGINS
 
 Once all plugins are cleaned, you should .zip them into a new file (such as **Cleaned Plugins.zip**). You can safely delete all those beautiful, clean plugins from your **Morrowind\Data Files** folder: they are no longer needed.
 
