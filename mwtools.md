@@ -63,6 +63,18 @@ Now launch Mod Organizer 2. Note that the following process will have to be repe
    6. Finally, click **Apply** and then **OK**.
 4. Repeat the same process for each of the tools mentioned above.
 
+Now we need to set up Wrye Mash in Mod Organizer 2.
+
+1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+3. Click on **New Executable**, and input the following information:
+   1. In **Title**, WryeMash
+   2. In **Binary**, search for the location of mash64.exe using the icon to the right (for instance, C:\Games\Morrowind\Mopy\mash64.exe)
+   3. Leave the **Start In** field empty.
+   4. Leave the **Arguments** field empty.
+   5. Tick **Use application's icon for desktop shortcuts**.
+   6. Finally, click **Apply** and then **OK**.
+
 You should see the following list of executables when you click the executable drop-down menu next to the **Run** button:
 
 - **Morrowind** (automatically detected by MO2)
@@ -74,6 +86,7 @@ You should see the following list of executables when you click the executable d
 - **TES3View**
 - **TESAME**
 - **TESTool**
+- **WryeMash**
 
 We have finished installing all tools and registering them in MO2.
 
