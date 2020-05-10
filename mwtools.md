@@ -27,11 +27,11 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 These tools can be easily run through Mod Organizer 2.
 
-- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
-- [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
+- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): used for conflict solving.
+- [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file): used for general conflict browsing.
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool)
-- [**TESAME**](http://mw.modhistory.com/download-95-15443)
+- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): used for conflict solving and plugin cleaning.
+- [**TESAME**](http://mw.modhistory.com/download-95-15443): used for conflict solving and plugin cleaning.
 
 In your Morrowind root folder (where your Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
 
