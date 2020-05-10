@@ -19,6 +19,8 @@
 - Removed left over mods and plugins from the mods.txt and loadorder.txt.
 - Separated sections in mods.txt for ease of following.
 
+**Quarantined Vvardenfell** can be safely uninstalled.
+
 ## May 9th
 
 - Added Corsair's MW Inconsistencies TESAME instructions (**Internal Logic**).
@@ -32,7 +34,7 @@
 - Removed [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (**Visuals**): personal preference, for compatibility with Creature VFX Restoration.
 - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (**Gameplay**): aside from being incompatible with Lock Bashing, this mod can make exploration for non-Security oriented characters extremely frustrating.
 
-These mods can be safely installed and uninstalled.
+The removed mods can be safely uninstalled.
 
 If you are modifying Corsair's MW Inconsistencies, make sure you are not carrying Scrap Metal in your current save, or your carry weight could get bugged.
 
