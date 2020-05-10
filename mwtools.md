@@ -225,3 +225,10 @@ To finish this, install **Cleaned Plugins.zip** through Mod Organizer 2. The cle
 
 ## SAVE REPAIRING
 
+When uninstalling mods frmo a save, it is a good practice to repair your saves using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
+
+- After uninstalling a plugin, launch Mod Organizer 2.
+- Select the save which relied on a plugin you've uninstalled. You will get a message saying that the currently selected master files and plugins do not match the ones used by your save game. Continue anyways by clicking **Yes**. Once in-game, save your game in a new slot. Exit the game afterwards. This step is necessary to allow WryeMash to fix your save.
+- Launch WryeMash in MO2.
+- In WryeMash, go to the **Saves** tab. Right click on the save you've just made, and click on **Repair All**. WryeMash will analyze your savefile to decide whether it needs repairing or not.
+- You will get a message window saying no problems where found, or a message window detailing the problems repaired by WryeMash. You can close WryeMash afterwards.
