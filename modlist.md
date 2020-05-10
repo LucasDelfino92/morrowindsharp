@@ -483,8 +483,6 @@ Load **Glowing Bitter Coast** before **Project Atlas**.
 
 Load **Glow in the Dahrk** before **Project Atlas**.
 
-Load **Distant Lights** before **Glow in the Dahrk**.
-
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
 
 Load **GlobalMapMarkers - no TR.esp** at the end of your load order, as changes done by other mods can override the Cell name edits of this plugin.
