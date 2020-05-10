@@ -12,6 +12,7 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 - [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): TESTool is a mod management, repair and cleaning utility.
 - [**TESAME**](http://mw.modhistory.com/download-95-15443): The Elder Scrolls Advanced Mod Editor is a tool used by both modders and players that can clean dirty mods, and merge any two mods.
 - [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): tes3cmd is a command-line tool which is used for examining and modifying TES3 plugins in various ways. It can also create a patch for various problems and merge leveled lists. Most importantly, it can be used to clean plugins.
+- [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439): Wrye Mash is a mod manager which we will be using solely for its save cleaning capabilities.
 
 # SETTING UP TOOLS IN MOD ORGANIZER 2
 
@@ -19,11 +20,26 @@ Because Mod Organizer 2 installs mods in a virtual file system, many of these to
 
 Unlike the other tools listed above, tes3cmd *should not* be run through Mod Organizer 2. It can be a major pain in the ass, and we do not want that.
 
-- After downloading **tes3cmd**, place tes3cmd.exe inside your **Morrowind\Data Files** folder.
-- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
-- Rename the resulting .txt file **Tes3cmd clean fancy2.bat**, modifying the file extension from .txt to .bat.
+1. After downloading **tes3cmd**, place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+2. Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+3. Rename the resulting .txt file **Tes3cmd clean fancy2.bat**, modifying the file extension from .txt to .bat.
 
 **tes3cmd** is now set and ready to go.
+
+## Wrye Mash - Polemos fork - 2020
+
+Wrye Mash needs to be installed and run through Mod Organizer 2. It requires specific installation instructions as it is more complicated than simply unzipping the file into a folder.
+
+1. Download the [**Wrye Mash 2019 - x64 - manual installation archive**](https://www.nexusmods.com/morrowind/mods/45439?) main file.
+2. Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
+3. Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
+4. Click **Next>**. The Wizard will ask you to fill the following paths:
+   - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
+   - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
+   - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
+5. With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
+
+**Wrye Mash** is now set and ready to go.
 
 ## Standard executables
 
