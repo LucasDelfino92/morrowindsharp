@@ -485,6 +485,4 @@ Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
 
-Load **GlobalMapMarkers - no TR.esp** at the end of your load order, as changes done by other mods can override the Cell name edits of this plugin.
-
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
