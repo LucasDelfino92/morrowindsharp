@@ -54,6 +54,10 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245) by Corsair83: addresses a handful of issues found in the game's text and lore versus what's presented in in-game items and so on.
+  - In TESAME, delete the following record:
+    - Ingredient **ingred_scrap_metal_01**
+  - Save the plugin as **MW_Inconsistencies.esp**, overwriting the original when asked.
+  - This removes the changes to Scrap Metal.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
