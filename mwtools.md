@@ -3,7 +3,7 @@
 # INDEX
 
 1. [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools)
-   - [**TES3Merge, TES3View, TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3merge-tes3view-tesame-testool)
+   - [**TES3Merge, TES3View, TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3merge-tes3view-tesame)
    - [**TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
    - [**tes3cmd**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
    - [**Wrye Mash - Polemos fork - 2020**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash---polemos-fork---2020)
@@ -75,6 +75,22 @@ Now launch Mod Organizer 2.
    4. Leave the **Arguments** field empty.
    5. Tick **Use application's icon for desktop shortcuts**.
    6. Finally, click **Apply** and then **OK**.
+
+Now we need to setup TESTool for cleaning.
+
+- Launch TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Click **Options**.
+- Make sure the following options are active:
+  - Don't change plugin filenames.
+  - Ignore tribunal.esm
+  - Ignore bloodmoon.esm
+  - Restricted dialog cleaning
+  - Restricted cell cleaning
+- Click **Done**.
+- Close TESTool.
+
+TESTool is now set and ready to go.
 
 ## tes3cmd
 
@@ -186,21 +202,7 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 
 # PLUGIN CLEANING
 
-At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). Before we begin, we will set up TESTool for plugin cleaning.
-
-- Launch TESTool in MO2.
-- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Click **Options**.
-- Make sure the following options are active:
-  - Don't change plugin filenames.
-  - Ignore tribunal.esm
-  - Ignore bloodmoon.esm
-  - Restricted dialog cleaning
-  - Restricted cell cleaning
-- Click **Done**.
-- Close TESTool.
-
-We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
+At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
 
 ### TESTool
 
