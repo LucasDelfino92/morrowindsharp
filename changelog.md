@@ -4,6 +4,7 @@
 
 ## May 10th
 
+- Massive rework of the **Tools** section, with drastically simplified and improved cleaning instructions.
 - Renamed **Balance** to **Game Balance**.
 - Moved the following mods from the **Game Balance** section to the **Gameplay** section:
   - Higher Faction Requirements
