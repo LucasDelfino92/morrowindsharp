@@ -1,6 +1,6 @@
 # INDEX
 
-1. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mended-morrowind)
+1. [Before we begin](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#before-we-begin)
 2. [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDED MORROWIND
