@@ -226,6 +226,8 @@ The second step is to clean plugins using tes3cmd.
 - Press Enter, and tes3cmd will clean the plugin.
 - You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
 
+> You can 
+
 The cleaned plugins will have overwritten the original plugins.
 
 # SAVE REPAIRING
