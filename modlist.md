@@ -230,7 +230,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
   - I recommend opening up the console in-game and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
-# AUDIO
+## AUDIO
 
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
@@ -250,7 +250,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
 
-# MISCELLANEOUS
+## MISCELLANEOUS
 
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
@@ -273,7 +273,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
-# OVERHAULS
+## OVERHAULS
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities. 
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557) by R-Zero: adds a statue of Hlaalu Brevur to Balmora High Town district.
@@ -317,7 +317,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora. 
 
-# GAMEPLAY
+## GAMEPLAY
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
@@ -398,7 +398,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-# GAME BALANCE
+## GAME BALANCE
 
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
@@ -415,9 +415,9 @@ The following mod should only be installed if you are playing with the official 
 
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
-# FINISHING TOUCHES
+## FINISHING TOUCHES
 
-## CLEANING NOTES
+### CLEANING NOTES
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
@@ -453,7 +453,7 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 - **Nordic Chest Replacer.esp**: delete the following records:
     - Cell **Solstheim, Bloodskal Barrow**
 
-## CONFLICT NOTES
+### CONFLICT NOTES
 
 The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
@@ -476,7 +476,7 @@ The following mods will conflict with each other. There's no guided fix.
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
 
-## LOAD ORDER
+### LOAD ORDER
 
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
