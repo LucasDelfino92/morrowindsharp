@@ -2,6 +2,11 @@
 
 [**Back to main page.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 11th
+
+- Added Index to **Mended Morrowind**.
+- Simplified **Intelligent Textures** installation instructions.
+
 ## May 10th
 
 - Massive rework of the **Tools** section, with drastically simplified and improved cleaning instructions.
