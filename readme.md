@@ -1,6 +1,6 @@
 # SIGOURN'S MOD LIST
 
-Last updated: May 10th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+Last updated: May 11th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
