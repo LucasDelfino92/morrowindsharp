@@ -184,7 +184,7 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 - Go to **Mods -> Save as ..**
 - Remove the **Clean** prefix from the plugin name and save it, **overwriting** the original .esp.
 
-The newly edited plugin will be found in the mod's installation folder inside Mod Organizer 2\mods\.
+The newly edited plugin will have overwritten the original plugin.
 
 ### TES3Merge
 
@@ -225,6 +225,8 @@ The second step is to clean plugins using tes3cmd.
 - You will have to type **tes3cmd_clean.bat "plugin.esp"**, where "plugin" is the name of the plugin you want to clean. For example, you could end up with a line looking like so: **C:\Games\Morrowind\Data Files>tes3cmd_clean.bat "Soul Gems at Ghostgate.ESP"**
 - Press Enter, and tes3cmd will clean the plugin.
 - You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
+
+The cleaned plugins will have overwritten the original plugins.
 
 # SAVE REPAIRING
 
