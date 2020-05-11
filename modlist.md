@@ -427,7 +427,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Dubdilla Location Fix.esp**
 - **frostmoth_repaired_v0_31.esp**
 - **GITD_WL_RR_Interiors.esp**
-- **GlobalMapMarkers - no TR.esp**
 - **Meteorite Ministry Temple - Higher.esp**
 - **More Redoran Master Helms.esp**
 - **MW_Inconsistencies.esp**
