@@ -4,13 +4,15 @@
 
 # MENDED MORROWIND
 
+## BEFORE WE BEGIN
+
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
 Install Morrowind to a root directory (e.g. C:\Games\Morrowind\). This will save you headaches later on.
 
 Your **Data Files** folder contains your game’s data. If you followed my advice earlier, it should be found in C:\Games\Morrowind\Data Files\.
 
-### MODDING BASICS
+## MODDING BASICS
 
 A crash course to Morrowind and Bethesda modding in general is:
 
@@ -22,7 +24,7 @@ Your Morrowind root folder contains the game’s executable (Morrowind.exe), the
 
 When installing mods manually, by extracting the contents of a mod and dropping them inside your Data Files folder, there is a chance you will be overwriting one mod's files with another mod's. This is where mod managers come in: they make modding easy by providing you with lots of tools to aid you in modding your game.
 
-# MOD ORGANIZER 2
+## MOD ORGANIZER 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
@@ -79,7 +81,7 @@ This concludes this brief tutorial.
 
 As I said earlier, my experience with it is a positive one. But my experience with MO2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods, for instance, which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. But MO2 won't break your game as long as you use it for mod installation and nothing else.
 
-# MORROWIND CODE PATCH
+## MORROWIND CODE PATCH
 
 The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind, as opposed to OpenMW.
 
@@ -94,7 +96,7 @@ Unlike mods, the Morrowind Code Patch requires specific install instructions, an
 
 Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder, and you will be done. We can finally move on to the next step, which is actually installing mods through Mod Organizer 2 (or your mod manager of choice).
 
-# MGE XE
+## MGE XE
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away. Just like the Morrowind Code Patch, MGE XE can't be installed through Mod Organizer 2.
 
@@ -153,7 +155,9 @@ The **Options** section has a handful of features you will want to be aware of. 
 
 Under **Morrowind engine settings**, you will definitely want to have **Allow yes to all load errors**, **Allow screenshots**, and **Thread loading** ticked. **Show subtitles** is very useful as well. Just don't activate the buggy **High detail actor shadows** option.
 
-## HIGH QUALITY VANILLA TEXTURES
+## MENDING MORROWIND
+
+### HIGH QUALITY VANILLA TEXTURES
 
 This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures. I will mention two of them: *use one or the other*, not both at once. Remember that installing these textures is entirely up to you.
 
@@ -162,7 +166,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Also install the **Wood Fix** update file.
 
-## BUG FIXES
+### BUG FIXES
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: unofficial patch that aims to make the game completely bug-free (within the abilities of TESCS). In addition to being under active development, it diverges from later versions of the community patches in that it aims to only fix bugs (avoiding unnecessary balance and gameplay changes), takes a more conservative approach about what it considers a bug, and implementing bug fixes in coordination with Tamriel Rebuilt and the Project Tamriel projects.
 - [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
@@ -177,7 +181,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
-# OPTIMIZATION
+### OPTIMIZATION
 
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. MO2 will install the mod as a BAIN package. Tick the following options and click **OK**.
@@ -189,11 +193,11 @@ This mod list does not condone the use of using texture replacers for the sake o
   - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
-# EXPANSION IMPLEMENTATION
+### EXPANSION IMPLEMENTATION
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-# OFFICIAL PLUGINS PATCHED
+### OFFICIAL PLUGINS PATCHED
 
 Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
 
@@ -217,7 +221,7 @@ The second step is to install patched versions of the official plugins.
 
 This ensures you have all official plugins by Bethesda, patched for bug fixes, and merged into a single plugin.
 
-# .INI EDITS
+### .INI EDITS
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
@@ -235,6 +239,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click Save to finish editing the Morrowind.ini.
 
-# LOAD ORDER
+### LOAD ORDER
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
