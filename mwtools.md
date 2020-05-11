@@ -221,7 +221,10 @@ The first step is to clean plugins using TESTool.
 The second step is to clean plugins using tes3cmd.
 
 - Launch tes3cmd in MO2.
-- 
+- A command window will appear, starting with your Morrowind Data Files directory (for instance, C:\Games\Morrowind\Data Files>)
+- You will have to type **tes3cmd_clean.bat "plugin.esp"**, where "plugin" is the name of the plugin you want to clean. For example, you will end up with a line looking like so: **C:\Games\Morrowind\Data Files>tes3cmd_clean.bat "Soul Gems at Ghostgate.ESP"**
+- Press Enter, and tes3cmd will clean the plugin.
+- You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
 
 # SAVE REPAIRING
 
