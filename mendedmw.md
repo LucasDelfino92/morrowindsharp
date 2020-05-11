@@ -153,36 +153,28 @@ The **Options** section has a handful of features you will want to be aware of. 
 
 Under **Morrowind engine settings**, you will definitely want to have **Allow yes to all load errors**, **Allow screenshots**, and **Thread loading** ticked. **Show subtitles** is very useful as well. Just don't activate the buggy **High detail actor shadows** option.
 
-# HIGH QUALITY VANILLA TEXTURES
+## HIGH QUALITY VANILLA TEXTURES
 
-This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures. I will mention two of them.
+This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures. I will mention two of them: *use one or the other*, not both at once. Remember that installing these textures is entirely up to you.
 
-For some reason, Morrowind uses textures that have undergone considerable compression. After some tweaking, I was able to make the game use textures that are much more defined and sharper, lacking the readily apparent compression artifacts of the vanilla textures. Some people take issue with the term "uncompressed" as these textures are compressed themselves, but issues aside, the difference [**can be very noticeable at times**](https://staticdelivery.nexusmods.com/mods/100/images/45551/45551-1522291196-1194635012.jpeg).
-
-- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks.
-
-Installing these textures is entirely up to you. Needless to say, I use them myself. However, thanks to the advancement of high resolution AI upscaling, there's a fantastic alternative available, and one which many consider superior.
-
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros.
+- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Also install the **Wood Fix** update file.
 
-Remember, *use one or the other*, not both at once.
+## BUG FIXES
 
-# BUG FIXES
-
-- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes.
+- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: unofficial patch that aims to make the game completely bug-free (within the abilities of TESCS). In addition to being under active development, it diverges from later versions of the community patches in that it aims to only fix bugs (avoiding unnecessary balance and gameplay changes), takes a more conservative approach about what it considers a bug, and implementing bug fixes in coordination with Tamriel Rebuilt and the Project Tamriel projects.
 - [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
 - [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
-  - Install the **Glowing Flames** main file.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
-  - Install the **No More Stage Diving** main file.
+  - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
 # OPTIMIZATION
