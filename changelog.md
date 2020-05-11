@@ -5,6 +5,7 @@
 ## May 11th
 
 - Added Index to **Mended Morrowind**.
+- Minor formatting tweaks to all pages.
 - Simplified **Intelligent Textures** installation instructions.
 
 ## May 10th
