@@ -206,7 +206,8 @@ This mod list does not condone the use of using texture replacers for the sake o
   - **00 Core**
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros.
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: patches Project Atlas with Intelligent Textures.
+  - Only install this mod if you installed **Intelligent Textures** earlier.
   - MO2 will install this mod as a BAIN package. Tick **01 Atlas Textures** and click **OK**.
   - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
 - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
