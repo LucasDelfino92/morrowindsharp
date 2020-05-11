@@ -1,4 +1,6 @@
-# INDEX
+# MENDED MORROWIND
+
+## INDEX
 
 - [Before we begin](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#before-we-begin)
 - [Modding basics](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#modding-basics)
@@ -19,8 +21,6 @@
   - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#ini-edits)
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
-
-# MENDED MORROWIND
 
 ## BEFORE WE BEGIN
 
