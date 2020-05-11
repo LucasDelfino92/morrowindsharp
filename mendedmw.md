@@ -1,7 +1,24 @@
 # INDEX
 
-1. [Before we begin](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#before-we-begin)
-2. [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+- [Before we begin](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#before-we-begin)
+- [Modding basics](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#modding-basics)
+- [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mod-organizer-2)
+  - [Hiding files and plugins in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#hiding-files-and-plugins-in-mod-organizer-2)
+  - [A note on Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#a-note-on-mod-organizer-2)
+- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#morrowind-code-patch)
+- [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mge-xe)
+  - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#graphics-tab)
+  - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#distant-land-tab)
+  - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#in-game-tab)
+- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
+  - [High quality textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#high-quality-vanilla-textures)
+  - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#bug-fixes)
+  - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#optimization)
+  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#expansion-implementation)
+  - [Official plugins patched](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins-patched)
+  - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#ini-edits)
+  - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
+- [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDED MORROWIND
 
