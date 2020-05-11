@@ -1,20 +1,20 @@
 # INDEX
 
 0. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mended-morrowind)
-1. [User Interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
-2. [Content Restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
-3. [Internal Logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
+1. [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
+2. [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
+3. [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
 4. [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#visuals)
 5. [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
 6. [Miscellaneous](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#miscellaneous)
 7. [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
 8. [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
-9. [Game Balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#balance)
+9. [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#balance)
 10. [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     1. [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     2. [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
     3. [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
-11. [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+11. [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDED MORROWIND
 
