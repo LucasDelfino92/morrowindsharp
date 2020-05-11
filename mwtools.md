@@ -41,16 +41,16 @@ In your Morrowind **root folder** (where Morrowind.exe is) create one folder for
 
 Now launch Mod Organizer 2.
 
-1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-3. Click on **New Executable**, and input the following information:
-   1. In **Title**, the name of the tool (for instance, TES3Merge)
-   2. In **Binary**, search for the location of the tool (for instance, C:\Games\Morrowind\TES3Merge\TES3Merge.exe)
-   3. In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
-   4. Leave the **Arguments** field empty.
-   5. Tick **Use application's icon for desktop shortcuts**.
-   6. Finally, click **Apply** and then **OK**.
-4. Repeat steps 2 and 3 for each of the tools mentioned above.
+- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+- Click on **New Executable**, and input the following information:
+   - In **Title**, the name of the tool (for instance, TES3Merge)
+   - In **Binary**, search for the location of the tool (for instance, C:\Games\Morrowind\TES3Merge\TES3Merge.exe)
+   - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
+   - Leave the **Arguments** field empty.
+   - Tick **Use application's icon for desktop shortcuts**.
+   - Finally, click **Apply** and then **OK**.
+- Repeat these steps for each of the tools mentioned above.
 
 These tools are now set and ready to go.
 
@@ -66,15 +66,15 @@ In your Morrowind **root folder** (where Morrowind.exe is) create a folder for T
 
 Now launch Mod Organizer 2.
 
-1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-3. Click on **New Executable**, and input the following information:
-   1. In **Title**: TESTool
-   2. In **Binary**, search for the location of TESTool.exe (for instance, C:\Games\Morrowind\TESTool\TESTool.exe)
-   3. In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
-   4. Leave the **Arguments** field empty.
-   5. Tick **Use application's icon for desktop shortcuts**.
-   6. Finally, click **Apply** and then **OK**.
+- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+- Click on **New Executable**, and input the following information:
+   - In **Title**: TESTool
+   - In **Binary**, search for the location of TESTool.exe (for instance, C:\Games\Morrowind\TESTool\TESTool.exe)
+   - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
+   - Leave the **Arguments** field empty.
+   - Tick **Use application's icon for desktop shortcuts**.
+   - Finally, click **Apply** and then **OK**.
 
 Now we need to setup TESTool for cleaning.
 
@@ -98,23 +98,23 @@ Dedicated installation instructions are provided for this tool.
 
 - [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): used for plugin cleaning.
 
-1. Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
-2. Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
-3. Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-4. Create the following folder:
+- Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+- Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
+- Create the following folder:
    - Morrowind\Data Files\tes3cmd\backups
 
 Now we need to set up tes3cmd in Mod Organizer 2.
 
-1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-3. Click on **New Executable**, and input the following information:
-   1. In **Title**: tes3cmd
-   2. In **Binary**, search for the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe)
-   3. In **Start In**, search for the location of your Morrowind Data Files folder (for instance, C:\Games\Morrowind\Data Files)
-   4. Leave the **Arguments** field empty.
-   5. Tick **Use application's icon for desktop shortcuts**.
-   6. Finally, click **Apply** and then **OK**.
+- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+- Click on **New Executable**, and input the following information:
+   - In **Title**: tes3cmd
+   - In **Binary**, search for the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe)
+   - In **Start In**, search for the location of your Morrowind Data Files folder (for instance, C:\Games\Morrowind\Data Files)
+   - Leave the **Arguments** field empty.
+   - Tick **Use application's icon for desktop shortcuts**.
+   - Finally, click **Apply** and then **OK**.
 
 tes3cmd_clean.bat is now set and ready to go.
 
@@ -124,26 +124,26 @@ Dedicated installation instructions are provided for this tool.
 
 - [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
 
-1. Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
-2. Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
-3. Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
-4. Click **Next>**. The Wizard will ask you to fill the following paths:
+- Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
+- Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
+- Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
+- Click **Next>**. The Wizard will ask you to fill the following paths:
    - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
    - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
    - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
-5. With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
+- With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
 
 Now we need to set up Wrye Mash in Mod Organizer 2.
 
-1. Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-2. In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-3. Click on **New Executable**, and input the following information:
-   1. In **Title**: WryeMash
-   2. In **Binary**, search for the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe)
-   3. Leave the **Start In** field empty.
-   4. Leave the **Arguments** field empty.
-   5. Tick **Use application's icon for desktop shortcuts**.
-   6. Finally, click **Apply** and then **OK**.
+- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
+- Click on **New Executable**, and input the following information:
+   - In **Title**: WryeMash
+   - In **Binary**, search for the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe)
+   - Leave the **Start In** field empty.
+   - Leave the **Arguments** field empty.
+   - Tick **Use application's icon for desktop shortcuts**.
+   - Finally, click **Apply** and then **OK**.
 
 Wrye Mash is now set and ready to go.
 
