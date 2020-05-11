@@ -5,6 +5,8 @@
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#visuals)
+    - [Readable signposts](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#readable-signposts)
+    - [MGE XE mods](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mge-xe-mods)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
 - [Miscellaneous](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#miscellaneous)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
