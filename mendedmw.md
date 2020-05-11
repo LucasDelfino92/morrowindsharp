@@ -1,6 +1,7 @@
 # INDEX
 
-[**Back to the Installation Index.**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
+1. [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mended-morrowind)
+2. [Back to Readme](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDED MORROWIND
 
