@@ -159,7 +159,7 @@ This mod list does not condone the use of using texture replacers for the sake o
 
 For some reason, Morrowind uses textures that have undergone considerable compression. After some tweaking, I was able to make the game use textures that are much more defined and sharper, lacking the readily apparent compression artifacts of the vanilla textures. Some people take issue with the term "uncompressed" as these textures are compressed themselves, but issues aside, the difference [**can be very noticeable at times**](https://staticdelivery.nexusmods.com/mods/100/images/45551/45551-1522291196-1194635012.jpeg).
 
-- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks. Install normally.
+- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks.
 
 Installing these textures is entirely up to you. Needless to say, I use them myself. However, thanks to the advancement of high resolution AI upscaling, there's a fantastic alternative available, and one which many consider superior.
 
@@ -171,12 +171,12 @@ Remember, *use one or the other*, not both at once.
 
 # BUG FIXES
 
-- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes. Install normally.
-- [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell. Install normally.
-- [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones. Install normally.
+- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: pure bug-fixing mod that stays away from controversial changes.
+- [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
+- [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
-- [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead. Install normally.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion. Install normally.
+- [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
   - Install the **Glowing Flames** main file.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
