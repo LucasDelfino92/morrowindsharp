@@ -16,11 +16,13 @@
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# MENDED MORROWIND
+# SIGOURN'S MOD LIST
+
+## MENDED MORROWIND
 
 The Mended Morrowind guide has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md)
 
-# USER INTERFACE
+## USER INTERFACE
 
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
@@ -35,7 +37,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
 
-# CONTENT RESTORATION
+## CONTENT RESTORATION
 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
 - [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser: adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
@@ -48,7 +50,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-# INTERNAL LOGIC
+## INTERNAL LOGIC
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
@@ -95,7 +97,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
   - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 
-# VISUALS
+## VISUALS
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
