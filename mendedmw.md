@@ -109,7 +109,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
-### GRAPHICS
+### GRAPHICS TAB
 
 All features in this page are self-explained, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones 
 are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
@@ -139,7 +139,7 @@ The shader combination that works the best for me, and which I personally recomm
 - Apels GammaCorrection
 - deband_fogaware
 
-### DISTANT LAND
+### DISTANT LAND TAB
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
 
@@ -149,7 +149,7 @@ The **Distant land generator wizard** lets you select which plugins you want MGE
 - **Customize setup** will let you modify the Distant Land generation parameters. Especially useful for those who want to lower the stress on their computers, or push their rigs to the max. [**These are my personal settings**](https://www.mediafire.com/view/0gy55r1yvb5jlue/MGE_XE_Distant_Land_Generation.png/file) for Distant Land Generation. The "lists of statics overriding parameters" found in the fourth panel from left to the right refers to a mod that can be installed later in the mod list. Don't pay too much attention to it right now.
 - **Update existing distant land** will regenerate Distant Land according to the saved/default settings. If you have customized your setup in the past, this is the option you want to use.
 
-### IN-GAME
+### IN-GAME TAB
 
 The **Options** section has a handful of features you will want to be aware of. **Skip opening movie** is a timesaver, while **Responsive menu caching** is a must have. **Crosshair autohide** is nice at first, but grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. Finally, **Daggerfall combat controls** may appeal to the veteran Daggerfall player.
 
