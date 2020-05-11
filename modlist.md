@@ -1,4 +1,6 @@
-# INDEX
+# SIGOURN'S MOD LIST
+
+## INDEX
 
 - [Mended Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mended-morrowind)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
@@ -17,8 +19,6 @@
     - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
-
-# SIGOURN'S MOD LIST
 
 ## MENDED MORROWIND
 
