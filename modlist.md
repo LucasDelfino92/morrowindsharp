@@ -54,6 +54,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 
 ## INTERNAL LOGIC
 
+- [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
