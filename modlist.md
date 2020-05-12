@@ -436,6 +436,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **GITD_WL_RR_Interiors.esp**
 - **Meteorite Ministry Temple - Higher.esp**
 - **More Redoran Master Helms.esp**
+- **Morrowind Anti-Cheese.ESP**
 - **MW_Inconsistencies.esp**
 - **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
 - **Nordic Chest Replacer.esp**
