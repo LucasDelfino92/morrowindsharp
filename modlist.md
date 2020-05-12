@@ -56,7 +56,6 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 
 - [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
-- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245) by Corsair83: addresses a handful of issues found in the game's text and lore versus what's presented in in-game items and so on.
   - In TESAME, delete the following record:
@@ -258,6 +257,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 ## MISCELLANEOUS
 
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
+- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
 - [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat: modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
