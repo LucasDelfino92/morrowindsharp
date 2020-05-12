@@ -4,6 +4,10 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 12th
+
+- Removed [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806): personal preference, for compatibility with Intelligent Textures.
+
 ## May 11th
 
 - Added Index to **Mended Morrowind**.
