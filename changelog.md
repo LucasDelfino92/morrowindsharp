@@ -7,6 +7,10 @@
 ## May 12th
 
 - Removed [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806): personal preference, for compatibility with Intelligent Textures.
+- Moved the following mods from the **Bug Fixes** section to the **Internal Logic** section:
+  - Arrille Inventory Fix
+  - FMI - Current Councilors
+  - FMI - Legion Dialogue
 
 ## May 11th
 
