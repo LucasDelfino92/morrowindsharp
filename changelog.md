@@ -142,13 +142,6 @@ If you are modifying Corsair's MW Inconsistencies, make sure you are not carryin
 - Added Temples with Shrines (**Gameplay**).
 - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) (**Gameplay**). Personal preference. Replaced with Religions Elaborated, Ghostgate Fortress Temple Marker, and Temples with Shrines.
 
-## APRIL 20th
-
-- Added back RR Mod Series - Better Gnisis Arch (**Visuals**).
-- Added back RR Mod Series - Holamayan Monastery Replacer (**Overhauls**).
-- Added back RR Mod Series - Ghostgate Fortress (**Overhauls**).
-- Added back the Intervention Improved compatibility patch for RR Mod Series - Ghostgate Fortress (**Gameplay**).
-
 ## APRIL 19th
 
 - Moved Better Robes (**Visuals**).
