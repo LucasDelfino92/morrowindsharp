@@ -210,7 +210,6 @@ This mod list does not condone the use of using texture replacers for the sake o
   - Only install this mod if you installed **Intelligent Textures** earlier.
   - MO2 will install this mod as a BAIN package. Tick **01 Atlas Textures** and click **OK**.
   - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
-- [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) by Petethegoat: optimizes the Silt Strider mesh while also smoothing it and improving its collision box.
 
 ### EXPANSION IMPLEMENTATION
 
