@@ -432,6 +432,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **correctUV Ore Replacer 1.0.esp**
 - **Creeper the drummer.esp**
 - **Dubdilla Location Fix.esp**
+- **Divayth Fyr Puzzle Fixed.ESP**
 - **frostmoth_repaired_v0_31.esp**
 - **GITD_WL_RR_Interiors.esp**
 - **Meteorite Ministry Temple - Higher.esp**
