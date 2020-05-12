@@ -66,9 +66,11 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
+- [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead.
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich: stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong Council Club, so long as the Camonna Tong thugs are still hanging around. 
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich: fixes inconsistencies between where ingredients are said to be found, and where they are actually found.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
   - Only install the **FMI - Misc** main file.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich: NPCs no longer will greet you as if they had just met you.
