@@ -171,8 +171,6 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
     - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
-- [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Morrowind Community and Resdayn Revival Team: new models and textures for Gnisis Arch based on Morrowind concept art.
-  - Also install the **RedFurryDemon's - Hand 2k texture** optional file.
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
@@ -303,19 +301,9 @@ The following mods require specific MGE XE install instructions. Read the mod pa
   - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
   - Hide/disable **Passage of Prayers - No Lore.esp**.
-- [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostgate and Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 - Main Files**
-    - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
-    - **06 - Optional - Better Ghostfence Pillars - Scythe**
-- [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) by Morrowind Community and Resdayn Revival Team: new models and textures for Holamayan Monastery, based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 - Main Files**
-    - **01 - Main ESP - English**
-    - **03 - Main Files - Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
+- [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostfence pylons based on Morrowind concept art.
+  - MO2 will install this mod as a BAIN package. Tick **06 - Optional - Better Ghostfence Pillars - Scythe** and click **OK**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
-    - Do not use this mod alongside **RR Mod Series - Holamayan Monastery Replacer**, as it is already included in that mod.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -466,12 +454,6 @@ The following mods will conflict with each other. [**Follow the instructions her
 
 - Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
     - NPC **severa magia**
-- Delete the following records from **QL_SevenGracesShrines.esp** for compatibility with **RR_Ghost_Gate_Fortress_Eng.ESP**:
-    - Cell **(unnamed)**
-    - Cell **(unnamed)**
-- Delete the following records from **Religions Elaborated.esp** for compatibility with **RR_Ghost_Gate_Fortress_Eng.ESP**:
-    - Cell **Ghostgate**.
-    - Install [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file), which adds a compatible Temple Marker for both mods.
 - Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **tribunal rebalance.ESP**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
