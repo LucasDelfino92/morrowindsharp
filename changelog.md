@@ -11,6 +11,7 @@
   - Arrille Inventory Fix
   - FMI - Current Councilors
   - FMI - Legion Dialogue
+- Moved Burial of a Taxman from **Internal Logic** to the **Miscellaneous** section: this is not a consistency fix.
 
 ## May 11th
 
