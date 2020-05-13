@@ -29,7 +29,7 @@
 - Added TESAME instructions for Morrowind Anti-Cheese.
 - Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
 
-### Hotfix
+### Hotfix 2
 
 - Moved Melchior's Mudcrab Merchant from **Visuals** to **Overhauls**.
 - Added new load order instructions for Melchior's Mudcrab Merchant (**Overhauls**).
