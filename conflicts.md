@@ -8,7 +8,7 @@
 
 The following conflicts have been noted down after running the plugins with TES3Merge and TESTool's Leveled Lists. As such, only conflicts not solved by these two mods will be reported.
 
-Bear in mind that not every conflict is a bad thing. In many ocassions, a mod will overwrite Patch for Purist's fixes for different reasons, such as typos when it comes to rewriting an entire dialog topic, or additional changes to quests. As such, only the *actual*, non-intended conflicts, will be listed here.
+Bear in mind that not every conflict is a bad thing. In many occasions, a mod will overwrite Patch for Purist's fixes for different reasons, such as typos when it comes to rewriting an entire dialog topic, or additional changes to quests. As such, only the *actual*, non-intended conflicts, will be listed here.
 
 ### PLUGIN CONFLICTS
 
