@@ -206,7 +206,7 @@ Whether you choose to install these mods is entirely up to you. At the very leas
   - **00 Core**
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
-  - Hide/delete meshes\x\ex_imp_plat_01.nif.
+    - After installing Project Atlas, hide/delete meshes\x\ex_imp_plat_01.nif.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: patches Project Atlas with Intelligent Textures.
   - Only install this mod if you installed **Intelligent Textures** earlier.
   - MO2 will install this mod as a BAIN package. Tick **01 Atlas Textures** and click **OK**.
