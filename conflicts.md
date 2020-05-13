@@ -99,5 +99,6 @@ Bear in mind that not every conflict is a bad thing. In many occasions, a mod wi
 
 ### ASSETS CONFLICTS
 
-Creature VFX Restoration v2.0 changes to the XAncestorGhost.nif is overwritten by Improved Better Skulls v2.6.
-Thickle-Lo v1.2 changes to Flora_hackle-lo_01.nif and Flora_hackle-lo_02.nif are overwritten by Graphic Herbalism MWSE v1.04.
+**Creature VFX Restoration v2.0** changes to the XAncestorGhost.nif are overwritten by **Improved Better Skulls v2.6**.
+
+**Thickle-Lo v1.2** changes to Flora_hackle-lo_01.nif and Flora_hackle-lo_02.nif are overwritten by **Graphic Herbalism MWSE v1.04**.
