@@ -83,7 +83,7 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 
 **SilverArmourIntegration.esp**
 - Dialog Topic
-- Lord's Mail: overwrites Tribunal.esm change to the **NNAM - Next info ID**.
+  - Lord's Mail: overwrites Tribunal.esm change to the **NNAM - Next info ID**.
 
 **MoragTongWritFix.esp**
 - Dialog Topic
