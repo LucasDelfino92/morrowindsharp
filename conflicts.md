@@ -99,7 +99,7 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 - Creature
   - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
 - Dialog Topic
-  - Prelude: overwrites Patch for Purist.esm **NAME - ID** typo fixes, **PNAM - Previous info ID** fixes, and **BNAM - Result text (not compiled)** fixes.
+  - Prelude: overwrites Patch for Purist.esm **NAME - ID** typo fixes, **PNAM - Previous info ID** fix, and **BNAM - Result text (not compiled)** fixes.
   
 **Morrowind Anti-Cheese.esp**
 - Cell
@@ -110,3 +110,10 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
   - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
   - mudcrab_unique: overwrites Melchior's Mudcrab Merchant.esp **AI_W - AI Wander**.
 
+**Greetings for No Lore.esp**
+- Dialog Topic
+  - Greeting 9: overwrites Redaynia Restored.esp **NNAM - Next info ID**.
+
+**Nuccius_House_Lodgings.esp**
+- Dialog Topic
+  - Vodunius Nuccius: overwrites Patch for Purist.esm **NAME - ID** typo fixes.
