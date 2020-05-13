@@ -455,6 +455,7 @@ The following mods will conflict with each other. [**Follow the instructions her
     - Cell **Balmora, Eastern Guard Tower**
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Closed Molag Mar.esp**:
     - Cell **Molag Mar**
+      - There are actually two cells named **Molag Mar**. Double click on one of the records, and expand the Raw Data (Subitems) panel. If you see ANAM references to **orns omaren** and **Temple**, that's the **Molag Mar** record you want to delete.
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**:
     - Cell **Vivec, Foreign Quarter Plaza**
     - Cell **Vivec, Hlaalu Plaza**
