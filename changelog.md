@@ -12,7 +12,7 @@
   - Red Vos from **Visuals** to **Overhauls**.
   - White Suran 2 - MD Edition from **Visuals** to **Overhauls**.
   - Portrait of Crassius Curio from **Miscellaneous** to **Overhauls**.
-  - Creeper the Drummer from **Miscellaneous** to **Visuals**.
+  - Creeper the Drummer from **Miscellaneous** to **Overhauls**.
   - Yet Another Guard Diversity from **Miscellaneous** to **Overhauls**.
   - Book Pickup from **Miscellaneous** to **Gameplay**.
   - Fix those bastard rope fences from **Miscellaneous** to **Gameplay**.
