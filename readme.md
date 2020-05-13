@@ -1,6 +1,6 @@
 # SIGOURN'S MOD LIST
 
-Last updated: May 12th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+Last updated: May 13th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
@@ -48,7 +48,7 @@ My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morr
 
 ## MOD ORDER AND LOAD ORDER
 
-My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Sigourn's Mod List: May 12th**](https://www.mediafire.com/file/weqfvk3e5t99w0n/Sigourns_Mod_List_%28May_12th%29.zip/file)
+My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Sigourn's Mod List: May 13th**](https://www.mediafire.com/file/o7wtxuxijpe5r36/Sigourns_Mod_List_%28May_13th%29.zip/file)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
