@@ -79,3 +79,8 @@ For the purpose of this section, *all* conflicts that TES3View as conflicting wi
 
 **correctUV Ore Replacer_respawning.esp**
 - Ignore.
+
+**Melchior's Mudcrab Merchant.esp**
+- Creature
+  - mudcrab_unique: **AI_W - AI Wander** is overwritten by Morrowind Anti-Cheese.esp. Load after Morrowind Anti-Cheese.esp.
+  
