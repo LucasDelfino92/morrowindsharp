@@ -14,6 +14,7 @@ Last updated: May 13th, 2020. See the [**Changelog**](https://github.com/Sigourn
 - [How to install this mod list](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
 - [Installation index](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
 - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order)
+- [Conflicts report](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md)
 
 ## INTRODUCTION
 
