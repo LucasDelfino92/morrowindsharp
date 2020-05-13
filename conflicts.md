@@ -71,4 +71,16 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 - Cell
   - Koal Cave: overwrites Patch for Purists.esm **Illegal to Sleep here** fix.
 
-**
+**Wolverine Hall Overhaul.esp**
+- Cell
+  - Wolverine Hall < 18, 3>: overwrites guard replaced by **Yet Another Guard Diversity - Regular.esp**.
+- Dialog Topic
+  - Greeting 7: overwrites Patch for Purists.esm **NAME - ID** typo fixes.
+
+**Descriptive Shrines.esp**
+- Script
+  - Overwrites Patch for Purists.esm 0 gold fixes to the shrine scripts.
+  
+**FMI_SaneOrdinators.esp**
+- Dialog Topic
+  - Greeting 0: overwrites Patch for Purists.esm **NNAM - Next info ID** fixes, **NAME - ID** typo fixes, and **BNAM - Result text (not compiled)** fixes.
