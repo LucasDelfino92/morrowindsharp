@@ -491,6 +491,8 @@ Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
 
+Load **Melchior's Mudcrab Merchant.esp** after **Morrowind Anti-Cheese.esp**.
+
 Load **WhiteSuran2_MD_Edition.esp** and **White Suran Ground Textures.esp** before **Clean Atmospheric Delights.esp**.
 
 Load **Yet Another Guard Diversity - Regular.esp** before **No-Frills Closed Molag Mar.esp**.
