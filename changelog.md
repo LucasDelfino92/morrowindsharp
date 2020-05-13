@@ -4,6 +4,30 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 13th
+
+- Moved the following mods. Most of the Miscellaneous mods actually affected the Gameplay, and the Overhaul section now properly represents mods that make major changes to locations, or even minor, but significant ambiance changes
+  - Severa Magia DB fix from **Internal Logic** to **Overhauls**.
+  - Talos Cult Revised - G93's Version from **Internal Logic** to **Overhauls**.
+  - Red Vos from **Visuals** to **Overhauls**.
+  - White Suran 2 - MD Edition from **Visuals** to **Overhauls**.
+  - Portrait of Crassius Curio from **Miscellaneous** to **Overhauls**.
+  - Creeper the Drummer from **Miscellaneous** to **Visuals**.
+  - Yet Another Guard Diversity from **Miscellaneous** to **Overhauls**.
+  - Book Pickup from **Miscellaneous** to **Gameplay**.
+  - Fix those bastard rope fences from **Miscellaneous** to **Gameplay**.
+  - Lower First Person Sneak Mode from **Miscellaneous** to **Gameplay**.
+  - MWSE Character Creation Name Generator from **Miscellaneous** to **Gameplay**.
+  - Plain Paper Fix from **Miscellaneous** to **Gameplay**.
+  - Switchable Scriptures from **Miscellaneous** to **Gameplay**.
+  - Vodunius Nuccius House Lodgings from **Gameplay** to **Miscellaneous**.
+- Added new load order instructions for the following mods:
+  - White Suran 2 - MD Edition (**Overhauls**). 
+  - Yet Another Guard Diversity (**Overhauls**).
+- Added TESAME instructions for Yet Another Guard Diversity - Regular.esp.
+- Added TESAME instructions for Morrowind Anti-Cheese.
+- Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
+
 ## May 12th
 
 - Removed [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) for visual consistency with vanilla Morrowind.
