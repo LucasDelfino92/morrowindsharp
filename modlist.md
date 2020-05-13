@@ -451,7 +451,20 @@ The following mods will conflict with each other. [**Follow the instructions her
 
 - Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
     - NPC **severa magia**
-- Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **tribunal rebalance.ESP**:
+- Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
+    - Cell **Balmora, Eastern Guard Tower**
+- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Closed Molag Mar.esp**:
+    - Cell **Molag Mar**
+- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**:
+    - Cell **Vivec, Foreign Quarter Plaza**
+    - Cell **Vivec, Hlaalu Plaza**
+    - Cell **Vivec, Redoran Plaza**
+    - Cell **Vivec, St. Delyn Plaza**
+    - Cell **Vivec, St. Olms Plaza**
+    - Cell **Vivec, Telvanni Plaza**
+- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **Wolverine Hall Overhaul.esp**:
+    - Cell **Wolverine Hall**
+- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
 
@@ -464,6 +477,8 @@ Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTo
 
 ### LOAD ORDER
 
+Load **Intelligent Textures** and **Intelligent Textures - Wood Fix** after **Morrowind Optimization Patch**.
+
 Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
 
 Load **Glowing Bitter Coast** before **Project Atlas**.
@@ -471,5 +486,9 @@ Load **Glowing Bitter Coast** before **Project Atlas**.
 Load **Glow in the Dahrk** before **Project Atlas**.
 
 Load **Waterfalls Tweaks.esp** after **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**.
+
+Load **WhiteSuran2_MD_Edition.esp** and **White Suran Ground Textures.esp** before **Clean Atmospheric Delights.esp**.
+
+Load **Yet Another Guard Diversity - Regular.esp** before **No-Frills Closed Molag Mar.esp**.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
