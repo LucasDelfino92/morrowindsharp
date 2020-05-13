@@ -79,9 +79,9 @@ Your plugins are listed on the pane to the right. They should be as follows:
 
 To install a mod through Mod Organizer, click on the icon to the left of the globe icon at the top, called **Install a new mod from an archive**. 
 
-1. Select the file you want to install.
-2. MO2 will prompt you to give the installed mod a name. Click **OK**.
-3. Your mod should have now appeared on the left window. To properly install it, enable it by checking the box to its left. If it is a mod that uses plugins, these should have appeared in the right window as well.
+- Select the file you want to install.
+- MO2 will prompt you to give the installed mod a name. Click **OK**.
+- Your mod should have now appeared on the left window. To properly install it, enable it by checking the box to its left. If it is a mod that uses plugins, these should have appeared in the right window as well.
 
 From now on, whenever I tell you to install something, this means “install the mod and enable the plugins”. 
 
@@ -89,9 +89,10 @@ From now on, whenever I tell you to install something, this means “install the
 
 Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order.
 
-1. To hide a plugin, right click on your installed mod and select **Information...**.
-2. Select the **Filetree** tab.
-3. Right click on the plugins you want to hide, and select **Hide**.
+- To hide a plugin, right click on your installed mod and select **Information...**.
+- Select the **Filetree** tab.
+- Right click on the plugins, folders, or files you want to hide, and select **Hide**.
+- MO2 will hide the files, and these will no longer affect your game.
 
 This concludes this brief tutorial.
 
@@ -205,6 +206,7 @@ Whether you choose to install these mods is entirely up to you. At the very leas
   - **00 Core**
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
+  - Hide/delete meshes\x\ex_imp_plat_01.nif.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: patches Project Atlas with Intelligent Textures.
   - Only install this mod if you installed **Intelligent Textures** earlier.
   - MO2 will install this mod as a BAIN package. Tick **01 Atlas Textures** and click **OK**.
