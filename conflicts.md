@@ -77,3 +77,5 @@ For the purpose of this section, *all* conflicts that TES3View as conflicting wi
 **BlightedAnimalsRetextured.esp**
 - Ignore.
 
+**correctUV Ore Replacer_respawning.esp**
+- Ignore.
