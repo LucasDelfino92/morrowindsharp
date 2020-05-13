@@ -4,7 +4,7 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## CONFLICT REPORT
+## CONFLICTS REPORT
 
 The following conflicts have been noted down after running the plugins with TES3Merge and TESTool's Leveled Lists. As such, only conflicts not solved by these two mods will be reported.
 
