@@ -448,8 +448,10 @@ The following mods will conflict with each other. [**Follow the instructions her
 - Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Ingredient **ingred_scrap_metal_01**
 - Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Diseases Restored.esp**:
-    - Creature **Bull Netch**
-    - Creature **Betty Netch**
+    - Creature **netch_bull**
+    - Creature **netch_bull_ranched**
+    - Creature **netch_betty**
+    - Creature **netch_betty_ranched**
 - Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
     - NPC **severa magia**
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
