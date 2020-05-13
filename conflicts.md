@@ -51,7 +51,7 @@ For the purpose of this section, *all* conflicts that TES3View as conflicting wi
 
 **FMI_Nice_to_Meet_You_1.1.esp**
 - Dialog Topic
-  - Hello: overwrites Patch for Purists.esm SNAM - Sound filename fixes.
+  - Hello: overwrites Patch for Purists.esm **SNAM - Sound filename** fixes.
 
 **Note from the Archcanon Fix.esp**
 - Ignore.
