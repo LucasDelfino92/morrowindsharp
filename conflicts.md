@@ -35,10 +35,6 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
     - **NNAM - Next info ID** is overwritten by Greetings for No Lore.esp
     - Overwrites Patch for Purists.esm **NAME - ID** typo fixes.
 
-**Melchior's Mudcrab Merchant.esp**
-- Creature
-  - mudcrab_unique: **AI_W - AI Wander** is overwritten by Morrowind Anti-Cheese.esp.
-
 **WhiteSuran2_MD_Edition.esp**
 - Cell
   - Suran < 6, -7>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
@@ -108,7 +104,6 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
   - Pelagiad < 0, -7>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
 - Creature
   - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
-  - mudcrab_unique: overwrites Melchior's Mudcrab Merchant.esp **AI_W - AI Wander**.
 
 **Greetings for No Lore.esp**
 - Dialog Topic
