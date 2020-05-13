@@ -32,12 +32,12 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 - Dialog Topic
   - little secret: overwrites Patch for Purists.esm **NNAM - Next info ID** fixes and **NAME - ID** typo fixes.
   - Greeting 9:
-    - **NNAM - Next info ID** is overwrriten by Greetings for No Lore.esp
+    - **NNAM - Next info ID** is overwritten by Greetings for No Lore.esp
     - Overwrites Patch for Purists.esm **NAME - ID** typo fixes.
 
 **Melchior's Mudcrab Merchant.esp**
 - Creature
-  - mudcrab_unique: **AI_W - AI Wander** is overwritten by Morrowind Anti-Cheese.esp. Load after Morrowind Anti-Cheese.esp.
+  - mudcrab_unique: **AI_W - AI Wander** is overwritten by Morrowind Anti-Cheese.esp.
 
 **WhiteSuran2_MD_Edition.esp**
 - Cell
@@ -100,3 +100,13 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
   - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
 - Dialog Topic
   - Prelude: overwrites Patch for Purist.esm **NAME - ID** typo fixes, **PNAM - Previous info ID** fixes, and **BNAM - Result text (not compiled)** fixes.
+  
+**Morrowind Anti-Cheese.esp**
+- Cell
+  - Balmora < -3, -2>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
+  - Pelagiad < 0, -8>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
+  - Pelagiad < 0, -7>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
+- Creature
+  - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
+  - mudcrab_unique: overwrites Melchior's Mudcrab Merchant.esp **AI_W - AI Wander**.
+
