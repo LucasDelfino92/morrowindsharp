@@ -139,7 +139,7 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/disable **Hopesfire Torch.esp.** 
 - [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) by Pherim, tronvillain, and nONatee: increases visual consistency by using the skull from the skeleton instead of the crude vanilla skulls.
-  - This mod is incorrectly packaged. Install the contents of the **Fixed Skeletons** and **Vanilla Textures** folders inside the **Data Files** folder.
+  - This mod is incorrectly packaged. Install the contents of the **Data Files**, **Fixed Skeletons**, and **Vanilla Textures** folders.
   - Also install the **Skeletons Atlased** optional file.
     - MO2 will install this mod as a BAIN package. Tick **02 Vanilla Textures** and click **OK**.
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
