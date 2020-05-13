@@ -26,10 +26,6 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 - Dialog Topic
   - BM_Rumors: overwrites Patch for Purists.esm **NAME - ID** typo fixes.
 
-**Balmora Rumours Fix.esp**
-- Dialog Topic
-  - latest rumours: overwrites Unofficial Morrowind Official Plugins Patched.esp **PNAM - Previous info ID** fix, and **Conditions** fixes.
-
 **LDM - Vampire Talk.esp**
 - Dialog Topic
   - MS_VampireCure: overwrites Patch for Purists.esm **NNAM - Next info ID** fixes.
@@ -57,25 +53,11 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
   - Vivec, St. Delyn Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
   - Vivec, St. Olms Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
   
-**No-Frills Closed Molag Mar.esp**
-- Cell
-  - Molag Mar < 13, -8>: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-  
-**No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
-- Cell
-  - Vivec, Foreign Quarter Plaza: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-  - Vivec, Hlaalu Plaza: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-  - Vivec, Redoran Plaza: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-  - Vivec, St. Delyn Plaza: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-  - Vivec, St. Olms Plaza: deletes guard replaced by **Yet Another Guard Diversity - Regular.esp**.
-
 **QL_SevenGracesShrines.esp**
 - Cell
   - Koal Cave: overwrites Patch for Purists.esm **Illegal to Sleep here** fix.
 
 **Wolverine Hall Overhaul.esp**
-- Cell
-  - Wolverine Hall < 18, 3>: overwrites guard replaced by **Yet Another Guard Diversity - Regular.esp**.
 - Dialog Topic
   - Greeting 7: overwrites Patch for Purists.esm **NAME - ID** typo fixes.
 
@@ -110,10 +92,6 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
   - Pelagiad < 0, -7>: overwrites Patch for Purists.esm **DATA - Reference Position Data** fixes.
 - Creature
   - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
-
-**Greetings for No Lore.esp**
-- Dialog Topic
-  - Greeting 9: overwrites Redaynia Restored.esp **NNAM - Next info ID**.
 
 **Nuccius_House_Lodgings.esp**
 - Dialog Topic
