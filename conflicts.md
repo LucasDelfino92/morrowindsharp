@@ -12,11 +12,11 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 
 ### PLUGIN CONFLICTS
 
-**Unofficial Morrowind Official Plugins Patch.esp**
+**Unofficial Morrowind Official Plugins Patched.esp**
 - Container
   - de_p_chest_02_aryne: Domina Armor is overwritten by Area Effect Arrows Integrated.esp projectiles.
 - Dialog Topic
-  - latest rumours: overwritten by Balmora Rumours Fix.esp.
+  - latest rumours: **PNAM - Previous info ID** fix, and **Conditions** fixes, are overwritten by Balmora Rumours Fix.esp.
 
 **FMI_Nice_to_Meet_You_1.1.esp**
 - Dialog Topic
@@ -25,6 +25,10 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 **FMI_ServiceRefusal_Contraband.esp**
 - Dialog Topic
   - BM_Rumors: overwrites Patch for Purists.esm **NAME - ID** typo fixes.
+
+**Balmora Rumours Fix.esp**
+- Dialog Topic
+  - latest rumours: overwrites Unofficial Morrowind Official Plugins Patched.esp **PNAM - Previous info ID** fix, and **Conditions** fixes.
 
 **LDM - Vampire Talk.esp**
 - Dialog Topic
