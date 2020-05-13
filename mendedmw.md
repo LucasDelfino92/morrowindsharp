@@ -180,12 +180,14 @@ Under **Morrowind engine settings**, you will definitely want to have **Allow ye
 
 This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures.
 
-- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-  - Also install the **Wood Fix** update file.
+Note that the following two mods don't cover the entirety of the game's textures. To cover the most of them you should install both mods.
 
-Whether you choose to install these mods is entirely up to you. At the very least I recommend you install the uncompressed textures. Moreover, you shouldn't skip on them if you decide to use Intelligent Textures, as the uncompressed textures also cover textures like spell effects.
+- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - Now install a second instance of this mod. This time, tick **01 Atlas Textures** and click **OK**.
+  - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
+  - Also install the **Wood Fix** update file.
 
 ### BUG FIXES
 
@@ -207,10 +209,6 @@ Whether you choose to install these mods is entirely up to you. At the very leas
   - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
   - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
     - After installing Project Atlas, hide/delete meshes\x\ex_imp_plat_01.nif.
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: patches Project Atlas with Intelligent Textures.
-  - Only install this mod if you installed **Intelligent Textures** earlier.
-  - MO2 will install this mod as a BAIN package. Tick **01 Atlas Textures** and click **OK**.
-  - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
 
 ### EXPANSION IMPLEMENTATION
 
