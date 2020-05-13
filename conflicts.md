@@ -10,6 +10,8 @@ The following conflicts have been noted down after running the plugins with TES3
 
 Bear in mind that not every conflict is a bad thing. In many ocassions, a mod will overwrite Patch for Purist's fixes for different reasons, such as typos when it comes to rewriting an entire dialog topic, or additional changes to quests. As such, only the *actual*, non-intended conflicts, will be listed here.
 
+### PLUGIN CONFLICTS
+
 **Unofficial Morrowind Official Plugins Patch.esp**
 - Container
   - de_p_chest_02_aryne: Domina Armor is overwritten by Area Effect Arrows Integrated.esp projectiles.
@@ -112,3 +114,5 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 **Nuccius_House_Lodgings.esp**
 - Dialog Topic
   - Vodunius Nuccius: overwrites Patch for Purist.esm **NAME - ID** typo fixes.
+
+### ASSETS CONFLICTS
