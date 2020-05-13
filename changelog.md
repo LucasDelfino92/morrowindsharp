@@ -24,6 +24,7 @@
 - Added new load order instructions for the following mods:
   - White Suran 2 - MD Edition (**Overhauls**). 
   - Yet Another Guard Diversity (**Overhauls**).
+- Added TESAME instructions for MW_Inconsistencies.esp.
 - Added TESAME instructions for Yet Another Guard Diversity - Regular.esp.
 - Added TESAME instructions for Morrowind Anti-Cheese.
 - Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
