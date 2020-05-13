@@ -4,11 +4,6 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## May 13th Hotfix
-
-- Moved Melchior's Mudcrab Merchant from **Visuals** to **Overhauls**.
-- Added new load order instructions for Melchior's Mudcrab Merchant (**Overhauls**).
-
 ## May 13th
 
 - Moved the following mods. Most of the Miscellaneous mods actually affected the Gameplay, and the Overhaul section now properly represents mods that make major changes to locations, or even minor, but significant ambiance changes
@@ -33,6 +28,11 @@
 - Added TESAME instructions for Yet Another Guard Diversity - Regular.esp.
 - Added TESAME instructions for Morrowind Anti-Cheese.
 - Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
+
+### Hotfix
+
+- Moved Melchior's Mudcrab Merchant from **Visuals** to **Overhauls**.
+- Added new load order instructions for Melchior's Mudcrab Merchant (**Overhauls**).
 
 ## May 12th
 
