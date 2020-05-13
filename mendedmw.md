@@ -180,8 +180,6 @@ Under **Morrowind engine settings**, you will definitely want to have **Allow ye
 
 This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures.
 
-Note that the following two mods don't cover the entirety of the game's textures. To cover the most of them you should install both mods.
-
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
