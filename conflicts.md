@@ -84,3 +84,7 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 **FMI_SaneOrdinators.esp**
 - Dialog Topic
   - Greeting 0: overwrites Patch for Purists.esm **NNAM - Next info ID** fixes, **NAME - ID** typo fixes, and **BNAM - Result text (not compiled)** fixes.
+
+**SilverArmourIntegration.esp**
+- Dialog Topic
+- Lord's Mail: overwrites Tribunal.esm change to the **NNAM - Next info ID**.
