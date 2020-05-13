@@ -58,10 +58,6 @@ The Mended Morrowind guide has its own separate section. [**You can find it here
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245) by Corsair83: addresses a handful of issues found in the game's text and lore versus what's presented in in-game items and so on.
-  - In TESAME, delete the following record:
-    - Ingredient **ingred_scrap_metal_01**
-  - Save the plugin as **MW_Inconsistencies.esp**, overwriting the original when asked.
-  - This removes the weight and value changes to the Scrap Metal ingredient.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
@@ -449,6 +445,11 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
+- Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
+    - Ingredient **ingred_scrap_metal_01**
+- Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Diseases Restored.esp**:
+    - Creature **Bull Netch**
+    - Creature **Betty Netch**
 - Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
     - NPC **severa magia**
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
