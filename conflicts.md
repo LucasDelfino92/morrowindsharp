@@ -88,3 +88,15 @@ Bear in mind that not every conflict is a bad thing. In many ocassions, a mod wi
 **SilverArmourIntegration.esp**
 - Dialog Topic
 - Lord's Mail: overwrites Tribunal.esm change to the **NNAM - Next info ID**.
+
+**MoragTongWritFix.esp**
+- Dialog Topic
+  - Mistress Therana: overwrites Patch for Purist.esm **Conditions** fixes.
+  - Indroso Vendu: overwrites Patch for Purist.esm **NAME - ID** typo fixes.
+  - Ethal Seloth: overwrites Patch for Purist.esm **NAME - ID** typo fixes.
+
+**oneofakind daedric combined complete.esp**
+- Creature
+  - golden saint_staada: overwrites Patch for Purist.esm **PersistentReference** fix.
+- Dialog Topic
+  - Prelude: overwrites Patch for Purist.esm **NAME - ID** typo fixes, **PNAM - Previous info ID** fixes, and **BNAM - Result text (not compiled)** fixes.
