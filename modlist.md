@@ -431,6 +431,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Passage of Prayers - Full.esp**
 - **Passive_Healthy_Wildlife PS EDIT.esp**
 - **QL_SevenGracesShrines.esp**
+- **ReclamationsInHolamayan.esp**
 - **settledjiub.ESP**
 - **Soul Gems at Ghostgate.esp**
 - **Talos Cult Revised.esp**
