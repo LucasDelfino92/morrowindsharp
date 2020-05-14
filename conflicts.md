@@ -99,4 +99,4 @@ Bear in mind that not every conflict is a bad thing. In many occasions, a mod wi
 
 ### ASSETS CONFLICTS
 
-**Creature VFX Restoration v2.0** changes to the XAncestorGhost.nif are overwritten by **Improved Better Skulls v2.6**.
+None to report.
