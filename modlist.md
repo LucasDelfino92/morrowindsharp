@@ -311,7 +311,6 @@ The following mods require specific MGE XE install instructions. Read the mod pa
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - If you installed **Thickle-Lo - The Succulent Hackle-Lo Mod** earlier, hide/disable **meshes\o\flora_hackle-lo_01.nif** and **meshes\o\flora_hackle-lo_02.nif** from **Graphic Herbalism - MWSE**.
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
     - **08 Glowing Bitter Coast**: only if you installed **Glowing Bitter Coast** earlier.
@@ -450,7 +449,7 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 ### CONFLICT NOTES
 
-The following mods will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+The following plugins will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Ingredient **ingred_scrap_metal_01**
@@ -479,9 +478,17 @@ The following mods will conflict with each other. [**Follow the instructions her
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
 
-A detailed list of conflicts present in this mod list with no guided fix [**can be found here**](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md).
+The following assets will conflict with one another. Hide these assets using Mod Organizer 2, or delete them altogether.
+
+- Hide/delete the following assets from **Graphic Herbalism - MWSE and OpenMW Edition** for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**:
+    - **meshes\o\flora_hackle-lo_01.nif**
+    - **meshes\o\flora_hackle-lo_02.nif**
+- - Hide/delete the following assets from **Improved Better Skulls** for compatibility with **Creature VFX Restoration**:
+    - **meshes\r\XAncestorGhost.nif**
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
+
+A detailed list of conflicts present in this mod list with no guided fix [**can be found here**](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md).
 
 ### LOAD ORDER
 
