@@ -483,7 +483,7 @@ The following assets will conflict with one another. Hide these assets using Mod
 - Hide/delete the following assets from **Graphic Herbalism - MWSE and OpenMW Edition** for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**:
     - **meshes\o\flora_hackle-lo_01.nif**
     - **meshes\o\flora_hackle-lo_02.nif**
-- - Hide/delete the following assets from **Improved Better Skulls** for compatibility with **Creature VFX Restoration**:
+- Hide/delete the following assets from **Improved Better Skulls** for compatibility with **Creature VFX Restoration**:
     - **meshes\r\XAncestorGhost.nif**
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
