@@ -316,9 +316,10 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - **08 Glowing Bitter Coast**: only if you installed **Glowing Bitter Coast** earlier.
     - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier but didn't install **Glowing Bitter Coast**.
     - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed both **Project Atlas** *and* **Glowing Bitter Coast** earlier.
-    - Hide/disable the following .esps:
-      - correctUV Ore Replacer 1.0.esp.
+    - Hide/disable the following .esp:
       - correctUV Ore Replacer_fixed.esp
+    - From **correctUV Diverse Ore Veins**, hide/disable the following .esp:
+      - correctUV Ore Replacer 1.0.esp
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
