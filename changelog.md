@@ -4,6 +4,19 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 14th
+
+- Added compatibility instructions for Graphic Herbalism - MWSE and OpenMW Edition and Thickle-Lo - The Succulent Hackle-Lo Mod (**Conflict notes**).
+- Added compatibility instructions for Improved Better Skulls for compatibility with Creature VFX Restoration (**Conflict notes**).
+- Added extra instructions for Project Atlas (**Optimization**). Thanks to user Swyfter!
+- Added extra instructions for Morrowind Optimization Patch (**Optimization**).
+- Added extra instructions for Realistic Blood (**Visuals**). Thanks to user Swyfter!
+- Added extra instructions for Lucky Strike - a Critical Hit Mod (**Gameplay**). Thanks to user Swyfter!
+- Clarified instructions for Improved Better Skulls (**Visuals**). Thanks to user Swyfter!
+- Clarified instructions for Graphic Herbalism - MWSE and OpenMW Edition (**Gameplay**). Thanks to user Swyfter!
+- Added Reclamations in Holamayan to loadorder.txt and mods.txt. Thanks to user Swyfter!
+- Updated Melchior's Mudcrab Merchant order in loadorder.txt and mods.txt. Thanks to user Swyfter!
+
 ## May 13th
 
 - Moved the following mods. Most of the Miscellaneous mods actually affected the Gameplay, and the Overhaul section now properly represents mods that make major changes to locations, or even minor, but significant ambiance changes
