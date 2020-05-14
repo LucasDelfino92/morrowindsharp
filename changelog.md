@@ -14,6 +14,11 @@
 - Added extra instructions for Lucky Strike - a Critical Hit Mod (**Gameplay**). Thanks to user Swyfter!
 - Clarified instructions for Improved Better Skulls (**Visuals**). Thanks to user Swyfter!
 - Clarified instructions for Graphic Herbalism - MWSE and OpenMW Edition (**Gameplay**). Thanks to user Swyfter!
+- Added the following plugins to the list of plugins that require cleaning (**Cleaning notes**):
+  - Arrille Inventory Fix.esp
+  - Religions Elaborated.esp
+  - ReclamationsInHolamayan.esp
+  - Ttooth's Missing NPCs - No Nolus.esp
 - Added Reclamations in Holamayan to loadorder.txt and mods.txt. Thanks to user Swyfter!
 - Updated Melchior's Mudcrab Merchant order in loadorder.txt and mods.txt. Thanks to user Swyfter!
 
@@ -37,8 +42,6 @@
 - Added new load order instructions for the following mods:
   - White Suran 2 - MD Edition (**Overhauls**). 
   - Yet Another Guard Diversity (**Overhauls**).
-- Added Arrille Inventory Fix.esp to **Cleaning notes**.
-- Added Ttooth's Missing NPCs - No Nolus.esp to **Cleaning notes**.
 - Added MW_Inconsistencies.esp to **Conflict notes**.
 - Added Yet Another Guard Diversity - Regular.esp to **Conflict notes**.
 - Added Morrowind Anti-Cheese to **Conflict notes**.
