@@ -24,9 +24,11 @@
 - Added new load order instructions for the following mods:
   - White Suran 2 - MD Edition (**Overhauls**). 
   - Yet Another Guard Diversity (**Overhauls**).
-- Added TESAME instructions for MW_Inconsistencies.esp.
-- Added TESAME instructions for Yet Another Guard Diversity - Regular.esp.
-- Added TESAME instructions for Morrowind Anti-Cheese.
+- Added Arrille Inventory Fix.esp to **Cleaning notes**.
+- Added Ttooth's Missing NPCs - No Nolus.esp to **Cleaning notes**.
+- Added MW_Inconsistencies.esp to **Conflict notes**.
+- Added Yet Another Guard Diversity - Regular.esp to **Conflict notes**.
+- Added Morrowind Anti-Cheese to **Conflict notes**.
 - Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
 
 ### Hotfix 2
