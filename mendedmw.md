@@ -139,7 +139,7 @@ MGE XE receives constant support from the dedicated modding community, generally
 - [**MGE XE Shader - deband_fogaware**](https://www.mediafire.com/file/i76vzpyz66f5gzj/MGE_XE_Shader_-_deband_fogaware.zip/file) by Hrnchamd and vtastek.
 - [**MGE XE Shader - EdgeAA**](https://www.mediafire.com/file/qnxovx5vc5m0wcs/MGE_XE_Shader_-_EdgeAA.zip/file) ported by vtastek.
 
-To install this shaders, unpack the .zip files and merge them with your Morrowind **Data Files** folder, overwriting if asked.
+These shaders must be installed through Mod Organizer 2. However, installing them is not enough: we must activate them through MGE XE as well.
 
 - Launch Mod Organizer 2. From the dropdown menu, launch **MGE XE**.
 - In the **Graphics** tab, click **Shader setup...**.
