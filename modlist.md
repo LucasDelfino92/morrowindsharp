@@ -435,6 +435,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **settledjiub.ESP**
 - **Soul Gems at Ghostgate.esp**
 - **Talos Cult Revised.esp**
+- **Ttooth's Missing NPCs - No Nolus.esp**
 - **true corprus.esp**
 
 The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
