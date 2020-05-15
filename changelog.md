@@ -4,6 +4,11 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 15th
+
+- Added a note for Empty Threats Disabler (**Audio**).
+- Clarified cleaning instructions for correctUV Ore Replacer 1.0.esp (**Cleaning notes**).
+
 ## May 14th
 
 - Added compatibility instructions for Graphic Herbalism - MWSE and OpenMW Edition and Thickle-Lo - The Succulent Hackle-Lo Mod (**Conflict notes**).
