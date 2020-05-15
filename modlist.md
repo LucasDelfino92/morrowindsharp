@@ -226,6 +226,7 @@ The following mods require specific MGE XE install instructions. Read the mod pa
     - Thunder Sound ID 2=**Distant_Thunder_02**
     - Thunder Sound ID 3=**Distant_Thunder_03**
 - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by rot: disables attack voices like "You will suffer greatly" on sneak kills or other instant deaths.
+  - Note: the game will incorrectly give two error messages if a peaceful NPC attacks you straight from their first dialogue greeting. The game proceeds normally if you click "yes" to both.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk: gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
