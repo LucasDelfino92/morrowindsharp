@@ -417,7 +417,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Bloated Caves.esp**
 - **Brevur of Balmora - Finally Some Good Statue Mod.esp**
 - **Clean Atmospheric Delights.esp**
-- **correctUV Ore Replacer 1.0.esp**
+- **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
 - **Creeper the drummer.esp**
 - **Dubdilla Location Fix.esp**
 - **Divayth Fyr Puzzle Fixed.ESP**
