@@ -104,21 +104,21 @@
   - Moved to the bottom of the mod order and load order.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
 - Conflict notes
-  - **MW_Inconsistencies.esp**: added instructions for compatibility with
+  - **MW_Inconsistencies.esp**: added TESAME instructions for compatibility with
     - Morrowind Anti-Cheese.esp
     - Diseases Restored.esp
-  - **Yet Another Guard Diversity - Regular.esp**: added instructions for compatibility with
+  - **Yet Another Guard Diversity - Regular.esp**: added TESAME instructions for compatibility with
     - Morrowind Anti-Cheese.esp
-  - **Morrowind Anti-Cheese.esp**: added instructions for compatibility with
+  - **Morrowind Anti-Cheese.esp**: added TESAME instructions for compatibility with
     - No-Frills Closed Molag Mar.esp
     - No-Frills Open Vivec (Vanilla Placement) v1.1.esp
     - Wolverine Hall Overhaul.esp
     - tribunal rebalance.esp
 - Load order
-  - Added instructions for Melchior's Mudcrab Merchant.esp.
-  - Added instructions for WhiteSuran2_MD_Edition.esp.
-  - Added instructions for White Suran Ground Textures.esp.
-  - Added instructions for Yet Another Guard Diversity - Regular.esp.
+  - Added instructions for **Melchior's Mudcrab Merchant.esp**.
+  - Added instructions for **WhiteSuran2_MD_Edition.esp**.
+  - Added instructions for **White Suran Ground Textures.esp**.
+  - Added instructions for **Yet Another Guard Diversity - Regular.esp**.
 
 ## May 12th
 
@@ -185,32 +185,46 @@
 
 ## May 9th
 
-- Added Corsair's MW Inconsistencies TESAME instructions (**Internal Logic**).
-- Added Legion Uniform Apathy (**Gameplay**).
-- Added Lock Bashing (**Gameplay**).
-- Added Urnest Loot (**Gameplay**).
-- Added Retroactive Health Gain (**Gameplay**).
-- Added back Speed and Movement Rebalanced (**Balance**).
-- Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?) (**Internal Logic**): replaced with Urnest Loot.
-- Removed [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) (**Visuals**): performance reasons, and also visual glitches.
-- Removed [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (**Visuals**): personal preference, for compatibility with Creature VFX Restoration.
-- Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (**Gameplay**): aside from being incompatible with Lock Bashing, this mod can make exploration for non-Security oriented characters extremely frustrating.
+### Additions
 
-The removed mods can be safely uninstalled.
+- Gameplay
+  - **Legion Uniform Apathy**: one plugin.
+  - **Lock Bashing**: one plugin.
+  - **Retroactive Health Gain**: pluginless.
+  - **Urnest Loot**: one plugin.
+- Balance
+  - **Speed and Movement Rebalanced**: one plugin.
 
-If you are modifying Corsair's MW Inconsistencies, make sure you are not carrying Scrap Metal in your current save, or your carry weight could get bugged.
+### Removals
+
+- Internal Logic
+  - [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?). Works as advertised. Replaced with Urnest Loot.
+- Visuals
+  - [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165). Works as advertised. Removed for performance reasons as well as visual glitches regarding water reflections.
+  - [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (**Visuals**). Works as advertised. Removed for compatibility with Creature VFX Restoration.
+- Gameplay
+  - [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279). Works as advertised. Removed for compatibility wtih Lock Bashing.
 
 ## May 8th
 
-- Added No-Frills Closed Molag Mar (**Overhauls**).
+### Additions
+
+- Overhauls
+  - **No-Frills Closed Molag Mar**: one plugin.
 
 ## May 7th
 
-- Removed [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) (**User Interface**): there are two major reasons why this mod is removed, which are the cluttering of the only world map we are provided in-game, and also the loss of the sense of exploration when entering new cells which are named for their important landmarks. But most importantly, this mod is removed because of the devastating effects it has regarding the player's world map once the mod has been uninstalled, which include map markers devoid of any naming, and/or a completely wiped out world map. **Those that already have this mod installed shouldn't uninstall it mid-playthrough. I apologize for this mod's inclusion in the mod list.**
+### Removals
+
+- User Interface
+  - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248). Works as advertised. However, this mod clutters the world map and the renamed cells can spoil the exploration experience.
 
 ## May 4th
 
-- Updated Intelligent Textures installation instructions (**Mended Morrowind**).
+### Maintenance
+
+- Mending Morrowind
+  - **Intelligent Textures**: updated installation instructions.
 
 ## May 1st
 
