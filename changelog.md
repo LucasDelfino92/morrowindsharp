@@ -4,51 +4,55 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## UPCOMING UPDATE
+## Next update
 
-### CHANGES
+### Changed
 
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** and **Vodunius Nuccius House Lodgings** to this section.
 
-### ADDITIONS
+### Added
 
 - Tamriel Rebuilt
-  - Added **Tamriel_Data**: one plugin.
-  - Added **Tamriel Rebuilt**: two to four plugins.
+  - **Tamriel_Data**: one plugin.
+  - **Tamriel Rebuilt**: two to four plugins.
 - User Interface
-  - Added **Tooltips Complete**: pluginless.
+  - **Tooltips Complete**: pluginless.
 - Visuals
-  - Added **Assetless No Glow**: pluginless.
-  - Added **Let There Be Darkness**: pluginless.
-  - Added **Lightsfix**: pluginless.
+  - **Assetless No Glow**: pluginless.
+  - **Let There Be Darkness**: pluginless.
+  - **Lightsfix**: pluginless.
 - Gameplay
-  - Added **Immersive Mining**: pluginless.
-  - Added **Realistic Repair**: pluginless.
-  - Added **Realistic Repair - Add-on**: one plugin.
+  - **Immersive Mining**: pluginless.
+  - **Realistic Repair**: pluginless.
+  - **Realistic Repair - Add-on**: one plugin.
 - Game Balance
-  - Added **Dagoth Ur Fix**: one plugin.
-  - Added **Harder Barter**: pluginless.
+  - **Dagoth Ur Fix**: one plugin.
+  - **Harder Barter**: pluginless.
 - Quest Tweaks
-  - Added **Always there Speall Break**: one plugin.
-  - Added **Gaenor's Millions**: one plugin.
-  - Added **Hircine's Artifacts**: one plugin.
-  - Added **Quests for Faction Leaders Cleaned**: one plugin.
-  - Added **The Ebony Blade**: one plugin.
-  - Added **Wandering Umbra**: one plugin.
+  - **Always there Speall Break**: one plugin.
+  - **Gaenor's Millions**: one plugin.
+  - **Hircine's Artifacts**: one plugin.
+  - **Quests for Faction Leaders Cleaned**: one plugin.
+  - **The Ebony Blade**: one plugin.
+  - **Wandering Umbra**: one plugin.
 
-### REMOVALS
+### Removed
 
 - Audio
-  - Removed [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
+  - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
 - Game Balance
-  - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
+  - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
 
 ## May 15th
 
-- Added a note for Empty Threats Disabler (**Audio**).
-- Clarified cleaning instructions for correctUV Ore Replacer 1.0.esp (**Cleaning notes**).
+### Changed
+
+- Audio
+  - **Empty Threats Disabler**: added a note regarding a known issue.
+- Cleaning notes
+  - **correctUV Ore Replacer 1.0.esp**: clarified cleaning instructions.
 
 ## May 14th
 
