@@ -228,27 +228,41 @@
 
 ## May 1st
 
-- Added back installation instructions for patches by popular demand (two or three users). One of the things I'm most proud of about this mod list is that people can pick and choose knowing these mods are very compatible with each other, so it is fitting that people have separate instructions in case they haven't installed a given mod earlier on.
-- Added Keg Drip (**Visuals**).
+### Additions
+
+- Visuals
+  - **Keg Drip**: one plugin.
 
 ## April 30th
 
-- Simplified installation instructions when it comes to patches: if the mod list recommends a patch, it is expected that the player has installed the adequate mods beforehand. If the mod list has been followed to the letter, the adequate mods will have already been installed.
-- Modified Necrolesian's Official Plugins Integrated (**Gameplay**). The edited Unofficial Morrowind Official Plugins Patched is now its own separate download.
-- Added UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible) (**Gameplay**).
+### Additions
+
+- Gameplay
+  - **UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**: one plugin, replacer.
 
 ## April 29th
 
-- Drastically simplified installation instructions for the official plugins (**Mended Morrowind**). Now their merged installation is mandatory.
-- Expanded on the instructions for plugin cleaning (**Tools**).
-- Moved installation of Necrolesian's official plugins integration to the **Gameplay** section.
-- Modified Melchior's Mudcrab Merchant with a link to a newer version (**Visuals**).
-- Modified Facelift with instructions for installing its update (**Visuals**).
-- Added Hortator Nerevarine Fix (**Gameplay**).
-- Added Improved Cliff Racer AI (**Gameplay**).
-- Added Necrolesian's Official Plugins Integrated (**Gameplay**).
+### Maintenance
+
+- Mending Morrowind
+  - Simplified installation instructions for the official plugins.
+- Tools
+  - Expanded plugin cleaning instructions.
+- Visuals
+  - **Facelift**: updated installation instructions.
+- Gameplay
+  - Moved **Adamantium Armor Integrated** to this section.
+  - Moved **Area Effects Arrows Integrated** to this section.
+
+### Additions
+
+- Gameplay
+  - **Hortator Nerevarine Fix**: one plugin.
+  - **Improved Cliff Racer AI**: one plugin.
 
 ## April 28th
+
+### Maintenance
 
 - Fixed misleading installation instructions for the official plugins (**Mended Morrowind**) and Glow in the Dahrk (**Visuals**).
 - Fixed wrong plugin in loadorder.txt (now properly reads Area Effect Arrows Integrated.esp).
@@ -332,12 +346,24 @@
 
 ## April 13th
 
-- Added Old Dwemer Books (**Miscellaneous**).
-- Added Graphic Herbalism MWSE and OpenMW Edition (**Gameplay**).
-- Added alternative Intervention Improved plugin for compatibility with Ghostgate Fortress (**Gameplay**).
-- Added Smart Merchants (**Balance**).
-- Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770) (**Content Restoration**). Personal preference.
-- Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126) (**Visuals**). Personal preference.
-- Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627) (**Gameplay**). Replaced with Grabic Herbalism MWSE and OpenMW Edition.
-- Removed [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) (**Balance**). Replaced with Smart Merchants.
-- Removed [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) (**Balance**). Replaced with Smart Merchants.
+### Additions
+
+- Miscellaneous
+  - **Old Dwemer Books**: one plugin.
+- Gameplay
+  - **Graphic Herbalism MWSE and OpenMW Edition**: one plugin, optional.
+  - **Intervention Improved - Ghostgate Fortress Compatible**: one plugin, replacer.
+- Balance
+  - **Smart Merchants**: pluginless.
+
+### Removals
+
+- Content Restoration
+  - [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
+- Visuals
+  - [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
+- Gameplay
+  - [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
+- Balance
+  - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188). Works as advertised. Replaced with Smart Merchants.
+  - [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416). Works as advertised. Replaced with Smart Merchants.
