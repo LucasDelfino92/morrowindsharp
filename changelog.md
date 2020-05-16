@@ -6,11 +6,12 @@
 
 ## Next update
 
-### Changed
+### Maintenance
 
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
-  - Moved **Burial of a Taxman** and **Vodunius Nuccius House Lodgings** to this section.
+  - Moved **Burial of a Taxman** to this section.
+  - Moved **Vodunius Nuccius House Lodgings** to this section.
 
 ### Added
 
@@ -47,7 +48,7 @@
 
 ## May 15th
 
-### Changed
+### Maintenance
 
 - Audio
   - **Empty Threats Disabler**: added a note regarding a known issue.
@@ -56,48 +57,68 @@
 
 ## May 14th
 
-- Added compatibility instructions for Graphic Herbalism - MWSE and OpenMW Edition and Thickle-Lo - The Succulent Hackle-Lo Mod (**Conflict notes**).
-- Added compatibility instructions for Improved Better Skulls for compatibility with Creature VFX Restoration (**Conflict notes**).
-- Added extra instructions for Project Atlas (**Optimization**). Thanks to user Swyfter!
-- Added extra instructions for Morrowind Optimization Patch (**Optimization**).
-- Added extra instructions for Realistic Blood (**Visuals**). Thanks to user Swyfter!
-- Added extra instructions for Lucky Strike - a Critical Hit Mod (**Gameplay**). Thanks to user Swyfter!
-- Clarified instructions for Improved Better Skulls (**Visuals**). Thanks to user Swyfter!
-- Clarified instructions for Graphic Herbalism - MWSE and OpenMW Edition (**Gameplay**). Thanks to user Swyfter!
-- Added the following plugins to the list of plugins that require cleaning (**Cleaning notes**):
-  - Arrille Inventory Fix.esp
-  - Religions Elaborated.esp
-  - ReclamationsInHolamayan.esp
-  - Ttooth's Missing NPCs - No Nolus.esp
-- Added Reclamations in Holamayan to loadorder.txt and mods.txt. Thanks to user Swyfter!
-- Updated Melchior's Mudcrab Merchant order in loadorder.txt and mods.txt. Thanks to user Swyfter!
+### Maintenance
+
+- Mending Morrowind
+  - **Project Atlas**: provided additional installation instructions.
+  - **Morrowind Optimization Patch**: provided additional installation instructions.
+- Visuals
+  - **Improved Better Skulls**: clarified installation instructions.
+  - **Realistic Blood**: provided additional installation instructions.
+- Gameplay
+  - **Graphic Herbalism - MWSE and OpenMW Edition**: clarified installation instructions.
+  - **Lucky Strike - a Critical Hit Mod**: provided additional installation instructions.
+- Conflict notes
+  - **Graphic Herbalism - MWSE and OpenMW Edition**: added instructions for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**.
+  - **Improved Better Skulls**: added instructions for compatibility with **Creature VFX Restoration**.
+- Cleaning notes
+  - Added Arrille Inventory Fix.esp
+  - Added Religions Elaborated.esp
+  - Added ReclamationsInHolamayan.esp
+  - Added Ttooth's Missing NPCs - No Nolus.esp
+- Mod order and load order
+  - Added **Reclamations in Holamayan**.
+  - Updated **Melchior's Mudcrab Merchant**.
 
 ## May 13th
 
-- Moved the following mods. Most of the Miscellaneous mods actually affected the Gameplay, and the Overhaul section now properly represents mods that make major changes to locations, or even minor, but significant ambiance changes
-  - Severa Magia DB fix from **Internal Logic** to **Overhauls**.
-  - Talos Cult Revised - G93's Version from **Internal Logic** to **Overhauls**.
-  - Melchior's Mudcrab Merchant from **Visuals** to **Overhauls**.
-  - Red Vos from **Visuals** to **Overhauls**.
-  - White Suran 2 - MD Edition from **Visuals** to **Overhauls**.
-  - Portrait of Crassius Curio from **Miscellaneous** to **Overhauls**.
-  - Creeper the Drummer from **Miscellaneous** to **Overhauls**.
-  - Yet Another Guard Diversity from **Miscellaneous** to **Overhauls**.
-  - Book Pickup from **Miscellaneous** to **Gameplay**.
-  - Fix those bastard rope fences from **Miscellaneous** to **Gameplay**.
-  - Lower First Person Sneak Mode from **Miscellaneous** to **Gameplay**.
-  - MWSE Character Creation Name Generator from **Miscellaneous** to **Gameplay**.
-  - Plain Paper Fix from **Miscellaneous** to **Gameplay**.
-  - Switchable Scriptures from **Miscellaneous** to **Gameplay**.
-  - Vodunius Nuccius House Lodgings from **Gameplay** to **Miscellaneous**.
-- Added new load order instructions for the following mods:
-  - Melchior's Mudcrab Merchant (**Overhauls**).
-  - White Suran 2 - MD Edition (**Overhauls**). 
-  - Yet Another Guard Diversity (**Overhauls**).
-- Added MW_Inconsistencies.esp to **Conflict notes**.
-- Added Yet Another Guard Diversity - Regular.esp to **Conflict notes**.
-- Added Morrowind Anti-Cheese to **Conflict notes**.
-- Moved **Miscellaneous** section to the bottom of the mod list. It makes more sense to have the "where do these even fit in" mods at the bottom of the list.
+### Maintenance
+
+- Overhauls
+  - Moved **Creeper the Drummer** to this section.
+  - Moved **Melchior's Mudcrab Merchant** to this section.
+  - Moved **Portrait of Crassius Curio** to this section.
+  - Moved **Red Vos** to this section.
+  - Moved **Severa Magia DB fix** to this section.
+  - Moved **Talos Cult Revised - G93's Version** to this section.
+  - Moved **White Suran 2 - MD Edition** to this section.
+  - Moved **Yet Another Guard Diversity** to this section.
+- Gameplay
+  - Moved **Book Pickup** to this section.
+  - Moved **Fix those bastard rope fences** to this section.
+  - Moved **Lower First Person Sneak Mode** to this section.
+  - Moved **MWSE Character Creation Name Generator** to this section.
+  - Moved **Plain Paper Fix** to this section.
+  - Moved **Switchable Scriptures** to this section.
+- Miscellaneous
+  - Moved to the bottom of the mod order and load order.
+  - Moved **Vodunius Nuccius House Lodgings** to this section.
+- Conflict notes
+  - **MW_Inconsistencies.esp**: added instructions for compatibility with
+    - Morrowind Anti-Cheese.esp
+    - Diseases Restored.esp
+  - **Yet Another Guard Diversity - Regular.esp: added instructions for compatibility with
+    - Morrowind Anti-Cheese.esp
+  - **Morrowind Anti-Cheese.esp**: added instructions for compatibility with
+    - No-Frills Closed Molag Mar.esp
+    - No-Frills Open Vivec (Vanilla Placement) v1.1.esp
+    - Wolverine Hall Overhaul.esp
+    - tribunal rebalance.esp
+- Load order
+  - Added instructions for Melchior's Mudcrab Merchant.esp.
+  - Added instructions for WhiteSuran2_MD_Edition.esp.
+  - Added instructions for White Suran Ground Textures.esp.
+  - Added instructions for Yet Another Guard Diversity - Regular.esp.
 
 ## May 12th
 
