@@ -16,7 +16,7 @@
 
 - Tamriel Rebuilt
   - Added **Tamriel_Data**: one plugin.
-  - Added **Tamriel Rebuilt**: one plugin.
+  - Added **Tamriel Rebuilt**: two to four plugins.
 - User Interface
   - Added **Tooltips Complete**: pluginless.
 - Visuals
