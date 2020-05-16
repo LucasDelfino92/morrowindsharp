@@ -8,11 +8,15 @@
 
 ### CHANGES
 
+- Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** and **Vodunius Nuccius House Lodgings** to this section.
 
 ### ADDITIONS
 
+- Tamriel Rebuilt
+  - Added **Tamriel_Data**: one plugin.
+  - Added **Tamriel Rebuilt**: one plugin.
 - User Interface
   - Added **Tooltips Complete**: pluginless.
 - Visuals
@@ -25,6 +29,7 @@
   - Added **Realistic Repair - Add-on**: one plugin.
 - Game Balance
   - Added **Dagoth Ur Fix**: one plugin.
+  - Added **Harder Barter**: pluginless.
 - Quest Tweaks
   - Added **Always there Speall Break**: one plugin.
   - Added **Gaenor's Millions**: one plugin.
@@ -38,7 +43,6 @@
 - Audio
   - Removed [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
 - Game Balance
-  - Removed [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036). Works as advertised. However, the drastic changes made to the game's main quest make it nearly unplayable unless you become overpowered enough to trivialize the rest of the game's content, not to mention the main quest slows down to a halt once you are sent to clear the Sixth House base at Ilunibi.
   - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
 
 ## May 15th
