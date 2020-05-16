@@ -107,7 +107,7 @@
   - **MW_Inconsistencies.esp**: added instructions for compatibility with
     - Morrowind Anti-Cheese.esp
     - Diseases Restored.esp
-  - **Yet Another Guard Diversity - Regular.esp: added instructions for compatibility with
+  - **Yet Another Guard Diversity - Regular.esp**: added instructions for compatibility with
     - Morrowind Anti-Cheese.esp
   - **Morrowind Anti-Cheese.esp**: added instructions for compatibility with
     - No-Frills Closed Molag Mar.esp
@@ -122,22 +122,35 @@
 
 ## May 12th
 
-- Removed [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) for visual consistency with vanilla Morrowind.
-- Removed [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) for visual consistency with vanilla Morrowind.
-- Removed [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) for visual consistency with vanilla Morrowind.
-- Removed [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) as it is no longer required in this mod list.
-- Removed [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) for compatibility with Intelligent Textures.
-- Moved the following mods from **Mending Morrowind** to the **Internal Logic** section:
-  - Arrille Inventory Fix
-  - FMI - Current Councilors
-  - FMI - Legion Dialogue
-- Moved Burial of a Taxman from **Internal Logic** to the **Miscellaneous** section.
+### Maintenance
+
+- Internal Logic
+  - Moved **Arrille Inventory Fix** to this section.
+  - Moved **FMI - Current Councilors** to this section.
+  - Moved **FMI - Legion Dialogue** to this section.
+- Miscellaneous
+  - Moved **Burial of a Taxman** to this section.
+
+### Removals
+
+- Mending Morrowind
+  - [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806). Works as advertised. Removed for visual consistency with Intelligent Textures.
+- Visuals
+  - [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224). Works as advertised. Removed for visual consistency with vanilla Morrowind.
+- Overhauls
+  - [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?). Works as advertised. Removed for visual consistency with vanilla Morrowind.
+  - [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/). Works as advertised. Removed for visual consistency with vanilla Morrowind.
+- Gameplay
+  - [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file). Works as advertised. No longer needed.
 
 ## May 11th
 
-- Added Index to **Mended Morrowind**.
+### Maintenance
+
 - Minor formatting tweaks to all pages.
-- Simplified **Intelligent Textures** installation instructions.
+- **Mending Morrowind**
+  - Added Index.
+  - **Intelligent Textures**: clarified installation instructions.
 
 ## May 10th
 
