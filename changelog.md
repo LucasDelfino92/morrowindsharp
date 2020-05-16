@@ -335,14 +335,25 @@
 
 ## April 18th
 
-- Added Dagoth Ur Welcomes You (**Overhauls**).
+### Additions
+
+- Overhauls
+  - **Dagoth Ur Welcomes You**: one plugin.
 
 ## April 14th
 
-- Added Defensive Stance (**Gameplay**).
-- Added Lucky Strike - A Critical Hit Mod (**Gameplay**).
-- Added Speed and Movement Rebalanced (**Balance**).
-- Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/) (**Content Restoration**). This fix will be included in the next **Patch for Purists** update.
+### Additions
+
+- Gameplay
+  - **Defensive Stance**: pluginless.
+  - **Lucky Strike - A Critical Hit Mod**: one plugin.
+- Balance
+  - **Speed and Movement Rebalanced**: one plugin.
+
+### Removals
+
+- Content Restoration
+  - [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/). Works as advertised. This fix will be included in the next Patch for Purists update.
 
 ## April 13th
 
