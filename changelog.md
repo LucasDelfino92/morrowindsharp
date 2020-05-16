@@ -148,31 +148,40 @@
 ### Maintenance
 
 - Minor formatting tweaks to all pages.
-- **Mending Morrowind**
+- Mending Morrowind
   - Added Index.
   - **Intelligent Textures**: clarified installation instructions.
 
 ## May 10th
 
-- Massive rework of the **Tools** section, with drastically simplified and improved cleaning instructions.
-- Renamed **Balance** to **Game Balance**.
-- Moved the following mods from the **Game Balance** section to the **Gameplay** section:
-  - Higher Faction Requirements
-  - Marksman Rebalanced
-  - No Rest Without Beds
-  - One of a Kind - Daedric Weapons Armor and Shields
-  - Projectile Enchant Capacity
-  - Purist Friendly Magicka Regen
-  - Realistic Movement Speeds
-  - Service Requirements Lore
-  - Speed and Movement Rebalanced
-- Added Morrowind Anti-Cheese TESAME instructions (**Game Blanace**).
-- Added Early Transport to Mournhold (**Gameplay**).
-- Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) (**Internal Logic**): replaced with Early Transport to Mournhold.
-- Removed left over mods and plugins from the mods.txt and loadorder.txt.
-- Separated sections in mods.txt for ease of following.
+### Maintenance
 
-**Quarantined Vvardenfell** can be safely uninstalled.
+- Tools
+  - Clarified and improved cleaning instructions.
+- Game Balance
+  - Renamed from Balance.
+  - Moved **Higher Faction Requirements** to this section.
+  - Moved **Marksman Rebalanced** to this section.
+  - Moved **No Rest Without Beds** to this section.
+  - Moved **One of a Kind - Daedric Weapons Armor and Shields** to this section.
+  - Moved **Projectile Enchant Capacity** to this section.
+  - Moved **Purist Friendly Magicka Regen** to this section.
+  - Moved **Realistic Movement Speeds** to this section.
+  - Moved **Service Requirements Lore** to this section.
+  - Moved **Speed and Movement Rebalanced** to this section.
+- Mod order and load order
+  - Separated mods into sections in mods.txt.
+  - Removed leftover mods and plugins from mods.txt and loadorder.txt.
+
+### Additions
+
+- Gameplay
+  - **Early Transport to Mournhold**: one plugin.
+  
+### Removals
+
+- Internal Logic
+  - [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335). Works as advertised. Replaced with **Early Transport to Mournhold**.
 
 ## May 9th
 
@@ -267,7 +276,7 @@ If you are modifying Corsair's MW Inconsistencies, make sure you are not carryin
 - Removed [**Mages Robes**](https://www.nexusmods.com/morrowind/mods/45739) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
 - Removed [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
 
-## APRIL 21st
+## April 21st
 
 - Added Complete Armor Joints (**Visuals**).
 - Added Ghostgate Fortress Temple Marker (**Gameplay**).
@@ -275,7 +284,7 @@ If you are modifying Corsair's MW Inconsistencies, make sure you are not carryin
 - Added Temples with Shrines (**Gameplay**).
 - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) (**Gameplay**). Personal preference. Replaced with Religions Elaborated, Ghostgate Fortress Temple Marker, and Temples with Shrines.
 
-## APRIL 19th
+## April 19th
 
 - Moved Better Robes (**Visuals**).
 - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
@@ -296,18 +305,18 @@ If you are modifying Corsair's MW Inconsistencies, make sure you are not carryin
   - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617)
   - [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430)
 
-## APRIL 18th
+## April 18th
 
 - Added Dagoth Ur Welcomes You (**Overhauls**).
 
-## APRIL 14th
+## April 14th
 
 - Added Defensive Stance (**Gameplay**).
 - Added Lucky Strike - A Critical Hit Mod (**Gameplay**).
 - Added Speed and Movement Rebalanced (**Balance**).
 - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/) (**Content Restoration**). This fix will be included in the next **Patch for Purists** update.
 
-## APRIL 13th
+## April 13th
 
 - Added Old Dwemer Books (**Miscellaneous**).
 - Added Graphic Herbalism MWSE and OpenMW Edition (**Gameplay**).
