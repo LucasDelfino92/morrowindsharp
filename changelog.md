@@ -8,9 +8,13 @@
 
 ### CHANGES
 
+<details>changes</details>
+
+<summary>
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** and **Vodunius Nuccius House Lodgings** to this section.
+</summary>
 
 ### ADDITIONS
 
