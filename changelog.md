@@ -17,27 +17,27 @@
 ### Added
 
 - Tamriel Rebuilt
-  - **Tamriel_Data**: one plugin.
+  - [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?): one plugin.
 - User Interface
-  - **Tooltips Complete**: pluginless.
+  - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): pluginless.
 - Visuals
-  - **Assetless No Glow**: pluginless.
-  - **Let There Be Darkness**: pluginless.
+  - [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/): pluginless.
+  - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
   - **Lightsfix**: pluginless.
 - Gameplay
-  - **Immersive Mining**: pluginless.
+  - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
   - **Realistic Repair**: pluginless.
   - **Realistic Repair - Add-on**: one plugin.
 - Game Balance
   - **Dagoth Ur Fix**: one plugin.
-  - **Harder Barter**: pluginless.
+  - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
 - Quest Tweaks
-  - **Always there Spell Breaker**: one plugin.
-  - **Gaenor's Millions**: one plugin.
-  - **Hircine's Artifacts**: one plugin.
-  - **Quests for Faction Leaders Cleaned**: one plugin.
-  - **The Ebony Blade**: one plugin.
-  - **Wandering Umbra**: one plugin.
+  - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
+  - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
+  - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
+  - [**Quests for Faction Leaders Cleaned**: one plugin.
+  - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
+  - [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913): one plugin.
 
 ### Removed
 
