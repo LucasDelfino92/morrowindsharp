@@ -262,47 +262,60 @@
 
 ## April 28th
 
-### Maintenance
+### Additions
 
-- Fixed misleading installation instructions for the official plugins (**Mended Morrowind**) and Glow in the Dahrk (**Visuals**).
-- Fixed wrong plugin in loadorder.txt (now properly reads Area Effect Arrows Integrated.esp).
-- Added Vanilla Friendly Scum Texture (**Visuals**).
-- Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) (**Visuals**). Replaced with Vanilla Friendly Scum Texture.
+- Visuals
+  - **Vanilla Friendly Scum Texture**: pluginless.
+
+### Removals
+
+- Visuals
+  - **Scummy Scum**. Works as advertised. Replaced with Vanilla Friendly Scum Texture.
 
 ## April 27th
 
-- Complete overhaul of the mod list's format. All sections in one page.
-- Moved Sound Spell Sound Effect (**Audio**) to the correct **Content Restoration** section.
-- Added Great Service (**Content Restoration**).
-- Added Telvanni Staff for the Telvanni Staff (**Internal Logic**).
-- Added Pete's Scroll 2018 ...in 2020 (**Visuals**).
-- Added Settled Jiub (**Miscellaneous**).
-- Added Brutal Backstabbing (**Gameplay**).
-- Added Supply Chests Merged (**Gameplay**).
-- Added Purist Friendly Magicka Regen (**Balance**).
-- Removed [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) (**Visuals**). The hitbox of the smaller rats is misleading relative to their size.
+### Maintenance
 
-## April 25th Second Update
+- Content Restoration
+  - Moved **Sound Spell Sound Effect** to this section.
+  
+### Additions
 
-- Removed [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) (**Balance**). Personal preference. May make your average movement speed slower if you tend to carry a lot of weight.
-- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease). It also inflates your HP too much.
+- Content Restoration
+  - **Great Service**: one plugin.
+- Internal Logic
+  - **Telvanni Staff for the Telvanni Staff**: one plugin.
+- Visuals
+  - **Pete's Scroll 2018 ...in 2020**: pluginless.
+- Miscellaneous
+  - **Settled Jiub**: one plugin.
+- Gameplay
+  - **Brutal Backstabbing**: pluginless.
+  - **Supply Chests Merged**: one plugin.
+- Balance
+  - **Purist Friendly Magicka Regen**: one plugin.
+
+### Removals
+
+- Visuals
+  - [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420). Works as advertised. However, the smaller size of the rats makes it more annoying to fight against them.
 
 ## April 25th
 
+- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease). It also inflates your HP too much.
 - Fixed Weather Adjuster - Sigourn's Mod List json link (**Visuals**). Thanks to ShadowFyre for reporting it.
 - Fixed No-Frills Open Vivec information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin.
 - Merged **Equipment** section with **Gameplay** section.
 
 ## April 24th
 
-- Finally added Weather Adjuster, and my Weather Adjuster json configuration (**Visuals**).
-- Added MGE XE shaders and shader chain instructions (**Mended Morrowind**).
+### Additions
 
-## April 23rd
-
-- Removed [**Better Robes**](https://www.nexusmods.com/morrowind/mods/42773/) (**Visuals**). Personal preference, since the mod is based on Better Bodies assets.
-- Removed [**Mages Robes**](https://www.nexusmods.com/morrowind/mods/45739) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
-- Removed [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) (**Equipment**). Personal preference, since the mod is based on Better Bodies assets.
+- Mending Morrowind
+  - Added MGE XE shaders and shader chain instructions.
+- Visuals
+  - **Weather Adjuster**: pluginless.
+  - **Weather Adjuster - Sigourn's Mod List json**: pluginless.
 
 ## April 21st
 
@@ -323,15 +336,6 @@
 - Removed [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
 - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
 - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
-- Removed the **Better Bodies** category. These mods vary in quality and execution, particularly Better Clothes Complete. The only vanilla compatible mod, **Better Robes**, has been kept.
-  - [**Better Bodies ZW**](https://www.nexusmods.com/morrowind/mods/42395)
-  - [**Lore-Friendly Better Bodies Underwear**](https://www.nexusmods.com/morrowind/mods/43065)
-  - [**New Beast Bodies by Liztail**](https://www.nexusmods.com/morrowind/mods/47678)
-  - [**Better Clothes Complete**](https://www.nexusmods.com/morrowind/mods/47549)
-  - [**Better Morrowind Armor 2020**](http://www.mediafire.com/file/pffrp899uvuvg34/Better_Morrowind_Armor_2020_v1.0.zip/file)
-  - [**Berserkers**](https://www.nexusmods.com/morrowind/mods/43528)
-  - [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617)
-  - [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430)
 
 ## April 18th
 
@@ -347,8 +351,6 @@
 - Gameplay
   - **Defensive Stance**: pluginless.
   - **Lucky Strike - A Critical Hit Mod**: one plugin.
-- Balance
-  - **Speed and Movement Rebalanced**: one plugin.
 
 ### Removals
 
@@ -375,6 +377,3 @@
   - [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
 - Gameplay
   - [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
-- Balance
-  - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188). Works as advertised. Replaced with Smart Merchants.
-  - [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416). Works as advertised. Replaced with Smart Merchants.
