@@ -389,6 +389,9 @@
 
 ### Removals
 
-- Content Restoration: [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
-- Visuals: [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
-- Gameplay: [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
+- Content Restoration
+  - [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
+- Visuals
+  - [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
+- Gameplay
+  - [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
