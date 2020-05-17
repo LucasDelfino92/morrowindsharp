@@ -9,6 +9,7 @@
 ### Maintenance
 
 - Reformatted Changelog and removed redundant entries.
+- Expanded Save Repairing instructions.
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** to this section.
