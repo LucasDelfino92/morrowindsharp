@@ -32,7 +32,6 @@
   - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
   - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - Game Balance
-  - [**Dagoth Ur Fix**](https://www.nexusmods.com/morrowind/mods/42239): one plugin.
   - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
 - Quest Tweaks
   - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
