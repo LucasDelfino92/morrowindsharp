@@ -228,12 +228,43 @@ The second step is to clean plugins using tes3cmd.
 
 The cleaned plugins will have overwritten the original plugins.
 
+# SYNCHRONIZING MOD MASTERS
+
+Sometimes a plugin you have installed will not have its masters synchronized. In practice, this means Morrowind will greet you with the following message:
+
+> One or more plugins could not find the correct versions of the master files they depend on. Errors may occur during load or game play. Check the "Warnings.txt" file for more information.
+
+To fix this, we have to synchronize our mod's masters.
+
+- Launch WryeMash in Mod Organizer.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a **green box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
+
+Repeat this process for each of the faulty plugins in your load order.
+
+# SAVE UPDATING
+
+When uninstalling or updating mods from a save, we must synchronize our save. Not doing so means Morrowind will greet you with the following message:
+
+> The currently selected master files and plugins do not match the ones used by this save game. Errors may occur during load or game play. Do you wish to continue?
+
+To fix this, we have to synchronize our save.
+
+- Launch WryeMash in Mod Organizer.
+- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
+- If you have removed masters or plugins from your save, then an **Update Masters** window will appear, telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
+- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
+- Click on the **Save** button further below the same panel.
+
+Repeat this process for each of the faulty saves.
+
 # SAVE REPAIRING
 
-When uninstalling mods from a save, it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
+it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
-- After uninstalling a plugin, launch Mod Organizer 2.
-- Select the save which relied on a plugin you've uninstalled. You will get a message saying that the currently selected master files and plugins do not match the ones used by your save game. Continue anyways by clicking **Yes**. Once in-game, save your game in a new slot. Exit the game afterwards. This step is necessary to allow WryeMash to fix your save.
-- Launch WryeMash in MO2.
-- In WryeMash, go to the **Saves** tab. Right click on the save you've just made, and click on **Repair All**. WryeMash will analyze your savefile to decide whether it needs repairing or not.
-- You will get a message window saying no problems where found, or a message window detailing the problems repaired by WryeMash. You can close WryeMash afterwards.
+- After uninstalling a plugin, launch WryeMash in Mod Organizer 2.
+- In the **Saves** tab, you will see a list with all your saves.
+- Right click on any save, and click on **Repair All**. WryeMash will scan your savefile.
+- You will get a message window with two possible outcomes: your save has been repaired by WryeMash, or WryeMash will tell you no problems where found.saying no problems where found. Close the window.
