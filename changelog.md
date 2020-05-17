@@ -47,7 +47,6 @@
   - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977): one plugin.
   - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
   - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
-  - [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913): one plugin.
 
 ### Removed
 
