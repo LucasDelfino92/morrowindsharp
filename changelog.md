@@ -176,7 +176,7 @@
 ### Additions
 
 - Gameplay
-  - **Early Transport to Mournhold**: one plugin.
+  - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985): one plugin.
   
 ### Removals
 
@@ -188,12 +188,12 @@
 ### Additions
 
 - Gameplay
-  - **Legion Uniform Apathy**: one plugin.
-  - **Lock Bashing**: one plugin.
-  - **Retroactive Health Gain**: pluginless.
-  - **Urnest Loot**: one plugin.
+  - [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024): one plugin.
+  - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857): one plugin.
+  - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959): pluginless.
+  - [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?): one plugin.
 - Balance
-  - **Speed and Movement Rebalanced**: one plugin.
+  - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/): one plugin.
 
 ### Removals
 
@@ -270,7 +270,7 @@
 ### Removals
 
 - Visuals
-  - **Scummy Scum**. Works as advertised. Replaced with Vanilla Friendly Scum Texture.
+  - [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Works as advertised. Replaced with Vanilla Friendly Scum Texture.
 
 ## April 27th
 
