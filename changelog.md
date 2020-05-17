@@ -8,10 +8,6 @@
 
 ### Maintenance
 
-- Reformatted Changelog and removed redundant entries.
-- Added a new section: **Synchronizing mod masters**
-- Added a new section: **Save updating**
-- Modified Save Repairing instructions.
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quests**
   - Moved **Burial of a Taxman** to this section.
@@ -56,6 +52,15 @@
   - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
 - Game Balance
   - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
+
+## May 17th
+
+### Maintenance
+
+- Reformatted Changelog and removed redundant entries.
+- Added a new section: **Synchronizing mod masters**
+- Added a new section: **Save updating**
+- Modified Save Repairing instructions.
 
 ## May 15th
 
