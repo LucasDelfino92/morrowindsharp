@@ -303,7 +303,6 @@
 ## April 25th
 
 - Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease). It also inflates your HP too much.
-- Fixed Weather Adjuster - Sigourn's Mod List json link (**Visuals**). Thanks to ShadowFyre for reporting it.
 - Fixed No-Frills Open Vivec information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin.
 - Merged **Equipment** section with **Gameplay** section.
 
@@ -319,15 +318,22 @@
 
 ## April 21st
 
-- Added Complete Armor Joints (**Visuals**).
-- Added Ghostgate Fortress Temple Marker (**Gameplay**).
-- Added Religions Elaborated (**Gameplay**).
-- Added Temples with Shrines (**Gameplay**).
-- Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) (**Gameplay**). Personal preference. Replaced with Religions Elaborated, Ghostgate Fortress Temple Marker, and Temples with Shrines.
+### Additions
+
+- Visuals
+  - **Complete Armor Joints**: one plugin.
+- Gameplay
+  - **Ghostgate Fortress Temple Marker**: one plugin.
+  - **Religions Elaborated**: one plugin.
+  - **Temples with Shrines**: one plugin.
+  
+### Removals
+
+- Gameplay
+  - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Works as advertised. Replaced with Religions Elaborated, Ghostgate Fortress Temple Marker, and Temples with Shrines.
 
 ## April 19th
 
-- Moved Better Robes (**Visuals**).
 - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
 - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (**Internal Logic**). Personal preference. Replaced with Religions Elaborated.
 - Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). Personal preference. While there are bound to be some gameplay issues when a game isn't designed for low visibility (such as shadows not working as the player would expect), there are some lighting issues some players may find untolerable.
