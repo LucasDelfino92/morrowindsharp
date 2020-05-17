@@ -302,9 +302,16 @@
 
 ## April 25th
 
-- Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (**Balance**). Because of how this mod works, Black-Heart Blight can prove devastating to characters (my own character was one-shotted repeatedly just by contracting the disease). It also inflates your HP too much.
-- Fixed No-Frills Open Vivec information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin.
-- Merged **Equipment** section with **Gameplay** section.
+### Maintenance
+
+- Merged **Equipment** into the **Gameplay** section.
+- Mod order and load order
+  - Fixed No-Frills Open Vivec's information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin. 
+
+### Removals
+
+- Balance
+  - [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521). Works as advertised. However, Black-Heart Blight can prove devastating to characters, and the mod also uses a non-vanilla based formula that inflates your HP too much.
 
 ## April 24th
 
@@ -334,14 +341,16 @@
 
 ## April 19th
 
-- Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
-- Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (**Internal Logic**). Personal preference. Replaced with Religions Elaborated.
-- Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). Personal preference. While there are bound to be some gameplay issues when a game isn't designed for low visibility (such as shadows not working as the player would expect), there are some lighting issues some players may find untolerable.
-- Removed [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (**Visuals**). The visual effect leads to gameplay dissonance as the player cannot pick up the visible projectiles stuck on fallen enemies or the landscape, whether for their own inventory or to remove them from the game. The projectiles also don't stick to NPC heads.
-- Removed [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) (**Visuals**). Personal preference.
-- Removed [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
-- Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
-- Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
+### Removals
+
+- [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
+- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (**Internal Logic**). Personal preference. Replaced with Religions Elaborated.
+- [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). Personal preference. While there are bound to be some gameplay issues when a game isn't designed for low visibility (such as shadows not working as the player would expect), there are some lighting issues some players may find untolerable.
+- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (**Visuals**). The visual effect leads to gameplay dissonance as the player cannot pick up the visible projectiles stuck on fallen enemies or the landscape, whether for their own inventory or to remove them from the game. The projectiles also don't stick to NPC heads.
+- [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) (**Visuals**). Personal preference.
+- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
+- [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
+- [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
 
 ## April 18th
 
