@@ -9,14 +9,10 @@
 ### Maintenance
 
 - Reformatted Changelog and removed redundant entries.
-- Mending Morrowind
-  - Added official game map.
-- Sigourn's Mod List
-  - Added a new section: **Tamriel Rebuilt**
-  - Added a new section: **Quest Tweaks**
-  - Quest Tweaks
-    - Moved **Burial of a Taxman** to this section.
-    - Moved **Vodunius Nuccius House Lodgings** to this section.
+- Added a new section: **Tamriel Rebuilt**
+- Added a new section: **Quest Tweaks**
+  - Moved **Burial of a Taxman** to this section.
+  - Moved **Vodunius Nuccius House Lodgings** to this section.
 
 ### Added
 
