@@ -18,7 +18,6 @@
   - Moved **Concept Art Vivec Face Replacement** to this section.
 - Cleaning notes
   - Added Always there Spell Breaker.ESP
-  - Added wandering_umbra.ESP
 
 ### Added
 
