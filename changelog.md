@@ -210,7 +210,7 @@
 ### Additions
 
 - Overhauls
-  - **No-Frills Closed Molag Mar**: one plugin.
+  - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190): one plugin.
 
 ## May 7th
 
@@ -231,14 +231,14 @@
 ### Additions
 
 - Visuals
-  - **Keg Drip**: one plugin.
+  - [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/): one plugin.
 
 ## April 30th
 
 ### Additions
 
 - Gameplay
-  - **UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**: one plugin, replacer.
+  - [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file): one plugin, replacer.
 
 ## April 29th
 
@@ -257,15 +257,15 @@
 ### Additions
 
 - Gameplay
-  - **Hortator Nerevarine Fix**: one plugin.
-  - **Improved Cliff Racer AI**: one plugin.
+  - [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097): one plugin.
+  - [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712): one plugin.
 
 ## April 28th
 
 ### Additions
 
 - Visuals
-  - **Vanilla Friendly Scum Texture**: pluginless.
+  - [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?): pluginless.
 
 ### Removals
 
@@ -282,18 +282,18 @@
 ### Additions
 
 - Content Restoration
-  - **Great Service**: one plugin.
+  - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767): one plugin.
 - Internal Logic
-  - **Telvanni Staff for the Telvanni Staff**: one plugin.
+  - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/): one plugin.
 - Visuals
-  - **Pete's Scroll 2018 ...in 2020**: pluginless.
+  - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?): pluginless.
 - Miscellaneous
-  - **Settled Jiub**: one plugin.
+  - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577): one plugin.
 - Gameplay
-  - **Brutal Backstabbing**: pluginless.
-  - **Supply Chests Merged**: one plugin.
+  - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890): pluginless.
+  - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file): one plugin.
 - Balance
-  - **Purist Friendly Magicka Regen**: one plugin.
+  - [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636): one plugin.
 
 ### Removals
 
@@ -306,7 +306,7 @@
 
 - Merged **Equipment** into the **Gameplay** section.
 - Mod order and load order
-  - Fixed No-Frills Open Vivec's information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin. 
+  - Fixed **No-Frills Open Vivec**'s information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin. 
 
 ### Removals
 
@@ -320,18 +320,18 @@
 - Mending Morrowind
   - Added MGE XE shaders and shader chain instructions.
 - Visuals
-  - **Weather Adjuster**: pluginless.
-  - **Weather Adjuster - Sigourn's Mod List json**: pluginless.
+  - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816): pluginless.
+  - [**Weather Adjuster - Sigourn's Mod List json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file): pluginless.
 
 ## April 21st
 
 ### Additions
 
 - Visuals
-  - **Complete Armor Joints**: one plugin.
+  - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572): one plugin.
 - Gameplay
-  - **Religions Elaborated**: one plugin.
-  - **Temples with Shrines**: one plugin.
+  - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843): one plugin.
+  - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535): one plugin.
   
 ### Removals
 
@@ -360,15 +360,15 @@
 ### Additions
 
 - Overhauls
-  - **Dagoth Ur Welcomes You**: one plugin.
+  - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?): one plugin.
 
 ## April 14th
 
 ### Additions
 
 - Gameplay
-  - **Defensive Stance**: pluginless.
-  - **Lucky Strike - A Critical Hit Mod**: one plugin.
+  - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845): pluginless.
+  - [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765): one plugin.
 
 ### Removals
 
@@ -380,11 +380,11 @@
 ### Additions
 
 - Miscellaneous
-  - **Old Dwemer Books**: one plugin.
+  - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?): one plugin.
 - Gameplay
-  - **Graphic Herbalism MWSE and OpenMW Edition**: one plugin, optional.
+  - [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599): one plugin, optional.
 - Balance
-  - **Smart Merchants**: pluginless.
+  - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787): pluginless.
 
 ### Removals
 
