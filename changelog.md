@@ -57,10 +57,15 @@
 
 ### Maintenance
 
-- Reformatted Changelog and removed redundant entries.
-- Added a new section: **Synchronizing mod masters**
-- Added a new section: **Save updating**
-- Modified Save Repairing instructions.
+- Changelog
+  - Reformatted.
+  - Removed redundant entries.
+- Mended Morrowind
+  - Added link to the Morrowind Game of the Year Edition map.
+- Tools
+  - Added a new section: **Synchronizing mod masters**
+  - Added a new section: **Save updating**
+  - Modified Save Repairing instructions.
 
 ## May 15th
 
