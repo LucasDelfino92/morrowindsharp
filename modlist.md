@@ -20,9 +20,9 @@
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## MENDED MORROWIND
+## MENDING MORROWIND
 
-The Mended Morrowind guide has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md)
+The Mending Morrowind mod list has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
 
 ## USER INTERFACE
 
