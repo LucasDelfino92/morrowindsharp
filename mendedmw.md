@@ -30,6 +30,8 @@ Install Morrowind to a root directory (e.g. C:\Games\Morrowind\). This will save
 
 Your **Data Files** folder contains your game’s data. If you followed my advice earlier, it should be found in C:\Games\Morrowind\Data Files\.
 
+One thing many Morrowind players who obtained their game through online stores such as GOG or Steam is that the game originally shipped with a map containing most of the major locations. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
+
 ## MODDING BASICS
 
 A crash course to Morrowind and Bethesda modding in general is:
