@@ -25,6 +25,8 @@
   - [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/): pluginless.
   - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
   - **Lightsfix**: pluginless.
+- Overhauls
+  - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
 - Gameplay
   - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
   - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
