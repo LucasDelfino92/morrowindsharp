@@ -8,6 +8,7 @@
 
 ### Maintenance
 
+- Reformatted Changelog and removed redundant entries.
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** to this section.
@@ -343,14 +344,18 @@
 
 ### Removals
 
-- [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (**Internal Logic**). The mod has been hidden from Nexus.
-- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (**Internal Logic**). Personal preference. Replaced with Religions Elaborated.
-- [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (**Visuals**). Personal preference. While there are bound to be some gameplay issues when a game isn't designed for low visibility (such as shadows not working as the player would expect), there are some lighting issues some players may find untolerable.
-- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (**Visuals**). The visual effect leads to gameplay dissonance as the player cannot pick up the visible projectiles stuck on fallen enemies or the landscape, whether for their own inventory or to remove them from the game. The projectiles also don't stick to NPC heads.
-- [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) (**Visuals**). Personal preference.
-- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?) (**Visuals**). Personal preference.
-- [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (**Gameplay**). Personal preference.
-- [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (**Equipment**). Personal preference.
+- Internal Logic
+  - [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187). The mod has been hidden from Nexus.
+  - [**Healers**](https://www.nexusmods.com/morrowind/mods/47752). Works as advertised. Replaced with Religions Elaborated.
+- Visuals
+  - [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291). Works as advertised. The lighting changes are not configurable and can be too extreme at times.
+  - [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862). Works as advertised. However, the acknowledged limitations makes me remove it.
+  - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124). Works as advertised. However, the effect can be very hard to notice if you are not looking.
+  - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?). Works as advertised.
+- Gameplay
+  - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275). Works as advertised.
+- Equipment
+  - [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783). Works as advertised. However, the mod doesn't address a perceived flaw in the game's equipment roster.
 
 ## April 18th
 
