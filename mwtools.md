@@ -16,8 +16,8 @@
 3. [**Plugin cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
    - [**TESTool**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
    - [**tes3cmd_clean.bat**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd_cleanbat)
-4. [**Synchronizing mod masters**]()
-5. [**Save updating**]()
+4. [**Synchronizing mod masters**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#synchronizing-mod-masters)
+5. [**Save updating**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#save-updating)
 6. [**Save repairing**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#save-repairing)
 
 # TOOLS
