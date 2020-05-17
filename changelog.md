@@ -26,16 +26,16 @@
   - **Lightsfix**: pluginless.
 - Gameplay
   - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
-  - **Realistic Repair**: pluginless.
-  - **Realistic Repair - Add-on**: one plugin.
+  - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
+  - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - Game Balance
-  - **Dagoth Ur Fix**: one plugin.
+  - [**Dagoth Ur Fix**](https://www.nexusmods.com/morrowind/mods/42239): one plugin.
   - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
 - Quest Tweaks
   - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
   - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
   - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
-  - [**Quests for Faction Leaders Cleaned**: one plugin.
+  - [**Quests for Faction Leaders Cleaned**]: one plugin.
   - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
   - [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913): one plugin.
 
