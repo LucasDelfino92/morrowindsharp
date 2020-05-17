@@ -11,9 +11,11 @@
 - Reformatted Changelog and removed redundant entries.
 - Expanded Save Repairing instructions.
 - Added a new section: **Tamriel Rebuilt**
-- Added a new section: **Quest Tweaks**
+- Added a new section: **Quests**
   - Moved **Burial of a Taxman** to this section.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
+- Overhauls
+  - Moved **Concept Art Vivec Face Replacement** to this section.
 - Cleaning notes
   - Added Always there Spell Breaker.ESP
   - Added wandering_umbra.ESP
@@ -36,10 +38,13 @@
   - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - Game Balance
   - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
-- Quest Tweaks
+- Quests
   - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
+  - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589): one plugin.
+  - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752): one plugin.
   - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
   - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
+  - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977): one plugin.
   - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
   - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
   - [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913): one plugin.
