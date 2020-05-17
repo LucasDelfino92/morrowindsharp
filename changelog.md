@@ -331,7 +331,6 @@
 - Visuals
   - **Complete Armor Joints**: one plugin.
 - Gameplay
-  - **Ghostgate Fortress Temple Marker**: one plugin.
   - **Religions Elaborated**: one plugin.
   - **Temples with Shrines**: one plugin.
   
@@ -385,7 +384,6 @@
   - **Old Dwemer Books**: one plugin.
 - Gameplay
   - **Graphic Herbalism MWSE and OpenMW Edition**: one plugin, optional.
-  - **Intervention Improved - Ghostgate Fortress Compatible**: one plugin, replacer.
 - Balance
   - **Smart Merchants**: pluginless.
 
