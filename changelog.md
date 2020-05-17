@@ -14,6 +14,8 @@
 - Added a new section: **Quest Tweaks**
   - Moved **Burial of a Taxman** to this section.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
+- Cleaning notes
+  - Added Always there Spell Breaker.ESP
 
 ### Added
 
