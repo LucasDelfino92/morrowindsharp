@@ -32,7 +32,7 @@
   - **Dagoth Ur Fix**: one plugin.
   - **Harder Barter**: pluginless.
 - Quest Tweaks
-  - **Always there Speall Break**: one plugin.
+  - **Always there Spell Breaker**: one plugin.
   - **Gaenor's Millions**: one plugin.
   - **Hircine's Artifacts**: one plugin.
   - **Quests for Faction Leaders Cleaned**: one plugin.
