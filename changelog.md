@@ -31,7 +31,9 @@
   - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/okzvwv7l9dbdrj6/She_Vivec_Fixed_v1.1.zip/file): one plugin.
   - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
 - Gameplay
+  - [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?): one plugin.
   - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
+  - **Nerevarine and Hortator Titles**: one plugin.
   - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
   - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - Game Balance
