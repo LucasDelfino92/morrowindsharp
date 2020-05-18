@@ -208,7 +208,7 @@ Choose between one of these two alternatives for readable signposts. My personal
 
 ### MGE XE MODS
 
-The following mods require specific MGE XE install instructions. Read the mod pages carefully.
+The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
 
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
