@@ -97,6 +97,6 @@ Bear in mind that not every conflict is a bad thing. In many occasions, a mod wi
 - Dialog Topic
   - Vodunius Nuccius: overwrites Patch for Purist.esm **NAME - ID** typo fixes.
 
-### ASSETS CONFLICTS
+### ASSET CONFLICTS
 
 None to report.
