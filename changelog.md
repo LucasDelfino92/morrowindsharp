@@ -49,6 +49,7 @@
   - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
   - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
   - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466): one plugin.
+  - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953): one plugin.
 
 ### Removed
 
