@@ -44,9 +44,11 @@
   - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752): one plugin.
   - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
   - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
+  - [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961): one plugin.
   - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977): one plugin.
   - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
   - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
+  - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466): one plugin.
 
 ### Removed
 
