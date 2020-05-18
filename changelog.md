@@ -28,6 +28,7 @@
   - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
   - **Lightsfix**: pluginless.
 - Overhauls
+  - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
   - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/okzvwv7l9dbdrj6/She_Vivec_Fixed_v1.1.zip/file): one plugin.
   - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
 - Gameplay
