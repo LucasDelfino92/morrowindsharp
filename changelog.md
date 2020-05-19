@@ -14,6 +14,7 @@
   - Moved **Vodunius Nuccius House Lodgings** to this section.
 - Overhauls
   - Moved **Concept Art Vivec Face Replacement** to this section.
+  - **Portrait of Crassius Curio**: provided TESAME instructions.
 - Cleaning notes
   - Added Always there Spell Breaker.ESP
   - Added Blight at the Hairat-Vassamsi Egg Mine.ESP
