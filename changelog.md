@@ -36,8 +36,8 @@
   - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
 - Gameplay
   - [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?): one plugin.
+  - [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file): one plugin.
   - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
-  - **Nerevarine and Hortator Titles**: one plugin.
   - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
   - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - Game Balance
