@@ -16,6 +16,7 @@
   - Moved **Concept Art Vivec Face Replacement** to this section.
   - **Portrait of Crassius Curio**: provided TESAME instructions.
 - Cleaning notes
+  - Removed Arrille Inventory Fix.ESP
   - Added Always there Spell Breaker.ESP
   - Added Blight at the Hairat-Vassamsi Egg Mine.ESP
   - Added Pacifist Options - When it Makes Sense.ESP
