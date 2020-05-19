@@ -98,7 +98,7 @@ TESTool is now set and ready to go.
 
 Dedicated installation instructions are provided for this tool.
 
-- [**tes3cmd**](http://wiki.theassimilationlab.com/mmw/TES3cmd): used for plugin cleaning.
+- [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z): used for plugin cleaning.
 
 - Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
 - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
