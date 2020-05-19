@@ -16,6 +16,9 @@
   - Moved **Concept Art Vivec Face Replacement** to this section.
 - Cleaning notes
   - Added Always there Spell Breaker.ESP
+  - Added Blight at the Hairat-Vassamsi Egg Mine.ESP
+  - Added Pacifist Options - When it Makes Sense.ESP
+  - Added Talos Cult Revised.esp (with Tamriel_Data version)
 
 ### Added
 
@@ -28,7 +31,7 @@
   - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
   - **Lightsfix**: pluginless.
 - Overhauls
-  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/okzvwv7l9dbdrj6/She_Vivec_Fixed_v1.1.zip/file): one plugin.
+  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/dd5wfvhh7oa5ff9/She_Vivec_Fixed_v1.1.zip/file): one plugin.
   - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
   - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
 - Gameplay
