@@ -31,18 +31,28 @@ Before we begin, it's time I address the elephant in the room. And quite a big e
 
 Yes, you read that right. It is not featured in this mod list. I have a few personal reasons as to why I don't use Tamriel Rebuilt, but the reason it is not *here* is that it simply requires compatibility patches I'm not willing to hunt for, and I'm also not about to trim down this mod list to mods that are 100% compatible with Tamriel Rebuilt. This doesn't mean following this mod list will make your game incompatible with Tamriel Rebuilt. It's actually very compatible. Just don't expect this mod list's features to carry over into it.
 
-Should you decide to play with Tamriel Rebuilt, you are on your own. Good luck to you. But there is one thing about Tamriel Rebuilt you should consider, and that is **Tamriel_Data**.
+Should you decide to play with Tamriel Rebuilt, you are on your own. Good luck to you. But there is one thing about Tamriel Rebuilt you should consider, and that is **Tamriel_Data**. Tamriel_Data is first and foremost an asset repository. It contains meshes, textures, books, and region data that can be used by other mods.
 
-- [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?) by the Project Tamriel Team and the Tamriel Rebuilt Team: asset repository. It contains meshes, textures, books, and region data that can be used by other mods.
-  - Install the **Tamriel Data (HD)** main file if using **Intelligent Textures**. If not, installing **Tamriel_Data (vanilla)**.
-  - This mod requires you to register its .BSA files into your Morrowind.ini.
-
-At the moment there are only *two* mods featured in this mod list that rely on the installation of Tamriel_Data. Those are:
+At the moment there are only *two* mods featured in this mod list that rely on the installation of **Tamriel_Data**. Those are:
 
 - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin
 - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) by Leyawynn
 
-They are listed in their respective categories down below. With that information in mind, I leave up to you (like the rest of this mod list) the decision to install **Tamriel_Data** or not. Bear in mind that if you *do* decide to install **Tamriel Rebuilt**, you will be required to install **Tamriel_Data** either way.
+They are listed in their respective categories down below. With that information in mind, I leave up to you (like the rest of this mod list) the decision to install Tamriel_Data or not. Bear in mind that if you *do* decide to install **Tamriel Rebuilt**, you will be required to install **Tamriel_Data** either way.
+
+- [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?) by the Project Tamriel Team and the Tamriel Rebuilt Team.
+  - Install the **Tamriel Data (HD)** main file if using **Intelligent Textures**. If not, installing **Tamriel_Data (vanilla)**.
+
+This mod requires you to register its .BSA files into your Morrowind.ini.
+
+- Launch Mod Organizer 2.
+- Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
+- On the morrowind.ini that just opened, use CTRL+F to find **[Archives]**. Edit this section to read like so:
+  - Archive 0=Tribunal.bsa
+  - Archive 1=Bloodmoon.bsa
+  - Archive 2=PT_Data.bsa
+  - Archive 3=TR_Data.bsa
+- Click Save to finish editing the Morrowind.ini.
 
 ## USER INTERFACE
 
