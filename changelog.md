@@ -37,7 +37,7 @@ Sigourn's Mod List
   - [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/): pluginless.
   - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
 - Overhauls
-  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/dd5wfvhh7oa5ff9/She_Vivec_Fixed_v1.1.zip/file): one plugin.
+  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file): one plugin.
   - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
   - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
 - Gameplay
