@@ -1,6 +1,6 @@
 # SIGOURN'S MOD LIST
 
-Last updated: May 14th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+Last updated: May 20th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
@@ -20,7 +20,7 @@ Last updated: May 14th, 2020. See the [**Changelog**](https://github.com/Sigourn
 
 *Sigourn's Mod List* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
 
-This mod list consists of, roughly, 240 mods and 155 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
+This mod list consists of, roughly, 240 mods and 170 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
 
 Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, or the existence of an in-game mod configuration menu. Mods that function correctly and without any pesky issues were a priority for this mod list. And above all, mods that do exactly what they say on the tin: there's nothing more annoying than installing a mod that changes so much more than it is advertised.
 
@@ -49,7 +49,7 @@ My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morr
 
 ## MOD ORDER AND LOAD ORDER
 
-My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Sigourn's Mod List: May 14th**](https://www.mediafire.com/file/agqzsq8b2231r02/Sigourn%27s_Mod_List_%28May_14th%29.zip/file)
+My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Sigourn's Mod List: May 20th**](https://www.mediafire.com/file/u7wx8s923sw0oiv/Sigourn%27s_Mod_List_%28May_20th%29.zip/file)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
