@@ -63,6 +63,8 @@ Sigourn's Mod List
 
 ### Removed
 
+Sigourn's Mod List
+
 - Audio
   - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
 - Game Balance
