@@ -71,6 +71,7 @@ Sigourn's Mod List
   - [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?). Works as advertised. Removed for visual consistency with vanilla Morrowind.
 - Game Balance
   - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
+    - To uninstall this mod, use the Mod Configuration menu found in-game and toggle off the mod's features (Upgrade Trainer NPC Skills; Upgrade Merchant NPC Skills; Tweak also creature prices). Then, save the game, exit, and uninstall the mod.
 
 ## May 17th
 
