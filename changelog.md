@@ -65,6 +65,8 @@ Sigourn's Mod List
 
 Sigourn's Mod List
 
+- Visuals
+  - [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?). Works as advertised. Removed for visual consistency with vanilla Morrowind.
 - Audio
   - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
 - Game Balance
