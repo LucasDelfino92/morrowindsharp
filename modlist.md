@@ -269,6 +269,12 @@ The following mods require additional MGE XE configuration after installation to
   - Hide/disable **Passage of Prayers - No Lore.esp**.
 - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
   - Hide/disable **CurioPortrait_Object.esp**.
+  - In TESAME, delete the following records:
+    - Script **Pek_Dracus_SCT**
+    - Topic **my trade**
+    - Info/Responce **I set the table and tidy things up [...]**
+  - Save the plugin as **CurioPortrait_Static.esp**, overwriting the original when asked.
+  - This removes an unnecessary script and a badly implemented dialogue response that wouldn't be limited to Curio Manor.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
