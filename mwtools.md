@@ -184,7 +184,7 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 - Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
 - Now press **Delete**, and the records will be gone.
 - Go to **Mods -> Save as ..**
-- Remove the **Clean** prefix from the plugin name and save it, **overwriting** the original .esp.
+- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
 
 The newly edited plugin will have overwritten the original plugin.
 
