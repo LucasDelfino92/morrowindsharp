@@ -27,7 +27,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 
 ## TAMRIEL_DATA
 
-Placeholder.
+- [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?) by the Project Tamriel Team and the Tamriel Rebuilt Team:
 
 ## USER INTERFACE
 
@@ -437,12 +437,25 @@ The following mod should only be installed if you are playing with the official 
 
 ## QUESTS
 
+- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn: Spell Breaker will always be in Bthuand, even if you haven't begun the quest to get it yet.
+- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93: adds a small quest allowing you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
+- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
+- [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752) by Gavrilo93 and PoodleSandwich2: gives you the opportunity to side with Fargoth in the quest "Fargoth's hiding place", letting you double-cross Hrisskar.
+- [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870) by mort: allows the player to give Gaenor one million gold in exchange for not having to fight him.
+- [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671) by Leyawynn: changes the 2 amulets from the Aspect of Strength and Speed into a mask and boots respectively. Also includes a spear replacer.
+- [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Gavrilo93: provides you pacifist options to complete several quests in vanilla Morrowind - provided that it would make sense that such an option would exist.
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93: plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success. 
+- [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file) by Leyawynn: makes it so that you can still do quests, even if you're the highest rank in the faction.
+- [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) by Leyawynn: changes the reward for Mephala's Quest from the Ring of Khajiit to the Ebony Blade.
+- [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Gavrilo93: a combination of 12 of Gavrilo93's mods, from the vanilla quest tweaks/roleplaying choices/consequences category. For a detailed list of the mods included, read the description.
+- [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93: provides three different methods to fix the inconsistency concerning the vanilla Redas Tomb quest and the last of the Redas family.
+  - Hide/disable **The Last of the Redas Family - Changes Name.ESP** and **The Last of the Redas Family - She Donated.ESP**.
+- [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
+
 ## MISCELLANEOUS
 
-- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
-- [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
 
 ## FINISHING TOUCHES
 
