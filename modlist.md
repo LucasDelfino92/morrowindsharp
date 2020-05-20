@@ -36,6 +36,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7: adds the ability to filter ingredients based on their magic effects.
 - [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r: adds clock to UI that displays either game world time or real time.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
+- [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
 
@@ -177,8 +178,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood. Also adds a new Spriggan variant: the Twiggan, a forest spirit which takes on a more masculine form.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
-- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe: replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - This mod is incorrectly packaged. Set **faint** as the proper **Data** directory in MO2.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) by Matilija: makes the water flowing around the Vivec Temple look better when compared toh MGE's phenomenal 3D water.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
@@ -206,6 +205,18 @@ Choose between one of these two alternatives for readable signposts. My personal
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
+### LESS INTRUSIVE MAGIC GLOW
+
+Choose between one of these two alternatives for less intrusive magic glow. My personal preference is Assetless No Glow, but if you are a vanilla purist nothing beats Subtle Magic Glow.
+
+- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe: replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+  - This mod is incorrectly packaged. Set **faint** as the proper **Data** directory in MO2.
+- [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/) by NullCascade: removes the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground). Uses less memory and is more compatible than other "no plastic wrap effect" mods.
+  - For **Weapon Sheathing** to not add the glow effect back into sheathed equipment, we will need to comment some lines in **Weapon Sheating\MWSE\mods\weaponSheathing\main.lua**. The following lines must read like so:
+    - -- tes3.worldController:applyEnchantEffect(visual, quiver.enchantment)
+    - -- tes3.worldController:applyEnchantEffect(visual, shield.enchantment)
+    - -- tes3.worldController:applyEnchantEffect(visual, weapon.enchantment)
+  
 ### MGE XE MODS
 
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
@@ -228,8 +239,6 @@ The following mods require additional MGE XE configuration after installation to
     - Thunder Sound ID 1=**Distant_Thunder_01**
     - Thunder Sound ID 2=**Distant_Thunder_02**
     - Thunder Sound ID 3=**Distant_Thunder_03**
-- [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by rot: disables attack voices like "You will suffer greatly" on sneak kills or other instant deaths.
-  - Note: the game will incorrectly give two error messages if a peaceful NPC attacks you straight from their first dialogue greeting. The game proceeds normally if you click "yes" to both.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk: gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
@@ -279,8 +288,6 @@ The following mods require additional MGE XE configuration after installation to
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
     - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
-- [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) by Resdayn Revival Team: new models and textures for Ghostfence pylons based on Morrowind concept art.
-  - MO2 will install this mod as a BAIN package. Tick **06 - Optional - Better Ghostfence Pillars - Scythe** and click **OK**.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
@@ -399,7 +406,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade: puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
-- [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot: configurable mod that can increase the Mercantile and Speechcraft skills of all NPCs, making it harder to barter with them, persuade them, and bribe them. Doesn't interfere with Trainers' services.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort: makes the Sixth House, properly, the most difficult content in the game.
