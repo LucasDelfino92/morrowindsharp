@@ -212,10 +212,11 @@ Choose between one of these two alternatives for less intrusive magic glow. My p
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe: replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - This mod is incorrectly packaged. Set **faint** as the proper **Data** directory in MO2.
 - [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/) by NullCascade: removes the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground). Uses less memory and is more compatible than other "no plastic wrap effect" mods.
-  - For **Weapon Sheathing** to not add the glow effect back into sheathed equipment, we will need to comment some lines in **Weapon Sheating\MWSE\mods\weaponSheathing\main.lua**. The following lines must read like so:
+  - For **Weapon Sheathing** to not add the glow effect back into sheathed equipment, we will need to comment some lines in **Weapon Sheating\MWSE\mods\weaponSheathing\main.lua**. We must add "-- " behind three lines, as seen here:
     - -- tes3.worldController:applyEnchantEffect(visual, quiver.enchantment)
     - -- tes3.worldController:applyEnchantEffect(visual, shield.enchantment)
     - -- tes3.worldController:applyEnchantEffect(visual, weapon.enchantment)
+  - This will allow **Weapon Sheathing** to work flawlessly with **Assetless No Glow**.
   
 ### MGE XE MODS
 
