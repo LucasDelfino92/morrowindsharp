@@ -8,6 +8,10 @@
 
 ### Maintenance
 
+Mended Morrowind
+- Added a new section: **Steam**
+
+Sigourn's Mod List
 - Added a new section: **Tamriel Rebuilt**
 - Added a new section: **Quests**
   - Moved **Burial of a Taxman** to this section.
