@@ -463,6 +463,8 @@ The following mod should only be installed if you are playing with the official 
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
+- **Always there Spell Breaker.esp**
+- **Blight at the Hairat-Vassamsi Egg Mine.esp**
 - **Bloated Caves.esp**
 - **Brevur of Balmora - Finally Some Good Statue Mod.esp**
 - **Clean Atmospheric Delights.esp**
@@ -478,6 +480,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **MW_Inconsistencies.esp**
 - **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
 - **Nordic Chest Replacer.esp**
+- **Pacifist Options - When it Makes Sense.esp**
 - **Passage of Prayers - Full.esp**
 - **Passive_Healthy_Wildlife PS EDIT.esp**
 - **QL_SevenGracesShrines.esp**
@@ -485,7 +488,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Religions Elaborated.esp**
 - **settledjiub.ESP**
 - **Soul Gems at Ghostgate.esp**
-- **Talos Cult Revised.esp**
+- **Talos Cult Revised.esp**: both Talos Cult Revised mods have the same plugin filename, and in both cases it requiress cleaning.
 - **Ttooth's Missing NPCs - No Nolus.esp**
 - **true corprus.esp**
 
