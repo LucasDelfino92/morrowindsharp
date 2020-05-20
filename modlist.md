@@ -43,7 +43,7 @@ They are listed in their respective categories down below. With that information
 - [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?) by the Project Tamriel Team and the Tamriel Rebuilt Team.
   - Install the **Tamriel Data (HD)** main file if using **Intelligent Textures**. If not, installing **Tamriel_Data (vanilla)**.
 
-This mod requires you to register its .BSA files into your Morrowind.ini.
+This mod requires you to register its .BSA files in your Morrowind.ini.
 
 - Launch Mod Organizer 2.
 - Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
@@ -52,7 +52,7 @@ This mod requires you to register its .BSA files into your Morrowind.ini.
   - Archive 1=Bloodmoon.bsa
   - Archive 2=PT_Data.bsa
   - Archive 3=TR_Data.bsa
-- Click Save to finish editing the Morrowind.ini.
+- Click **Save** to finish editing the Morrowind.ini.
 
 ## USER INTERFACE
 
