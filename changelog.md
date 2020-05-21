@@ -4,7 +4,7 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## Future update
+## May 21st
 
 ### Maintenance
 
