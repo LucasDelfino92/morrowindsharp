@@ -4,15 +4,19 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## Update in progress
+## Future update
 
 ### Maintenance
 
 Mended Morrowind
-- Added a new section: **Steam**
+- Add a new section: **Steam**
+
+## May 20th
+
+### Maintenance
 
 Sigourn's Mod List
-- Added a new section: **Tamriel Rebuilt**
+- Added a new section: **Tamriel_Data**
 - Added a new section: **Quests**
   - Moved **Burial of a Taxman** to this section.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
