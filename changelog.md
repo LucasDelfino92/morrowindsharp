@@ -8,9 +8,6 @@
 
 ### Maintenance
 
-Mended Morrowind
-- Add a new section: **Steam**
-
 Sigourn's Mod List
 - Quests
   - Moved **Ajiras Alchemy Reports** to this section.
@@ -19,6 +16,7 @@ Sigourn's Mod List
   - Moved **FMI - Sane Ordinators** to this section.
   - Moved **Frostmoth Repaired** to this section.
   - Moved **Higher Faction Requirements** to this section.
+  - Moved **Hortator Nerevarine Fix** to this section.
   - Moved **Imperial Silver Armor** to this section.
   - Moved **Legion Uniform Apathy** to this section.
   - Moved **Morag Tong Writ Fix** to this section.
