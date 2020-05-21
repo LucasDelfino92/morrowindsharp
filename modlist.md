@@ -181,7 +181,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
     - **01 MWSE Version**
 - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488) by Leyawynn: makes the Adamantium Shortsword look less stupid.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-  - 
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
