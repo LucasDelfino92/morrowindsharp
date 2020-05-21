@@ -329,21 +329,14 @@ The following mods require additional MGE XE configuration after installation to
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
-- [**Severa Magia DB fix**](https://www.nexusmods.com/morrowind/mods/45647?) by Corsair83: updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary. 
 - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) by Hidronax, Balketh, and Sigourn: randomly swap Vivec's gender whenever you enter his/her palace. There's a chance of 50% Vivec will swap his/her gender every time you visit him/her. Streamlined for installation with Sigourn's Mod List. [**Original mod can be found here.**](https://www.nexusmods.com/morrowind/mods/45201?)
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
     - **01 Optional Head Fire**: if you'd like Vivec's head to be on fire.
     - **02 Optional Concept Art She Vivec Face Replacement**: only if you installed **Concept Art Vivec Face Replacement** earlier.
-- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
-  - Use this version or the Tamriel_Data version seen below.
-- [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin: improves the Talos Cult shrine in the Gnisis legion barracks with stuff from Tamriel_Data and a little extra in an attempt to give a more interesting depiction of the cult. **Requires Tamriel_Data**.
-  - Use this version or the vanilla version seen above.
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
   - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
-  - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
@@ -476,16 +469,23 @@ The following mod should only be installed if you are playing with the official 
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file. Quest changes are beyond the scope of this mod list.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
+- [**Severa Magia DB fix**](https://www.nexusmods.com/morrowind/mods/45647?) by Corsair83: updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
+- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
+  - Use this version or the Tamriel_Data version seen below.
+- [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin: improves the Talos Cult shrine in the Gnisis legion barracks with stuff from Tamriel_Data and a little extra in an attempt to give a more interesting depiction of the cult. **Requires Tamriel_Data**.
+  - Use this version or the vanilla version seen above.
 - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) by Leyawynn: changes the reward for Mephala's Quest from the Ring of Khajiit to the Ebony Blade.
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Gavrilo93: a combination of 12 of Gavrilo93's mods, from the vanilla quest tweaks/roleplaying choices/consequences category. For a detailed list of the mods included, read the description.
   - If you installed **Dubdilla Location Fix** earlier, also install [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file). This patch will include the changes made by Half11 and Gavrilo93 to the quest "A Cure for Vampirism", included in Gavrilo93's quest pack.
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93: provides three different methods to fix the inconsistency concerning the vanilla Redas Tomb quest and the last of the Redas family.
   - Hide/disable **The Last of the Redas Family - Changes Name.ESP** and **The Last of the Redas Family - She Donated.ESP**.
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
+  - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
 
 ## DIALOGUE
 
