@@ -21,8 +21,12 @@ Sigourn's Mod List
   - Moved **Legion Uniform Apathy** to this section.
   - Moved **Morag Tong Writ Fix** to this section.
   - Moved **Religions Elaborated** to this section.
+  - Moved **Talos Cult Revised (with Tamriel_Data)** to this section.
+  - Moved **Talos Cult Revised - G93's Version** to this section.
   - Moved **Settled Jiub** to this section.
+  - Moved **Severa Magia DB Fix** to this section.
   - Moved **Supply Chests Merged** to this section.
+  - Moved **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** to this section.
 
 ### Removals
 
