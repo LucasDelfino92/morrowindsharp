@@ -20,7 +20,7 @@ Last updated: May 21st, 2020. See the [**Changelog**](https://github.com/Sigourn
 
 *Sigourn's Mod List* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
 
-This mod list consists of, roughly, 240 mods and 170 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
+This mod list consists of, roughly, 260 mods and 170 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
 
 Many of these mods are so minor that most people wouldn't even think of installing them. Almost all of them are very well integrated into the game to the point the only clue someone may have they have installed a mod is the very act of doing so, or the existence of an in-game mod configuration menu. Mods that function correctly and without any pesky issues were a priority for this mod list. And above all, mods that do exactly what they say on the tin: there's nothing more annoying than installing a mod that changes so much more than it is advertised.
 
