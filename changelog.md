@@ -23,7 +23,6 @@ Sigourn's Mod List
   - Moved **Legion Uniform Apathy** to this section.
   - Moved **Morag Tong Writ Fix** to this section.
   - Moved **Religions Elaborated** to this section.
-  - Moved **Service Requirements Lore** to this section.
   - Moved **Settled Jiub** to this section.
 
 ### Removals
