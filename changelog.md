@@ -24,6 +24,7 @@ Sigourn's Mod List
   - Moved **Morag Tong Writ Fix** to this section.
   - Moved **Religions Elaborated** to this section.
   - Moved **Settled Jiub** to this section.
+  - Moved **Supply Chests Merged** to this section.
 
 ### Removals
 
