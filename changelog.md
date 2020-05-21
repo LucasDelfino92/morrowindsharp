@@ -11,6 +11,21 @@
 Mended Morrowind
 - Add a new section: **Steam**
 
+Sigourn's Mod List
+- Quests
+  - Moved **Ajiras Alchemy Reports** to this section.
+  - Moved **Clear Your Name** to this section.
+  - Moved **Early Transport to Mournhold** to this section.
+  - Moved **FMI - Sane Ordinators** to this section.
+  - Moved **Frostmoth Repaired** to this section.
+  - Moved **Higher Faction Requirements** to this section.
+  - Moved **Imperial Silver Armor** to this section.
+  - Moved **Legion Uniform Apathy** to this section.
+  - Moved **Morag Tong Writ Fix** to this section.
+  - Moved **Religions Elaborated** to this section.
+  - Moved **Service Requirements Lore** to this section.
+  - Moved **Settled Jiub** to this section.
+
 ## May 20th
 
 ### Maintenance
