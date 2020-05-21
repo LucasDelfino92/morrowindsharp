@@ -26,6 +26,10 @@ Sigourn's Mod List
   - Moved **Service Requirements Lore** to this section.
   - Moved **Settled Jiub** to this section.
 
+### Removals
+
+- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567). Works as advertised. However, the mod locks the Mages Guild's teleportation services to Mages Guild members, and the mod is at serious odds with the game at times. Most importantly, the Mages Guild and House Telvanni monopolize the most important services (Enchanting, Spellmaking, Spells), at which point you are mostly advancing in rank just to get access to Training, allowing you to advance further *even faster* and rendering the entire mod pointless.
+
 ## May 20th
 
 ### Maintenance
