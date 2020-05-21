@@ -9,7 +9,8 @@
 ### Maintenance
 
 Sigourn's Mod List
-- Quests
+- Renamed **Quests** to **Quest and faction tweaks**
+- Quest and faction tweaks
   - Moved **Ajiras Alchemy Reports** to this section.
   - Moved **Clear Your Name** to this section.
   - Moved **Early Transport to Mournhold** to this section.
