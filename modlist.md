@@ -180,7 +180,8 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
     - **00 Core**
     - **01 MWSE Version**
 - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488) by Leyawynn: makes the Adamantium Shortsword look less stupid.
-- [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing. 
+- [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+  - 
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
@@ -531,6 +532,18 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
     - Cell **Solstheim, Bloodskal Barrow**
 
 ### CONFLICT NOTES
+
+**Graphic Herbalism - MWSE and OpenMW Edition** will require in-game configuration to work properly alongside **Immersive Mining**.
+
+- During gameplay, open the main open and click **Mod Config**.
+- The **Mod Configuration** menu will open and you will see a list of mods to the left. Click **Graphic Herbalism**.
+- In the window that has opened, click the **Blacklist** tab.
+- Our goal is to prevent **Graphic Herbalism** from working with ore veins. To do that, double click on every item under the **Objects** list that begins with the following prefixes:
+  - **rock_adam_**
+  - **rock_diamond_**
+  - **rock_ebony_**
+  - **rock_glass_**
+- This will move said items under the **Blacklist** tab. Once you are finished, you can close the menus and play the game normally.
 
 The following plugins will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
