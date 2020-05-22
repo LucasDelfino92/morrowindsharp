@@ -42,7 +42,7 @@ This is, then, what I propose you to do if you skipped over the installation of 
     - **02 Master Index**: if you want the **Master Index** plugin. **Recommended**.
 - [**Adamantium Armor and Area Effect Arrows Integrated**](https://www.mediafire.com/file/bte29ahwa4jllvg/Adamantium_Armor_and_Area_Effect_Arrows_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Adamantium Armor and Area Effect Arrows Integrated**: if you want **Adamantium Armor Integrated** and **Area Effect Arrows Integrated**. **Recommended**.
+    - **00 Adamantium Armor and Area Effect Arrows Integrated**: if you want **Adamantium Armor Integrated** and **Area Effect Arrows Integrated**.
     - **01 Adamantium Armor Integrated**: if you only want **Adamantium Armor Integrated**.
     - **02 Area Effect Arrows Integrated**: if you only want **Area Effect Arrows Integrated**.
 
