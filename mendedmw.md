@@ -234,6 +234,8 @@ The first step is to remove the official plugins from your Data Files folder. No
 
 The second step is to install patched versions of the official plugins.
 
+> Note for Steam users: from what I've heard, the Steam release of Morrowind doesn't include the official plugins. However, the following patch already includes all necessary assets to run the plugins.
+
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM: fixes many of the issues present in Bethesda's official add-ons, and offers merged and compatibility versions of the different plugins.
   - Install the **UMOPP 3.0.4** main file.
   - Install the **Merged and Compatibility Versions** main file. 
