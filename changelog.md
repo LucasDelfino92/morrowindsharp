@@ -14,6 +14,7 @@ Readme
 Mended Morrowind
 - Fixed left-over instructions for Distant Land generation.
 - Updated Distant Land generation instructions with Static Overrides.
+- Added a note for Steam users under **Official Plugins**.
 
 ## May 21st
 
