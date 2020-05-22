@@ -1,3 +1,5 @@
+# SIGOURN'S MOD LIST
+
 ## INDEX
 
 - [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mending-morrowind)
@@ -23,26 +25,7 @@
 
 ## MENDING MORROWIND
 
-The **Mending Morrowind** mod list has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
-
-## OFFICIAL PLUGINS SELECTION
-
-The [**Official Plugins Patched**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins-patched) section of my **Mending Morrowind** list begins with a short paragraph on why you may want to skip installing the official plugins. The long story is this: the official plugins, when patched, still remain poorly integrated for the most part, and feel like amateur quest mods.
-
-However, not all of them are bad. **Bitter Coast Sounds** is a nice plugin that improves the atmosphere of the Bitter Coast. **Master Index** expands on the Propylon Indexes found in Morrowind, adding a quest to find them all and replace them with the more powerful Master Index. Bringing **Adamantium Armor** to Morrowind is not a bad idea, but dumping the armor into a shop is. Same with **Area Effect Arrows** being dumped into a shop in Vivec, and with a Daedric Bow waiting to be looted as well.
-
-This is, then, what I propose you to do if you skipped over the installation of the official plugins in **Mending Morrowind**:
-
-- [**UMOPP v3.0.4 - Bitter Coast Sounds and Master Index**](https://www.mediafire.com/file/9785emgr3ksjd3z/UMOPP_v3.0.4_-_Bitter_Coast_Sounds_and_Master_Index.zip/file) by PikachunoTM: patched versions of **Bitter Coast Sounds** and **Master Index**.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Core**: contains documentation. **Recommended**.
-    - **01 Bitter Coast Sounds**: if you want the **Bitter Coast Sounds** plugin. **Recommended**.
-    - **02 Master Index**: if you want the **Master Index** plugin. **Recommended**.
-- [**Adamantium Armor and Area Effect Arrows Integrated**](https://www.mediafire.com/file/bte29ahwa4jllvg/Adamantium_Armor_and_Area_Effect_Arrows_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Adamantium Armor and Area Effect Arrows Integrated**: if you want **Adamantium Armor Integrated** and **Area Effect Arrows Integrated**.
-    - **01 Adamantium Armor Integrated**: if you only want **Adamantium Armor Integrated**.
-    - **02 Area Effect Arrows Integrated**: if you only want **Area Effect Arrows Integrated**.
+The Mending Morrowind mod list has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
 
 ## TAMRIEL_DATA
 
@@ -407,6 +390,8 @@ The following mods require additional MGE XE configuration after installation to
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120) by The Puma Man and PoodleSandwich: tweak of Puma Man's "Passive Healthy Wildlife", which prevented healthy creatures from attacking the player on sight. Common diseased creatures are more passive now, and cliff racers are always hostile.
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600) by Gavrilo93: adds a Redoran Master Helm into the home of almost every Redoran Councilor.
+- [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
+- [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: edited Unofficial Morrowind Official Plugins Patched merged plugin for compatibility with Necrolesian's Official Plugins Integrated.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius: prevents the player from resting unless they activate a bed.
 - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?) by Yar-Yulme: replaces textual descriptions in seven old Dwemer books from TES3: Tribunal with actual graphics.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
