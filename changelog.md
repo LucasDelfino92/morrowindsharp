@@ -4,6 +4,17 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 22nd
+
+### Maintenance
+
+Readme
+- Fixed broken link for mod order and load order.
+
+Mended Morrowind
+- Fixed left-over instructions for Distant Land generation.
+- Updated Distant Land generation instructions with Static Overrides.
+
 ## May 21st
 
 ### Maintenance
