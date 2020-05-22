@@ -220,7 +220,7 @@ This mod list does not condone the use of using texture replacers for the sake o
 
 ### OFFICIAL PLUGINS PATCHED
 
-Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
+Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) Sadly, most of them are quite bad, and I don't recommend them. Others have very good replacements available for them. It is up to you whether you want to follow my advice and install only *some* of them as seen in this particular section, or if you want to go on ahead and install all of them. Because this is a guide for a patched, complete Morrowind, I will be providing instructions for patching all plugins.
 
 The first step is to remove the official plugins from your Data Files folder. Note that **Tribunal** and **Bloodmoon** are *expansions*, so *don't* make the mistake of removing those. The plugins you should remove are, thus:
 - adamantiumarmor.esp
