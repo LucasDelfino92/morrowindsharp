@@ -1,5 +1,3 @@
-# SIGOURN'S MOD LIST
-
 ## INDEX
 
 - [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mending-morrowind)
