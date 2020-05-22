@@ -116,7 +116,7 @@ Unlike mods, the Morrowind Code Patch requires specific install instructions, an
 5. Right click on Morrowind Code Patch.exe and select **Run as Administrator**.
 6. The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [**this handy Google Sheets document**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
 
-Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder, and you will be done. We can finally move on to the next step, which is actually installing mods through Mod Organizer 2 (or your mod manager of choice).
+Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder, and you will be done.
 
 ## MGE XE
 
