@@ -4,6 +4,14 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 23th
+
+### Maintenance
+
+Sigourn's Mod List
+- Load order
+  - Removed unnecessary load order instructions for **Waterfall Tweaks.esp**. These were a leftover from when I erroneously recommended the Anthology version of No-Frills Open Vivec.
+
 ## May 22nd
 
 ### Maintenance
