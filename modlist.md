@@ -20,6 +20,7 @@
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     - [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
+    - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-_-_game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
