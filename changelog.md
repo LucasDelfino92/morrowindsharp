@@ -44,6 +44,8 @@ Sigourn's Mod List
   - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204). Works as advertised, however, I feel it not only breaks character but it also may add some unnecessary goofyness to what's meant to be a serious moment.
   - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812). Works as advertised, however, I'm not to keen on having such realistic portraits in-game.
   - **Severa Magia DB Fix**: mod hidden from Nexus.
+- Gameplay
+  - **Realistic Repair Add-On**: mod hidden from Nexus.
 
 ## May 23th
 
