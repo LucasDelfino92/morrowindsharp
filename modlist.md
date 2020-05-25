@@ -396,7 +396,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord: overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Hide/disable **Realistic_Repair_Optional.esp**.
-- [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Merlord and Corsair83: currently hidden.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
@@ -525,18 +524,6 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 ### CONFLICT NOTES
 
-**Graphic Herbalism - MWSE and OpenMW Edition** will require in-game configuration to work properly alongside **Immersive Mining**.
-
-- During gameplay, open the main open and click **Mod Config**.
-- The **Mod Configuration** menu will open and you will see a list of mods to the left. Click **Graphic Herbalism**.
-- In the window that has opened, click the **Blacklist** tab.
-- Our goal is to prevent **Graphic Herbalism** from working with ore veins. To do that, double click on every item under the **Objects** list that begins with the following prefixes:
-  - **rock_adam_**
-  - **rock_diamond_**
-  - **rock_ebony_**
-  - **rock_glass_**
-- This will move said items under the **Blacklist** tab. Once you are finished, you can close the menus and play the game normally.
-
 The following plugins will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
@@ -568,6 +555,20 @@ The following assets will conflict with one another. Hide these assets using Mod
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
 
 A detailed list of conflicts present in this mod list with no guided fix [**can be found here**](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md).
+
+### IN-GAME CONFIGURATION
+
+**Graphic Herbalism - MWSE and OpenMW Edition** will require in-game configuration to work properly alongside **Immersive Mining**.
+
+- During gameplay, open the main open and click **Mod Config**.
+- The **Mod Configuration** menu will open and you will see a list of mods to the left. Click **Graphic Herbalism**.
+- In the window that has opened, click the **Blacklist** tab.
+- Our goal is to prevent **Graphic Herbalism** from working with ore veins. To do that, double click on every item under the **Objects** list that begins with the following prefixes:
+  - **rock_adam_**
+  - **rock_diamond_**
+  - **rock_ebony_**
+  - **rock_glass_**
+- This will move said items under the **Blacklist** tab. Once you are finished, you can close the menus and play the game normally.
 
 ### LOAD ORDER
 
