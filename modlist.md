@@ -20,7 +20,7 @@
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     - [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
-    - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-_-_game-configuration)
+    - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
@@ -186,10 +186,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
     - **00 Core**
     - **01 MWSE Version**
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-  - You will need to configure this mod's lighting settings using the in-game **Mod Configuration** menu. I suggest the following settings:
-    - [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
-    - [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
-    - The other two tabs will be automatically adjusted. Leave them be.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
@@ -274,7 +270,6 @@ The following mods require additional MGE XE configuration after installation to
     - **00 Core**
     - **04b Thicker Grass**
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
-  - I recommend opening up the console in-game and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 ## AUDIO
 
@@ -570,6 +565,14 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
   - **rock_ebony_**
   - **rock_glass_**
 - This will move said items under the **Blacklist** tab. Once you are finished, you can close the menus and play the game normally.
+
+**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
+
+- [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
+- [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
+- The other two tabs will be automatically adjusted. Leave them be.
+
+**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 ### LOAD ORDER
 
