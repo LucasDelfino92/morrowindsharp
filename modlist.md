@@ -90,7 +90,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
 - [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
-- [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245) by Corsair83: addresses a handful of issues found in the game's text and lore versus what's presented in in-game items and so on.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
@@ -472,7 +471,6 @@ The following mod should only be installed if you are playing with the official 
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
-- [**Severa Magia DB fix**](https://www.nexusmods.com/morrowind/mods/45647?) by Corsair83: updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
@@ -513,7 +511,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Meteorite Ministry Temple - Higher.esp**
 - **More Redoran Master Helms.esp**
 - **Morrowind Anti-Cheese.ESP**
-- **MW_Inconsistencies.esp**
 - **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
 - **Nordic Chest Replacer.esp**
 - **Pacifist Options - When it Makes Sense.esp**
@@ -552,15 +549,6 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 The following plugins will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-- Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
-    - Ingredient **ingred_scrap_metal_01**
-- Delete the following records from **MW_Inconsistencies.esp** for compatibility with **Diseases Restored.esp**:
-    - Creature **netch_bull**
-    - Creature **netch_bull_ranched**
-    - Creature **netch_betty**
-    - Creature **netch_betty_ranched**
-- Delete the following records from **What is something that can be perceived with one of your senses of life - Something edgy related to death, my brother.esp** for compatibility with **Clean_Severa Magia Fix.esp**:
-    - NPC **severa magia**
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Closed Molag Mar.esp**:
