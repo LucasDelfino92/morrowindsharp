@@ -187,10 +187,14 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
     - **01 MWSE Version**
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
-  - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk: enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional mesh replacer for the vanilla effect. 
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Vanilla Mist Replacer**
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
-  - MO2 will install the mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat: replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Only install the **Pete's Journal and Scroll** optional file. MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 1K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
