@@ -4,6 +4,38 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 25th
+
+### Maintenance
+
+Mending Morrowind
+- Optimization
+  - Removed Project Atlas instructions for Glow in the Dahrk and Glowing Bitter Coast.
+
+Sigourn's Mod List
+- Visuals
+  - Added Project Atlas instructions for Glow in the Dahrk and Glowing Bitter Coast.
+  - Moved **Concept Art Vivec Face Replacer** to this section.
+  - Moved **Creeper the Drummer** to this section.
+  - Moved **She Vivec** to this section.
+  - Moved **Vanilla Friendly Almalexia Replacer** to this section.
+- Cleaning notes
+  - Removed MW_Inconsistencies.esp
+- Conflict notes
+  - Removed instructions pertaining to MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp
+
+### Removals
+
+Sigourn's Mod List
+- Interal logic
+  - **Corsair's MW Inconsistencies**: mod hidden from Nexus.
+- Visuals
+  - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/). Works as advertised, however, it's nowhere near as essential as Improved Nordic Iron Helm Mesh to justify its presence, in my opinion.
+- Overhauls
+  - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204). Works as advertised, however, I feel it not only breaks character but it also may add some unnecessary goofyness to what's meant to be a serious moment.
+  - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812). Works as advertised, however, I'm not to keen on having such realistic portraits in-game.
+  - **Severa Magia DB Fix**: mod hidden from Nexus.
+
 ## May 23th
 
 ### Maintenance
@@ -107,7 +139,7 @@ Sigourn's Mod List
   - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466): one plugin.
   - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953): one plugin.
 
-### Removed
+### Removals
 
 Sigourn's Mod List
 
