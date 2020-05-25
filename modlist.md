@@ -140,8 +140,10 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
+- [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
   - Also install the **kart_facelift_update_0-10-2** update file.
@@ -182,7 +184,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 MWSE Version**
-- [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488) by Leyawynn: makes the Adamantium Shortsword look less stupid.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
   - You will need to configure this mod's lighting settings using the in-game **Mod Configuration** menu. I suggest the following settings:
     - [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
@@ -204,6 +205,11 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - Only install the **Alternative 1** main file.
 - [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
   - Only if you installed **Scum Retexture** earlier.
+- [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) by Hidronax, Balketh, and Sigourn: randomly swap Vivec's gender whenever you enter his/her palace. There's a chance of 50% Vivec will swap his/her gender every time you visit him/her. Streamlined for installation with Sigourn's Mod List. [**Original mod can be found here.**](https://www.nexusmods.com/morrowind/mods/45201?)
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Core**
+    - **01 Optional Head Fire**: if you'd like Vivec's head to be on fire.
+    - **02 Optional Concept Art She Vivec Face Replacement**: only if you installed **Concept Art Vivec Face Replacement** earlier.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
@@ -217,6 +223,8 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) by Matilija: makes the water flowing around the Vivec Temple look better when compared toh MGE's phenomenal 3D water.
+- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
+  - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -302,9 +310,6 @@ The following mods require additional MGE XE configuration after installation to
     - Cell **Cavern of the Incarnate**
   - Save the plugin as **COI.esp**, overwriting the original when asked.
   - This keeps only the armor and clothing modifications on the Failed Incarnates.
-- [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
-- [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
-- [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?) by Digmen: Dagoth Ur will now greet his old pal with a delicious meal.
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
   - Hide/disable **Melchior's Mudcrab Merchant - ReducedGold.ESP**.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
@@ -314,14 +319,6 @@ The following mods require additional MGE XE configuration after installation to
   - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
   - Hide/disable **Passage of Prayers - No Lore.esp**.
-- [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Mark Makovey and aralin: adds a majestic portrait of Crassius Curio to his manor.
-  - Hide/disable **CurioPortrait_Object.esp**.
-  - In TESAME, delete the following records:
-    - Script **Pek_Dracus_SCT**
-    - Topic **my trade**
-    - Info/Responce **I set the table and tidy things up [...]**
-  - Save the plugin as **CurioPortrait_Static.esp**, overwriting the original when asked.
-  - This removes an unnecessary script and a badly implemented dialogue response that wouldn't be limited to Curio Manor.
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
@@ -330,14 +327,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
-- [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) by Hidronax, Balketh, and Sigourn: randomly swap Vivec's gender whenever you enter his/her palace. There's a chance of 50% Vivec will swap his/her gender every time you visit him/her. Streamlined for installation with Sigourn's Mod List. [**Original mod can be found here.**](https://www.nexusmods.com/morrowind/mods/45201?)
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Core**
-    - **01 Optional Head Fire**: if you'd like Vivec's head to be on fire.
-    - **02 Optional Concept Art She Vivec Face Replacement**: only if you installed **Concept Art Vivec Face Replacement** earlier.
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
-- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
-  - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
