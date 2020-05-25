@@ -23,6 +23,15 @@ Sigourn's Mod List
   - Removed MW_Inconsistencies.esp
 - Conflict notes
   - Removed instructions pertaining to MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp
+- Added new section: **In-game configuration**.
+
+### Additions
+
+Sigourn's Mod List
+- User interface
+  - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?)
+- Visuals
+  - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
 
 ### Removals
 
