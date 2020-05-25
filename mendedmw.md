@@ -211,7 +211,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**.
     - **00 Core**
     - **10 Glow in the Darkh Patch - Interior Sunrays**: only if you plan to install [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) later.
-    - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](mw.modhistory.com/download-44-14321) later.
+    - **BC Mushrooms - Normal - Glowing Bitter Coast Patch**: only if you plan to install [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) later.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
 ### EXPANSION IMPLEMENTATION
