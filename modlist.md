@@ -499,7 +499,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Divayth Fyr Puzzle Fixed.ESP**
 - **frostmoth_repaired_v0_31.esp**
 - **Meteorite Ministry Temple - Higher.esp**
-- **More Redoran Master Helms.esp**
 - **Morrowind Anti-Cheese.ESP**
 - **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
 - **Nordic Chest Replacer.esp**
@@ -510,7 +509,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **ReclamationsInHolamayan.esp**
 - **Religions Elaborated.esp**
 - **settledjiub.ESP**
-- **Soul Gems at Ghostgate.esp**
 - **Talos Cult Revised.esp**: both Talos Cult Revised mods have the same plugin filename, and in both cases it requiress cleaning.
 - **Ttooth's Missing NPCs - No Nolus.esp**
 - **true corprus.esp**
