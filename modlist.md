@@ -490,7 +490,6 @@ The following mod should only be installed if you are playing with the official 
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
 - **Always there Spell Breaker.esp**
-- **Blight at the Hairat-Vassamsi Egg Mine.esp**
 - **Bloated Caves.esp**
 - **Brevur of Balmora - Finally Some Good Statue Mod.esp**
 - **Clean Atmospheric Delights.esp**
