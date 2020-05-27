@@ -4,6 +4,14 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 27th
+
+### Maintenance
+
+Sigourn's Mod List
+- Load order
+  - Updated to reflect new plugin names for Gavrilo93's mods.
+
 ## May 25th
 
 ### Maintenance
