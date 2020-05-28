@@ -194,6 +194,7 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Mist Replacer**
+    - **02 Scumpatibility**
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
