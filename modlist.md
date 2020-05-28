@@ -580,18 +580,20 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
 
 ### LOAD ORDER
 
-Load **Intelligent Textures** and **Intelligent Textures - Wood Fix** after **Morrowind Optimization Patch**.
+Load **Intelligent Textures** and **Intelligent Textures - Wood Fix**'s assets after **Morrowind Optimization Patch**'s assets.
 
-Load **Weapon Sheathing** before **Morrowind Optimization Patch**.
+Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s assets.
 
-Load **Glowing Bitter Coast** before **Project Atlas**.
+Load **Glowing Bitter Coast**'s assets before **Project Atlas**' assets.
 
-Load **Glow in the Dahrk** before **Project Atlas**.
+Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
 
-Load **Melchior's Mudcrab Merchant.esp** after **Morrowind Anti-Cheese.esp**.
+Load **Mistify**'s assets after **Scum Retexture**'s assets.
 
-Load **WhiteSuran2_MD_Edition.esp** and **White Suran Ground Textures.esp** before **Clean Atmospheric Delights.esp**.
+Load the **Melchior's Mudcrab Merchant.esp** plugin after the **Morrowind Anti-Cheese.esp** plugin.
 
-Load **Yet Another Guard Diversity - Regular.esp** before **No-Frills Closed Molag Mar.esp**.
+Load the **WhiteSuran2_MD_Edition.esp** and **White Suran Ground Textures.esp** plugins before the **Clean Atmospheric Delights.esp** plugin.
+
+Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec (Vanilla Placement) v1.1.esp** plugins.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
