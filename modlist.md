@@ -143,7 +143,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) by Westly and Sigourn: replaces Vivec's face with one inspired by Bethesda concept art. It has vanilla texture quality.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
 - [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
@@ -176,10 +175,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/disable **Hopesfire Torch.esp.** 
-- [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) by Pherim, tronvillain, and nONatee: increases visual consistency by using the skull from the skeleton instead of the crude vanilla skulls.
-  - This mod is incorrectly packaged. Install the contents of the **Data Files**, **Fixed Skeletons**, and **Vanilla Textures** folders.
-  - Also install the **Skeletons Atlased** optional file.
-    - MO2 will install this mod as a BAIN package. Tick **02 Vanilla Textures** and click **OK**.
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
@@ -209,16 +204,12 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
   - Only install the **Alternative 1** main file.
 - [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
   - Only if you installed **Scum Retexture** earlier.
-- [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) by Hidronax, Balketh, and Sigourn: randomly swap Vivec's gender whenever you enter his/her palace. There's a chance of 50% Vivec will swap his/her gender every time you visit him/her. Streamlined for installation with Sigourn's Mod List. [**Original mod can be found here.**](https://www.nexusmods.com/morrowind/mods/45201?)
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Core**
-    - **01 Optional Head Fire**: if you'd like Vivec's head to be on fire.
-    - **02 Optional Concept Art She Vivec Face Replacement**: only if you installed **Concept Art Vivec Face Replacement** earlier.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277) by R-Zero: makes Bloodmoon Draugrs look a bit more like their Skyrim counterparts by changing their eye glow color from red to light blue.
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) by Saint_Jiub: remodel and retexture of the Ancient Steel Armor set found in Bloodmoon, inspired by the Skyrim Dawnguard DLC.
+  - Also install [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file), which will add new icons by Moranar and will patch the .esp to restore the unused new helm mesh by Saint_Jiub.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
   - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
@@ -226,7 +217,6 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood. Also adds a new Spriggan variant: the Twiggan, a forest spirit which takes on a more masculine form.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
-- [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) by Matilija: makes the water flowing around the Vivec Temple look better when compared toh MGE's phenomenal 3D water.
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
   - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
@@ -330,6 +320,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
+  - 
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
