@@ -4,6 +4,17 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 29th
+
+### Removals
+
+Sigourn's Mod List
+- Visuals
+  - [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048). Works as advertised, however, it's hardly an "improvement".
+  - [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012). Works as advertised, however, I feel it removes the vanilla variety in favor of consistency.
+  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file). Works as advertised, however, it can be distracting and could hardly be called an appropiate implementation.
+  - [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105). Seems to be buggy when using Per Pixel Lighting.
+
 ## May 27th
 
 ### Maintenance
