@@ -6,93 +6,61 @@
 
 ## May 29th
 
-### Additions
-
-Sigourn's Mod List
-- Visuals
-  - [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file): one plugin (replacer).
-- Overhauls
-  - [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file): pluginless.
-
-### Removals
-
-Sigourn's Mod List
-- Visuals
-  - [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048). Works as advertised, however, it's hardly an "improvement".
-  - [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012). Works as advertised, however, I feel it removes the vanilla variety in favor of consistency.
-  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file). Works as advertised, however, it can be distracting and could hardly be called an appropiate implementation.
-  - [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105). Seems to be buggy when using Per Pixel Lighting.
+- **Visuals**
+  - Added [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file).
+  - Removed [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048). Could hardly be considered an improvement over the vanilla Vivec.
+  - Removed [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012). Removes the vanilla variety in favor of consistency.
+  - Removed [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file). Can be too distracting and not very lore-friendly in its implementation.
+  - Removed [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105). Seems to be buggy when using Per Pixel Lighting.
+- **Overhauls**
+  - Added [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file).
 
 ## May 27th
 
-### Maintenance
-
-Sigourn's Mod List
-- Load order
+- **Mod order and load order**
   - Updated to reflect new plugin names for Gavrilo93's mods.
 
 ## May 25th
 
-### Maintenance
-
-Mending Morrowind
-- Optimization
-  - Removed Project Atlas instructions for Glow in the Dahrk and Glowing Bitter Coast.
-
-Sigourn's Mod List
-- Visuals
-  - Added Project Atlas instructions for Glow in the Dahrk and Glowing Bitter Coast.
+- **User interface**
+  - Added [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?).
+- **Internal logic**
+  - Removed **Corsair's MW Inconsistencies**. Mod hidden from Nexus.
+- **Visuals**
+  - Added [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112).
+  - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/). I can hardly justify its presence on the mod list due to its small scope, given that many weapons suffer from this issue.
+  - Moved **Project Atlas** instructions for **Glow in the Dahrk** and **Glowing Bitter Coast** to this section.
   - Moved **Concept Art Vivec Face Replacer** to this section.
   - Moved **Creeper the Drummer** to this section.
   - Moved **She Vivec** to this section.
   - Moved **Vanilla Friendly Almalexia Replacer** to this section.
-- Cleaning notes
+- **Overhauls**
+  - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204). It not only breaks character but it also adds some unnecessary goofyness to what's meant to be a serious moment.
+  - Removed [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812). I'm not to keen on having such realistic portraits in-game.
+  - Removed **Severa Magia DB Fix**. Mod hidden from Nexus.
+- **Gameplay**
+  - Removed **Realistic Repair Add-On**. Mod hidden from Nexus.
+- **Cleaning notes**
   - Removed MW_Inconsistencies.esp
-- Conflict notes
+- **Conflict notes**
   - Removed instructions pertaining to MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp
 - Added new section: **In-game configuration**.
-
-### Additions
-
-Sigourn's Mod List
-- User interface
-  - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?): pluginless.
-- Visuals
-  - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112): one plugin.
-
-### Removals
-
-Sigourn's Mod List
-- Interal logic
-  - **Corsair's MW Inconsistencies**: mod hidden from Nexus.
-- Visuals
-  - [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/). Works as advertised, however, it's nowhere near as essential as Improved Nordic Iron Helm Mesh to justify its presence, in my opinion.
-- Overhauls
-  - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204). Works as advertised, however, I feel it not only breaks character but it also may add some unnecessary goofyness to what's meant to be a serious moment.
-  - [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812). Works as advertised, however, I'm not to keen on having such realistic portraits in-game.
-  - **Severa Magia DB Fix**: mod hidden from Nexus.
-- Gameplay
-  - **Realistic Repair Add-On**: mod hidden from Nexus.
+  - Moved instructions for **Graphic Herbalism - MWSE and OpenMW Edition**, **Let There Be Darkness - Lua Lighting Overhaul**, and **Shattered Stones - An Earthquake Mod** to this section.
 
 ## May 23th
 
-### Maintenance
-
-Sigourn's Mod List
-- Load order
-  - Removed unnecessary load order instructions for **Waterfall Tweaks.esp**. These were a leftover from when I erroneously recommended the Anthology version of No-Frills Open Vivec.
+- **Load order**
+  - Removed unnecessary load order instructions for **Waterfall Tweaks.esp**.
 
 ## May 22nd
 
-### Maintenance
-
-Readme
-- Fixed broken link for mod order and load order.
-
-Mended Morrowind
-- Fixed left-over instructions for Distant Land generation.
-- Updated Distant Land generation instructions with Static Overrides.
-- Added a note for Steam users under **Official Plugins**.
+- **Readme**
+  - Fixed broken link for mod order and load order.
+- **MGE XE**
+  - Fixed left-over instructions for Distant Land generation.
+  - Updated Distant Land generation instructions with Static Overrides.
+- **Mending Morrowind**
+  - Added a note for Steam users under **Official plugins patched**.
 
 ## May 21st
 
