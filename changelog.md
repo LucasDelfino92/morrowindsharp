@@ -30,9 +30,7 @@
   - Added [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112).
   - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/) because I can hardly justify its presence on the mod list due to its small scope, given that many weapons suffer from this issue.
   - Moved **Project Atlas** instructions for **Glow in the Dahrk** and **Glowing Bitter Coast** to this section.
-  - Moved **Concept Art Vivec Face Replacer** to this section.
   - Moved **Creeper the Drummer** to this section.
-  - Moved **She Vivec** to this section.
   - Moved **Vanilla Friendly Almalexia Replacer** to this section.
 - **Overhauls**
   - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) because it not only breaks character but it also adds some unnecessary goofyness to what's meant to be a serious moment.
@@ -79,7 +77,6 @@
   - Moved **Talos Cult Revised (with Tamriel_Data)** to this section.
   - Moved **Talos Cult Revised - G93's Version** to this section.
   - Moved **Settled Jiub** to this section.
-  - Moved **Severa Magia DB Fix** to this section.
   - Moved **Supply Chests Merged** to this section.
   - Moved **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** to this section.
 - **Gameplay**
@@ -104,14 +101,11 @@
   - Added [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
   - Added [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
   - Removed [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?) for visual consistency with vanilla Morrowind.
-  - Moved **Concept Art Vivec Face Replacement** to this section.
-  - **Portrait of Crassius Curio**: provided TESAME instructions.
 - **Gameplay**
   - Added [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?): one plugin.
   - Added [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file): one plugin.
   - Added [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
   - Added [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
-  - Added [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
 - **Game balance**
   - Added [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
   - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Replaced with **Harder Barter**.
@@ -148,8 +142,6 @@
 
 ## May 15th
 
-- **Audio**
-  - **Empty Threats Disabler**: added a note regarding a known issue.
 - **Cleaning notes**
   - **correctUV Ore Replacer 1.0.esp**: clarified cleaning instructions.
 
@@ -159,14 +151,12 @@
   - **Project Atlas**: provided additional installation instructions.
   - **Morrowind Optimization Patch**: provided additional installation instructions.
 - **Visuals**
-  - **Improved Better Skulls**: clarified installation instructions.
   - **Realistic Blood**: provided additional installation instructions.
 - **Gameplay**
   - **Graphic Herbalism - MWSE and OpenMW Edition**: clarified installation instructions.
   - **Lucky Strike - a Critical Hit Mod**: provided additional installation instructions.
 - **Conflict notes**
   - **Graphic Herbalism - MWSE and OpenMW Edition**: added instructions for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**.
-  - **Improved Better Skulls**: added instructions for compatibility with **Creature VFX Restoration**.
 - **Cleaning notes**
   - Added Arrille Inventory Fix.esp
   - Added Religions Elaborated.esp
@@ -179,11 +169,8 @@
 ## May 13th
 
 - **Overhauls**
-  - Moved **Creeper the Drummer** to this section.
   - Moved **Melchior's Mudcrab Merchant** to this section.
-  - Moved **Portrait of Crassius Curio** to this section.
   - Moved **Red Vos** to this section.
-  - Moved **Severa Magia DB fix** to this section.
   - Moved **Talos Cult Revised - G93's Version** to this section.
   - Moved **White Suran 2 - MD Edition** to this section.
   - Moved **Yet Another Guard Diversity** to this section.
@@ -196,11 +183,7 @@
   - Moved **Switchable Scriptures** to this section.
 - **Miscellaneous**
   - Moved to the bottom of the mod order and load order.
-  - Moved **Vodunius Nuccius House Lodgings** to this section.
 - **Conflict notes**
-  - **MW_Inconsistencies.esp**: added TESAME instructions for compatibility with
-    - Morrowind Anti-Cheese.esp
-    - Diseases Restored.esp
   - **Yet Another Guard Diversity - Regular.esp**: added TESAME instructions for compatibility with
     - Morrowind Anti-Cheese.esp
   - **Morrowind Anti-Cheese.esp**: added TESAME instructions for compatibility with
@@ -225,12 +208,9 @@
 - **Visuals**
   - Removed [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) for visual consistency with vanilla Morrowind.
 - **Overhauls**
-  - Removed [**RR Mod Series - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822?) for visual consistency with vanilla Morrowind.
   - Removed [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) for visual consistency with vanilla Morrowind.
 - **Gameplay**
   - Removed [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) as it is no longer needed.
-- **Miscellaneous**
-  - Moved **Burial of a Taxman** to this section.
 
 ## May 11th
 
@@ -247,16 +227,6 @@
   - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335). Replaced with **Early Transport to Mournhold**.
 - **Gameplay**
   - Added [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985).
-- **Game balance**
-  - Moved **Higher Faction Requirements** to this section.
-  - Moved **Marksman Rebalanced** to this section.
-  - Moved **No Rest Without Beds** to this section.
-  - Moved **One of a Kind - Daedric Weapons Armor and Shields** to this section.
-  - Moved **Projectile Enchant Capacity** to this section.
-  - Moved **Purist Friendly Magicka Regen** to this section.
-  - Moved **Realistic Movement Speeds** to this section.
-  - Moved **Service Requirements Lore** to this section.
-  - Moved **Speed and Movement Rebalanced** to this section.
 - **Mod order and load order**
   - Separated mods into sections in mods.txt.
   - Removed leftover mods and plugins from mods.txt and loadorder.txt.
@@ -360,7 +330,7 @@
 - **Visuals**
   - Added [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572).
 - **Gameplay**
-  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated**, **Ghostgate Fortress Temple Marker**, and **Temples with Shrines**.
+  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated** and **Temples with Shrines**.
   - Added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843).
   - Added [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535).
 
@@ -376,11 +346,6 @@
 - **Gameplay**
   - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) because it doesn't address a perceived flaw in the game's equipment selection, and thus has no place in this mod list.
   - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) because it makes Umbra stand out too much from the vanilla game.
-
-## April 18th
-
-- **Overhauls**
-  - Added [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?).
 
 ## April 14th
 
@@ -401,5 +366,3 @@
 - **Gameplay**
   - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599).
   - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Replaced with **Graphic Herbalism MWSE and OpenMW Edition**.
-- **Game balance**
-  - Added [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787).
