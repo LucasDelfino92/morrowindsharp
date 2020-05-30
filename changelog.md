@@ -482,60 +482,50 @@ Sigourn's Mod List
 
 ## April 21st
 
-### Additions
-
-- Visuals
-  - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572): one plugin.
-- Gameplay
-  - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843): one plugin.
-  - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535): one plugin.
-  
-### Removals
-
-- Gameplay
-  - [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Works as advertised. Replaced with Religions Elaborated, Ghostgate Fortress Temple Marker, and Temples with Shrines.
+- **Visuals**
+  - Added [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572).
+- **Gameplay**
+  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated**, **Ghostgate Fortress Temple Marker**, and **Temples with Shrines**.
+  - Added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843).
+  - Added [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535).
 
 ## April 19th
 
-### Removals
-
-- Internal Logic
-  - [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187). The mod has been hidden from Nexus.
-  - [**Healers**](https://www.nexusmods.com/morrowind/mods/47752). Works as advertised. Replaced with Religions Elaborated.
-- Visuals
-  - [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291). Works as advertised. The lighting changes are not configurable and can be too extreme at times.
-  - [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862). Works as advertised. However, the acknowledged limitations makes me remove it.
-  - [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124). Works as advertised. However, the effect can be very hard to notice if you are not looking.
-  - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068?). Works as advertised.
-- Gameplay
-  - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275). Works as advertised.
-- Equipment
-  - [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783). Works as advertised. However, the mod doesn't address a perceived flaw in the game's equipment roster.
+- **Internal Logic**
+  - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187). The mod has been hidden from Nexus.
+  - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752). Replaced with **Religions Elaborated**.
+- **Visuals**
+  - Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291). The lighting changes are not configurable and can be too extreme at times.
+  - Removed [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862). The acknowledged limitations makes me remove it.
+  - Removed [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124). The effect can be very hard to notice if you are not looking.
+- **Gameplay**
+  - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783). The mod doesn't address a perceived flaw in the game's equipment selection, and thus has no place in this mod list.
+  - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275). Stands out too much from the vanilla game.
 
 ## April 18th
 
-- Overhauls
+- **Overhauls**
   - Added [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?).
 
 ## April 14th
 
-- Content Restoration
-  - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/). This fix will be included in the next Patch for Purists update.
-- Gameplay
+- **Content restoration**
+  - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/). This fix will be included in the next **Patch for Purists** update.
+- **Gameplay**
   - Added [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845).
   - Added [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765).
 
 ## April 13th
 
-- Content Restoration
+- **Content restoration**
   - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Not restored content, but reimplemented content.
-- Visuals
+- **Visuals**
   - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Personal preference.
-- Miscellaneous
+- **Miscellaneous**
   - Added [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?).
-- Gameplay
+- **Gameplay**
   - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599).
-  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Replaced with Graphic Herbalism MWSE and OpenMW Edition.
-- Balance
+  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Replaced with **Graphic Herbalism MWSE and OpenMW Edition**.
+- **Game balance**
   - Added [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787).
 
