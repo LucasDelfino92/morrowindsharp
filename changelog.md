@@ -342,92 +342,64 @@ Sigourn's Mod List
 
 ## May 9th
 
-### Additions
-
-- Gameplay
-  - [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024): one plugin.
-  - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857): one plugin.
-  - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959): pluginless.
-  - [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?): one plugin.
-- Balance
-  - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/): one plugin.
-
-### Removals
-
-- Internal Logic
-  - [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?). Works as advertised. Replaced with Urnest Loot.
-- Visuals
-  - [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165). Works as advertised. Removed for performance reasons as well as visual glitches regarding water reflections.
-  - [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (**Visuals**). Works as advertised. Removed for compatibility with Creature VFX Restoration.
-- Gameplay
-  - [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279). Works as advertised. Removed for compatibility wtih Lock Bashing.
+- **Internal logic**
+  - Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?). Replaced with **Urnest Loot**.
+- **Visuals**
+  - Removed [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165). Removed for performance reasons as well as visual glitches regarding water reflections.
+  - Removed [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (**Visuals**). Removed for compatibility with **Creature VFX Restoration**.
+- **Gameplay**
+  - Added [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024).
+  - Added [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857).
+  - Added [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959).
+  - Added [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?).
+  - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279). Removed for compatibility wtih **Lock Bashing**.
+- **Game balance**
+  - Added [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/).
 
 ## May 8th
 
-### Additions
-
-- Overhauls
-  - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190): one plugin.
+- **Overhauls**
+  - Added [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190).
 
 ## May 7th
 
-### Removals
-
-- User Interface
-  - [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248). Works as advertised. However, this mod clutters the world map and the renamed cells can spoil the exploration experience.
+- **User Interface**
+  - Removed [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248). Clutters the world map and the renamed cells can spoil the exploration experience.
 
 ## May 4th
 
-### Maintenance
-
-- Mending Morrowind
+- **Mending Morrowind**
   - **Intelligent Textures**: updated installation instructions.
 
 ## May 1st
 
-### Additions
-
-- Visuals
-  - [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/): one plugin.
+- **Visuals**
+  - Added [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/).
 
 ## April 30th
 
-### Additions
-
-- Gameplay
-  - [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file): one plugin, replacer.
+- **Gameplay**
+  - Added [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file).
 
 ## April 29th
 
-### Maintenance
-
-- Mending Morrowind
+- **Mending Morrowind**
   - Simplified installation instructions for the official plugins.
-- Tools
+- **Tools**
   - Expanded plugin cleaning instructions.
-- Visuals
+- **Visuals**
   - **Facelift**: updated installation instructions.
-- Gameplay
+- **Gameplay**
+  - Added [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097).
+  - Added [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712).
   - Moved **Adamantium Armor Integrated** to this section.
   - Moved **Area Effects Arrows Integrated** to this section.
 
-### Additions
-
-- Gameplay
-  - [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097): one plugin.
-  - [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712): one plugin.
-
 ## April 28th
 
-### Additions
-
-- Visuals
-  - [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?): pluginless.
-
-### Removals
-
-- Visuals
-  - [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Works as advertised. Replaced with Vanilla Friendly Scum Texture.
+- **Visuals**
+  - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Replaced with **Vanilla Friendly Scum Texture**.
+  - Added [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?).
 
 ## April 27th
 
