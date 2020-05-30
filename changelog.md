@@ -64,8 +64,7 @@
 
 ## May 21st
 
-- Renamed **Quests** to **Quest and faction tweaks**
-- Quest and faction tweaks
+- Renamed **Quests** to **Quest and faction tweaks**.
   - Moved **Ajiras Alchemy Reports** to this section.
   - Moved **Clear Your Name** to this section.
   - Moved **Early Transport to Mournhold** to this section.
@@ -83,128 +82,103 @@
   - Moved **Severa Magia DB Fix** to this section.
   - Moved **Supply Chests Merged** to this section.
   - Moved **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** to this section.
-
-- Removed [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567). Works as advertised. However, the mod locks the Mages Guild's teleportation services to Mages Guild members, and the mod is at serious odds with the game at times. Most importantly, the Mages Guild and House Telvanni monopolize the most important services (Enchanting, Spellmaking, Spells), at which point you are mostly advancing in rank just to get access to Training, allowing you to advance further *even faster* and rendering the entire mod pointless.
+- **Gameplay**
+  - Removed [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) as the mod is at serious odds with the game at times.
 
 ## May 20th
 
-### Maintenance
-
-Sigourn's Mod List
 - Added a new section: **Tamriel_Data**
 - Added a new section: **Quests**
   - Moved **Burial of a Taxman** to this section.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
-- Overhauls
+- **Tamriel_Data**
+  - Added [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?).
+- **User Interface**
+  - Added [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): pluginless.
+- **Visuals**
+  - Added [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/): pluginless.
+  - Added [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
+- **Audio**
+  - Removed [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) because of a known glitch.
+- **Overhauls**
+  - Added [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
+  - Added [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
+  - Removed [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?) for visual consistency with vanilla Morrowind.
   - Moved **Concept Art Vivec Face Replacement** to this section.
   - **Portrait of Crassius Curio**: provided TESAME instructions.
-- Cleaning notes
+- **Gameplay**
+  - Added [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?): one plugin.
+  - Added [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file): one plugin.
+  - Added [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
+  - Added [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
+  - Added [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
+- **Game balance**
+  - Added [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
+  - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Replaced with **Harder Barter**.
+- **Quests**
+  - Added [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
+  - Added [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589): one plugin.
+  - Added [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752): one plugin.
+  - Added [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
+  - Added [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
+  - Added [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961): one plugin.
+  - Added [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977): one plugin.
+  - Added [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
+  - Added [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
+  - Added [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466): one plugin.
+  - Added [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953): one plugin.
+- **Cleaning notes**
   - Removed Arrille Inventory Fix.ESP
   - Added Always there Spell Breaker.ESP
   - Added Blight at the Hairat-Vassamsi Egg Mine.ESP
   - Added Pacifist Options - When it Makes Sense.ESP
   - Added Talos Cult Revised.esp (with Tamriel_Data version)
 
-### Added
-
-Sigourn's Mod List
-- Tamriel Rebuilt
-  - [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?): one plugin.
-- User Interface
-  - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): pluginless.
-- Visuals
-  - [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/): pluginless.
-  - [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/): pluginless.
-- Overhauls
-  - [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file): one plugin.
-  - [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577): one plugin, replacer.
-  - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068): pluginless.
-- Gameplay
-  - [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?): one plugin.
-  - [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file): one plugin.
-  - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041): pluginless.
-  - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673): pluginless.
-  - [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461): one plugin.
-- Game Balance
-  - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188): pluginless.
-- Quests
-  - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?): one plugin.
-  - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589): one plugin.
-  - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752): one plugin.
-  - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870): one plugin.
-  - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671): one plugin.
-  - [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961): one plugin.
-  - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977): one plugin.
-  - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file): one plugin.
-  - [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?): one plugin.
-  - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466): one plugin.
-  - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953): one plugin.
-
-### Removals
-
-Sigourn's Mod List
-
-- Audio
-  - [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671). Works as advertised. However, the mod's known glitch (advertised beforehand) makes me remove it.
-- Overhauls
-  - [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?). Works as advertised. Removed for visual consistency with vanilla Morrowind.
-- Game Balance
-  - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Works as advertised. However, it isn't enough to prevent the massive accumulation of cash, and sadly it doesn't solve the problem of gold exploits either.
-    - To uninstall this mod, use the Mod Configuration menu found in-game and toggle off the mod's features (Upgrade Trainer NPC Skills; Upgrade Merchant NPC Skills; Tweak also creature prices). Then, save the game, exit, and uninstall the mod.
-
 ## May 17th
 
-### Maintenance
-
-- Changelog
+- **Changelog**
   - Reformatted.
   - Removed redundant entries.
-- Mended Morrowind
+- **Before we begin**
   - Added link to the Morrowind Game of the Year Edition map.
-- Tools
+- **Tools**
   - Added a new section: **Synchronizing mod masters**
   - Added a new section: **Save updating**
   - Modified Save Repairing instructions.
 
 ## May 15th
 
-### Maintenance
-
-- Audio
+- **Audio**
   - **Empty Threats Disabler**: added a note regarding a known issue.
-- Cleaning notes
+- **Cleaning notes**
   - **correctUV Ore Replacer 1.0.esp**: clarified cleaning instructions.
 
 ## May 14th
 
-### Maintenance
-
-- Mending Morrowind
+- **Optimization**
   - **Project Atlas**: provided additional installation instructions.
   - **Morrowind Optimization Patch**: provided additional installation instructions.
-- Visuals
+- **Visuals**
   - **Improved Better Skulls**: clarified installation instructions.
   - **Realistic Blood**: provided additional installation instructions.
-- Gameplay
+- **Gameplay**
   - **Graphic Herbalism - MWSE and OpenMW Edition**: clarified installation instructions.
   - **Lucky Strike - a Critical Hit Mod**: provided additional installation instructions.
-- Conflict notes
+- **Conflict notes**
   - **Graphic Herbalism - MWSE and OpenMW Edition**: added instructions for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**.
   - **Improved Better Skulls**: added instructions for compatibility with **Creature VFX Restoration**.
-- Cleaning notes
+- **Cleaning notes**
   - Added Arrille Inventory Fix.esp
   - Added Religions Elaborated.esp
   - Added ReclamationsInHolamayan.esp
   - Added Ttooth's Missing NPCs - No Nolus.esp
-- Mod order and load order
+- **Load order**
   - Added **Reclamations in Holamayan**.
-  - Updated **Melchior's Mudcrab Merchant**.
+  - Updated **Melchior's Mudcrab Merchant**'s load order instructions.
 
 ## May 13th
 
-### Maintenance
-
-- Overhauls
+- **Overhauls**
   - Moved **Creeper the Drummer** to this section.
   - Moved **Melchior's Mudcrab Merchant** to this section.
   - Moved **Portrait of Crassius Curio** to this section.
@@ -213,17 +187,17 @@ Sigourn's Mod List
   - Moved **Talos Cult Revised - G93's Version** to this section.
   - Moved **White Suran 2 - MD Edition** to this section.
   - Moved **Yet Another Guard Diversity** to this section.
-- Gameplay
+- **Gameplay**
   - Moved **Book Pickup** to this section.
   - Moved **Fix those bastard rope fences** to this section.
   - Moved **Lower First Person Sneak Mode** to this section.
   - Moved **MWSE Character Creation Name Generator** to this section.
   - Moved **Plain Paper Fix** to this section.
   - Moved **Switchable Scriptures** to this section.
-- Miscellaneous
+- **Miscellaneous**
   - Moved to the bottom of the mod order and load order.
   - Moved **Vodunius Nuccius House Lodgings** to this section.
-- Conflict notes
+- **Conflict notes**
   - **MW_Inconsistencies.esp**: added TESAME instructions for compatibility with
     - Morrowind Anti-Cheese.esp
     - Diseases Restored.esp
@@ -234,7 +208,7 @@ Sigourn's Mod List
     - No-Frills Open Vivec (Vanilla Placement) v1.1.esp
     - Wolverine Hall Overhaul.esp
     - tribunal rebalance.esp
-- Load order
+- **Load order**
   - Added instructions for **Melchior's Mudcrab Merchant.esp**.
   - Added instructions for **WhiteSuran2_MD_Edition.esp**.
   - Added instructions for **White Suran Ground Textures.esp**.
