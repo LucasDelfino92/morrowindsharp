@@ -302,21 +302,20 @@ Sigourn's Mod List
 
 ## May 11th
 
-### Maintenance
-
 - Minor formatting tweaks to all pages.
-- Mending Morrowind
+- **Mending Morrowind**
   - Added Index.
   - **Intelligent Textures**: clarified installation instructions.
 
 ## May 10th
 
-### Maintenance
-
-- Tools
+- **Tools**
   - Clarified and improved cleaning instructions.
-- Game Balance
-  - Renamed from Balance.
+- **Internal logic**
+  - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335). Replaced with **Early Transport to Mournhold**.
+- **Gameplay**
+  - Added [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985).
+- **Game balance**
   - Moved **Higher Faction Requirements** to this section.
   - Moved **Marksman Rebalanced** to this section.
   - Moved **No Rest Without Beds** to this section.
@@ -326,19 +325,9 @@ Sigourn's Mod List
   - Moved **Realistic Movement Speeds** to this section.
   - Moved **Service Requirements Lore** to this section.
   - Moved **Speed and Movement Rebalanced** to this section.
-- Mod order and load order
+- **Mod order and load order**
   - Separated mods into sections in mods.txt.
   - Removed leftover mods and plugins from mods.txt and loadorder.txt.
-
-### Additions
-
-- Gameplay
-  - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985): one plugin.
-  
-### Removals
-
-- Internal Logic
-  - [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335). Works as advertised. Replaced with **Early Transport to Mournhold**.
 
 ## May 9th
 
