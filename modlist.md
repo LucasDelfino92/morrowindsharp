@@ -161,6 +161,8 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
     - **00 Core**
     - **01 Vanilla Mist Replacer**
     - **02 Scumpatibility**
+- [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros: improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+  - Only install the **Mist Retexture** main file.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
@@ -274,6 +276,7 @@ The following mods require additional MGE XE configuration after installation to
     - Cell **Cavern of the Incarnate**
   - Save the plugin as **COI.esp**, overwriting the original when asked.
   - This keeps only the armor and clothing modifications on the Failed Incarnates.
+- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room. 
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
   - Hide/disable **Melchior's Mudcrab Merchant - ReducedGold.ESP**.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
@@ -404,6 +407,8 @@ The following mod should only be installed if you are playing with the official 
 ## QUEST AND FACTION TWEAKS
 
 - [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio: each report, when read, will give you one point of Alchemy skill.
+- [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550) by Merlord and Danae: Galbedir will now hide Ajira's Alchemy Reports in different locations of the guild, every time. There are 20 new locations, all within the Mages Guild of Balmora.
+  - This mod is incorrectly packaged. Set **00- Main** as the proper **Data** directory in MO2.
 - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn: Spell Breaker will always be in Bthuand, even if you haven't begun the quest to get it yet.
 - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93: adds a small quest allowing you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
