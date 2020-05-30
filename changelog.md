@@ -25,25 +25,25 @@
 - **User interface**
   - Added [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?).
 - **Internal logic**
-  - Removed **Corsair's MW Inconsistencies** because it was hidden from Nexus.
+  - Removed **Corsair's MW Inconsistencies** because it has been hidden from Nexus.
 - **Visuals**
   - Added [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112).
-  - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/). I can hardly justify its presence on the mod list due to its small scope, given that many weapons suffer from this issue.
+  - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/) because I can hardly justify its presence on the mod list due to its small scope, given that many weapons suffer from this issue.
   - Moved **Project Atlas** instructions for **Glow in the Dahrk** and **Glowing Bitter Coast** to this section.
   - Moved **Concept Art Vivec Face Replacer** to this section.
   - Moved **Creeper the Drummer** to this section.
   - Moved **She Vivec** to this section.
   - Moved **Vanilla Friendly Almalexia Replacer** to this section.
 - **Overhauls**
-  - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204). It not only breaks character but it also adds some unnecessary goofyness to what's meant to be a serious moment.
-  - Removed [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812). I'm not to keen on having such realistic portraits in-game.
-  - Removed **Severa Magia DB Fix**. Mod hidden from Nexus.
+  - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) because it not only breaks character but it also adds some unnecessary goofyness to what's meant to be a serious moment.
+  - Removed [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) because I'm not to keen on having such realistic portraits in-game.
+  - Removed **Severa Magia DB Fix** because it has been hidden from Nexus.
 - **Gameplay**
-  - Removed **Realistic Repair Add-On**. Mod hidden from Nexus.
+  - Removed **Realistic Repair Add-On** because it has been hidden from Nexus.
 - **Cleaning notes**
-  - Removed MW_Inconsistencies.esp
+  - Removed MW_Inconsistencies.esp.
 - **Conflict notes**
-  - Removed instructions pertaining to MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp
+  - Removed instructions for MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp.
 - Added new section: **In-game configuration**.
   - Moved instructions for **Graphic Herbalism - MWSE and OpenMW Edition**, **Let There Be Darkness - Lua Lighting Overhaul**, and **Shattered Stones - An Earthquake Mod** to this section.
 
@@ -64,9 +64,6 @@
 
 ## May 21st
 
-### Maintenance
-
-Sigourn's Mod List
 - Renamed **Quests** to **Quest and faction tweaks**
 - Quest and faction tweaks
   - Moved **Ajiras Alchemy Reports** to this section.
@@ -87,9 +84,7 @@ Sigourn's Mod List
   - Moved **Supply Chests Merged** to this section.
   - Moved **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** to this section.
 
-### Removals
-
-- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567). Works as advertised. However, the mod locks the Mages Guild's teleportation services to Mages Guild members, and the mod is at serious odds with the game at times. Most importantly, the Mages Guild and House Telvanni monopolize the most important services (Enchanting, Spellmaking, Spells), at which point you are mostly advancing in rank just to get access to Training, allowing you to advance further *even faster* and rendering the entire mod pointless.
+- Removed [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567). Works as advertised. However, the mod locks the Mages Guild's teleportation services to Mages Guild members, and the mod is at serious odds with the game at times. Most importantly, the Mages Guild and House Telvanni monopolize the most important services (Enchanting, Spellmaking, Spells), at which point you are mostly advancing in rank just to get access to Training, allowing you to advance further *even faster* and rendering the entire mod pointless.
 
 ## May 20th
 
