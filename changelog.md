@@ -4,6 +4,11 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## May 30th
+
+- **Gameplay**
+  - Added [**Area Effect Arrows Integrated + UMOPP v3.0.4 Patch**](https://www.mediafire.com/file/2m6ckellmgskr9l/Area_Effect_Arrows_Integrated_+_UMOPP_v3.0.4_Patch.zip/file).
+
 ## May 29th
 
 - **Visuals**
