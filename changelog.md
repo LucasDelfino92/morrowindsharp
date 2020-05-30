@@ -270,8 +270,8 @@
 
 ## April 29th
 
-- **Mending Morrowind**
-  - Simplified installation instructions for the official plugins.
+- **Official plugins patched**
+  - Simplified installation instructions.
 - **Tools**
   - Expanded plugin cleaning instructions.
 - **Visuals**
