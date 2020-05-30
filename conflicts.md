@@ -18,11 +18,6 @@ For the sake of simplicity, conflicts with Patch for Purists will be ignored. Th
 - Dialog Topic
   - latest rumours: **PNAM - Previous info ID** fix, and **Conditions** fixes, are overwritten by Balmora Rumours Fix.esp.
 
-**Redaynia Restored.esp**
-- Dialog Topic
-  - Greeting 9:
-    - **NNAM - Next info ID** is overwritten by Greetings for No Lore.esp
-
 **Yet Another Guard Diversity - Regular.esp**
 - Cell
   - Molag Mar < 13, -8>: guard deleted by No-Frills Closed Molag Mar.esp.
