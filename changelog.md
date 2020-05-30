@@ -17,7 +17,7 @@
 
 ## May 27th
 
-- **Mod order and load order**
+- **Load order**
   - Updated to reflect new plugin names for Gavrilo93's mods.
 
 ## May 25th
