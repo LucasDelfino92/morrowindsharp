@@ -431,54 +431,36 @@ Sigourn's Mod List
 
 ## April 27th
 
-### Maintenance
-
-- Content Restoration
+- **Content restoration**
+  - Added [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767).
   - Moved **Sound Spell Sound Effect** to this section.
-  
-### Additions
-
-- Content Restoration
-  - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767): one plugin.
-- Internal Logic
-  - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/): one plugin.
-- Visuals
-  - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?): pluginless.
-- Miscellaneous
-  - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577): one plugin.
-- Gameplay
-  - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890): pluginless.
-  - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file): one plugin.
-- Balance
-  - [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636): one plugin.
-
-### Removals
-
-- Visuals
-  - [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420). Works as advertised. However, the smaller size of the rats makes it more annoying to fight against them.
+- **Internal logic**
+  - Added [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/).
+- **Visuals**
+  - Added [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?).
+  - Removed [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420). The smaller size of the rats makes it more annoying to fight against them.
+- **Miscellaneous**
+  - Added [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577).
+- **Gameplay**
+  - Added [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890).
+  - Added [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file).
+- **Game balance**
+  - Added [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636).
 
 ## April 25th
 
-### Maintenance
-
-- Merged **Equipment** into the **Gameplay** section.
-- Mod order and load order
+- **Game balance**
+  - Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521). Black-Heart Blight can prove devastating to characters, and the mod also uses a non-vanilla based formula that inflates your HP too much.
+- **Mod order and load order**
   - Fixed **No-Frills Open Vivec**'s information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin. 
-
-### Removals
-
-- Balance
-  - [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521). Works as advertised. However, Black-Heart Blight can prove devastating to characters, and the mod also uses a non-vanilla based formula that inflates your HP too much.
 
 ## April 24th
 
-### Additions
-
-- Mending Morrowind
+- **Mending Morrowind**
   - Added MGE XE shaders and shader chain instructions.
-- Visuals
-  - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816): pluginless.
-  - [**Weather Adjuster - Sigourn's Mod List json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file): pluginless.
+- **Visuals**
+  - Added [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816).
+  - Added [**Weather Adjuster - Sigourn's Mod List json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file).
 
 ## April 21st
 
@@ -491,7 +473,7 @@ Sigourn's Mod List
 
 ## April 19th
 
-- **Internal Logic**
+- **Internal logic**
   - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187). The mod has been hidden from Nexus.
   - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752). Replaced with **Religions Elaborated**.
 - **Visuals**
