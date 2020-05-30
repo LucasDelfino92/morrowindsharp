@@ -534,20 +534,15 @@ Sigourn's Mod List
 
 ## April 13th
 
-### Additions
-
-- Miscellaneous
-  - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?): one plugin.
-- Gameplay
-  - [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599): one plugin, optional.
-- Balance
-  - [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787): pluginless.
-
-### Removals
-
 - Content Restoration
-  - [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
+  - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
 - Visuals
-  - [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
+  - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
+- Miscellaneous
+  - Added [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?): one plugin.
 - Gameplay
-  - [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
+  - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599): one plugin, optional.
+  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
+- Balance
+  - Added [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787): pluginless.
+
