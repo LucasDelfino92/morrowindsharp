@@ -214,7 +214,7 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
   - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
-- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood. Also adds a new Spriggan variant: the Twiggan, a forest spirit which takes on a more masculine form.
+- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
