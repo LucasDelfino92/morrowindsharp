@@ -355,8 +355,8 @@ Sigourn's Mod List
 ## April 28th
 
 - **Visuals**
-  - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Replaced with **Vanilla Friendly Scum Texture**.
   - Added [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?).
+  - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Replaced with **Vanilla Friendly Scum Texture**.
 
 ## April 27th
 
