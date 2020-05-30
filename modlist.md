@@ -149,7 +149,7 @@ This mod requires you to register its .BSA files in your Morrowind.ini.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
   - Also install the **kart_facelift_update_0-10-2** update file.
-  - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
+  - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures, and if you are not using it, you want consistency with the vanilla textures.
 - [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) by Leyawynn: removes the guard on the Fang of Haynekhtnamet to make it look more like a fang.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
 - [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich: makes the Package for Caius Cosades an actual package.
