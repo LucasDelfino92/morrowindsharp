@@ -7,9 +7,14 @@
 ## May 30th
 
 - Removed **Tamriel_Data** section.
+- **Visuals**
+  - Added [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322).
+- **Overhauls**
+  - Added [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93.
 - **Gameplay**
   - Added [**Area Effect Arrows Integrated + UMOPP v3.0.4 Patch**](https://www.mediafire.com/file/2m6ckellmgskr9l/Area_Effect_Arrows_Integrated_+_UMOPP_v3.0.4_Patch.zip/file).
 - **Quest and faction tweaks**
+  - Added [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550).
   - Removed [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) because the changes compared to the non-Tamriel_Data version are minimal.
   - Removed [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) because the reward is vastly overpowered.
 
