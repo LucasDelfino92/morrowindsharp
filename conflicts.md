@@ -13,8 +13,6 @@ For the sake of simplicity, conflicts with Patch for Purists will be ignored. Th
 ### PLUGIN CONFLICTS
 
 **Unofficial Morrowind Official Plugins Patched.esp**
-- Container
-  - de_p_chest_02_aryne: Domina Armor is overwritten by Area Effect Arrows Integrated.esp projectiles.
 - Dialog Topic
   - latest rumours: **PNAM - Previous info ID** fix, and **Conditions** fixes, are overwritten by Balmora Rumours Fix.esp.
 
