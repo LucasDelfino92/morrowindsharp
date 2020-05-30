@@ -28,35 +28,6 @@
 
 The Mending Morrowind mod list has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
 
-## TAMRIEL_DATA
-
-Before we begin, it's time I address the elephant in the room. And quite a big elephant it is. [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145) is the most famous Morrowind mod, for good reason. It aims to complete the province of Morrowind, as the game only shipped with the island of Vvardenfell. It's been on the making for two decades already. And it's also not featured in this mod list.
-
-Yes, you read that right. It is not featured in this mod list. I have a few personal reasons as to why I don't use Tamriel Rebuilt, but the reason it is not *here* is that it simply requires compatibility patches I'm not willing to hunt for, and I'm also not about to trim down this mod list to mods that are 100% compatible with Tamriel Rebuilt. This doesn't mean following this mod list will make your game incompatible with Tamriel Rebuilt. It's actually very compatible. Just don't expect this mod list's features to carry over into it.
-
-Should you decide to play with Tamriel Rebuilt, you are on your own. Good luck to you. But there is one thing about Tamriel Rebuilt you should consider, and that is **Tamriel_Data**. Tamriel_Data is first and foremost an asset repository. It contains meshes, textures, books, and region data that can be used by other mods.
-
-At the moment there are only *two* mods featured in this mod list that rely on the installation of **Tamriel_Data**. Those are:
-
-- [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin
-- [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) by Leyawynn
-
-They are listed in their respective categories down below. With that information in mind, I leave up to you (like the rest of this mod list) the decision to install Tamriel_Data or not. Bear in mind that if you *do* decide to install **Tamriel Rebuilt**, you will be required to install **Tamriel_Data** either way.
-
-- [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537/?) by the Project Tamriel Team and the Tamriel Rebuilt Team.
-  - Install the **Tamriel Data (HD)** main file if using **Intelligent Textures**. If not, installing **Tamriel_Data (vanilla)**.
-
-This mod requires you to register its .BSA files in your Morrowind.ini.
-
-- Launch Mod Organizer 2.
-- Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
-- On the morrowind.ini that just opened, use CTRL+F to find **[Archives]**. Edit this section to read like so:
-  - Archive 0=Tribunal.bsa
-  - Archive 1=Bloodmoon.bsa
-  - Archive 2=PT_Data.bsa
-  - Archive 3=TR_Data.bsa
-- Click **Save** to finish editing the Morrowind.ini.
-
 ## USER INTERFACE
 
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
@@ -461,10 +432,6 @@ The following mod should only be installed if you are playing with the official 
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
-  - Use this version or the Tamriel_Data version seen below.
-- [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin: improves the Talos Cult shrine in the Gnisis legion barracks with stuff from Tamriel_Data and a little extra in an attempt to give a more interesting depiction of the cult. **Requires Tamriel_Data**.
-  - Use this version or the vanilla version seen above.
-- [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) by Leyawynn: changes the reward for Mephala's Quest from the Ring of Khajiit to the Ebony Blade.
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Gavrilo93: a combination of 12 of Gavrilo93's mods, from the vanilla quest tweaks/roleplaying choices/consequences category. For a detailed list of the mods included, read the description.
   - If you installed **Dubdilla Location Fix** earlier, also install [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file). This patch will include the changes made by Half11 and Gavrilo93 to the quest "A Cure for Vampirism", included in Gavrilo93's quest pack.
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93: provides three different methods to fix the inconsistency concerning the vanilla Redas Tomb quest and the last of the Redas family.
