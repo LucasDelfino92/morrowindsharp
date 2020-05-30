@@ -14,7 +14,7 @@ For the sake of simplicity, conflicts with Patch for Purists will be ignored. Th
 
 **Unofficial Morrowind Official Plugins Patched.esp**
 - Dialog Topic
-  - latest rumours: **PNAM - Previous info ID** fix, and **Conditions** fixes, are overwritten by Balmora Rumours Fix.esp.
+  - latest rumours: two "latest rumors" entries' **Conditions** fixes are overwritten by Balmora Rumours Fix.esp.
 
 **Yet Another Guard Diversity - Regular.esp**
 - Cell
