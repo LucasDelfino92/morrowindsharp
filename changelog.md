@@ -10,9 +10,9 @@
 
 Sigourn's Mod List
 - Visuals
-  - [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
+  - [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file): one plugin (replacer).
 - Overhauls
-  - [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file)
+  - [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file): pluginless.
 
 ### Removals
 
@@ -56,9 +56,9 @@ Sigourn's Mod List
 
 Sigourn's Mod List
 - User interface
-  - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?)
+  - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?): pluginless.
 - Visuals
-  - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
+  - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112): one plugin.
 
 ### Removals
 
