@@ -14,13 +14,13 @@ For the sake of simplicity, conflicts with **Patch for Purists** and the **Unoff
 
 **Yet Another Guard Diversity - Regular.esp**
 - Cell
-  - Molag Mar < 13, -8>: guard deleted by No-Frills Closed Molag Mar.esp (**No-Frills Closed Molag Mar**).
-  - Wolverine Hall < 18, 3>: guard overwritten by Wolverine Hall Overhaul.esp (**Wolverine Hall Overhaul**).
-  - Vivec, Foreign Quarter Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp (**No-Frills Open Vivec (Vanilla Placement)**).
-  - Vivec, Hlaalu Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp (**No-Frills Open Vivec (Vanilla Placement)**).
-  - Vivec, Redoran Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp (**No-Frills Open Vivec (Vanilla Placement)**).
-  - Vivec, St. Delyn Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp (**No-Frills Open Vivec (Vanilla Placement)**).
-  - Vivec, St. Olms Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp (**No-Frills Open Vivec (Vanilla Placement)**).
+  - Molag Mar < 13, -8>: guard deleted by No-Frills Closed Molag Mar.esp.
+  - Wolverine Hall < 18, 3>: guard overwritten by Wolverine Hall Overhaul.esp.
+  - Vivec, Foreign Quarter Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
+  - Vivec, Hlaalu Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
+  - Vivec, Redoran Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
+  - Vivec, St. Delyn Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
+  - Vivec, St. Olms Plaza: guard deleted by No-Frills Open Vivec (Vanilla Placement) v1.1.esp.
 
 ### ASSET CONFLICTS
 
