@@ -6,6 +6,14 @@
 
 ## May 29th
 
+### Additions
+
+Sigourn's Mod List
+- Visuals
+  - [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
+- Overhauls
+  - [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file)
+
 ### Removals
 
 Sigourn's Mod List
