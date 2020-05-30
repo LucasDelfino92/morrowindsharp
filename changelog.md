@@ -38,10 +38,6 @@
   - Removed **Severa Magia DB Fix** because it has been hidden from Nexus.
 - **Gameplay**
   - Removed **Realistic Repair Add-On** because it has been hidden from Nexus.
-- **Cleaning notes**
-  - Removed MW_Inconsistencies.esp.
-- **Conflict notes**
-  - Removed instructions for MW_Inconsistencies.esp and Clean_Severa Magia Fix.esp.
 - Added new section: **In-game configuration**.
   - Moved instructions for **Graphic Herbalism - MWSE and OpenMW Edition**, **Let There Be Darkness - Lua Lighting Overhaul**, and **Shattered Stones - An Earthquake Mod** to this section.
 
