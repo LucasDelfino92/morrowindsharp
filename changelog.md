@@ -514,35 +514,28 @@ Sigourn's Mod List
 
 ## April 18th
 
-### Additions
-
 - Overhauls
-  - [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?): one plugin.
+  - Added [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204?).
 
 ## April 14th
 
-### Additions
-
-- Gameplay
-  - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845): pluginless.
-  - [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765): one plugin.
-
-### Removals
-
 - Content Restoration
-  - [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/). Works as advertised. This fix will be included in the next Patch for Purists update.
+  - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/). This fix will be included in the next Patch for Purists update.
+- Gameplay
+  - Added [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845).
+  - Added [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765).
 
 ## April 13th
 
 - Content Restoration
-  - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Works as advertised. However, it is not restored content, but reimplemented content.
+  - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770). Not restored content, but reimplemented content.
 - Visuals
-  - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Works as advertised. Personal preference.
+  - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Personal preference.
 - Miscellaneous
-  - Added [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?): one plugin.
+  - Added [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?).
 - Gameplay
-  - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599): one plugin, optional.
-  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Works as advertised. Replaced with Grabic Herbalism MWSE and OpenMW Edition.
+  - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599).
+  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Replaced with Graphic Herbalism MWSE and OpenMW Edition.
 - Balance
-  - Added [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787): pluginless.
+  - Added [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787).
 
