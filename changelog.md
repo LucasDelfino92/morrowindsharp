@@ -326,9 +326,10 @@
 - **Visuals**
   - Added [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572).
 - **Gameplay**
-  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated** and **Temples with Shrines**.
   - Added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843).
   - Added [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535).
+  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated** and **Temples with Shrines**.
+
 
 ## April 19th
 
