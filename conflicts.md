@@ -8,7 +8,7 @@
 
 The following conflicts have been noted down after running the plugins with TES3Merge and TESTool's Leveled Lists. As such, only conflicts not solved by these two tools will be reported.
 
-For the sake of simplicity, conflicts with Patch for Purists will be ignored. This section will be thus focused on the synergy between the rest of the mods present in Sigourn's Mod List.
+For the sake of simplicity, conflicts with Patch for Purists will be ignored. This section will thus be focused on the synergy between the rest of the mods present in *Sigourn's Mod List*.
 
 ### PLUGIN CONFLICTS
 
