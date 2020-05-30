@@ -320,7 +320,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
-  - 
+  - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
