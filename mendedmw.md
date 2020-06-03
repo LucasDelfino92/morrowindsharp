@@ -204,7 +204,6 @@ This mod list does not condone the use of using texture replacers for the sake o
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
-  - Note that if you are playing a straight vanilla game, then you don't really need this mod. But if you decide to install mods that modify the GMSTs for level ups, you will most definitely want to install this. All in all it's better to install it just in case.
 
 ### OPTIMIZATION
 
