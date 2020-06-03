@@ -463,7 +463,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **frostmoth_repaired_v0_31.esp**
 - **Meteorite Ministry Temple - Higher.esp**
 - **Morrowind Anti-Cheese.ESP**
-- **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**
 - **Nordic Chest Replacer.esp**
 - **Pacifist Options - When it Makes Sense.esp**
 - **Passage of Prayers - Full.esp**
