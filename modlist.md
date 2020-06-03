@@ -33,6 +33,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
   - This mod is incorrectly packaged. Place **daedric_font.fnt** and **daedric_font_obw.text** inside your **Data Files\Fonts** folder.
+- [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch: allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat: adds a continue button to the main menu to instantly load your most recent save.
@@ -81,11 +82,15 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**FMI - Unique Lore Friendly Cave Rats**](https://www.nexusmods.com/morrowind/mods/47193) by PoodleSandwich: makes Cave Rats look like how they're described.
 - [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284) by R-Zero: in-game dialogues and journal entries suggested that some exceptional members of Royal Guard wield King's Oath blades, but that wasn't the case. This plugin adds King's Oath to Helseth's personal guards (the ones in the throne room, except Tienius Delitian and Karrod).
 - [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455) by Lucevar: adds an option to refuse Larrius Varro's Bloodbath quest, and edits the filtering on vanilla Balmora rumours so that they don't get overwritten by the Varro rumours. 16+ rumours now appear!
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar: edits, re-filters, or adds on to vanilla dialogue to add more situational nuance - tavern owners will no longer talk about themselves in third person, Ashlanders will no longer curse vampires in the name of Almsivi, slave owners won't talk lovingly about abolitionists, and thieves will be less blase about incriminating themselves to strangers.
 - [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) by R-Zero and Petethegoat: matches the iron warhammer model to its in-game description.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
+- [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot: removes "outlander" from some non-Dunmer voices.
+  - Only install the **Outlander Yourself** miscellaneous file.
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero: there are several mentions of a fishing village at the site of Ald Redaynia in both in-game dialogue and books. This mod adds the missing village of Ald Redaynia. 
 - [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93: if you are a Redoran, you can rent a room at the Flowers of Gold in Vivec for free, as the dialogue suggests.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
+- [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93: according to in-game information, it seems that a Telvanni Mouth's symbol of office is the Silver Staff of Peace. Yet in vanilla, only you get one when you become a Mouth, which you would have to give to Fast Eddie when he becomes your Mouth. Therefore this mod adds a Silver Staff of Peace into the inventory of the six other Telvanni Mouths, including Baladas' Mouth, who only shows up mid-game.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
@@ -94,6 +99,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Hide/disable **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
   - Hide/disable **True_Scourge_zerosouls.esp**.
+- [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos: adds realistic individual cover "backgrounds" for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's, additionally making the Thieves Guild harder to join as they won't simply advertise their services to you. 
 
 ## VISUALS
 
@@ -151,6 +157,8 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
     - **00 Core**
     - **01 MWSE Version**
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: takes the Atronach models from Rotat's **Creature VFX Restoration** and adds to them the glow maps from Peterbitt's [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613/?), thus rendering the mods compatible.
+  - Only install the **Luminous VFX Atronachs** main file.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk: enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional mesh replacer for the vanilla effect. 
@@ -187,9 +195,15 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood.
   - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq: Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
   - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
+- [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics. Two versions are included, one with the original color of the Tamriel Rebuilt models, and another with a slightly more blue tint. No requirements.
+  - Only install the **Vivec Palace Water Replacer** main file.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Original Color**
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
@@ -280,9 +294,13 @@ The following mods require additional MGE XE configuration after installation to
   - Disable all plugins minus **Meteorite Ministry Temple - Higher.esp**.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
-  - Only install the **No-Frills Open Vivec (Vanilla Placement)** main file.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Vanilla Placement**
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
-  - Hide/disable **Passage of Prayers - No Lore.esp**.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Full version**
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **0-Data Files**
