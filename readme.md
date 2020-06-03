@@ -1,4 +1,4 @@
-# SIGOURN'S MOD LIST
+# MORROWIND IMPROVED
 
 Last updated: May 30th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
@@ -18,7 +18,7 @@ Last updated: May 30th, 2020. See the [**Changelog**](https://github.com/Sigourn
 
 ## INTRODUCTION
 
-*Sigourn's Mod List* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
+*Morrowind Improved* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
 
 This mod list consists of, roughly, 260 mods and 170 plugins. But in spite of its gargantuan size, it is my hope that you discover, as you read through it, that the mod list is actually fairly lightweight in what it adds and/or changes from the base game.
 
@@ -45,11 +45,11 @@ My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morr
 
 - [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
 - [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
-- [**Sigourn's Mod List**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): you enter the rabbit hole here, and there's no turning back. Mods that go beyond the purist approach, aiming for a vanilla+ feel, will be found in this section.
+- [**Morrowind Improved**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): you enter the rabbit hole here, and there's no turning back. Mods that go beyond the purist approach, aiming for a vanilla+ feel, will be found in this section.
 
 ## MOD ORDER AND LOAD ORDER
 
-My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Mod List: May 30th**](https://www.mediafire.com/file/otqxn98a2s6p4z2/Mod_List_May_30th.zip/file)
+My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Morrowind Improved June 3rd**](https://www.mediafire.com/file/1i6vynaefu58za5/Morrowind_Improved_June_3rd.zip/file)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
