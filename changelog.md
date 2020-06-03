@@ -4,6 +4,33 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 3rd
+
+- **Mending Morrowind: Bug Fixes**
+  - Added [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269).
+  - Added [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029).
+- **User interface**
+  - Added [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272).
+- **Content restoration**
+  - Removed [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228?). Replaced with **Synthesis Series - Creatures and Diseases**.
+- **Internal logic**
+  - Added [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273).
+  - Added [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674).
+  - Added [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279).
+  - Added [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728).
+  - Removed [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499). Replaced with **LDM - Context Matters**.
+  - Removed [**LDM - Ohh You're Naked begone - Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284). Replaced with **LDM - Context Matters**.
+  - Removed [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556). Replaced with **LDM - Context Matters**.
+- **Visuals**
+  - Added [**Facelift v0.10.2 Hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file).
+  - Added [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/).
+  - Added [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050).
+  - Added [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/).
+- **Gameplay**
+  - Added [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916).
+  - Added [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122).
+  - Added [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602).
+
 ## May 30th
 
 - Removed **Tamriel_Data** section.
