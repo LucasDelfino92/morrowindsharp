@@ -120,6 +120,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
   - Also install the **kart_facelift_update_0-10-2** update file.
+  - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
   - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures, and if you are not using it, you want consistency with the vanilla textures.
 - [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) by Leyawynn: removes the guard on the Fang of Haynekhtnamet to make it look more like a fang.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
