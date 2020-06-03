@@ -471,7 +471,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **ReclamationsInHolamayan.esp**
 - **Religions Elaborated.esp**
 - **settledjiub.ESP**
-- **Talos Cult Revised.esp**: both Talos Cult Revised mods have the same plugin filename, and in both cases it requiress cleaning.
+- **Talos Cult Revised.esp**
 - **Ttooth's Missing NPCs - No Nolus.esp**
 - **true corprus.esp**
 
