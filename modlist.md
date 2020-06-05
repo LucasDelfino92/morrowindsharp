@@ -99,7 +99,8 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Hide/disable **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
   - Hide/disable **True_Scourge_zerosouls.esp**.
-- [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos: adds realistic individual cover "backgrounds" for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's, additionally making the Thieves Guild harder to join as they won't simply advertise their services to you. 
+- [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos: adds realistic individual cover "backgrounds" for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's, additionally making the Thieves Guild harder to join as they won't simply advertise their services to you.
+  - Note: I've been told that according to lore, the Thieves Guild has no reason to conceal their operations. However, if you find Thieves advertisting their guild awkward, then this mod is for you.
 
 ## VISUALS
 
