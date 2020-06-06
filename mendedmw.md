@@ -190,6 +190,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - Now install a second instance of this mod. This time, tick **01 Atlas Textures** and click **OK**.
   - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
   - Also install the **Wood Fix** update file.
+  - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
 
 ### BUG FIXES
 
