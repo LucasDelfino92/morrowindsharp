@@ -16,7 +16,7 @@
   - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712).
   - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120).
 - **Quests**
-  - Moved **Samarys Ancestral Tomb Expanded to this section.
+  - Moved **Samarys Ancestral Tomb Expanded** to this section.
 
 ## June 3rd
 
