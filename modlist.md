@@ -51,7 +51,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
 - [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser: adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot: restores visual effects on creatures.
-- [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050?) by Bethesda Softworks: add the missing Xbox loading screens to the game.
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos: enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
@@ -166,7 +165,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Mist Replacer**
-    - **02 Scumpatibility**
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros: improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
@@ -179,10 +177,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
-- [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) by Lougian: retexture of the scum in the Bitter Coast.
-  - Only install the **Alternative 1** main file.
-- [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?) by Pherim: retexture of the scum in the Bitter Coast.
-  - Only if you installed **Scum Retexture** earlier.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
@@ -307,7 +301,6 @@ The following mods require additional MGE XE configuration after installation to
     - **0-Data Files**
     - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
-- [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
@@ -331,8 +324,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord: do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk: increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord: adds a new "defensive stance" mechanic, which increases your block and reduces your speed if you have a shield equipped while crouching. 
-- [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail: adds the descriptions from "The Consolations of Prayer" book to the message box which appears when using temple shrines to give you a better idea of what blessing you're about to receive. Also adds a "Cancel" functionality.
-  - Only install the **Descriptive Shrines** main file.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat: modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
@@ -354,7 +345,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord: you will need to equip a pick axe and strike ore veins to mine ore.
-- [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero: makes Cliff Racers' aggressiveness depend on how badly Player is wounded. Diseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones. Blighted Cliff Racers now have larger aggression radius and will never flee. 
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
@@ -365,7 +355,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
-- [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120) by The Puma Man and PoodleSandwich: tweak of Puma Man's "Passive Healthy Wildlife", which prevented healthy creatures from attacking the player on sight. Common diseased creatures are more passive now, and cliff racers are always hostile.
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600) by Gavrilo93: adds a Redoran Master Helm into the home of almost every Redoran Councilor.
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
   - If you installed **Unofficial Morrowind Official Plugins Patched** earlier, also install the following patches:
@@ -450,6 +439,7 @@ The following mod should only be installed if you are playing with the official 
 - [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file) by Leyawynn: makes it so that you can still do quests, even if you're the highest rank in the faction.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file.
+- [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by ATL Team and PikachunoTM: turns Samarys Ancestral Tomb from a simple three-room dungeon into a much larger dungeon with an unmarked quest.
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
@@ -488,7 +478,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Nordic Chest Replacer.esp**
 - **Pacifist Options - When it Makes Sense.esp**
 - **Passage of Prayers - Full.esp**
-- **Passive_Healthy_Wildlife PS EDIT.esp**
 - **QL_SevenGracesShrines.esp**
 - **ReclamationsInHolamayan.esp**
 - **Religions Elaborated.esp**
@@ -570,8 +559,6 @@ Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s ass
 Load **Glowing Bitter Coast**'s assets before **Project Atlas**' assets.
 
 Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
-
-Load **Mistify**'s assets after **Scum Retexture**'s assets.
 
 Load the **Melchior's Mudcrab Merchant.esp** plugin after the **Morrowind Anti-Cheese.esp** plugin.
 
