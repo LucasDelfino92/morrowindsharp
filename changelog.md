@@ -4,6 +4,23 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 10th
+
+- **Content restoration**
+  - Removed [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050?).
+
+- **Visuals**
+  - Removed [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?).
+  - Removed [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321).
+
+- **Gameplay**
+  - Removed [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119).
+  - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712).
+  - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120).
+
+- **Quests**
+  - Moved **Samarys Ancestral Tomb Expanded to this section.
+
 ## June 3rd
 
 - **Mending Morrowind: Bug Fixes**
