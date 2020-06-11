@@ -15,8 +15,8 @@
   - Removed [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119).
   - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712).
   - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120).
-- **Quests**
-  - Moved **Samarys Ancestral Tomb Expanded** to this section.
+- **Quest and faction tweaks**
+  - Removed [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) because it stands out from the vanilla game.
 
 ## June 3rd
 
