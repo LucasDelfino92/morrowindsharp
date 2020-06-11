@@ -28,6 +28,8 @@
   - Added [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292).
   - Added [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059).
   - Added [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file).
+- **Game balance**
+  - Removed [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) (I don't think turning enemies into damage sponges and making encounters tedious is a good approach to difficulty).
 - **MWSEabotlib**
   - Added [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
 
