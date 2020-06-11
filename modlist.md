@@ -19,6 +19,7 @@
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     - [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
+    - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
@@ -46,7 +47,9 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Refer to the pictures before installing the file of your choice.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) by abot: adds numerous options for the Journal pages and Quests list.
+  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
+  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
@@ -368,11 +371,12 @@ The following mods require additional MGE XE configuration after installation to
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
   - This mod is incorrectly packaged. Place the **mwse** folder inside your **Data Files** folder, next to **Lucky Strike.ESP**.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
@@ -401,6 +405,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93: adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down. 
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93: adds a merchant to Ghostgate, Temple who will sell you soul gems and soul trap scrolls. Especially convenient for completing the Pilgrimages of the Seven Graces.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
@@ -548,6 +553,19 @@ Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTo
 
 A detailed list of conflicts present in this mod list with no guided fix [**can be found here**](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md).
 
+### MWSEabotlib
+
+The following mods by **abot** utilize a common **abot\lib.lua** file.
+
+- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)
+
+Older mods will have an older version of the file. Because of this, and in the interest of simplicity, if using any of the above mods in any capacity, you will also have to install the latest, most up-to-date **abot\lib.lua** file. This file will have to load after these four mods in order to overwrite their individual lib.lua file with the most up-to-date version.
+
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
+
 ### IN-GAME CONFIGURATION
 
 **Graphic Herbalism - MWSE and OpenMW Edition** will require in-game configuration to work properly alongside **Immersive Mining**.
@@ -570,19 +588,6 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
 
 **Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
-### MWSEabotlib
-
-The following mods by **abot** utilize a common **abot\lib.lua** file.
-
-- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)
-
-Older mods will have an older version of the file. Because of this, and in the interest of simplicity, if using any of the above mods in any capacity, you will also have to install the latest, most up-to-date **abot\lib.lua** file. This file will have to load after these four mods in order to overwrite their individual lib.lua file with the most up-to-date version.
-
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
-  
 ### LOAD ORDER
 
 Load **Intelligent Textures** and **Intelligent Textures - Wood Fix**'s assets after **Morrowind Optimization Patch**'s assets.
