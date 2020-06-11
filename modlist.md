@@ -570,7 +570,7 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
 
 **Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
-## MWSEabotlib
+### MWSEabotlib
 
 The following mods by **abot** utilize a common **abot\lib.lua** file.
 
