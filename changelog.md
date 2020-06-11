@@ -4,7 +4,7 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## Next update
+## June 11th
 
 - **User interface**
   - Added [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055).
