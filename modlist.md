@@ -13,7 +13,7 @@
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
-- [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#balance)
+- [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance)
 - [Quest and faction tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#quest-and-faction-tweaks)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
