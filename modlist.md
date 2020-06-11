@@ -405,8 +405,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
-- [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort: makes the Sixth House, properly, the most difficult content in the game.
-  - Note that because of the changes this mod makes, certain quests taking places inside Red Mountain (such as [Viatrix, The Annoying Pilgrim](https://en.uesp.net/wiki/Morrowind:Viatrix,_The_Annoying_Pilgrim) and [Pilgrimages of the Seven Graces](https://en.uesp.net/wiki/Morrowind:Pilgrimages_of_the_Seven_Graces)) may be very difficult to complete if **Blight is Coming** is used alongside **Beware the Sixt House**. You can also expect a massive difficult spike over the course of the Main Quest.
 
 The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
 
