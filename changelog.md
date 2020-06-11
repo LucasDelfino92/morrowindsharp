@@ -4,19 +4,46 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 11th
+
+- **User interface**
+  - Added [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055).
+  - Added [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962).
+  - Added [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275).
+  - Added [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492).
+  - Added [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634).
+  - Added [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800).
+- **Internal logic**
+  - Added [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302).
+- **Visuals**
+  - Added [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
+  - Added [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
+  - Added [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312).
+- **Audio**
+  - Added [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794).
+- **Overhauls**
+  - Added [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278).
+- **Gameplay**
+  - Added [**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264).
+  - Added [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292).
+  - Added [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059).
+  - Added [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file).
+- **MWSEabotlib**
+  - Added [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
+
 ## June 10th
 
 - **Content restoration**
-  - Removed [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050?).
+  - Removed [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050?) (obsolete with **Unstretched Splash Screens**).
 - **Visuals**
-  - Removed [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?).
-  - Removed [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321).
+  - Removed [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) (replaced with **Bitter Coast Scum Replacer**).
+  - Removed [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321) (replaced with **Bitter Coast Scum Replacer**).
 - **Gameplay**
-  - Removed [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119).
-  - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712).
-  - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120).
+  - Removed [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) (replaced with **Shrine Tooltips**).
+  - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) (replaced with **Less Aggressive Creatures**).
+  - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120) (replaced with **Less Aggressive Creatures**).
 - **Quest and faction tweaks**
-  - Removed [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) because it stands out from the vanilla game.
+  - Removed [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) (stands out too much from the vanilla game and the area in general).
 
 ## June 3rd
 
