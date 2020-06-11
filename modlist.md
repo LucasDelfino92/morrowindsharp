@@ -584,6 +584,17 @@ Older mods will have an older version of the file. Because of this, and in the i
 
 **Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
+**Less Aggressive Creatures** will require in-game configuration. I suggest the following settings.
+
+- **Peaceful Chance**: 50.
+- **Blocked** list (creatures with a chance to spawn peaceful):
+    - cliff racer
+    - cliff racer_diseased
+    - mudcrab
+    - mudcrab_diseased
+    - rat
+    - rat_diseased
+
 ### LOAD ORDER
 
 Load **Intelligent Textures** and **Intelligent Textures - Wood Fix**'s assets after **Morrowind Optimization Patch**'s assets.
