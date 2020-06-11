@@ -10,7 +10,6 @@
   - Added [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055).
   - Added [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962).
   - Added [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275).
-  - Added [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492).
   - Added [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634).
   - Added [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800).
 - **Internal logic**
@@ -24,7 +23,6 @@
 - **Overhauls**
   - Added [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278).
 - **Gameplay**
-  - Added [**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264).
   - Added [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292).
   - Added [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059).
   - Added [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file).
