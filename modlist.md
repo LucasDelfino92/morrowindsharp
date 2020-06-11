@@ -46,8 +46,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) by PoodleSandwich: modifies the crosshair to be less intrusive.
   - Refer to the pictures before installing the file of your choice.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
-- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) by abot: adds numerous options for the Journal pages and Quests list.
-  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
   - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
@@ -338,7 +336,6 @@ The following mods require additional MGE XE configuration after installation to
 ## GAMEPLAY
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
-- [**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264) by Merlord: prevents you from stealing items or opening owned containers unless you are sneaking. Items/containers can be blacklisted in the MCM. 
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) by grasscid: replaces Aesliip's Ring's buggy "fortify magicka 75 pts" enchantment with a "fortify maximum magicka 0.5x INT" effect.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -557,7 +554,6 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
 
 The following mods by **abot** utilize a common **abot\lib.lua** file.
 
-- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)
