@@ -36,13 +36,19 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat: adds a continue button to the main menu to instantly load your most recent save.
+- [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch: expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
+- [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch: adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
 - [**inom - Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN: allows the use of the mouse wheels to move items into and out of containers.
 - [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7: adds the ability to filter ingredients based on their magic effects.
 - [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r: adds clock to UI that displays either game world time or real time.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
 - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) by PoodleSandwich: modifies the crosshair to be less intrusive.
-  - Look at the pictures and install either of the two files.
+  - Refer to the pictures before installing the file of your choice.
+- [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
+- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) by abot: adds numerous options for the Journal pages and Quests list.
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+- [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
 
@@ -99,18 +105,29 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Hide/disable **True_Scourge_zerosouls.esp**.
 - [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos: adds realistic individual cover "backgrounds" for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's, additionally making the Thieves Guild harder to join as they won't simply advertise their services to you.
   - Note: I've been told that according to lore, the Thieves Guild has no reason to conceal their operations. However, if you find Thieves advertisting their guild awkward, then this mod is for you.
+- [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
 ## VISUALS
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
   - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
+- [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21: replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
+  - Only download the **Ashmire Replacer** main file.
+  - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk: new effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
+- [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21: replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+  - Only download the **Bitter Coast Scum Replacer** main file.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Animated Replacer - Original Color**
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt:adds unique textures to all blighted animals.
   - Install the **Blighted Animals with Vanilla textures** main file.
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae: replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) by Trainwiz: replaces bound weaponry with an effect similar to Skyrim's.
 - [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
+  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -265,6 +282,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
+- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot: simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
 
@@ -304,6 +322,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
+- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran: adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
@@ -316,6 +335,7 @@ The following mods require additional MGE XE configuration after installation to
 ## GAMEPLAY
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
+- [**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264) by Merlord: prevents you from stealing items or opening owned containers unless you are sneaking. Items/containers can be blacklisted in the MCM. 
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) by grasscid: replaces Aesliip's Ring's buggy "fortify magicka 75 pts" enchantment with a "fortify maximum magicka 0.5x INT" effect.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -347,6 +367,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord: you will need to equip a pick axe and strike ore veins to mine ore.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
+- [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
@@ -365,6 +386,7 @@ The following mods require additional MGE XE configuration after installation to
   - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
   - Hide/disable **Old_dwemer_books.esp**.
 - [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
+- [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059) by abot: in-game time will pass according to the actual time spent reading in-game. In other words, if it takes you five minutes to read a book, five in-game minutes will pass once you close the book interface.
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
@@ -373,6 +395,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord: overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Hide/disable **Realistic_Repair_Optional.esp**.
+- [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file) by Corsair83: adds additional forges and anvils to major cities and settlements that did not previously contain any.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
@@ -547,6 +570,19 @@ A detailed list of conflicts present in this mod list with no guided fix [**can 
 
 **Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
+## MWSEabotlib
+
+The following mods by **abot** utilize a common **abot\lib.lua** file.
+
+- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)
+
+Older mods will have an older version of the file. Because of this, and in the interest of simplicity, if using any of the above mods in any capacity, you will also have to install the latest, most up-to-date **abot\lib.lua** file. This file will have to load after these four mods in order to overwrite their individual lib.lua file with the most up-to-date version.
+
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
+  
 ### LOAD ORDER
 
 Load **Intelligent Textures** and **Intelligent Textures - Wood Fix**'s assets after **Morrowind Optimization Patch**'s assets.
