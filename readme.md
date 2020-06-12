@@ -2,7 +2,7 @@
 
 Last updated: June 11th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
-As of June 12th this mod list is officially **outdated**. This doesn't necessarily mean your game will break if you play with it. For that to happen there should be some serious changes made to the mods that integrate this mod list. But you have been warned.
+As of June 12th this mod list is no longer under active maintenance. This doesn't necessarily mean your game will break if you play with it. For that to happen there should be some serious changes made to the mods that integrate this mod list. But you have been warned.
 
 However, in the spirit of offering a functional mod list, I'll keep my ears open for any potential issues that may arise from this mod list.
 
