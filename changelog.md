@@ -14,7 +14,7 @@
   - Added [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800).
 - **Internal logic**
   - Added [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302).
-  - Removed [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/?) (replaced by Patch for Purists v4.0.0).
+  - Removed [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/?).
 - **Visuals**
   - Added [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
   - Added [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
