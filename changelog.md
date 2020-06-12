@@ -4,6 +4,11 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 12th
+
+- **Internal logic**
+  - Removed [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) (**Patch for Purists** already fixes Arrille's inventory).
+
 ## June 11th
 
 - **User interface**
@@ -14,7 +19,7 @@
   - Added [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800).
 - **Internal logic**
   - Added [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302).
-  - Removed [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/?).
+  - Removed [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/?) (**Patch for Purists** already fixes the rumors).
 - **Visuals**
   - Added [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
   - Added [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291).
@@ -54,15 +59,15 @@
 - **User interface**
   - Added [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272).
 - **Content restoration**
-  - Removed [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228?). Replaced with **Synthesis Series - Creatures and Diseases**.
+  - Removed [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228?) (replaced with **Synthesis Series - Creatures and Diseases**).
 - **Internal logic**
   - Added [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273).
   - Added [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674).
   - Added [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279).
   - Added [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728).
-  - Removed [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499). Replaced with **LDM - Context Matters**.
+  - Removed [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499) (replaced with **LDM - Context Matters**).
   - Removed [**LDM - Ohh You're Naked begone - Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284). Replaced with **LDM - Context Matters**.
-  - Removed [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556). Replaced with **LDM - Context Matters**.
+  - Removed [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556) (replaced with **LDM - Context Matters**).
 - **Visuals**
   - Added [**Facelift v0.10.2 Hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file).
   - Added [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/).
@@ -84,17 +89,17 @@
   - Added [**Area Effect Arrows Integrated + UMOPP v3.0.4 Patch**](https://www.mediafire.com/file/2m6ckellmgskr9l/Area_Effect_Arrows_Integrated_+_UMOPP_v3.0.4_Patch.zip/file).
 - **Quest and faction tweaks**
   - Added [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550).
-  - Removed [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) because the changes compared to the non-Tamriel_Data version are minimal.
-  - Removed [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) because the reward is vastly overpowered.
+  - Removed [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577) (the changes compared to the non-Tamriel_Data version are minimal).
+  - Removed [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645?) (reward is vastly overpowered).
 
 ## May 29th
 
 - **Visuals**
   - Added [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file).
-  - Removed [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) because it could be hardly considered an improvement over the vanilla Vivec.
-  - Removed [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) because it reduces visual variety in favor of consistency.
-  - Removed [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) because it can be too distracting and it isn't particularly lore-friendly in its implementation.
-  - Removed [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) because it seems to be buggy when using **MGE XE**'s Per Pixel Lighting option.
+  - Removed [**Concept Art Vivec Face Replacement**](https://www.nexusmods.com/morrowind/mods/46048) (not an improvement over vanilla Vivec).
+  - Removed [**Improved Better Skulls**](https://www.nexusmods.com/morrowind/mods/46012) (reduces visual variety in favor of consistency).
+  - Removed [**She Vivec Fixed v1.1**](https://www.mediafire.com/file/00wo4fe37ywj7h5/She_Vivec_Fixed_v1.1_%28Sigourn_Fork%29.zip/file) (can be too distracting and isn't particularly lore-friendly in its implementation).
+  - Removed [**Temple Waterway v2.0**](http://mw.modhistory.com/download-15-15105) (replaced with **Vivec Palace Water Replacer**).
 - **Overhauls**
   - Added [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file).
 
@@ -108,19 +113,19 @@
 - **User interface**
   - Added [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?).
 - **Internal logic**
-  - Removed **Corsair's MW Inconsistencies** because it has been hidden from Nexus.
+  - Removed **Corsair's MW Inconsistencies** (hidden from Nexus).
 - **Visuals**
   - Added [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112).
-  - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/) because I can hardly justify its presence on the mod list due to its small scope, given that many weapons suffer from this issue.
+  - Removed [**Less Fat Adamantium Shortsword**](https://www.nexusmods.com/morrowind/mods/46488/) (many weapons suffer from this issue, one simple replacer won't make a difference).
   - Moved **Project Atlas** instructions for **Glow in the Dahrk** and **Glowing Bitter Coast** to this section.
   - Moved **Creeper the Drummer** to this section.
   - Moved **Vanilla-Friendly Almalexia Replacer** to this section.
 - **Overhauls**
-  - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) because it not only breaks character but it also adds some unnecessary goofyness to what's meant to be a serious moment.
-  - Removed [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) because I'm not to keen on having such realistic portraits in-game.
-  - Removed **Severa Magia DB Fix** because it has been hidden from Nexus.
+  - Removed [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) (rather goofy mod).
+  - Removed [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) (the portrait clashes with the rest of the game).
+  - Removed **Severa Magia DB Fix** (hidden from Nexus).
 - **Gameplay**
-  - Removed **Realistic Repair Add-On** because it has been hidden from Nexus.
+  - Removed **Realistic Repair Add-On** (hidden from Nexus).
 - Added new section: **In-game configuration**.
   - Moved instructions for **Graphic Herbalism - MWSE and OpenMW Edition**, **Let There Be Darkness - Lua Lighting Overhaul**, and **Shattered Stones - An Earthquake Mod** to this section.
 
@@ -159,7 +164,7 @@
   - Moved **Supply Chests Merged** to this section.
   - Moved **What is something that can be perceived with one of your senses of life - Something edgy related to death my brother** to this section.
 - **Gameplay**
-  - Removed [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) as the mod is at serious odds with the game at times.
+  - Removed [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) (the game wasn't designed with this in mind and it shows).
 
 ## May 20th
 
@@ -175,11 +180,11 @@
   - Added [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/).
   - Added [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912/).
 - **Audio**
-  - Removed [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) because of a known glitch.
+  - Removed [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) (there's a known glitch which can be annoying).
 - **Overhauls**
   - Added [**Talos Cult Revised (with Tamriel_Data)**](https://www.nexusmods.com/morrowind/mods/44577).
   - Added [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068).
-  - Removed [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?) for visual consistency with vanilla Morrowind.
+  - Removed [**RR Mod Series - Ghostgate Fortress by Resdayn Revival Team**](https://www.nexusmods.com/morrowind/mods/45822?) (high quality assets not consistent with vanilla Morrowind).
 - **Gameplay**
   - Added [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674/?).
   - Added [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file).
@@ -187,7 +192,7 @@
   - Added [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673).
 - **Game balance**
   - Added [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188).
-  - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787). Replaced with **Harder Barter**.
+  - Removed [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) (replaced with **Harder Barter**).
 - **Quests**
   - Added [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?).
   - Added [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589).
@@ -279,17 +284,17 @@
 ## May 12th
 
 - **Optimization**
-  - Removed [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) because of conflicts with **Intelligent Textures**.
+  - Removed [**Atlased Silt Strider**](https://www.nexusmods.com/morrowind/mods/46806) (conflicts with **Intelligent Textures**).
 - **Internal logic**
   - Moved **Arrille Inventory Fix** to this section.
   - Moved **FMI - Current Councilors** to this section.
   - Moved **FMI - Legion Dialogue** to this section.
 - **Visuals**
-  - Removed [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) for visual consistency with vanilla Morrowind.
+  - Removed [**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) (high quality assets not consistent with vanilla Morrowind).
 - **Overhauls**
-  - Removed [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) for visual consistency with vanilla Morrowind.
+  - Removed [**RR Mod Series - Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524/) (high quality assets not consistent with vanilla Morrowind).
 - **Gameplay**
-  - Removed [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) as it is no longer needed.
+  - Removed [**Ghostgate Fortress Temple Marker**](https://www.mediafire.com/file/gbvueah7b2019ji/Ghostgate_Fortress_Temple_Marker_v1.0.zip/file) (no longer needed for this mod list).
 
 ## May 11th
 
@@ -303,7 +308,7 @@
 - **Tools**
   - Clarified and improved cleaning instructions.
 - **Internal logic**
-  - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335). Replaced with **Early Transport to Mournhold**.
+  - Removed [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) (replaced with **Early Transport to Mournhold**).
 - **Gameplay**
   - Added [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985).
 - **Mod order and load order**
@@ -313,16 +318,16 @@
 ## May 9th
 
 - **Internal logic**
-  - Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?). Replaced with **Urnest Loot**.
+  - Removed [**FMI_GraveDust**](https://www.nexusmods.com/morrowind/mods/47637?) (replaced with **Urnest Loot**).
 - **Visuals**
-  - Removed [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) for performance reasons as well as visual glitches regarding water reflections.
-  - Removed [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) because of conflicts with **Creature VFX Restoration**.
+  - Removed [**Distant Lights**](https://www.nexusmods.com/morrowind/mods/42165) (performance reasons as well as visual glitches regarding water reflections).
+  - Removed [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613?) (replaced with **Luminous VFX Atronachs**).
 - **Gameplay**
   - Added [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024).
   - Added [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857).
   - Added [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959).
   - Added [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?).
-  - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) because of conflicts wtih **Lock Bashing**.
+  - Removed [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) (conflicts wtih **Lock Bashing**).
 - **Game balance**
   - Added [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/).
 
@@ -334,7 +339,7 @@
 ## May 7th
 
 - **User Interface**
-  - Removed [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) because it clutters the world map and the renamed cells can spoil the exploration experience.
+  - Removed [**Global Map Markers**](https://www.nexusmods.com/morrowind/mods/43248) (personal preference regarding the cluttered world map and the spoiled exploration experience because of renamed areas).
 
 ## May 4th
 
@@ -369,7 +374,7 @@
 
 - **Visuals**
   - Added [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321?).
-  - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?). Replaced with **Vanilla Friendly Scum Texture**.
+  - Removed [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802?) (replaced with **Vanilla Friendly Scum Texture**).
 
 ## April 27th
 
@@ -380,7 +385,7 @@
   - Added [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/).
 - **Visuals**
   - Added [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?).
-  - Removed [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) because the smaller size of the rats makes it more annoying to fight against them.
+  - Removed [**Smaller Rats**](https://www.nexusmods.com/morrowind/mods/46420) (smaller size of the rats makes it a pain to fight them).
 - **Miscellaneous**
   - Added [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577).
 - **Gameplay**
@@ -392,7 +397,7 @@
 ## April 25th
 
 - **Game balance**
-  - Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521). Replaced with **Retroactive Health Gain**.
+  - Removed [**Talrivian's State-Based HP Mod**](http://mw.modhistory.com/download-90-6521) (replaced with **Retroactive Health Gain**).
 - **Mod order and load order**
   - Fixed **No-Frills Open Vivec**'s information in the loadorder.txt and mods.txt files. Previously they would refer to the non-recommended version, leaving Mod Organizer 2 unable to properly sort the plugin. 
 
@@ -411,26 +416,26 @@
 - **Gameplay**
   - Added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843).
   - Added [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535).
-  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267). Replaced with **Religions Elaborated** and **Temples with Shrines**.
+  - Removed [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) (replaced with **Religions Elaborated** and **Temples with Shrines**).
 
 
 ## April 19th
 
 - **Internal logic**
-  - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) because it has been hidden from Nexus.
-  - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752). Replaced with **Religions Elaborated**.
+  - Removed [**FMI - Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) (hidden from Nexus).
+  - Removed [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) (replaced with **Religions Elaborated**).
 - **Visuals**
-  - Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291).  Replaced with **Let There Be Darkness - Lua Lighting Overhaul**.
-  - Removed [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) because of its acknowledged limitations.
-  - Removed [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) because the effect can be very hard to notice if you are not looking.
+  - Removed [**di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291) (replaced with **Let There Be Darkness - Lua Lighting Overhaul**).
+  - Removed [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (gameplay limitations regarding being unable to retrieve stuck projectiles).
+  - Removed [**RainSplash**](https://www.nexusmods.com/morrowind/mods/43124) (the effect can be very hard to notice if you are not looking).
 - **Gameplay**
-  - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) because it doesn't address a perceived flaw in the game's equipment selection, and thus has no place in this mod list.
-  - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) because it makes Umbra stand out too much from the vanilla game.
+  - Removed [**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) (doesn't address a perceived flaw in the game's equipment selection).
+  - Removed [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) (makes Umbra stand out too much from the vanilla game).
 
 ## April 14th
 
 - **Content restoration**
-  - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/) because it will be included in the next **Patch for Purists** update.
+  - Removed [**Missing Ascended Sleeper Sounds Restored**](https://www.nexusmods.com/morrowind/mods/44768/) (**Patch for Purists** already fixes this issue).
 - **Gameplay**
   - Added [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845).
   - Added [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765).
@@ -438,11 +443,11 @@
 ## April 13th
 
 - **Content restoration**
-  - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770) because it's not restored content.
+  - Removed [**Dwemer Books**](http://mw.modhistory.com/download-11-11770) (not restored content).
 - **Visuals**
-  - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126). Replaced with **Let There Be Darkness - Lua Lighting Overhaul**.
+  - Removed [**No Interior Blue Water Glow**](https://www.nexusmods.com/morrowind/mods/47126) (replaced with **Let There Be Darkness - Lua Lighting Overhaul**).
 - **Miscellaneous**
   - Added [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?).
 - **Gameplay**
   - Added [**Graphic Herbalism MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599).
-  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627). Replaced with **Graphic Herbalism MWSE and OpenMW Edition**.
+  - Removed [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627) (replaced with **Graphic Herbalism MWSE and OpenMW Edition**).
