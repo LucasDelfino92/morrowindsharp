@@ -66,7 +66,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 
 ## INTERNAL LOGIC
 
-- [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) by Sigourn: adjusts Arrille's inventory to include the potions and scrolls he claims to sell.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
