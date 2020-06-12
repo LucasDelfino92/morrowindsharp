@@ -8,6 +8,8 @@
 
 - **Internal logic**
   - Removed [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) (**Patch for Purists** already fixes Arrille's inventory).
+- **Gameplay**
+  - Added [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129?).
 
 ## June 11th
 
