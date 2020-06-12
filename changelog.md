@@ -10,6 +10,7 @@
   - Removed [**Arrille Inventory Fix**](https://www.nexusmods.com/morrowind/mods/47709/) (**Patch for Purists** already fixes Arrille's inventory).
 - **Gameplay**
   - Added [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129?).
+  - Removed [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) (replaced with **MWSE Magicka Regen**).
 
 ## June 11th
 
