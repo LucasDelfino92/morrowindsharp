@@ -1,10 +1,6 @@
 # MORROWIND IMPROVED
 
-Last updated: June 12th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
-
-As of June 12th this mod list is no longer under active maintenance. This doesn't necessarily mean your game will break if you play with it. For that to happen there should be some serious changes made to the mods that integrate this mod list. But you have been warned.
-
-However, in the spirit of offering a functional mod list, I'll keep my ears open for any potential issues that may arise from this mod list.
+Last updated: June 13th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
@@ -53,7 +49,7 @@ My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morr
 
 ## MOD ORDER AND LOAD ORDER
 
-My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Morrowind Improved June 12th**](https://drive.google.com/file/d/1m_xeTgq2JTq3snlI2w_JvJNDJEdY83RU/view?usp=sharing)
+My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum. You can download a package containing these in .txt form from here: [**Morrowind Improved June 13th**](https://drive.google.com/file/d/1zG_9CyMIsCt3a6EvIbmUiap075zgAt6y/view?usp=sharing)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder. 
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
