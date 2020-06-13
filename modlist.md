@@ -74,7 +74,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
-  - Only install the **FMI - Misc** main file.
+  - Install both main files.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich: NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich: not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
 - [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) by PoodleSandwich: fixes typos and grammatical errors in "Note from the Archcanon", including creating correct gender version for female player characters. 
