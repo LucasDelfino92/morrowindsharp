@@ -70,11 +70,8 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322) by PoodleSandwich: makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
 - [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich: a certain NPC will no longer be referred to as being alive once he is dead.
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
-- [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich: stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong Council Club, so long as the Camonna Tong thugs are still hanging around. 
-- [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich: fixes inconsistencies between where ingredients are said to be found, and where they are actually found.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
   - Only install the **FMI - Misc** main file.
@@ -83,27 +80,19 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) by PoodleSandwich: fixes typos and grammatical errors in "Note from the Archcanon", including creating correct gender version for female player characters. 
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich: fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
 - [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich: changes the intro cinematic from "he" to "they", to refer to the player character.
-- [**FMI - Unique Lore Friendly Cave Rats**](https://www.nexusmods.com/morrowind/mods/47193) by PoodleSandwich: makes Cave Rats look like how they're described.
-- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284) by R-Zero: in-game dialogues and journal entries suggested that some exceptional members of Royal Guard wield King's Oath blades, but that wasn't the case. This plugin adds King's Oath to Helseth's personal guards (the ones in the throne room, except Tienius Delitian and Karrod).
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar: edits, re-filters, or adds on to vanilla dialogue to add more situational nuance - tavern owners will no longer talk about themselves in third person, Ashlanders will no longer curse vampires in the name of Almsivi, slave owners won't talk lovingly about abolitionists, and thieves will be less blase about incriminating themselves to strangers.
 - [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) by R-Zero and Petethegoat: matches the iron warhammer model to its in-game description.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 - [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot: removes "outlander" from some non-Dunmer voices.
   - Only install the **Outlander Yourself** miscellaneous file.
-- [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero: there are several mentions of a fishing village at the site of Ald Redaynia in both in-game dialogue and books. This mod adds the missing village of Ald Redaynia. 
 - [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93: if you are a Redoran, you can rent a room at the Flowers of Gold in Vivec for free, as the dialogue suggests.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
 - [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93: according to in-game information, it seems that a Telvanni Mouth's symbol of office is the Silver Staff of Peace. Yet in vanilla, only you get one when you become a Mouth, which you would have to give to Fast Eddie when he becomes your Mouth. Therefore this mod adds a Silver Staff of Peace into the inventory of the six other Telvanni Mouths, including Baladas' Mouth, who only shows up mid-game.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
-- [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk: makes Hackle-lo leaves thicker as described in-game ("succulent").
-- [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?) by TriangleTooth: adds new NPCs who were mentioned by dialogue but had no physical presence on Vvardenfell. Also gives them new unique dialogue lines that fit seamlessly into the vanilla game.
-  - Hide/disable **Ttooth's Missing NPCs - Nolus.esp**.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
   - Hide/disable **True_Scourge_zerosouls.esp**.
-- [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos: adds realistic individual cover "backgrounds" for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's, additionally making the Thieves Guild harder to join as they won't simply advertise their services to you.
-  - Note: I've been told that according to lore, the Thieves Guild has no reason to conceal their operations. However, if you find Thieves advertisting their guild awkward, then this mod is for you.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
 ## VISUALS
@@ -120,11 +109,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Animated Replacer - Original Color**
-- [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt:adds unique textures to all blighted animals.
-  - Install the **Blighted Animals with Vanilla textures** main file.
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae: replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) by Trainwiz: replaces bound weaponry with an effect similar to Skyrim's.
-- [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396) by Leyawynn: fixes the bad texture paths in Trainwiz's bound weapon replacer.
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
@@ -146,16 +131,13 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Only install the **Unique Rippened Belladonna** optional file.
 - [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros: folds up the sails of longboats in port.
   - Hide/delete Ex_longboat01.nif. This mesh is buggy and unnecessary for this mod to work as intended.
-- [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222) by Melchior Dahrk: tweaks the Forge of Hilbongard slightly to make it a little more unique.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade: makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Hi Res Window Texture Replacer**
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
-    - **04 Telvanni Dormers on Vvardenfell**
     - **05 Raven Rock Glass Windows Interior Sunrays**
-  - Hide/disable **GITD_Telvanni_Dormers_Exterior.ESP** and **GITD_Telvanni_Dormers_Interior.ESP**
   - Note that if you installed **Project Atlas** in the past, you will need to reinstall it with the **10 Glow in the Darkh Patch - Interior Sunrays** option activated in addition to **00 Core**.
 - [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
   - Note that if you installed **Project Atlas** in the past, you will need to reinstall it with the **20 BC Mushrooms - Normal - Glowing Bitter Coast Patch** option activated in addition to **00 Core**.
@@ -190,25 +172,17 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Only install the **Pete's Journal and Scroll** optional file. MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 1K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. Place **tx_blood.dds** inside your **Data Files\Textures** folder.
-- [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?) by R-Zero: iron shield replacer with see-through slit.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
-- [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277) by R-Zero: makes Bloodmoon Draugrs look a bit more like their Skyrim counterparts by changing their eye glow color from red to light blue.
-- [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) by Saint_Jiub: remodel and retexture of the Ancient Steel Armor set found in Bloodmoon, inspired by the Skyrim Dawnguard DLC.
-  - Also install [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file), which will add new icons by Moranar and will patch the .esp to restore the unused new helm mesh by Saint_Jiub.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
   - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
-- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk: model and texture replacer for the Spriggan creature and its unique ingredient: heartwood.
-  - MO2 will install this mod as a BAIN package. Tick **0-Data Files** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq: Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
-- [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 and Qarl: face replacer for Almalexia that also doubles the resolution. Makes her look less dumb.
-  - Only install the **Vanilla-Friendly Almalexia Replacer** main file.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics. Two versions are included, one with the original color of the Tamriel Rebuilt models, and another with a slightly more blue tint. No requirements.
   - Only install the **Vivec Palace Water Replacer** main file.
@@ -256,12 +230,10 @@ Choose between one of these two alternatives for less intrusive magic glow. My p
 
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
 
-- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) by EnvyDeveloper: adds distant buildings to Mournhold, so you can see the temple from almost any part of the city.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
 
 ## AUDIO
 
@@ -279,14 +251,11 @@ The following mods require additional MGE XE configuration after installation to
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord: drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero: Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
 - [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
-- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-Zero: adds entrance bell chimes with sound effects to imperial town tradehouses and taverns. 
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot: simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
 
-- [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities. 
-- [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557) by R-Zero: adds a statue of Hlaalu Brevur to Balmora High Town district.
 - [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho: bump-maps the Cavern of the Incarnate and the Azura statue meshes, adds flowers, grass, and tiny fireflies, and modifies the armor and clothes on some of the failed incarnates.
   - Hide/delete the **Meshes** and **Textures** folders.
   - In TESAME, delete the following records:
@@ -300,34 +269,17 @@ The following mods require additional MGE XE configuration after installation to
   - Save the plugin as **COI.esp**, overwriting the original when asked.
   - This keeps only the armor and clothing modifications on the Failed Incarnates.
 - [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room. 
-- [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) by Melchior Dahrk: model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
-  - Hide/disable **Melchior's Mudcrab Merchant - ReducedGold.ESP**.
-- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
-  - Disable all plugins minus **Meteorite Ministry Temple - Higher.esp**.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement**
-- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros: makes the previously empty high fane corridor a more interesting location.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Full version**
-- [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk: gives the farming village of Vos a unique, reddish texture to complement the region. This changes both the interior and exterior areas of the village.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran: adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
-- [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk: makes the Tower of Vos much taller than before, and adds a group of guards called War Wizards that patrol the exterior of the stronghold.
-- [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk and Basswalker: gives the city of Suran unique glistening whitewashed walls.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **0-Data Files**
-    - **1-Glow in the Dahrk Patch**: only if you installed **Glow in the Dahrk** earlier.
-    - **1-White Suran Ground Textures**
+- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
@@ -337,17 +289,12 @@ The following mods require additional MGE XE configuration after installation to
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) by grasscid: replaces Aesliip's Ring's buggy "fortify magicka 75 pts" enchantment with a "fortify maximum magicka 0.5x INT" effect.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11: makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord: do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk: increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
-- [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord: adds a new "defensive stance" mechanic, which increases your block and reduces your speed if you have a shield equipped while crouching. 
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat: modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
-- [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674) by rot: newly murdered characters are now drawn to the tombs of their ancestors. You will meet your victims again.
-  - Only install the **Ghost Revenge** main file.
-- [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade: the player can now also bribe NPCs with items, instead of just gold.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
@@ -358,11 +305,7 @@ The following mods require additional MGE XE configuration after installation to
     - Hide/disable **correctUV Ore Replacer_fixed.esp**
     - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file) by Gavrilo93: adds the "Hortator" and "Nerevarine" factions to your character sheet, once all Great Houses named you as such and you have touched the Moon and Star, respectively. As "Hortator" you will also gain disposition bonuses and penalties.
-- [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916) by Gavrilo93: allows the player to rescue for non-hostile NPCs in hostile dungeons with Reputation as a reward.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-- [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?) by OperatorJack: performing a summoning spell in a town or city is now illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
-- [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord: you will need to equip a pick axe and strike ore veins to mine ore.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
@@ -374,19 +317,10 @@ The following mods require additional MGE XE configuration after installation to
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
-- [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600) by Gavrilo93: adds a Redoran Master Helm into the home of almost every Redoran Councilor.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21: provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-- [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file) by Necrolesian: merge of Necrolesian's [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) and [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745). Integrates the Adamantium Armor and Area Effect Arrows into the base game in a more seamless way.
-  - If you installed **Unofficial Morrowind Official Plugins Patched** earlier, also install the following patches:
-    - [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file) by PikachunoTM and Sigourn: replaces the merged plugin of Unofficial Morrowind Official Plugins Patched for compatibility with Necrolesian's Official Plugins Integrated.
-    - [**Area Effect Arrows Integrated + UMOPP v3.0.4 Patch**](https://www.mediafire.com/file/2m6ckellmgskr9l/Area_Effect_Arrows_Integrated_+_UMOPP_v3.0.4_Patch.zip/file) by Sigourn: solves conflicts between Area Effect Arrows Integrated and Unofficial Morrowind Official Plugins Patched regarding the contents of container **de_p_chest_02_aryne**.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius: prevents the player from resting unless they activate a bed.
-- [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?) by Yar-Yulme: replaces textual descriptions in seven old Dwemer books from TES3: Tribunal with actual graphics.
-  - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
-  - Hide/disable **Old_dwemer_books.esp**.
 - [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
-- [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059) by abot: in-game time will pass according to the actual time spent reading in-game. In other words, if it takes you five minutes to read a book, five in-game minutes will pass once you close the book interface.
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
@@ -398,10 +332,8 @@ The following mods require additional MGE XE configuration after installation to
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
-- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93: adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down. 
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
   - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
-- [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93: adds a merchant to Ghostgate, Temple who will sell you soul gems and soul trap scrolls. Especially convenient for completing the Pilgrimages of the Seven Graces.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
     - GMST **fJumpRunMultiplier**
@@ -414,8 +346,6 @@ The following mods require additional MGE XE configuration after installation to
     - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-- [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?) by Remiros: lightweight alternative to **Loot Well Urned** and **Grave Goods**. Adds extra loot to urns in ancestral tombs.
-  - Only install the **Urnest Loot** optional file.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
 ## GAME BALANCE
@@ -429,50 +359,14 @@ The following mods require additional MGE XE configuration after installation to
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 
-The following mod should only be installed if you are playing with the official **Siege at Firemoth** plugin or the merged **Unofficial Morrowind Official Plugins Patched** plugin.
-
-- [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730) by Necrolesian: replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
-
 ## QUEST AND FACTION TWEAKS
 
-- [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio: each report, when read, will give you one point of Alchemy skill.
-- [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550) by Merlord and Danae: Galbedir will now hide Ajira's Alchemy Reports in different locations of the guild, every time. There are 20 new locations, all within the Mages Guild of Balmora.
-  - This mod is incorrectly packaged. Set **00- Main** as the proper **Data** directory in MO2.
-- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn: Spell Breaker will always be in Bthuand, even if you haven't begun the quest to get it yet.
-- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93: adds a small quest allowing you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
-- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical: Socucius Ergalla will now arrange for the taxman's mortal remains to be buried during the quest Death of a Taxman.
-- [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar: adds more options for clearing a bounty on your name, all RP friendly.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
-- [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752) by Gavrilo93 and PoodleSandwich2: gives you the opportunity to side with Fargoth in the quest "Fargoth's hiding place", letting you double-cross Hrisskar.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius: repairs the walls of Fort Frostmoth as you reach the end of the Bloodmoon main quest.
-- [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870) by mort: allows the player to give Gaenor one million gold in exchange for not having to fight him.
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
-- [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671) by Leyawynn: changes the 2 amulets from the Aspect of Strength and Speed into a mask and boots respectively. Also includes a spear replacer.
-- [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097) by hollaajith: let's you complete the main quest normally even if your level and reputation are high, stopping the "concerned people" from forcing you to meet the archanon.
-- [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/) by Endoran: completes both sets of Imperial silver armour: the regular silver and the Duke's guard silver armour. It puts it in logical and lore friendly locations. You can find the regular silver armour on the guards in Ebonheart, and sold by Sirollus Saccus in the Hawkmoth Legion garrison. The silver cuirass has also been updated to be a recognized legion uniform. The Duke's silver armour is found on all of the Duke's guards and members of the Order of Ebonheart including the Knight of the Imperial Dragon. It is given to the player as a reward from Varus Vantinius after returning the Lord's Mail and becoming part of the Order of Ebonheart.
-  - Also install the **Alternate Silver Helmet** optional file.
-- [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024) by mort: removes the "You're out of uniform. Talk to me when you're serious." greeting from legion NPCs and makes the "Where's your uniform?" line happen 90% less often.
-- [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/) by Lurlock: overhauls Morag Tong writs and also adds punishments and rewards for completing your missions, depending on whether you were caught.
-- [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Gavrilo93: provides you pacifist options to complete several quests in vanilla Morrowind - provided that it would make sense that such an option would exist.
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93: plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success. 
-- [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file) by Leyawynn: makes it so that you can still do quests, even if you're the highest rank in the faction.
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
-  - Only install the **No Quest Changes** optional file.
-- [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by Ava Aelius: gives Jiub a house near Buckmoth Legion Fort and connects his presence in Morrowind to his status as Saint Jiub the Eradicator in TES IV and TES V in a lore-friendly and immersive way.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
-    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
-- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
-- [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Gavrilo93: a combination of 12 of Gavrilo93's mods, from the vanilla quest tweaks/roleplaying choices/consequences category. For a detailed list of the mods included, read the description.
-  - If you installed **Dubdilla Location Fix** earlier, also install [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file). This patch will include the changes made by Half11 and Gavrilo93 to the quest "A Cure for Vampirism", included in Gavrilo93's quest pack.
-- [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93: provides three different methods to fix the inconsistency concerning the vanilla Redas Tomb quest and the last of the Redas family.
-  - Hide/disable **The Last of the Redas Family - Changes Name.ESP** and **The Last of the Redas Family - She Donated.ESP**.
-- [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM: after completing Vodunius Nuccius' quest, you can now use his house as a base of residence in Seyda Neen.
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598) by Gavrilo93: adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
-  - Rename this mod to something shorter when installing it in MO2 if you don't want MO2 to bombard you with the same error message every time you modify your installation or load order.
+  - MO2 will install this mod as a BAIN package. Tick **00 Complete** and click **OK**.
 
 ## DIALOGUE
 
@@ -484,26 +378,16 @@ The following mod should only be installed if you are playing with the official 
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
-- **Always there Spell Breaker.esp**
 - **Bloated Caves.esp**
-- **Brevur of Balmora - Finally Some Good Statue Mod.esp**
-- **Clean Atmospheric Delights.esp**
 - **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
 - **Creeper the drummer.esp**
 - **Dubdilla Location Fix.esp**
 - **Divayth Fyr Puzzle Fixed.ESP**
-- **frostmoth_repaired_v0_31.esp**
-- **Meteorite Ministry Temple - Higher.esp**
 - **Morrowind Anti-Cheese.ESP**
 - **Nordic Chest Replacer.esp**
-- **Pacifist Options - When it Makes Sense.esp**
-- **Passage of Prayers - Full.esp**
 - **QL_SevenGracesShrines.esp**
 - **ReclamationsInHolamayan.esp**
-- **Religions Elaborated.esp**
-- **settledjiub.ESP**
 - **Talos Cult Revised.esp**
-- **Ttooth's Missing NPCs - No Nolus.esp**
 - **true corprus.esp**
 
 The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
@@ -523,7 +407,7 @@ The following plugins will conflict with each other. [**Follow the instructions 
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Closed Molag Mar.esp**:
     - Cell **Molag Mar**
       - There are actually two cells named **Molag Mar**. Double click on one of the records, and expand the Raw Data (Subitems) panel. If you see ANAM references to **orns omaren** and **Temple**, that's the **Molag Mar** record you want to delete.
-- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Open Vivec (Vanilla Placement) v1.1.esp**:
+- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Open Vivec.esp**:
     - Cell **Vivec, Foreign Quarter Plaza**
     - Cell **Vivec, Hlaalu Plaza**
     - Cell **Vivec, Redoran Plaza**
@@ -535,14 +419,6 @@ The following plugins will conflict with each other. [**Follow the instructions 
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
-
-The following assets will conflict with one another. Hide these assets using Mod Organizer 2, or delete them altogether.
-
-- Hide/delete the following assets from **Graphic Herbalism - MWSE and OpenMW Edition** for compatibility with **Thickle-Lo - The Succulent Hackle-Lo Mod**:
-    - **meshes\o\flora_hackle-lo_01.nif**
-    - **meshes\o\flora_hackle-lo_02.nif**
-- Hide/delete the following assets from **Improved Better Skulls** for compatibility with **Creature VFX Restoration**:
-    - **meshes\r\XAncestorGhost.nif**
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
 
@@ -562,25 +438,11 @@ Older mods will have an older version of the file. Because of this, and in the i
 
 ### IN-GAME CONFIGURATION
 
-**Graphic Herbalism - MWSE and OpenMW Edition** will require in-game configuration to work properly alongside **Immersive Mining**.
-
-- During gameplay, open the main open and click **Mod Config**.
-- The **Mod Configuration** menu will open and you will see a list of mods to the left. Click **Graphic Herbalism**.
-- In the window that has opened, click the **Blacklist** tab.
-- Our goal is to prevent **Graphic Herbalism** from working with ore veins. To do that, double click on every item under the **Objects** list that begins with the following prefixes:
-  - **rock_adam_**
-  - **rock_diamond_**
-  - **rock_ebony_**
-  - **rock_glass_**
-- This will move said items under the **Blacklist** tab. Once you are finished, you can close the menus and play the game normally.
-
 **Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
 
 - [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
 - [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
 - The other two tabs will be automatically adjusted. Leave them be.
-
-**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 **Less Aggressive Creatures** will require in-game configuration. I suggest the following settings.
 
@@ -603,10 +465,6 @@ Load **Glowing Bitter Coast**'s assets before **Project Atlas**' assets.
 
 Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
 
-Load the **Melchior's Mudcrab Merchant.esp** plugin after the **Morrowind Anti-Cheese.esp** plugin.
-
-Load the **WhiteSuran2_MD_Edition.esp** and **White Suran Ground Textures.esp** plugins before the **Clean Atmospheric Delights.esp** plugin.
-
-Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec (Vanilla Placement) v1.1.esp** plugins.
+Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec.esp** plugins.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
