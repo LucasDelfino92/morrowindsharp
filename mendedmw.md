@@ -17,7 +17,7 @@
   - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#bug-fixes)
   - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#optimization)
   - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#expansion-implementation)
-  - [Official plugins patched](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins-patched)
+  - [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins)
   - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#ini-edits)
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
