@@ -174,7 +174,7 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - This mod is incorrectly packaged. Place **tx_blood.dds** inside your **Data Files\Textures** folder.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
-- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
+- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
