@@ -11,6 +11,9 @@
 - **Visuals**
   - Removed [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) (it's just *one* weapon and it's called a "fang" because it uses a fang, no need to make the weapon look like one literally).
   - Removed [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) (adding glow maps to just a few creatures that don't even emit light in the vanilla game feels arbitrary).
+  - Re-added [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (it's a very well done mod and adds a lot to the Molag Amur region).
+- **Overhauls**
+  - Re-added [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) (it's a very vanilla-friendly overhaul that makes the House of Earthly Delights even more special).
 - **Gameplay**
   - Modified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
 
