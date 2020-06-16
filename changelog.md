@@ -17,7 +17,7 @@
 - **Gameplay**
   - Re-added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) (it has some important quality of life features that are better done than other mods that attempt the same).
   - Modified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
-  - Moidified **Supply Chests Merged** installation instructions.
+  - Modified **Supply Chests Merged** installation instructions.
 
 ## June 13th
 
