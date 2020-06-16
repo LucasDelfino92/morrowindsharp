@@ -4,6 +4,16 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 16th
+
+- **Internal logic**
+  - Removed [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) (the Telvanni inn in Vivec should also allow renting rooms for free if you are Telvanni, plus inn prices are so meaningless even with economy mods that using an .esp isn't justified).
+- **Visuals**
+  - Removed [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) (it's just *one* weapon and it's called a "fang" because it uses a fang, no need to make the weapon look like one literally).
+  - Removed [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) (adding glow maps to just a few creatures that don't even emit light in the vanilla game feels arbitrary).
+- **Gameplay**
+  - Modified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
+
 ## June 13th
 
 - **Mending Morrowind**
