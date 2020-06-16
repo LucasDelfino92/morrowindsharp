@@ -85,7 +85,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 - [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot: removes "outlander" from some non-Dunmer voices.
   - Only install the **Outlander Yourself** miscellaneous file.
-- [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93: if you are a Redoran, you can rent a room at the Flowers of Gold in Vivec for free, as the dialogue suggests.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
 - [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93: according to in-game information, it seems that a Telvanni Mouth's symbol of office is the Silver Staff of Peace. Yet in vanilla, only you get one when you become a Mouth, which you would have to give to Fast Eddie when he becomes your Mouth. Therefore this mod adds a Silver Staff of Peace into the inventory of the six other Telvanni Mouths, including Baladas' Mouth, who only shows up mid-game.
@@ -124,7 +123,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
   - Also install the **kart_facelift_update_0-10-2** update file.
   - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
   - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures, and if you are not using it, you want consistency with the vanilla textures.
-- [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) by Leyawynn: removes the guard on the Fang of Haynekhtnamet to make it look more like a fang.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
 - [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich: makes the Package for Caius Cosades an actual package.
 - [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich: gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
@@ -155,8 +153,6 @@ The Mending Morrowind mod list has its own separate section. [**You can find it 
     - **00 Core**
     - **01 MWSE Version**
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: takes the Atronach models from Rotat's **Creature VFX Restoration** and adds to them the glow maps from Peterbitt's [**Luminous Atronachs**](https://www.nexusmods.com/morrowind/mods/42613/?), thus rendering the mods compatible.
-  - Only install the **Luminous VFX Atronachs** main file.
 - [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk: enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional mesh replacer for the vanilla effect. 
@@ -300,10 +296,10 @@ The following mods require additional MGE XE configuration after installation to
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
-    - **08 Glowing Bitter Coast**: only if you installed **Glowing Bitter Coast** earlier.
-    - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier but didn't install **Glowing Bitter Coast**.
-    - **11 Atlas - Glowing Bitter Coast Patch**: only if you installed both **Project Atlas** *and* **Glowing Bitter Coast** earlier.
+    - **00 Correct UV Ore + README**: required if you installed **correctUV Diverse Ore Veins** earlier.
+    - **08 Glowing Bitter Coast**: required if you installed **Glowing Bitter Coast** earlier.
+    - **10 Atlas - Vanilla BC Mushrooms**: required if you installed **Project Atlas** earlier.
+    - **11 Atlas - Glowing Bitter Coast Patch**: required if you installed **Glowing Bitter Coast** earlier, in addition to **Project Atlas**.
     - Hide/disable **correctUV Ore Replacer_fixed.esp**
     - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
