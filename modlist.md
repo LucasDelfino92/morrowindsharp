@@ -230,6 +230,7 @@ The following mods require additional MGE XE configuration after installation to
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
 
 ## AUDIO
 
@@ -252,6 +253,7 @@ The following mods require additional MGE XE configuration after installation to
 
 ## OVERHAULS
 
+- [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
 - [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho: bump-maps the Cavern of the Incarnate and the Azura statue meshes, adds flowers, grass, and tiny fireflies, and modifies the armor and clothes on some of the failed incarnates.
   - Hide/delete the **Meshes** and **Textures** folders.
   - In TESAME, delete the following records:
@@ -372,6 +374,7 @@ The following mods require additional MGE XE configuration after installation to
 The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
 - **Bloated Caves.esp**
+- **Clean Atmospheric Delights.esp**
 - **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
 - **Creeper the drummer.esp**
 - **Dubdilla Location Fix.esp**
@@ -447,6 +450,8 @@ Older mods will have an older version of the file. Because of this, and in the i
     - mudcrab_diseased
     - rat
     - rat_diseased
+
+**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 ### LOAD ORDER
 
