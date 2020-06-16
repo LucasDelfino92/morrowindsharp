@@ -331,6 +331,8 @@ The following mods require additional MGE XE configuration after installation to
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord: overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Hide/disable **Realistic_Repair_Optional.esp**.
 - [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file) by Corsair83: adds additional forges and anvils to major cities and settlements that did not previously contain any.
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
+  - Only install the **No Quest Changes** optional file.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
@@ -342,7 +344,9 @@ The following mods require additional MGE XE configuration after installation to
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Tick **00 Complete** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
+    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
