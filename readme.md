@@ -2,8 +2,6 @@
 
 Last updated: June 16th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
-As of June 16th this mod list is no longer maintained. This doesn't necessarily mean your game will break if you play with it. For that to happen there should be some serious changes made to the mods that integrate this mod list. But you have been warned.
-
 ## CONTACT INFO
 
 - Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
