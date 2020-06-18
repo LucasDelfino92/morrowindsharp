@@ -78,6 +78,7 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 ## HIGH RESOLUTION TEXTURES
 
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with textures shipped in the GOG release of Morrowind that have less compression artifacts and which the game doesn't use by default.
+  - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Now install a second instance of this mod. This time, tick **01 Atlas Textures** and click **OK**.
