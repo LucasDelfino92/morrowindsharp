@@ -6,19 +6,13 @@
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
-  - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3view)
-  - [TES3Merge](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3merge)
-  - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tesame)
-  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#testool)
-  - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3cmd)
-  - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash)
-  - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-    - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
-    - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
-  - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
-    - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
-    - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
-    - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
+- [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
+  - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
+  - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
+- [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
+  - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
+  - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
+  - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 ## INSTALLATION
@@ -41,25 +35,25 @@ One thing many Morrowind players who bought their game through online stores suc
 
 Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
 
-### [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
+[**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
 Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
-### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
-### [**TESAME**](http://mw.modhistory.com/download-95-15443)
+[**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Install this in **Morrowind Mods\Tools\TESAME**. This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
 
-### [**TESTool**](http://mw.modhistory.com/download-13-5234)
+[**TESTool**](http://mw.modhistory.com/download-13-5234)
 
 Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
-### [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
+[**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
 
 - Extract the archive, and place **tes3cmd.exe** inside your **Morrowind\Data Files** folder.
 - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
@@ -68,7 +62,7 @@ Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving 
 
 This tool is used for cleaning plugins, deleting dirty records.
 
-### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
+[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
 - Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
