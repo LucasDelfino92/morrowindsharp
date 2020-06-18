@@ -30,6 +30,18 @@ When installing mods manually, by extracting the contents of a mod and dropping 
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for each of the following sections before installing them:
+
+- **HIGH RESOLUTION TEXTURES**
+- **BUG FIXES**
+- **OPTIMIZATION**
+- **EXPANSION DELAY**
+
+To create separators:
+
+- Right click on the empty space on the mod order window, and click **Create Separator**.
+- Name it according to the proper section and click **OK**.
+
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
 Now that we have installed all tools, our Mod Manager, and MGE XE, we can finally get onto patching Morrowind itself.
@@ -62,13 +74,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click **Save** and close the window.
-
-## CREATING SEPARATORS IN MOD ORGANIZER 2
-
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for each of the following sections before installing them. 
-
-- Right click on the empty space on the mod order window, and click **Create Separator**.
-- Name it according to the proper section and click **OK**.
 
 ## HIGH RESOLUTION TEXTURES
 
