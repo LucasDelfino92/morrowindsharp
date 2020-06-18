@@ -4,6 +4,8 @@ Last updated: June 18th, 2020. See the [**Changelog**](https://github.com/Sigour
 
 ## CONTACT INFO
 
+You can find me in the [**Morrowind Modding Community**](https://discord.me/mwmods) Discord, in addition to the following sites.
+
 - Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
 - Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
 - RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
