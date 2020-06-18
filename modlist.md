@@ -144,18 +144,21 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
-  - This mod is incorrectly packaged. Set the proper **Data** directory in MO2.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
 - [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
+  - MO2 will tell you there's no game data on top level. Expand the **Creeper the drummer** folder. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
+    - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
   - Also install the **kart_facelift_update_0-10-2** update file.
+    - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
   - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
-  - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures, and if you are not using it, you want consistency with the vanilla textures.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich: makes the Package for Caius Cosades an actual package.
 - [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich: gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
   - Only install the **Unique Rippened Belladonna** optional file.
