@@ -193,7 +193,6 @@ This will create a separator which you can move around in the left window, but f
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend.
 
-- [**MGE XE Shader - Apel's Gamma Correction Fixed**](https://www.mediafire.com/file/kx5w1vmmmfl80bf/MGE_XE_Shader_-_Apel%27s_Gamma_Correction_Fixed.zip/file) by Apel and e371: 
 - [**MGE XE Shader - deband_fogaware**](https://www.mediafire.com/file/i76vzpyz66f5gzj/MGE_XE_Shader_-_deband_fogaware.zip/file) by Hrnchamd and vtastek: shader that improves on the look of the game's fog.
 - [**MGE XE Shader - EdgeAA**](https://www.mediafire.com/file/qnxovx5vc5m0wcs/MGE_XE_Shader_-_EdgeAA.zip/file) ported by vtastek: Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use both at the same time for best results.
 
@@ -220,7 +219,6 @@ The shader combination that works the best for me, and which I personally recomm
 - Underwater Interior Effects
 - Sunshafts
 - Eye Adaptation (HDR)
-- Apels GammaCorrection
 - deband_fogaware
 
 ### DISTANT LAND TAB
