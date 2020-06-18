@@ -31,18 +31,10 @@ When installing mods manually, by extracting the contents of a mod and dropping 
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for each of the following sections before installing them:
-
-- **HIGH RESOLUTION TEXTURES**
-- **BUG FIXES**
-- **MWSE BUG FIXES**
-- **OPTIMIZATION**
-- **EXPANSION DELAY**
-
-To create separators:
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for the following sections before installing these mods.
 
 - Right click on the empty space on the mod order window, and click **Create Separator**.
-- Name it according to the proper section and click **OK**.
+- Name it **MENDING MORROWIND** and click **OK**.
 
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
@@ -120,6 +112,8 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
 ## FINISHING TOUCHES
+
+Some of the mods in this list conflict with each other in a way that requires us to rearrange their installation order.
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
