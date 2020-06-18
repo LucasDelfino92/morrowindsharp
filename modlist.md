@@ -19,9 +19,9 @@
 - [Quest and faction tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#quest-and-faction-tweaks)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
+    - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
     - [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
     - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
-    - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 
