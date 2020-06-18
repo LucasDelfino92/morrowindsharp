@@ -5,7 +5,7 @@
 ## INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
-  - [A note on the official plugins]()
+  - [A note on the official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#a-note-on-the-official-plugins)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
