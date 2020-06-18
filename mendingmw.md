@@ -62,7 +62,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
-### Expansion delay
+## Expansion delay
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
