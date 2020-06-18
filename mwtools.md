@@ -18,6 +18,10 @@
 
 ## CONFLICT SOLVING
 
+A conflict occurs when more than one mod is modifying the same record, or the same asset. For instance, a mod changes the health of a given armor piece, while another mod changes the weight of that armor piece. Similarly, a mod changes a mesh to incorporate a glow effect, while another mod changes a mesh to fix bugs in it.
+
+While asset conflicts can be very difficult to deal with, which is why the Morrowind Improved guide keeps those to a minimum, plugin conflicts are thankfully much easier to solve. Bear in mind that conflicts aren't necessarily something to worry about. Sometimes conflicts can be as harmless as a mod overwriting a typo fix made by Patch for Purists (sadly the tools available to us don't solve these particular conflicts in an automated manner). What's important is that we know what conflicts we are dealing with, and if they are of considerable importance, how to solve them.
+
 ### TES3View
 
 TES3View is a great tool that let's you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
