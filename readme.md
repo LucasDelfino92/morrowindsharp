@@ -1,14 +1,14 @@
 # MORROWIND IMPROVED
 
-Last updated: June 18th, 2020. See the [**Changelog**](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+Last updated: June 18th, 2020. See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
-You can find me in the [**Morrowind Modding Community**](https://discord.me/mwmods) Discord, in addition to the following sites.
+You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
 
-- Nexus Mods user: [**Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
-- Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
-- RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
+- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
+- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
 ## DESCRIPTION
 
@@ -16,8 +16,8 @@ You can find me in the [**Morrowind Modding Community**](https://discord.me/mwmo
 
 This mod list is divided in two major sections:
 
-- The [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) and [**Mending Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md) guides, which explain how to install the game, set up tools and mod manager, and patch Morrowind for a mostly bug-free, stable, and purist Morrowind experience.
-- The [**Modding Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md) and [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
+- The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) and [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md) guides, which explain how to install the game, set up tools and mod manager, and patch Morrowind for a mostly bug-free, stable, and purist Morrowind experience.
+- The [Modding Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md) and [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
 
 While the Setup and Mending Morrowind are meant for everyone who is looking into playing Morrowind, the Modding Morrowind and Tools guides are aimed at more experienced modders. The **Modding Morrowind** guide, in particular, is divided into a series of modules, all of which can be installed independently from one another.
 
@@ -33,7 +33,7 @@ Last but not least: though this guide does not contemplate **Tamriel Rebuilt**, 
 
 ## MOD ORDER AND LOAD ORDER
 
-You can download a package containing these in .txt form from here: [**Morrowind Improved June 16th**](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing)
+You can download a package containing these in .txt form from here: [Morrowind Improved June 16th](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder.
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
