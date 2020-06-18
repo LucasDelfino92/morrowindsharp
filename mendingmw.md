@@ -69,22 +69,37 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click **Save** and close the window.
 
-## HIGH RESOLUTION TEXTURES
+## UNCOMPRESSED VANILLA TEXTURES
 
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with textures shipped in the GOG release of Morrowind that have less compression artifacts and which the game doesn't use by default.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-  - Now install a second instance of this mod. This time, tick **01 Atlas Textures** and click **OK**.
-  - MO2 will tell you the mod already exists. Click **Rename**. I suggest modifying it to read **Intelligent Textures v2.1 - Atlas Textures**. Click **OK**.
-  - Also install the **Wood Fix** update file.
-  - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
+
+These textures must be installed before any other mod that replaces them, such as bug fixing mods.
 
 ## BUG FIXES
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
+
+## OPTIMIZATION
+
+- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
+  - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
+  - Note that users who have decided to install tree replacers, such as Vurt's, have consistently run into issues with this mod's **MGE XE Addon**. Keep this in mind if you run into trouble in the future. The rest of the guide features no such replacers.
+- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+
+## HIGH RESOLUTION TEXTURES
+
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
+  - Also install the **Wood Fix** update file.
+  - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
+
+## MINOR BUG FIXES
+
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
@@ -97,15 +112,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
-
-## OPTIMIZATION
-
-- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
-  - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
-  - Note that users who have decided to install tree replacers, such as Vurt's, have consistently run into issues with this mod's **MGE XE Addon**. Keep this in mind if you run into trouble in the future. The rest of the guide features no such replacers.
-- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-  - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
 ## EXPANSION DELAY
 
