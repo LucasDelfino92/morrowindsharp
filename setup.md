@@ -139,7 +139,6 @@ Follow these steps for **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
 - Navigate to the location of the tool you want to install and double click on its .exe file.
 - In the **Start In** field, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind).
-- Leave the **Arguments** field empty.
 - Click **Apply** and then **OK**.
 
 Follow these steps for **tes3cmd**.
@@ -148,7 +147,6 @@ Follow these steps for **tes3cmd**.
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
 - Navigate to the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe) and double click on it.
 - In **Start In**, search for the location of your Morrowind **Data Files** folder (for instance, C:\Games\Morrowind\Data Files)
-- Leave the **Arguments** field empty.
 - Click **Apply** and then **OK**.
 
 Follow these steps for **Wrye Mash**.
@@ -156,7 +154,6 @@ Follow these steps for **Wrye Mash**.
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
 - Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe) and double click on it.
-- Leave both the **Start In** and **Arguments** fields empty.
 - Click **Apply** and then **OK**.
 
 ### Hiding files and plugins in Mod Organizer 2
