@@ -171,15 +171,22 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
     - **05 Raven Rock Glass Windows Interior Sunrays**
+- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+  - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays**.
+  - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click on **data**, and click **Create directory...**. Name this new folder **meshes** and click **OK**. 
+    - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r** and click **OK**. 
+    - Expand the **meshes** folder. Move the original three files into the **meshes\r** folder and click **OK**.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
-- [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives the unique Muffin item Taddeus' Muffin mesh. 
+- [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives an unique mesh to the in-game muffin.
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/disable **Hopesfire Torch.esp.** 
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7: implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
@@ -195,9 +202,10 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Only install the **Mist Retexture** main file.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat: replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-  - Only install the **Pete's Journal and Scroll** optional file. MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 1K** and click **OK**.
+  - Only install the **Pete's Journal and Scroll** optional file.
+  - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. Place **tx_blood.dds** inside your **Data Files\Textures** folder.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
