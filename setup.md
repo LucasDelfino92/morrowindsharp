@@ -86,7 +86,7 @@ Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving 
 - Extract the archive, and place **tes3cmd.exe** inside your **Morrowind\Data Files** folder.
 - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
 - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-- Inside **Morrowind\Data Files**, create a **tes3cmd\backups** folder.
+- Inside **Morrowind\Data Files**, create a **tes3cmd** folder, and a **backups** folder inside of it.
 
 This tool is used for cleaning plugins, deleting dirty records.
 
