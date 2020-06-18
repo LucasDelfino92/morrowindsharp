@@ -63,10 +63,12 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click **Save** and close the window.
 
-## CREATING A SEPARATOR
+## CREATING SEPARATORS IN MOD ORGANIZER 2
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for each of the following sections before installing them. 
 
 - Right click on the empty space on the mod order window, and click **Create Separator**.
-- Name it **MENDING MORROWIND** and click **OK**.
+- Name it according to the proper section and click **OK**.
 
 ## HIGH RESOLUTION TEXTURES
 
