@@ -1,8 +1,9 @@
 # SETUP
 
+- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
 ## INDEX
 
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3view)
@@ -20,7 +21,7 @@
     - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## Installation
+## INSTALLATION
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -36,7 +37,7 @@ Your **Morrowind root folder** contains the game’s executable (Morrowind.exe),
 
 One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
-## Tools
+## TOOLS
 
 Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
 
@@ -80,13 +81,13 @@ This tool is used for cleaning plugins, deleting dirty records.
 
 This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
-## Mod Organizer 2
+## MOD ORGANIZER 2
 
 Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
 
 My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
 
-### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 - Download the main file: **Mod Organizer 2 (Archive)**.
 - Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods\Tools** folder.
@@ -120,7 +121,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
 
-### Setting up tools in Mod Organizer 2
+### SETTING UP TOOLS IN MOD ORGANIZER 2
 
 For our modding tools to work in our Mod Organizer 2 Morrowind installation, we need to configure them in Mod Organizer 2. Some of them require generic instructions, others require more specific instructions which I'll detail.
 
@@ -151,7 +152,7 @@ Follow these steps for **Wrye Mash**.
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
-### [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
 1. Download the **MGE XE Manual Install** main file.
 2. Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
@@ -160,7 +161,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
-### Graphics tab
+### GRAPHICS TAB
 
 All features in this page are self-explained, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones 
 are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
@@ -190,7 +191,7 @@ The shader combination that works the best for me, and which I personally recomm
 - Apels GammaCorrection
 - deband_fogaware
 
-### Distant Land tab
+### DISTANT LAND TAB
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
 
@@ -201,7 +202,7 @@ The **Distant land generator wizard** lets you select which plugins you want MGE
   - If you go on through with the **Customize setup** option, when you reach the **Statics** tab you should check the **Use lists of statics overriding parameters set above** and click on the **Edit list** button. In the window that has opened, click on **Add**. A window should open in the Morrowind\mge3 directory. Double click on **MGE XE Default Statics Classifiers.ovr** to add it to the Static Overrides list. Finally click **Save**. This will prevent some bugs with Distant Land generation.
 - **Update existing distant land** will regenerate Distant Land according to the saved/default settings. If you have customized your setup in the past, this is the option you want to use.
 
-### In-game tab
+### IN-GAME TAB
 
 The **Options** section has a handful of features you will want to be aware of. **Skip opening movie** is a timesaver, while **Responsive menu caching** is a must have. **Crosshair autohide** is nice at first, but grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. Finally, **Daggerfall combat controls** may appeal to the veteran Daggerfall player.
 
