@@ -4,6 +4,7 @@
 
 ## INDEX
 
+- [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#creating-separators-in-mod-organizer-2)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
@@ -23,6 +24,13 @@
     - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
+
+## CREATING SEPARATORS IN MOD ORGANIZER 2
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for the following sections before installing these mods.
+
+- Right click on the empty space on the mod order window, and click **Create Separator**.
+- Name it accordingly to its category and click **OK**.
 
 ## USER INTERFACE
 
