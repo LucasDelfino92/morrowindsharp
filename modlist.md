@@ -4,7 +4,6 @@
 
 ## INDEX
 
-- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mending-morrowind)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
@@ -24,10 +23,6 @@
     - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
     - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
-
-## MENDING MORROWIND
-
-The Mending Morrowind mod list has its own separate section. [**You can find it here.**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
 
 ## USER INTERFACE
 
