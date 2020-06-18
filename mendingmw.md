@@ -1,14 +1,14 @@
 # INDEX
 
-- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
-  - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#morrowind-code-patch)
-  - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#high-resolution-textures)
-  - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#bug-fixes)
-  - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#optimization)
-  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#expansion-implementation)
-  - [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#official-plugins)
-  - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#ini-edits)
-  - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
+- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind)
+  - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
+  - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
+  - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
+  - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
+  - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+  - [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#official-plugins)
+  - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#ini-edits)
+  - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 # MENDING MORROWIND
