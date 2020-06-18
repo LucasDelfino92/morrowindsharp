@@ -57,41 +57,42 @@ Mod Organizer 2 has now been installed successfully.
 
 ## TES3Merge
 
-- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Install this in **Morrowind Mods\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
 ## TES3View
 
-- [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
+[**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
   - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
 Install this in **Morrowind Mods\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
 
 ## TESAME
 
-- [**TESAME**](http://mw.modhistory.com/download-95-15443)
+[**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Install this in **Morrowind Mods\TESAME**. This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
 
 ## TESTool
 
-- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool)
+[**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool)
 
 Install this in **Morrowind Mods\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
 ## tes3cmd
 
-- [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
-  - Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
-  - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
-  - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-  - Create the following folder:
-    - Morrowind\Data Files\tes3cmd\backups
+[**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
+
+- Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+- Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
+- Create the following folder:
+  - Morrowind\Data Files\tes3cmd\backups
 
 ## Wrye Mash - Polemos fork - 2020
 
-- [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
+[**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
 - Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
