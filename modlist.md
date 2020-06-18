@@ -453,8 +453,6 @@ Older mods will have an older version of the file. Because of this, and in the i
 
 ### LOAD ORDER
 
-Load **Intelligent Textures** and **Intelligent Textures - Wood Fix**'s assets after **Morrowind Optimization Patch**'s assets.
-
 Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s assets.
 
 Load **Glowing Bitter Coast**'s assets before **Project Atlas**' assets.
