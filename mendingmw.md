@@ -6,10 +6,11 @@
 
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
-- [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
-- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
+- [Uncompressed vanilla textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#uncompressed-vanilla-textures)
+- [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
+- [Intelligent textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
+- [Minor bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#minor-bug-fixes)
 - [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
-- [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
@@ -76,14 +77,11 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 
 These textures must be installed before any other mod that replaces them, such as bug fixing mods.
 
-## BUG FIXES
+## BUG FIXES AND OPTIMIZATION
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
-
-## OPTIMIZATION
-
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
   - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
   - Note that users who have decided to install tree replacers, such as Vurt's, have consistently run into issues with this mod's **MGE XE Addon**. Keep this in mind if you run into trouble in the future. The rest of the guide features no such replacers.
@@ -91,7 +89,9 @@ These textures must be installed before any other mod that replaces them, such a
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
-## HIGH RESOLUTION TEXTURES
+These are the major bugfixing and optimization mods for Morrowind. No player should play Morrowind without these.
+
+## INTELLIGENT TEXTURES
 
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
