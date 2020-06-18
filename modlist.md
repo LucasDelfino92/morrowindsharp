@@ -464,3 +464,5 @@ Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
 Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec.esp** plugins.
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
+
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
