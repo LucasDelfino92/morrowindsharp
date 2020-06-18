@@ -116,81 +116,48 @@ This tool is used for repairing and updating saves, as well as updating the mast
 
 On the **Profile** bar below the ID card icon, make sure to select **Morrowind Improved**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to click deactivate all installed mods.
 
-Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). Your installed mods should read as follows:
+Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. It should read as follows:
 
 - DLC: Tribunal
 - DLC: Bloodmoon
 
-Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the edits of plugins closer to the top (if conflicting records are present). They should read as follows:
+Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the edits of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**. It should read as follows:
 
 - Morrowind.esm
 - Tribunal.esm
 - Bloodmoon.esm
 
+You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
+
 ## Setting up tools in Mod Organizer 2
 
 For our modding tools to work in our Mod Organizer 2 Morrowind installation, we need to configure them in Mod Organizer 2. Some of them require generic instructions, others require more specific instructions which I'll detail.
 
-Follow these steps for **TES3View**, **TES3Merge**, and **TESAME**.
+Follow these steps for **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-- Click on **New Executable**, and input the following information:
-   - In **Title**, the name of the tool (for instance, TES3Merge)
-   - In **Binary**, search for the location of the tool (for instance, C:\Games\Morrowind\TES3Merge\TES3Merge.exe)
-   - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
-   - Leave the **Arguments** field empty.
-   - Tick **Use application's icon for desktop shortcuts**.
-   - Finally, click **Apply** and then **OK**.
-
-Follow these steps for **TESTool**.
-
-- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-- Click on **New Executable**, and input the following information:
-   - In **Title**: TESTool
-   - In **Binary**, search for the location of TESTool.exe (for instance, C:\Games\Morrowind\TESTool\TESTool.exe)
-   - In **Start In**, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind)
-   - Leave the **Arguments** field empty.
-   - Tick **Use application's icon for desktop shortcuts**.
-   - Finally, click **Apply** and then **OK**.
-
-Now we need to setup TESTool for cleaning.
-
-- Launch TESTool in MO2.
-- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Click **Options**. Make sure the following options are active:
-  - Don't change plugin filenames.
-  - Ignore tribunal.esm
-  - Ignore bloodmoon.esm
-  - Restricted dialog cleaning
-  - Restricted cell cleaning
-- Click **Done**.
-- Close TESTool.
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
+- Navigate to the location of the tool you want to install and double click on its .exe file.
+- In the **Start In** field, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind).
+- Leave the **Arguments** field empty.
+- Click **Apply** and then **OK**.
 
 Follow these steps for **tes3cmd**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-- Click on **New Executable**, and input the following information:
-   - In **Title**: tes3cmd
-   - In **Binary**, search for the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe)
-   - In **Start In**, search for the location of your Morrowind Data Files folder (for instance, C:\Games\Morrowind\Data Files)
-   - Leave the **Arguments** field empty.
-   - Tick **Use application's icon for desktop shortcuts**.
-   - Finally, click **Apply** and then **OK**.
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
+- Navigate to the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe) and double click on it.
+- In **Start In**, search for the location of your Morrowind **Data Files** folder (for instance, C:\Games\Morrowind\Data Files)
+- Leave the **Arguments** field empty.
+- Click **Apply** and then **OK**.
 
 Follow these steps for **Wrye Mash**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
-- Click on **New Executable**, and input the following information:
-   - In **Title**: WryeMash
-   - In **Binary**, search for the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe)
-   - Leave the **Start In** field empty.
-   - Leave the **Arguments** field empty.
-   - Tick **Use application's icon for desktop shortcuts**.
-   - Finally, click **Apply** and then **OK**.
+- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
+- Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe) and double click on it.
+- Leave both the **Start In** and **Arguments** fields empty.
+- Click **Apply** and then **OK**.
 
 ## Hiding files and plugins in Mod Organizer 2
 
@@ -247,6 +214,13 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Click **Options**. Make sure the following options are active:
+  - Don't change plugin filenames.
+  - Ignore tribunal.esm
+  - Ignore bloodmoon.esm
+  - Restricted dialog cleaning
+  - Restricted cell cleaning
+- Click **Done**.
 - Select **Merge Leveled Lists for active plugins** and click **Execute**.
 - If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
