@@ -380,6 +380,12 @@ The following mods require additional MGE XE configuration after installation to
 
 ## FINISHING TOUCHES
 
+### MWSEabotlib
+
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
+
+If you have installed any of abot's mods listed above, you will need to install this file. It is an up-to-date **abot\lib.lua**, sharing among many of his MWSE mods. Loading this after all his other mods will ensure they work as intended.
+
 ### CLEANING NOTES
 
 The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
@@ -426,20 +432,6 @@ The following plugins will conflict with each other. [Follow the instructions he
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
-
-Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
-
-### MWSEabotlib
-
-The following mods by **abot** utilize a common **abot\lib.lua** file.
-
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)
-
-Older mods will have an older version of the file. Because of this, and in the interest of simplicity, if using any of the above mods in any capacity, you will also have to install the latest, most up-to-date **abot\lib.lua** file. This file will have to load after these four mods in order to overwrite their individual lib.lua file with the most up-to-date version.
-
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
 
 ### IN-GAME CONFIGURATION
 
