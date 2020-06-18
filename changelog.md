@@ -6,22 +6,17 @@
 
 ## June 18th
 
-This was a massive update regarding the formatting of the **Mending Morrowind** and **Tools** section. With the changes done, I hope people will have a far easier time setting up Morrowind in the future. The most important changes have been redistributing the contents of this sections among three pages, with a new **Setup** page that contains all important and necessary steps before installing the Morrowind Code Patch and all other Mending Morrowind mods.
+This was a massive update regarding the formatting of the **Mending Morrowind** and **Tools** section. With the changes done, I hope people will have a far easier time setting up Morrowind in the future. The most important changes have been redistributing the contents of this sections among three pages, with a new **Setup** page that contains all important and necessary steps before installing the Morrowind Code Patch and all other Mending Morrowind mods. Since it's easier for me to explain what each section explains now instead of listing what changes were made to each section, that's what I'll do right now.
 
 - **Setup**
-  - New section.
-  - Moved tool installation instructions to this section.
-  - Moved MGE XE installation instructions to this section.
-  - Moved Mod Organizer 2 installation instructions to this section.
-  - Moved Mod Organizer 2 tool setup instructions to this section.
-  - Moved MGE XE setup instructions to this section.
+  - Explains how to install the game and what to do about the official plugins.
+  - Explains what tools to install.
+  - Explains how to install Mod Organizer 2 and how to set up the installed tools through Mod Organizer 2.
+  - Explains how to configure MGE XE.
 - **Mending Morrowind**
-  - Removed Mod Organizer 2 installation instructions.
-  - Removed MGE XE installation instructions.
-  - Removed MGE XE setup instructions.
+  - Guide for patching Morrowind using the Morrowind Code Patch and additional mods.
 - **Tools**
-  - Removed tool installation instructions.
-  - Removed Mod Organizer 2 tool setup instructions.
+  - Explains how to use the tools for conflict solving, cleaning, synchronizing mod masters, and updating and repairing saves.
 
 ## June 16th
 
