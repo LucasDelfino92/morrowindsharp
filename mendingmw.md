@@ -4,7 +4,7 @@
 
 ## INDEX
 
-- [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#useful-tips)
+- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
 - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
 - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
@@ -12,7 +12,7 @@
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
 - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 
-## USEFUL TIPS
+## MODDING TIPS
 
 A crash course to Morrowind and Bethesda modding in general is:
 
