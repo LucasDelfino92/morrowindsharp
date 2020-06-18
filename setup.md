@@ -17,7 +17,9 @@
     - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# INSTALLATION
+# SETUP
+
+## Installation
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -33,11 +35,11 @@ Your **Morrowind root folder** contains the game’s executable (Morrowind.exe),
 
 One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
-# TOOLS
+## Tools
 
 Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
 
-## TES3View
+### TES3View
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
@@ -45,25 +47,25 @@ Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the 
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
-## TES3Merge
+### TES3Merge
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
-## TESAME
+### TESAME
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Install this in **Morrowind Mods\Tools\TESAME**. This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
 
-## TESTool
+### TESTool
 
 [**TESTool**](http://mw.modhistory.com/download-13-5234)
 
 Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
-## tes3cmd
+### tes3cmd
 
 [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
 
@@ -74,7 +76,7 @@ Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving 
 
 This tool is used for cleaning plugins, deleting dirty records.
 
-## Wrye Mash
+### Wrye Mash
 
 [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
 
