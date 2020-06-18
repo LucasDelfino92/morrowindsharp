@@ -1,8 +1,9 @@
 # TOOLS
 
+- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
 ## INDEX
 
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 - [Conflict solving](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
@@ -15,7 +16,7 @@
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
 - [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
 
-## Conflict solving
+## CONFLICT SOLVING
 
 ### TES3View
 
@@ -64,7 +65,7 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 - If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
-## Cleaning plugins
+## CLEANING PLUGINS
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
 
@@ -90,7 +91,7 @@ The second step is to clean plugins using tes3cmd.
 
 The cleaned plugins will have overwritten the original plugins.
 
-## Synchronizing mod masters
+## SYNCHRONIZING MOD MASTERS
 
 Sometimes a plugin you have installed will not have its masters synchronized. In practice, this means Morrowind will greet you with the following message:
 
@@ -105,7 +106,7 @@ To fix this, we have to synchronize our mod's masters.
 
 Repeat this process for each of the faulty plugins in your load order.
 
-## Updating saves
+## UPDATING SAVES
 
 When uninstalling or updating mods from a save, we must synchronize our save. Not doing so means Morrowind will greet you with the following message:
 
@@ -122,7 +123,7 @@ To fix this, we have to synchronize our save.
 
 Repeat this process for each of the faulty saves.
 
-## Repairing saves
+## REPAIRING SAVES
 
 it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
