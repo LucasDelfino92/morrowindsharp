@@ -151,6 +151,19 @@ Follow these steps for **Wrye Mash**.
 - Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe) and double click on it.
 - Click **Apply** and then **OK**.
 
+### CREATING SEPARATORS IN MOD ORGANIZER 2
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separate for the upcoming **MGE XE** section.
+
+- Right click on the empty space on the mod order window, and click **Create Separator**.
+- Name it **MGE XE** and click **OK**.
+
+This will create a separator which you can move around in the left window, but for the sake of this guide keep it below the Morrowind expansions, like so:
+
+- DLC: Tribunal
+- DLC: Bloodmoon
+- **MGE XE**
+
 ## MGE XE
 
 Launch Mod Organizer 2. If you click on the icon to the left of the **Run** button, you will get a dropdown menu. Select **MGE XE** and click the **Run** button to launch the application.
