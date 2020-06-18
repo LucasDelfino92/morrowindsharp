@@ -258,7 +258,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
-    - Create a new folder called **Meshes**. Move the **x** folder into the **Meshes** folder.
+    - Create a folder called **Meshes** in the mod's root directory in Mod Organizer 2.
+    - Drag the **x** folder into the **Meshes** folder.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ### READABLE SIGNPOSTS
