@@ -1,16 +1,16 @@
 # INDEX
 
-- [Conflict solving]()
-  - [TES3View]()
-  - [TESAME]()
-  - [TES3Merge]()
-  - [TESTool]()
-- [Plugin cleaning]()
-  - [TESTool]()
-  - [tes3cmd]()
-- [Synchronizing mod masters]()
-- [Updating saves]()
-- [Repairing saves]()
+- [Conflict solving](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
+  - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
+  - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
+  - [TES3Merge](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3merge)
+  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
+- [Plugin cleaning](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
+  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
+  - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
+- [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#synchronizing-mod-masters)
+- [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
+- [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
 
 # CONFLICT SOLVING
 
