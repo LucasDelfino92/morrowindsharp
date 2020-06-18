@@ -147,6 +147,6 @@ MGE XE's Distant Land setup should be re-run. If you have followed the steps [**
 - Click **Run above steps using saved / default settings**.
 - Once the statics have been created, simply click **Finish**.
 
-If you want to confirm your installed mods and plugins are in the right order, [**consult the text files found here**](https://www.mediafire.com/file/1lgm7v6oirfrtz3/Mending_Morrowind_-_Load_order_June_18th.zip/file) (updated June 18th).
+If you want to confirm your installed mods and plugins are in the right order, [**consult the text files found here**](https://download854.mediafire.com/ruo6ts1d1btg/1lgm7v6oirfrtz3/Mending+Morrowind+-+Load+order+June+18th.zip) (updated June 18th).
 
 Congratulations, your Morrowind installation is ready!
