@@ -110,10 +110,9 @@ Install this in **Morrowind Mods\TESTool**. This tool is used for solving confli
    - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
 - With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
 
-## SETTING UP MOD ORGANIZER 2
+## Setting up Mod Organizer 2
 
-There are some tweaks you have to make regarding your Profile settings.
-
+- Launch Mod Organizer 2.
 - Click on the ID card icon at the top of the window, called **Configure profiles**.
 - Tick **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure Automatic Archive Invalidation **is not** enabled.
 - With the **Default** profile selected, click **Rename**. Type in **Vanilla** and click **OK**.
@@ -133,7 +132,11 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 - Tribunal.esm
 - Bloodmoon.esm
 
-## SETTING UP TOOLS IN MOD ORGANIZER 2
+## Setting up tools in Mod Organizer 2
+
+For our modding tools to work in our Mod Organizer 2 Morrowind installation, we need to configure them in Mod Organizer 2. Some of them require generic instructions, others require more specific instructions which I'll detail.
+
+Follow these steps for **TES3View**, **TES3Merge**, and **TESAME**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -144,11 +147,8 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
    - Leave the **Arguments** field empty.
    - Tick **Use application's icon for desktop shortcuts**.
    - Finally, click **Apply** and then **OK**.
-- Repeat these steps for each of the tools mentioned above.
 
-These tools are now set and ready to go.
-
-Now launch Mod Organizer 2.
+Follow these steps for **TESTool**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -174,9 +174,7 @@ Now we need to setup TESTool for cleaning.
 - Click **Done**.
 - Close TESTool.
 
-TESTool is now set and ready to go.
-
-Now we need to set up tes3cmd in Mod Organizer 2.
+Follow these steps for **tes3cmd**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -188,9 +186,7 @@ Now we need to set up tes3cmd in Mod Organizer 2.
    - Tick **Use application's icon for desktop shortcuts**.
    - Finally, click **Apply** and then **OK**.
 
-tes3cmd_clean.bat is now set and ready to go.
-
-Now we need to set up Wrye Mash in Mod Organizer 2.
+Follow these steps for **Wrye Mash**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -202,26 +198,18 @@ Now we need to set up Wrye Mash in Mod Organizer 2.
    - Tick **Use application's icon for desktop shortcuts**.
    - Finally, click **Apply** and then **OK**.
 
-Wrye Mash is now set and ready to go.
-
-## HIDING FILES AND PLUGINS IN MOD ORGANIZER 2
+## Hiding files and plugins in Mod Organizer 2
 
 Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order.
 
 - To hide a plugin, right click on your installed mod and select **Information...**.
 - Select the **Filetree** tab.
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
-## THE OVERWRITE FOLDER OF MOD ORGANIZER 2
-
-Now that we have finished our installation, there is one more quirk about MO2 we need to talk about, and that is the **Overwrite** folder and how it ties together with these tools.
-
-The **Overwrite** folder is the destiny folder for the output of many of these tools, for instance:
+One more quirk about Mod Organizer 2 that we need to talk about is **Overwrite** folder and how it ties together with these tools. The **Overwrite** folder is the destiny folder for the output of many of these tools, for instance:
 
 - Distant Land generation will place its contents here.
-- MWSE will place its mod configuration files here.
 - TES3Merge will place its Merged Objects.esp here.
 - TESTool will place its Merged_Leveled_Lists.esp here.
 
