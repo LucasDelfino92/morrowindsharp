@@ -8,6 +8,7 @@
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
 - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
 - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
+- [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
 - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
 - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
@@ -34,6 +35,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 - **HIGH RESOLUTION TEXTURES**
 - **BUG FIXES**
+- **MWSE BUG FIXES**
 - **OPTIMIZATION**
 - **EXPANSION DELAY**
 
@@ -91,13 +93,16 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
-- [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
-- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
   - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
+
+## MWSE BUG FIXES
+
+- [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
+- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
