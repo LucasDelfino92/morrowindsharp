@@ -1,9 +1,8 @@
 # INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#installation)
-- [Modding basics](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#modding-basics)
-- [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mod-organizer-2)
-  - [Hiding files and plugins in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#hiding-files-and-plugins-in-mod-organizer-2)
+- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#tools)
+
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mge-xe)
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#graphics-tab)
