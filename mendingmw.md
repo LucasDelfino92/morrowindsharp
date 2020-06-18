@@ -40,7 +40,7 @@ One more quirk about Mod Organizer 2 that we need to talk about is **Overwrite**
 
 Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
-## Morrowind Code Patch
+## MORROWIND CODE PATCH
 
 The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind, as opposed to OpenMW.
 
@@ -55,7 +55,7 @@ Unlike mods, the Morrowind Code Patch requires specific install instructions, an
 
 Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder, and you will be done.
 
-## High resolution textures
+## HIGH RESOLUTION TEXTURES
 
 This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures.
 
@@ -67,7 +67,7 @@ This mod list does not condone the use of using texture replacers for the sake o
   - Also install the **Wood Fix** update file.
   - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
 
-## Bug fixes
+## BUG FIXES
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: unofficial patch that aims to make the game completely bug-free (within the abilities of TESCS). In addition to being under active development, it diverges from later versions of the community patches in that it aims to only fix bugs (avoiding unnecessary balance and gameplay changes), takes a more conservative approach about what it considers a bug, and implementing bug fixes in coordination with Tamriel Rebuilt and the Project Tamriel projects.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
@@ -81,7 +81,7 @@ This mod list does not condone the use of using texture replacers for the sake o
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-## Optimization
+## OPTIMIZATION
 
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
   - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
@@ -89,11 +89,11 @@ This mod list does not condone the use of using texture replacers for the sake o
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
-## Expansion delay
+## EXPANSION DELAY
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## Official plugins
+## OFFICIAL PLUGINS
 
 Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
@@ -108,7 +108,7 @@ My personal stance, and the one which this guide follows, is: don't bother with 
 - master_index.esp
 - Siege at Firemoth.esp
 
-## .INI edits
+## .INI EDITS
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
@@ -126,6 +126,6 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click Save to finish editing the Morrowind.ini.
 
-## Load order
+## LOAD ORDER
 
 [**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
