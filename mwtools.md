@@ -40,23 +40,6 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 
 The newly edited plugin will have overwritten the original plugin.
 
-### TESTool
-
-TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. 
-
-- Launch TESTool in MO2.
-- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Click **Options**. Make sure the following options are active:
-  - Don't change plugin filenames.
-  - Ignore tribunal.esm
-  - Ignore bloodmoon.esm
-  - Restricted dialog cleaning
-  - Restricted cell cleaning
-- Click **Done**.
-- Select **Merge Leveled Lists for active plugins** and click **Execute**.
-- If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
-- Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
-
 ## CLEANING PLUGINS
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
@@ -65,9 +48,15 @@ At the end of my mod list, you will find a [**list of plugins that require clean
 
 The first step is to clean plugins using TESTool.
 
-- Launch TESTool in MO2.
+- Run TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Select **Clean ESP/ESM files**. TESTool will ask you if you want to visit the Options dialogue. If you set up TESTool as instructed earlier, click **No**.
+- Click **Options**. Make sure the following options are active, and then click **Done**:
+  - Don't change plugin filenames.
+  - Ignore tribunal.esm
+  - Ignore bloodmoon.esm
+  - Restricted dialog cleaning
+  - Restricted cell cleaning
+- Select **Clean ESP/ESM files** and click **Execute**.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
 - TESTool will clean all plugins. Once it's finished, close TESTool.
 
