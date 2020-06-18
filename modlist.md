@@ -76,7 +76,7 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Bloated Caves.esp**
   - Clean with TESTool and tes3cmd.
@@ -115,7 +115,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Dubdilla Location Fix.esp**
   - Clean with TESTool and tes3cmd.
@@ -409,7 +409,7 @@ If you have installed any of abot's mods listed above, you will need to install 
 
 ### CLEANING NOTES
 
-The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
+The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to clean plugins using TESTool and tes3cmd.
 
 - **Clean Atmospheric Delights.esp**
 - **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
@@ -420,14 +420,14 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - **ReclamationsInHolamayan.esp**
 - **Talos Cult Revised.esp**
 
-The following plugins require additional TESAME cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+The following plugins require additional TESAME cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to delete records using TESAME.
 
 - **Nordic Chest Replacer.esp**: delete the following records:
     - Cell **Solstheim, Bloodskal Barrow**
 
 ### CONFLICT NOTES
 
-The following plugins will conflict with each other. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+The following plugins will conflict with each other. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to delete records using TESAME.
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
