@@ -10,13 +10,6 @@ You can find me in the [**Morrowind Modding Community**](https://discord.me/mwmo
 - Reddit user: [**Sigourn**](https://www.reddit.com/user/Sigourn)
 - RPG Codex user: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
-## INDEX
-
-- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#introduction)
-- [How to install this mod list](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#how-to-install-this-mod-list)
-- [Installation index](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#installation-index)
-- [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order)
-
 ## INTRODUCTION
 
 *Morrowind Improved* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
