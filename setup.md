@@ -79,7 +79,8 @@ This tool is used for repairing and updating saves, as well as updating the mast
 
 - Download the **MGE XE Manual Install** main file.
 - Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-- Right click on MWSE-Update.exe and select **Run as Administrator**. Once the updating process is finished, the window will close itself.
+- In **Morrowind\Data Files** delete **XE Sky Variations.esp**.
+- In your **Morrowind root folder**, right click on MWSE-Update.exe and select **Run as Administrator**. Once the updating process is finished, the window will close itself.
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
