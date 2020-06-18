@@ -58,7 +58,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
-  - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and select **Download Zip**. When installing through Mod Organizer 2, select only the **User Interface Expansion** folder.
+  - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
+  - MO2 will tell you there's no game data on top level. Expand the **morrowind-mods-master** folder. Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
 
 ## CONTENT RESTORATION
 
