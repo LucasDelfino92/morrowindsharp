@@ -63,6 +63,11 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
 - Click **Save** and close the window.
 
+## CREATING A SEPARATOR
+
+- Right click on the empty space on the mod order window, and click **Create Separator**.
+- Name it **MENDING MORROWIND** and click **OK**.
+
 ## HIGH RESOLUTION TEXTURES
 
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
