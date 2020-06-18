@@ -194,7 +194,7 @@ All features in this page are self-explained, but the **Enable shaders** option 
 are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
 
 - In the **Graphics** tab, click **Shader setup...**.
-- On the **Set active shaders** window, click on **Modding >>>** and double click on the newly installed shaders on the list at the top to make them active shaders on the list at the bottom. The shaders are **EdgeAA**, **Apels GammaCorrection**, and **deband_fogaware**.
+- On the **Set active shaders** window, click on **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
 
 The shader combination that works the best for me, and which I personally recommend, is the following:
 
@@ -205,13 +205,12 @@ The shader combination that works the best for me, and which I personally recomm
 - Underwater Interior Effects
 - Sunshafts
 - Eye Adaptation (HDR)
-- Depth of Field
 - Apels GammaCorrection
 - deband_fogaware
 
 ### DISTANT LAND TAB
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (as the more land you see, the more land shaders have an effect on). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (the more land you see, the more land shaders have to take into consideration). To get you started, you may want to copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg).
 
 The **Distant land generator wizard** lets you select which plugins you want MGE XE to use when generating distant land. My recommendation is to select **Use current load order**. When you click **Continue**, a new menu will appear, asking you which method of Distant Land generation you want to use.
 
