@@ -1,6 +1,6 @@
 # TOOLS
 
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 ## INDEX
 
