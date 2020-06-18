@@ -132,6 +132,13 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
 - **Merged Objects.esp** will now be present at the end of your load order.
 
+TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same.
+
+- Run TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Select **Merge Leveled Lists for active plugins** and click **Execute**.
+- Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
+
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
 - Run WryeMash in MO2.
