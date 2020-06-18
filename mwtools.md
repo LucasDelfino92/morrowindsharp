@@ -18,7 +18,7 @@
 
 ### TES3View
 
-TES3View is a great tool that let's you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
+TES3View is a great tool that lets you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
 - Launch TES3View in MO2.
 - Right click on any plugin, and click **Select all**. Click **OK**.
@@ -28,9 +28,9 @@ TES3View is a great tool that let's you visualize the changes done by plugins. B
 
 ### TESAME
 
-TES Advanced Mod Editor let's you open a plugin in order to clean it manually, deleting unwanted records from a mod. TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
+TES Advanced Mod Editor lets you open a plugin in order to clean it manually, deleting unwanted records from a mod. It's also used to remove unwanted records from a plugin to improve compatibility between mods.
 
-- Launch TESAME in MO2.
+- Run TESAME in MO2.
 - Go to **Mods -> Open ..**
 - Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
 - Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
@@ -64,7 +64,7 @@ The first step is to clean plugins using TESTool.
 
 The second step is to clean plugins using tes3cmd.
 
-- Launch tes3cmd in MO2.
+- Run tes3cmd in MO2.
 - A command window will appear, starting with your Morrowind Data Files directory (for instance, C:\Games\Morrowind\Data Files>)
 - You will have to type **tes3cmd_clean.bat "plugin.esp"**, where "plugin" is the name of the plugin you want to clean. For example, you could end up with a line looking like so: **C:\Games\Morrowind\Data Files>tes3cmd_clean.bat "Soul Gems at Ghostgate.ESP"** You can use TAB to autocomplete plugin names. For instance, typing TAB after writing "Soul Gems" would probably autocomplete it to "Soul Gems at Ghostgate.ESP". If not, keep pressing TAB.
 - Press Enter, and tes3cmd will clean the plugin.
@@ -80,7 +80,7 @@ When uninstalling or updating mods from a save, we must synchronize our save. No
 
 To fix this, we have to synchronize our save.
 
-- Launch WryeMash in Mod Organizer.
+- Run WryeMash in Mod Organizer.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
 - If you have removed masters or plugins from your save, then an **Update Masters** window will appear, telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
@@ -93,7 +93,7 @@ Repeat this process for each of the faulty saves.
 
 it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
-- After uninstalling a plugin, launch WryeMash in Mod Organizer 2.
+- After uninstalling a plugin, run WryeMash in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves.
 - Right click on any save, and click on **Repair All**. WryeMash will scan your savefile.
 - You will get a message window with two possible outcomes: your save has been repaired by WryeMash, or WryeMash will tell you no problems where found. Close the window.
