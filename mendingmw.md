@@ -82,9 +82,13 @@ These textures must be installed before any other mod that replaces them, such a
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files** and click **Set data directory**. Click **OK**.
-- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors. MO2 will install the mod as a BAIN package. Tick **all options** and click **OK**.
+- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors.
+  - MO2 will install the mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Fixed Vanilla Textures**
+    - **02 Lake Fjalding Anti-Suck**
+    - **03 MGE XE Addon**
   - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
-  - Note that users who have decided to install tree replacers, such as Vurt's, have consistently run into issues with this mod's **MGE XE Addon**. Keep this in mind if you run into trouble in the future. The rest of the guide features no such replacers.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
