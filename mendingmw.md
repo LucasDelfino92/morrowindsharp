@@ -8,10 +8,10 @@
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
 - [Uncompressed vanilla textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#uncompressed-vanilla-textures)
 - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
-- [Intelligent textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
 - [Minor bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#minor-bug-fixes)
 - [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Intelligent textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## MODDING TIPS
@@ -91,15 +91,6 @@ These textures must be installed before any other mod that replaces them, such a
 
 These are the major bugfixing and optimization mods for Morrowind. No player should play Morrowind without these.
 
-## INTELLIGENT TEXTURES
-
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
-  - Also install the **Wood Fix** update file.
-  - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
-
-This is the most faithful to vanilla and comprehensive texture pack out there.
-
 ## MINOR BUG FIXES
 
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
@@ -124,6 +115,15 @@ These are bug fixes and quality of life improvements that require MWSE to work a
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
 This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
+
+## INTELLIGENT TEXTURES
+
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
+  - Also install the **Wood Fix** update file.
+  - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
+
+This is the most faithful to vanilla and comprehensive texture pack out there. Thankfully, the textures included in Intelligent Textures already contain the texture fixes present in the above mods.
 
 ## FINISHING TOUCHES
 
