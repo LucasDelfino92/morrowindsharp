@@ -371,7 +371,7 @@ The following mods require additional MGE XE configuration after installation to
 
 ### CLEANING NOTES
 
-The following plugins are dirty and require cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
+The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
 - **Bloated Caves.esp**
 - **Clean Atmospheric Delights.esp**
@@ -386,7 +386,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Talos Cult Revised.esp**
 - **true corprus.esp**
 
-The following plugins require additional TESAME cleaning. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+The following plugins require additional TESAME cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - **Bloated Caves.esp**: delete the following records:
     - Container **cavern_spore00**
@@ -396,7 +396,7 @@ The following plugins require additional TESAME cleaning. [**Follow the instruct
 
 ### CONFLICT NOTES
 
-The following plugins will conflict with each other. [**Follow the instructions here**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
+The following plugins will conflict with each other. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
@@ -461,6 +461,6 @@ Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
 
 Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec.esp** plugins.
 
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
+[Refer to this section](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
