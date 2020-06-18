@@ -85,7 +85,7 @@ Mod Organizer 2 is one of the best mod managers out there, offering lots of qual
 
 My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
 
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 - Download the main file: **Mod Organizer 2 (Archive)**.
 - Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods\Tools** folder.
@@ -150,7 +150,7 @@ Follow these steps for **Wrye Mash**.
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away. Just like the Morrowind Code Patch, MGE XE can't be installed through Mod Organizer 2.
 
-- [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) by Hrnchamd.
+### [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) by Hrnchamd.
 
 1. Download the **MGE XE Manual Install** main file.
 2. Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
