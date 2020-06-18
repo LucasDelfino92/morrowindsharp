@@ -69,7 +69,9 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos: enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ## INTERNAL LOGIC
