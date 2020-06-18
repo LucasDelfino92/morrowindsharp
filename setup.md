@@ -153,7 +153,7 @@ Follow these steps for **Wrye Mash**.
 
 ### CREATING SEPARATORS IN MOD ORGANIZER 2
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separate for the upcoming **MGE XE** section.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separator for the upcoming **MGE XE** section.
 
 - Right click on the empty space on the mod order window, and click **Create Separator**.
 - Name it **MGE XE** and click **OK**.
@@ -172,9 +172,14 @@ MGE XE receives constant support from the dedicated modding community, generally
 - [**MGE XE Shader - deband_fogaware**](https://www.mediafire.com/file/i76vzpyz66f5gzj/MGE_XE_Shader_-_deband_fogaware.zip/file) by Hrnchamd and vtastek: shader that improves on the look of the game's fog.
 - [**MGE XE Shader - EdgeAA**](https://www.mediafire.com/file/qnxovx5vc5m0wcs/MGE_XE_Shader_-_EdgeAA.zip/file) ported by vtastek: Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use both at the same time for best results.
 
-Now that we have all the required files, we can finally configure MGE XE.
+These shaders need to be installed through Mod Organizer 2, and are installed like any normal mod. To install a mod through Mod Organizer, click on the icon to the left of the globe icon at the top, called **Install a new mod from an archive**. 
 
-- Launch Mod Organizer 2. 
+- Select the file you want to install.
+- MO2 will prompt you to give the installed mod a name. Click **OK**.
+- Your mod should have now appeared on the left window. To properly install it, enable it by checking the box to its left. If the mod includes plugins, these will appear ticked on the right window as well.
+
+Once you have installed the shaders linked above, we can finally configure MGE XE.
+
 - From the dropdown menu to the left of the **Run** button, select **MGE XE**. Run the application.
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
