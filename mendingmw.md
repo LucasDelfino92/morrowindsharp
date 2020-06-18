@@ -45,10 +45,10 @@ Now that we have installed all tools, our Mod Manager, and MGE XE, we can finall
 
 The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2.
 
-[Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
+[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
 - Extract the contents of the file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
-- Now download the **MCP beta** update file from [Morrowind Code Patch Update](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
+- Now download the **MCP beta** update file from [**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
 - Extract the contents of the file to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
 - Right click on Morrowind Code Patch.exe and select **Run as Administrator**.
 - The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [this handy Google Sheets document](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
@@ -139,7 +139,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 
-MGE XE's Distant Land setup should be re-run. If you have followed the steps [**found in this section before**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab), the process will be much easier.
+MGE XE's Distant Land setup should be re-run. If you followed the steps [in this section](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
 - Run MGE XE in MO2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -147,7 +147,7 @@ MGE XE's Distant Land setup should be re-run. If you have followed the steps [**
 - Click **Run above steps using saved / default settings**.
 - Once the statics have been created, simply click **Finish**.
 
-If you want to confirm your installed mods and plugins are in the right order, [**consult the text files found here**](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th).
+If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th).
 
 Congratulations, your Morrowind installation is ready!
 
