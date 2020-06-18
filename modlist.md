@@ -117,6 +117,12 @@ The following plugins require additional TESAME cleaning. [Follow the instructio
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
+The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
+
+- **Dubdilla Location Fix.esp**
+- **Divayth Fyr Puzzle Fixed.ESP**
+- **true corprus.esp**
+
 [Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## VISUALS
@@ -162,8 +168,6 @@ The following plugins require additional TESAME cleaning. [Follow the instructio
     - **03 Nord Glass Windows Interior Sunrays**
     - **05 Raven Rock Glass Windows Interior Sunrays**
   - Note that if you installed **Project Atlas** in the past, you will need to reinstall it with the **10 Glow in the Darkh Patch - Interior Sunrays** option activated in addition to **00 Core**.
-- [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) by michael163377: Luminous Russula, Violet Coprinus and Draggle-Tail are now glow mapped. The plants will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
-  - Note that if you installed **Project Atlas** in the past, you will need to reinstall it with the **20 BC Mushrooms - Normal - Glowing Bitter Coast Patch** option activated in addition to **00 Core**.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
@@ -324,9 +328,7 @@ The following mods require additional MGE XE configuration after installation to
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Correct UV Ore + README**: required if you installed **correctUV Diverse Ore Veins** earlier.
-    - **08 Glowing Bitter Coast**: required if you installed **Glowing Bitter Coast** earlier.
     - **10 Atlas - Vanilla BC Mushrooms**: required if you installed **Project Atlas** earlier.
-    - **11 Atlas - Glowing Bitter Coast Patch**: required if you installed **Glowing Bitter Coast** earlier, in addition to **Project Atlas**.
     - Hide/disable **correctUV Ore Replacer_fixed.esp**
     - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
@@ -408,24 +410,17 @@ If you have installed any of abot's mods listed above, you will need to install 
 
 The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
 
-- **Bloated Caves.esp**
 - **Clean Atmospheric Delights.esp**
 - **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
 - **Creeper the drummer.esp**
-- **Dubdilla Location Fix.esp**
-- **Divayth Fyr Puzzle Fixed.ESP**
 - **Morrowind Anti-Cheese.ESP**
 - **Nordic Chest Replacer.esp**
 - **QL_SevenGracesShrines.esp**
 - **ReclamationsInHolamayan.esp**
 - **Talos Cult Revised.esp**
-- **true corprus.esp**
 
 The following plugins require additional TESAME cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame) on how to delete records using TESAME.
 
-- **Bloated Caves.esp**: delete the following records:
-    - Container **cavern_spore00**
-    - Lev Item **MU_Bloat_Random**
 - **Nordic Chest Replacer.esp**: delete the following records:
     - Cell **Solstheim, Bloodskal Barrow**
 
@@ -475,8 +470,6 @@ The following plugins will conflict with each other. [Follow the instructions he
 ### LOAD ORDER
 
 Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s assets.
-
-Load **Glowing Bitter Coast**'s assets before **Project Atlas**' assets.
 
 Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
 
