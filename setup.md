@@ -31,7 +31,7 @@ Your **Morrowind\Data Files** folder contains your game’s data. If you followe
 
 Your **Morrowind root folder** contains the game’s executable (Morrowind.exe), the game’s launcher (Morrowind Launcher.exe) and the game’s .ini file (Morrowind.ini). Certain mods require you to modify values from the .ini, but those are in the minority.
 
-One thing many Morrowind players who obtained their game through online stores such as GOG or Steam is that the game originally shipped with a map containing most of the major locations. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
+One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
 # TOOLS
 
