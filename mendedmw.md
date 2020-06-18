@@ -1,6 +1,4 @@
-# MENDING MORROWIND
-
-## INDEX
+# INDEX
 
 - [Before we begin](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#before-we-begin)
 - [Modding basics](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#modding-basics)
@@ -21,7 +19,7 @@
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## INSTALLATION
+# INSTALLATION
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -57,7 +55,58 @@ Mod Organizer 2 was designed with new Bethesda games in mind, but for the purpos
 - Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click **No**.
 - You will be asked to associate MO2 with nxm links. Click on **Yes**.
 
-Mod Organizer 2 has now been installed successfully. There are some tweaks you have to make regarding your Profile settings.
+Mod Organizer 2 has now been installed successfully.
+
+## TES3Merge
+
+- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
+Install this in **Morrowind Mods\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
+
+## TES3View
+
+- [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
+  - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+
+Install this in **Morrowind Mods\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
+
+## TESAME
+
+- [**TESAME**](http://mw.modhistory.com/download-95-15443)
+
+Install this in **Morrowind Mods\TESAME**. This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
+
+## TESTool
+
+- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool)
+
+Install this in **Morrowind Mods\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
+
+## tes3cmd
+
+- [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
+  - Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+  - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+  - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
+  - Create the following folder:
+    - Morrowind\Data Files\tes3cmd\backups
+
+## Wrye Mash - Polemos fork - 2020
+
+- [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
+
+- Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
+- Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
+- Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
+- Click **Next>**. The Wizard will ask you to fill the following paths:
+   - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
+   - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
+   - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
+- With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
+
+## SETTING UP MOD ORGANIZER 2
+
+There are some tweaks you have to make regarding your Profile settings.
 
 - Click on the ID card icon at the top of the window, called **Configure profiles**.
 - Tick **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure Automatic Archive Invalidation **is not** enabled.
@@ -78,42 +127,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 - Tribunal.esm
 - Bloodmoon.esm
 
-To install a mod through Mod Organizer, click on the icon to the left of the globe icon at the top, called **Install a new mod from an archive**. 
-
-- Select the file you want to install.
-- MO2 will prompt you to give the installed mod a name. Click **OK**.
-- Your mod should have now appeared on the left window. To properly install it, enable it by checking the box to its left. If it is a mod that uses plugins, these should have appeared in the right window as well.
-
-From now on, whenever I tell you to install something, this means “install the mod and enable the plugins”. 
-
-### HIDING FILES AND PLUGINS IN MOD ORGANIZER 2
-
-Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order.
-
-- To hide a plugin, right click on your installed mod and select **Information...**.
-- Select the **Filetree** tab.
-- Right click on the plugins, folders, or files you want to hide, and select **Hide**.
-
-Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
-Because Mod Organizer 2 installs mods in a virtual file system, many of these tools won't work with Mod Organizer 2 out of the box. For this reason, I will provide specific instructions for the most particular tools, and generic instructions for the tools that are the easiest to install.
-
-## TES3Merge, TES3View, TESAME
-
-These tools don't require specific instructions to be run through Mod Organizer 2.
-
-- [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870): used for conflict solving.
-- [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file): used for general conflict browsing.
-  - The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-- [**TESAME**](http://mw.modhistory.com/download-95-15443): used for conflict solving and plugin cleaning.
-
-In your Morrowind **root folder** (where Morrowind.exe is) create one folder for each one of these tools. For simplicity and readibility, the file structure should look like this:
-
-- Morrowind\TES3Merge\TES3Merge.exe and related files
-- Morrowind\TES3View\TES3View.exe and related files
-- Morrowind\TESAME\tesame12.exe and related files
-
-Now launch Mod Organizer 2.
+## SETTING UP TOOLS IN MOD ORGANIZER 2
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add empty**.
@@ -127,16 +141,6 @@ Now launch Mod Organizer 2.
 - Repeat these steps for each of the tools mentioned above.
 
 These tools are now set and ready to go.
-
-## TESTool
-
-Dedicated installation instructions are provided for this tool.
-
-- [**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool): used for conflict solving and plugin cleaning.
-
-In your Morrowind **root folder** (where Morrowind.exe is) create a folder for TESTool. For simplicity and readibility, the file structure should look like this:
-
-- Morrowind\TESTool\TESTool.exe and related files
 
 Now launch Mod Organizer 2.
 
@@ -166,18 +170,6 @@ Now we need to setup TESTool for cleaning.
 
 TESTool is now set and ready to go.
 
-## tes3cmd
-
-Dedicated installation instructions are provided for this tool.
-
-- [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z): used for plugin cleaning.
-
-- Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
-- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
-- Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-- Create the following folder:
-   - Morrowind\Data Files\tes3cmd\backups
-
 Now we need to set up tes3cmd in Mod Organizer 2.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
@@ -191,21 +183,6 @@ Now we need to set up tes3cmd in Mod Organizer 2.
    - Finally, click **Apply** and then **OK**.
 
 tes3cmd_clean.bat is now set and ready to go.
-
-## Wrye Mash - Polemos fork - 2020
-
-Dedicated installation instructions are provided for this tool.
-
-- [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
-
-- Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
-- Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
-- Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
-- Click **Next>**. The Wizard will ask you to fill the following paths:
-   - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
-   - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
-- With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
 
 Now we need to set up Wrye Mash in Mod Organizer 2.
 
@@ -221,7 +198,17 @@ Now we need to set up Wrye Mash in Mod Organizer 2.
 
 Wrye Mash is now set and ready to go.
 
-## THE OVERWRITE FOLDER
+## HIDING FILES AND PLUGINS IN MOD ORGANIZER 2
+
+Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order.
+
+- To hide a plugin, right click on your installed mod and select **Information...**.
+- Select the **Filetree** tab.
+- Right click on the plugins, folders, or files you want to hide, and select **Hide**.
+
+Mod Organizer 2 will hide the files, and these will no longer affect your game.
+
+## THE OVERWRITE FOLDER OF MOD ORGANIZER 2
 
 Now that we have finished our installation, there is one more quirk about MO2 we need to talk about, and that is the **Overwrite** folder and how it ties together with these tools.
 
