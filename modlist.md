@@ -76,6 +76,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+
 ## INTERNAL LOGIC
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
