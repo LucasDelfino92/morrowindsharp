@@ -188,9 +188,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - MO2 will tell you there's no game data on top level. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **meshes** and click **OK**. 
-    - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r** and click **OK**. 
-    - Expand the **meshes** folder. Move the original three files into the **meshes\r** folder and click **OK**.
+    - Right click on **data**, and click **Create directory...**. Name this new folder **meshes**. Click **OK**. 
+    - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r**. Click **OK**. 
+    - Expand the **meshes** folder. Drag the three loose files into the **meshes\r** folder. Click **OK**.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
 - [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives an unique mesh to the in-game muffin.
 - [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
@@ -221,7 +221,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **textures** and click **OK**. 
+    - Right click on **data**, and click **Create directory...**. Name this new folder **textures**. Click **OK**. 
     - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
   - MO2 will tell you there's no game data on top level. 
