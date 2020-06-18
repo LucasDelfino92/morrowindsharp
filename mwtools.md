@@ -1,5 +1,8 @@
-# INDEX
+# TOOLS
 
+## INDEX
+
+- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 - [Conflict solving](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
@@ -12,9 +15,9 @@
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
 - [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
 
-# CONFLICT SOLVING
+## Conflict solving
 
-## TES3View
+### TES3View
 
 TES3View is a great tool that let's you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
@@ -24,7 +27,7 @@ TES3View is a great tool that let's you visualize the changes done by plugins. B
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-## TESAME
+### TESAME
 
 TES Advanced Mod Editor let's you open a plugin in order to clean it manually, deleting unwanted records from a mod. TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
 
@@ -38,13 +41,13 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 
 The newly edited plugin will have overwritten the original plugin.
 
-## TES3Merge
+### TES3Merge
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 To run it, simply launch TES3Merge in MO2. Once it's finished, **Merged Objects.esp** will now be present at the end of your load order.
 
-## TESTool
+### TESTool
 
 TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. 
 
@@ -61,11 +64,11 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 - If asked to recreate Merged_Leveled_Lists.esp, click **Yes**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
-# PLUGIN CLEANING
+## Cleaning plugins
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
 
-## TESTool
+### TESTool
 
 The first step is to clean plugins using TESTool.
 
@@ -75,7 +78,7 @@ The first step is to clean plugins using TESTool.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
 - TESTool will clean all plugins. Once it's finished, close TESTool.
 
-## tes3cmd
+### tes3cmd
 
 The second step is to clean plugins using tes3cmd.
 
@@ -87,7 +90,7 @@ The second step is to clean plugins using tes3cmd.
 
 The cleaned plugins will have overwritten the original plugins.
 
-# SYNCHRONIZING MOD MASTERS
+## Synchronizing mod masters
 
 Sometimes a plugin you have installed will not have its masters synchronized. In practice, this means Morrowind will greet you with the following message:
 
@@ -102,7 +105,7 @@ To fix this, we have to synchronize our mod's masters.
 
 Repeat this process for each of the faulty plugins in your load order.
 
-# UPDATING SAVES
+## Updating saves
 
 When uninstalling or updating mods from a save, we must synchronize our save. Not doing so means Morrowind will greet you with the following message:
 
@@ -119,7 +122,7 @@ To fix this, we have to synchronize our save.
 
 Repeat this process for each of the faulty saves.
 
-# REPAIRING SAVES
+## Repairing saves
 
 it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
