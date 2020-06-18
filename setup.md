@@ -75,7 +75,7 @@ Install this in **Morrowind Mods\Tools\TESAME**. This tool is used for solving c
 
 ## TESTool
 
-[**TESTool**](https://en.uesp.net/wiki/Tes3Mod:TESTool)
+[**TESTool**](http://mw.modhistory.com/download-13-5234)
 
 Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
