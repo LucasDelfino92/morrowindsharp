@@ -7,7 +7,7 @@
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tesame)
   - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#testool)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3cmd)
-  - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash---polemos-fork---2020)
+  - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash)
   - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
     - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
     - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
