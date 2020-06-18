@@ -53,12 +53,6 @@ My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for i
 
 Mod Organizer 2 has now been installed successfully.
 
-## TES3Merge
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
-
-Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
-
 ## TES3View
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
@@ -66,6 +60,12 @@ Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solvin
 Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+
+## TES3Merge
+
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
+Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
 ## TESAME
 
