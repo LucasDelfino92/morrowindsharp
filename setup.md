@@ -9,6 +9,8 @@
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
   - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
+  - [Installing mods in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mods-in-mod-organizer-2)
+  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
