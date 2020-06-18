@@ -1,4 +1,4 @@
-# Index
+# INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#tools)
@@ -25,7 +25,7 @@
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# Installation
+# INSTALLATION
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -42,7 +42,7 @@ One thing many Morrowind players who obtained their game through online stores s
 
 # TOOLS
 
-## MOD ORGANIZER 2
+## Mod Organizer 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
