@@ -15,7 +15,6 @@
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 ## INSTALLATION
 
