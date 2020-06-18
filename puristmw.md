@@ -1,17 +1,17 @@
-# PURIST MORROWIND
+# MENDING MORROWIND
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
 ## INDEX
 
-- [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#useful-tips)
-- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#morrowind-code-patch)
-- [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#high-resolution-textures)
-- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#bug-fixes)
-- [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#optimization)
-- [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#expansion-delay)
-- [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#ini-edits)
-- [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/puristmw.md#load-order)
+- [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#useful-tips)
+- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
+- [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
+- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
+- [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
+- [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#ini-edits)
+- [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 
 ## USEFUL TIPS
 
