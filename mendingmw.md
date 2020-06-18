@@ -50,7 +50,7 @@ The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
 
 - Launch Mod Organizer 2.
-- Click on the **Tools** icon, which resembles a jigsaw puzzle, and select **INI Editor**.
+- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
 - On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
   - **[Weather Rain]**
   - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
@@ -61,11 +61,9 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
   - **[Weather Snow]**
   - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
   - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
-- Click **Save** to finish editing the Morrowind.ini.
+- Click **Save** and close the window.
 
 ## HIGH RESOLUTION TEXTURES
-
-This mod list does not condone the use of using texture replacers for the sake of it. However, that does not mean the purist Mororwind player is out of good alternatives for the vanilla textures.
 
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with unused textures that have less compression artifacts found in the game's Data Files folder.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
