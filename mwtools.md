@@ -7,12 +7,10 @@
 - [Conflict solving](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
-  - [TES3Merge](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3merge)
   - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
 - [Plugin cleaning](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
   - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
-- [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#synchronizing-mod-masters)
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
 - [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
 
@@ -41,12 +39,6 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
 
 The newly edited plugin will have overwritten the original plugin.
-
-### TES3Merge
-
-TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
-
-To run it, simply launch TES3Merge in MO2. Once it's finished, **Merged Objects.esp** will now be present at the end of your load order.
 
 ### TESTool
 
@@ -90,21 +82,6 @@ The second step is to clean plugins using tes3cmd.
 - You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
 
 The cleaned plugins will have overwritten the original plugins.
-
-## SYNCHRONIZING MOD MASTERS
-
-Sometimes a plugin you have installed will not have its masters synchronized. In practice, this means Morrowind will greet you with the following message:
-
-> One or more plugins could not find the correct versions of the master files they depend on. Errors may occur during load or game play. Check the "Warnings.txt" file for more information.
-
-To fix this, we have to synchronize our mod's masters.
-
-- Launch WryeMash in Mod Organizer.
-- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a **green box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
-- Once the window has closed, click on the **Save** button further below the same panel.
-
-Repeat this process for each of the faulty plugins in your load order.
 
 ## UPDATING SAVES
 
