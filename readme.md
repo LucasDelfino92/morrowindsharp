@@ -43,9 +43,10 @@ My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morr
 
 ## INSTALLATION INDEX
 
-- [**Mended Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
-- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
+- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md): a guide to help you set up Morrowind, tools and mod manager from scratch.
+- [**Mending Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
 - [**Morrowind Improved**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): this guide aims to fix many issues with Morrowind as a whole, beyond simple bug fixes: improving the user interface, reinforcing the internal consistency of the game, quality of life visual, sound, and gameplay improvements, and providing a more balanced gameplay experience.
+- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
 
 ## MOD ORDER AND LOAD ORDER
 
