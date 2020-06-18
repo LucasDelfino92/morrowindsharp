@@ -10,8 +10,8 @@
 - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
 - [Minor bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#minor-bug-fixes)
 - [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
-- [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
-- [Intelligent textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
+- [Expansion Delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Intelligent Textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## MODDING TIPS
