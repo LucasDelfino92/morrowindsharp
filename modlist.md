@@ -76,9 +76,10 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool, tes3cmd, and TESAME.
+The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins.
 
 - **Bloated Caves.esp**
+  - Clean with TESTool and tes3cmd.
   - Delete the following records in TESAME:
     - Container **cavern_spore00**
     - Lev Item **MU_Bloat_Random**
@@ -114,11 +115,14 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
-The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins using TESTool and tes3cmd.
+The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning) on how to clean plugins.
 
 - **Dubdilla Location Fix.esp**
+  - Clean with TESTool and tes3cmd.
 - **Divayth Fyr Puzzle Fixed.ESP**
+  - Clean with TESTool and tes3cmd.
 - **true corprus.esp**
+  - Clean with TESTool and tes3cmd.
 
 [Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
