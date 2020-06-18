@@ -1,3 +1,17 @@
+# INDEX
+
+- [Conflict solving]()
+  - [TES3View]()
+  - [TESAME]()
+  - [TES3Merge]()
+  - [TESTool]()
+- [Plugin cleaning]()
+  - [TESTool]()
+  - [tes3cmd]()
+- [Synchronizing mod masters]()
+- [Updating saves]()
+- [Repairing saves]()
+
 # CONFLICT SOLVING
 
 ## TES3View
@@ -61,7 +75,7 @@ The first step is to clean plugins using TESTool.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
 - TESTool will clean all plugins. Once it's finished, close TESTool.
 
-## tes3cmd_clean.bat
+## tes3cmd
 
 The second step is to clean plugins using tes3cmd.
 
