@@ -35,9 +35,11 @@ One thing many Morrowind players who obtained their game through online stores s
 
 ## Mod Organizer 2
 
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
-
 Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
+
+My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
+
+[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 - Download the main file: **Mod Organizer 2 (Archive)**.
 - Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods** folder.
@@ -49,8 +51,6 @@ Mod Organizer 2 is one of the best mod managers out there, offering lots of qual
 - You will be asked to associate MO2 with nxm links. Click on **Yes**.
 
 Mod Organizer 2 has now been installed successfully.
-
-> My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
 
 ## TES3Merge
 
@@ -85,8 +85,9 @@ Install this in **Morrowind Mods\TESTool**. This tool is used for solving confli
 - Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
 - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
 - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-- Create the following folder:
-  - Morrowind\Data Files\tes3cmd\backups
+- Inside **Morrowind\Data Files**, create a **tes3cmd\backups** folder.
+
+This tool is used for cleaning plugins, deleting dirty records.
 
 ## Wrye Mash
 
@@ -100,6 +101,8 @@ Install this in **Morrowind Mods\TESTool**. This tool is used for solving confli
    - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
    - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
 - With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
+
+This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
 ## Setting up Mod Organizer 2
 
@@ -155,8 +158,7 @@ Now we need to setup TESTool for cleaning.
 
 - Launch TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Click **Options**.
-- Make sure the following options are active:
+- Click **Options**. Make sure the following options are active:
   - Don't change plugin filenames.
   - Ignore tribunal.esm
   - Ignore bloodmoon.esm
@@ -208,7 +210,7 @@ Files in the **Overwrite** folder will overwrite all your installed assets and p
 
 # CONFLICT SOLVING
 
-### TES3View
+## TES3View
 
 TES3View is a great tool that let's you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
@@ -218,7 +220,7 @@ TES3View is a great tool that let's you visualize the changes done by plugins. B
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-### TESAME
+## TESAME
 
 TES Advanced Mod Editor let's you open a plugin in order to clean it manually, deleting unwanted records from a mod. TES3View is a great companion tool to TESAME, as knowing where conflicts lie can help you decide which troublesome records to delete from a plugin.
 
@@ -232,13 +234,13 @@ TES Advanced Mod Editor let's you open a plugin in order to clean it manually, d
 
 The newly edited plugin will have overwritten the original plugin.
 
-### TES3Merge
+## TES3Merge
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 To run it, simply launch TES3Merge in MO2. Once it's finished, **Merged Objects.esp** will now be present at the end of your load order.
 
-### TESTool
+## TESTool
 
 TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. 
 
@@ -252,7 +254,7 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 
 At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
 
-### TESTool
+## TESTool
 
 The first step is to clean plugins using TESTool.
 
@@ -262,7 +264,7 @@ The first step is to clean plugins using TESTool.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
 - TESTool will clean all plugins. Once it's finished, close TESTool.
 
-### tes3cmd_clean.bat
+## tes3cmd_clean.bat
 
 The second step is to clean plugins using tes3cmd.
 
@@ -289,7 +291,7 @@ To fix this, we have to synchronize our mod's masters.
 
 Repeat this process for each of the faulty plugins in your load order.
 
-# SAVE UPDATING
+# UPDATING SAVES
 
 When uninstalling or updating mods from a save, we must synchronize our save. Not doing so means Morrowind will greet you with the following message:
 
@@ -306,7 +308,7 @@ To fix this, we have to synchronize our save.
 
 Repeat this process for each of the faulty saves.
 
-# SAVE REPAIRING
+# REPAIRING SAVES
 
 it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
 
