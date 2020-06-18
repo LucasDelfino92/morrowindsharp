@@ -4,45 +4,17 @@
 
 ## INDEX
 
-- [Conflict solving](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#conflict-solving)
-  - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
-  - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
-  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
-- [Plugin cleaning](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#plugin-cleaning)
+- [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
   - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
+  - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
 - [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
-
-## CONFLICT SOLVING
-
-### TES3View
-
-TES3View is a great tool that lets you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
-
-- Launch TES3View in MO2.
-- Right click on any plugin, and click **Select all**. Click **OK**.
-- Once TES3View has finished loading all your plugins, you can expand them and their individual records to see what a mod changes compared to the master files (Morrowind.esm, Tribunal.esm, Bloodmoon.esm) and other loaded plugins.
-- When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
-- Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
-
-### TESAME
-
-TES Advanced Mod Editor lets you open a plugin in order to clean it manually, deleting unwanted records from a mod. It's also used to remove unwanted records from a plugin to improve compatibility between mods.
-
-- Run TESAME in MO2.
-- Go to **Mods -> Open ..**
-- Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
-- Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
-- Now press **Delete**, and the records will be gone.
-- Go to **Mods -> Save as ..**
-- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
-
-The newly edited plugin will have overwritten the original plugin.
+- [Checking for conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#checking-for-conflicts)
 
 ## CLEANING PLUGINS
 
-At the end of my mod list, you will find a [**list of plugins that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes). We will be using two tools to clean plugins, **TESTool** and **tes3cmd**. The truth is that one tool can miss things the other tool catches. This can turn the cleaning process into a tedious affair, but we can ease it up somewhat if you follow my instructions.
+At the end of each of **Mending Morrowind**'s sections you may find a list of plugins that require cleaning, and you will be redirected here. We will be using three tools to clean plugins: **TESTool**, **tes3cmd**, and **TESAME**. TESAME additionally doubles down as a conflict solving utility, as deleting records is useful for both deleting dirty records and records you don't want in a plugin, allowing you to solve conflicts with other mods.
 
 ### TESTool
 
@@ -60,6 +32,8 @@ The first step is to clean plugins using TESTool.
 - Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
 - TESTool will clean all plugins. Once it's finished, close TESTool.
 
+The cleaned plugins will have overwritten the existing plugins.
+
 ### tes3cmd
 
 The second step is to clean plugins using tes3cmd.
@@ -70,7 +44,21 @@ The second step is to clean plugins using tes3cmd.
 - Press Enter, and tes3cmd will clean the plugin.
 - You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
 
-The cleaned plugins will have overwritten the original plugins.
+The cleaned plugins will have overwritten the existing plugins.
+
+### TESAME
+
+TES Advanced Mod Editor lets you open a plugin in order to clean it manually, deleting unwanted records from a mod. It's also used to remove unwanted records from a plugin to improve compatibility between mods.
+
+- Run TESAME in MO2.
+- Go to **Mods -> Open ..**
+- Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
+- Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
+- Now press **Delete**, and the records will be gone.
+- Go to **Mods -> Save as ..**
+- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
+
+The edited plugin will have overwritten the existing plugin.
 
 ## UPDATING SAVES
 
@@ -97,3 +85,17 @@ it is a good practice to repair it using WryeMash. WryeMash may not fully repair
 - In the **Saves** tab, you will see a list with all your saves.
 - Right click on any save, and click on **Repair All**. WryeMash will scan your savefile.
 - You will get a message window with two possible outcomes: your save has been repaired by WryeMash, or WryeMash will tell you no problems where found. Close the window.
+
+## CHECKING FOR CONFLICTS
+
+### TES3View
+
+TES3View is a great tool that lets you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
+
+- Launch TES3View in MO2.
+- Right click on any plugin, and click **Select all**. Click **OK**.
+- Once TES3View has finished loading all your plugins, you can expand them and their individual records to see what a mod changes compared to the master files (Morrowind.esm, Tribunal.esm, Bloodmoon.esm) and other loaded plugins.
+- When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
+- Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
+
+While you will never be asked to use this tool when following **Mending Morrowind** and **Modding Morrowind**, it pays to get used to it when installing mods on your own.
