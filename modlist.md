@@ -423,8 +423,6 @@ The following plugins will conflict with each other. [**Follow the instructions 
 
 Remember to re-run TES3Merge to regenerate your **Merged Objects.esp** and TESTool to regenerate your **Merged_Leveled_Lists.esp** after installing new plugins, and regenerate your Distant Land.
 
-A detailed list of conflicts present in this mod list with no guided fix [**can be found here**](https://github.com/Sigourn/morrowind-improved/blob/master/conflicts.md).
-
 ### MWSEabotlib
 
 The following mods by **abot** utilize a common **abot\lib.lua** file.
