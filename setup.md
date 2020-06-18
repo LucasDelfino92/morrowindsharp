@@ -1,5 +1,8 @@
-# INDEX
+# SETUP
 
+## INDEX
+
+- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3view)
@@ -16,8 +19,6 @@
     - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
     - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
-
-# SETUP
 
 ## Installation
 
