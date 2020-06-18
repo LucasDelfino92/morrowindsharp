@@ -47,9 +47,9 @@ Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the 
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
-### TES3Merge
+### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
 
 Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
