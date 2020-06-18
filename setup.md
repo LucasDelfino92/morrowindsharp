@@ -75,6 +75,14 @@ This tool is used for cleaning plugins, deleting dirty records.
 
 This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+
+- Download the **MGE XE Manual Install** main file.
+- Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
+- Right click on MWSE-Update.exe and select **Run as Administrator**. Once the updating process is finished, the window will close itself.
+
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
+
 ## MOD ORGANIZER 2
 
 Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
@@ -142,16 +150,9 @@ Follow these steps for **Wrye Mash**.
 - Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe) and double click on it.
 - Click **Apply** and then **OK**.
 
-## MGE XE
+### RUNNING MGE XE IN MOD ORGANIZER 2
 
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
-
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
-
-1. Download the **MGE XE Manual Install** main file.
-2. Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-3. Right click on MWSE-Update.exe and select **Run as Administrator**. Once the updating process is finished, the window will close itself.
-4. Now launch Mod Organizer 2. If you click on the icon to the left of the **Run** button, you will get a dropdown menu. Select **MGE XE** and click the **Run** button to launch the application.
+Launch Mod Organizer 2. If you click on the icon to the left of the **Run** button, you will get a dropdown menu. Select **MGE XE** and click the **Run** button to launch the application.
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
