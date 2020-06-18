@@ -22,6 +22,10 @@ In addition, we have the usual removals.
 
 - **Internal logic**
   - Removed [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) (not really an oversight, it was a conscious design decision from Bethesda).
+- **Visuals**
+  - Removed [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) (I felt like it stood out too much from the vanilla game given its unique glow maps, plus it made other mods unnecessarily complicated to install).Ç
+- **Gameplay**
+  - Simplified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
 
 ## June 16th
 
