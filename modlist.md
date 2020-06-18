@@ -39,7 +39,7 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
-  - MO2 will tell you there's no game data on top level. Right click on <data>, and click **Create directory...**. Name it **fonts** and click **OK**. Select **daedric_font.fnt** and **daedric_font_obw.tex** and place them inside the **fonts** folder.
+  - MO2 will tell you there's no game data on top level. Right click on **data**, and click **Create directory...**. Name it **fonts** and click **OK**. Select **daedric_font.fnt** and **daedric_font_obw.tex** and place them inside the **fonts** folder.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch: allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
