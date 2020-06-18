@@ -88,7 +88,7 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 
 ## BUG FIXES
 
-- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the unofficial "official" fan patch for Morrowind, simply put the best out there.
+- [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
