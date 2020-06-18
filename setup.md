@@ -2,15 +2,15 @@
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
-  - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3view)
   - [TES3Merge](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3merge)
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tesame)
   - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#testool)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tes3cmd)
   - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash---polemos-fork---2020)
-  - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
-  - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
+  - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
+    - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
+    - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
   - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
     - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
     - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
@@ -34,25 +34,6 @@ Your Morrowind root folder contains the game’s executable (Morrowind.exe), the
 One thing many Morrowind players who obtained their game through online stores such as GOG or Steam is that the game originally shipped with a map containing most of the major locations. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
 # TOOLS
-
-## Mod Organizer 2
-
-Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
-
-My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
-
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
-
-- Download the main file: **Mod Organizer 2 (Archive)**.
-- Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods\Tools** folder.
-- Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select **Apply** and click **OK**.
-- Run ModOrganizer.exe. 
-   - You will be asked to **Choose Instance**. Click on **Portable**.
-   - You will be asked to **select the game to manage**. Choose **Morrowind**. If the game doesn’t appear in the list, click **Browse...** and select the game’s installation folder.
-- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click **No**.
-- You will be asked to associate MO2 with nxm links. Click on **Yes**.
-
-Mod Organizer 2 has now been installed successfully.
 
 ## TES3View
 
@@ -106,9 +87,25 @@ This tool is used for cleaning plugins, deleting dirty records.
 
 This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
-## Setting up Mod Organizer 2
+## Mod Organizer 2
 
-- Launch Mod Organizer 2.
+Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
+
+My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
+
+[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+
+- Download the main file: **Mod Organizer 2 (Archive)**.
+- Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods\Tools** folder.
+- Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select **Apply** and click **OK**.
+- Run ModOrganizer.exe. 
+   - You will be asked to **Choose Instance**. Click on **Portable**.
+   - You will be asked to **select the game to manage**. Choose **Morrowind**. If the game doesn’t appear in the list, click **Browse...** and select the game’s installation folder.
+- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click **No**.
+- You will be asked to associate MO2 with nxm links. Click on **Yes**.
+
+Now that Mod Organizer 2 has been installed successfully, we need to configure it.
+
 - Click on the ID card icon at the top of the window, called **Configure profiles**.
 - Tick **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure Automatic Archive Invalidation **is not** enabled.
 - With the **Default** profile selected, click **Rename**. Type in **Vanilla** and click **OK**.
@@ -130,7 +127,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
 
-## Setting up tools in Mod Organizer 2
+### Setting up tools in Mod Organizer 2
 
 For our modding tools to work in our Mod Organizer 2 Morrowind installation, we need to configure them in Mod Organizer 2. Some of them require generic instructions, others require more specific instructions which I'll detail.
 
@@ -160,7 +157,7 @@ Follow these steps for **Wrye Mash**.
 - Leave both the **Start In** and **Arguments** fields empty.
 - Click **Apply** and then **OK**.
 
-## Hiding files and plugins in Mod Organizer 2
+### Hiding files and plugins in Mod Organizer 2
 
 Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order.
 
