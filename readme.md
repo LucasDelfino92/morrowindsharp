@@ -33,12 +33,8 @@ Last but not least: though this guide does not contemplate **Tamriel Rebuilt**, 
 
 ## MOD ORDER AND LOAD ORDER
 
-My mod list uses a working mod installation order and plugin load order that guarantees conflicts will be kept to the bare minimum.
-
 You can download a package containing these in .txt form from here: [**Morrowind Improved June 16th**](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing)
 
 The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder.
 - If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
 - Your mod installation order *has* to be adjusted manually, regardless of which mod manager you use.
-
-More information on the difference between "mod order" and "load order" can be found in **Mended Morrowind**.
