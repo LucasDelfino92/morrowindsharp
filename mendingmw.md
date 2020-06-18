@@ -98,6 +98,8 @@ These are the major bugfixing and optimization mods for Morrowind. No player sho
   - Also install the **Wood Fix** update file.
   - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
 
+This is the most faithful to vanilla and comprehensive texture pack out there.
+
 ## MINOR BUG FIXES
 
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
@@ -106,6 +108,8 @@ These are the major bugfixing and optimization mods for Morrowind. No player sho
   - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
+These are minor bug fixes that most players won't notice, but it's nice to have them either way.
+
 ## MWSE BUG FIXES
 
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
@@ -113,13 +117,15 @@ These are the major bugfixing and optimization mods for Morrowind. No player sho
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
+These are bug fixes and quality of life improvements that require MWSE to work appropiately.
+
 ## EXPANSION DELAY
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## FINISHING TOUCHES
+This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 
-Some of the mods in this list conflict with each other in a way that requires us to rearrange their installation order.
+## FINISHING TOUCHES
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
