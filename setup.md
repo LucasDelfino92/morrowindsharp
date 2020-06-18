@@ -156,7 +156,7 @@ Launch Mod Organizer 2. If you click on the icon to the left of the **Run** butt
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
-### GRAPHICS TAB
+**Graphics tab**
 
 All features in this page are self-explained, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones 
 are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
