@@ -83,7 +83,7 @@ Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving 
 
 [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
 
-- Download **tes3cmd**, and place tes3cmd.exe inside your **Morrowind\Data Files** folder.
+- Extract the archive, and place **tes3cmd.exe** inside your **Morrowind\Data Files** folder.
 - Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
 - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
 - Inside **Morrowind\Data Files**, create a **tes3cmd\backups** folder.
