@@ -6,7 +6,6 @@
 - [Modding basics](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#modding-basics)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mod-organizer-2)
   - [Hiding files and plugins in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#hiding-files-and-plugins-in-mod-organizer-2)
-  - [A note on Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#a-note-on-mod-organizer-2)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mge-xe)
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#graphics-tab)
@@ -43,30 +42,35 @@ One thing many Morrowind players who obtained their game through online stores s
 
 I know I will be crucified for suggesting this manager, but my experience with it is a very positive one. Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
 
+My experience with MO2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods, for instance, which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. But MO2 won't break your game as long as you use it for mod installation and nothing else.
+
 Mod Organizer 2 was designed with new Bethesda games in mind, but for the purpose of installing mods it works just fine for Morrowind.
 
-1. Download the main file: **Mod Organizer 2 (Archive)**.
-2. Extract the contents to a folder and rename it “Mod Organizer 2”.
-3. Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select Apply.
-4. Run ModOrganizer.exe.
-5. You will be asked to **Choose Instance**. Click on **Portable**.
-6. You will be asked to **select the game to manage**. Choose Morrowind. If the game doesn’t appear in the list, you can Browse and select the game’s installation folder.
-7. Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. **If this is your first time using Mod Organizer 2, click on Yes.**
-8. You will be asked to associate MO2 with nxm links. Click on **Yes**.
+- Download the main file: **Mod Organizer 2 (Archive)**.
+- Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods** folder.
+- Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select **Apply** and click **OK**.
+- Run ModOrganizer.exe. 
+   - You will be asked to **Choose Instance**. Click on **Portable**.
+   - You will be asked to **select the game to manage**. Choose **Morrowind**. If the game doesn’t appear in the list, click **Browse...** and select the game’s installation folder.
+- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click **No**.
+- You will be asked to associate MO2 with nxm links. Click on **Yes**.
 
 Mod Organizer 2 has now been installed successfully. There are some tweaks you have to make regarding your Profile settings.
 
-1. Click on the ID card icon next to the globe icon at the top, called **Configure Profiles**.
-2. Enable **Use profile-specific Game INI files**. Make sure Automatic Archive Invalidation **is not** enabled. Click on Close.
+- Click on the ID card icon at the top of the window, called **Configure profiles**.
+- Tick **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure Automatic Archive Invalidation **is not** enabled.
+- With the **Default** profile selected, click **Rename**. Type in **Vanilla** and click **OK**.
+- With the **Vanilla** profile selected, click **Copy**. Type in **Morrowind Improved** (or whatever you feel) and click **OK**.
+- Close this window.
 
-Now you must rearrange Morrowind’s installation order and load order. The installation order is the order Mod Organizer 2 loads your **installed mods**, while the "load order" is the order the game loads your **installed plugins** (.esm and .esp files).
+On the **Profile** bar below the ID card icon, make sure to select **Morrowind Improved**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to click deactivate all installed mods.
 
-Your installed mods are listed on the pane to the left. Remember that Tribunal and Bloodmoon are technically mods of the original game. Your installed mods, thus, should be as follows:
+Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). Your installed mods should read as follows:
 
 - DLC: Tribunal
 - DLC: Bloodmoon
 
-Your plugins are listed on the pane to the right. They should be as follows:
+Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the edits of plugins closer to the top (if conflicting records are present). They should read as follows:
 
 - Morrowind.esm
 - Tribunal.esm
@@ -87,13 +91,8 @@ Mod Organizer 2 lets you hide specific files from your installed mods, including
 - To hide a plugin, right click on your installed mod and select **Information...**.
 - Select the **Filetree** tab.
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
-- MO2 will hide the files, and these will no longer affect your game.
 
-This concludes this brief tutorial.
-
-### A NOTE ON MOD ORGANIZER 2
-
-As I said earlier, my experience with it is a positive one. But my experience with MO2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods, for instance, which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. But MO2 won't break your game as long as you use it for mod installation and nothing else.
+Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
 ## MORROWIND CODE PATCH
 
