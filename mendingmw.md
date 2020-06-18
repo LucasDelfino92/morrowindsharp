@@ -40,7 +40,6 @@ The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), 
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
-- Download the **Morrowind Code Patch** main file.
 - Extract the contents of the file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
 - Now download the **MCP beta** update file from [**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
 - Extract the contents of the file to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
