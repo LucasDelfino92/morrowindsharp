@@ -10,7 +10,6 @@
 - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
 - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
-- [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#official-plugins)
 - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#ini-edits)
 - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 
