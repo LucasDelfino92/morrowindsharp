@@ -35,6 +35,8 @@ One thing many Morrowind players who obtained their game through online stores s
 
 # TOOLS
 
+Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
+
 ## TES3View
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
