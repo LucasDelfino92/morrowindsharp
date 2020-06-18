@@ -254,4 +254,4 @@ The default settings on this tab are pretty good, but there are a handful more y
 - **Allow screenshots** is great for those of us who like to take and share screenshots of our game.
 - **High detail actor shadows** is buggy and bad for performance. I don't recommend it.
 
-## [TO MENDING MORROWIND](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md)
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
