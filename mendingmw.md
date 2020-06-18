@@ -150,3 +150,5 @@ MGE XE's Distant Land setup should be re-run. If you have followed the steps [**
 If you want to confirm your installed mods and plugins are in the right order, [**consult the text files found here**](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th).
 
 Congratulations, your Morrowind installation is ready!
+
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
