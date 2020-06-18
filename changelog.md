@@ -14,9 +14,14 @@ This was a massive update regarding the formatting of the **Mending Morrowind** 
   - Explains how to install Mod Organizer 2 and how to set up the installed tools through Mod Organizer 2.
   - Explains how to configure MGE XE.
 - **Mending Morrowind**
-  - Guide for patching Morrowind using the Morrowind Code Patch and additional mods.
+  - Guide for patching Morrowind using the Morrowind Code Patch and additional mods. Also has tutorials on how to use TES3Merge and TESTool for automated conflict solving, and WryeMash for synchronizing masters.
 - **Tools**
   - Explains how to use the tools for conflict solving, cleaning, synchronizing mod masters, and updating and repairing saves.
+
+In addition, we have the usual removals.
+
+- **Internal logic**
+  - Removed [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) (not really an oversight, it was a conscious design decision from Bethesda).
 
 ## June 16th
 
