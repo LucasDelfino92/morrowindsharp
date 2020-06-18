@@ -1,4 +1,4 @@
-# INDEX
+# Index
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#installation)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#tools)
@@ -25,7 +25,7 @@
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# INSTALLATION
+# Installation
 
 The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
@@ -97,7 +97,7 @@ Install this in **Morrowind Mods\TESTool**. This tool is used for solving confli
 - Create the following folder:
   - Morrowind\Data Files\tes3cmd\backups
 
-## Wrye Mash - Polemos fork - 2020
+## Wrye Mash
 
 [**Wrye Mash - Polemos fork - 2020**](https://www.nexusmods.com/morrowind/mods/45439)
 
