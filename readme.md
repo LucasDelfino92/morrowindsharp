@@ -39,7 +39,7 @@ For the most part, I will provide no installation instructions whatsoever. This 
 1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
 2. That the installation is straightforward, and requires no special instructions.
 
-My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Mended Morrowind** module will explain in detail why I use it, and how to use it. Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
+My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it. Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
 
 ## INSTALLATION INDEX
 
