@@ -1,18 +1,18 @@
 # MENDING MORROWIND
 
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
 ## INDEX
 
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
-- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind)
-  - [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#useful-tips)
-  - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
-  - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
-  - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
-  - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
-  - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
-  - [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#official-plugins)
-  - [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#ini-edits)
-  - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
+- [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#useful-tips)
+- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
+- [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
+- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
+- [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
+- [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#official-plugins)
+- [.INI edits](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#ini-edits)
+- [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 
 ## USEFUL TIPS
 
