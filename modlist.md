@@ -163,7 +163,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich: gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
   - Only install the **Unique Rippened Belladonna** optional file.
 - [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros: folds up the sails of longboats in port.
-  - Hide/delete Ex_longboat01.nif. This mesh is buggy and unnecessary for this mod to work as intended.
+  - Hide/delete **Meshes\x\Ex_longboat01.nif**. This mesh is buggy and unnecessary for this mod to work as intended.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade: makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
@@ -171,7 +171,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
     - **05 Raven Rock Glass Windows Interior Sunrays**
-  - Note that if you installed **Project Atlas** in the past, you will need to reinstall it with the **10 Glow in the Darkh Patch - Interior Sunrays** option activated in addition to **00 Core**.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - This mod is incorrectly packaged. Place XGolden saint.kf and XGolden Saint.nif inside your **Data Files\meshes\r** folder.
 - [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
@@ -299,7 +298,8 @@ The following mods require additional MGE XE configuration after installation to
     - Cell **Cavern of the Incarnate**
   - Save the plugin as **COI.esp**, overwriting the original when asked.
   - This keeps only the armor and clothing modifications on the Failed Incarnates.
-- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room. 
+- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
+- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -312,7 +312,6 @@ The following mods require additional MGE XE configuration after installation to
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran: adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
-- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
 ## GAMEPLAY
 
@@ -474,10 +473,6 @@ The following plugins will conflict with each other. [Follow the instructions he
 ### LOAD ORDER
 
 Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s assets.
-
-Load **Glow in the Dahrk**'s assets before **Project Atlas**' assets.
-
-Load the **Yet Another Guard Diversity - Regular.esp** plugin before the **No-Frills Closed Molag Mar.esp** and **No-Frills Open Vivec.esp** plugins.
 
 [Refer to this section](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
