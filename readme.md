@@ -12,23 +12,18 @@ You can find me in the [**Morrowind Modding Community**](https://discord.me/mwmo
 
 ## DESCRIPTION
 
-*Morrowind Improved* is nothing else than the Morrowind mods I play with and can recommend to anyone. It's the result of years of modding Morrowind, which include many many popular modding guides that have all contributed, in one way or another, to the development of this mod list.
+*Morrowind Improved* is the result of years of modding Morrowind: a modding guide that aims to enhance Morrowind across the board but without sacrificing its unique aesthetic.
 
-This mod list is divided in a serious of modules for your convenience. All modules can be installed independently from one another. All mods will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
+This mod list is divided in two major sections:
 
-For the most part, I will provide no installation instructions whatsoever. This means two things:
+- The [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) and [**Mending Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md) guides, which explain how to install the game, set up tools and mod manager, and patch Morrowind for a mostly bug-free, stable, and purist Morrowind experience.
+- The [**Modding Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md) and [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
 
-1. That you should only install the main file (if the mod in question is hosted on Nexus; MMH and MediaFire are single-link downloads).
-2. That the installation is straightforward, and requires no special instructions.
+While the **Setup** and **Mending Morrowind** are meant for everyone who is looking into playing Morrowind, the **Modding Morrowind** and **Tools** guides are aimed at more experienced modders. The **Modding Morrowind** guide, in particular, is divided into a series of modules, all of which can be installed independently from one another.
+
+All mods present in Morrowind Improved will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
 My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it. Last but not least: when installing mods, conflicts are bound to appear sooner or later. This mod list has been curated to keep those to a minimum. Specific instructions will be provided in order to solve mod conflicts, but rest assured that an appropiate load order, as well as the use of **TES3Merge** (which you will learn how to install and use in the **Tools** module) is enough to solve 99% of them.
-
-## INSTALLATION INDEX
-
-- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md): a guide to help you set up Morrowind, tools and mod manager from scratch.
-- [**Mending Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md): a small guide for a (mostly) bug-free, stable, and purist Morrowind experience.
-- [**Modding Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md): this guide aims to fix many issues with Morrowind as a whole, beyond simple bug fixes: improving the user interface, reinforcing the internal consistency of the game, quality of life visual, sound, and gameplay improvements, and providing a more balanced gameplay experience.
-- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md): a small guide to get you up to speed on the basic but essential functions of different modding tools, including compatibility visualization, conflict solving, and mod cleaning.
 
 ## MOD ORDER AND LOAD ORDER
 
