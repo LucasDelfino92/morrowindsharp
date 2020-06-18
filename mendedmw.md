@@ -40,10 +40,6 @@ One thing many Morrowind players who obtained their game through online stores s
 
 Mod Organizer 2 is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is Wrye Mash. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
 
-My experience with MO2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods, for instance, which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. But MO2 won't break your game as long as you use it for mod installation and nothing else.
-
-Mod Organizer 2 was designed with new Bethesda games in mind, but for the purpose of installing mods it works just fine for Morrowind.
-
 - Download the main file: **Mod Organizer 2 (Archive)**.
 - Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods** folder.
 - Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select **Apply** and click **OK**.
@@ -54,6 +50,8 @@ Mod Organizer 2 was designed with new Bethesda games in mind, but for the purpos
 - You will be asked to associate MO2 with nxm links. Click on **Yes**.
 
 Mod Organizer 2 has now been installed successfully.
+
+> My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to a different mod manager. As long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
 
 ## TES3Merge
 
