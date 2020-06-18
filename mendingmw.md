@@ -127,6 +127,8 @@ This is the most faithful to vanilla and comprehensive texture pack out there. T
 
 ## FINISHING TOUCHES
 
+If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
+
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
@@ -153,8 +155,6 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
 - Click **Select all**, and then **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Once the statics have been created, simply click **Finish**.
-
-If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th).
 
 Congratulations, your Morrowind installation is ready!
 
