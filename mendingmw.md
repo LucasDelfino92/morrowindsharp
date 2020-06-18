@@ -2,7 +2,7 @@
 
 - [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#mending-morrowind)
   - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#morrowind-code-patch)
-  - [High quality textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#high-quality-textures)
+  - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#high-resolution-textures)
   - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#bug-fixes)
   - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#optimization)
   - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mendedmw.md#expansion-implementation)
