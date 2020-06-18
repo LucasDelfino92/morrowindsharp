@@ -96,6 +96,7 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich: changes the intro cinematic from "he" to "they", to refer to the player character.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar: edits, re-filters, or adds on to vanilla dialogue to add more situational nuance - tavern owners will no longer talk about themselves in third person, Ashlanders will no longer curse vampires in the name of Almsivi, slave owners won't talk lovingly about abolitionists, and thieves will be less blase about incriminating themselves to strangers.
 - [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) by R-Zero and Petethegoat: matches the iron warhammer model to its in-game description.
+  - Only install the **Lore Friendly Iron Warhammer** main file.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
 - [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
@@ -103,8 +104,10 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
-  - Hide/disable **True_Scourge_zerosouls.esp**.
+  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
+
+[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## VISUALS
 
