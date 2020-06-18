@@ -19,7 +19,7 @@
 
 ## INSTALLATION
 
-The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
+The Morrowind we will be modding is the Game of the Year Edition [available for purchase at gog.com](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
 
 Install Morrowind and all modding tools outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). This will save you headaches later on. I suggest having the following folders:
 
@@ -31,13 +31,13 @@ Your **Morrowind\Data Files** folder contains your game’s data. If you followe
 
 Your **Morrowind root folder** contains the game’s executable (Morrowind.exe), the game’s launcher (Morrowind Launcher.exe) and the game’s .ini file (Morrowind.ini). Certain mods require you to modify values from the .ini, but those are in the minority.
 
-One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
+One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [You can download a JPG copy of the map from here.](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
 ### A NOTE ON THE OFFICIAL PLUGINS
 
-Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
+Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [You can read about the official plugins here.](https://en.uesp.net/wiki/Morrowind:Plugins).
 
-My personal stance, and the one which this guide follows, is: don't bother with them. I recommend you remove the following plugins from your **Morrowind\Data Files** folder:
+My personal stance, and the one which this guide follows, is "don't bother with them". For all intents and purposes, they are amateur mods made under an official banner. Near all of them are mods I wouldn't personally recommend myself, with the possible exception being the bcsounds plugin. Thus, I recommend you remove the following plugins from your **Morrowind\Data Files** folder:
 
 - adamantiumarmor.esp
 - AreaEffectArrows.esp
@@ -56,7 +56,7 @@ Many tools have been made available to Morrowind over the years. This section wi
 
 Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
 
-> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+> The version I'm hosting on MediaFire can be downloaded from [xEdit's Discord](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
@@ -73,7 +73,7 @@ Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving 
 [**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
 
 - Extract the archive, and place **tes3cmd.exe** inside your **Morrowind\Data Files** folder.
-- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [**found in this pastebin**](https://pastebin.com/raw/2gtjBYkX).
+- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [found in this pastebin](https://pastebin.com/raw/2gtjBYkX).
 - Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
 - Inside **Morrowind\Data Files**, create a **tes3cmd** folder, and a **backups** folder inside of it.
 
