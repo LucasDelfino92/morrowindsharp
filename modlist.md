@@ -39,7 +39,9 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
-  - MO2 will tell you there's no game data on top level. Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. Select **daedric_font.fnt** and **daedric_font_obw.tex** and place them inside the **fonts** folder. Click **OK**.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
+    - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch: allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
@@ -59,7 +61,9 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
-  - MO2 will tell you there's no game data on top level. Expand the **morrowind-mods-master** folder. Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **morrowind-mods-master** folder. 
+    - Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
 
 [Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
@@ -71,9 +75,11 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos: enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
@@ -112,7 +118,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) by R-Zero: makes the Scourge artifact behave more like its description in the game books. Now any summoned Daedra hit by this weapon gets instantly banished back to Oblivion.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
@@ -144,13 +151,17 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
-  - This mod is incorrectly packaged. Drag the **Meshes** folder into the mod's root directory in MO2.
+  - This mod is incorrectly packaged. 
+    - Drag the **Meshes** folder into the mod's root directory in MO2.
 - [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
-  - MO2 will tell you there's no game data on top level. Expand the **Creeper the drummer** folder. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **Creeper the drummer** folder. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
     - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
@@ -158,7 +169,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
   - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich: makes the Package for Caius Cosades an actual package.
 - [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich: gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
   - Only install the **Unique Rippened Belladonna** optional file.
@@ -186,7 +198,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-  - MO2 will tell you there's no game data on top level. Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7: implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
@@ -207,20 +220,28 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Only install the **Pete's Journal and Scroll** optional file.
   - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
-  - This mod is incorrectly packaged. Place **tx_blood.dds** inside your **Data Files\Textures** folder.
+  - This mod is incorrectly packaged. 
+    - Right click on **data**, and click **Create directory...**. Name this new folder **textures** and click **OK**. 
+    - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
 - [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
-  - If you are *not* using **Intelligent Textures**, delete/hide the **Textures** folder for visual consistency.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Untick the **Textures** folder. Click **OK**.
 - [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
+  - Only install the **Gold coins** main file.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
-  - This mod is incorrectly packaged. Select **Spear Only** and set the proper **Data** directory in MO2.
-  - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif.**
+  - MO2 will tell you there's no game data on top level.
+    - Expand **Spear Only**.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif**. This mesh was incorrectly included into this option.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq: Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
-- [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics. Two versions are included, one with the original color of the Tamriel Rebuilt models, and another with a slightly more blue tint. No requirements.
+- [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
@@ -228,14 +249,16 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
-  - This mod is incorrectly packaged. Set **Data Files** as the proper **Data** directory in MO2.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd: regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
 - [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn: personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-  - This mod is incorrectly packaged. Place the **x** folder inside the **\Data Files\Meshes** folder.
+  - This mod is incorrectly packaged.
+    - Create a new folder called **Meshes**. Move the **x** folder into the **Meshes** folder.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ### READABLE SIGNPOSTS
