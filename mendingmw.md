@@ -89,21 +89,6 @@ This mod list does not condone the use of using texture replacers for the sake o
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## OFFICIAL PLUGINS
-
-Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
-
-My personal stance, and the one which this guide follows, is: don't bother with them. I recommend you remove the following plugins from your game:
-
-- adamantiumarmor.esp
-- AreaEffectArrows.esp
-- bcsounds.esp
-- EBQ_Artifact.esp
-- entertainers.esp
-- LeFemmArmor.esp
-- master_index.esp
-- Siege at Firemoth.esp
-
 ## .INI EDITS
 
 The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
