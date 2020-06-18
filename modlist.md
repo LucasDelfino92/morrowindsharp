@@ -61,6 +61,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
   - MO2 will tell you there's no game data on top level. Expand the **morrowind-mods-master** folder. Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
 
+[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+
 ## CONTENT RESTORATION
 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
