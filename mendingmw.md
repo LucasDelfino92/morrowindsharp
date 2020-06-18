@@ -11,7 +11,7 @@
 - [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
 - [Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#optimization)
 - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
-- [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
+- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## MODDING TIPS
 
@@ -119,6 +119,26 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
-## LOAD ORDER
+## FINISHING TOUCHES
 
-[**Refer to this section**](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
+TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
+
+- Run TES3Merge in MO2. Once it's finished, press any key to exit.
+- **Merged Objects.esp** will now be present at the end of your load order.
+
+Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
+
+- Run WryeMash in MO2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a **green box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
+
+MGE XE's Distant Land setup should be re-run. If you have followed the steps [**found in this section before**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab), the process will be much easier.
+
+- Run MGE XE in MO2.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**, and then **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Once the statics have been created, simply click **Finish**.
+
+Congratulations, your Morrowind installation is ready!
