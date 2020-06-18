@@ -174,7 +174,8 @@ MGE XE receives constant support from the dedicated modding community, generally
 
 Now that we have all the required files, we can finally configure MGE XE.
 
-- Launch Mod Organizer 2. From the dropdown menu to the left of the **Run** button, select **MGE XE**. Run the application.
+- Launch Mod Organizer 2. 
+- From the dropdown menu to the left of the **Run** button, select **MGE XE**. Run the application.
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
