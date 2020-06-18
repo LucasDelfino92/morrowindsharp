@@ -1,6 +1,9 @@
-# INDEX
+# MENDING MORROWIND
+
+## INDEX
 
 - [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind)
+  - [Useful tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#useful-tips)
   - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#morrowind-code-patch)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#high-resolution-textures)
   - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes)
@@ -11,9 +14,7 @@
   - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#load-order)
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# MENDING MORROWIND
-
-## Modding tips
+## USEFUL TIPS
 
 A crash course to Morrowind and Bethesda modding in general is:
 
