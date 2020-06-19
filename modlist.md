@@ -475,7 +475,7 @@ If you have installed any of abot's mods listed above, you will need to install 
 
 ## FINISHING TOUCHES
 
-If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing) (updated June 16th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
+To confirm your installed mods and plugins are in the right order, [consult the text files found here](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing) (updated June 16th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
 
 ### CONFLICT RESOLUTION
 
