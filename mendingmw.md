@@ -13,6 +13,11 @@
 - [Expansion Delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
 - [Intelligent Textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#intelligent-textures)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+    - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#adjusting-your-load-order)
+    - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#automated-conflict-resolution)
+    - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#synchronizing-mod-masters)
+    - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#running-distant-land)
+    - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#in-game-configuration)
 
 ## MODDING TIPS
 
@@ -171,6 +176,12 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
 - Click **Select all**, and then **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Once the statics have been created, simply click **Finish**.
+
+### IN-GAME CONFIGURATION
+
+- Under the **Options** menu, go to the **Video** tab.
+  - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right.
+  - Turn the **Real-time Shadows** slider all the way to the left, disabling them. These shadows look pretty bad, and can be quite glitchy.
 
 Congratulations, your Morrowind installation is ready!
 
