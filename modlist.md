@@ -85,6 +85,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 
 ## CONTENT RESTORATION
 
+These mods restored content cut from the finished game. There's an emphasis on mod that took the shortest route to restore this cut content, and most importantly, on cut content that works well.
+
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
 - [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser: adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot: restores visual effects on creatures.
@@ -109,6 +111,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - Lev Item **MU_Bloat_Random**
 
 ## INTERNAL LOGIC
+
+These mods increase the internal consistency of the game, taking into account aspects such as lore and dialogue.
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
@@ -151,6 +155,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Clean with TESTool and tes3cmd.
 
 ## VISUALS
+
+These mods aim to improve specific visual aspects of the game I personally found deficient, especially when the game is paired alongside MGE XE in the case of water sources. This section also includes mods to make interiors and nights darker, and add groundcover to most of Morrowind's regions. Other little mods included tweak certain silly-looking meshes, or add neat visual effects to some of the game's statics.
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
@@ -334,6 +340,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## AUDIO
 
+These mods don't so much replace existent sound effects, but like the Visuals section, they seek to improve on the game by adding neat sound effects where there previously weren't any. Overall, most of these tend to improve immersion.
+
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
   - In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
@@ -360,6 +368,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot: simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
+
+These mods make changes to many different game locations with the intention to make them stand out or feel more adequate to what they are supposed to be. These are not your average "clutter" mods, but mods which thoughtfully improve the locations they overhaul.
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
 - [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho: modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
@@ -398,6 +408,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## GAMEPLAY
 
+These mods tweak certain annoying or deficient aspects of the game's gameplay. Some of these are quality of life improvements, other simply make sense.
+
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
@@ -409,7 +421,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
-- [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file.
@@ -426,6 +437,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 
 ### GAMEPLAY MWSE
+
+These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, many of these mods add neat new mechanics into the game, some present in older Elder Scrolls games, others entirely new. In many cases, these mods can be configured in-game to suit your particular tastes.
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
@@ -487,22 +500,27 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ### GAMEPLAY MWSE ABOT
 
+These mods all belong to the same author, abot. They receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
+
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
 - [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot: up-to-date **abot\lib.lua**, shared by all of the above mods.
 
-These mods receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
-
 ## GAME BALANCE
+
+These gameplay mods seek to improve deficient aspects of the game's balance, such as the overabundace of overpowered equipment, how easy it is to get it, or the rebalance of the game's official expansions which were originally designed with an end-game character in mind.
 
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
+- [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 
 ### GAME BALANCE MWSE
+
+These gameplay mods require MWSE to work properly. Most importantly, they deal with particularly broken gameplay mechanics.
 
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort: dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
@@ -518,6 +536,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Clean with TESTool and tes3cmd.
 
 ## DIALOGUE
+
+For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issue with Morrowind's dialogue is the repetition of the "No Lore" greetings.
 
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
 
