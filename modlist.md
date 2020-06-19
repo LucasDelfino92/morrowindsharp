@@ -645,8 +645,8 @@ Unless explicitly stated, configure these mods through the in-game **Mod Configu
 - Set **Show unreadied shields on back** to **On**.
 
 **Shattered Stones - An Earthquake Mod**
->- Access the in-game console by pressing the key to the left of the "1" key.
->- Type **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
+- Access the in-game console by pressing the key to the left of the "1" key.
+- Type **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
