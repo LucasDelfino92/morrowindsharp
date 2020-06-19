@@ -94,7 +94,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - Container **cavern_spore00**
     - Lev Item **MU_Bloat_Random**
 
-[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+After finishing a section, it is a good idea to ensure mods are conflict free. [Follow the instructions here on how to achieve this.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## INTERNAL LOGIC
 
@@ -137,7 +137,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - **true corprus.esp**
   - Clean with TESTool and tes3cmd.
 
-[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+After finishing a section, it is a good idea to ensure mods are conflict free. [Follow the instructions here on how to achieve this.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## VISUALS
 
@@ -307,14 +307,6 @@ The following mods require additional MGE XE configuration after installation to
 
 ### FINISHING TOUCHES
 
-**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
-
-- [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
-- [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
-- The other two tabs will be automatically adjusted. Leave them be.
-
-**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
-
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **correctUV Ore Replacer 1.0.esp**
@@ -326,7 +318,15 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Delete the following records in TESAME:
     - Cell **Solstheim, Bloodskal Barrow**
 
-[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+After finishing a section, it is a good idea to ensure mods are conflict free. [Follow the instructions here on how to achieve this.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+
+**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
+
+- [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
+- [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
+- The other two tabs will be automatically adjusted. Leave them be.
+
+**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 ## AUDIO
 
@@ -478,9 +478,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
 
-## FINISHING TOUCHES
-
-### MWSEabotlib
+## MWSEabotlib
 
 - [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
 
@@ -516,8 +514,37 @@ The following plugins will conflict with each other. [Follow the instructions he
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
 
-### LOAD ORDER
+## FINISHING TOUCHES
 
-[Refer to this section](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
+If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing) (updated June 16th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
+
+TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
+
+- Run TES3Merge in MO2. Once it's finished, press any key to exit.
+- **Merged Objects.esp** will now be present at the end of your load order.
+
+TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same.
+
+- Run TESTool in MO2.
+- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
+- Select **Merge Leveled Lists for active plugins** and click **Execute**.
+- Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
+
+Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
+
+- Run WryeMash in MO2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a **green box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
+
+MGE XE's Distant Land setup should be re-run. If you followed the steps [in this section](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
+
+- Run MGE XE in MO2.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**, and then **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Once the statics have been created, simply click **Finish**.
+
+Congratulations, your Morrowind installation is ready!
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
