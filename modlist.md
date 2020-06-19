@@ -17,10 +17,10 @@
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
+  - [abot's mods](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#abot-mods)
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance)
 - [Quest and faction tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#quest-and-faction-tweaks)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
-- [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-resolution)
     - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#synchronizing-mod-masters)
@@ -71,8 +71,6 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) by PoodleSandwich: modifies the crosshair to be less intrusive.
   - Refer to the pictures before installing the file of your choice.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
-  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
@@ -421,8 +419,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 - [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
@@ -447,8 +443,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - If installing this mod make sure to refer to the [**MWSEabotlib**](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib) section further down below.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
     - GMST **fJumpRunMultiplier**
@@ -466,6 +460,15 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
+
+### ABOT'S MODS
+
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot: up-to-date **abot\lib.lua**, shared by all of the above mods.
+
+These mods receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
 
 ## GAME BALANCE
 
@@ -488,12 +491,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 ## DIALOGUE
 
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
-
-## MWSEabotlib
-
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot
-
-If you have installed any of abot's mods listed above, you will need to install this file. It is an up-to-date **abot\lib.lua**, sharing among many of his MWSE mods. Loading this after all his other mods will ensure they work as intended.
 
 ## FINISHING TOUCHES
 
