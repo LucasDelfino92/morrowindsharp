@@ -4,7 +4,9 @@
 
 ## INDEX
 
-- [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#creating-separators-in-mod-organizer-2)
+- [Following Modding Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#following-modding-morrowind)
+  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#creating-separators-in-mod-organizer-2)
+  - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#installing-the-modules)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#user-interface)
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#content-restoration)
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#internal-logic)
@@ -25,12 +27,26 @@
     - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mge-xe)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
 
-## CREATING SEPARATORS IN MOD ORGANIZER 2
+## FOLLOWING MODDING MORROWIND
+
+### CREATING SEPARATORS IN MOD ORGANIZER 2
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for the following sections before installing these mods.
 
 - Right click on the empty space on the mod order window, and click **Create Separator**.
 - Name it accordingly to its category and click **OK**.
+
+### INSTALLING THE MODULES
+
+As explained in the main page, this guide is modular, and each module can be installed independent from each other. That said, for the sake of simplicity these are the steps you should following when installing any of these modules.
+
+- Install a given module.
+- Clean whatever dirty plugins it may have, as per their corresponding **Cleaning plugins** section.
+- Jump into the **Finishing touches** section, which will contain the most general information.
+
+Always remember that though these modules are independent from each other, they work with minimum conflicts if you install them in order, and if you install their respective mods in order as well. This doesn't mean you can't install modules and mods out of order, as Mod Organizer 2 lets us rearrange mod and plugin order after installing them. It just means following this guide in order will be your best bet at preserving your sanity.
+
+Good luck!
 
 ## USER INTERFACE
 
