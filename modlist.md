@@ -27,7 +27,7 @@
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#adjusting-your-load-order)
     - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#automated-conflict-resolution)
     - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#synchronizing-mod-masters)
-    - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mge-xe)
+    - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#running-distant-land)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
 
 ## FOLLOWING MODDING MORROWIND
@@ -553,7 +553,7 @@ Before running the automated conflict resolution tools, we need to confirm your 
 
 You can download a package containing these in .txt form from here: [Morrowind Improved June 19th](http://download1653.mediafire.com/6b163ffptwfg/oc8xhgxd768udx0/Morrowind+Improved+June+19th.zip)
 
-> The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when appropriate. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
+> The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
 
 ### AUTOMATED CONFLICT RESOLUTION
 
@@ -578,7 +578,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 
-### MGE XE
+### RUNNING DISTANT LAND
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [in this section](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
