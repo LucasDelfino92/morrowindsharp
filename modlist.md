@@ -17,8 +17,8 @@
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#audio)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#overhauls)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay)
-  - [MWSE gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwse-gameplay)
-  - [MWSE gameplay abot](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwse-gameplay-abot)
+  - [Gameplay MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay-mwse)
+  - [Gameplay MWSE abot](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#gameplay-mwse-abot)
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
@@ -422,7 +422,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 
-### MWSE GAMEPLAY
+### GAMEPLAY MWSE
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
@@ -481,7 +481,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-### MWSE GAMEPLAY ABOT
+### GAMEPLAY MWSE ABOT
 
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
