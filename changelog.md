@@ -185,36 +185,5 @@ In addition, we have the usual changes.
 
 ## June 10th
 
-- **Content restoration**
-  - Removed [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050?) (obsolete with **Unstretched Splash Screens**).
-- **Visuals**
-  - Removed [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582?) (replaced with **Bitter Coast Scum Replacer**).
-  - Removed [**Vanilla Friendly Scum Texture**](https://www.nexusmods.com/morrowind/mods/44321) (replaced with **Bitter Coast Scum Replacer**).
-- **Gameplay**
-  - Removed [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) (replaced with **Shrine Tooltips**).
-  - Removed [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) (replaced with **Less Aggressive Creatures**).
-  - Removed [**More Passive Wildlife**](https://www.nexusmods.com/morrowind/mods/46120) (replaced with **Less Aggressive Creatures**).
 - **Quest and faction tweaks**
   - Removed [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) (stands out too much from the vanilla game and the area in general).
-
-## June 3rd
-
-- **Mending Morrowind: Bug Fixes**
-  - Added [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269).
-  - Added [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029).
-- **User interface**
-  - Added [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272).
-- **Content restoration**
-  - Removed [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228?) (replaced with **Synthesis Series - Creatures and Diseases**).
-- **Internal logic**
-  - Added [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273).
-  - Added [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279).
-  - Removed [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499) (replaced with **LDM - Context Matters**).
-  - Removed [**LDM - Ohh You're Naked begone - Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284). Replaced with **LDM - Context Matters**.
-  - Removed [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556) (replaced with **LDM - Context Matters**).
-- **Visuals**
-  - Added [**Facelift v0.10.2 Hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file).
-  - Added [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050).
-  - Added [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/).
-- **Gameplay**
-  - Added [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122).
