@@ -291,10 +291,19 @@ Choose between one of these two alternatives for less intrusive magic glow. My p
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
 
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
+  - Only install the **Remiros' Groundcover** main file.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+
+- **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
+- **Creeper the drummer.esp**
+- **Nordic Chest Replacer.esp**
+- **Nordic Chest Replacer.esp**: delete the following records:
+    - Cell **Solstheim, Bloodskal Barrow**
 
 ## AUDIO
 
@@ -443,21 +452,11 @@ If you have installed any of abot's mods listed above, you will need to install 
 
 ### CLEANING NOTES
 
-The following plugins are dirty and require cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to clean plugins using TESTool and tes3cmd.
-
 - **Clean Atmospheric Delights.esp**
-- **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
-- **Creeper the drummer.esp**
 - **Morrowind Anti-Cheese.ESP**
-- **Nordic Chest Replacer.esp**
 - **QL_SevenGracesShrines.esp**
 - **ReclamationsInHolamayan.esp**
 - **Talos Cult Revised.esp**
-
-The following plugins require additional TESAME cleaning. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to delete records using TESAME.
-
-- **Nordic Chest Replacer.esp**: delete the following records:
-    - Cell **Solstheim, Bloodskal Barrow**
 
 ### CONFLICT NOTES
 
