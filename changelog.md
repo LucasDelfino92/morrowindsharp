@@ -14,9 +14,13 @@ This was a massive update regarding the formatting of the **Mending Morrowind** 
   - Explains how to install Mod Organizer 2 and how to set up the installed tools through Mod Organizer 2.
   - Explains how to configure MGE XE.
 - **Mending Morrowind**
-  - Guide for patching Morrowind using the Morrowind Code Patch and additional mods. Also has tutorials on how to use TES3Merge and TESTool for automated conflict solving, and WryeMash for synchronizing masters.
+  - Guide for patching Morrowind. Covers the Morrowind Code Patch, installation of fixes, and a general section at the bottom for conflict solving, synchronizing mod masters, and running MGE XE'S Distant Land.
+- **Modding Morrowind**
+  - Guide for modding Morrowind extensively. Covers installation of mods, what plugins need to be cleaned at the end of each section, and a general section at the bottom for conflict solving, synchronizing mod masters, running MGE XE's Distant Land, and in-game configuration of mods.
 - **Tools**
-  - Explains how to use the tools for conflict solving, cleaning, synchronizing mod masters, and updating and repairing saves.
+  - Addendum guide for Modding Morrowind. Covers the use of TESTool, tes3cmd and TESAME for cleaning plugins, the use of Wrye Mash for updating and repairing saves, and the use of TES3View to check for conflicts.
+
+Because I've reinstalled Morrowind from scratch, this has also given me the opportunity to clarify the installation instructions of *many* mods (mostly those that were improperly packaged). The vast majority were already covered in the previous release, but now I've gone ahead and explained how to solve these packaging issues from Mod Organizer 2 itself.
 
 In addition, we have the usual removals.
 
