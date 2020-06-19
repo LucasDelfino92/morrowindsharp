@@ -571,7 +571,7 @@ The reason this has to be done before adjusting your load order is because these
 
 Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
 
-You can download a package containing these in .txt form from here: [Morrowind Improved June 19th](http://download1510.mediafire.com/7zzf8bce65og/4xcbvf7qzb1rvgt/Morrowind+Improved+June+19th.zip)
+You can download a package containing these in .txt form from here: [Modding Morrowind June 19th](http://download1510.mediafire.com/7zzf8bce65og/4xcbvf7qzb1rvgt/Morrowind+Improved+June+19th.zip)
 
 > The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
 
