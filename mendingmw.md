@@ -131,7 +131,15 @@ This is the most faithful to vanilla and comprehensive texture pack out there. T
 
 ## FINISHING TOUCHES
 
-If you want to confirm your installed mods and plugins are in the right order, [consult the text files found here](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip) (updated June 18th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
+### ADJUSTING YOUR LOAD ORDER
+
+Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
+
+You can download a package containing these in .txt form from here: [Mending Morrowind June 18th](https://download1502.mediafire.com/aez3glgpaz9g/hoe97mn1vwvsu5o/Mending+Morrowind+-+Load+order.zip)
+
+> The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
+
+### AUTOMATED CONFLICT RESOLUTION
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
@@ -145,12 +153,16 @@ TESTool lets us merge the leveled lists in our active plugins in order to reduce
 - Select **Merge Leveled Lists for active plugins** and click **Execute**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
+### SYNCHRONIZING MOD MASTERS
+
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
 - Run WryeMash in MO2.
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a **green box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
+
+### RUNNING DISTANT LAND
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [in this section](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
