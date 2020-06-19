@@ -23,6 +23,8 @@ While the Setup and Mending Morrowind are meant for everyone who is looking into
 
 All mods present in Morrowind Improved will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
+At the end of both **Mending Morrowind** and **Modding Morrowind** you will find respective links to their mod and load order, allowing you to check whether you have installed the mods as intended.
+
 ## CONSIDERATIONS
 
 My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it.
