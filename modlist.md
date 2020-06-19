@@ -18,12 +18,12 @@
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance)
 - [Quest and faction tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#quest-and-faction-tweaks)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
+- [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
-    - [MWSEabotlib](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwseabotlib)
-    - [Cleaning notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#cleaning-notes)
-    - [Conflict notes](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-notes)
+    - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-resolution)
+    - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#synchronizing-mod-masters)
+    - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mge-xe)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
-    - [Load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#load-order)
 
 ## CREATING SEPARATORS IN MOD ORGANIZER 2
 
