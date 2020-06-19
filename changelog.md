@@ -22,7 +22,7 @@ This was a massive update regarding the formatting of the **Mending Morrowind** 
 
 Because I've reinstalled Morrowind from scratch, this has also given me the opportunity to clarify the installation instructions of *many* mods (mostly those that were improperly packaged). The vast majority were already covered in the previous release, but now I've gone ahead and explained how to solve these packaging issues from Mod Organizer 2 itself.
 
-In addition, we have the usual removals.
+In addition, we have the usual changes.
 
 - **Internal logic**
   - Removed [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) (not really an oversight, it was a conscious design decision from Bethesda).
@@ -30,6 +30,11 @@ In addition, we have the usual removals.
   - Removed [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) (I felt like it stood out too much from the vanilla game given its unique glow maps, plus it made other mods unnecessarily complicated to install).Ç
 - **Gameplay**
   - Simplified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
+  - Moved the following mods to their own **abot's mods** section under **Gameplay**:
+    - **Smart Ammo**
+    - **Loading Doors Lock Tune**
+    - **Smart Map**
+    - **MWSEabotlib**
 
 ## June 16th
 
