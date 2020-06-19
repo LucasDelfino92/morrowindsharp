@@ -79,7 +79,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
   - MO2 will tell you there's no game data on top level.
     - Expand the **morrowind-mods-master** folder. 
-    - Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
+    - Right click **User Interface Expansion** and click **Set data directory**.
+    - Rename the mod to **UI Expansion**. Click **OK**.
 
 ## CONTENT RESTORATION
 
@@ -347,7 +348,12 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord: drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero: Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
-- [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+- [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+  - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **morrowind-mods-master** folder. 
+    - Right click **Sounds of Souls** and click **Set data directory**.
+    - Rename the mod to **Sounds of Souls**. Click **OK**.
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot: simulates water sounds when colliding with generic fake animated water meshes.
 
