@@ -420,6 +420,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
