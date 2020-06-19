@@ -307,6 +307,14 @@ The following mods require additional MGE XE configuration after installation to
 
 ### FINISHING TOUCHES
 
+**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
+
+- [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
+- [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
+- The other two tabs will be automatically adjusted. Leave them be.
+
+**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
+
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **correctUV Ore Replacer 1.0.esp**
@@ -442,6 +450,19 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
+### FINISHING TOUCHES
+
+**Less Aggressive Creatures** will require in-game configuration. I suggest the following settings.
+
+- **Peaceful Chance**: 50.
+- **Blocked** list (creatures with a chance to spawn peaceful):
+    - cliff racer
+    - cliff racer_diseased
+    - mudcrab
+    - mudcrab_diseased
+    - rat
+    - rat_diseased
+
 ## GAME BALANCE
 
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
@@ -495,30 +516,7 @@ The following plugins will conflict with each other. [Follow the instructions he
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
 
-### IN-GAME CONFIGURATION
-
-**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
-
-- [**General and Cell Settings**](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
-- [**Light Settings**](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
-- The other two tabs will be automatically adjusted. Leave them be.
-
-**Less Aggressive Creatures** will require in-game configuration. I suggest the following settings.
-
-- **Peaceful Chance**: 50.
-- **Blocked** list (creatures with a chance to spawn peaceful):
-    - cliff racer
-    - cliff racer_diseased
-    - mudcrab
-    - mudcrab_diseased
-    - rat
-    - rat_diseased
-
-**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
-
 ### LOAD ORDER
-
-Load **Weapon Sheathing**'s assets before **Morrowind Optimization Patch**'s assets.
 
 [Refer to this section](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#mod-order-and-load-order) to know what the appropiate mod order and plugin load order is for these mods.
 
