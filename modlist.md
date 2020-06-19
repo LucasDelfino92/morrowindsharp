@@ -386,13 +386,13 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Clean Atmospheric Delights.esp**
-  - Clean with TESTool and tes3cmd.
+  - Clean with tes3cmd.
 - **QL_SevenGracesShrines.esp**
-  - Clean with TESTool and tes3cmd.
+  - Clean with tes3cmd.
 - **ReclamationsInHolamayan.esp**
-  - Clean with TESTool and tes3cmd.
+  - Clean with tes3cmd.
 - **Talos Cult Revised.esp**
-  - Clean with TESTool and tes3cmd.
+  - Clean with tes3cmd.
 
 ## GAMEPLAY
 
