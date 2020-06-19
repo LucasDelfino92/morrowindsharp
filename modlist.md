@@ -426,7 +426,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
-  - This mod is incorrectly packaged. Place the **mwse** folder inside your **Data Files** folder, next to **Lucky Strike.ESP**.
+  - This mod is incorrectly packaged.
+    - Expand the **Data Files** folder.
+    - Drag the **mwse** folder into the mod's root directory in MO2.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 - [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
