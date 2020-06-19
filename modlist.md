@@ -479,7 +479,7 @@ If you want to confirm your installed mods and plugins are in the right order, [
 
 ### CONFLICT RESOLUTION
 
-The following plugins will conflict with each other. [Follow the instructions here](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins) on how to delete records using TESAME.
+The following plugins will conflict with each other. [Follow the instructions here on how to delete records using TESAME.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
