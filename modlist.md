@@ -65,6 +65,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
     - Expand the **morrowind-mods-master** folder. 
     - Right click **User Interface Expansion** and click **Set data directory**. Click **OK**.
 
+### FINISHING TOUCHES
+
 [Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## CONTENT RESTORATION
@@ -81,6 +83,8 @@ These mods expand on the readibility and functionality of Morrowind's user inter
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+### FINISHING TOUCHES
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
@@ -121,6 +125,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Untick **True_Scourge_zerosouls.esp**. Click **OK**.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
+
+### FINISHING TOUCHES
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
@@ -299,11 +305,20 @@ The following mods require additional MGE XE configuration after installation to
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
-- **correctUV Ore Replacer 1.0.esp**: don't bother cleaning it if using Graphic Herbalism - MWSE and OpenMW Edition, as this plugin should be disabled.
+### FINISHING TOUCHES
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **correctUV Ore Replacer 1.0.esp**
+  - Clean with TESTool and tes3cmd.
 - **Creeper the drummer.esp**
+  - Clean with TESTool and tes3cmd.
 - **Nordic Chest Replacer.esp**
-- **Nordic Chest Replacer.esp**: delete the following records:
+  - Clean with TESTool and tes3cmd.
+  - Delete the following records in TESAME:
     - Cell **Solstheim, Bloodskal Barrow**
+
+[Always remember to follow these steps to ensure your setup is working appropiately.](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
 
 ## AUDIO
 
@@ -453,10 +468,10 @@ If you have installed any of abot's mods listed above, you will need to install 
 ### CLEANING NOTES
 
 - **Clean Atmospheric Delights.esp**
-- **Morrowind Anti-Cheese.ESP**
 - **QL_SevenGracesShrines.esp**
 - **ReclamationsInHolamayan.esp**
 - **Talos Cult Revised.esp**
+- **Morrowind Anti-Cheese.ESP**
 
 ### CONFLICT NOTES
 
