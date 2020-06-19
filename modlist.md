@@ -20,7 +20,6 @@
   - [MWSE gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwse-gameplay)
   - [MWSE gameplay abot](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mwse-gameplay-abot)
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance)
-- [Quest and faction tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#quest-and-faction-tweaks)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
     - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-resolution)
