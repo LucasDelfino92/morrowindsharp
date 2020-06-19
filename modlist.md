@@ -377,6 +377,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran: adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **Wolverine Hall Overhaul** folder. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ### CLEANING PLUGINS
 
