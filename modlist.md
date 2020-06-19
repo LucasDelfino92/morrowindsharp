@@ -359,6 +359,19 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 - [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
 
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Clean Atmospheric Delights.esp**
+  - Clean with TESTool and tes3cmd.
+- **QL_SevenGracesShrines.esp**
+  - Clean with TESTool and tes3cmd.
+- **ReclamationsInHolamayan.esp**
+  - Clean with TESTool and tes3cmd.
+- **Talos Cult Revised.esp**
+  - Clean with TESTool and tes3cmd.
+
 ## GAMEPLAY
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
@@ -442,6 +455,13 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
+
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Morrowind Anti-Cheese.ESP**
+  - Clean with TESTool and tes3cmd.
 
 ## DIALOGUE
 
@@ -530,13 +550,5 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
     - mudcrab_diseased
     - rat
     - rat_diseased
-
-### CLEANING NOTES
-
-- **Clean Atmospheric Delights.esp**
-- **QL_SevenGracesShrines.esp**
-- **ReclamationsInHolamayan.esp**
-- **Talos Cult Revised.esp**
-- **Morrowind Anti-Cheese.ESP**
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
