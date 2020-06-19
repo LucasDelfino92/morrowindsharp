@@ -430,8 +430,14 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - Expand the **Data Files** folder.
     - Drag the **mwse** folder into the mod's root directory in MO2.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. 
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21: provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius: prevents the player from resting unless they activate a bed.
