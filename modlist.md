@@ -360,18 +360,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 ## OVERHAULS
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
-- [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho: bump-maps the Cavern of the Incarnate and the Azura statue meshes, adds flowers, grass, and tiny fireflies, and modifies the armor and clothes on some of the failed incarnates.
-  - Hide/delete the **Meshes** and **Textures** folders.
-  - In TESAME, delete the following records:
-    - Light **orange_256_ci_01**
-    - Light **azura ring light**
-    - Static **_COI_lil01**
-    - Static **_COI_lil02**
-    - Static **_COI_gra**
-    - CREA **_COI_firefly**
-    - Cell **Cavern of the Incarnate**
-  - Save the plugin as **COI.esp**, overwriting the original when asked.
-  - This keeps only the armor and clothing modifications on the Failed Incarnates.
+- [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho: modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
+  - This is a stripped down version of [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho.
 - [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
