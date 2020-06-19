@@ -180,7 +180,7 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
 ### IN-GAME CONFIGURATION
 
 - Under the **Options** menu, go to the **Video** tab.
-  - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right.
+  - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
   - Turn the **Real-time Shadows** slider all the way to the left, disabling them. These shadows look pretty bad, and can be quite glitchy.
 
 Congratulations, your Morrowind installation is ready!
