@@ -4,6 +4,11 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 19th
+
+- **Gameplay**
+  - Removed [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) (there are other cases of equipment having the Fortify Magicka enchantment, seems pointless to tackle it in just one case).
+
 ## June 18th
 
 This was a massive update regarding the formatting of the **Mending Morrowind** and **Tools** section. With the changes done, I hope people will have a far easier time setting up Morrowind in the future. The most important changes have been redistributing the contents of this sections among three pages, with a new **Setup** page that contains all important and necessary steps before installing the Morrowind Code Patch and all other Mending Morrowind mods. Since it's easier for me to explain what each section explains now instead of listing what changes were made to each section, that's what I'll do right now.
