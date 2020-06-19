@@ -503,6 +503,8 @@ These mods receive a dedicated section because they need to be installed before 
 
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort: dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade: puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 
 ### CLEANING PLUGINS
