@@ -23,7 +23,9 @@
   - [Game balance MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#game-balance-mwse)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#finishing-touches)
-    - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#conflict-resolution)
+    - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#manual-conflict-resolution)
+    - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#adjusting-your-load-order)
+    - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#automated-conflict-resolution)
     - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#synchronizing-mod-masters)
     - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#mge-xe)
     - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md#in-game-configuration)
@@ -521,15 +523,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## FINISHING TOUCHES
 
-To confirm your installed mods and plugins are in the right order, [consult the text files found here](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing) (updated June 16th). The Merged Objects.esp and Merged_Leveled_Lists.esp plugins will be generated in the next steps.
-
-You can download a package containing these in .txt form from here: [Morrowind Improved June 16th](https://drive.google.com/file/d/1vlolmWyVhegQr8NDKB88EXChx2j0NdGn/view?usp=sharing)
-
-The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Default\loadorder.txt**, overwriting when appropriate. Note that "Default" is the default generic profile name: you must place the .txt file in your corresponding profile folder.
-- If you use a different mod manager or don't feel like overwriting your personal **loadorder.txt**, you will have to adjust your load order manually. Simply follow the plugin order listed in **loadorder.txt**.
-- Your mod installation order *has* to be adjusted manually, regardless of which mod manager you use.
-
-### CONFLICT RESOLUTION
+### MANUAL CONFLICT RESOLUTION
 
 The following plugins will conflict with each other. [Follow the instructions here on how to delete records using TESAME.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 
@@ -550,6 +544,18 @@ The following plugins will conflict with each other. [Follow the instructions he
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
+
+The reason this has to be done before adjusting your load order is because these tools will reset the load order of the plugins you edit.
+
+### ADJUSTING YOUR LOAD ORDER
+
+Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
+
+You can download a package containing these in .txt form from here: [Morrowind Improved June 19th](http://download1653.mediafire.com/6b163ffptwfg/oc8xhgxd768udx0/Morrowind+Improved+June+19th.zip)
+
+> The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when appropriate. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
+
+### AUTOMATED CONFLICT RESOLUTION
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
