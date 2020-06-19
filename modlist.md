@@ -610,23 +610,50 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
 
 ### IN-GAME CONFIGURATION
 
-**Let There Be Darkness - Lua Lighting Overhaul** will require in-game configuration. I suggest the following settings.
+Unless explicitly stated, configure these mods through the in-game **Mod Configuration** menu.
 
-- [General and Cell Settings](https://www.mediafire.com/view/kpl8be5scfc4odg/General_and_Cell_Settings.jpg/file)
-- [Light Settings](https://www.mediafire.com/view/u6d5js3qdpx68rn/Light_Settings.jpg/file)
-- The other two tabs will be automatically adjusted. Leave them be.
+**Book Pickup**
+- Set **Pickup by default?** to **No**.
 
-**Shattered Stones - An Earthquake Mod** will require in-game configuration to reduce the chances of earthquakes. I recommend opening up the console and typing **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
+**Clock Block**
+- Set **Clock type** to **Game time**.
 
-**Less Aggressive Creatures** will require in-game configuration. I suggest the following settings.
+**Continue**
+- Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
 
-- **Peaceful Chance**: 50.
-- **Blocked** list (creatures with a chance to spawn peaceful):
-    - cliff racer
-    - cliff racer_diseased
-    - mudcrab
-    - mudcrab_diseased
-    - rat
-    - rat_diseased
+**Less Aggressive Creatures**
+- In the **Peaceful Creatures Whitelist** tab, add the following creatures to the **Blocked** list:
+  - cliff racer
+  - cliff racer_diseased
+  - mudcrab
+  - mudcrab_diseased
+  - rat
+  - rat_diseased
+
+**Let There Be Darkness - Lua Lighting Overhaul**
+- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
+- In the **Light Settings** tab, set the **Light radius scaling** slider to **120%**.
+- In the **Light Settings** tab, set **Disable lights without a mesh** to **On**.
+
+**Putting Power in Willpower**
+- Set **Allow negative Resist Bonus** to **On**.
+
+**Security Enhanced**
+- Set the **Assign Keybind for Lockpick Hotkey** key to **O** (the **L** is used by **Let There Be Darkness**).
+
+**Weapon Sheathing**
+- Set **Show unreadied shields on back** to **On**.
+
+**Shattered Stones - An Earthquake Mod**
+- Access the in-game console by pressing the key to the left of the "1" key.
+- Type **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
+
+The mods installed in this guide and configured as mentioned above will use the following keys:
+
+- **Kill Command**: button **K** to order attacks.
+- **Scriptable Scriptures**: button **B** to switch between open and closed scriptures.
+- **Security Enhanced**: buttons **O** and **P** to equip lockpicks and probes respectively.
+
+Congratulations, your modded Morrowind installation is ready!
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
