@@ -400,6 +400,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord: do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk: increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
