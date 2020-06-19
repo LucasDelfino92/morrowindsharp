@@ -409,11 +409,12 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+  - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Correct UV Ore + README**: required if you installed **correctUV Diverse Ore Veins** earlier.
-    - **10 Atlas - Vanilla BC Mushrooms**: required if you installed **Project Atlas** earlier.
-    - Hide/disable **correctUV Ore Replacer_fixed.esp**
-    - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
+    - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
+    - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier.
+  - Hide/disable **correctUV Ore Replacer_fixed.esp**
+  - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
