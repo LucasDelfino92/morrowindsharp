@@ -249,6 +249,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors.
+  - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
+  - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd: regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
 - [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn: personal preset for darker nights and less horrible fog.
