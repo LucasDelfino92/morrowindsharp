@@ -446,6 +446,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero: rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **2.0** folder. 
+    - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord: overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Hide/disable **Realistic_Repair_Optional.esp**.
