@@ -7,11 +7,11 @@
 ## June 20th
 
 - **Internal logic**
-- Removed [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) (there are many dialogue inconsistencies like this regarding dead NPCs in the vanilla game).
-- Removed [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) (there are many dialogue inconsistencies regarding your character's gender in the vanilla game).
-- Removed [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) (see above).
-- Removed [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (it's just one mesh, tweaked not even because it looks stupid).
-- Removed [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) (there are many inconsistencies regarding the abilities of artifacts in the game).
+  - Removed [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) (there are many dialogue inconsistencies like this regarding dead NPCs in the vanilla game).
+  - Removed [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) (there are many dialogue inconsistencies regarding your character's gender in the vanilla game).
+  - Removed [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) (see above).
+  - Removed [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (it's just one mesh, tweaked not even because it looks stupid).
+  - Removed [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) (there are many inconsistencies regarding the abilities of artifacts in the game).
 
 ## June 19th
 
