@@ -92,8 +92,10 @@ The following mods were removed because I feel the changes they make are so tiny
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322)
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121)
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324)
-- [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?)
+- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
+- [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)
 - [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)
+- [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?)
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
 - [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file)
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600)
@@ -107,7 +109,6 @@ The following mods were removed because I feel the changes they make are so tiny
 
 The following mods were removed because they made visual changes which I felt weren't in-line with the overall goal of the guide. Since the guide is about improving sensible visual aspects of the game, many of these felt out of place.
 
-- [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245)
 - [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) and [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396)
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) and [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
@@ -125,9 +126,8 @@ The following mods were removed because they added mechanics didn't really fit i
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?)
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041)
 
-The following mods were removed because I felt the degree of "original content" was far too high, especially when messing with NPCs, quests, and equipment in the vanilla game. Some were removed because they weren't really "lore-friendly". Overall, quest tweaks or removal of existing mechanics were entirely removed.
+The following mods were removed because I felt the degree of "original content" was far too high, especially when messing with NPCs and quests in the vanilla game. Some were removed because they weren't really "lore-friendly". Overall, quest tweaks and the removal of vanilla mechanics were entirely removed.
 
-- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
 - [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?)
 - [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728)
@@ -145,7 +145,6 @@ The following mods were removed because I felt the degree of "original content" 
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577)
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
 
 The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future if I find myself missing them.
 
@@ -160,3 +159,4 @@ The following mods were removed strictly out of personal taste. I don't discard 
 - [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)
 - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
