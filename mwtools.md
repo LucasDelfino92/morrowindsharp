@@ -99,3 +99,5 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when lauching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
 While you will never be asked to use this tool when following **Mending Morrowind** and **Modding Morrowind**, it pays to get used to it when installing mods on your own.
+
+[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
