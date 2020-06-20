@@ -148,15 +148,15 @@ The following mods were removed because I felt the degree of "original content" 
 
 The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future if I find myself missing them.
 
-- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724)
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
+- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
 - [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)
 - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
