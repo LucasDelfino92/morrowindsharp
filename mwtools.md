@@ -70,21 +70,23 @@ To fix this, we have to synchronize our save's plugins to our current load order
 
 - Run WryeMash in Mod Organizer.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
-- If you have removed masters or plugins from your save, then an **Update Masters** window will appear, telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
+- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
+- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
 - Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
 - Click on the **Save** button further below the same panel.
 
-Repeat this process for each of the faulty saves.
+Repeat this process for each of your faulty saves.
 
 ## REPAIRING SAVES
 
-it is a good practice to repair it using WryeMash. WryeMash may not fully repair your saves, but it is certainly better than nothing.
+Whenever you uninstall or modify plugins in an on-going save, it is a good practice to repair it using WryeMash. WryeMash may not fully repair it, but it is certainly better than nothing.
 
-- After uninstalling a plugin, run WryeMash in Mod Organizer 2.
+- Run WryeMash in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves.
-- Right click on any save, and click on **Repair All**. WryeMash will scan your savefile.
+- Right click on any save, and click on **Repair All**. WryeMash will repair your savefile.
 - You will get a message window with two possible outcomes: your save has been repaired by WryeMash, or WryeMash will tell you no problems where found. Close the window.
+
+Repeat this process for each of your faulty saves.
 
 ## CHECKING FOR CONFLICTS
 
