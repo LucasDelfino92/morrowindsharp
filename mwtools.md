@@ -62,11 +62,11 @@ The edited plugin will have overwritten the existing plugin.
 
 ## UPDATING SAVES
 
-When uninstalling or updating mods from a save, we must synchronize our save. Not doing so means Morrowind will greet you with the following message:
+When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
 
 > The currently selected master files and plugins do not match the ones used by this save game. Errors may occur during load or game play. Do you wish to continue?
 
-To fix this, we have to synchronize our save.
+To fix this, we have to synchronize our save's plugins to our current load order.
 
 - Run WryeMash in Mod Organizer.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
