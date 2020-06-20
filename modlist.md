@@ -390,6 +390,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - **Clean Atmospheric Delights.esp**
   - Clean with tes3cmd.
+- **Duke's Throne Room Overhaul.esp**
+  - Clean with tes3cmd.
 - **QL_SevenGracesShrines.esp**
   - Clean with tes3cmd.
 - **ReclamationsInHolamayan.esp**
@@ -497,6 +499,13 @@ These mods all belong to the same author, abot. They receive a dedicated section
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
 - [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot: up-to-date **abot\lib.lua**, shared by all of the above mods.
+
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Religions Elaborated.ESP**
+  - Clean with tes3cmd.
 
 ## GAME BALANCE
 
