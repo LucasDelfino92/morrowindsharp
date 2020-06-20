@@ -47,6 +47,8 @@ In addition, we have the usual changes.
 
 ## June 16th
 
+This is maintenance updated. Some more mods have been removed, others have been re-added upon feedback.
+
 - **Internal logic**
   - Removed [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) (the Telvanni inn in Vivec should also allow renting rooms for free if you are Telvanni, plus inn prices are so meaningless even with economy mods that using an .esp isn't justified).
 - **Visuals**
@@ -59,6 +61,8 @@ In addition, we have the usual changes.
   - Re-added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) (it has some important quality of life features that are better done than other mods that attempt the same).
 
 ## June 13th
+
+This is the biggest update in the guide, for the wrong reasons. A vast amount of mods included in this guide tweaked minuscule aspects of the game that most players would probably not even notice. The mods that did tweak massive aspects of the game, however, had their own set of issues, more along the lines of the changes not really fitting into the vanilla game. I don't discard some of these mods making a return in the future, however.
 
 - **Mending Morrowind**
   - Removed [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) (the official plugins are terrible).
@@ -83,12 +87,10 @@ In addition, we have the usual changes.
   - Removed [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) (personal preference).
   - Removed [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068) (personal preference).
   - Removed [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) (will be replaced with **Open Mournhold**).
-  - Removed [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (personal preference).
   - Modified instructions for **Glow in the Dahrk**.
 - **Audio**
   - Removed [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) (personal preference).
 - **Overhauls**
-  - Removed [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) (personal preference).
   - Removed [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557) (personal preference).
   - Removed [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724) (personal preference).
   - Removed [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) (personal preference).
@@ -138,7 +140,6 @@ In addition, we have the usual changes.
   - Removed [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961) (quest tweaks don't belong in this guide).
   - Removed [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) (quest tweaks don't belong in this guide).
   - Removed [**Quests for Faction Leaders Cleaned**](https://www.mediafire.com/file/6xj6ew67bzey0db/Quests_for_Faction_Leaders_Cleaned_v1.4.zip/file) (quest tweaks don't belong in this guide).
-  - Removed [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) (quest tweaks don't belong in this guide).
   - Removed [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) (NPC mods don't belong in this guide).
   - Removed [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file) (quest tweaks don't belong in this guide).
   - Removed [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) (quest tweaks don't belong in this guide).
