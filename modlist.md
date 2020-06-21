@@ -73,15 +73,24 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
 - [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) by PoodleSandwich: modifies the crosshair to be less intrusive.
   - Refer to the pictures before installing the file of your choice.
+- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord: holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
-- [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800) by Half11: adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. Also includes the six missing Bethesda splash screens.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
   - MO2 will tell you there's no game data on top level.
     - Expand the **morrowind-mods-master** folder. 
     - Right click **User Interface Expansion** and click **Set data directory**.
     - Rename the mod to **UI Expansion**. Click **OK**.
+- [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos: HD recreation of the Title and Logo Intro, in widescreen.
+  - Install both main files.
+- [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus: replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
+- [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen: adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
+  - MO2 will tell you there's no game data on top level.
+    - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**. 
+    - Drag the three .tag files into the **splash** folder and click **OK**.
+
+> An alternative to the above mods which modify the title screen and the splash screen is Half11's [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800). This mod adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. It also includes the six missing Bethesda splash screens.
 
 ## CONTENT RESTORATION
 
@@ -116,7 +125,6 @@ These mods increase the internal consistency of the game, taking into account as
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
-- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
@@ -126,10 +134,13 @@ These mods increase the internal consistency of the game, taking into account as
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich: not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich: fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar: edits, re-filters, or adds on to vanilla dialogue to add more situational nuance - tavern owners will no longer talk about themselves in third person, Ashlanders will no longer curse vampires in the name of Almsivi, slave owners won't talk lovingly about abolitionists, and thieves will be less blase about incriminating themselves to strangers.
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
+- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian: assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
+  - Only install the **No Quest Changes** optional file.
+- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
 - [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93: according to in-game information, it seems that a Telvanni Mouth's symbol of office is the Silver Staff of Peace. Yet in vanilla, only you get one when you become a Mouth, which you would have to give to Fast Eddie when he becomes your Mouth. Therefore this mod adds a Silver Staff of Peace into the inventory of the six other Telvanni Mouths, including Baladas' Mouth, who only shows up mid-game.
+- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
 - [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
@@ -178,9 +189,9 @@ These mods aim to improve specific visual aspects of the game I personally found
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
-    - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
+    - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
   - Also install the **kart_facelift_update_0-10-2** update file.
-    - Delete/hide the **Textures** folder. **Intelligent Textures** includes better textures.
+    - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
   - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
@@ -347,6 +358,7 @@ These mods don't so much replace existent sound effects, but like the Visuals se
     - **01 Fire Sound Replacer**
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord: drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero: Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
@@ -366,6 +378,11 @@ These mods make changes to many different game locations with the intention to m
 - [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho: modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
   - This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
 - [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
+- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
+  - Hide/delete the following plugins:
+    - Meteorite Ministry Palace - Higher.ESP
+    - Meteorite Ministry Palace.ESP
+    - Meteorite Ministry Temple - Higher.ESP
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
@@ -373,6 +390,7 @@ These mods make changes to many different game locations with the intention to m
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement**
+- [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7: changes the passageways between the different city districts, making the transitions more immersive.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -405,19 +423,16 @@ These mods tweak certain annoying or deficient aspects of the game's gameplay. S
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
+- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat: modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
-  - Only install the **No Quest Changes** optional file.
-- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
     - GMST **fJumpRunMultiplier**
@@ -427,7 +442,6 @@ These mods tweak certain annoying or deficient aspects of the game's gameplay. S
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
-- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 
 ### GAMEPLAY MWSE
 
@@ -457,6 +471,7 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
   - This mod is incorrectly packaged.
     - Expand the **Data Files** folder.
     - Drag the **mwse** folder into the mod's root directory in MO2.
+- [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS: spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
@@ -483,6 +498,7 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
 - [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file): fixes conflicts in Arrille's inventory.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+- [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar: modifies critical strike coefficient depending on the weapon you use.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
@@ -539,7 +555,9 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issue with Morrowind's dialogue is the repetition of the "No Lore" greetings.
 
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 
 ## FINISHING TOUCHES
 
@@ -549,21 +567,11 @@ The following plugins will conflict with each other. [Follow the instructions he
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
-- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Closed Molag Mar.esp**:
-    - Cell **Molag Mar**
-      - There are actually two cells named **Molag Mar**. Double click on one of the records, and expand the Raw Data (Subitems) panel. If you see ANAM references to **orns omaren** and **Temple**, that's the **Molag Mar** record you want to delete.
-- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **No-Frills Open Vivec.esp**:
-    - Cell **Vivec, Foreign Quarter Plaza**
-    - Cell **Vivec, Hlaalu Plaza**
-    - Cell **Vivec, Redoran Plaza**
-    - Cell **Vivec, St. Delyn Plaza**
-    - Cell **Vivec, St. Olms Plaza**
-    - Cell **Vivec, Telvanni Plaza**
-- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **Wolverine Hall Overhaul.esp**:
-    - Cell **Wolverine Hall**
+    - This ensures there aren't new instances of guards in the Eastern Guard Tower.
 - Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
     - NPC **King Hlaalu Helseth**
     - NPC **barenziah**
+    - This ensures Tribunal Rebalance's changes to these NPCs aren't modified by Morrowind Anti-Cheese.
 
 The reason this has to be done before adjusting your load order is because these tools will reset the load order of the plugins you edit.
 
@@ -571,7 +579,7 @@ The reason this has to be done before adjusting your load order is because these
 
 Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
 
-You can download a package containing these in .txt form from here: [Modding Morrowind June 20th](https://download1503.mediafire.com/g2xmioo9qv5g/yk324ftspbntb7b/Morrowind+Improved+June+20th.zip)
+You can download a package containing these in .txt form from here: [Modding Morrowind June 20th](http://download1585.mediafire.com/gten2loza1og/u57xqo6q69v2amn/Morrowind+Improved+June+21st.zip)
 
 > The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
 
