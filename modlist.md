@@ -565,6 +565,9 @@ For a dialogue mod to be included in this list, it must address a considerable p
 
 The following plugins will conflict with each other. [Follow the instructions here on how to delete records using TESAME.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 
+- Delete the following records from **Ownership Overhaul.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
+    - Cell **Seyda Neen, Census and Excise Office**
+    - This ensures Morrowind Anti-Cheese's changes to the Limeware Platter aren't modified by Ownership Overhaul.
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
     - This ensures there aren't new instances of guards in the Eastern Guard Tower.
@@ -655,6 +658,7 @@ Unless explicitly stated, configure these mods through the in-game **Mod Configu
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
+- **Quick Equip**: left click + Left Shift when clicking on inventory items will equip them or use them (in the case of consumables).
 - **Kill Command**: button **K** to order attacks.
 - **Scriptable Scriptures**: button **B** to switch between open and closed scriptures.
 - **Security Enhanced**: buttons **O** and **P** to equip lockpicks and probes respectively.
