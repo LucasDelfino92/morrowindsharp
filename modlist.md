@@ -553,7 +553,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## DIALOGUE
 
-For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issue with Morrowind's dialogue is the repetition of the "No Lore" greetings.
+For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issues with Morrowind's dialogue (that aren't addressed by the **Internal logic** module) are minor annoyances or issues with its repetition.
 
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
