@@ -576,8 +576,6 @@ The following plugins will conflict with each other. [Follow the instructions he
     - NPC **barenziah**
     - This ensures Tribunal Rebalance's changes to these NPCs aren't modified by Morrowind Anti-Cheese.
 
-The reason this has to be done before adjusting your load order is because these tools will reset the load order of the plugins you edit.
-
 ### ADJUSTING YOUR LOAD ORDER
 
 Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
