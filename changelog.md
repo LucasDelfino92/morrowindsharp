@@ -4,6 +4,32 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 21st
+
+- **User interface**
+  - Added [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)
+  - Added [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)
+  - Added [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)
+  - Added [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)
+- **Internal logic**
+  - Added [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)
+  - Moved **Religions Elaborated** to this section.
+  - Moved **Silence** to this section.
+  - Moved **Temples With Shrines** to this section.
+- **Audio**
+  - Moved **Sheep-no-More** to this section.
+- **Overhauls**
+  - Re-added [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
+  - Added [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981)
+- **Gameplay**
+  - Moved **Divayth Fyr Puzzle** Fixed to this section.
+- **Gameplay MWSE**
+  - Added [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)
+  - Added [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)
+- **Dialogue**
+  - Moved **Greet Distance Reducer** to this section.
+  - Moved **Outfit Greetings Tweaked** to this section.
+
 ## June 20th
 
 - **Internal logic**
