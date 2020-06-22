@@ -30,7 +30,7 @@ At the end of both **Mending Morrowind** and **Modding Morrowind** you will find
 There are a few things you may want to keep in mind before going through with this guide.
 
 - This guide consists of 210 mods and a total 100 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you.
-- The total size of the guide is roughly 3.50GB of uncompressed files, 1.60GB of compressed mods you will have to download. But the truth is that **Mending Morrowind** compromises the major bulk, with 1.35GB of compressed mods.
+- The total size of the guide is roughly 3.75GB of uncompressed files, 1.67GB of compressed mods you will have to download. But the truth is that **Mending Morrowind** compromises the major bulk, with 1.35GB of compressed mods.
 - My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it.
 - This guide is not designed with **OpenMW** or **Morrowind Rebirth** in mind. This guide makes heavy use of the features of the Morrowind Script Extender, incompatible with OpenMW, and many of the mods present in this guide will conflict with the Morrowind Rebirth overhaul. You have been warned.
 - This guide does not contemplate **Tamriel Rebuilt**, compatibility with the mod itself is very good. That said, Tamriel Rebuilt and its content will not benefit from the improvements made by many of the mods present in this guide.
