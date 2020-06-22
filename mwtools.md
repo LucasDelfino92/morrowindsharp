@@ -14,7 +14,7 @@
 
 ## CLEANING PLUGINS
 
-At the end of each of [**Modding Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/modding.md)'s sections you may find a list of plugins that require cleaning, and you will be redirected here. We will be using three tools to clean plugins: **TESTool**, **tes3cmd**, and **TESAME**. TESAME additionally doubles down as a conflict solving utility, as deleting records is useful for both deleting dirty records and records you don't want in a plugin, allowing you to solve conflicts with other mods.
+At the end of each of [**Modding Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md)'s sections you may find a list of plugins that require cleaning, and you will be redirected here. We will be using three tools to clean plugins: **TESTool**, **tes3cmd**, and **TESAME**. TESAME additionally doubles down as a conflict solving utility, as deleting records is useful for both deleting dirty records and records you don't want in a plugin, allowing you to solve conflicts with other mods.
 
 ### TESTool
 
