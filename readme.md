@@ -17,7 +17,7 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 This mod list is divided in two major sections:
 
 - The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) and [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md) guides, which explain how to install the game, set up tools and mod manager, and patch Morrowind for a mostly bug-free, stable, and purist Morrowind experience.
-- The [Modding Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/modding.md) and [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
+- The [Modding Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md) and [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
 
 While the Setup and Mending Morrowind are meant for everyone who is looking into playing Morrowind, the Modding Morrowind and Tools guides are aimed at more experienced modders. The **Modding Morrowind** guide, in particular, is divided into a series of modules, all of which can be installed independently from one another.
 
