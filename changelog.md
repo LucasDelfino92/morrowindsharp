@@ -4,6 +4,13 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## June 25th
+
+- **Visuals**
+  - Added [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
+- **Game balance**
+  - Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (between Realistic Repair's damaged loot and Harder Barter's nerfing to sell prices, this mod's biggest impact is that it makes Daedric weapons most of all a total bitch to find).
+
 ## June 21st
 
 - **User interface**
