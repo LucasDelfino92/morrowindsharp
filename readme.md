@@ -1,6 +1,6 @@
 # MORROWIND IMPROVED
 
-Last updated: June 21st, 2020. See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+Last updated: June 25th, 2020. See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ## CONTACT INFO
 
