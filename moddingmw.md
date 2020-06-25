@@ -265,6 +265,10 @@ These mods aim to improve specific visual aspects of the game I personally found
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif**. This mesh was incorrectly included into this option.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq: Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7: adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Default Dust**
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
@@ -530,7 +534,6 @@ These gameplay mods seek to improve deficient aspects of the game's balance, suc
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
-- [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) by mort: edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead of daedric rewards.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 
