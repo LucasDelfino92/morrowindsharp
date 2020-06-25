@@ -583,7 +583,7 @@ The following plugins will conflict with each other. [Follow the instructions he
 
 Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
 
-You can download a package containing these in .txt form from here: [Modding Morrowind June 20th](http://download1585.mediafire.com/gten2loza1og/u57xqo6q69v2amn/Morrowind+Improved+June+21st.zip)
+You can download a package containing these in .txt form from here: [Modding Morrowind June 25th](https://download1334.mediafire.com/fvmfx6v95vug/6x3enrpll8hpms3/Morrowind+Improved+June+25th.zip)
 
 > The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
 
