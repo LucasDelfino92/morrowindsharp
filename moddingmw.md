@@ -451,6 +451,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - **Divayth Fyr Puzzle Fixed.ESP**
   - Clean with TESTool and tes3cmd.
+- **Religions Elaborated.ESP**
+  - Clean with tes3cmd.
 
 ### GAMEPLAY MWSE
 
@@ -515,13 +517,6 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
     - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Religions Elaborated.ESP**
-  - Clean with tes3cmd.
 
 ### GAMEPLAY MWSE ABOT
 
