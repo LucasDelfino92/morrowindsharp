@@ -151,8 +151,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - **Dubdilla Location Fix.esp**
   - Clean with TESTool and tes3cmd.
-- **Divayth Fyr Puzzle Fixed.ESP**
-  - Clean with TESTool and tes3cmd.
 - **true corprus.esp**
   - Clean with TESTool and tes3cmd.
 
@@ -447,6 +445,13 @@ These mods tweak certain annoying or deficient aspects of the game's gameplay. S
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Divayth Fyr Puzzle Fixed.ESP**
+  - Clean with TESTool and tes3cmd.
+
 ### GAMEPLAY MWSE
 
 These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, many of these mods add neat new mechanics into the game, some present in older Elder Scrolls games, others entirely new. In many cases, these mods can be configured in-game to suit your particular tastes.
@@ -511,6 +516,13 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Religions Elaborated.ESP**
+  - Clean with tes3cmd.
+
 ### GAMEPLAY MWSE ABOT
 
 These mods all belong to the same author, abot. They receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
@@ -519,13 +531,6 @@ These mods all belong to the same author, abot. They receive a dedicated section
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
 - [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot: up-to-date **abot\lib.lua**, shared by all of the above mods.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Religions Elaborated.ESP**
-  - Clean with tes3cmd.
 
 ## GAME BALANCE
 
