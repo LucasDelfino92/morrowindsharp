@@ -537,6 +537,13 @@ These gameplay mods seek to improve deficient aspects of the game's balance, suc
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
 
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Morrowind Anti-Cheese.ESP**
+  - Clean with TESTool and tes3cmd.
+
 ### GAME BALANCE MWSE
 
 These gameplay mods require MWSE to work properly. Most importantly, they deal with particularly broken gameplay mechanics.
@@ -546,13 +553,6 @@ These gameplay mods require MWSE to work properly. Most importantly, they deal w
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade: puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Morrowind Anti-Cheese.ESP**
-  - Clean with TESTool and tes3cmd.
 
 ## DIALOGUE
 
