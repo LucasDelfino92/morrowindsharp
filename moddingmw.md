@@ -32,6 +32,10 @@
 
 ## FOLLOWING MODDING MORROWIND
 
+### BEGINNING WITH MENDING MORROWIND
+
+Modding Morrowind is a follow up guide to [**Mending Morrowind**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md). Whereas Modding Morrowind is about installing mods that expand on the original game, Mending Morrowind has all the pre-requisites needed to enjoy a stable and mostly bug-free Morrowind experience. Because of this, Modding Morrowind assumes you have already followed through with Mending Morrowind.
+
 ### CREATING SEPARATORS IN MOD ORGANIZER 2
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for the following sections before installing these mods.
