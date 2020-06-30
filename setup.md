@@ -105,6 +105,8 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 **Mod Organizer 2** is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, and widely considered to be THE best Morrowind mod manager, is **Wrye Mash**. However, I'm an animal of habit, and I’ve found that it isn’t anywhere near as immediately intuitive as Mod Organizer 2 is.
 
+> The use of Nexus Mod Manager or Vortex is absolutely discouraged. These mod managers aren't anywhere near as powerful, and they are more trouble than it's worth.
+
 My experience with Mod Organizer 2 is not a complete one, as I use it ONLY for installing mods. This means I do not use it to download my mods (for instance) which I've heard can cause issues for its users. With that in mind, you are absolutely free to switch to Wrye Mash (again, the best alternative). But as long as you use it for mod installation and nothing else, Mod Organizer 2 will work fine for Morrowind.
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
