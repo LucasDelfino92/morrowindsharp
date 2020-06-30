@@ -70,12 +70,9 @@ Install this in **Morrowind Mods\Tools\TESAME**. This tool is used for solving c
 
 Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
-[**tes3cmd**](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z)
+[**tes3cmd**](https://www.mediafire.com/file/6aji5oad8zh1drc/tes3cmd.zip/file)
 
-- Extract the archive, and place **tes3cmd.exe** inside your **Morrowind\Data Files** folder.
-- Inside **Morrowind\Data Files**, create a .txt file and paste the contents [found in this pastebin](https://pastebin.com/raw/2gtjBYkX).
-- Rename the resulting .txt file **tes3cmd_clean.bat**, modifying the file extension from .txt to .bat.
-- Inside **Morrowind\Data Files**, create a **tes3cmd** folder, and a **backups** folder inside of it.
+- Extract the archive, and merge the contents with your game's **Data Files** folder.
 
 This tool is used for cleaning plugins, deleting dirty records.
 
