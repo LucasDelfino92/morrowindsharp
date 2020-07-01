@@ -77,12 +77,14 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 
 ## UNCOMPRESSED VANILLA TEXTURES
 
+These textures must be installed before any other mod that replaces them, such as bug fixing mods.
+
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks: replaces most vanilla textures with textures shipped in the GOG release of Morrowind that have less compression artifacts and which the game doesn't use by default.
   - MO2 will tell you there's no game data on top level. Right click on **Data Files**, click **Set data directory**. Click **OK**.
 
-These textures must be installed before any other mod that replaces them, such as bug fixing mods.
-
 ## BUG FIXES AND OPTIMIZATION
+
+These are the major bugfixing and optimization mods for Morrowind. No player should play Morrowind without these.
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11: the "official" unofficial fan patch for Morrowind, simply put the best out there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich: fixes UV mapping on rocks and stones.
@@ -98,9 +100,9 @@ These textures must be installed before any other mod that replaces them, such a
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 
-These are the major bugfixing and optimization mods for Morrowind. No player should play Morrowind without these.
-
 ## MINOR BUG FIXES
+
+These are minor bug fixes that most players won't notice, but it's nice to have them either way.
 
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: fixes issues regarding light sources in the game.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
@@ -108,31 +110,31 @@ These are the major bugfixing and optimization mods for Morrowind. No player sho
   - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
-These are minor bug fixes that most players won't notice, but it's nice to have them either way.
-
 ## MWSE BUG FIXES
+
+These are bug fixes and quality of life improvements that require MWSE to work appropiately.
 
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade: forces the game to instantly close on exit.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat: normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement. 
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor: makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor: fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-These are bug fixes and quality of life improvements that require MWSE to work appropiately.
-
 ## EXPANSION DELAY
-
-- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
 
 This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 
+- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11: modifies how the Tribunal and Bloodmoon expansions are implemented into the game.
+
 ## INTELLIGENT TEXTURES
+
+This is the most faithful to vanilla and comprehensive texture pack out there. Thankfully, the textures included in Intelligent Textures already contain the texture fixes present in the above mods.
 
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros: replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
   - Also install the **Wood Fix** update file.
   - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
 
-This is the most faithful to vanilla and comprehensive texture pack out there. Thankfully, the textures included in Intelligent Textures already contain the texture fixes present in the above mods.
+> If you see white textures in Velothi buildings (such as the Temples), you will want to skip the **01 Atlas Textures** option from the BAIN installer. White textures can happen with less than ideal GPUs since the Atlas textures are already bigger than most textures in Morrowind, and the Intelligent Textures patch exacerbates their dimension far beyond the norm.
 
 ## FINISHING TOUCHES
 
