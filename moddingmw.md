@@ -639,6 +639,14 @@ Unless explicitly stated, configure these mods through the in-game **Mod Configu
 **Continue**
 - Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
 
+**Essential Indicators**
+- In the **General Settings** tab you can disable the features of the mod. I personally prefer playing with all settings off minus the following:
+  - Enable Ownership Indicator. 
+  - Enable Sneak Indicator.
+  - Enable Messages.
+  - Enable Tooltip for Quest Items.
+- The remaining tabs offer additional configuration options. Feel free to configure them as you wish.
+
 **Less Aggressive Creatures**
 - In the **Peaceful Creatures Whitelist** tab, add the following creatures to the **Blocked** list:
   - cliff racer
