@@ -69,15 +69,15 @@ These mods expand on the readibility and functionality of Morrowind's user inter
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat: adds a continue button to the main menu to instantly load your most recent save.
+- [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21: provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch: expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch: adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
 - [**inom - Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN: allows the use of the mouse wheels to move items into and out of containers.
 - [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7: adds the ability to filter ingredients based on their magic effects.
 - [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r: adds clock to UI that displays either game world time or real time.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
-- [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) by PoodleSandwich: modifies the crosshair to be less intrusive.
-  - Refer to the pictures before installing the file of your choice.
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord: holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
+- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord: allows exiting any menu by right clicking (or whatever your menu key is mapped to).
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
@@ -285,6 +285,7 @@ These mods aim to improve specific visual aspects of the game I personally found
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors.
   - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
+- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim: a simple mesh edit, the bows should now better line up with the sheathing animation.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd: regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
 - [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn: personal preset for darker nights and less horrible fog.
@@ -519,6 +520,7 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
     - **00 Core**
     - **01 Closed Book Icons**
     - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
+- [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord: toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
