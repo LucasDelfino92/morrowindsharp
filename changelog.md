@@ -4,6 +4,19 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## July 2nd
+
+- **Mending Morrowind**
+  - Removed [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (Morrowind Optimization Patch covers nearly all of the mesh fixes).
+- **User interface**
+  - Removed [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) (unnecessary with Essential Indicators).
+  - Added [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267).
+  - Added [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458).
+- **Visuals**
+  - Added [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?).
+- **Gameplay MWSE**
+  - Added [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293).
+
 ## June 25th
 
 - **Visuals**
