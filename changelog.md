@@ -7,7 +7,7 @@
 ## July 5th
 
 - **Game balance**
-  - Replaced **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready compatible plugin.
+  - Replaced **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready edited plugin.
 - **Manual conflict resolution**
   - Removed instructions for **Morrowind Anti-Cheese**. Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
 
