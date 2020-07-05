@@ -537,11 +537,11 @@ These mods all belong to the same author, abot. They receive a dedicated section
 
 These gameplay mods seek to improve deficient aspects of the game's balance, such as the overabundace of overpowered equipment, how easy it is to get it, or the rebalance of the game's official expansions which were originally designed with an end-game character in mind.
 
-- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
-  - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
-- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
+- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
+  - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 
 ### CLEANING PLUGINS
 
@@ -574,16 +574,9 @@ For a dialogue mod to be included in this list, it must address a considerable p
 
 The following plugins will conflict with each other. [Follow the instructions here on how to delete records using TESAME.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 
-- Delete the following records from **Ownership Overhaul.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
-    - Cell **Seyda Neen, Census and Excise Office**
-    - This ensures Morrowind Anti-Cheese's changes to the Limeware Platter aren't modified by Ownership Overhaul.
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
     - This ensures there aren't new instances of guards in the Eastern Guard Tower.
-- Delete the following records from **Morrowind Anti-Cheese.esp** for compatibility with **tribunal rebalance.esp**:
-    - NPC **King Hlaalu Helseth**
-    - NPC **barenziah**
-    - This ensures Tribunal Rebalance's changes to these NPCs aren't modified by Morrowind Anti-Cheese.
 
 ### ADJUSTING YOUR LOAD ORDER
 
