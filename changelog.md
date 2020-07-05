@@ -4,6 +4,13 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## July 5th
+
+- **Game balance**
+  - Replaced **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready compatible plugin.
+- **Manual conflict resolution**
+  - Removed instructions for **Morrowind Anti-Cheese**. Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
+
 ## July 2nd
 
 - **Mending Morrowind**
