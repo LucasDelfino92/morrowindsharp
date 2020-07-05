@@ -539,7 +539,8 @@ These gameplay mods seek to improve deficient aspects of the game's balance, suc
 
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
-- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
+- [**Morrowind Anti-Cheese**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
+  - I've edited this mod for compatibility with **Ownership Overhaul**. [**You can find the original mod here.**](https://www.nexusmods.com/morrowind/mods/47305)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 
