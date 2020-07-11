@@ -37,7 +37,7 @@ There are a few things you may want to keep in mind before going through with th
 
 ## MY SETUP
 
-When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst) to 30fps (indoors). For reference, here is a my setup.
+When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in Vivec City) to 30fps (indoors). For reference, here is a my setup.
 
 - OS: Windows 8.1 Pro 64-bit
 - CPU: Intel Core i5 4440
