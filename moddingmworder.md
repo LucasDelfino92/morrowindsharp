@@ -4,10 +4,10 @@
 
 ## INDEX
 
-- [Modding Morrowind asset conflicts]()
-- [Modding Morrowind mod list]()
-- [Modding Morrowind plugin conflicts]()
-- [Modding Morrowind load order]()
+- [Modding Morrowind asset conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-asset-conflicts)
+- [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
+- [Modding Morrowind plugin conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-plugin-conflicts)
+- [Modding Morrowind load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-load-order)
 
 ## MODDING MORROWIND ASSET CONFLICTS
 
