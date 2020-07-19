@@ -19,6 +19,7 @@
 - Correct UV Rocks v1.0
 - Morrowind Optimization Patch v9.1b
 - Project Atlas v0.6.5
+- Glowing Flames v2.3
 - No More Stage Diving - Desele's Dancing GIrls v1.1
 - Expeditious Exit v1.2.1
 - Immersive Run Fix v1.0
