@@ -1,6 +1,54 @@
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# MOD ORDER
+# MODDING MORROWIND ASSET CONFLICTS
+
+There are a number of asset conflicts present in Modding Morrowind itself that require you to respect the following installation orders. They have been grouped as to identify the specific conflicts (in other words, respect the installation order of Facelift and patches, but it's not necessary you install those mods before Weapon Sheathing, for example). That said, **Modding Morrowind** assumes you have installed *all* of **Mending Morrowind** beforehand. 
+
+- Mending Morrowind base installation.
+  - Morrowind Uncompressed Vanilla Textures
+  - Patch for Purists v4.0.0
+  - Correct UV Rocks v1.0
+  - Morrowind Optimization Patch v9.1b
+  - Project Atlas v0.6.5
+  - Glowing Flames v2.3
+  - No More Stage Diving - Desele's Dancing GIrls v1.1
+  - Expeditious Exit v1.2.1
+  - Immersive Run Fix v1.0
+  - Quest Skill Reward Fix v1.0
+  - Skill Increase GMST Fix v1.0
+  - Expansion Delay v1.1
+  - Intelligent Textures v2.1
+  - Wood Fix v2.1b
+  - Intelligent Textures Ashlander Hotfix v2
+- correctUV Diverse Ore Veins and Graphic Herbalism MWSE (**Visuals** and **Gameplay MWSE**)
+  - Correct UV Ore Replacer
+  - Graphic Herbalism MWSE v1.04
+  - GH Patches and Replacers v1.02
+- Facelift (**Visuals**)
+  - Facelift v0.10
+  - Facelift Update v0.10.2
+  - Facelift v0.10.2 Hotfix
+- Glow in the Dahrk and Project Atlas (**Visuals** and **Mending Morrowind**)
+  - Glow in the Dahrk v2.8.3
+  - Project Atlas v0.6.5 - Glow in the Dahrk Patch
+- Melchior's Magnificent Manuscripts and Switchable Scriptures (**Visuals** and **Gameplay MWSE**)
+  - Melchior's Magnificent Manuscripts v1.2.1
+  - Switchable Scriptures v1.0
+- Weapon Sheathing and Morrowind Optimization Patch (**Visuals** and **Mending Morrowind**)
+  - Weapon Sheathing v1.6
+  - Weapon Sheathing - Bow Position Edit v1.0
+  - Morrowind Optimization Patch v9.1b - Weapon Sheathing Patch
+- Seven Graces Shrines Enhanced (**Overhauls**)
+  - Seven Graces Shrines Enhanced v1.1
+  - Seven Graces Shrines Enhanced - No Script Edits v1.1
+  - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
+- abot's mods (**Gameplay MWSE abot**)
+  - All or any combination of abot's mods.
+  - MWSEabotlib v1.01
+
+If you have installed this guide from beginning to end, these mods should already be installed in the correct order. Below, you will find a complete list of all mods present in the guide, installed as if you had followed the guide from beginning to end.
+
+# COMPLETE MOD LIST
 
 ### OFFICIAL DLCs
 
@@ -262,7 +310,86 @@
 - Greetings for No Lore v2.0
 - Outfit Greetings Tweaked v1.4
 
-# LOAD ORDER
+# MODDING MORROWIND PLUGIN CONFLICTS
+
+**Modding Morrowind** assumes you have installed *all* of **Mending Morrowind** beforehand. As such, the vast majority of plugin conflicts present in Modding Morrowind have to do with the bug fixing and optimization mods present in **Mending Morrowind**.
+
+That said, there are a number of plugin conflicts present in Modding Morrowind itself that require you to respect certain load orders, as indicated by the description below each plugin.
+
+- Mending Morrowind base installation.
+  - Morrowind.esm
+  - Tribunal.esm
+  - Bloodmoon.esm
+  - Patch for Purists.esm
+  - Patch for Purists - Book Typos.ESP
+  - Patch for Purists - Semi-Purist Fixes.ESP
+  - Lake Fjalding Anti-Suck.ESP
+  - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+  - NoMoreStageDiving.ESP
+  - Expansion Delay.ESP
+- Ownership Overhaul.esp
+  - Load before **The Publicans.ESP**.
+  - Load before **Creeper the drummer.esp**.
+  - Load before **Waterfall Tweaks.esp**.
+  - Load before **Clean Atmospheric Delights.ESP**.
+  - Load before **Yet Another Guard Diversity - Regular.ESP**.
+  - Load before **No-Frills Closed Molag Mar.esp**.
+  - Load before **No-Frills Open Vivec.esp**.
+  - Load before **QL_SevenGracesShrines.esp**.
+  - Load before **Talos Cult Revised.esp**.
+  - Load before **Wolverine Hall Overhaul.ESP**.
+  - Load before **Divayth Fyr Puzzle Fixed.ESP**.
+  - Load before **correctUV Ore Replacer_respawning.esp**.
+  - Load before **Morrowind Anti-Cheese.ESP**.
+- The Publicans.ESP
+	- Load after **Ownership Overhaul.esp**.
+  - Load before **Clean Atmospheric Delights.ESP**.
+- Creeper the drummer.esp
+  - Load after **Ownership Overhaul.esp**.
+- Nordic Chest Replacer.ESP
+	- Load before **Hunter's Mark - A Marksman Mod.ESP**.
+- Waterfalls Tweaks.esp
+	- Load after **Ownership Overhaul.esp**.
+- Clean Atmospheric Delights.ESP
+	- Load after **Ownership Overhaul.esp** and **The Publicans.ESP**.
+- Yet Another Guard Diversity - Regular.ESP
+  - Load after **Ownership Overhaul.esp**.
+  - Load before **No-Frills Closed Molag Mar.esp**.
+  - Load before **No-Frills Open Vivec.esp**.
+  - Load before **Wolverine Hall Overhaul.ESP**.
+- No-Frills Closed Molag Mar.esp
+	- Load after **Yet Another Guard Diversity - Regular.ESP**.
+	- Load after **Ownership Overhaul.esp**.
+- No-Frills Open Vivec.esp
+	- Load after **Yet Another Guard Diversity - Regular.ESP**.
+	- Load after **Ownership Overhaul.esp**.
+- QL_SevenGracesShrines.esp
+	- Load after **Ownership Overhaul.esp**.
+- Talos Cult Revised.esp
+	- Load after **Ownership Overhaul.esp**.
+- Wolverine Hall Overhaul.ESP
+	- Load after **Yet Another Guard Diversity - Regular.ESP**.
+	- Load after **Ownership Overhaul.esp**.
+- Divayth Fyr Puzzle Fixed.ESP
+	- Load after **Ownership Overhaul.esp**.
+- Hunter's Mark - A Marksman Mod.ESP
+	- Load after **Nordic Chest Replacer.ESP**.
+- correctUV Ore Replacer_respawning.esp
+	- Load after **Ownership Overhaul.esp**.
+- Realistic_Repair_Add-on.ESP
+  - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**.
+- Realistic_Repair_Add-on - Patch for Purists Patch.ESP
+	- Load after **Realistic_Repair_Add-on.ESP**.
+- tribunal rebalance.ESP
+	- Load after **Hunter's Mark - A Marksman Mod.ESP**.
+	- Load before **Morrowind Anti-Cheese.ESP**.
+- Morrowind Anti-Cheese.ESP
+	- Load after **Ownership Overhaul.esp**.
+	- Load after **tribunal rebalance.ESP**.
+
+Below, you will find a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end. The only exception is **Ownership Overhaul** and **Remiros' Groundcover** plugins: the former has been moved before any other mod that conflicts with it (while still respecting the mod installation order and resulting load order), while the latter has been moved to the bottom, as those plugins are not meant to be active during normal gameplay (only tick the plugins when generating Distant Land in MGE XE).
+
+# COMPLETE LOAD ORDER
 
 - Morrowind.esm
 - Tribunal.esm
@@ -379,5 +506,3 @@
 - **Rem_GL.esp**
 - **Rem_Solstheim.esp**
 - **Rem_WG.esp**
-
-> Remember that Remiros' Groundcover plugins must be unticked when playing the game, but ticked when generating Distant Land.
