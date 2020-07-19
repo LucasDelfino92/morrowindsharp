@@ -238,9 +238,9 @@
 ### GAMEPLAY MWSE ABOT
 
 - Smart Ammo v1.01
-- Loading Doors Lock Tune v1.11
+- Loading Doors Lock Tune v1.13
 - Smart Map v1.04
-- MWSEabotlib v1.0
+- MWSEabotlib v1.01
 
 ### GAME BALANCE
 
