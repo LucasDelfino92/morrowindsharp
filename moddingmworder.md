@@ -143,10 +143,10 @@
 - Weather Adjuster v1.0
 - Well Diversified
 - Wolf Helmet Replacer v1.6
-- Near Vanilla Road Sign Replacer v3.3a
-- Signposts Retextured v1.2
-- Subtle Magic Glow v1.0
-- Assetless No Glow v1.0.0
+- **Near Vanilla Road Sign Replacer v3.3a**
+- **Signposts Retextured v1.2**
+- **Subtle Magic Glow v1.0**
+- **Assetless No Glow v1.0.0**
 - Remiros' Groundcover v2.1b
 - Shattered Stones - An Earthquake Mod v1.0
 
@@ -273,3 +273,110 @@
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - NoMoreStageDiving.ESP
 - Expansion Delay.ESP
+- AlchemyFilter.esp
+- Blight Storms Restored.ESP
+- Bloated Caves.esp
+- Great Service.ESP
+- Services Restored.ESP
+- Silt Strider Animation Restored.ESP
+- SoundSpellSoundEffect.ESP
+- **Ownership Overhaul.esp**
+- The Publicans.ESP
+- Clean Blighted_Kwama_Workers.esp
+- true corprus.ESP
+- Dubdilla Location Fix.ESP
+- Hospitality_Papers_Expanded_v2.7.esp
+- FMI_Legion_Dialogue.ESP
+- FMI_Misc_v1.1.ESP
+- FMI_GraveDust.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- FMI_ServiceRefusal_Contraband.ESP
+- LDM - Context Matters.ESP
+- Religions Elaborated.ESP
+- Silence.esp
+- Synthesis Series - Creatures and Diseases.ESP
+- Telvanni Staff for the Telvanni Staff.ESP
+- Temples With Shrines.ESP
+- The Dream is the Door.ESP
+- The Madstone.ESP
+- Clean_wizardsstaffforwizards.esp
+- Buoyant Lord Vivec.ESP
+- Cave Drips.ESP
+- Complete Armor Joints.esp
+- Creeper the drummer.esp
+- Flies.ESP
+- FMI_CaiusBigPackage.ESP
+- Unique_Ripened_Belladonna.ESP
+- Folded in Port.ESP
+- GITD_WL_RR_Interiors.esp
+- guarskin_drum_replacer.esp
+- Have You Seen the Muffin Mod.ESP
+- Hopesfire Torch (+ brighter trueflame).ESP
+- Keg Drip.ESP
+- mistify.ESP
+- Nordic Chest Replacer.ESP
+- SoldierBeltsFix.esp
+- Waterfalls Tweaks.esp
+- Well Diversified.ESP
+- NearVanillaRoadSigns.esp
+- PB_SignpostsRetextured.esp
+- Shattered Stones - An Earthquake Mod.esp
+- Distant Thunder (No Scripts).ESP
+- Haunted Barrows.ESP
+- RFD_Heartthrum.ESP
+- Outdoor Banners With Sound.ESP
+- Silent Assassins.ESP
+- Tunnel Cough.ESP
+- Clean Atmospheric Delights.ESP
+- COI - NPC Changes Only.ESP
+- Duke's Throne Room Overhaul.ESP
+- Meteorite Ministry Temple.ESP
+- Yet Another Guard Diversity - Regular.ESP
+- No-Frills Closed Molag Mar.esp
+- No-Frills Open Vivec.esp
+- Open Mournhold.ESP
+- ReclamationsInHolamayan.ESP
+- QL_SevenGracesShrines.esp
+- ShrineOfAzura.ESP
+- Talos Cult Revised.esp
+- Wolverine Hall Overhaul.ESP
+- Abundant Adamantium.ESP
+- AdamantiumIgnoresNormWepResist (1.0).ESP
+- Divayth Fyr Puzzle Fixed.ESP
+- Early Transport to Mournhold.esp
+- FMI_SaneOrdinators.ESP
+- PB_GondolierDestinations.esp
+- higher faction requirements - Full.esp
+- Hunter's Mark - A Marksman Mod.ESP
+- LowerFirstPersonSneak.ESP
+- Projectile Enchant Capacity.esp
+- Speed and Movement.ESP
+- Supply Chests Merged.ESP
+- Supply Chests Merged - Religions Elaborated Compatible.ESP
+- correctUV Ore Replacer_respawning.esp
+- Lucky Strike.ESP
+- mwse_LockBashing.esp
+- mwse_PoisonCrafting.esp
+- Putting Power in Willpower - Absorbonach.esp
+- Realistic_Repair_Add-on.ESP
+- Realistic_Repair_Add-on - Patch for Purists Patch.ESP
+- TheMidnightOil.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.esp
+- Morrowind Anti-Cheese.ESP
+- better balanced booze_hardcore.esp
+- hw_GreetDistanceReducer.ESP
+- Greetings for No Lore.esp
+- outfit greetings tweaked.ESP
+- Merged Objects.esp
+- Merged_Leveled_Lists.esp
+- **Rem_AC.esp**
+- **Rem_AI.esp**
+- **Rem_AL.esp**
+- **Rem_BC.esp**
+- **Rem_GL.esp**
+- **Rem_Solstheim.esp**
+- **Rem_WG.esp**
+
+> Remember that Remiros' Groundcover plugins must be unticked when playing the game, but ticked when generating Distant Land.
