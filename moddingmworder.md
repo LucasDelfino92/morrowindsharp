@@ -152,6 +152,115 @@
 
 > Note that you should only have one signpost mod and only one magic glow mod.
 
+### AUDIO
+
+- Distant Thunder v1.1 (No Scripts)
+- Haunted Barrows v1.1
+- Heartthrum v1.0.2
+- Outdoor Banners With Sound v1.0
+- Sheep-no-More v1.0
+- Shut the Fuck up Cliff Racers v1.0
+- Silent Assassins v1.0
+- Sounds of Souls
+- Tunnel Cough v1.0
+- Water Sounds v1.03
+
+### OVERHAULS
+
+- Atmospheric Delights v1.1
+- Cavern Of The Incarnate Overhaul - NPC Changes Only
+- Duke's Throne Room Overhaul v1.1
+- Meteorite Ministry v1.3
+- Yet Another Guard Diversity - Regular v1.8
+- No-Frills Closed Molag Mar v1.1
+- No-Frills Open Vivec v1.2
+- Open Mournhold v1.0
+- Reclamations In Holamayan v1.0
+- Seven Graces Shrines Enhanced v1.1
+- Seven Graces Shrines Enhanced - No Script Edits v1.1
+- Seven Graces Shrines Enhanced - Simple Golden Gold Patch
+- Shrine of Azura v1.0
+- Talos Cult Revised - G93's Version v1.0
+- Wolverine Hall Overhaul v1.2
+
+### GAMEPLAY
+
+- Abundant Adamantium Ore v1.0
+- Adamantium Weapons Ignore Normal Weapon Resistance v1.0
+- Divayth Fyr Puzzle Fixed v1.1
+- Early Transport to Mournhold v1.2
+- Fix those bastard rope fences v1.4
+- FMI - Sane Ordinators v1.5
+- Gondolier Destinations v1.0
+- Higher Faction Requirements v1.0
+- Hunter's Mark - A Marksman Mod v1.0
+- Lower First Person Sneak Mode v1.0.1
+- Projectile Enchant Capacity v1.0
+- Speed and Movement Rebalanced v1.3
+- Supply Chests Merged v1.0
+
+### GAMEPLAY MWSE
+
+- Bed Buddies v1.4
+- Book Pickup v1.0.1
+- Brutal Backstabbing v1.3
+- Dahrk's Super-Sized Storage (D'sSSS) v2.0
+- Diligent Defenders v1.1.0
+- Easy Escort v1.2.0
+- Graphic Herbalism MWSE v1.04
+- GH Patches and Replacers v1.02
+- Kill Command v1.21
+- Less Aggressive Creatures v1.0
+- Lock Bashing v1.0
+- Lucky Strke - A Critical Hit Mod v1.0
+- Magicka Based Skill Progression v1.0.1
+- Marksman Rebalanced v1.1
+- Merlord's Starting Equipment v1.0
+- Misc Mates v1.1
+- MWSE Character Creation Name Generator v1.1
+- MWSE Magicka Regen v1.2
+- No Rest Without Beds v1.0
+- Plain Paper Fix v1.01
+- Poison Crafting v1.0
+- Putting Power In Willpower v2.0
+- Realistic Movement Speeds v1.1
+- Realistic Repair v1.1
+- Corsair83's Realistic Repair - Add-on v1.1
+- Corsair83's Realistic Repair - Add-on v1.1 - Patch for Purists Patch
+- Retroactive Health Gain v1.0
+- Security Enhanced v1.3
+- Sneaky Strike v1.0
+- Switchable Scriptures v1.0
+- The Midnight Oil - Lighting Overhaul v2.0.5
+- Torch Hotkey v1.2
+- Wings of Will - Willpower Based Levitation Speed v1.1
+
+### GAMEPLAY MWSE ABOT
+
+- Smart Ammo v1.01
+- Loading Doors Lock Tune v1.11
+- Smart Map v1.04
+- MWSEabotlib v1.0
+
+### GAME BALANCE
+
+- Tribunal Rebalance v1.0
+- Bloodmoon Rebalance v1.1
+- Morrowind Anti-Cheese v1.2 (Modding Morrowind)
+- Better Blance Booze - Heavy Drinker Mode v1.0
+
+### GAME BALANCE MWSE
+
+- Controlled Consumption v1.3.0
+- Harder Barter v1.2
+- Limited Leaping v1.0
+
+### DIALOGUE
+
+- GreetDistanceReducer v1.0
+- Greetings for No Lore v2.0
+- Outfit Greetings Tweaked v1.4
+
 # LOAD ORDER
 
 - Morrowind.esm
