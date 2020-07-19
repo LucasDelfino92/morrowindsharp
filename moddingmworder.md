@@ -199,7 +199,7 @@ If you have installed this guide from beginning to end, these mods should alread
 - Remiros' Groundcover v2.1b
 - Shattered Stones - An Earthquake Mod v1.0
 
-> Note that you should only have one signpost mod and only one magic glow mod.
+Note that you should only have one signpost mod and only one magic glow mod installed.
 
 ### AUDIO
 
@@ -480,8 +480,8 @@ Below, you will find a complete list of all plugins present in the guide, instal
 - LowerFirstPersonSneak.ESP
 - Projectile Enchant Capacity.esp
 - Speed and Movement.ESP
-- Supply Chests Merged.ESP
-- Supply Chests Merged - Religions Elaborated Compatible.ESP
+- **Supply Chests Merged.ESP**
+- **Supply Chests Merged - Religions Elaborated Compatible.ESP**
 - correctUV Ore Replacer_respawning.esp
 - Lucky Strike.ESP
 - mwse_LockBashing.esp
@@ -506,3 +506,5 @@ Below, you will find a complete list of all plugins present in the guide, instal
 - **Rem_GL.esp**
 - **Rem_Solstheim.esp**
 - **Rem_WG.esp**
+
+Note that you should only have one Supply Chests Merged plugin installed.
