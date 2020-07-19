@@ -581,11 +581,7 @@ The following plugins will conflict with each other. [Follow the instructions he
 
 ### ADJUSTING YOUR LOAD ORDER
 
-Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order.
-
-You can download a package containing these in .txt form from here: [Modding Morrowind July 5th](https://www.mediafire.com/file/9t8f7uxv1t11kbu/Morrowind_Improved_July_5th.zip/file)
-
-> The **loadorder.txt** is formatted so that Mod Organizer 2 is able to read it, and adjust your load order accordingly. For Mod Organizer 2 to recognize **loadorder.txt**, you need to place it inside **\Mod Organizer 2\profiles\Morrowind Improved\loadorder.txt**, overwriting when prompted. Note that this will overwrite your personal **loadorder.txt**: if you aren't okay with this, simply adjust your load order manually. Your mod installation order, however, will need to be adjusted manually in any case.
+Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order. [**Follow the mod order and load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md) and adjust your mod installation order and plugin load order accordingly before proceeding to the next step.
 
 ### AUTOMATED CONFLICT RESOLUTION
 
