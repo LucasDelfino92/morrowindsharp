@@ -10,6 +10,9 @@ This maintenance update replaced the traditional modorder and loadorder .txt fil
 
 This will make it easier for me to update (no need to upload files and update links), as well as hopefully make it easier on the player, who will no longer have to make sure their mod and load order match 1:1 the ones provided, since now they will know what the specific conflicts and thus important load orders are meant to be followed.
 
+- **Mending Morrowind**
+  - Re-added [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (fixes some bugs regarding flames not covered by Morrowind Optimization Patch).
+  
 ## July 5th
 
 - **Game balance**
