@@ -4,6 +4,12 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## July 19th
+
+This maintenance update replaced the traditional modorder and loadorder .txt files with two new pages for **Mending Morrowind** and **Modding Morrowind**. For Mending Morrowind, a page lists its mod order and load order. For Moddoing Morrowind, a page explains its asset conflicts between mods, its complete mod order, its plugin conflicts between mods, and its complete load order.
+
+This will make it easier for me to update (no need to upload files and update links), as well as hopefully make it easier on the player, who will no longer have to make sure their mod and load order match 1:1 the ones provided, since now they will know what the specific conflicts and thus important load orders are meant to be followed.
+
 ## July 5th
 
 - **Game balance**
