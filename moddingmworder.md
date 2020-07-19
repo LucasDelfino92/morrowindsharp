@@ -1,6 +1,15 @@
+# MODDING MORROWIND
+
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# MODDING MORROWIND ASSET CONFLICTS
+## INDEX
+
+- [Modding Morrowind asset conflicts]()
+- [Modding Morrowind mod list]()
+- [Modding Morrowind plugin conflicts]()
+- [Modding Morrowind load order]()
+
+## MODDING MORROWIND ASSET CONFLICTS
 
 There are a number of asset conflicts present in Modding Morrowind itself that require you to respect the following installation orders. They have been grouped as to identify the specific conflicts (in other words, respect the installation order of Facelift and patches, but it's not necessary you install those mods before Weapon Sheathing, for example). That said, **Modding Morrowind** assumes you have installed *all* of **Mending Morrowind** beforehand. 
 
@@ -48,7 +57,7 @@ There are a number of asset conflicts present in Modding Morrowind itself that r
 
 If you have installed this guide from beginning to end, these mods should already be installed in the correct order. Below, you will find a complete list of all mods present in the guide, installed as if you had followed the guide from beginning to end.
 
-# COMPLETE MOD LIST
+## MODDING MORROWIND MOD LIST
 
 ### OFFICIAL DLCs
 
@@ -310,7 +319,7 @@ Note that you should only have one signpost mod and only one magic glow mod inst
 - Greetings for No Lore v2.0
 - Outfit Greetings Tweaked v1.4
 
-# MODDING MORROWIND PLUGIN CONFLICTS
+## MODDING MORROWIND PLUGIN CONFLICTS
 
 **Modding Morrowind** assumes you have installed *all* of **Mending Morrowind** beforehand. As such, the vast majority of plugin conflicts present in Modding Morrowind have to do with the bug fixing and optimization mods present in **Mending Morrowind**.
 
@@ -342,54 +351,54 @@ That said, there are a number of plugin conflicts present in Modding Morrowind i
   - Load before **correctUV Ore Replacer_respawning.esp**.
   - Load before **Morrowind Anti-Cheese.ESP**.
 - The Publicans.ESP
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
   - Load before **Clean Atmospheric Delights.ESP**.
 - Creeper the drummer.esp
   - Load after **Ownership Overhaul.esp**.
 - Nordic Chest Replacer.ESP
-	- Load before **Hunter's Mark - A Marksman Mod.ESP**.
+  - Load before **Hunter's Mark - A Marksman Mod.ESP**.
 - Waterfalls Tweaks.esp
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
 - Clean Atmospheric Delights.ESP
-	- Load after **Ownership Overhaul.esp** and **The Publicans.ESP**.
+  - Load after **Ownership Overhaul.esp** and **The Publicans.ESP**.
 - Yet Another Guard Diversity - Regular.ESP
   - Load after **Ownership Overhaul.esp**.
   - Load before **No-Frills Closed Molag Mar.esp**.
   - Load before **No-Frills Open Vivec.esp**.
   - Load before **Wolverine Hall Overhaul.ESP**.
 - No-Frills Closed Molag Mar.esp
-	- Load after **Yet Another Guard Diversity - Regular.ESP**.
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Yet Another Guard Diversity - Regular.ESP**.
+  - Load after **Ownership Overhaul.esp**.
 - No-Frills Open Vivec.esp
-	- Load after **Yet Another Guard Diversity - Regular.ESP**.
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Yet Another Guard Diversity - Regular.ESP**.
+  - Load after **Ownership Overhaul.esp**.
 - QL_SevenGracesShrines.esp
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
 - Talos Cult Revised.esp
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
 - Wolverine Hall Overhaul.ESP
-	- Load after **Yet Another Guard Diversity - Regular.ESP**.
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Yet Another Guard Diversity - Regular.ESP**.
+  - Load after **Ownership Overhaul.esp**.
 - Divayth Fyr Puzzle Fixed.ESP
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
 - Hunter's Mark - A Marksman Mod.ESP
-	- Load after **Nordic Chest Replacer.ESP**.
+  - Load after **Nordic Chest Replacer.ESP**.
 - correctUV Ore Replacer_respawning.esp
-	- Load after **Ownership Overhaul.esp**.
+  - Load after **Ownership Overhaul.esp**.
 - Realistic_Repair_Add-on.ESP
   - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**.
 - Realistic_Repair_Add-on - Patch for Purists Patch.ESP
-	- Load after **Realistic_Repair_Add-on.ESP**.
+  - Load after **Realistic_Repair_Add-on.ESP**.
 - tribunal rebalance.ESP
-	- Load after **Hunter's Mark - A Marksman Mod.ESP**.
-	- Load before **Morrowind Anti-Cheese.ESP**.
+  - Load after **Hunter's Mark - A Marksman Mod.ESP**.
+  - Load before **Morrowind Anti-Cheese.ESP**.
 - Morrowind Anti-Cheese.ESP
-	- Load after **Ownership Overhaul.esp**.
-	- Load after **tribunal rebalance.ESP**.
+  - Load after **Ownership Overhaul.esp**.
+  - Load after **tribunal rebalance.ESP**.
 
 Below, you will find a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end. The only exception is **Ownership Overhaul** and **Remiros' Groundcover** plugins: the former has been moved before any other mod that conflicts with it (while still respecting the mod installation order and resulting load order), while the latter has been moved to the bottom, as those plugins are not meant to be active during normal gameplay (only tick the plugins when generating Distant Land in MGE XE).
 
-# COMPLETE LOAD ORDER
+## MODDING MORROWIND LOAD ORDER
 
 - Morrowind.esm
 - Tribunal.esm
