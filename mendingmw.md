@@ -102,8 +102,11 @@ These are the major bugfixing and optimization mods for Morrowind. No player sho
 
 ## MINOR BUG FIXES
 
-These are minor bug fixes that most players won't notice. Feel free to skip them.
+These are minor bug fixes that most players won't notice. They are not essential, but it's nice to have them.
 
+- [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich: flames are now glow mapped and/or properly illuminated.
+  - Only install the **Glowing Flames** main file. The update files are not necessary.
+  - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 - [**No More Stage Diving - Desele's Dancing Girls**](https://www.nexusmods.com/morrowind/mods/47738) by Pherim: keeps the girls in Desele's House of Earthly Delights from dancing off the stage by making them not greet the player as he approaches them. 
   - Only install the **No More Stage Diving** main file.
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
