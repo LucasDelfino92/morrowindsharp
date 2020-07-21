@@ -248,7 +248,7 @@ Note that you should only have one signpost mod and only one magic glow mod inst
 - Divayth Fyr Puzzle Fixed v1.1
 - Early Transport to Mournhold v1.2
 - Fix those bastard rope fences v1.4
-- FMI - Sane Ordinators v1.5
+- FMI - Sane Ordinators v1.6
 - Gondolier Destinations v1.0
 - Higher Faction Requirements v1.0
 - Hunter's Mark - A Marksman Mod v1.0
