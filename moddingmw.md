@@ -396,7 +396,7 @@ These mods make changes to many different game locations with the intention to m
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
-    - **01 Vanilla Placement**
+    - **01 Vanilla Placement (ESP)**
 - [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7: changes the passageways between the different city districts, making the transitions more immersive.
 - [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
