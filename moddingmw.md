@@ -192,9 +192,8 @@ These mods aim to improve specific visual aspects of the game I personally found
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
   - Only install the **kart_facelift_default** main file.
     - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
-  - Also install the **kart_facelift_update_0-10-2** update file.
+  - Also install the **kart_facelift_update_0-10-3** update file.
     - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
-  - Also install [**this hotfix**](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file), which will fix a bug with the Imperial vampire meshes.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
