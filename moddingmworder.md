@@ -160,8 +160,7 @@ If you have installed this guide from beginning to end, these mods should alread
 - correctUV Diverse Ore Veins v1.0
 - Creeper the Drummer v1.1
 - Facelift v0.10
-- Facelift Update v0.10.2
-- Facelift v0.10.2 Hotfix 
+- Facelift Update v0.10.3
 - Flies v1.1
 - FMI - Caius Big Package v1.0
 - FMI - Belladonna - Unique Rippened Belladonna v1.0
