@@ -15,7 +15,7 @@ There are a number of asset conflicts present in Modding Morrowind itself that r
 
 - Mending Morrowind base installation.
   - Morrowind Uncompressed Vanilla Textures
-  - Patch for Purists v4.0.0
+  - Patch for Purists v4.0.2
   - Correct UV Rocks v1.0
   - Morrowind Optimization Patch v9.1b
   - Project Atlas v0.6.5
@@ -38,7 +38,7 @@ There are a number of asset conflicts present in Modding Morrowind itself that r
   - Facelift Update v0.10.2
   - Facelift v0.10.2 Hotfix
 - Glow in the Dahrk and Project Atlas (**Visuals** and **Mending Morrowind**)
-  - Glow in the Dahrk v2.8.3
+  - Glow in the Dahrk v2.9.1
   - Project Atlas v0.6.5 - Glow in the Dahrk Patch
 - Melchior's Magnificent Manuscripts and Switchable Scriptures (**Visuals** and **Gameplay MWSE**)
   - Melchior's Magnificent Manuscripts v1.2.1
@@ -72,7 +72,7 @@ If you have installed this guide from beginning to end, these mods should alread
 ### MENDING MORROWIND
 
 - Morrowind Uncompressed Vanilla Textures
-- Patch for Purists v4.0.0
+- Patch for Purists v4.0.2
 - Correct UV Rocks v1.0
 - Morrowind Optimization Patch v9.1b
 - Project Atlas v0.6.5
@@ -95,7 +95,7 @@ If you have installed this guide from beginning to end, these mods should alread
 - Book Worm v1.3
 - Class Description Tooltip v1.1
 - Continue v1.6
-- Essential Indicators v1.3
+- Essential Indicators v1.4
 - Hotkeys Extended v1.1
 - HUD Weapon Charge v1.0
 - Inventory Mouse Wheel v0.9.4
@@ -130,13 +130,13 @@ If you have installed this guide from beginning to end, these mods should alread
 - Dubdilla Location Fix v1.0
 - FMI - Hospitality Papers Expanded v2.7
 - FMI - Legion Dialogue v1.3
-- FMI - Misc v1.1
+- FMI - Misc v1.2
 - FMI - Gravedust v1.0
 - FMI - Nice to Meet You v1.2
 - FMI - NotAllDunmer v1.0
-- FMI - Service Refusal and Contraband v1.9.1
-- LDM - Context Matters v1.0
-- Ownership Overhaul v1.0
+- FMI - Service Refusal and Contraband v1.9.3
+- LDM - Context Matters v1.4
+- Ownership Overhaul v1.1
 - Religions Elaborated - No Quest Changes v1.0
 - Silence v1.0
 - Synthesis Series - Creatures and Diseases v1.01
@@ -165,7 +165,7 @@ If you have installed this guide from beginning to end, these mods should alread
 - FMI - Caius Big Package v1.0
 - FMI - Belladonna - Unique Rippened Belladonna v1.0
 - Folded in Port v1.0
-- Glow in the Dahrk v2.8.3
+- Glow in the Dahrk v2.9.1
 - Project Atlas v0.6.5 - Glow in the Dahrk Patch
 - Golden Saint Feminine Walk v1.1
 - Guarskin Drum Replacer v1.0
@@ -200,7 +200,7 @@ If you have installed this guide from beginning to end, these mods should alread
 - Weather Adjuster v1.0
 - Well Diversified
 - Wolf Helmet Replacer v1.6
-- **Near Vanilla Road Sign Replacer v3.3a**
+- **Near Vanilla Road Sign Replacer v3.4**
 - **Signposts Retextured v1.2**
 - **Subtle Magic Glow v1.0**
 - **Assetless No Glow v1.0.0**
@@ -230,7 +230,7 @@ Note that you should only have one signpost mod and only one magic glow mod inst
 - Meteorite Ministry v1.3
 - Yet Another Guard Diversity - Regular v1.8
 - No-Frills Closed Molag Mar v1.1
-- No-Frills Open Vivec v1.2
+- No-Frills Open Vivec v1.3
 - Open Mournhold v1.0
 - Reclamations In Holamayan v1.0
 - Seven Graces Shrines Enhanced v1.1
@@ -295,7 +295,7 @@ Note that you should only have one signpost mod and only one magic glow mod inst
 ### GAMEPLAY MWSE ABOT
 
 - Smart Ammo v1.01
-- Loading Doors Lock Tune v1.13
+- Loading Doors Lock Tune v1.14
 - Smart Map v1.04
 - MWSEabotlib v1.01
 
@@ -423,7 +423,7 @@ Below, you will find a complete list of all plugins present in the guide, instal
 - Dubdilla Location Fix.ESP
 - Hospitality_Papers_Expanded_v2.7.esp
 - FMI_Legion_Dialogue.ESP
-- FMI_Misc_v1.1.ESP
+- FMI_Misc.ESP
 - FMI_GraveDust.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
