@@ -121,18 +121,26 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 These mods restored content cut from the finished game. There's an emphasis on mod that took the shortest route to restore this cut content, and most importantly, on cut content that works well.
 
-- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
-- [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser: adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
-- [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot: restores visual effects on creatures.
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos: enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
-- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
+- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11  
+Restores the function of catching blight disease while out in a blight storm.
+- [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser  
+Adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
+- [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
+Restores visual effects on creatures.
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11  
+Adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
+- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
+Restores an unused Silt Strider animation and an unused sound.
   - MO2 will tell you there's no game data on top level.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
+The player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ### CLEANING PLUGINS
 
@@ -148,27 +156,46 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These mods increase the internal consistency of the game, taking into account aspects such as lore and dialogue.
 
-- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms: if a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
-- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid: gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
-- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11: moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail: expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich: fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich: fixes a handful of small inconsistencies between lore and what is found in game.
+- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
+If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
+- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid  
+Gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
+- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
+Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
+- [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich  
+Fixes a handful of small inconsistencies between lore and what is found in game.
   - Install both main files.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich: NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich: not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
-- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich: fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar: edits, re-filters, or adds on to vanilla dialogue to add more situational nuance - tavern owners will no longer talk about themselves in third person, Ashlanders will no longer curse vampires in the name of Almsivi, slave owners won't talk lovingly about abolitionists, and thieves will be less blase about incriminating themselves to strangers.
-- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian: assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris: adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+NPCs no longer will greet you as if they had just met you.
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+Adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
   - Only install the **No Quest Changes** optional file.
-- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117: the player will not be able to speak to NPCs when silenced.
-- [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11: edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
-- [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93: according to in-game information, it seems that a Telvanni Mouth's symbol of office is the Silver Staff of Peace. Yet in vanilla, only you get one when you become a Mouth, which you would have to give to Fast Eddie when he becomes your Mouth. Therefore this mod adds a Silver Staff of Peace into the inventory of the six other Telvanni Mouths, including Baladas' Mouth, who only shows up mid-game.
-- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn: adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk: to align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
-- [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk: makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
-- [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify: gives a Wizards Staff to high ranking members of the Mages Guild, four in total. 
+- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117  
+The player will not be able to speak to NPCs when silenced.
+- [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11  
+Edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
+- [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93  
+Gives a Silver Staff of Peace to each of the six Telvanni Mouths, as per in-game dialogue suggests.
+- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
+- [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
+Makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
+- [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
+Gives a Wizards Staff to high ranking members of the Mages Guild, as per in-game dialogue suggests.
 
 ### CLEANING PLUGINS
 
