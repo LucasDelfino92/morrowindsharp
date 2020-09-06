@@ -276,7 +276,7 @@ Makes windows glow in the dark.
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
     - **05 Raven Rock Glass Windows Interior Sunrays**
-- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team:  
+- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays**.
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
@@ -396,20 +396,24 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 
 Choose between one of these two alternatives for readable signposts. My personal preference is PeterBitt's, but if you are a vanilla purist nothing beats Atrayonis'.
 
-- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis: makes road signs legible. Uses vanilla background and resolution.
+- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis  
+Makes road signs legible. Uses vanilla background and resolution.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vvardenfell only**
-- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt: makes road signs legible. Uses higher quality vanilla-friendly textures.
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
+Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
 ### LESS INTRUSIVE MAGIC GLOW
 
 Choose between one of these two alternatives for less intrusive magic glow. My personal preference is Assetless No Glow, but if you are a vanilla purist nothing beats Subtle Magic Glow.
 
-- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe: replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
-- [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/) by NullCascade: removes the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground). Uses less memory and is more compatible than other "no plastic wrap effect" mods.
+- [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/) by NullCascade  
+Removes the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground). Uses less memory and is more compatible than other "no plastic wrap effect" mods.
   - For **Weapon Sheathing** to not add the glow effect back into sheathed equipment, we will need to comment some lines in **Weapon Sheating\MWSE\mods\weaponSheathing\main.lua**. We must add "-- " in front of these three lines, as seen here:
     - -- tes3.worldController:applyEnchantEffect(visual, quiver.enchantment)
     - -- tes3.worldController:applyEnchantEffect(visual, shield.enchantment)
@@ -420,12 +424,14 @@ Choose between one of these two alternatives for less intrusive magic glow. My p
 
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
 
-- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd: adds groundcover to almost all regions.
+- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
+Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek: adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek  
+Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
@@ -446,7 +452,8 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These mods don't so much replace existent sound effects, but like the Visuals section, they seek to improve on the game by adding neat sound effects where there previously weren't any. Overall, most of these tend to improve immersion.
 
-- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny: adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
+- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny  
+Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
   - In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
   - On the morrowind.ini that just opened, use CTRL+F to find the following entries and replace them with the data in bold:
@@ -454,52 +461,73 @@ These mods don't so much replace existent sound effects, but like the Visuals se
     - Thunder Sound ID 1=**Distant_Thunder_01**
     - Thunder Sound ID 2=**Distant_Thunder_02**
     - Thunder Sound ID 3=**Distant_Thunder_03**
-- [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk: gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
+- [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
+Gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Fire Sound Replacer**
-- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack: allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
-- [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11: outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut: removes the sheep sounds from Morrowind.
-- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord: drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero: Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
-- [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack  
+Allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
+- [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
+Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
+Removes the sheep sounds from Morrowind.
+- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
+- [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/) by NullCascade  
+Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
   - MO2 will tell you there's no game data on top level.
     - Expand the **morrowind-mods-master** folder. 
     - Right click **Sounds of Souls** and click **Set data directory**.
     - Rename the mod to **Sounds of Souls**. Click **OK**.
-- [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero: makes Miner class NPCs cough.
-- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot: simulates water sounds when colliding with generic fake animated water meshes.
+- [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero  
+Makes Miner class NPCs cough.
+- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
 
 These mods make changes to many different game locations with the intention to make them stand out or feel more adequate to what they are supposed to be. These are not your average "clutter" mods, but mods which thoughtfully improve the locations they overhaul.
 
-- [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar: interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
-- [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho: modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
-  - This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
-- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93: makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
-- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator: adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
+- [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
+Interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
+- [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
+Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
+- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
+Makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
+- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
+Adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
   - Hide/delete the following plugins:
     - Meteorite Ministry Palace - Higher.ESP
     - Meteorite Ministry Palace.ESP
     - Meteorite Ministry Temple - Higher.ESP
-- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke: replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-- [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis: closes the Molag Mar canton, on account of the ashstorms.
+- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
+Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
+- [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
+Closes the Molag Mar canton, on account of the ashstorms.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis: opens up the Vivec cantons.
+- [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis  
+Opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement (ESP)**
-- [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7: changes the passageways between the different city districts, making the transitions more immersive.
-- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho: places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
-- [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara: redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
+- [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7  
+Changes the passageways between the different city districts, making the transitions more immersive.
+- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
+Places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
+- [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
+Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
-- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran: adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
-- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93: improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
-- [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort: completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
+- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
+- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93  
+Improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
+- [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
   - MO2 will tell you there's no game data on top level.
     - Expand the **Wolverine Hall Overhaul** folder. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
@@ -523,24 +551,37 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These mods tweak certain annoying or deficient aspects of the game's gameplay. Some of these are quality of life improvements, other simply make sense.
 
-- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid: every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
-- [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar:  adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
-- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros: reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian: allows travel to Mournhold before the Dark Brotherhood attacks begin.
-- [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat: modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
-- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich: makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt: each gondolier in Vivec will now get you to all gondolier ports in Vivec.
-- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr: makes factions have higher requirements for advancing.
+- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
+Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
+- [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar  
+Adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
+- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+- [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
+Modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
+- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
+Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
+- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
+Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
+- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
+Makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
-- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros: adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl: lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
-- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger: creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros: rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
+- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
+Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
+- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl  
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
+- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger  
+Creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
   - In TESAME, delete the following records: 
     - GMST **fJumpRunMultiplier**
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
-- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead: merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [Morag Tong](https://www.nexusmods.com/morrowind/mods/47753), and [Tribunal Temple](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [Imperial Legion Goods](https://www.nexusmods.com/morrowind/mods/43002).
+- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
+Merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [Morag Tong](https://www.nexusmods.com/morrowind/mods/47753), and [Tribunal Temple](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [Imperial Legion Goods](https://www.nexusmods.com/morrowind/mods/43002).
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
