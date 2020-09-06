@@ -59,81 +59,40 @@ Good luck!
 
 These mods expand on the readibility and functionality of Morrowind's user interface. They don't really alter how the game plays but how more useful the user interface is.
 
-[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
-High resolution replacer for the Magic Cards font, used in most of the user interface.  
-- Only install the **Better Dialogue Font** main file.
-
-[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
-High resolution replacer for the Daedric font used in scrolls.  
-- MO2 will tell you there's no game data on top level.
-  - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**.
-  - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
-
-[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
-Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-
-[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
-Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
-
-[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
-Restores the class description tooltip to the class selection menu.
-
-[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
-Adds a continue button to the main menu to instantly load your most recent save.
-
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
-Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
-
-[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
-Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-
-[**inom - Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN  
-Allows the use of the mouse wheels to move items into and out of containers.
-
-[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
-Adds the ability to filter ingredients based on their magic effects.
-
-[**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
-Adds clock to UI that displays either game world time or real time.
-
-[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
-Adds a confirmation popup when you click on New Game in the main menu.
-
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
-Holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
-
-[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
-Allows exiting any menu by right clicking (or whatever your menu key is mapped to).
-
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21  
-Provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
-
-[**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade  
-Development release of UI Expansion that expands on this mod’s features. 
-- To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
-- MO2 will tell you there's no game data on top level.
-  - Expand the **morrowind-mods-master** folder. 
-  - Right click **User Interface Expansion** and click **Set data directory**.
-  - Rename the mod to **UI Expansion**. Click **OK**.
-
-[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
-HD recreation of the Title and Logo Intro, in widescreen.
-- Install both main files.
-
-[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus  
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen  
-Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
-- MO2 will tell you there's no game data on top level.
-  - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**.
-  - Drag the three .tag files into the **splash** folder and click **OK**.
+- [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd: high resolution replacer for the Magic Cards font, used in most of the user interface.
+  - Only install the **Better Dialogue Font** main file.
+- [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek: high resolution replacer for the Daedric font used in scrolls. 
+  - MO2 will tell you there's no game data on top level. 
+    - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
+    - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
+- [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch: allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord: keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
+- [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord: restores the class description tooltip to the class selection menu.
+- [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat: adds a continue button to the main menu to instantly load your most recent save.
+- [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21: provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
+- [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch: expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
+- [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch: adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
+- [**inom - Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN: allows the use of the mouse wheels to move items into and out of containers.
+- [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7: adds the ability to filter ingredients based on their magic effects.
+- [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r: adds clock to UI that displays either game world time or real time.
+- [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek: adds a confirmation popup when you click on New Game in the main menu.
+- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord: holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
+- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord: allows exiting any menu by right clicking (or whatever your menu key is mapped to).
+- [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch: adds tooltips with the effect's name to shrines when hovering over the different options.
+- [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21: provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+- [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade: development release of UI Expansion that expands on this mod’s features. 
+  - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **morrowind-mods-master** folder. 
+    - Right click **User Interface Expansion** and click **Set data directory**.
+    - Rename the mod to **UI Expansion**. Click **OK**.
+- [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos: HD recreation of the Title and Logo Intro, in widescreen.
+  - Install both main files.
+- [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus: replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
+- [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen: adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
+  - MO2 will tell you there's no game data on top level.
+    - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**. 
+    - Drag the three .tag files into the **splash** folder and click **OK**.
 
 > An alternative to the above mods which modify the title screen and the splash screen is Half11's [**Unstretched Splash Screens**](https://www.nexusmods.com/morrowind/mods/45800). This mod adds black bars on both sides of the splash screens and the main menu so that they will no longer be stretched when playing in widescreen resolutions. It also includes the six missing Bethesda splash screens.
 
@@ -141,33 +100,18 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 These mods restored content cut from the finished game. There's an emphasis on mod that took the shortest route to restore this cut content, and most importantly, on cut content that works well.
 
-[**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11  
-Restores the function of catching blight disease while out in a blight storm.
-
-[**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser  
-Adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
-
-[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
-Restores visual effects on creatures.
-
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11  
-Adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
-Restores an unused Silt Strider animation and an unused sound.
-- MO2 will tell you there's no game data on top level.
-  - Right click **Data Files** and click **Set data directory**. Click **OK**.
-
-[**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
-The player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
-- MO2 will tell you there's no game data on top level. 
-  - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  
-[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11: restores the function of catching blight disease while out in a blight storm.
+- [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser: adds the unused Bloatspore to over 20 caves and caverns of Vvardenfell.
+- [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot: restores visual effects on creatures.
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos: enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11: adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
+- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero: restores an unused Silt Strider animation and an unused sound.
+  - MO2 will tell you there's no game data on top level.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero: the player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11: fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ### CLEANING PLUGINS
 
