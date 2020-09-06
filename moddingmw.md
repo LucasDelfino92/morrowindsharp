@@ -193,9 +193,7 @@ These mods aim to improve specific visual aspects of the game I personally found
     - Expand the **Creeper the drummer** folder. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
-  - Only install the **kart_facelift_default** main file.
-    - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
-  - Also install the **kart_facelift_update_0-10-3** update file.
+  - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
     - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
