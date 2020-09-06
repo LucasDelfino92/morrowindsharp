@@ -5,8 +5,8 @@
 ## INDEX
 
 - [Modding Morrowind asset conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-asset-conflicts)
-- [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
 - [Modding Morrowind plugin conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-plugin-conflicts)
+- [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
 - [Modding Morrowind load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-load-order)
 
 ## MODDING MORROWIND ASSET CONFLICTS
@@ -21,6 +21,51 @@ That said, there are a number of mods present in **Modding Morrowind** that are 
 - **Weapon Sheathing - Bow Position Edit** and **Morrowind Optimization Patch - Weapon Sheathing Patch** need to be loaded after **Weapon Sheathing**.
 - **Seven Graces Shrines Enhanced - No Script Edits** and **Seven Graces Shrines Enhanced - Simple Golden Gold Patch** need to be loaded after **Seven Graces Shrines Enhanced**.
 - **MWSEabotlib** needs to be loaded after any of **abot**'s mods.
+
+## MODDING MORROWIND PLUGIN CONFLICTS
+
+Because the base **Mending Morrowind** guide includes many bug fixes for vanilla Morrowind content, there are many unavoidable conflicts present with mods included in **Modding Morrowind**.
+
+That said, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible.
+
+- Ownership Overhaul.esp
+  - Load before **The Publicans.ESP**
+  - Load before **Creeper the drummer.esp**
+  - Load before **Waterfall Tweaks.esp**
+  - Load before **Clean Atmospheric Delights.ESP**
+  - Load before **Yet Another Guard Diversity - Regular.ESP**
+  - Load before **No-Frills Closed Molag Mar.esp**
+  - Load before **No-Frills Open Vivec.esp**
+  - Load before **QL_SevenGracesShrines.esp**
+  - Load before **Talos Cult Revised.esp**
+  - Load before **Wolverine Hall Overhaul.ESP**
+  - Load before **Divayth Fyr Puzzle Fixed.ESP**
+  - Load before **correctUV Ore Replacer_respawning.esp**
+  - Load before **Morrowind Anti-Cheese.ESP**
+
+>This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
+
+- The Publicans.ESP
+  - Load before **Clean Atmospheric Delights.ESP**
+
+>This will ensure The Publicans doesn't override Atmospheric Delights' lighting changes to Desele's House of Earthly Delights.
+
+- FMI_Misc.ESP
+  - Load before **LDM - Context Matters.ESP**
+
+>This will ensure FMI - Misc doesn't override the more comprehensive dialogue changes from LDM - Context Matters.
+
+- Yet Another Guard Diversity - Regular.ESP
+  - Load before **No-Frills Closed Molag Mar.esp**
+  - Load before **No-Frills Open Vivec.esp**
+  - Load before **Wolverine Hall Overhaul.ESP**
+
+>This will Yet Another Guard Diversity doesn't restore the gaurds deleted by these mods.
+
+- Realistic_Repair_Add-on.ESP
+  - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**
+
+>This will ensure the patch works as intended.
 
 ## MODDING MORROWIND MOD LIST
 
@@ -280,51 +325,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Greet Distance Reducer
 - Greetings for No Lore
 - Outfit Greetings Tweaked
-
-## MODDING MORROWIND PLUGIN CONFLICTS
-
-Because the base **Mending Morrowind** guide includes many bug fixes for vanilla Morrowind content, there are many unavoidable conflicts present with mods included in **Modding Morrowind**.
-
-That said, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible.
-
-- Ownership Overhaul.esp
-  - Load before **The Publicans.ESP**
-  - Load before **Creeper the drummer.esp**
-  - Load before **Waterfall Tweaks.esp**
-  - Load before **Clean Atmospheric Delights.ESP**
-  - Load before **Yet Another Guard Diversity - Regular.ESP**
-  - Load before **No-Frills Closed Molag Mar.esp**
-  - Load before **No-Frills Open Vivec.esp**
-  - Load before **QL_SevenGracesShrines.esp**
-  - Load before **Talos Cult Revised.esp**
-  - Load before **Wolverine Hall Overhaul.ESP**
-  - Load before **Divayth Fyr Puzzle Fixed.ESP**
-  - Load before **correctUV Ore Replacer_respawning.esp**
-  - Load before **Morrowind Anti-Cheese.ESP**
-
->This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
-
-- The Publicans.ESP
-  - Load before **Clean Atmospheric Delights.ESP**
-
->This will ensure The Publicans doesn't override Atmospheric Delights' lighting changes to Desele's House of Earthly Delights.
-
-- FMI_Misc.ESP
-  - Load before **LDM - Context Matters.ESP**
-
->This will ensure FMI - Misc doesn't override the more comprehensive dialogue changes from LDM - Context Matters.
-
-- Yet Another Guard Diversity - Regular.ESP
-  - Load before **No-Frills Closed Molag Mar.esp**
-  - Load before **No-Frills Open Vivec.esp**
-  - Load before **Wolverine Hall Overhaul.ESP**
-
->This will Yet Another Guard Diversity doesn't restore the gaurds deleted by these mods.
-
-- Realistic_Repair_Add-on.ESP
-  - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**
-
->This will ensure the patch works as intended.
 
 ## MODDING MORROWIND LOAD ORDER
 
