@@ -210,135 +210,187 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These mods aim to improve specific visual aspects of the game I personally found deficient, especially when the game is paired alongside MGE XE in the case of water sources. This section also includes mods to make interiors and nights darker, and add groundcover to most of Morrowind's regions. Other little mods included tweak certain silly-looking meshes, or add neat visual effects to some of the game's statics.
 
-- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
-- [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
+- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
+Replaces rain with a more heavy rain look.
+- [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn  
+Replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
   - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
 - [**Anumaril's Minor Mods**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21.
-  - **Ashmire Replacer**: replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
+  - **Ashmire Replacer**  
+    Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
     - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
-  - **Bitter Coast Scum Replacer**: replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+  - **Bitter Coast Scum Replacer**  
+    Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
     - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
       - **00 Core**
       - **01 Animated Replacer - Original Color**
-  - **Vivec Palace Water Replacer**: replaces the water in the Palace of Vivec's canals.
+  - **Vivec Palace Water Replacer**  
+    Replaces the water in the Palace of Vivec's canals.
     - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
       - **00 Core**
       - **01 Original Color**
-- [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk: new effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae: replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
+- [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk  
+New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
+- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
+Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
+Adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
-- [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero: adds a visual effect to all vanilla cave drip sound emitters.
+- [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero  
+Adds a visual effect to all vanilla cave drip sound emitters.
   - MO2 will tell you there's no game data on top level.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra: adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich: matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
-  - This mod is incorrectly packaged. 
+- [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich  
+Matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
+  - This mod is incorrectly packaged.
     - Drag the **Meshes** folder into the mod's root directory in MO2.
-- [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian: alters Creeper's animations making him randomly sit on the ground and play his drums.
+- [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian  
+Alters Creeper's animations making him randomly sit on the ground and play his drums.
   - MO2 will tell you there's no game data on top level.
     - Expand the **Creeper the drummer** folder. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels: vanilla-friendly improvement of the head meshes and textures.
+- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+Vanilla-friendly improvement of the head meshes and textures.
   - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
     - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
-- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero: adds a visual effect to all vanilla flies sound emitters.
+- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
+Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich: makes the Package for Caius Cosades an actual package.
-- [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich: gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
+- [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich  
+Makes the Package for Caius Cosades an actual package.
+- [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich  
+Gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
   - Only install the **Unique Rippened Belladonna** optional file.
-- [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros: folds up the sails of longboats in port.
+- [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros  
+Folds up the sails of longboats in port.
   - Hide/delete **Meshes\x\Ex_longboat01.nif**. This mesh is buggy and unnecessary for this mod to work as intended.
-- [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade: makes windows glow in the dark.
+- [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
+Makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Hi Res Window Texture Replacer**
     - **02 Interior Sunrays**
     - **03 Nord Glass Windows Interior Sunrays**
     - **05 Raven Rock Glass Windows Interior Sunrays**
-- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team: optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team:  
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays**.
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish: gives the base golden saint the feminine walk animation instead of the default male walk animation.
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - MO2 will tell you there's no game data on top level. 
     - Right click on **data**, and click **Create directory...**. Name this new folder **meshes**. Click **OK**. 
     - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r**. Click **OK**. 
     - Expand the **meshes** folder. Drag the three loose files into the **meshes\r** folder. Click **OK**.
-- [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae: gives the guarskin drum a unique model.
-- [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich: gives an unique mesh to the in-game muffin.
-- [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid: allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
+- [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae  
+Gives the guarskin drum a unique model.
+- [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich  
+Gives an unique mesh to the in-game muffin.
+- [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid  
+Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
   - Hide/disable **Hopesfire Torch.esp.** 
-- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax: modifies the Nordic Iron Helm to look less stupid.
+- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
+Modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero: makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7: implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
+- [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7  
+Implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 MWSE Version**
-- [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon: configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk: replaces the book meshes and scrolls. Also adds new scroll textures. 
+- [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
+Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk  
+Replaces the book meshes and scrolls. Also adds new scroll textures. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk: enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional mesh replacer for the vanilla effect. 
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The mod also includes an optional mesh replacer for the vanilla effect. 
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Mist Replacer**
-- [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros: improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+- [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
-- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros: replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
-- [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk: adds falling spores particle effects to the iconic emperor parasol mushrooms.
+- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
+Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
+- [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
+Adds falling spores particle effects to the iconic emperor parasol mushrooms.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
-- [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat: replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+- [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Only install the **Pete's Journal and Scroll** optional file.
   - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
-- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker: makes blood more liquid and less smoke-like.
+- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
+Makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. 
     - Right click on **data**, and click **Create directory...**. Name this new folder **textures**. Click **OK**. 
     - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
-- [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero: replaces corprus meat models with animated, twitching ones ones.
+- [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
+Replaces corprus meat models with animated, twitching ones ones.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Untick the **Textures** folder. Click **OK**.
-- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by ddfields and Sigourn: corrects the UV Set TexCoord so that signs will display the same on both sides.
-- [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut: turns the green coins into gold coins.
+- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by ddfields and Sigourn  
+Corrects the UV Set TexCoord so that signs will display the same on both sides.
+- [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut  
+Turns the green coins into gold coins.
   - Only install the **Gold coins** main file.
-- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero: retextures the Skeleton (white) and Metal Sparks (gold) textures.
+- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero  
+Retextures the Skeleton (white) and Metal Sparks (gold) textures.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae: gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
-- [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith: changes the position where Spears/Staffs are held. Now they are held closer the end.
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
+Gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
+- [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith  
+Changes the position where Spears/Staffs are held. Now they are held closer the end.
   - MO2 will tell you there's no game data on top level.
     - Expand **Spear Only**.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif**. This mesh was incorrectly included into this option.
-- [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear: makes it so many smoke effects are much more laid back and easier on the eyes.
-- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq: Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
-- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7: adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+- [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
+Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Default Dust**
-- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
-- [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
-- [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
+Makes in-world soul gems that are filled appear as enchanted items.
+- [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple  
+Reduces the water splash from **Better Waterfalls** to a more reasonable size.
+- [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
+Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7: greatly improves performance and fixes some mesh errors.
+- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
+Greatly improves performance and fixes some mesh errors.
   - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
-- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim: a simple mesh edit, the bows should now better line up with the sheathing animation.
-- [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd: regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
+- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
+The bows will better line up with the sheathing animation.
+- [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
+Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
-- [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn: personal preset for darker nights and less horrible fog.
+- [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn  
+Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
-- [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast: creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+- [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
+Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
     - Create a folder called **Meshes** in the mod's root directory in Mod Organizer 2.
     - Drag the **x** folder into the **Meshes** folder.
-- [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae: replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
+- [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
+Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ### READABLE SIGNPOSTS
 
