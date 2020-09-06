@@ -165,15 +165,18 @@ These mods aim to improve specific visual aspects of the game I personally found
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12: replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn: replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
   - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
-- [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21: replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
-  - Only download the **Ashmire Replacer** main file.
-  - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
+- [**Anumaril's Minor Mods**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21.
+  - **Ashmire Replacer**: replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
+    - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
+  - **Bitter Coast Scum Replacer**: replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+    - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+      - **00 Core**
+      - **01 Animated Replacer - Original Color**
+  - **Vivec Palace Water Replacer**: replaces the water in the Palace of Vivec's canals.
+    - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+      - **00 Core**
+      - **01 Original Color**
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk: new effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21: replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-  - Only download the **Bitter Coast Scum Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Animated Replacer - Original Color**
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae: replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes: adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
@@ -271,11 +274,6 @@ These mods aim to improve specific visual aspects of the game I personally found
     - **00 Core**
     - **01 Default Dust**
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade: makes in-world soul gems that are filled appear as enchanted items.
-- [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291/) by Anumaril21: replaces the water in the Palace of Vivec's canals.
-  - Only install the **Vivec Palace Water Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Original Color**
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple: reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros: equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
