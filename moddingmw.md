@@ -215,17 +215,17 @@ Replaces rain with a more heavy rain look.
 - [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn  
 Replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
   - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
-- [**Anumaril's Minor Mods**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21.
+- [**Anumaril's Minor Mods**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
   - **Ashmire Replacer**  
-    Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
+  Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
     - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
   - **Bitter Coast Scum Replacer**  
-    Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+  Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
     - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
       - **00 Core**
       - **01 Animated Replacer - Original Color**
   - **Vivec Palace Water Replacer**  
-    Replaces the water in the Palace of Vivec's canals.
+  Replaces the water in the Palace of Vivec's canals.
     - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
       - **00 Core**
       - **01 Original Color**
