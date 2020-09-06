@@ -22,8 +22,6 @@ That said, there are a number of mods present in **Modding Morrowind** that are 
 - **Seven Graces Shrines Enhanced - No Script Edits** and **Seven Graces Shrines Enhanced - Simple Golden Gold Patch** need to be loaded after **Seven Graces Shrines Enhanced**.
 - **MWSEabotlib** needs to be loaded after any of **abot**'s mods.
 
->This will ensure these patches work as intended.
-
 ## MODDING MORROWIND MOD LIST
 
 This is a complete list of all mods present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
