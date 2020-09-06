@@ -309,6 +309,11 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
 
 >This will ensure The Publicans doesn't override Atmospheric Delights' lighting changes to Desele's House of Earthly Delights.
 
+- FMI_Misc.ESP
+  - Load before **LDM - Context Matters.ESP**
+
+>This will ensure FMI - Misc doesn't override the more comprehensive dialogue changes from LDM - Context Matters.
+
 - Yet Another Guard Diversity - Regular.ESP
   - Load before **No-Frills Closed Molag Mar.esp**
   - Load before **No-Frills Open Vivec.esp**
