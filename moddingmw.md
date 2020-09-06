@@ -664,20 +664,27 @@ These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, 
 
 These mods all belong to the same author, abot. They receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
 
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot: ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot: automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot: automatically switches between the local and world map depending on user configuration.
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot: up-to-date **abot\lib.lua**, shared by all of the above mods.
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
+Automatically switches between the local and world map depending on user configuration.
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
+Up-to-date **abot\lib.lua**, shared by all the mods in this section.
 
 ## GAME BALANCE
 
 These gameplay mods seek to improve deficient aspects of the game's balance, such as the overabundace of overpowered equipment, how easy it is to get it, or the rebalance of the game's official expansions which were originally designed with an end-game character in mind.
 
-- [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort: rebalances Tribunal as if it shipped with Morrowind.
-- [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort: rebalances Bloodmoon as if it shipped with Morrowind.
-- [**Morrowind Anti-Cheese**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11: fixes the biggest exploits and balance issues in the game.
-  - I've edited this mod for compatibility with **Ownership Overhaul**. [**You can find the original mod here.**](https://www.nexusmods.com/morrowind/mods/47305)
-- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort: rebalances alcohol so that it is less effective than potions.
+- [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
+Rebalances Tribunal as if it shipped with Morrowind.
+- [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
+Rebalances Bloodmoon as if it shipped with Morrowind.
+- [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11  
+Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
+- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
+Rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 
 ### CLEANING PLUGINS
@@ -691,19 +698,25 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These gameplay mods require MWSE to work properly. Most importantly, they deal with particularly broken gameplay mechanics.
 
-- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade: provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
-- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort: dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
+- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
+Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
+- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade: puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
+Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 
 ## DIALOGUE
 
 For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issues with Morrowind's dialogue (that aren't addressed by the **Internal logic** module) are minor annoyances or issues with its repetition.
 
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake: NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris: replaces the three standard No Lore greetings with over sixty new ones. 
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille: greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+Replaces the three standard No Lore greetings with over sixty new ones. 
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
+Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 
 ## FINISHING TOUCHES
 
