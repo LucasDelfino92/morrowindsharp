@@ -35,8 +35,7 @@ There are a number of asset conflicts present in Modding Morrowind itself that r
   - GH Patches and Replacers v1.02
 - Facelift (**Visuals**)
   - Facelift v0.10
-  - Facelift Update v0.10.2
-  - Facelift v0.10.2 Hotfix
+  - Facelift Update v0.10.3
 - Glow in the Dahrk and Project Atlas (**Visuals** and **Mending Morrowind**)
   - Glow in the Dahrk v2.9.1
   - Project Atlas v0.6.5 - Glow in the Dahrk Patch
