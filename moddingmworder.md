@@ -41,113 +41,113 @@ This is a complete list of all mods present in the guide, installed as if you ha
 ### MENDING MORROWIND
 
 - Morrowind Uncompressed Vanilla Textures
-- Patch for Purists v4.0.2
-- Correct UV Rocks v1.0
-- Morrowind Optimization Patch v9.1b
-- Project Atlas v0.6.5
-- Glowing Flames v2.3
-- No More Stage Diving - Desele's Dancing GIrls v1.1
-- Expeditious Exit v1.2.1
-- Immersive Run Fix v1.0
-- Quest Skill Reward Fix v1.0
-- Skill Increase GMST Fix v1.0
-- Expansion Delay v1.1
-- Intelligent Textures v2.1
-- Wood Fix v2.1b
-- Intelligent Textures Ashlander Hotfix v2
+- Patch for Purists
+- Correct UV Rocks
+- Morrowind Optimization Patch
+- Project Atlas
+- Glowing Flames
+- No More Stage Diving - Desele's Dancing Girls
+- Expeditious Exit
+- Immersive Run Fix
+- Quest Skill Reward Fix
+- Skill Increase GMST Fix
+- Expansion Delay
+- Intelligent Textures
+- Wood Fix
+- Intelligent Textures Ashlander Hotfix
 
 ### USER INTERFACE
 
-- Better Dialogue Font v1.1
-- Better Daedric Font v3.2
-- Better Questlist v1.1
-- Book Worm v1.3
-- Class Description Tooltip v1.1
-- Continue v1.6
-- Essential Indicators v1.4
-- Hotkeys Extended v1.1
-- HUD Weapon Charge v1.0
-- Inventory Mouse Wheel v0.9.4
-- MWSE Alchemy Filter v2.0
-- MWSE Clock Block v1.1
-- New Game Confirmation v1.02
-- Quick Equip v1.1.2
-- Right Click Menu Exit v1.0.4
-- Shrine Tooltips v1.1.1
-- Tooltips Complete v1.6
+- Better Dialogue Font
+- Better Daedric Font
+- Better Questlist
+- Book Worm
+- Class Description Tooltip
+- Continue
+- Essential Indicators
+- Hotkeys Extended
+- HUD Weapon Charge
+- Inventory Mouse Wheel
+- MWSE Alchemy Filter
+- MWSE Clock Block
+- New Game Confirmation
+- Quick Equip
+- Right Click Menu Exit
+- Shrine Tooltips
+- Tooltips Complete
 - UI Expansion
-- Logo Video Intro Reworked (Widescreen) v1.0
-- Title Screen Reworked (Widescreen) v1.0
-- Widescreen Splash Replacer v1.0
-- Widescreen Splash Additions v1.15
+- Logo Video Intro Reworked (Widescreen)
+- Title Screen Reworked (Widescreen)
+- Widescreen Splash Replacer
+- Widescreen Splash Additions
 
 ### CONTENT RESTORATION
 
-- Blight Storms Restored v2.2
-- Bloated Caves v1.2
-- Creature VFX Restoration v2.0
-- Great Service v1.11
-- Services Restored v1.2
-- Silt Strider Animation Restored v1.0
-- Sound Spell Sound Effect v1.0
-- The Publicans v1.7.1
+- Blight Storms Restored
+- Bloated Caves
+- Creature VFX Restoration
+- Great Service
+- Services Restored
+- Silt Strider Animation Restored
+- Sound Spell Sound Effect
+- The Publicans
 
 ### INTERNAL LOGIC
 
-- Blighted Mine Means Blighted Workers v1.0
-- Corprus Fix v1.0
-- Dubdilla Location Fix v1.0
-- FMI - Hospitality Papers Expanded v2.7
-- FMI - Legion Dialogue v1.3
-- FMI - Misc v1.2
-- FMI - Gravedust v1.0
-- FMI - Nice to Meet You v1.2
-- FMI - NotAllDunmer v1.0
-- FMI - Service Refusal and Contraband v1.9.3
-- LDM - Context Matters v1.4
-- Ownership Overhaul v1.1
-- Religions Elaborated - No Quest Changes v1.0
-- Silence v1.0
-- Synthesis Series - Creatures and Diseases v1.01
-- Telvanni Staff for the Telvanni Staff v1.0
-- Temples with Shrines v1.1
-- The Dream is the Door v1.1
-- The Madstone v1.0
-- Wizards Staff for Wizards v1.1
+- Blighted Mine Means Blighted Workers
+- Corprus Fix
+- Dubdilla Location Fix
+- FMI - Hospitality Papers Expanded
+- FMI - Legion Dialogue
+- FMI - Misc
+- FMI - Gravedust
+- FMI - Nice to Meet You
+- FMI - NotAllDunmer
+- FMI - Service Refusal and Contraband
+- LDM - Context Matters
+- Ownership Overhaul
+- Religions Elaborated - No Quest Changes
+- Silence
+- Synthesis Series - Creatures and Diseases
+- Telvanni Staff for the Telvanni Staff
+- Temples with Shrines
+- The Dream is the Door
+- The Madstone
+- Wizards Staff for Wizards
 
 ### VISUALS
 
-- Apel's Rain Replacer v1.0
-- Arukinns Better Books and Scrolls v1.0
-- Ashmire Replacer v1.0
-- Bitter Coast Scum Replacer v1.1
-- Vivec Palace Water Replacer v1.3
-- Better Waterfalls v1.1
-- Bloodmoon Hide Replacer v2.1
-- Buoyant Lord Vivec v1.0
-- Cave Drips v1.1.1
-- Complete Armor Joints v1.5
-- correctUV Diverse Ore Veins v1.0
-- Creeper the Drummer v1.1
-- Facelift v0.10
-- Facelift Update v0.10.3
-- Flies v1.1
-- FMI - Caius Big Package v1.0
-- FMI - Belladonna - Unique Rippened Belladonna v1.0
-- Folded in Port v1.0
-- Glow in the Dahrk v2.9.1
-- Project Atlas v0.6.5 - Glow in the Dahrk Patch
-- Golden Saint Feminine Walk v1.1
-- Guarskin Drum Replacer v1.0
-- Have You Seen the Muffin Mod v1.0
-- Hopesfire Glow v1.0
-- Improved Nordic Iron Helm Mesh v1.0a
-- Improved Thrown Weapon Projectiles v1.0
-- Keg Drip v1.1
-- Let There Be Darkness - Lua Lighting Overhaul v1.1
-- Melchior's Magnificent Manuscripts v1.2.1
-- Mistify v1.4
-- Mist Retexture v1.0
+- Apel's Rain Replacer
+- Arukinns Better Books and Scrolls
+- Ashmire Replacer
+- Bitter Coast Scum Replacer
+- Vivec Palace Water Replacer
+- Better Waterfalls
+- Bloodmoon Hide Replacer
+- Buoyant Lord Vivec
+- Cave Drips
+- Complete Armor Joints
+- correctUV Diverse Ore Veins
+- Creeper the Drummer
+- Facelift
+- Facelift Update
+- Flies
+- FMI - Caius Big Package
+- FMI - Belladonna - Unique Rippened Belladonna
+- Folded in Port
+- Glow in the Dahrk
+- Project Atlas - Glow in the Dahrk Patch
+- Golden Saint Feminine Walk
+- Guarskin Drum Replacer
+- Have You Seen the Muffin Mod
+- Hopesfire Glow
+- Improved Nordic Iron Helm Mesh
+- Improved Thrown Weapon Projectiles
+- Keg Drip
+- Let There Be Darkness - Lua Lighting Overhaul
+- Melchior's Magnificent Manuscripts
+- Mistify
+- Mist Retexture
 - Nordic Chest Replacer
 - Parasol Particles
 - Pete's Scroll 2018 ...in 2020
@@ -174,116 +174,114 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Remiros' Groundcover
 - Shattered Stones - An Earthquake Mod
 
-Note that you should only have one signpost mod and only one magic glow mod installed.
-
 ### AUDIO
 
-- Distant Thunder v1.1 (No Scripts)
-- Haunted Barrows v1.1
-- Heartthrum v1.0.2
-- Outdoor Banners With Sound v1.0
-- Sheep-no-More v1.0
-- Shut the Fuck up Cliff Racers v1.0
-- Silent Assassins v1.0
+- Distant Thunder (No Scripts)
+- Haunted Barrows
+- Heartthrum
+- Outdoor Banners With Sound
+- Sheep-no-More
+- Shut the Fuck up Cliff Racers
+- Silent Assassins
 - Sounds of Souls
-- Tunnel Cough v1.0
-- Water Sounds v1.03
+- Tunnel Cough
+- Water Sounds
 
 ### OVERHAULS
 
-- Atmospheric Delights v1.1
+- Atmospheric Delights
 - Cavern Of The Incarnate Overhaul - NPC Changes Only
-- Duke's Throne Room Overhaul v1.1
-- Meteorite Ministry v1.3
-- Yet Another Guard Diversity - Regular v1.8
-- No-Frills Closed Molag Mar v1.1
-- No-Frills Open Vivec v1.3
-- Open Mournhold v1.0
-- Reclamations In Holamayan v1.0
-- Seven Graces Shrines Enhanced v1.1
-- Seven Graces Shrines Enhanced - No Script Edits v1.1
+- Duke's Throne Room Overhaul
+- Meteorite Ministry
+- Yet Another Guard Diversity - Regular
+- No-Frills Closed Molag Mar
+- No-Frills Open Vivec
+- Open Mournhold
+- Reclamations In Holamayan
+- Seven Graces Shrines Enhanced
+- Seven Graces Shrines Enhanced - No Script Edits
 - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
-- Shrine of Azura v1.0
-- Talos Cult Revised - G93's Version v1.0
-- Wolverine Hall Overhaul v1.2
+- Shrine of Azura
+- Talos Cult Revised - G93's Version
+- Wolverine Hall Overhaul
 
 ### GAMEPLAY
 
-- Abundant Adamantium Ore v1.0
-- Adamantium Weapons Ignore Normal Weapon Resistance v1.0
-- Divayth Fyr Puzzle Fixed v1.1
-- Early Transport to Mournhold v1.2
-- Fix those bastard rope fences v1.4
-- FMI - Sane Ordinators v1.6
-- Gondolier Destinations v1.0
-- Higher Faction Requirements v1.0
-- Hunter's Mark - A Marksman Mod v1.0
-- Lower First Person Sneak Mode v1.0.1
-- Projectile Enchant Capacity v1.0
-- Speed and Movement Rebalanced v1.3
-- Supply Chests Merged v1.0
+- Abundant Adamantium Ore
+- Adamantium Weapons Ignore Normal Weapon Resistance
+- Divayth Fyr Puzzle Fixed
+- Early Transport to Mournhold
+- Fix those bastard rope fences
+- FMI - Sane Ordinators
+- Gondolier Destinations
+- Higher Faction Requirements
+- Hunter's Mark - A Marksman Mod
+- Lower First Person Sneak Mode
+- Projectile Enchant Capacity
+- Speed and Movement Rebalanced
+- Supply Chests Merged
 
 ### GAMEPLAY MWSE
 
-- Bed Buddies v1.4
-- Book Pickup v1.0.1
-- Brutal Backstabbing v1.3
-- Dahrk's Super-Sized Storage (D'sSSS) v2.0
-- Diligent Defenders v1.1.0
-- Easy Escort v1.2.0
-- Graphic Herbalism MWSE v1.04
-- GH Patches and Replacers v1.02
-- Kill Command v1.21
-- Less Aggressive Creatures v1.0
-- Lock Bashing v1.0
-- Lucky Strke - A Critical Hit Mod v1.0
-- Magicka Based Skill Progression v1.0.1
-- Marksman Rebalanced v1.1
-- Merlord's Starting Equipment v1.0
-- Misc Mates v1.1
-- MWSE Character Creation Name Generator v1.1
-- MWSE Magicka Regen v1.2
-- No Rest Without Beds v1.0
-- Plain Paper Fix v1.01
-- Poison Crafting v1.0
-- Putting Power In Willpower v2.0
-- Realistic Movement Speeds v1.1
-- Realistic Repair v1.1
-- Corsair83's Realistic Repair - Add-on v1.1
-- Corsair83's Realistic Repair - Add-on v1.1 - Patch for Purists Patch
-- Retroactive Health Gain v1.0
-- Security Enhanced v1.3
-- Sneaky Strike v1.0
-- Switchable Scriptures v1.0
-- The Midnight Oil - Lighting Overhaul v2.0.5
-- Torch Hotkey v1.2
-- Wings of Will - Willpower Based Levitation Speed v1.1
+- Bed Buddies
+- Book Pickup
+- Brutal Backstabbing
+- Dahrk's Super-Sized Storage (D'sSSS)
+- Diligent Defenders
+- Easy Escort
+- Graphic Herbalism MWSE
+- GH Patches and Replacers
+- Kill Command
+- Less Aggressive Creatures
+- Lock Bashing
+- Lucky Strke - A Critical Hit Mod
+- Magicka Based Skill Progression
+- Marksman Rebalanced
+- Merlord's Starting Equipment
+- Misc Mates
+- MWSE Character Creation Name Generator
+- MWSE Magicka Regen
+- No Rest Without Beds
+- Plain Paper Fix
+- Poison Crafting
+- Putting Power In Willpower
+- Realistic Movement Speeds
+- Realistic Repair
+- Corsair83's Realistic Repair - Add-on
+- Corsair83's Realistic Repair - Add-on - Patch for Purists Patch
+- Retroactive Health Gain
+- Security Enhanced
+- Sneaky Strike
+- Switchable Scriptures
+- The Midnight Oil - Lighting Overhaul
+- Torch Hotkey
+- Wings of Will - Willpower Based Levitation Speed
 
 ### GAMEPLAY MWSE ABOT
 
-- Smart Ammo v1.01
-- Loading Doors Lock Tune v1.14
-- Smart Map v1.04
-- MWSEabotlib v1.01
+- Smart Ammo
+- Loading Doors Lock Tune
+- Smart Map
+- MWSEabotlib
 
 ### GAME BALANCE
 
-- Tribunal Rebalance v1.0
-- Bloodmoon Rebalance v1.1
-- Morrowind Anti-Cheese v1.2 (Modding Morrowind)
-- Better Blance Booze - Heavy Drinker Mode v1.0
+- Tribunal Rebalance
+- Bloodmoon Rebalance
+- Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- Better Blance Booze - Heavy Drinker Mode
 
 ### GAME BALANCE MWSE
 
-- Controlled Consumption v1.3.0
-- Harder Barter v1.2
-- Limited Leaping v1.0
+- Controlled Consumption
+- Harder Barter
+- Limited Leaping
 
 ### DIALOGUE
 
-- GreetDistanceReducer v1.0
-- Greetings for No Lore v2.0
-- Outfit Greetings Tweaked v1.4
+- Greet Distance Reducer
+- Greetings for No Lore
+- Outfit Greetings Tweaked
 
 ## MODDING MORROWIND PLUGIN CONFLICTS
 
@@ -327,7 +325,7 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
 
 ## MODDING MORROWIND LOAD ORDER
 
-This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above. Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
+This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
 
 - Morrowind.esm
 - Tribunal.esm
@@ -443,3 +441,5 @@ This is a complete list of all plugins present in the guide, installed as if you
 - **Rem_GL.esp**
 - **Rem_Solstheim.esp**
 - **Rem_WG.esp**
+
+Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
