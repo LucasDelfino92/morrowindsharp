@@ -599,66 +599,98 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, many of these mods add neat new mechanics into the game, some present in older Elder Scrolls games, others entirely new. In many cases, these mods can be configured in-game to suit your particular tastes.
 
-- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord: prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade: enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
-- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord: do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk: increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
+- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
+Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
+- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
+- [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
+Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade: when the player or the player's companions are attacked, any companions will launch into action in defense.
-- [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade: ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7: automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+- [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
+When the player or the player's companions are attacked, any companions will launch into action in defense.
+- [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
+Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
     - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier.
   - Hide/disable **correctUV Ore Replacer_fixed.esp**
   - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
-- [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord: adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+- [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord: allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
-- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7: adds the ability to bash open locked doors and chests, as was an option in previous TES games.
-- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero: add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
+- [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
+Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
+- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
+Adds the ability to bash open locked doors and chests, as was an option in previous TES games.
+- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
   - This mod is incorrectly packaged.
     - Expand the **Data Files** folder.
     - Drag the **mwse** folder into the mod's root directory in MO2.
-- [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS: spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
-- [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord: takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+- [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
+Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
+- [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord: adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. 
+- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord  
+Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. 
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord: NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
+- [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
+NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r: allows you to generate a random name for you character upon character creation.
-- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21: provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-- [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius: prevents the player from resting unless they activate a bed.
-- [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot: allows you to pick up a blank sheet of paper without having to read it first.
-- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7: grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero: rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+- [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
+Allows you to generate a random name for you character upon character creation.
+- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
+Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
+- [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
+Prevents the player from resting unless they activate a bed.
+- [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot  
+Allows you to pick up a blank sheet of paper without having to read it first.
+- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack: modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord: overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
+- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
+Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Right click **Data Files** and click **Set data directory**.
   - Untick **Realistic_Repair_Optional.esp**. Click **OK**.
-- [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file) by Corsair83: adds additional forges and anvils to major cities and settlements that did not previously contain any.
-- [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file): fixes conflicts in Arrille's inventory.
-- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek: increases health upon level up as though endurance was at its current value for past levels.
-- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack: adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-- [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar: modifies critical strike coefficient depending on the weapon you use.
-- [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade: lets you open or close any book or scroll in the game.
+- [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file) by Corsair83  
+Adds additional forges and anvils to major cities and settlements that did not previously contain any.
+- [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file) by Sigourn  
+Addresses conflicts between Realistic Repair - Add-on and Patch for Purists.
+- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
+Increases health upon level up as though endurance was at its current value for past levels.
+- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+- [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
+Modifies critical strike coefficient depending on the weapon you use.
+- [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
+Lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
     - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
-- [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord: toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
-- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade: adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-- [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel: levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
+- [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
+Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
+- [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
+Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
 ### GAMEPLAY MWSE ABOT
 
