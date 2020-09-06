@@ -151,8 +151,9 @@ If you have installed this guide from beginning to end, these mods should alread
 - Apel's Rain Replacer v1.0
 - Arukinns Better Books and Scrolls v1.0
 - Ashmire Replacer v1.0
-- Better Waterfalls v1.1
 - Bitter Coast Scum Replacer v1.1
+- Vivec Palace Water Replacer v1.3
+- Better Waterfalls v1.1
 - Bloodmoon Hide Replacer v2.1
 - Buoyant Lord Vivec v1.0
 - Cave Drips v1.1.1
@@ -192,7 +193,6 @@ If you have installed this guide from beginning to end, these mods should alread
 - Transporter Lights v1.0
 - Unto Dust v1.1
 - Visually Filled Soul Gems v1.0
-- Vivec Palace Water Replacer v1.3
 - Waterfalls Tweaks v1.0
 - Weapon Sheathing v1.6
 - Morrowind Optimization Patch v9.1b - Weapon Sheathing Patch
