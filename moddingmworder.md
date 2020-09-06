@@ -32,27 +32,27 @@ There are a number of asset conflicts present in Modding Morrowind itself that r
 - correctUV Diverse Ore Veins and Graphic Herbalism MWSE (**Visuals** and **Gameplay MWSE**)
   - Correct UV Ore Replacer
   - Graphic Herbalism MWSE v1.04
-  - GH Patches and Replacers v1.02
+  - GH Patches and Replacers v1.02: patches both mods.
 - Facelift (**Visuals**)
   - Facelift v0.10
-  - Facelift Update v0.10.3
+  - Facelift Update v0.10.3: update for Facelift.
 - Glow in the Dahrk and Project Atlas (**Visuals** and **Mending Morrowind**)
   - Glow in the Dahrk v2.9.1
-  - Project Atlas v0.6.5 - Glow in the Dahrk Patch
+  - Project Atlas v0.6.5 - Glow in the Dahrk Patch: patches Glow in the Dahrk with Project Atlas' optimized meshes.
 - Melchior's Magnificent Manuscripts and Switchable Scriptures (**Visuals** and **Gameplay MWSE**)
   - Melchior's Magnificent Manuscripts v1.2.1
-  - Switchable Scriptures v1.0
+  - Switchable Scriptures v1.0: patches Melchior's Magnificent Manuscripts.
 - Weapon Sheathing and Morrowind Optimization Patch (**Visuals** and **Mending Morrowind**)
   - Weapon Sheathing v1.6
-  - Weapon Sheathing - Bow Position Edit v1.0
-  - Morrowind Optimization Patch v9.1b - Weapon Sheathing Patch
+  - Weapon Sheathing - Bow Position Edit v1.0: patches Weapon Sheathing's bow meshes.
+  - Morrowind Optimization Patch v9.1b - Weapon Sheathing Patch: patches Weapon Sheathing with MOP's optimized meshes.
 - Seven Graces Shrines Enhanced (**Overhauls**)
   - Seven Graces Shrines Enhanced v1.1
-  - Seven Graces Shrines Enhanced - No Script Edits v1.1
-  - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
+  - Seven Graces Shrines Enhanced - No Script Edits v1.1: replaces the .esp in Seven Graces Shrines Enhanced.
+  - Seven Graces Shrines Enhanced - Simple Golden Gold Patch: replaces the gold texture in Seven Graces Shrines Enhanced.
 - abot's mods (**Gameplay MWSE abot**)
   - All or any combination of abot's mods.
-  - MWSEabotlib v1.01
+  - MWSEabotlib v1.01: replaces the abotlib found in any of the above mods.
 
 If you have installed this guide from beginning to end, these mods should already be installed in the correct order. Below, you will find a complete list of all mods present in the guide, installed as if you had followed the guide from beginning to end.
 
