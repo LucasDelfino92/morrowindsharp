@@ -29,8 +29,6 @@ This will make it easier for me to update (no need to upload files and update li
 
 ## July 2nd
 
-- **Mending Morrowind**
-  - Removed [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (Morrowind Optimization Patch covers nearly all of the mesh fixes).
 - **User interface**
   - Removed [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) (unnecessary with Essential Indicators).
   - Added [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267).
