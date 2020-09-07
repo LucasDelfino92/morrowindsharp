@@ -125,7 +125,7 @@ In addition, we have the usual changes.
 
 ## June 16th
 
-This is maintenance updated. Some more mods have been removed, others have been re-added upon feedback.
+This is a maintenance update. Some more mods have been removed, others have been re-added upon feedback.
 
 - **Internal logic**
   - Removed [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) (the Telvanni inn in Vivec should also allow renting rooms for free if you are Telvanni, plus inn prices are so meaningless even with economy mods that using an .esp isn't justified).
