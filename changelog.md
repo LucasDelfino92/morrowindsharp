@@ -150,9 +150,8 @@ The following mods were removed because I feel the official plugins are terrible
 
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file)
-- [**UMOPP v3.0.4 (Necrolesian's Official Plugins Integrated Compatible)**](https://www.mediafire.com/file/9fuw6xkv1mu1yk7/UMOPP_v3.0.4_%28Necrolesian%27s_Official_Plugins_Integrated_Compatible%29.zip/file)
-- [**Area Effect Arrows Integrated + UMOPP v3.0.4 Patch**](https://www.mediafire.com/file/2m6ckellmgskr9l/Area_Effect_Arrows_Integrated_+_UMOPP_v3.0.4_Patch.zip/file)
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730)
+- And additional compatibility patches between these mods.
 
 The following mods were removed because I feel the changes they make are so tiny it's not even worth it to install them. Often the player would not know something was ever wrong or that said mods were even necessary while playing the game, and what these mods would do is draw attention to that fact, prompting the player to install them.
 
