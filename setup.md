@@ -37,7 +37,7 @@ One thing many Morrowind players who bought their game through online stores suc
 
 Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [You can read about the official plugins here.](https://en.uesp.net/wiki/Morrowind:Plugins).
 
-My personal stance, and the one which this guide follows, is "don't bother with them". For all intents and purposes, they are amateur mods made under an official banner. Near all of them are mods I wouldn't personally recommend myself, with the possible exception being the bcsounds plugin. Thus, I recommend you remove the following plugins from your **Morrowind\Data Files** folder:
+My personal stance, and the one which this guide follows, is "don't bother with them". For all intents and purposes, they are amateur mods made under an official banner. Near all of them are mods I wouldn't personally recommend myself. Thus, I recommend you remove the following plugins from your **Morrowind\Data Files** folder:
 
 - adamantiumarmor.esp
 - AreaEffectArrows.esp
