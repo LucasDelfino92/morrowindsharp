@@ -57,8 +57,6 @@ Good luck!
 
 ## USER INTERFACE
 
-These mods expand on the readibility and functionality of Morrowind's user interface. They don't really alter how the game plays but how more useful the user interface is.
-
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
@@ -119,8 +117,6 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 ## CONTENT RESTORATION
 
-These mods restored content cut from the finished game. There's an emphasis on mod that took the shortest route to restore this cut content, and most importantly, on cut content that works well.
-
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11  
 Restores the function of catching blight disease while out in a blight storm.
 - [**Bloated Caves**](https://www.nexusmods.com/morrowind/mods/43141) by ManaUser  
@@ -153,8 +149,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
     - Lev Item **MU_Bloat_Random**
 
 ## INTERNAL LOGIC
-
-These mods increase the internal consistency of the game, taking into account aspects such as lore and dialogue.
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
 If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
@@ -207,8 +201,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Clean with TESTool and tes3cmd.
 
 ## VISUALS
-
-These mods aim to improve specific visual aspects of the game I personally found deficient, especially when the game is paired alongside MGE XE in the case of water sources. This section also includes mods to make interiors and nights darker, and add groundcover to most of Morrowind's regions. Other little mods included tweak certain silly-looking meshes, or add neat visual effects to some of the game's statics.
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
@@ -450,8 +442,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## AUDIO
 
-These mods don't so much replace existent sound effects, but like the Visuals section, they seek to improve on the game by adding neat sound effects where there previously weren't any. Overall, most of these tend to improve immersion.
-
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny  
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
   - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
@@ -489,8 +479,6 @@ Makes Miner class NPCs cough.
 Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
-
-These mods make changes to many different game locations with the intention to make them stand out or feel more adequate to what they are supposed to be. These are not your average "clutter" mods, but mods which thoughtfully improve the locations they overhaul.
 
 - [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
 Interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
@@ -549,8 +537,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## GAMEPLAY
 
-These mods tweak certain annoying or deficient aspects of the game's gameplay. Some of these are quality of life improvements, other simply make sense.
-
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
 Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar  
@@ -596,8 +582,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Clean with tes3cmd.
 
 ### GAMEPLAY MWSE
-
-These gameplay mods require MWSE to work properly. Thanks to the power of MWSE, many of these mods add neat new mechanics into the game, some present in older Elder Scrolls games, others entirely new. In many cases, these mods can be configured in-game to suit your particular tastes.
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -707,8 +691,6 @@ Up-to-date **abot\lib.lua**, shared by all the mods in this section.
 
 ## GAME BALANCE
 
-These gameplay mods seek to improve deficient aspects of the game's balance, such as the overabundace of overpowered equipment, how easy it is to get it, or the rebalance of the game's official expansions which were originally designed with an end-game character in mind.
-
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
@@ -728,8 +710,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ### GAME BALANCE MWSE
 
-These gameplay mods require MWSE to work properly. Most importantly, they deal with particularly broken gameplay mechanics.
-
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
@@ -740,8 +720,6 @@ Dynamically adjusts how much merchants will pay for items. Expensive items will 
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 
 ## DIALOGUE
-
-For a dialogue mod to be included in this list, it must address a considerable problem with the game's existing dialogue. As it is, the most noticeable issues with Morrowind's dialogue (that aren't addressed by the **Internal logic** module) are minor annoyances or issues with its repetition.
 
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
