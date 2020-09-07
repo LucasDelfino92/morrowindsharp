@@ -4,9 +4,16 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## August 6th
+
+Minor maintenance update. I've made both main guides more readable by listing each mod's description under its mod name instead of right next to it. I've also simplified the Modding Morrowind page that details conflicts, mod order and load order. The important information should be more obvious now, and the page is overall less cluttered (if I say a mod needs to be loaded before another, no need to list the second mod afterwards and explain it has to be loaded later: it's obvious).
+
+- **Visuals**
+  - Removed the hotfix patch for **Facelift**, as the author has addressed the bug in the mod's Update file.
+
 ## July 19th
 
-This maintenance update replaced the traditional modorder and loadorder .txt files with two new pages for **Mending Morrowind** and **Modding Morrowind**. For Mending Morrowind, a page lists its mod order and load order. For Moddoing Morrowind, a page explains its asset conflicts between mods, its complete mod order, its plugin conflicts between mods, and its complete load order.
+This maintenance update replaced the traditional modorder and loadorder .txt files with two new pages for **Mending Morrowind** and **Modding Morrowind**. For Mending Morrowind, a page lists its mod order and load order. For Modding Morrowind, a page explains its asset conflicts between mods, its complete mod order, its plugin conflicts between mods, and its complete load order.
 
 This will make it easier for me to update (no need to upload files and update links), as well as hopefully make it easier on the player, who will no longer have to make sure their mod and load order match 1:1 the ones provided, since now they will know what the specific conflicts and thus important load orders are meant to be followed.
 
