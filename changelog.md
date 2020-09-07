@@ -220,7 +220,6 @@ The following mods were removed strictly out of personal taste. I don't discard 
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
 - [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724)
-- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
