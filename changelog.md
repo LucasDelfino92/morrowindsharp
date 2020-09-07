@@ -86,8 +86,8 @@ This will make it easier for me to update (no need to upload files and update li
 
 - **Gameplay**
   - Removed [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) (there are other cases of equipment having the Fortify Magicka enchantment, seems pointless to tackle it in just one case).
-  - **Gameplay MWSE**
-    - Added [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file).
+- **Gameplay MWSE**
+  - Added [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file).
 - **Game balance**
   - Moved **One of a Kind - Daedric Weapons Armor and Shields** back to this section.
 
