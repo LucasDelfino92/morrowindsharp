@@ -77,16 +77,12 @@ The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits
 
 ## UNCOMPRESSED VANILLA TEXTURES
 
-These textures must be installed before any other mod that replaces them, such as bug fixing mods.
-
 - [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks  
 Replaces most vanilla textures with textures shipped in the GOG release of Morrowind that have less compression artifacts and which the game doesn't use by default.
   - MO2 will tell you there's no game data on top level.
   - To fix this, right click on **Data Files** and click **Set data directory**. Click **OK**.
 
 ## BUG FIXES AND OPTIMIZATION
-
-These are the major bugfixing and optimization mods for Morrowind. No player should play Morrowind without these.
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The "official" unofficial fan patch for Morrowind, simply put the best out there. Should you decide to follow a guide that doesn't include this mod, get the hell out of there.
@@ -109,8 +105,6 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 ## MINOR BUG FIXES
 
-These are minor bug fixes that most players won't notice. They are not essential, but it's nice to have them.
-
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
   - Only install the **Glowing Flames** main file. The update files are not necessary.
@@ -121,8 +115,6 @@ Keeps the girls in Desele's House of Earthly Delights from dancing off the stage
   - Hide/deactive **NoMoreStageDiving_TalkativeGirls.esp**.
 
 ## MWSE BUG FIXES
-
-These are bug fixes and quality of life improvements that require MWSE to work appropiately.
 
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
