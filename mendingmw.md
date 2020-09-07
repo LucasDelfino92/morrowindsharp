@@ -138,7 +138,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   - Also install the **Wood Fix** update file.
   - Also install [**this hotfix**](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file), which will fix a bug with one of the ashlander hairstyles.
 
-> If you see white textures in Velothi buildings (such as the Temples) after installing **01 Atlas Textures**, [**install this downscaled patch**](https://www.mediafire.com/file/6kvf9k2lehy8yhb/Intelligent_Textures_v2.1_-_Downscaled_Velothi_Atlas_Patch.zip/file) on top of Intelligent Textures. White textures can happen with less than ideal GPUs since the Atlas textures are already bigger than most textures in Morrowind, and the Intelligent Textures patch exacerbates their dimension far beyond the norm.
+If you see white textures in Velothi buildings (such as the Temples) after installing **01 Atlas Textures**, [**install this downscaled patch**](https://www.mediafire.com/file/6kvf9k2lehy8yhb/Intelligent_Textures_v2.1_-_Downscaled_Velothi_Atlas_Patch.zip/file) on top of Intelligent Textures. White textures can happen with less than ideal GPUs since the Atlas textures are already bigger than most textures in Morrowind, and the Intelligent Textures patch exacerbates their dimension far beyond the norm.
 
 ## FINISHING TOUCHES
 
