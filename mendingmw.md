@@ -87,9 +87,9 @@ Replaces most vanilla textures with textures shipped in the GOG release of Morro
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The "official" unofficial fan patch for Morrowind, simply put the best out there. Should you decide to follow a guide that doesn't include this mod, get the hell out of there.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
-Fixes UV mapping on rocks and stones.
-  - MO2 will tell you there's no game data on top level.
-  - To fix this, right click on **Data Files** and click **Set data directory**. Click **OK**.
+Fixes UV mapping on rocks and stones.  
+>MO2 will tell you there's no game data on top level.  
+>To fix this, right click on **Data Files** and click **Set data directory**. Click **OK**.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
   - MO2 will install the mod as a BAIN package. Tick the following options and click **OK**:
