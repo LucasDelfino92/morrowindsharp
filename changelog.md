@@ -9,14 +9,14 @@
 Minor maintenance update.
 
 **Content restoration**
-- Removed the TESAME instructions for **Bloated Caves.esp**. The edits I would previously have users remove lowered the vanilla chance of the bloatspores having a Bloat ingredient from 100% to 75%.
+- Removed the TESAME instructions for **Bloated Caves.esp** (the previously deleted edits intentionally reduced the spawn rate of the Bloat ingredient from 100% to 75%).
   
 ## August 6th
 
 Minor maintenance update. I've made both main guides more readable by listing each mod's description under its mod name instead of right next to it. I've also simplified the Modding Morrowind page that details conflicts, mod order and load order. The important information should be more obvious now, and the page is overall less cluttered (if I say a mod needs to be loaded before another, no need to list the second mod afterwards and explain it has to be loaded later: it's obvious).
 
 **Visuals**
-- Removed the hotfix patch for **Facelift**, as the author has addressed the bug in the mod's Update file.
+- Removed the hotfix patch for **Facelift** (no longer necessariy with the v0.10.3 update).
 
 ## July 19th
 
@@ -54,7 +54,7 @@ This will make it easier for me to update (no need to upload files and update li
 - Added [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
 
 **Game balance**
-- Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (between Realistic Repair's damaged loot and Harder Barter's nerfing to sell prices, this mod's biggest impact is that it makes Daedric weapons a total bitch to find).
+- Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (Realistic Repair's damaged loot and Harder Barter already nerf the value of Daedric equipment).
 
 ## June 21st
 
