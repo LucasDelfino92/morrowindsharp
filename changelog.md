@@ -10,7 +10,10 @@ Minor maintenance update.
 
 **Content restoration**
 - Removed the TESAME instructions for **Bloated Caves.esp** (the previously deleted edits intentionally reduced the spawn rate of the Bloat ingredient from 100% to 75%).
-  
+
+**Changelog page**
+- Reformatted to better explain why the mods were removed.
+
 ## August 6th
 
 Minor maintenance update. I've made both main guides more readable by listing each mod's description under its mod name instead of right next to it. I've also simplified the Modding Morrowind page that details conflicts, mod order and load order. The important information should be more obvious now, and the page is overall less cluttered (if I say a mod needs to be loaded before another, no need to list the second mod afterwards and explain it has to be loaded later: it's obvious).
