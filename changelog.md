@@ -8,15 +8,15 @@
 
 Minor maintenance update.
 
-- **Content restoration**
-  - Removed the TESAME instructions for **Bloated Caves.esp**. The edits I would previously have users remove lowered the vanilla chance of the bloatspores having a Bloat ingredient from 100% to 75%.
+**Content restoration**
+- Removed the TESAME instructions for **Bloated Caves.esp**. The edits I would previously have users remove lowered the vanilla chance of the bloatspores having a Bloat ingredient from 100% to 75%.
   
 ## August 6th
 
 Minor maintenance update. I've made both main guides more readable by listing each mod's description under its mod name instead of right next to it. I've also simplified the Modding Morrowind page that details conflicts, mod order and load order. The important information should be more obvious now, and the page is overall less cluttered (if I say a mod needs to be loaded before another, no need to list the second mod afterwards and explain it has to be loaded later: it's obvious).
 
-- **Visuals**
-  - Removed the hotfix patch for **Facelift**, as the author has addressed the bug in the mod's Update file.
+**Visuals**
+- Removed the hotfix patch for **Facelift**, as the author has addressed the bug in the mod's Update file.
 
 ## July 19th
 
@@ -24,33 +24,37 @@ This maintenance update replaced the traditional modorder and loadorder .txt fil
 
 This will make it easier for me to update (no need to upload files and update links), as well as hopefully make it easier on the player, who will no longer have to make sure their mod and load order match 1:1 the ones provided, since now they will know what the specific conflicts and thus important load orders are meant to be followed.
 
-- **Mending Morrowind**
-  - Re-added [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (fixes some bugs regarding flames not covered by Morrowind Optimization Patch).
+**Mending Morrowind**
+- Re-added [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (fixes some bugs regarding flames not covered by Morrowind Optimization Patch).
   
 ## July 5th
 
-- **Game balance**
-  - Replaced **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready edited plugin.
-- **Manual conflict resolution**
-  - Removed instructions for **Morrowind Anti-Cheese**. Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
+**Game balance**
+- Replaced **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready edited plugin.
+
+**Manual conflict resolution**
+- Removed instructions for **Morrowind Anti-Cheese**. Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
 
 ## July 2nd
 
-- **User interface**
-  - Removed [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) (unnecessary with Essential Indicators).
-  - Added [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267).
-  - Added [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458).
-- **Visuals**
-  - Added [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?).
-- **Gameplay MWSE**
-  - Added [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293).
+**User interface**
+- Removed [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) (unnecessary with Essential Indicators).
+- Added [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267).
+- Added [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458).
+
+**Visuals**
+- Added [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?).
+
+**Gameplay MWSE**
+- Added [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293).
 
 ## June 25th
 
-- **Visuals**
-  - Added [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
-- **Game balance**
-  - Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (between Realistic Repair's damaged loot and Harder Barter's nerfing to sell prices, this mod's biggest impact is that it makes Daedric weapons a total bitch to find).
+**Visuals**
+- Added [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
+
+**Game balance**
+- Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (between Realistic Repair's damaged loot and Harder Barter's nerfing to sell prices, this mod's biggest impact is that it makes Daedric weapons a total bitch to find).
 
 ## June 21st
 
