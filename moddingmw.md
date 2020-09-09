@@ -144,9 +144,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - **Bloated Caves.esp**
   - Clean with TESTool and tes3cmd.
-  - Delete the following records in TESAME:
-    - Container **cavern_spore00**
-    - Lev Item **MU_Bloat_Random**
 
 ## INTERNAL LOGIC
 
