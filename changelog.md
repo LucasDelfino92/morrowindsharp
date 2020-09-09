@@ -58,94 +58,110 @@ This will make it easier for me to update (no need to upload files and update li
 
 ## June 21st
 
-- **User interface**
-  - Added [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)
-  - Added [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)
-  - Added [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)
-  - Added [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)
-- **Internal logic**
-  - Added [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)
-  - Moved **Religions Elaborated** to this section.
-  - Moved **Silence** to this section.
-  - Moved **Temples With Shrines** to this section.
-- **Audio**
-  - Moved **Sheep-no-More** to this section.
-- **Overhauls**
-  - Re-added [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
-  - Added [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981)
-- **Gameplay**
-  - Moved **Divayth Fyr Puzzle** Fixed to this section.
-- **Gameplay MWSE**
-  - Added [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)
-  - Added [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)
-- **Dialogue**
-  - Moved **Greet Distance Reducer** to this section.
-  - Moved **Outfit Greetings Tweaked** to this section.
+**User interface**
+- Added [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)
+- Added [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)
+- Added [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)
+- Added [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)
+
+**Internal logic**
+- Added [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)
+- Moved **Religions Elaborated** to this section.
+- Moved **Silence** to this section.
+- Moved **Temples With Shrines** to this section.
+
+**Audio**
+- Moved **Sheep-no-More** to this section.
+
+**Overhauls**
+- Re-added [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
+- Added [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981)
+
+**Gameplay**
+- Moved **Divayth Fyr Puzzle** Fixed to this section.
+
+**Gameplay MWSE**
+- Added [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)
+- Added [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)
+
+**Dialogue**
+- Moved **Greet Distance Reducer** to this section.
+- Moved **Outfit Greetings Tweaked** to this section.
 
 ## June 20th
 
-- **Internal logic**
-  - Removed [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) (there are many dialogue inconsistencies like this regarding dead NPCs in the vanilla game).
-  - Removed [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) (there are many dialogue inconsistencies regarding your character's gender in the vanilla game).
-  - Removed [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) (see above).
-  - Removed [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (it's just one mesh, tweaked not even because it looks stupid).
-  - Removed [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) (there are many inconsistencies regarding the abilities of artifacts in the game).
+**Internal logic**
+- Removed [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) (there are many dialogue inconsistencies like this regarding dead NPCs in the vanilla game).
+- Removed [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778) (there are many dialogue inconsistencies regarding your character's gender in the vanilla game).
+- Removed [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) (see above).
+- Removed [**Lore Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (it's just one mesh, tweaked not even because it looks stupid).
+- Removed [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294/) (there are many inconsistencies regarding the abilities of artifacts in the game).
 
 ## June 19th
 
-- **Gameplay**
-  - Removed [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) (there are other cases of equipment having the Fortify Magicka enchantment, seems pointless to tackle it in just one case).
-- **Gameplay MWSE**
-  - Added [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file).
-- **Game balance**
-  - Moved **One of a Kind - Daedric Weapons Armor and Shields** back to this section.
+**Gameplay**
+- Removed [**Aesliip's Ring - Fortify Maximum Magicka**](https://www.nexusmods.com/morrowind/mods/45744) (there are other cases of equipment having the Fortify Magicka enchantment, seems pointless to tackle it in just one case).
+
+**Gameplay MWSE**
+- Added [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file).
+
+**Game balance**
+- Moved **One of a Kind - Daedric Weapons Armor and Shields** back to this section.
 
 ## June 18th
 
 This was a massive update regarding the formatting of the **Mending Morrowind** and **Tools** section. With the changes done, I hope people will have a far easier time setting up Morrowind in the future. The most important changes have been redistributing the contents of this sections among three pages, with a new **Setup** page that contains all important and necessary steps before installing the Morrowind Code Patch and all other Mending Morrowind mods. Since it's easier for me to explain what each section explains now instead of listing what changes were made to each section, that's what I'll do right now.
 
-- **Setup**
-  - Explains how to install the game and what to do about the official plugins.
-  - Explains what tools to install.
-  - Explains how to install Mod Organizer 2 and how to set up the installed tools through Mod Organizer 2.
-  - Explains how to configure MGE XE.
-- **Mending Morrowind**
-  - Guide for patching Morrowind. Covers the Morrowind Code Patch, installation of fixes, and a general section at the bottom for conflict solving, synchronizing mod masters, and running MGE XE'S Distant Land.
-- **Modding Morrowind**
-  - Guide for modding Morrowind extensively. Covers installation of mods, what plugins need to be cleaned at the end of each section, and a general section at the bottom for conflict solving, synchronizing mod masters, running MGE XE's Distant Land, and in-game configuration of mods.
-- **Tools**
-  - Addendum guide for Modding Morrowind. Covers the use of TESTool, tes3cmd and TESAME for cleaning plugins, the use of Wrye Mash for updating and repairing saves, and the use of TES3View to check for conflicts.
+**Setup**
+- Explains how to install the game and what to do about the official plugins.
+- Explains what tools to install.
+- Explains how to install Mod Organizer 2 and how to set up the installed tools through Mod Organizer 2.
+- Explains how to configure MGE XE.
+
+**Mending Morrowind**
+- Guide for patching Morrowind. Covers the Morrowind Code Patch, installation of fixes, and a general section at the bottom for conflict solving, synchronizing mod masters, and running MGE XE'S Distant Land.
+
+**Modding Morrowind**
+- Guide for modding Morrowind extensively. Covers installation of mods, what plugins need to be cleaned at the end of each section, and a general section at the bottom for conflict solving, synchronizing mod masters, running MGE XE's Distant Land, and in-game configuration of mods.
+
+**Tools**
+- Addendum guide for Modding Morrowind. Covers the use of TESTool, tes3cmd and TESAME for cleaning plugins, the use of Wrye Mash for updating and repairing saves, and the use of TES3View to check for conflicts.
 
 Because I've reinstalled Morrowind from scratch, this has also given me the opportunity to clarify the installation instructions of *many* mods (mostly those that were improperly packaged). The vast majority were already covered in the previous release, but now I've gone ahead and explained how to solve these packaging issues from Mod Organizer 2 itself.
 
 In addition, we have the usual changes.
 
-- **Internal logic**
-  - Removed [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) (not really an oversight, it was a conscious design decision from Bethesda).
-- **Visuals**
-  - Removed [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) (I felt like it stood out too much from the vanilla game given its unique glow maps, plus it made other mods unnecessarily complicated to install).
-- **Gameplay**
-  - Simplified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
-  - Moved the following mods to their own **abot's mods** section under **Gameplay**:
-    - **Smart Ammo**
-    - **Loading Doors Lock Tune**
-    - **Smart Map**
-    - **MWSEabotlib**
+**Internal logic**
+- Removed [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) (not really an oversight, it was a conscious design decision from Bethesda).
+
+**Visuals**
+- Removed [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?) (I felt like it stood out too much from the vanilla game given its unique glow maps, plus it made other mods unnecessarily complicated to install).
+
+**Gameplay**
+- Simplified **Graphic Herbalism - MWSE and OpenMW Edition** installation instructions.
+- Moved the following mods to their own **abot's mods** section under **Gameplay**:
+  - **Smart Ammo**
+  - **Loading Doors Lock Tune**
+  - **Smart Map**
+  - **MWSEabotlib**
 
 ## June 16th
 
 This is a maintenance update. Some more mods have been removed, others have been re-added upon feedback.
 
-- **Internal logic**
-  - Removed [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) (the Telvanni inn in Vivec should also allow renting rooms for free if you are Telvanni, plus inn prices are so meaningless even with economy mods that using an .esp isn't justified).
-- **Visuals**
-  - Removed [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) (it's just *one* weapon and it's called a "fang" because it uses a fang, no need to make the weapon look like one literally).
-  - Removed [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) (adding glow maps to just a few creatures that don't even emit light in the vanilla game feels arbitrary).
-  - Re-added [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (it's a very well done mod and adds a lot to the Molag Amur region).
-- **Overhauls**
-  - Re-added [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) (it's a very vanilla-friendly overhaul that makes the House of Earthly Delights even more special).
-- **Gameplay**
-  - Re-added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) (it has some important quality of life features that are better done than other mods that attempt the same).
+**Internal logic**
+- Removed [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) (the Telvanni inn in Vivec should also allow renting rooms for free if you are Telvanni, plus inn prices are so meaningless even with economy mods that using an .esp isn't justified).
+
+**Visuals**
+- Removed [**Fang-Like Fang of Haynekhtnamet**](https://www.nexusmods.com/morrowind/mods/47505) (it's just *one* weapon and it's called a "fang" because it uses a fang, no need to make the weapon look like one literally).
+- Removed [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291/) (adding glow maps to just a few creatures that don't even emit light in the vanilla game feels arbitrary).
+- Re-added [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (it's a very well done mod and adds a lot to the Molag Amur region).
+
+**Overhauls**
+- Re-added [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) (it's a very vanilla-friendly overhaul that makes the House of Earthly Delights even more special).
+
+**Gameplay**
+- Re-added [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) (it has some important quality of life features that are better done than other mods that attempt the same).
 
 ## June 13th
 
