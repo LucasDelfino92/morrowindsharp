@@ -234,25 +234,27 @@ These mods were removed because they added mechanics didn't really fit in with t
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?)
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041)
 
-These mods were removed because they take too many liberties at what they do or because they modify quests.
+The restored content mods that were removed didn't actually restore content. Instead, much like the What Thieves Guild, they were an attempt to make the world more cohesive by adding content (be it towns or NPCs) mentioned in-game but not present in-game. What Thieves Guild, on the other hand, is meant to address an immersion breaking issue regarding Thieves Guild dialogue which I've been told is actually not an issue and very much intended by Bethesda. Finally, Settled Jiub warrants an special mention: it was meant to expand on Jiub's character, but since it is entirely original content I decided to remove it.
 
 **Content restoration**
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
 - [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?)
 
 **Internal logic**
+- [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786)
+- [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577)
 - [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728)
 
 **Visuals**
 - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?)
 
-**Quests and quest tweaks**
+The Quests section was removed altogether. It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options, changing its rewards, or adding more flavor to it, is out of the question. Neither it is my intention to add content in the way of new quests. Last but not least, some mods addressed some annoying aspects of the game: these were removed too, because even though they may be annoying, they were meant to reinforce roleplaying aspects of it (Imperial Legion members not talking to you if you didn't have your uniform; faction NPCs not giving you quests if you are already the head of the faction).
+
 - [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180)
 - [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550)
 - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?)
 - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?)
-- [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786)
 - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752)
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
 - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870)
@@ -267,12 +269,11 @@ These mods were removed because they take too many liberties at what they do or 
 - [**Quests for Faction Leaders**](https://www.nexusmods.com/morrowind/mods/47670)
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
 - [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340)
-- [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577)
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
 
-The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future if I find myself missing them.
+The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future.
 
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
