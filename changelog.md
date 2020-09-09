@@ -191,19 +191,14 @@ These mods were removed because they have been replaced.
 
 These mods were removed because they make very small changes that most players will easily overlook, even after installing the mod. This is because they make very specific changes.
 
-**Internal logic**
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322)
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121)
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324)
 - [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
 - [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)
-
-**Visuals**
 - [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?)
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
-
-**Gameplay**
 - [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file)
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600)
 - [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059)
@@ -217,11 +212,6 @@ These mods were removed because they made changes which I felt weren't in-line w
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) and [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068)
-
-**Audio**
-- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
-
-**Overhauls**
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729)
@@ -230,25 +220,19 @@ These mods were removed because they made changes which I felt weren't in-line w
 
 These mods were removed because they added mechanics didn't really fit in with the rest of the new mechanics (usually quality of life improvements or mechanics brought in back from Arena and/or Daggerfall). In order words, it is to prevent the guide from becoming a stew of cool gameplay mods.
 
-**Gameplay**
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845)
 - [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674)
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?)
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041)
 
-The restored content mods that were removed didn't actually restore content. Instead, much like the What Thieves Guild, they were an attempt to make the world more cohesive by adding content (be it towns or NPCs) mentioned in-game but not present in-game. What Thieves Guild, on the other hand, is meant to address an immersion breaking issue regarding Thieves Guild dialogue which I've been told is actually not an issue and very much intended by Bethesda. Finally, Settled Jiub warrants an special mention: it was meant to expand on Jiub's character, but since it is entirely original content I decided to remove it.
+The restored content mods that were removed didn't actually restore content. Instead, much like the What Thieves Guild, they were an attempt to make the world more cohesive by adding content (be it towns or NPCs) mentioned in-game but not present in-game. What Thieves Guild, on the other hand, is meant to address an immersion breaking issue regarding Thieves Guild dialogue which I've been told is actually not an issue and very much intended by Bethesda. Old Dwemer Books is a nice mod if you like that sort of thing, but I felt the content of the books was better left to the imagination. Finally, Settled Jiub warrants an special mention: it was meant to expand on Jiub's character, but since it is entirely original content I decided to remove it.
 
-**Content restoration**
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
 - [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?)
-
-**Internal logic**
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786)
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577)
 - [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728)
-
-**Visuals**
 - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?)
 
 The Quests section was removed altogether. It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options, changing its rewards, or adding more flavor to it, is out of the question. Neither it is my intention to add content in the way of new quests. Last but not least, some mods addressed some annoying aspects of the game: these were removed too, because even though they may be annoying, they were meant to reinforce roleplaying aspects of it (Imperial Legion members not talking to you if you didn't have your uniform; faction NPCs not giving you quests if you are already the head of the faction).
@@ -279,4 +263,5 @@ The Quests section was removed altogether. It is not the intention of this guide
 The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future.
 
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
