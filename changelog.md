@@ -165,7 +165,15 @@ This is a maintenance update. Some more mods have been removed, others have been
 
 ## June 13th
 
-A vast amount of mods included in this guide tweaked minuscule aspects of the game that most players would probably not even notice. The mods that did tweak massive aspects of the game, however, had their own set of issues, more along the lines of the changes not really fitting into the vanilla game. I don't discard some of these mods making a return in the future, however. I'll offer general explanations as to why certain mods were removed.
+A vast amount of mods included in this guide were removed in this update. Broad explanations are given as to why, grouping the mods in different categories. What's important is that no mod was removed because it was *bad*, with the exception of the official plugins. It is up to you to continue using them or not. That said, your load order will be considerably beefier if you choose to keep using them.
+
+These mods were removed because the official plugins aren't worth the trouble to install them, patch them, and address incompatibilities.
+
+**Official plugins**
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)
+- [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file)
+- [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730)
+- Additional compatibility patches between these mods.
 
 These mods were removed because they have been replaced.
 
@@ -178,15 +186,7 @@ These mods were removed because they have been replaced.
 **Gameplay**
 - [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?) (re-replaced with **FMI - GraveDust**)
 
-These mods were removed because the official plugins aren't worth the trouble to install them, patch them, and address incompatibilities.
-
-**Official plugins**
-- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)
-- [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file)
-- [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730)
-- Additional compatibility patches between these mods.
-
-These mods were removed because they make very small changes that most players will easily overlook, even after installing the mod.
+These mods were removed because they make very small changes that most players will easily overlook, even after installing the mod. This is because they make very specific changes.
 
 **Internal logic**
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322)
