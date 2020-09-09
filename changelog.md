@@ -167,88 +167,110 @@ This is a maintenance update. Some more mods have been removed, others have been
 
 A vast amount of mods included in this guide tweaked minuscule aspects of the game that most players would probably not even notice. The mods that did tweak massive aspects of the game, however, had their own set of issues, more along the lines of the changes not really fitting into the vanilla game. I don't discard some of these mods making a return in the future, however. I'll offer general explanations as to why certain mods were removed.
 
-The following mods were removed because they were replaced or will be replaced by other mods.
+These mods were removed because they have been replaced.
 
+**Internal logic**
 - [**FMI - Unique Lore Friendly Cave Rats**](https://www.nexusmods.com/morrowind/mods/47193) (replaced with **Synthesis Series - Creatures and Diseases**)
+
+**Visuals**
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) (will be replaced with **Open Mournhold**)
+
+**Gameplay**
 - [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?) (re-replaced with **FMI - GraveDust**)
 
-The following mods were removed because I feel the official plugins are terrible and reimplementing them is pointless.
+These mods were removed because the official plugins aren't worth the trouble to install them, patch them, and address incompatibilities.
 
+**Official plugins**
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file)
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730)
 - Additional compatibility patches between these mods.
 
-The following mods were removed because I feel the changes they make are so tiny it's not even worth it to install them. Often the player would not know something was ever wrong or that said mods were even necessary while playing the game, and what these mods would do is draw attention to that fact, prompting the player to install them.
+These mods were removed because they make very small changes that most players will easily overlook, even after installing the mod.
 
+**Internal logic**
 - [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322)
 - [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121)
 - [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324)
 - [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
 - [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)
+
+**Visuals**
 - [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)
 - [**R-Zero's Iron Towershield**](https://www.nexusmods.com/morrowind/mods/44025?)
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
+
+**Gameplay**
 - [**Hortator and Nerevarine Titles**](https://www.mediafire.com/file/z5bcybwpas506iw/Hortator_and_Nerevarine_Titles_v1.0.zip/file)
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600)
 - [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059)
-- [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340)
-- [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180)
-- [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550)
-- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?)
-- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?)
-- [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 
-The following mods were removed because they made visual changes which I felt weren't in-line with the overall goal of the guide. Since the guide is about improving sensible visual aspects of the game, many of these felt out of place.
+These mods were removed because they made visual changes which I felt weren't in-line with the overall goal of the guide. Since the guide is about improving sensible visual aspects of the game, many of these felt out of place, and were only present because of subjective personal taste (as opposed to tackling a problem I felt needed to be addressed).
 
+**Visuals**
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245)
 - [**Bound Weapon Replacer**](https://www.nexusmods.com/morrowind/mods/41778) and [**Bound Weapon Replacer Fix**](https://www.nexusmods.com/morrowind/mods/46396)
+- [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724)
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) and [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068)
+
+**Overhauls**
+- [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
+- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729)
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527)
 - [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153)
 
-The following mods were removed because they added mechanics didn't really fit in with the rest of the new mechanics, which were usually quality of life improvements or mechanics brought in back from Arena and/or Daggerfall.
+These mods were removed because they added mechanics didn't really fit in with the rest of the new mechanics (usually quality of life improvements or mechanics brought in back from Arena and/or Daggerfall). In order words, it is to prevent the guide from becoming a stew of cool gameplay mods.
 
+**Gameplay**
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845)
 - [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674)
 - [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)
 - [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105?)
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041)
 
-The following mods were removed because I felt the degree of "original content" was far too high, especially when messing with NPCs and quests in the vanilla game. Some were removed because they weren't really "lore-friendly". Overall, quest tweaks and the removal of vanilla mechanics were entirely removed.
+These mods were removed because they take too many liberties at what they do or because they modify quests.
 
+**Content restoration**
 - [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
 - [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234?)
+
+**Internal logic**
 - [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728)
+
+**Visuals**
 - [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339?)
+
+**Quests and quest tweaks**
+- [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180)
+- [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550)
+- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?)
+- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
+- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?)
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786)
 - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752)
+- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
 - [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870)
 - [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671)
 - [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097)
+- [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)
 - [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/)
 - [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024)
 - [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/)
 - [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961)
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
 - [**Quests for Faction Leaders**](https://www.nexusmods.com/morrowind/mods/47670)
+- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
+- [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340)
 - [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577)
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
+- [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
 
 The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future if I find myself missing them.
 
 - [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
-- [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
-- [**Melchior's Mudcrab Merchant**](http://download.fliggerty.com/download-132-724)
-- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
-- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
-- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
-- [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
-- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
