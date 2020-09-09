@@ -172,7 +172,6 @@ A vast amount of mods included in this guide were removed in this update. Broad 
 
 These mods were removed because the official plugins aren't worth the trouble to install them, patch them, and address incompatibilities.
 
-**Official plugins**
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)
 - [**Necrolesian's Official Plugins Integrated**](https://www.mediafire.com/file/8jt6mxcqu7189z4/Necrolesian%27s_Official_Plugins_Integrated_v1.0.zip/file)
 - [**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730)
@@ -180,13 +179,8 @@ These mods were removed because the official plugins aren't worth the trouble to
 
 These mods were removed because they have been replaced.
 
-**Internal logic**
 - [**FMI - Unique Lore Friendly Cave Rats**](https://www.nexusmods.com/morrowind/mods/47193) (replaced with **Synthesis Series - Creatures and Diseases**)
-
-**Visuals**
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255/?) (will be replaced with **Open Mournhold**)
-
-**Gameplay**
 - [**Urnest Loot**](https://www.nexusmods.com/morrowind/mods/45616?) (re-replaced with **FMI - GraveDust**)
 
 These mods were removed because they make very small changes that most players will easily overlook, even after installing the mod. This is because they make very specific changes.
