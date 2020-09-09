@@ -205,7 +205,7 @@ These mods were removed because they make very small changes that most players w
 - [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600)
 - [**Passing Time While Reading - MWSE Lua version**](https://www.nexusmods.com/morrowind/mods/48059)
 
-These mods were removed because they made visual changes which I felt weren't in-line with the overall goal of the guide. Since the guide is about improving sensible visual aspects of the game, many of these felt out of place, and were only present because of subjective personal taste (as opposed to tackling a problem I felt needed to be addressed).
+These mods were removed because they made changes which I felt weren't in-line with the overall goal of the guide. Since the guide is about improving sensible visual aspects of the game, many of these felt out of place, and were only present because of subjective personal taste (as opposed to tackling a problem I felt needed to be addressed).
 
 **Visuals**
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245)
@@ -214,6 +214,9 @@ These mods were removed because they made visual changes which I felt weren't in
 - [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) and [**Snow Prince Armor Redux - Icons and Restored Helm Patch**](https://www.mediafire.com/file/85y9f6mzl5q1yni/Snow_Prince_Armor_Redux_-_Icons_and_Restored_Helm_Patch.zip/file)
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
 - [**Vanilla-Friendly Almalexia Replacer**](https://www.nexusmods.com/morrowind/mods/47068)
+
+**Audio**
+- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 
 **Overhauls**
 - [**Brevur of Balmora - Finally Some Good Statue Mod**](https://www.nexusmods.com/morrowind/mods/47557)
@@ -268,9 +271,8 @@ These mods were removed because they take too many liberties at what they do or 
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
+- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
 
 The following mods were removed strictly out of personal taste. I don't discard bringing them back in the future if I find myself missing them.
 
-- [**What is something that can be perceived with one of your senses of life - Something edgy related to death my brother**](https://www.nexusmods.com/morrowind/mods/47598)
-- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 - [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
