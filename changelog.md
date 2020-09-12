@@ -4,6 +4,13 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## August 12th
+
+Minor maintenance update.
+
+**Setup page**
+- Moved the Morrowind Code Patch section to this page.
+
 ## August 9th
 
 Minor maintenance update.
