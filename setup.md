@@ -6,8 +6,8 @@
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
   - [A note on the official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#a-note-on-the-official-plugins)
-- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
+- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [Setting up Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-mod-organizer-2)
   - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
@@ -48,6 +48,35 @@ My personal stance, and the one which this guide follows, is "don't bother with 
 - LeFemmArmor.esp
 - master_index.esp
 - Siege at Firemoth.esp
+
+## MORROWIND CODE PATCH
+
+The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2. It will be the first step in our journey to prepare Morrowind for whatever tools and mods we will install later.
+
+[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
+
+- Extract the contents of the file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
+- Now download the **MCP beta** update file from [**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
+- Extract the contents of the file to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
+- Execute the Morrowind Code Patch.exe.
+- The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [this handy Google Sheets document](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
+- Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder.
+
+The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
+
+- Launch Mod Organizer 2.
+- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
+- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
+  - **[Weather Rain]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
+  - **[Weather Thunderstorm]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
+  - **[Weather Snow]**
+  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
+  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
+- Click **Save** and close the window.
 
 ## TOOLS
 
@@ -98,35 +127,6 @@ This tool is used for repairing and updating saves, as well as updating the mast
 - In your **Morrowind root folder**, run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
-
-## MORROWIND CODE PATCH
-
-The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2.
-
-[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
-
-- Extract the contents of the file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
-- Now download the **MCP beta** update file from [**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
-- Extract the contents of the file to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
-- Execute the Morrowind Code Patch.exe.
-- The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [this handy Google Sheets document](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
-- Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder.
-
-The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
-
-- Launch Mod Organizer 2.
-- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
-- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
-  - **[Weather Rain]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
-  - **[Weather Thunderstorm]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
-  - **[Weather Snow]**
-  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
-  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
-- Click **Save** and close the window.
 
 ## MOD ORGANIZER 2
 
