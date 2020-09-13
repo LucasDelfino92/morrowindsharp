@@ -62,22 +62,6 @@ The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), 
 - The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [this handy Google Sheets document](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
 - Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder.
 
-The Morrowind Code Patch **Rain/snow collision** patch requires a few .ini edits to work properly.
-
-- Launch Mod Organizer 2.
-- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
-- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
-  - **[Weather Rain]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
-  - **[Weather Thunderstorm]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
-  - **[Weather Snow]**
-  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
-  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
-- Click **Save** and close the window.
-
 ## TOOLS
 
 Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
@@ -169,6 +153,24 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 - Bloodmoon.esm
 
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
+
+### ADJUSTING THE .INI
+
+Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow collision**, requires a few .ini edits to work properly.
+
+- Launch Mod Organizer 2.
+- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
+- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
+  - **[Weather Rain]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
+  - **[Weather Thunderstorm]**
+  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
+  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
+  - **[Weather Snow]**
+  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
+  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
+- Click **Save** and close the window.
 
 ### SETTING UP TOOLS IN MOD ORGANIZER 2
 
