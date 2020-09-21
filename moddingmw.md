@@ -650,9 +650,9 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
   - Right click **Data Files** and click **Set data directory**.
   - Untick **Realistic_Repair_Optional.esp**. Click **OK**.
-- [**Corsair83's Realistic Repair - Add-on**](http://www.mediafire.com/file/p1dhscj4t966b83/Corsair83%2527s_Realistic_Repair_-_Add-on_v1.1.zip/file) by Corsair83  
-Adds additional forges and anvils to major cities and settlements that did not previously contain any.
-- [**Corsair83's Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file) by Sigourn  
+- [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83  
+A simple rework and extension to the optional mod included in Merlord's Realistic Repair, which aims to add new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
+- [**Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file) by Sigourn  
 Addresses conflicts between Realistic Repair - Add-on and Patch for Purists.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
 Increases health upon level up as though endurance was at its current value for past levels.
