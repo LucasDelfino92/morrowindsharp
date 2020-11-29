@@ -359,10 +359,6 @@ Soul gems in the world, in the player's inventory, and that the player interacts
     - Expand the **morrowind-mods-master** folder. 
     - Right click **Sounds of Souls** and click **Set data directory**.
     - Rename the mod to **Sounds of Souls**. Click **OK**.
-- [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero  
-Makes Miner class NPCs cough.
-- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
-Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## GAMEPLAY
 
