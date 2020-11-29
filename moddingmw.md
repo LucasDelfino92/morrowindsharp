@@ -14,7 +14,6 @@
     - [Readable signposts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#readable-signposts)
     - [Groundcover](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#groundcover)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#audio)
-- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#overhauls)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay)
   - [Gameplay MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse)
   - [Gameplay MWSE abot](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse-abot)
