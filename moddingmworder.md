@@ -166,8 +166,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Shut the Fuck up Cliff Racers
 - Silent Assassins
 - Sounds of Souls
-- Tunnel Cough
-- Water Sounds
 
 ### GAMEPLAY
 
@@ -285,7 +283,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Haunted Barrows.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
-- Tunnel Cough.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
 - Divayth Fyr Puzzle Fixed.ESP
