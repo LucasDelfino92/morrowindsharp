@@ -17,7 +17,6 @@ That said, there are a number of mods present in **Modding Morrowind** that are 
 
 - **GH Patches and Replacers** needs to be loaded after both **Correct UV Ore Replacer** and **Graphic Herbalism MWSE**.
 - **Project Atlas - Glow in the Dahrk Patch** needs to be loaded after **Glow in the Dahrk**.
-- **Switchable Scriptures** needs to be loaded after both **Morrowind Optimization Patch** and **Melchior's Magnificent Manuscripts**.
 - **Weapon Sheathing - Bow Position Edit** and **Morrowind Optimization Patch - Weapon Sheathing Patch** need to be loaded after **Weapon Sheathing**.
 - **Seven Graces Shrines Enhanced - No Script Edits** and **Seven Graces Shrines Enhanced - Simple Golden Gold Patch** need to be loaded after **Seven Graces Shrines Enhanced**.
 - **MWSEabotlib** needs to be loaded after any of **abot**'s mods.
