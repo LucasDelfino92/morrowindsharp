@@ -1,7 +1,7 @@
 # MORROWIND IMPROVED
 
 Last updated: July 19th, 2020.  
-Last maintained: September 21st, 2020. 
+Last maintained: November 29th, 2020. 
 
 See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
