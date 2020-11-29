@@ -211,7 +211,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Smart Map
 - MWSEabotlib
 
-### GAME BALANCE
+### GAMEPLAY BALANCE
 
 - Tribunal Rebalance
 - Bloodmoon Rebalance
