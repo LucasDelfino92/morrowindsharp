@@ -51,6 +51,7 @@ With that said, the following changes have been made:
 - Visuals: removed **Spear-Staff Fix**
 - Visuals: removed **Assetless No Glow**
 - Visuals: removed **Shattered Stones - An Earthquake Mod**
+- Audio: removed **Distant Thunder**
 - Audio: removed **Heartthrum**
 - Audio: removed **Tunnel Cough**
 - Audio: removed **Water Sounds**
