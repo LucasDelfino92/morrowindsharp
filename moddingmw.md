@@ -391,6 +391,8 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
 Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
 Adds the ability to bash open locked doors and chests, as was an option in previous TES games.
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl  
@@ -481,8 +483,6 @@ These mods all belong to the same author, abot. They receive a dedicated section
 
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
 Automatically switches between the local and world map depending on user configuration.
 - [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
