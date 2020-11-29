@@ -74,6 +74,8 @@ With that said, the following changes have been made:
 - Dialogue: removed **Outfit Greetings Tweaked**
 - Removed Overhauls section.
 - Removed Dialogue section.
+- Merged the Gameplay MWSE section into the Gameplay section.
+- Merged the Game Balance MWSE section into the Game Balance section.
 - Moved **Cavern Of The Incarnate Overhaul - NPC Changes Only** into the Visuals section.
 - Moved **Yet Another Guard Diversity** into the Gameplay section.
 - Moved **Greet Distance Reducer** into the Audio section.
