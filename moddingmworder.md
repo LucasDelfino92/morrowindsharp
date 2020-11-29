@@ -32,7 +32,6 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
   - Load before **The Publicans.ESP**
   - Load before **Creeper the drummer.esp**
   - Load before **Waterfall Tweaks.esp**
-  - Load before **Clean Atmospheric Delights.ESP**
   - Load before **Yet Another Guard Diversity - Regular.ESP**
   - Load before **No-Frills Closed Molag Mar.esp**
   - Load before **No-Frills Open Vivec.esp**
@@ -44,11 +43,6 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
   - Load before **Morrowind Anti-Cheese.ESP**
 
 >This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
-
-- The Publicans.ESP
-  - Load before **Clean Atmospheric Delights.ESP**
-
->This will ensure The Publicans doesn't override Atmospheric Delights' lighting changes to Desele's House of Earthly Delights.
 
 - Yet Another Guard Diversity - Regular.ESP
   - Load before **No-Frills Closed Molag Mar.esp**
