@@ -115,7 +115,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Religions Elaborated - No Quest Changes
 - Synthesis Series - Creatures and Diseases
 - Temples with Shrines
-- The Dream is the Door
 
 ### VISUALS
 
@@ -143,6 +142,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Simple Golden Gold
 - Subtle Magic Glow
 - Subtle Smoke
+- The Dream is the Door
 - Transporter Lights
 - Unto Dust
 - Visually Filled Soul Gems
@@ -259,13 +259,13 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Religions Elaborated.ESP
 - Synthesis Series - Creatures and Diseases.ESP
 - Temples With Shrines.ESP
-- The Dream is the Door.ESP
 - COI - NPC Changes Only.ESP
 - Complete Armor Joints.esp
 - Flies.ESP
 - GITD_WL_RR_Interiors.esp
 - mistify.ESP
 - Nordic Chest Replacer.ESP
+- The Dream is the Door.ESP
 - Waterfalls Tweaks.esp
 - Well Diversified.ESP
 - NearVanillaRoadSigns.esp OR PB_SignpostsRetextured.esp
