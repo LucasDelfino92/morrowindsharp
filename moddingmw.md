@@ -306,7 +306,7 @@ Makes road signs legible. Uses higher quality vanilla-friendly textures.
 
 ### GROUNDCOVER
 
-The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
+The following mod require additional MGE XE configuration after installation to work as intended. Read the instructions on the mod's page carefully, as it is known to be notoriously difficult to install for people not used to detailed instructions.
 
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
