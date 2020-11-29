@@ -580,7 +580,6 @@ Lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
-    - **03 Melchior's Magnificent Manuscripts**: only if you installed **Melchior's Magnificent Manuscripts** earlier.
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
