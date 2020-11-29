@@ -77,9 +77,10 @@ With that said, the following changes have been made:
 - Removed Dialogue section.
 - Merged the Gameplay MWSE section into the Gameplay section.
 - Merged the Game Balance MWSE section into the Game Balance section.
-- Moved **Cavern Of The Incarnate Overhaul - NPC Changes Only** into the Visuals section.
-- Moved **Yet Another Guard Diversity** into the Gameplay section.
-- Moved **Greet Distance Reducer** into the Audio section.
+- Moved **The Dream is the Door** to the Visuals section.
+- Moved **Cavern Of The Incarnate Overhaul - NPC Changes Only** to the Visuals section.
+- Moved **Yet Another Guard Diversity** to the Gameplay section.
+- Moved **Greet Distance Reducer** to the Audio section.
 
 ## September 21st
 
