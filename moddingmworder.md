@@ -198,7 +198,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Magicka Based Skill Progression
 - Marksman Rebalanced
 - Merlord's Starting Equipment
-- Misc Mates
 - MWSE Character Creation Name Generator
 - MWSE Magicka Regen
 - No Rest Without Beds
