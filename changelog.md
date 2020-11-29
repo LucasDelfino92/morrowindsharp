@@ -13,6 +13,7 @@ I'll not go into detail as to the why each particular mod was removed. Rather, t
 - The mod only affects dialogue, either by tweaking responses, filtering dialogue, or adding original content.
 - The mod tries to address a non-issue. This is usually grounds for removal, particularly if the mod adds a ton of features to address this.
 - The mod barely has an effect on gameplay.
+- The mod has a considerably negative effect on performance. This is pretty much limited to No-Frills Open Vivec.
 - Last but not least: the mod is rarely, if ever, noticed under regular playing circumstances. If the mod, however, makes a massive impact the few times (or the ONLY time) it is noticed, then I'll recommend it.
 
 With that said, the following changes have been made:
