@@ -171,7 +171,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
-Adds supply chests, missing temple markers, healing services to healers, disallows you to be a member of both Tribunal Temple and Imperial Cult, adds roleplay options to *some* persuasion quests, and decentralizes the Imperial Cult quests away from Ebonheart.
+Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117  
 The player will not be able to speak to NPCs when silenced.
