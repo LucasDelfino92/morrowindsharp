@@ -126,43 +126,12 @@ Restores an unused Silt Strider animation and an unused sound.
 The player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ### CLEANING PLUGINS
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Bloated Caves.esp**
-  - Clean with TESTool and tes3cmd.
-
-## INTERNAL LOGIC
-
-- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
-If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
-- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid  
-Gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
-- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
-- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
-Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
-  - Only install the **No Quest Changes** optional file.
-- [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11  
-Edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
-- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
-Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Dubdilla Location Fix.esp**
-  - Clean with TESTool and tes3cmd.
-- **true corprus.esp**
   - Clean with TESTool and tes3cmd.
 
 ## VISUALS
@@ -346,16 +315,22 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 
 ## GAMEPLAY
 
+- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
 Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar  
 Adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
+If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
+- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid  
+Gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
 Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
   - MO2 will tell you there's no game data on top level. 
@@ -364,6 +339,8 @@ Increases the capacity of all containers (BM and TR included) by x100. Enough to
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
@@ -372,6 +349,8 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 Modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
 Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
 Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
@@ -437,6 +416,9 @@ Overhauls the repair mechanic, by making it so that repair hammers can only be u
 A simple rework and extension to the optional mod included in Merlord's Realistic Repair, which aims to add new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 - [**Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file) by Sigourn  
 Addresses conflicts between Realistic Repair - Add-on and Patch for Purists.
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
+  - Only install the **No Quest Changes** optional file.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
 Increases health upon level up as though endurance was at its current value for past levels.
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
@@ -459,8 +441,14 @@ Lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Core**
     - **01 Closed Book Icons**
+- [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11  
+Edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
+- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
@@ -472,7 +460,11 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
+- **true corprus.esp**
+  - Clean with TESTool and tes3cmd.
 - **Divayth Fyr Puzzle Fixed.ESP**
+  - Clean with TESTool and tes3cmd.
+- **Dubdilla Location Fix.esp**
   - Clean with TESTool and tes3cmd.
 - **Religions Elaborated.ESP**
   - Clean with tes3cmd.
