@@ -328,15 +328,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 ## AUDIO
 
-- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny  
-Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
-  - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
-  - In MO2, click on the Tools icon, which resembles a jigsaw puzzle, and select INI Editor.
-  - On the morrowind.ini that just opened, use CTRL+F to find the following entries and replace them with the data in bold:
-    - Thunder Sound ID 0=**Distant_Thunder_00**
-    - Thunder Sound ID 1=**Distant_Thunder_01**
-    - Thunder Sound ID 2=**Distant_Thunder_02**
-    - Thunder Sound ID 3=**Distant_Thunder_03**
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
