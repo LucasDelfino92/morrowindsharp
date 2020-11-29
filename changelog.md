@@ -52,6 +52,7 @@ With that said, the following changes have been made:
 - Visuals: removed **Assetless No Glow**
 - Visuals: removed **Shattered Stones - An Earthquake Mod**
 - Audio: removed **Distant Thunder**
+- Audio: removed **Haunted Barrows**
 - Audio: removed **Heartthrum**
 - Audio: removed **Tunnel Cough**
 - Audio: removed **Water Sounds**
