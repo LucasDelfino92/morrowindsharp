@@ -12,7 +12,7 @@
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#internal-logic)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#visuals)
     - [Readable signposts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#readable-signposts)
-    - [MGE XE mods](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#mge-xe-mods)
+    - [Groundcover](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#groundcover)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#audio)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#overhauls)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay)
@@ -65,8 +65,6 @@ High resolution replacer for the Daedric font used in scrolls.
     - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
-Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu. 
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
 Restores the class description tooltip to the class selection menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
@@ -91,8 +89,6 @@ Holding down a hotkey (default left Shift) while clicking an item in your invent
 Allows exiting any menu by right clicking (or whatever your menu key is mapped to).
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
-- [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril21  
-Provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - [**User Interface Expansion**](https://github.com/NullCascade/morrowind-mods/) by NullCascade  
 Development release of UI Expansion that expands on this mod’s features. 
   - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
@@ -193,9 +189,8 @@ Replaces rain with a more heavy rain look.
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
-Adds a simple script to make Vivec properly loop his idle animation.
-  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
+- [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
+Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
@@ -203,11 +198,6 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 Matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
   - This mod is incorrectly packaged.
     - Drag the **Meshes** folder into the mod's root directory in MO2.
-- [**Creeper the Drummer**](https://www.nexusmods.com/morrowind/mods/42451) by Faelian  
-Alters Creeper's animations making him randomly sit on the ground and play his drums.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **Creeper the drummer** folder. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Vanilla-friendly improvement of the head meshes and textures.
   - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
@@ -257,32 +247,9 @@ Adds falling spores particle effects to the iconic emperor parasol mushrooms.
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Only install the **Pete's Journal and Scroll** optional file.
   - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
-- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
-Makes blood more liquid and less smoke-like.
-  - This mod is incorrectly packaged. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **textures**. Click **OK**. 
-    - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
-- [**R-Zero's Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
-Replaces corprus meat models with animated, twitching ones ones.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Untick the **Textures** folder. Click **OK**.
-- [**Signs-Banners Tweak Edit**](https://www.mediafire.com/file/gsoqn3n2za8c5it/Signs-Banners_Tweak_Edit.zip/file) by ddfields and Sigourn  
-Corrects the UV Set TexCoord so that signs will display the same on both sides.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut  
 Turns the green coins into gold coins.
   - Only install the **Gold coins** main file.
-- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero  
-Retextures the Skeleton (white) and Metal Sparks (gold) textures.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
-Gives the Templar, Imperial, and Indoril Belts unique ground meshes and icons.
-- [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353/?) by hollaajith  
-Changes the position where Spears/Staffs are held. Now they are held closer the end.
-  - MO2 will tell you there's no game data on top level.
-    - Expand **Spear Only**.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif**. This mesh was incorrectly included into this option.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
@@ -338,7 +305,7 @@ Makes road signs legible. Uses vanilla background and resolution.
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
-### MGE XE MODS
+### GROUNDCOVER
 
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
 
@@ -348,18 +315,12 @@ Adds groundcover to almost all regions.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek  
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ### CLEANING PLUGINS
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **correctUV Ore Replacer 1.0.esp**
-  - Clean with TESTool and tes3cmd.
-- **Creeper the drummer.esp**
   - Clean with TESTool and tes3cmd.
 - **Nordic Chest Replacer.esp**
   - Clean with TESTool and tes3cmd.
@@ -384,8 +345,6 @@ Gives Nordic barrows on Solstheim their own unique sound. You will hear some dee
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Fire Sound Replacer**
-- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack  
-Allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
@@ -405,49 +364,6 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 Makes Miner class NPCs cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 Simulates water sounds when colliding with generic fake animated water meshes.
-
-## OVERHAULS
-
-- [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
-Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
-- [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
-Makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
-- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
-Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-- [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
-Closes the Molag Mar canton, on account of the ashstorms.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis  
-Opens up the Vivec cantons.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Vanilla Placement (ESP)**
-- [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7  
-Changes the passageways between the different city districts, making the transitions more immersive.
-- [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
-Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
-  - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
-  - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
-- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
-Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
-- [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93  
-Improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
-- [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
-Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **Wolverine Hall Overhaul** folder. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Duke's Throne Room Overhaul.esp**
-  - Clean with tes3cmd.
-- **QL_SevenGracesShrines.esp**
-  - Clean with tes3cmd.
-- **Talos Cult Revised.esp**
-  - Clean with tes3cmd.
 
 ## GAMEPLAY
 
@@ -485,6 +401,8 @@ Merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [M
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
+- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
+Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
 ### CLEANING PLUGINS
 
@@ -717,10 +635,6 @@ Unless explicitly stated, configure these mods through the in-game **Mod Configu
 
 **Security Enhanced**
 - Set the **Assign Keybind for Lockpick Hotkey** key to **O** (the **L** is used by **Let There Be Darkness**).
-
-**Shattered Stones - An Earthquake Mod**
-- Access the in-game console by pressing the key to the left of the "1" key.
-- Type **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
