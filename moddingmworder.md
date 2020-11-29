@@ -50,11 +50,6 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
 
 >This will ensure The Publicans doesn't override Atmospheric Delights' lighting changes to Desele's House of Earthly Delights.
 
-- FMI_Misc.ESP
-  - Load before **LDM - Context Matters.ESP**
-
->This will ensure FMI - Misc doesn't override the more comprehensive dialogue changes from LDM - Context Matters.
-
 - Yet Another Guard Diversity - Regular.ESP
   - Load before **No-Frills Closed Molag Mar.esp**
   - Load before **No-Frills Open Vivec.esp**
@@ -96,8 +91,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Skill Increase GMST Fix
 - Expansion Delay
 - Intelligent Textures
-- Wood Fix
-- Intelligent Textures Ashlander Hotfix
 
 ### USER INTERFACE
 
@@ -140,55 +133,32 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Blighted Mine Means Blighted Workers
 - Corprus Fix
 - Dubdilla Location Fix
-- FMI - Hospitality Papers Expanded
-- FMI - Legion Dialogue
-- FMI - Misc
-- FMI - Gravedust
-- FMI - Nice to Meet You
-- FMI - NotAllDunmer
 - FMI - Service Refusal and Contraband
-- LDM - Context Matters
 - Ownership Overhaul
 - Religions Elaborated - No Quest Changes
-- Silence
 - Synthesis Series - Creatures and Diseases
-- Telvanni Staff for the Telvanni Staff
 - Temples with Shrines
 - The Dream is the Door
-- The Madstone
-- Wizards Staff for Wizards
 
 ### VISUALS
 
 - Apel's Rain Replacer
-- Arukinns Better Books and Scrolls
-- Ashmire Replacer
 - Bitter Coast Scum Replacer
 - Vivec Palace Water Replacer
 - Better Waterfalls
 - Bloodmoon Hide Replacer
 - Buoyant Lord Vivec
-- Cave Drips
 - Complete Armor Joints
 - correctUV Diverse Ore Veins
 - Creeper the Drummer
 - Facelift
 - Facelift Update
 - Flies
-- FMI - Caius Big Package
-- FMI - Belladonna - Unique Rippened Belladonna
-- Folded in Port
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Golden Saint Feminine Walk
-- Guarskin Drum Replacer
-- Have You Seen the Muffin Mod
-- Hopesfire Glow
-- Improved Nordic Iron Helm Mesh
 - Improved Thrown Weapon Projectiles
-- Keg Drip
 - Let There Be Darkness - Lua Lighting Overhaul
-- Melchior's Magnificent Manuscripts
 - Mistify
 - Mist Retexture
 - Nordic Chest Replacer
@@ -201,6 +171,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Skeleton and Metal Sparks Blood Retexture
 - Soldier Belts Fix
 - Spear-Staff Fix
+- Subtle Magic Glow
 - Subtle Smoke
 - Transporter Lights
 - Unto Dust
@@ -213,13 +184,13 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Well Diversified
 - Wolf Helmet Replacer
 - Near Vanilla Road Sign Replacer OR Signposts Retextured
-- Subtle Magic Glow OR Assetless No Glow
 - Remiros' Groundcover
 - Shattered Stones - An Earthquake Mod
 
 ### AUDIO
 
 - Distant Thunder (No Scripts)
+- Greet Distance Reducer
 - Haunted Barrows
 - Heartthrum
 - Outdoor Banners With Sound
@@ -232,15 +203,12 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### OVERHAULS
 
-- Atmospheric Delights
 - Cavern Of The Incarnate Overhaul - NPC Changes Only
 - Duke's Throne Room Overhaul
-- Meteorite Ministry
 - Yet Another Guard Diversity - Regular
 - No-Frills Closed Molag Mar
 - No-Frills Open Vivec
 - Open Mournhold
-- Reclamations In Holamayan
 - Seven Graces Shrines Enhanced
 - Seven Graces Shrines Enhanced - No Script Edits
 - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
@@ -285,7 +253,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - MWSE Character Creation Name Generator
 - MWSE Magicka Regen
 - No Rest Without Beds
-- Plain Paper Fix
 - Poison Crafting
 - Putting Power In Willpower
 - Realistic Movement Speeds
@@ -320,12 +287,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Harder Barter
 - Limited Leaping
 
-### DIALOGUE
-
-- Greet Distance Reducer
-- Greetings for No Lore
-- Outfit Greetings Tweaked
-
 ## MODDING MORROWIND LOAD ORDER
 
 This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
@@ -352,35 +313,16 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Clean Blighted_Kwama_Workers.esp
 - true corprus.ESP
 - Dubdilla Location Fix.ESP
-- Hospitality_Papers_Expanded_v2.7.esp
-- FMI_Legion_Dialogue.ESP
-- FMI_Misc.ESP
-- FMI_GraveDust.ESP
-- FMI_Nice_to_Meet_You.ESP
-- FMI_#NotAllDunmer.ESP
 - FMI_ServiceRefusal_Contraband.ESP
-- LDM - Context Matters.ESP
 - Religions Elaborated.ESP
-- Silence.esp
 - Synthesis Series - Creatures and Diseases.ESP
-- Telvanni Staff for the Telvanni Staff.ESP
 - Temples With Shrines.ESP
 - The Dream is the Door.ESP
-- The Madstone.ESP
-- Clean_wizardsstaffforwizards.esp
 - Buoyant Lord Vivec.ESP
-- Cave Drips.ESP
 - Complete Armor Joints.esp
 - Creeper the drummer.esp
 - Flies.ESP
-- FMI_CaiusBigPackage.ESP
-- Unique_Ripened_Belladonna.ESP
-- Folded in Port.ESP
 - GITD_WL_RR_Interiors.esp
-- guarskin_drum_replacer.esp
-- Have You Seen the Muffin Mod.ESP
-- Hopesfire Torch (+ brighter trueflame).ESP
-- Keg Drip.ESP
 - mistify.ESP
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.esp
@@ -390,20 +332,18 @@ This is a complete list of all plugins present in the guide, installed as if you
 - PB_SignpostsRetextured.esp
 - Shattered Stones - An Earthquake Mod.esp
 - Distant Thunder (No Scripts).ESP
+- hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
 - RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
 - Tunnel Cough.ESP
-- Clean Atmospheric Delights.ESP
 - COI - NPC Changes Only.ESP
 - Duke's Throne Room Overhaul.ESP
-- Meteorite Ministry Temple.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - No-Frills Closed Molag Mar.esp
 - No-Frills Open Vivec.esp
 - Open Mournhold.ESP
-- ReclamationsInHolamayan.ESP
 - QL_SevenGracesShrines.esp
 - ShrineOfAzura.ESP
 - Talos Cult Revised.esp
@@ -432,9 +372,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Bloodmoon Rebalance.esp
 - Morrowind Anti-Cheese.ESP
 - better balanced booze_hardcore.esp
-- hw_GreetDistanceReducer.ESP
-- Greetings for No Lore.esp
-- outfit greetings tweaked.ESP
 - Merged Objects.esp
 - Merged_Leveled_Lists.esp
 - **Rem_AC.esp**
