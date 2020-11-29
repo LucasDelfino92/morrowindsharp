@@ -153,40 +153,19 @@ If a mine is blighted, the kwama worker standing outside of it will now be bligh
 Gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
-Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
-Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Misc**](https://www.nexusmods.com/morrowind/mods/47637) by PoodleSandwich  
-Fixes a handful of small inconsistencies between lore and what is found in game.
-  - Install both main files.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. 
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership. 
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
-- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?) by Jyggalag117  
-The player will not be able to speak to NPCs when silenced.
 - [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11  
 Edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
-- [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869/) by Gavrilo93  
-Gives a Silver Staff of Peace to each of the six Telvanni Mouths, as per in-game dialogue suggests.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
-- [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
-Makes the Madstone work as described on the lore, adds a new model to the Madstone, and expands on in-game dialogue.
-- [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
-Gives a Wizards Staff to high ranking members of the Mages Guild, as per in-game dialogue suggests.
 
 ### CLEANING PLUGINS
 
@@ -201,13 +180,7 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
-- [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100/) by Arukinn  
-Replaces all the books, book pages and scroll textures with ones that have the look and feel of the original textures.
-  - Hide/delete all .dds files inside **Data Files\Textures** minus **Tx_book_01.dds through Tx_book_16.dds**.
 - [**Anumaril's Minor Mods**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
-  - **Ashmire Replacer**  
-  Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their nonsensical flowing animation.
-    - MO2 will install this mod as BAIN package. Tick only **01 Still Mire** and click **OK**.
   - **Bitter Coast Scum Replacer**  
   Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
     - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -225,10 +198,6 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Adds a simple script to make Vivec properly loop his idle animation.
   - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
-- [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-Zero  
-Adds a visual effect to all vanilla cave drip sound emitters.
-  - MO2 will tell you there's no game data on top level.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
@@ -249,14 +218,6 @@ Vanilla-friendly improvement of the head meshes and textures.
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich  
-Makes the Package for Caius Cosades an actual package.
-- [**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046) by PoodleSandwich  
-Gives ripened Belladonna a unique vanilla-friendly look, matching its real life appearance.
-  - Only install the **Unique Rippened Belladonna** optional file.
-- [**Folded in Port**](https://www.nexusmods.com/morrowind/mods/46113) by Texture Freak, PoodleSandwich, Alaisiagae, and Remiros  
-Folds up the sails of longboats in port.
-  - Hide/delete **Meshes\x\Ex_longboat01.nif**. This mesh is buggy and unnecessary for this mod to work as intended.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -275,30 +236,12 @@ Gives the base golden saint the feminine walk animation instead of the default m
     - Right click on **data**, and click **Create directory...**. Name this new folder **meshes**. Click **OK**. 
     - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r**. Click **OK**. 
     - Expand the **meshes** folder. Drag the three loose files into the **meshes\r** folder. Click **OK**.
-- [**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?) by Alaisiagae  
-Gives the guarskin drum a unique model.
-- [**Have You Seen the Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116) by Taddeus and PoodleSandwich  
-Gives an unique mesh to the in-game muffin.
-- [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855) by grasscid  
-Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
-  - Hide/disable **Hopesfire Torch.esp.** 
-- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
-Modifies the Nordic Iron Helm to look less stupid.
-  - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903/) by Melchior Dahrk and Greatness7  
-Implements a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 MWSE Version**
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?) by Melchior Dahrk  
-Replaces the book meshes and scrolls. Also adds new scroll textures. 
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The mod also includes an optional mesh replacer for the vanilla effect. 
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -342,6 +285,9 @@ Changes the position where Spears/Staffs are held. Now they are held closer the 
     - Expand **Spear Only**.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
   - Hide/delete **Data Files\Meshes\w\w_silver.staff.nif**. This mesh was incorrectly included into this option.
+- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+  - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
@@ -394,21 +340,6 @@ Makes road signs legible. Uses vanilla background and resolution.
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
 
-### LESS INTRUSIVE MAGIC GLOW
-
-Choose between one of these two alternatives for less intrusive magic glow. My personal preference is Assetless No Glow, but if you are a vanilla purist nothing beats Subtle Magic Glow.
-
-- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
-- [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925/) by NullCascade  
-Removes the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground). Uses less memory and is more compatible than other "no plastic wrap effect" mods.
-  - For **Weapon Sheathing** to not add the glow effect back into sheathed equipment, we will need to comment some lines in **Weapon Sheating\MWSE\mods\weaponSheathing\main.lua**. We must add "-- " in front of these three lines, as seen here:
-    - -- tes3.worldController:applyEnchantEffect(visual, quiver.enchantment)
-    - -- tes3.worldController:applyEnchantEffect(visual, shield.enchantment)
-    - -- tes3.worldController:applyEnchantEffect(visual, weapon.enchantment)
-  - This will allow **Weapon Sheathing** to work flawlessly with **Assetless No Glow**.
-  
 ### MGE XE MODS
 
 The following mods require additional MGE XE configuration after installation to work as intended. Read the mod pages carefully.
@@ -448,6 +379,8 @@ Adds a randomized bit of lead time to thunderclaps after lightning strikes for a
     - Thunder Sound ID 1=**Distant_Thunder_01**
     - Thunder Sound ID 2=**Distant_Thunder_02**
     - Thunder Sound ID 3=**Distant_Thunder_03**
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 Gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
@@ -477,18 +410,10 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## OVERHAULS
 
-- [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
-Interior overhaul of Desele's House of Earthly Delights to be more atmospheric. Adds several new NPCs with unique dialogue, including a bouncer and several new patrons. The NPCs now use a custom set of vanilla voice lines to better capture their role and personalities.
 - [**Cavern Of The Incarnate Overhaul - NPC Changes Only**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
 Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/) by Aoimevelho, which removes all visual edits to the cavern.
 - [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
 Makes the upper floor of the Grand Council Chambers of Ebonheart a proper throne room.
-- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
-Adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
-  - Hide/delete the following plugins:
-    - Meteorite Ministry Palace - Higher.ESP
-    - Meteorite Ministry Palace.ESP
-    - Meteorite Ministry Temple - Higher.ESP
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
@@ -501,8 +426,6 @@ Opens up the Vivec cantons.
     - **01 Vanilla Placement (ESP)**
 - [**Open Mournhold**](https://www.nexusmods.com/morrowind/mods/44981) by LondonRook and Greatness7  
 Changes the passageways between the different city districts, making the transitions more immersive.
-- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
-Places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -521,13 +444,9 @@ Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
-- **Clean Atmospheric Delights.esp**
-  - Clean with tes3cmd.
 - **Duke's Throne Room Overhaul.esp**
   - Clean with tes3cmd.
 - **QL_SevenGracesShrines.esp**
-  - Clean with tes3cmd.
-- **ReclamationsInHolamayan.esp**
   - Clean with tes3cmd.
 - **Talos Cult Revised.esp**
   - Clean with tes3cmd.
@@ -635,8 +554,6 @@ Allows you to generate a random name for you character upon character creation.
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot  
-Allows you to pick up a blank sheet of paper without having to read it first.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
@@ -715,15 +632,6 @@ Dynamically adjusts how much merchants will pay for items. Expensive items will 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-
-## DIALOGUE
-
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
-Replaces the three standard No Lore greetings with over sixty new ones. 
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
-Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 
 ## FINISHING TOUCHES
 
