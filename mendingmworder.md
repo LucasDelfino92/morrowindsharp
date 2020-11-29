@@ -26,9 +26,7 @@
 - Quest Skill Reward Fix v1.0
 - Skill Increase GMST Fix v1.0
 - Expansion Delay v1.1
-- Intelligent Textures v2.1
-- Wood Fix v2.1b
-- Intelligent Textures Ashlander Hotfix v2
+- Intelligent Textures v3.0
 
 # LOAD ORDER
 
