@@ -29,8 +29,8 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
 - Ownership Overhaul.esp
   - Load before **The Publicans.ESP**
   - Load before **Waterfall Tweaks.esp**
-  - Load before **Yet Another Guard Diversity - Regular.ESP**
   - Load before **Divayth Fyr Puzzle Fixed.ESP**
+  - Load before **Yet Another Guard Diversity - Regular.ESP**
   - Load before **correctUV Ore Replacer_respawning.esp**
   - Load before **Morrowind Anti-Cheese.ESP**
 
