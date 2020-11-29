@@ -9,7 +9,6 @@
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#installing-the-modules)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#user-interface)
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#content-restoration)
-- [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#internal-logic)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#visuals)
     - [Readable signposts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#readable-signposts)
     - [Groundcover](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#groundcover)
