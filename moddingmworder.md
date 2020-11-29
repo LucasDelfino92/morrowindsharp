@@ -158,7 +158,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### AUDIO
 
-- Distant Thunder (No Scripts)
 - Greet Distance Reducer
 - Haunted Barrows
 - Outdoor Banners With Sound
@@ -278,7 +277,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Waterfalls Tweaks.esp
 - Well Diversified.ESP
 - NearVanillaRoadSigns.esp OR PB_SignpostsRetextured.esp
-- Distant Thunder (No Scripts).ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
 - Outdoor Banners With Sound.ESP
