@@ -169,31 +169,25 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
-- Divayth Fyr Puzzle Fixed
-- Early Transport to Mournhold
-- Fix those bastard rope fences
-- FMI - Sane Ordinators
-- Gondolier Destinations
-- Higher Faction Requirements
-- Lower First Person Sneak Mode
-- Projectile Enchant Capacity
-- Speed and Movement Rebalanced
-- Supply Chests Merged
-- Yet Another Guard Diversity - Regular
-
-### GAMEPLAY MWSE
-
 - Bed Buddies
 - Book Pickup
 - Brutal Backstabbing
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
+- Divayth Fyr Puzzle Fixed
+- Early Transport to Mournhold
 - Easy Escort
+- Fix those bastard rope fences
+- FMI - Sane Ordinators
+- Gondolier Destinations
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
+- Higher Faction Requirements
 - Kill Command
 - Less Aggressive Creatures
+- Loading Doors Lock Tune
 - Lock Bashing
+- Lower First Person Sneak Mode
 - Lucky Strke - A Critical Hit Mod
 - Magicka Based Skill Progression
 - Marksman Rebalanced
@@ -202,6 +196,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - MWSE Magicka Regen
 - No Rest Without Beds
 - Poison Crafting
+- Projectile Enchant Capacity
 - Putting Power In Willpower
 - Realistic Movement Speeds
 - Realistic Repair
@@ -210,15 +205,17 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Retroactive Health Gain
 - Security Enhanced
 - Sneaky Strike
+- Speed and Movement Rebalanced
+- Supply Chests Merged
 - Switchable Scriptures
 - The Midnight Oil - Lighting Overhaul
 - Torch Hotkey
 - Wings of Will - Willpower Based Levitation Speed
+- Yet Another Guard Diversity - Regular
 
 ### GAMEPLAY MWSE ABOT
 
 - Smart Ammo
-- Loading Doors Lock Tune
 - Smart Map
 - MWSEabotlib
 
@@ -228,9 +225,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Bloodmoon Rebalance
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - Better Blance Booze - Heavy Drinker Mode
-
-### GAME BALANCE MWSE
-
 - Controlled Consumption
 - Harder Barter
 - Limited Leaping
@@ -284,20 +278,20 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Early Transport to Mournhold.esp
 - FMI_SaneOrdinators.ESP
 - PB_GondolierDestinations.esp
-- higher faction requirements - Full.esp
-- LowerFirstPersonSneak.ESP
-- Projectile Enchant Capacity.esp
-- Speed and Movement.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
-- Yet Another Guard Diversity - Regular.ESP
 - correctUV Ore Replacer_respawning.esp
-- Lucky Strike.ESP
+- higher faction requirements - Full.esp
 - mwse_LockBashing.esp
+- LowerFirstPersonSneak.ESP
+- Lucky Strike.ESP
 - mwse_PoisonCrafting.esp
+- Projectile Enchant Capacity.esp
 - Putting Power in Willpower - Absorbonach.esp
 - Realistic_Repair_Add-on.ESP
 - Realistic_Repair_Add-on - Patch for Purists Patch.ESP
+- Speed and Movement.ESP
+- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - TheMidnightOil.ESP
+- Yet Another Guard Diversity - Regular.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.esp
 - Morrowind Anti-Cheese.ESP
