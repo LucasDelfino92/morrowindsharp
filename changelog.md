@@ -63,6 +63,7 @@ With that said, the following changes have been made:
 - Overhauls: removed **Shrine of Azura**
 - Overhauls: removed **Talos Cult Revised - G93's Version**
 - Overhauls: removed **Wolverine Hall Overhaul**
+- Gameplay: removed **Hunter's Mark - A Marksman Mod**
 - Gameplay MWSE: removed **Plain Paper Fix**
 - Dialogue: removed **Greetings for No Lore**
 - Dialogue: removed **Outfit Greetings Tweaked**
