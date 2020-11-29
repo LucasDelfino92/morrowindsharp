@@ -159,7 +159,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 ### AUDIO
 
 - Greet Distance Reducer
-- Haunted Barrows
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
@@ -278,7 +277,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Well Diversified.ESP
 - NearVanillaRoadSigns.esp OR PB_SignpostsRetextured.esp
 - hw_GreetDistanceReducer.ESP
-- Haunted Barrows.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
 - Abundant Adamantium.ESP
