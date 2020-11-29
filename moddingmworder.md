@@ -27,12 +27,7 @@ Because the base **Mending Morrowind** guide includes many bug fixes for vanilla
 That said, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible.
 
 - Ownership Overhaul.esp
-  - Load before **The Publicans.ESP**
-  - Load before **Waterfall Tweaks.esp**
-  - Load before **Divayth Fyr Puzzle Fixed.ESP**
-  - Load before **Yet Another Guard Diversity - Regular.ESP**
-  - Load before **correctUV Ore Replacer_respawning.esp**
-  - Load before **Morrowind Anti-Cheese.ESP**
+  - Load it just after **Mending Morrowind**'s mods so as to prevent it from overwriting crucial changes made by mods installed in **Modding Morrowind**.
 
 >This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
 
@@ -103,18 +98,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Services Restored
 - Silt Strider Animation Restored
 - Sound Spell Sound Effect
-- The Publicans
-
-### INTERNAL LOGIC
-
-- Blighted Mine Means Blighted Workers
-- Corprus Fix
-- Dubdilla Location Fix
-- FMI - Service Refusal and Contraband
-- Ownership Overhaul
-- Religions Elaborated - No Quest Changes
-- Synthesis Series - Creatures and Diseases
-- Temples with Shrines
 
 ### VISUALS
 
@@ -167,18 +150,23 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### GAMEPLAY
 
+- Ownership Overhaul
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
 - Bed Buddies
+- Blighted Mine Means Blighted Workers
 - Book Pickup
 - Brutal Backstabbing
+- Corprus Fix
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
 - Divayth Fyr Puzzle Fixed
+- Dubdilla Location Fix
 - Early Transport to Mournhold
 - Easy Escort
 - Fix those bastard rope fences
 - FMI - Sane Ordinators
+- FMI - Service Refusal and Contraband
 - Gondolier Destinations
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
@@ -202,13 +190,17 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Realistic Repair
 - Corsair83's Realistic Repair - Add-on
 - Corsair83's Realistic Repair - Add-on - Patch for Purists Patch
+- Religions Elaborated - No Quest Changes
 - Retroactive Health Gain
 - Security Enhanced
 - Sneaky Strike
 - Speed and Movement Rebalanced
 - Supply Chests Merged
 - Switchable Scriptures
+- Synthesis Series - Creatures and Diseases
+- Temples with Shrines
 - The Midnight Oil - Lighting Overhaul
+- The Publicans
 - Torch Hotkey
 - Wings of Will - Willpower Based Levitation Speed
 - Yet Another Guard Diversity - Regular
@@ -243,6 +235,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - NoMoreStageDiving.ESP
 - Expansion Delay.ESP
+- Ownership Overhaul.esp
 - AlchemyFilter.esp
 - Blight Storms Restored.ESP
 - Bloated Caves.esp
@@ -250,15 +243,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Services Restored.ESP
 - Silt Strider Animation Restored.ESP
 - SoundSpellSoundEffect.ESP
-- Ownership Overhaul.esp
-- The Publicans.ESP
-- Clean Blighted_Kwama_Workers.esp
-- true corprus.ESP
-- Dubdilla Location Fix.ESP
-- FMI_ServiceRefusal_Contraband.ESP
-- Religions Elaborated.ESP
-- Synthesis Series - Creatures and Diseases.ESP
-- Temples With Shrines.ESP
 - COI - NPC Changes Only.ESP
 - Complete Armor Joints.esp
 - Flies.ESP
@@ -274,9 +258,13 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Silent Assassins.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
+- Clean Blighted_Kwama_Workers.esp
+- true corprus.ESP
 - Divayth Fyr Puzzle Fixed.ESP
+- Dubdilla Location Fix.ESP
 - Early Transport to Mournhold.esp
 - FMI_SaneOrdinators.ESP
+- FMI_ServiceRefusal_Contraband.ESP
 - PB_GondolierDestinations.esp
 - correctUV Ore Replacer_respawning.esp
 - higher faction requirements - Full.esp
@@ -288,9 +276,13 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Putting Power in Willpower - Absorbonach.esp
 - Realistic_Repair_Add-on.ESP
 - Realistic_Repair_Add-on - Patch for Purists Patch.ESP
+- Religions Elaborated.ESP
 - Speed and Movement.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
+- Synthesis Series - Creatures and Diseases.ESP
+- Temples With Shrines.ESP
 - TheMidnightOil.ESP
+- The Publicans.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.esp
