@@ -21,7 +21,6 @@
   - [Gameplay MWSE abot](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse-abot)
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#game-balance)
   - [Game balance MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#game-balance-mwse)
-- [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#dialogue)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#finishing-touches)
     - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#manual-conflict-resolution)
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#adjusting-your-load-order)
