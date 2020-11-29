@@ -17,6 +17,8 @@ I'll not go into detail as to the why each particular mod was removed. Rather, t
 
 With that said, the following changes have been made:
 
+- User Inteface: removed **Book Worm**
+- User Interface: removed **Tooltips Complete**
 - Internal Logic: removed **FMI - Hospitality Papers Expanded**
 - Internal Logic: removed **FMI - Misc**
 - Internal Logic: removed **FMI - Legion Dialogue**
@@ -29,7 +31,9 @@ With that said, the following changes have been made:
 - Internal Logic: removed **Wizards Staff for Wizards**
 - Visuals: removed **Arukinn's Better Books and Scrolls**
 - Visuals: removed **Ashmire Replacer**
+- Visuals: removed **Buoyant Lord Vivec**
 - Visuals: removed **Cave Drips**
+- Visuals: removed **Creeper the Drummer**
 - Visuals: removed **FMI - Caius Big Package**
 - Visuals: removed **FMI - Belladonna - Unique and Deadly**
 - Visuals: removed **Folded in Port**
@@ -39,14 +43,34 @@ With that said, the following changes have been made:
 - Visuals: removed **Improved Nordic Iron Helm Mesh**
 - Visuals: removed **Keg Drip**
 - Visuals: removed **Melchior's Magnificent Manuscripts**
+- Visuals: removed **Realistic Blood v1.0**
+- Visuals: removed **R-Zero's Throbbing Meat - a Corprus Meat Replacer**
+- Visuals: removed **Skeleton and Metal Sparks blood retexture**
+- Visuals: removed **Signs-Banners Tweak Edit**
+- Visuals: removed **Soldier Belts Fix**
+- Visuals: removed **Spear-Staff Fix**
 - Visuals: removed **Assetless No Glow**
+- Visuals: removed **Shattered Stones - An Earthquake Mod**
+- Audio: removed **Heartthrum**
 - Overhauls: removed **Atmospheric Delights**
+- Overhauls: removed **Duke's Throne Room Overhaul**
 - Overhauls: removed **Meteorite Ministry**
+- Overhauls: removed **No-Frills Closed Molag Mar**
+- Overhauls: removed **No-Frills Open Vivec**
+- Overhauls: removed **Open Mournhold**
 - Overhauls: removed **Reclamations In Holamayan**
+- Overhauls: removed **Seven Graces Shrines Enhanced**
+- Overhauls: removed **Shrine of Azura**
+- Overhauls: removed **Talos Cult Revised - G93's Version**
+- Overhauls: removed **Wolverine Hall Overhaul**
 - Gameplay MWSE: removed **Plain Paper Fix**
 - Dialogue: removed **Greetings for No Lore**
 - Dialogue: removed **Outfit Greetings Tweaked**
-- Merged the Dialogue section into the Audio section.
+- Removed Overhauls section.
+- Removed Dialogue section.
+- Moved **Cavern Of The Incarnate Overhaul - NPC Changes Only** into the Visuals section.
+- Moved **Yet Another Guard Diversity** into the Gameplay section.
+- Moved **Greet Distance Reducer** into the Audio section.
 
 ## September 21st
 
