@@ -4,6 +4,50 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## November 29th
+
+I hesitate to call this an "update" because I'm not really updating the guide as much as I'm removing mods from it. The reasoning is simple: there is a ridiculous amount of mods present, and as someone who regularly reinstalls Bethesda games (including Fallout: New Vegas) I know how daunting it can be to follow a modding guide, particularly when the mods suggested rarely warrant being installed.
+
+I'll not go into detail as to the why each particular mod was removed. Rather, the reasons for the removal boil down to one of the following:
+
+- The mod only affects dialogue, either by tweaking responses, filtering dialogue, or adding original content.
+- The mod tries to address a non-issue. This is usually grounds for removal, particularly if the mod adds a ton of features to address this.
+- The mod barely has an effect on gameplay.
+- Last but not least: the mod is rarely, if ever, noticed under regular playing circumstances. If the mod, however, makes a massive impact the few times (or the ONLY time) it is noticed, then I'll recommend it.
+
+With that said, the following changes have been made:
+
+- Internal Logic: removed **FMI - Hospitality Papers Expanded**
+- Internal Logic: removed **FMI - Misc**
+- Internal Logic: removed **FMI - Legion Dialogue**
+- Internal Logic: removed **FMI - Nice to Meet You**
+- Internal Logic: removed **FMI - NotAllDunmer**
+- Internal Logic: removed **LDM - Context Matters**
+- Internal Logic: removed **Silence**
+- Internal Logic: removed **Telvanni Staff for the Telvanni Staff**
+- Internal Logic: removed **The Madstone**
+- Internal Logic: removed **Wizards Staff for Wizards**
+- Visuals: removed **Arukinn's Better Books and Scrolls**
+- Visuals: removed **Ashmire Replacer**
+- Visuals: removed **Cave Drips**
+- Visuals: removed **FMI - Caius Big Package**
+- Visuals: removed **FMI - Belladonna - Unique and Deadly**
+- Visuals: removed **Folded in Port**
+- Visuals: removed **Guarskin Drum Replacer**
+- Visuals: removed **Have You Seen the Muffin Mod**
+- Visuals: removed **Hopesfire Glow**
+- Visuals: removed **Improved Nordic Iron Helm Mesh**
+- Visuals: removed **Keg Drip**
+- Visuals: removed **Melchior's Magnificent Manuscripts**
+- Visuals: removed **Assetless No Glow**
+- Overhauls: removed **Atmospheric Delights**
+- Overhauls: removed **Meteorite Ministry**
+- Overhauls: removed **Reclamations In Holamayan**
+- Gameplay MWSE: removed **Plain Paper Fix**
+- Dialogue: removed **Greetings for No Lore**
+- Dialogue: removed **Outfit Greetings Tweaked**
+- Merged the Dialogue section into the Audio section.
+
 ## September 21st
 
 **Gameplay MWSE**
