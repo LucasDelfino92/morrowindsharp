@@ -18,7 +18,6 @@ That said, there are a number of mods present in **Modding Morrowind** that are 
 - **GH Patches and Replacers** needs to be loaded after both **Correct UV Ore Replacer** and **Graphic Herbalism MWSE**.
 - **Project Atlas - Glow in the Dahrk Patch** needs to be loaded after **Glow in the Dahrk**.
 - **Weapon Sheathing - Bow Position Edit** and **Morrowind Optimization Patch - Weapon Sheathing Patch** need to be loaded after **Weapon Sheathing**.
-- **Seven Graces Shrines Enhanced - No Script Edits** and **Seven Graces Shrines Enhanced - Simple Golden Gold Patch** need to be loaded after **Seven Graces Shrines Enhanced**.
 - **MWSEabotlib** needs to be loaded after any of **abot**'s mods.
 
 ## MODDING MORROWIND PLUGIN CONFLICTS
@@ -29,26 +28,13 @@ That said, there are a number of plugins present in **Modding Morrowind** that a
 
 - Ownership Overhaul.esp
   - Load before **The Publicans.ESP**
-  - Load before **Creeper the drummer.esp**
   - Load before **Waterfall Tweaks.esp**
   - Load before **Yet Another Guard Diversity - Regular.ESP**
-  - Load before **No-Frills Closed Molag Mar.esp**
-  - Load before **No-Frills Open Vivec.esp**
-  - Load before **QL_SevenGracesShrines.esp**
-  - Load before **Talos Cult Revised.esp**
-  - Load before **Wolverine Hall Overhaul.ESP**
   - Load before **Divayth Fyr Puzzle Fixed.ESP**
   - Load before **correctUV Ore Replacer_respawning.esp**
   - Load before **Morrowind Anti-Cheese.ESP**
 
 >This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
-
-- Yet Another Guard Diversity - Regular.ESP
-  - Load before **No-Frills Closed Molag Mar.esp**
-  - Load before **No-Frills Open Vivec.esp**
-  - Load before **Wolverine Hall Overhaul.ESP**
-
->This will Yet Another Guard Diversity doesn't restore the gaurds deleted by these mods.
 
 - Realistic_Repair_Add-on.ESP
   - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**
@@ -286,36 +272,21 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Synthesis Series - Creatures and Diseases.ESP
 - Temples With Shrines.ESP
 - The Dream is the Door.ESP
-- Buoyant Lord Vivec.ESP
+- COI - NPC Changes Only.ESP
 - Complete Armor Joints.esp
-- Creeper the drummer.esp
 - Flies.ESP
 - GITD_WL_RR_Interiors.esp
 - mistify.ESP
 - Nordic Chest Replacer.ESP
-- SoldierBeltsFix.esp
 - Waterfalls Tweaks.esp
 - Well Diversified.ESP
-- NearVanillaRoadSigns.esp
-- PB_SignpostsRetextured.esp
-- Shattered Stones - An Earthquake Mod.esp
+- NearVanillaRoadSigns.esp OR PB_SignpostsRetextured.esp
 - Distant Thunder (No Scripts).ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
-- RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
 - Tunnel Cough.ESP
-- COI - NPC Changes Only.ESP
-- Duke's Throne Room Overhaul.ESP
-- Yet Another Guard Diversity - Regular.ESP
-- No-Frills Closed Molag Mar.esp
-- No-Frills Open Vivec.esp
-- Open Mournhold.ESP
-- QL_SevenGracesShrines.esp
-- ShrineOfAzura.ESP
-- Talos Cult Revised.esp
-- Wolverine Hall Overhaul.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
 - Divayth Fyr Puzzle Fixed.ESP
@@ -328,6 +299,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Projectile Enchant Capacity.esp
 - Speed and Movement.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
+- Yet Another Guard Diversity - Regular.ESP
 - correctUV Ore Replacer_respawning.esp
 - Lucky Strike.ESP
 - mwse_LockBashing.esp
