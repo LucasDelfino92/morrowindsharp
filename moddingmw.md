@@ -155,8 +155,6 @@ Adds supply chests, missing temple markers, healing services to healers, and dis
 Edits existing creatures and adds new creature variants according to in-game lore, restoring unused diseases into the game.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
-To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 
 ### CLEANING PLUGINS
 
@@ -252,6 +250,8 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight. 
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
