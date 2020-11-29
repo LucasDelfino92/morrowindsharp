@@ -52,6 +52,8 @@ With that said, the following changes have been made:
 - Visuals: removed **Assetless No Glow**
 - Visuals: removed **Shattered Stones - An Earthquake Mod**
 - Audio: removed **Heartthrum**
+- Audio: removed **Tunnel Cough**
+- Audio: removed **Water Sounds**
 - Overhauls: removed **Atmospheric Delights**
 - Overhauls: removed **Duke's Throne Room Overhaul**
 - Overhauls: removed **Meteorite Ministry**
