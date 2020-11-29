@@ -90,7 +90,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Better Dialogue Font
 - Better Daedric Font
 - Better Questlist
-- Book Worm
 - Class Description Tooltip
 - Continue
 - Essential Indicators
@@ -103,7 +102,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Quick Equip
 - Right Click Menu Exit
 - Shrine Tooltips
-- Tooltips Complete
 - UI Expansion
 - Logo Video Intro Reworked (Widescreen)
 - Title Screen Reworked (Widescreen)
@@ -140,10 +138,9 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Vivec Palace Water Replacer
 - Better Waterfalls
 - Bloodmoon Hide Replacer
-- Buoyant Lord Vivec
+- Cavern Of The Incarnate Overhaul - NPC Changes Only
 - Complete Armor Joints
 - correctUV Diverse Ore Veins
-- Creeper the Drummer
 - Facelift
 - Facelift Update
 - Flies
@@ -157,13 +154,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Nordic Chest Replacer
 - Parasol Particles
 - Pete's Scroll 2018 ...in 2020
-- Realistic Blood
-- R-Zero's Throbbing Meat - a Corprus Meat Replacer
-- Signs-Banners Tweak Edit
 - Simple Golden Gold
-- Skeleton and Metal Sparks Blood Retexture
-- Soldier Belts Fix
-- Spear-Staff Fix
 - Subtle Magic Glow
 - Subtle Smoke
 - Transporter Lights
@@ -178,14 +169,12 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Wolf Helmet Replacer
 - Near Vanilla Road Sign Replacer OR Signposts Retextured
 - Remiros' Groundcover
-- Shattered Stones - An Earthquake Mod
 
 ### AUDIO
 
 - Distant Thunder (No Scripts)
 - Greet Distance Reducer
 - Haunted Barrows
-- Heartthrum
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
@@ -193,21 +182,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Sounds of Souls
 - Tunnel Cough
 - Water Sounds
-
-### OVERHAULS
-
-- Cavern Of The Incarnate Overhaul - NPC Changes Only
-- Duke's Throne Room Overhaul
-- Yet Another Guard Diversity - Regular
-- No-Frills Closed Molag Mar
-- No-Frills Open Vivec
-- Open Mournhold
-- Seven Graces Shrines Enhanced
-- Seven Graces Shrines Enhanced - No Script Edits
-- Seven Graces Shrines Enhanced - Simple Golden Gold Patch
-- Shrine of Azura
-- Talos Cult Revised - G93's Version
-- Wolverine Hall Overhaul
 
 ### GAMEPLAY
 
@@ -224,6 +198,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Projectile Enchant Capacity
 - Speed and Movement Rebalanced
 - Supply Chests Merged
+- Yet Another Guard Diversity - Regular
 
 ### GAMEPLAY MWSE
 
