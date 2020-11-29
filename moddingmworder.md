@@ -179,7 +179,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - FMI - Sane Ordinators
 - Gondolier Destinations
 - Higher Faction Requirements
-- Hunter's Mark - A Marksman Mod
 - Lower First Person Sneak Mode
 - Projectile Enchant Capacity
 - Speed and Movement Rebalanced
@@ -294,7 +293,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - FMI_SaneOrdinators.ESP
 - PB_GondolierDestinations.esp
 - higher faction requirements - Full.esp
-- Hunter's Mark - A Marksman Mod.ESP
 - LowerFirstPersonSneak.ESP
 - Projectile Enchant Capacity.esp
 - Speed and Movement.ESP
