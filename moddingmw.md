@@ -11,7 +11,6 @@
 - [Content restoration](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#content-restoration)
 - [Internal logic](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#internal-logic)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#visuals)
-    - [Less intrusive magic glow](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#less-intrusive-magic-glow)
     - [Readable signposts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#readable-signposts)
     - [MGE XE mods](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#mge-xe-mods)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#audio)
