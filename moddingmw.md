@@ -15,10 +15,8 @@
     - [Groundcover](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#groundcover)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#audio)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay)
-  - [Gameplay MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse)
-  - [Gameplay MWSE abot](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse-abot)
+- [Gameplay MWSE abot](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#gameplay-mwse-abot)
 - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#game-balance)
-  - [Game balance MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#game-balance-mwse)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#finishing-touches)
     - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#manual-conflict-resolution)
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md#adjusting-your-load-order)
@@ -352,48 +350,6 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar  
 Adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
-- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-- [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
-Modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
-- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
-Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
-Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
-- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
-Makes factions have higher requirements for advancing.
-  - Hide/disable **higher faction requirements - Morrowind Only.esp**.
-- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
-- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger  
-Creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - In TESAME, delete the following records: 
-    - GMST **fJumpRunMultiplier**
-  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
-  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
-- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
-Merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [Morag Tong](https://www.nexusmods.com/morrowind/mods/47753), and [Tribunal Temple](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [Imperial Legion Goods](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
-    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
-- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
-Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Divayth Fyr Puzzle Fixed.ESP**
-  - Clean with TESTool and tes3cmd.
-- **Religions Elaborated.ESP**
-  - Clean with tes3cmd.
-
-### GAMEPLAY MWSE
-
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
@@ -406,8 +362,18 @@ Increases the capacity of all containers (BM and TR included) by x100. Enough to
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
+- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+- [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
+Modifies collision boxes on rope-related meshes to prevent getting stuck in them, as well as the player and NPC's hitboxes, making it easier to squeeze past NPCs in tight situations.
+- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
+Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
+- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
+Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
@@ -416,6 +382,9 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier.
   - Hide/disable **correctUV Ore Replacer_fixed.esp**
   - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
+- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
+Makes factions have higher requirements for advancing.
+  - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
   - MO2 will tell you there's no game data on top level. 
@@ -424,6 +393,8 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
 Adds the ability to bash open locked doors and chests, as was an option in previous TES games.
+- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl  
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
   - This mod is incorrectly packaged.
@@ -447,6 +418,8 @@ Provides functional and configurable magicka regeneration for the player, NPCs, 
 Prevents the player from resting unless they activate a bed.
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger  
+Creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
@@ -468,6 +441,17 @@ Increases health upon level up as though endurance was at its current value for 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
+  - In TESAME, delete the following records: 
+    - GMST **fJumpRunMultiplier**
+  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
+  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
+- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
+Merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [Morag Tong](https://www.nexusmods.com/morrowind/mods/47753), and [Tribunal Temple](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [Imperial Legion Goods](https://www.nexusmods.com/morrowind/mods/43002).
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
+    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
 Lets you open or close any book or scroll in the game.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
@@ -479,8 +463,19 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
+- [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
+Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
-### GAMEPLAY MWSE ABOT
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Divayth Fyr Puzzle Fixed.ESP**
+  - Clean with TESTool and tes3cmd.
+- **Religions Elaborated.ESP**
+  - Clean with tes3cmd.
+
+## GAMEPLAY ABOT
 
 These mods all belong to the same author, abot. They receive a dedicated section because they need to be installed before **MWSEabotlib** for all of them to work correctly.
 
@@ -504,16 +499,6 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
-
-### CLEANING PLUGINS
-
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Morrowind Anti-Cheese.ESP**
-  - Clean with TESTool and tes3cmd.
-
-### GAME BALANCE MWSE
-
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
@@ -522,6 +507,13 @@ Dynamically adjusts how much merchants will pay for items. Expensive items will 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+
+### CLEANING PLUGINS
+
+The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+
+- **Morrowind Anti-Cheese.ESP**
+  - Clean with TESTool and tes3cmd.
 
 ## FINISHING TOUCHES
 
