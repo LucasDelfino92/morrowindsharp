@@ -15,18 +15,18 @@
 
 ### MENDING MORROWIND
 
-- Patch for Purists v4.0.2
-- Correct UV Rocks v1.0
-- Morrowind Optimization Patch v9.1b
-- Project Atlas v0.6.5
-- Glowing Flames v2.3
-- No More Stage Diving - Desele's Dancing GIrls v1.1
-- Expeditious Exit v1.2.1
-- Immersive Run Fix v1.0
-- Quest Skill Reward Fix v1.0
-- Skill Increase GMST Fix v1.0
-- Expansion Delay v1.1
-- Intelligent Textures v3.0
+- Patch for Purists
+- Correct UV Rocks
+- Morrowind Optimization Patch
+- Project Atlas
+- Glowing Flames
+- No More Stage Diving - Desele's Dancing Girls
+- Expeditious Exit
+- Immersive Run Fix
+- Quest Skill Reward Fix
+- Skill Increase GMST Fix
+- Expansion Delay
+- Intelligent Textures
 
 # LOAD ORDER
 
@@ -37,6 +37,7 @@
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
 - Lake Fjalding Anti-Suck.ESP
+- chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - NoMoreStageDiving.ESP
 - Expansion Delay.ESP
