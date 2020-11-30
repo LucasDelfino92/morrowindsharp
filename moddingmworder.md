@@ -47,6 +47,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### MGE XE
 
+- MGE XE Data Files
 - MGE XE Shader - deband_fogaware
 - MGE XE Shader - EdgeAA
 
