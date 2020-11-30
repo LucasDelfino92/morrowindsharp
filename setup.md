@@ -5,7 +5,7 @@
 ## INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
-  - [A note on the official plugins](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#a-note-on-the-official-plugins)
+  - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
@@ -34,20 +34,19 @@ Your **Morrowind root folder** contains the game’s executable (Morrowind.exe),
 
 One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [You can download a JPG copy of the map from here.](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
-### A NOTE ON THE OFFICIAL PLUGINS
+### CLEANING UP YOUR GOG INSTALLATION
 
-Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [You can read about the official plugins here.](https://en.uesp.net/wiki/Morrowind:Plugins).
+The Game of the Year Edition available from GOG (which this guide assumes you are using) contains plenty of unnecessary files. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSAs themselves, which leads to unnecessary file bloat.
 
-My personal stance, and the one which this guide follows, is "don't bother with them". For all intents and purposes, they are amateur mods made under an official banner. Near all of them are mods I wouldn't personally recommend myself. Thus, I recommend you remove the following plugins from your **Morrowind\Data Files** folder:
+In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [You can read about the official plugins here.](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide assumes you will be playing Morrowind without them.
 
-- adamantiumarmor.esp
-- AreaEffectArrows.esp
-- bcsounds.esp
-- EBQ_Artifact.esp
-- entertainers.esp
-- LeFemmArmor.esp
-- master_index.esp
-- Siege at Firemoth.esp
+To clean up your GOG installation of Morrowind, delete the following files from your **Morrowind\Data Files** folder:
+
+- The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
+- All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
+- All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
+
+Overall, this will free about 700 MBs in your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
 
 ## MORROWIND CODE PATCH
 
