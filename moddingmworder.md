@@ -53,7 +53,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### MENDING MORROWIND
 
-- Morrowind Uncompressed Vanilla Textures
 - Patch for Purists
 - Correct UV Rocks
 - Morrowind Optimization Patch
