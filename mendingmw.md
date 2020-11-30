@@ -5,7 +5,6 @@
 ## INDEX
 
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
-- [Uncompressed vanilla textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#uncompressed-vanilla-textures)
 - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
 - [Minor bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#minor-bug-fixes)
 - [MWSE bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mwse-bug-fixes)
@@ -44,13 +43,6 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
 
 Now that we have installed all tools, the Morrowind Code Patch, our mod manager, and MGE XE, we can finally get onto patching Morrowind itself through mods.
-
-## UNCOMPRESSED VANILLA TEXTURES
-
-- [**Morrowind Uncompressed Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/45551) by Bethesda Softworks  
-Replaces most vanilla textures with textures shipped in the GOG release of Morrowind that have less compression artifacts and which the game doesn't use by default.
-  - MO2 will tell you there's no game data on top level.
-    - Right click on **Data Files** and click **Set data directory**. Click **OK**.
 
 ## BUG FIXES AND OPTIMIZATION
 
