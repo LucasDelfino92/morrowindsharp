@@ -58,7 +58,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Morrowind Optimization Patch
 - Project Atlas
 - Glowing Flames
-- No More Stage Diving - Desele's Dancing Girls
 - Expeditious Exit
 - Immersive Run Fix
 - Quest Skill Reward Fix
@@ -234,7 +233,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- NoMoreStageDiving.ESP
 - Expansion Delay.ESP
 - Ownership Overhaul.ESP
 - AlchemyFilter.ESP
