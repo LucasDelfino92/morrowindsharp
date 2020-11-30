@@ -15,7 +15,6 @@
 
 ### MENDING MORROWIND
 
-- Morrowind Uncompressed Vanilla Textures
 - Patch for Purists v4.0.2
 - Correct UV Rocks v1.0
 - Morrowind Optimization Patch v9.1b
