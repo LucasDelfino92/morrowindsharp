@@ -67,29 +67,39 @@ Many tools have been made available to Morrowind over the years. This section wi
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
-Install this in **Morrowind Mods\Tools\TES3View**. This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
+This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
+
+- Extract the files in **Morrowind Mods\Tools\TES3View**. 
 
 > The version I'm hosting on MediaFire can be downloaded from [xEdit's Discord](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
-Install this in **Morrowind Mods\Tools\TES3Merge**. This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
+This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
+
+- Extract the files in **Morrowind Mods\Tools\TES3Merge**.
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
-Install this in **Morrowind Mods\Tools\TESAME**. This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
+This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
+
+- Extract the files in **Morrowind Mods\Tools\TESAME**.
 
 [**TESTool**](http://mw.modhistory.com/download-13-5234)
 
-Install this in **Morrowind Mods\Tools\TESTool**. This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
+This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
+
+- Extract the files in **Morrowind Mods\Tools\TESTool**. 
 
 [**tes3cmd**](https://www.mediafire.com/file/6aji5oad8zh1drc/tes3cmd.zip/file)
 
-- Extract the archive, and merge the contents with your game's **Data Files** folder.
-
 This tool is used for cleaning plugins, deleting dirty records.
 
+- Extract the files, and merge the **Data Files** folder with your game's **Data Files** folder.
+
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
+
+This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
 - Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
@@ -99,17 +109,6 @@ This tool is used for cleaning plugins, deleting dirty records.
    - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
    - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
 - With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
-
-This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
-
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
-
-- Download the **MGE XE Manual Install** main file.
-- Extract the contents of the file to your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-- In **Morrowind\Data Files** delete **XE Sky Variations.esp**.
-- In your **Morrowind root folder**, run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
-
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
 ## MOD ORGANIZER 2
 
@@ -220,6 +219,17 @@ This will create a separator which you can move around in the left window, but f
 - **MGE XE**
 
 ## MGE XE
+
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
+
+- Download the **MGE XE Manual Install** main file.
+- Extract the contents of the file, and copy and paste all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
+- Now run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
+- In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
+- Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and call it **MGE XE Data Files**.
+- Install this file in Mod Organizer 2.
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend.
 
