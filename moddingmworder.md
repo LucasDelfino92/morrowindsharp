@@ -232,48 +232,49 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
 - Lake Fjalding Anti-Suck.ESP
+- chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - NoMoreStageDiving.ESP
 - Expansion Delay.ESP
-- Ownership Overhaul.esp
-- AlchemyFilter.esp
+- Ownership Overhaul.ESP
+- AlchemyFilter.ESP
 - Blight Storms Restored.ESP
-- Bloated Caves.esp
+- Bloated Caves.ESP
 - Great Service.ESP
 - Services Restored.ESP
 - Silt Strider Animation Restored.ESP
 - SoundSpellSoundEffect.ESP
 - COI - NPC Changes Only.ESP
-- Complete Armor Joints.esp
+- Complete Armor Joints.ESP
 - Flies.ESP
-- GITD_WL_RR_Interiors.esp
+- GITD_WL_RR_Interiors.ESP
 - mistify.ESP
 - Nordic Chest Replacer.ESP
 - The Dream is the Door.ESP
-- Waterfalls Tweaks.esp
+- Waterfalls Tweaks.ESP
 - Well Diversified.ESP
-- NearVanillaRoadSigns.esp OR PB_SignpostsRetextured.esp
+- NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 - hw_GreetDistanceReducer.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
-- Clean Blighted_Kwama_Workers.esp
+- Clean Blighted_Kwama_Workers.ESP
 - true corprus.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
-- Early Transport to Mournhold.esp
+- Early Transport to Mournhold.ESP
 - FMI_SaneOrdinators.ESP
 - FMI_ServiceRefusal_Contraband.ESP
-- PB_GondolierDestinations.esp
-- correctUV Ore Replacer_respawning.esp
-- higher faction requirements - Full.esp
-- mwse_LockBashing.esp
+- PB_GondolierDestinations.ESP
+- correctUV Ore Replacer_respawning.ESP
+- higher faction requirements - Full.ESP
+- mwse_LockBashing.ESP
 - LowerFirstPersonSneak.ESP
 - Lucky Strike.ESP
-- mwse_PoisonCrafting.esp
-- Projectile Enchant Capacity.esp
-- Putting Power in Willpower - Absorbonach.esp
+- mwse_PoisonCrafting.ESP
+- Projectile Enchant Capacity.ESP
+- Putting Power in Willpower - Absorbonach.ESP
 - Realistic_Repair_Add-on.ESP
 - Realistic_Repair_Add-on - Patch for Purists Patch.ESP
 - Religions Elaborated.ESP
@@ -285,17 +286,17 @@ This is a complete list of all plugins present in the guide, installed as if you
 - The Publicans.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - tribunal rebalance.ESP
-- Bloodmoon Rebalance.esp
+- Bloodmoon Rebalance.ESP
 - Morrowind Anti-Cheese.ESP
-- better balanced booze_hardcore.esp
-- Merged Objects.esp
-- Merged_Leveled_Lists.esp
-- **Rem_AC.esp**
-- **Rem_AI.esp**
-- **Rem_AL.esp**
-- **Rem_BC.esp**
-- **Rem_GL.esp**
-- **Rem_Solstheim.esp**
-- **Rem_WG.esp**
+- better balanced booze_hardcore.ESP
+- Merged Objects.ESP
+- Merged_Leveled_Lists.ESP
+- **Rem_AC.ESP**
+- **Rem_AI.ESP**
+- **Rem_AL.ESP**
+- **Rem_BC.ESP**
+- **Rem_GL.ESP**
+- **Rem_Solstheim.ESP**
+- **Rem_WG.ESP**
 
 Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
