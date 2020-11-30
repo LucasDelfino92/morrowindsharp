@@ -6,14 +6,10 @@
 
 ## November 30th
 
-I've updated the Setup page to address a few issues that had been pointed out to me in the past. These are:
-
-- The "need" to clean up the GOG installation by removing unnecessary folders (in addition to the official plugins, which I advise against using).
-- The installation of MGE XE's Data Files folder through Mod Organizer 2.
-
-Those who have been following the guide so far don't really need to do this, but it's a good step to take in a future install.
-
-In addition, **Morrowind Uncompressed Vanilla Textures** has been removed from the **Mending Morrowind** guide. It really wasn't worth the download (and disk space) at all when overwritten by Intelligent Textures. Trust me.
+- Setup: added instructions to clean up the GOG installation in addition to removing the official plugins.
+- Setup: added instructions to install MGE XE's Data Files folder separately through Mod Organizer 2.
+- Mending Morrowind: removed **Morrowind Uncompressed Vanilla Textures** (only 70 textures weren't overwritten by Intelligent Textures, and most of them were moving textures were appreciating the detail would be impossible, or menu textures so small that the changes would be equally imperceptible).
+- Mending Morrowind: updated **Morrowind Optimization Patch** installation instructions.
 
 ## November 29th
 
