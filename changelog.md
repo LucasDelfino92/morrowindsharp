@@ -8,8 +8,9 @@
 
 - Setup: added instructions to clean up the GOG installation in addition to removing the official plugins.
 - Setup: added instructions to install MGE XE's Data Files folder separately through Mod Organizer 2.
-- Mending Morrowind: removed **Morrowind Uncompressed Vanilla Textures** (only 70 textures weren't overwritten by Intelligent Textures, and most of them were moving textures were appreciating the detail would be impossible, or menu textures so small that the changes would be equally imperceptible).
 - Mending Morrowind: updated **Morrowind Optimization Patch** installation instructions.
+- Mending Morrowind: removed **Morrowind Uncompressed Vanilla Textures** (only 70 textures weren't overwritten by Intelligent Textures, and most of them were moving textures were appreciating the detail would be impossible, or menu textures so small that the changes would be equally imperceptible).
+- Mending Morrowind: removed **No More Stage Diving - Desele's Dancing Girls** (Patch for Purists will address this bug in the feature; in the mean time, simply use the **ra** console command).
 
 ## November 29th
 
