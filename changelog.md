@@ -13,6 +13,8 @@ I've updated the Setup page to address a few issues that had been pointed out to
 
 Those who have been following the guide so far don't really need to do this, but it's a good step to take in a future install.
 
+In addition, **Morrowind Uncompressed Vanilla Textures** has been removed from the **Mending Morrowind** guide. It really wasn't worth the download (and disk space) at all when overwritten by Intelligent Textures. Trust me.
+
 ## November 29th
 
 I hesitate to call this an "update" because I'm not really updating the guide as much as I'm removing mods from it. The reasoning is simple: there is a ridiculous amount of mods present, and as someone who regularly reinstalls Bethesda games (including Fallout: New Vegas) I know how daunting it can be to follow a modding guide, particularly when the mods suggested rarely warrant being installed.
