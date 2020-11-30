@@ -20,7 +20,6 @@
 - Morrowind Optimization Patch
 - Project Atlas
 - Glowing Flames
-- No More Stage Diving - Desele's Dancing Girls
 - Expeditious Exit
 - Immersive Run Fix
 - Quest Skill Reward Fix
@@ -39,5 +38,4 @@
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- NoMoreStageDiving.ESP
 - Expansion Delay.ESP
