@@ -4,6 +4,15 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## November 30th
+
+I've updated the Setup page to address a few issues that had been pointed out to me in the past. These are:
+
+- The "need" to clean up the GOG installation by removing unnecessary folders (in addition to the official plugins, which I advise against using).
+- The installation of MGE XE's Data Files folder through Mod Organizer 2.
+
+Those who have been following the guide so far don't really need to do this, but it's a good step to take in a future install.
+
 ## November 29th
 
 I hesitate to call this an "update" because I'm not really updating the guide as much as I'm removing mods from it. The reasoning is simple: there is a ridiculous amount of mods present, and as someone who regularly reinstalls Bethesda games (including Fallout: New Vegas) I know how daunting it can be to follow a modding guide, particularly when the mods suggested rarely warrant being installed.
@@ -18,7 +27,7 @@ I'll not go into detail as to the why each particular mod was removed. Rather, t
 
 With that said, the following changes have been made:
 
-- User Inteface: removed **Book Worm**
+- User Interface: removed **Book Worm**
 - User Interface: removed **Tooltips Complete**
 - Internal Logic: removed **FMI - Hospitality Papers Expanded**
 - Internal Logic: removed **FMI - Misc**
