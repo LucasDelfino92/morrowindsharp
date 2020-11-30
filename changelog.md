@@ -94,66 +94,44 @@ With that said, the following changes have been made:
 
 ## September 21st
 
-**Gameplay MWSE**
-- Replaced link for **Realistic Repair - Add-on** back to its original Nexus link (mod has been set back to Visible).
+- Gameplay MWSE: replaced link for **Realistic Repair - Add-on** back to its original Nexus link (mod has been set back to Visible).
 
 ## August 12th
 
-**Setup page**
-- Moved the Morrowind Code Patch section to this page.
+- Moved the Morrowind Code Patch section to the Setup page.
 
 ## August 9th
 
-**Content restoration**
-- Removed the TESAME instructions for **Bloated Caves.esp** (the previously deleted edits intentionally reduced the spawn rate of the Bloat ingredient from 100% to 75%).
-
-**Changelog page**
-- Reformatted to better explain why the mods were removed.
+- Content restoration: removed TESAME instructions for **Bloated Caves.esp** (the previously deleted edits intentionally reduced the spawn rate of the Bloat ingredient from 100% to 75%).
+- Changelog: reformatted to better explain why mods were removed in the past.
 
 ## August 6th
 
-I've made both main guides more readable by listing each mod's description under its mod name instead of right next to it. I've also simplified the Modding Morrowind page that details conflicts, mod order and load order. The important information should be more obvious now, and the page is overall less cluttered (if I say a mod needs to be loaded before another, no need to list the second mod afterwards and explain it has to be loaded later: it's obvious).
-
-**Visuals**
-- Removed the hotfix patch for **Facelift** (no longer necessariy with the v0.10.3 update).
+- Streamlined Mending Morrowind and Morrowind Improved for ease of readability.
+- Visuals: removed the hotfix patch for **Facelift** (no longer necessariy with the v0.10.3 update).
 
 ## July 19th
 
-This maintenance update replaced the traditional modorder and loadorder .txt files with two new pages for **Mending Morrowind** and **Modding Morrowind**. For Mending Morrowind, a page lists its mod order and load order. For Modding Morrowind, a page explains its asset conflicts between mods, its complete mod order, its plugin conflicts between mods, and its complete load order.
-
-This will make it easier for me to update (no need to upload files and update links), as well as hopefully make it easier on the player, who will no longer have to make sure their mod and load order match 1:1 the ones provided, since now they will know what the specific conflicts and thus important load orders are meant to be followed.
-
-**Mending Morrowind**
-- Re-added [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) (fixes some bugs regarding flames not covered by Morrowind Optimization Patch)
+- Replaced the .txt files for the mod order and load order of Mending Morrowind and Morrowind Improved with two dedicated pages (this will make it much easier for me to update them, and hopefully it will be easier on the player to follow through with the changes as well).
+- Mending Morrowind: re-added **Glowing Flames** (contrary to what I thought, it fixes some additional bugs regarding flames not covered by Morrowind Optimization Patch).
   
 ## July 5th
 
-**Game balance**
-- Replaced the official **Morrowind Anti-Cheese** with a **Modding Morrowind**-ready edited version of the plugin (thank you Remiros and Half11 for your permissions).
-
-**Manual conflict resolution**
-- Removed instructions for **Morrowind Anti-Cheese**. Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
+- Game balance: replaced the official **Morrowind Anti-Cheese** with a Modding Morrowind-ready edited version of the plugin (thank you Remiros and Half11 for your permissions).
+- Modding Morrowind: removed instructions for **Morrowind Anti-Cheese** (unnecessary as I've provided a compatible plugin already). Make sure to reinstall **Ownership Overhaul** to restore the previously deleted records.
 
 ## July 2nd
 
-**User interface**
-- Removed [**Poodle's Piddly Pointer**](https://www.nexusmods.com/morrowind/mods/46121?) (unnecessary with Essential Indicators)
-- Added [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)
-- Added [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)
-
-**Visuals**
-- Added [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?)
-
-**Gameplay MWSE**
-- Added [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
+- User Interface: added **Essential Indicators**.
+- User Interface: added **Right Click Menu Exit**.
+- User Interface: removed **Poodle's Piddly Pointer** (Essential Indicators allows the player to resize their crosshair).
+- Visuals: added **Weapon Sheathing - Bow Position Edit**.
+- Gameplay MWSE: added **The Midnight Oil - Lighting Overhaul**.
 
 ## June 25th
 
-**Visuals**
-- Added [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
-
-**Game balance**
-- Removed [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/44923) (Realistic Repair's damaged loot and Harder Barter already nerf the value of Daedric equipment)
+- Visuals: added **Unto Dust**.
+- Game balance: removed **One of a Kind - Daedric Weapons Armor and Shields** (Realistic Repair's damaged loot and Harder Barter already nerf the value of Daedric equipment).
 
 ## June 21st
 
