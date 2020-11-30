@@ -57,7 +57,8 @@ Greatly improves performance and fixes some mesh errors.
     - **01 Fixed Vanilla Textures**
     - **02 Lake Fjalding Anti-Suck**
     - **03 MGE XE Addon**
-  - Hide/delete **meshes\f\furn_web00.nif** and **meshes\f\furn_web10.nif**. These meshes are buggy and cause visual problems when seen from a distance.
+    - **05 Chuzei Fix**
+  - Those who plan to use Better Bodies or tree replacers (not covered by my guides) should skip installing options 03 and 05.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
