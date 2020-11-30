@@ -225,8 +225,8 @@ This will create a separator which you can move around in the left window, but f
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
 - Download the **MGE XE Manual Install** main file.
-- Extract the contents of the file, and copy and paste all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-- Now run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
+- Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
+- Run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
 - In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
 - Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and call it **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
