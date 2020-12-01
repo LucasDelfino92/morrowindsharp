@@ -95,9 +95,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 ## FINISHING TOUCHES
 
-### ADJUSTING YOUR LOAD ORDER
-
-Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order. [**Follow the mod order and load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmworder.md) and adjust your mod installation order and plugin load order accordingly before proceeding to the next step.
+Assuming you have followed the installation order of these mods to the letter (skipping some is "fine", what's not is messing with their installation order), we can proceed to the automated conflict resolution stage.
 
 ### AUTOMATED CONFLICT RESOLUTION
 
