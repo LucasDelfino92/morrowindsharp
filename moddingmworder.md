@@ -89,7 +89,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Bloodmoon Hide Replacer
 - Cavern Of The Incarnate Overhaul - NPC Changes Only
 - Complete Armor Joints
-- correctUV Diverse Ore Veins
 - Flies
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
