@@ -5,9 +5,7 @@
 ## INDEX
 
 - [Modding Tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
-- [Bug Fixes and Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
-- [Facelift and Intelligent Textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#facelift-and-intelligent-textures)
-- [Expansion Delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind)
 - [Finishing Touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#adjusting-your-load-order)
     - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#automated-conflict-resolution)
@@ -42,7 +40,9 @@ One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties
 
 Now that we have installed all tools, the Morrowind Code Patch, our mod manager, and MGE XE, we can finally get onto patching Morrowind itself through mods.
 
-## BUG FIXES AND OPTIMIZATION
+## MENDING MORROWIND
+
+### BUG FIXES AND OPTIMIZATION
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The best unofficial fan patch for Morrowind.
@@ -78,7 +78,7 @@ Makes the game treat skill increases from quests as if there were raised via nor
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-## FACELIFT AND INTELLIGENT TEXTURES
+### FACELIFT AND INTELLIGENT TEXTURES
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
@@ -87,7 +87,7 @@ Addresses numerous mesh issues with the vanilla head meshes, leading to much bet
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The textures included in Intelligent Textures already contain the texture fixes present in the above mods.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
 
-## EXPANSION DELAY
+### EXPANSION DELAY
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
