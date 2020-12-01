@@ -51,6 +51,8 @@ Good luck!
 
 ## USER INTERFACE
 
+- [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+Adds the ability to filter ingredients based on their magic effects.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
@@ -63,20 +65,16 @@ High resolution replacer for the Daedric font used in scrolls.
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
 Restores the class description tooltip to the class selection menu.
+- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+Adds clock to UI that displays either game world time or real time.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
-- [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-- [**inom - Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN  
+- [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN  
 Allows the use of the mouse wheels to move items into and out of containers.
-- [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
-Adds the ability to filter ingredients based on their magic effects.
-- [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
-Adds clock to UI that displays either game world time or real time.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
@@ -157,14 +155,6 @@ Modifies the armor and clothes of the failed incarnates to better reflect their 
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**correctUV Diverse Ore Veins**](http://mw.modhistory.com/download-42-13484) by CJW-Craigor and Nich  
-Matches the ore container textures to the caves the containers are placed in, with better UV mapping by Nich.
-  - This mod is incorrectly packaged.
-    - Drag the **Meshes** folder into the mod's root directory in MO2.
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
-Vanilla-friendly improvement of the head meshes and textures.
-  - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
-    - Hide/delete the **Textures** folder. **Intelligent Textures** includes better textures.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
@@ -236,12 +226,12 @@ Equipped weapons will be shown on the character's hip or back. This new function
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
+The bows will better line up with the sheathing animation.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
   - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
-- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
-The bows will better line up with the sheathing animation.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
@@ -285,8 +275,6 @@ Adds groundcover to almost all regions.
 
 The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
-- **correctUV Ore Replacer 1.0.esp**
-  - Clean with TESTool and tes3cmd.
 - **Nordic Chest Replacer.esp**
   - Clean with TESTool and tes3cmd.
   - Delete the following records in TESAME:
@@ -352,14 +340,13 @@ Makes it so Ordinators will not kill you for wearing Indoril armor once you have
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
 Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
-- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+- [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
-  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Correct UV Ore + README**: only if you installed **correctUV Diverse Ore Veins** earlier.
-    - **10 Atlas - Vanilla BC Mushrooms**: only if you installed **Project Atlas** earlier.
-  - Hide/disable **correctUV Ore Replacer_fixed.esp**
-  - From **correctUV Diverse Ore Veins**, hide/disable **correctUV Ore Replacer 1.0.esp**
+  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Correct UV Ore + README**.
+    - **10 Atlas - Vanilla BC Mushrooms**.
+  - Hide/disable **correctUV Ore Replacer_respawning.esp**
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
 Makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
@@ -565,14 +552,6 @@ Unless explicitly stated, configure these mods through the in-game **Mod Configu
 
 **Continue**
 - Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
-
-**Essential Indicators**
-- In the **General Settings** tab you can disable the features of the mod. I personally prefer playing with all settings off minus the following:
-  - Enable Ownership Indicator. 
-  - Enable Sneak Indicator.
-  - Enable Messages.
-  - Enable Tooltip for Quest Items.
-- The remaining tabs offer additional configuration options. Feel free to configure them as you wish.
 
 **Less Aggressive Creatures**
 - In the **Peaceful Creatures Whitelist** tab, add the following creatures to the **Blocked** list:
