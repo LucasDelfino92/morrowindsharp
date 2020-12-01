@@ -50,16 +50,16 @@ This is a complete list of all mods present in the guide, installed as if you ha
 
 ### USER INTERFACE
 
+- Alchemy Filter
 - Better Dialogue Font
 - Better Daedric Font
 - Better Questlist
 - Class Description Tooltip
+- Clock Block
 - Continue
 - Hotkeys Extended
 - HUD Weapon Charge
 - Inventory Mouse Wheel
-- MWSE Alchemy Filter
-- MWSE Clock Block
 - New Game Confirmation
 - Quick Equip
 - Right Click Menu Exit
