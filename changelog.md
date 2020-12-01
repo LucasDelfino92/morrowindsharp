@@ -8,6 +8,8 @@
 
 - Mending Morrowind: moved **Fix Those Bastard Rope Fences** to this section (it's no gameplay mod, but something that everyone should play with).
 - Mending Morrowind: moved **Facelift** to this section (felt right given that Intelligent Textures was already there).
+- User Interface: re-added **Book Worm**.
+- User Interface: moved **Character Creation Name Generator** to this section (it's no gameplay mod, but a new menu).
 - User Interface: removed **Essential Indicators** (I don't think it's an essential mod and honestly I just used it for the smaller crosshair option).
 - Visuals: removed **correctUV Diverse Ore Veins** (unnecessary with Graphic Herbalism MWSE's patches).
 - Gameplay: simplified **Graphic Herbalism - MWSE Edition** installation instructions (removed unnecessary correctUV Diverse Ore Veins reference).
