@@ -4,6 +4,13 @@
 
 - [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## December 1st
+
+- Mending Morrowind: moved **Facelift** to this section (felt right given that Intelligent Textures was already there).
+- User Interface: removed **Essential Indicators** (I don't think it's an essential mod and honestly I just used it for the smaller crosshair option).
+- Visuals: removed **correctUV Diverse Ore Veins** (unnecessary with Graphic Herbalism MWSE's patches).
+- Gameplay: simplified **Graphic Herbalism - MWSE Edition** installation instructions (removed unnecessary correctUV Diverse Ore Veins reference).
+
 ## November 30th
 
 - Setup: added instructions to clean up the GOG installation in addition to removing the official plugins.
