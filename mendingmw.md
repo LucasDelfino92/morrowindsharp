@@ -63,13 +63,12 @@ Greatly improves performance and fixes some mesh errors.
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+- [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
+Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
   - Only install the **Glowing Flames** main file. The update files are not necessary.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
-
-### MWSE BUG FIXES
-
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
@@ -79,11 +78,6 @@ Makes the game treat skill increases from quests as if there were raised via nor
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-## EXPANSION DELAY
-
-- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
-Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
-
 ## FACELIFT AND INTELLIGENT TEXTURES
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
@@ -92,6 +86,11 @@ Addresses numerous mesh issues with the vanilla head meshes, leading to much bet
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The textures included in Intelligent Textures already contain the texture fixes present in the above mods.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
+
+## EXPANSION DELAY
+
+- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
+Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 
 ## FINISHING TOUCHES
 
