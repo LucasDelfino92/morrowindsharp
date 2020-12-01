@@ -63,6 +63,10 @@ High resolution replacer for the Daedric font used in scrolls.
     - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+Allows you to keep track of what books you have read by showing a "(Read)" indicator next to their names.
+- [**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
+Allows you to generate a random name for you character upon character creation.
 - [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
 Restores the class description tooltip to the class selection menu.
 - [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
@@ -374,8 +378,6 @@ Takes into account the distance to target when calculating the hit chance for ra
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. 
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
-Allows you to generate a random name for you character upon character creation.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
