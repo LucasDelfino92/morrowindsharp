@@ -9,32 +9,12 @@
 - [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
 - [Modding Morrowind load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-load-order)
 
-## MODDING MORROWIND ASSET CONFLICTS
+## MODDING MORROWIND CONFLICTS
 
-Because the base **Mending Morrowind** guide includes many bug fixes and optimizations for vanilla Morrowind content, there are many unavoidable conflicts present with mods included in **Modding Morrowind**.
-
-That said, there are a number of mods present in **Modding Morrowind** that are meant to be installed in a given order to ensure their patches are working as intended.
-
-- **GH Patches and Replacers** needs to be loaded after both **Correct UV Ore Replacer** and **Graphic Herbalism MWSE**.
-- **Project Atlas - Glow in the Dahrk Patch** needs to be loaded after **Glow in the Dahrk**.
-- **Weapon Sheathing - Bow Position Edit** and **Morrowind Optimization Patch - Weapon Sheathing Patch** need to be loaded after **Weapon Sheathing**.
-- **MWSEabotlib** needs to be loaded after any of **abot**'s mods.
-
-## MODDING MORROWIND PLUGIN CONFLICTS
-
-Because the base **Mending Morrowind** guide includes many bug fixes for vanilla Morrowind content, there are many unavoidable conflicts present with mods included in **Modding Morrowind**.
-
-That said, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible.
+Beyond mods that don't carry over bug fixes from the **Mending Morrowind** guide, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself, and this section is only present to explain why some need a special load order.
 
 - Ownership Overhaul.esp
-  - Load it just after **Mending Morrowind**'s mods so as to prevent it from overwriting crucial changes made by mods installed in **Modding Morrowind**.
-
->This will ensure Ownership Overhaul doesn't override crucial changes made by these mods to certain containers.
-
-- Realistic_Repair_Add-on.ESP
-  - Load before **Realistic_Repair_Add-on - Patch for Purists Patch.ESP**
-
->This will ensure the patch works as intended.
+  - Load it just after the **Mending Morrowind** guide's mods to prevent it from overwriting crucial changes made to containers by mods installed in **Modding Morrowind**.
 
 ## MODDING MORROWIND MOD LIST
 
@@ -63,6 +43,8 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
 - Expansion Delay
+- Facelift
+- Facelift Update
 - Intelligent Textures
 
 ### USER INTERFACE
@@ -72,7 +54,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Better Questlist
 - Class Description Tooltip
 - Continue
-- Essential Indicators
 - Hotkeys Extended
 - HUD Weapon Charge
 - Inventory Mouse Wheel
@@ -108,8 +89,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Cavern Of The Incarnate Overhaul - NPC Changes Only
 - Complete Armor Joints
 - correctUV Diverse Ore Veins
-- Facelift
-- Facelift Update
 - Flies
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
