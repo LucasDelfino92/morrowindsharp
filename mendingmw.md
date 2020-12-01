@@ -5,7 +5,7 @@
 ## INDEX
 
 - [Modding Tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
-- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind)
+- [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#mending-morrowind-1)
 - [Finishing Touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#adjusting-your-load-order)
     - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#automated-conflict-resolution)
