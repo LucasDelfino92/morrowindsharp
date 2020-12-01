@@ -4,11 +4,11 @@
 
 ## INDEX
 
-- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
-- [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
-- [Expansion Delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Modding Tips](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#modding-tips)
+- [Bug Fixes and Optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#bug-fixes-and-optimization)
 - [Facelift and Intelligent Textures](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#facelift-and-intelligent-textures)
-- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
+- [Expansion Delay](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#expansion-delay)
+- [Finishing Touches](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#finishing-touches)
     - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#adjusting-your-load-order)
     - [Automated conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#automated-conflict-resolution)
     - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md#synchronizing-mod-masters)
