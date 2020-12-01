@@ -11,7 +11,7 @@
 
 ## MODDING MORROWIND CONFLICTS
 
-Beyond mods that don't carry over bug fixes from the **Mending Morrowind** guide, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself, and this section is only present to explain why some need a special load order.
+Beyond mods that don't carry over bug fixes from the **Mending Morrowind** guide, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
 
 - Ownership Overhaul.esp
   - Load it just after the **Mending Morrowind** guide's mods to prevent it from overwriting crucial changes made to containers by mods installed in **Modding Morrowind**.
