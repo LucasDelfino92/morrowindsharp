@@ -37,15 +37,16 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
+- Fix Those Bastard Rope Fences
 - Glowing Flames
 - Expeditious Exit
 - Immersive Run Fix
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
-- Expansion Delay
 - Facelift
 - Facelift Update
 - Intelligent Textures
+- Expansion Delay
 
 ### USER INTERFACE
 
@@ -142,7 +143,6 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Dubdilla Location Fix
 - Early Transport to Mournhold
 - Easy Escort
-- Fix those bastard rope fences
 - FMI - Sane Ordinators
 - FMI - Service Refusal and Contraband
 - Gondolier Destinations
