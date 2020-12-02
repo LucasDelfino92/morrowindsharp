@@ -602,33 +602,17 @@ Greetings regarding clothes are now limited to clothiers, nobles and snooty High
 
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-- [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
-Closes the Molag Mar canton, on account of the ashstorms.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
-- [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis  
-Opens up the Vivec cantons.
-  - **NOTE**: this mod can heavily tank your FPS depending on your setup. As such, my advise is to leave this last and teleport to Vivec on a new game to test out your framerate. If you are satisfied with it, then you are free to begin a new game with this mod on your load order.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Vanilla Placement (ESP)**
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros  
 Transforms the empty corridor in the High Fane into a much more interesting location with a new background.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Full version**
-- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
-Places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery. 
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
-- [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort
- Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **Wolverine Hall Overhaul** folder.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ## FINISHING TOUCHES
 
@@ -649,8 +633,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
   - Clean with TESTool and tes3cmd.
 - **Morrowind Anti-Cheese.ESP**
   - Clean with TESTool and tes3cmd.
-- **ReclamationsInHolamayan.ESP**
-  - Clean with tes3cmd.
 - **QL_SevenGracesShrines.esp**
   - Clean with tes3cmd.
 
