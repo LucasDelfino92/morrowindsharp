@@ -290,8 +290,8 @@ Modifies the Nordic Iron Helm to look less stupid.
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Incarnates Overhauled**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
-Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/).
+- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file) by Aoimevelho  
+Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
@@ -612,6 +612,11 @@ Redesigns the shrines associated with the Seven Graces pilgrimage, making them l
   - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
+- [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort
+ Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **Wolverine Hall Overhaul** folder.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ## FINISHING TOUCHES
 
