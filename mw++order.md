@@ -14,7 +14,9 @@
 Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
 
 - Ownership Overhaul.esp
-  - Load it just after the **Core** section to prevent it from overwriting crucial changes made to containers by mods installed further down the guide.
+  - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
+- Yet Another Guard Diversity.esp
+  - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
 
 ## MORROWIND++ MOD LIST
 
@@ -224,13 +226,15 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### OVERHAULS
 
+- Yet Another Guard Diversity - Regular
+- No-Frills Closed Molag Mar
+- No-Frills Open Vivec
 - Passage of Prayers - High Fane Corridor Overhaul
 - Reclamations in Holamayan
 - Seven Graces Shrines Enhanced
 - Seven Graces Shrines Enhanced - No Script Edits
 - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
 - Shrine of Azura
-- Yet Another Guard Diversity - Regular
 
 ## MORROWIND++ LOAD ORDER
 
@@ -246,6 +250,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Ownership Overhaul.ESP
+- Yet Another Guard Diversity - Regular.ESP
 - Blight Storms Restored.ESP
 - Diseases Restored.ESP
 - Great Service.ESP
@@ -312,11 +317,12 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
+- No-Frills Closed Molag Mar.ESP
+- No-Frills Open Vivec.ESP
 - Passage of Prayers - Full.ESP
 - ReclamationsInHolamayan.ESP
 - QL_SevenGracesShrines.ESP
 - ShrineOfAzura.ESP
-- Yet Another Guard Diversity - Regular.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
