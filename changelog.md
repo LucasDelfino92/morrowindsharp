@@ -5,7 +5,9 @@
 ## December 2nd
 
 - Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
-- Overhauls: added **Wolverine Hall Overhaul**.
+- Overhauls: removed **No-Frills Open Vivec**. The performance hit and compatibility issues are too big to ignore.
+- Overhauls: removed **No-Frills Closed Molag Mar**. Pretty much pointless without the above mod installed.
+- Overhauls: removed **Reclamations in Holamayan**. Hardly essential.
 - Separated the Visuals section into multiple sections.
 
 ## December 1st
