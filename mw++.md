@@ -4,7 +4,7 @@
 
 ## INDEX
 
-- Introduction
+- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
   - Modding tips
   - Creating separators in Mod Organizer 2
   - Installing the modules
