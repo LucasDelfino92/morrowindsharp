@@ -291,7 +291,7 @@ Makes thrown weapon projectiles fly pointy end forward and, some of them, spin i
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Incarnates Overhauled**](https://www.mediafire.com/file/q8jpeviwgkzg43m/Cavern_of_the_Incarnate_Overhaul_-_NPC_Changes_Only.zip/file) by Aoimevelho  
-Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [Cavern Of The Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860/).
+Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds. This is a stripped down version of [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/).
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
@@ -477,7 +477,7 @@ Automatically synchronizes linked doors locked/unlocked state on activate, lock/
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
-Adds supply chests to factions that previously lacked any. This mod is a merge of the [Imperial Cult](https://www.nexusmods.com/morrowind/mods/47836), [Morag Tong](https://www.nexusmods.com/morrowind/mods/47753), and [Tribunal Temple](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [Imperial Legion Goods](https://www.nexusmods.com/morrowind/mods/43002). Credits go to their original authors.
+Adds supply chests to factions that previously lacked any. This mod is a merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002). Credits go to their original authors.
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
@@ -550,7 +550,7 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 Morrowind is a notoriously unbalanced game. These mods try to address some of its most glaring balance flaws, particularly the cheesing.
 
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11  
-Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
+Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
