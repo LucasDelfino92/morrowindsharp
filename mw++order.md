@@ -1,12 +1,13 @@
 # MORROWIND++
 
-[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md)
 
 ## INDEX
 
-- [**Morrowind++ conflicts**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-conflicts)
-- [**Morrowind++ mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-mod-list)
-- [**Morrowind++ load order**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order)
+- [Morrowind++ conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-conflicts)
+- [Morrowind++ mod list](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-mod-list)
+- [Morrowind++ load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order)
 
 ## MORROWIND++ CONFLICTS
 
