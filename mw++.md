@@ -244,8 +244,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 Morrowind is a 2002 game but, unlike what many people think, a fairly beautiful one thanks to a strong artstyle and MGE XE's features. The mods in this section aren't meant to overhaul what Morrowind looks like. That is, if you think Morrowind is an ugly game, the mods here won't do much to change your mind.
 
-
-
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk  
@@ -263,8 +261,6 @@ Adds a simple script to make Vivec properly loop his idle animation.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?) by EnvyDeveloper  
-Adds distant buildings to Mournhold, allowing you to see the temple from almost any part of the city. 
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
