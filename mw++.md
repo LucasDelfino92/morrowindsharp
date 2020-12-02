@@ -242,6 +242,10 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ## VISUALS
 
+Morrowind is a 2002 game but, unlike what many people think, a fairly beautiful one thanks to a strong artstyle and MGE XE's features. The mods in this section aren't meant to overhaul what Morrowind looks like. That is, if you think Morrowind is an ugly game, the mods here won't do much to change your mind.
+
+
+
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk  
@@ -596,6 +600,7 @@ Closes the Molag Mar canton, on account of the ashstorms.
   - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714) by Atrayonis  
 Opens up the Vivec cantons.
+  - **NOTE**: this mod can heavily tank your FPS depending on your setup. As such, my advise is to leave this last and teleport to Vivec on a new game to test out your framerate. If you are satisfied with it, then you are free to begin a new game with this mod on your load order.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement (ESP)**
