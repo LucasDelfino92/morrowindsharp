@@ -4,9 +4,9 @@
 
 ## INDEX
 
-- Morrowind++ conflicts
-- Morrowind++ mod list
-- 
+- [**Morrowind++ conflicts**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-conflicts)
+- [**Morrowind++ mod list**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-mod-list)
+- [**Morrowind++ load order**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order)
 
 ## MORROWIND++ CONFLICTS
 
