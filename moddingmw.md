@@ -685,11 +685,13 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [in this
 
 ### IN-GAME CONFIGURATION
 
-- Under the **Options** menu, go to the **Video** tab.
-  - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-  - Turn the **Real-time Shadows** slider all the way to the left, disabling them. These shadows look pretty bad, are glitchy, and not worth the performance hit.
+Regardless of the extent you've followed this guide through, I recommend making the folllowing in-game adjustments.
 
-Unless explicitly stated, configure these mods through the in-game **Mod Configuration** menu.
+- Under the **Options** menu, go to the **Video** tab.
+- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the **Real-time Shadows** slider all the way to the left, disabling them. These shadows look pretty bad, are glitchy, and not worth the performance hit.
+
+The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
 **Book Pickup**
 - Set **Pickup by default?** to **No**.
