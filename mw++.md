@@ -620,20 +620,22 @@ Adds some worshipers and other NPCs to make the shrine feel more like a real pla
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
-- **Nordic Chest Replacer.esp**
+- **Nordic Chest Replacer.ESP**
   - Delete the following records in TESAME:
     - Cell **Solstheim, Bloodskal Barrow**
 - **Divayth Fyr Puzzle Fixed.ESP**
   - Clean with TESTool and tes3cmd.
 - **Religions Elaborated.ESP**
   - Clean with tes3cmd.
-- **Dubdilla Location Fix.esp**
+- **Dubdilla Location Fix.ESP**
   - Clean with TESTool and tes3cmd.
-- **true corprus.esp**
+- **true corprus.ESP**
   - Clean with TESTool and tes3cmd.
 - **Morrowind Anti-Cheese.ESP**
   - Clean with TESTool and tes3cmd.
-- **QL_SevenGracesShrines.esp**
+- **Passage of Prayers - Full.ESP**
+  - Clean with TESTool.
+- **QL_SevenGracesShrines.ESP**
   - Clean with tes3cmd.
 
 ### MANUAL CONFLICT RESOLUTION
