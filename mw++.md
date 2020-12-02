@@ -599,6 +599,13 @@ Opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement (ESP)**
+- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros  
+Transforms the empty corridor in the High Fane into a much more interesting location with a new background.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core**
+    - **01 Full version**
+- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
+Places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery. 
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -626,6 +633,8 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
   - Clean with TESTool and tes3cmd.
 - **Morrowind Anti-Cheese.ESP**
   - Clean with TESTool and tes3cmd.
+- **ReclamationsInHolamayan.ESP**
+  - Clean with tes3cmd.
 - **QL_SevenGracesShrines.esp**
   - Clean with tes3cmd.
 
