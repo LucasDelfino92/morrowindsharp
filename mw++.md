@@ -5,31 +5,22 @@
 ## INDEX
 
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
-  - Modding tips
-  - Creating separators in Mod Organizer 2
-  - Installing the modules
-- Core
-  - Bug fixes and optimization
-  - Restored content
-  - High resolution textures
-  - High resolution user interface
-  - Quality of life improvements
-  - Expansion reimplementation
-- Visuals
-- Audio
-- Gameplay
-  - Polish
-  - New mechanics
-  - Balance
-- Dialogue
-- Overhauls
-- Finishing touches
-  - Manual conflict resolution
-  - Adjusting your load order
-  - Automated conflict resolution
-  - Synchronizing mod masters
-  - Running Distant Land
-  - In-game configuration
+  - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
+  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
+  - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
+- [Core](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core)
+  - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#bug-fixes-and-optimization)
+  - [Restored content](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#restored-content)
+  - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
+  - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
+  - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
+  - [Expansion reimplementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-reimplementation)
+- [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals)
+- [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
+- [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay)
+- [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue)
+- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#overhauls)
+- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
 
 ## INTRODUCTION
 
