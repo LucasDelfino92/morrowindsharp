@@ -538,7 +538,7 @@ Increases health upon level up as though endurance was at its current value for 
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - In [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - GMST **fJumpRunMultiplier**
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
@@ -610,7 +610,7 @@ Adds some worshipers and other NPCs to make the shrine feel more like a real pla
 
 ### CLEANING PLUGINS
 
-The following plugins are dirty and require cleaning. [Follow the instructions here on how to clean plugins.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Nordic Chest Replacer.esp**
   - Clean with TESTool and tes3cmd.
