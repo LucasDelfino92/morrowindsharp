@@ -715,4 +715,5 @@ The mods installed in this guide and configured as mentioned above will use the 
 
 Congratulations, your modded Morrowind installation is ready!
 
-[Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
+[Back to index](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#index)
