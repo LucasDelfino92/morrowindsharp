@@ -241,10 +241,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### OVERHAULS
 
 - Yet Another Guard Diversity - Regular
-- No-Frills Closed Molag Mar
-- No-Frills Open Vivec
 - Passage of Prayers - High Fane Corridor Overhaul
-- Reclamations in Holamayan
 - Seven Graces Shrines Enhanced
 - Seven Graces Shrines Enhanced - No Script Edits
 - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
@@ -330,10 +327,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
-- No-Frills Closed Molag Mar.ESP
-- No-Frills Open Vivec.ESP
 - Passage of Prayers - Full.ESP
-- ReclamationsInHolamayan.ESP
 - QL_SevenGracesShrines.ESP
 - ShrineOfAzura.ESP
 - Merged Objects.ESP
