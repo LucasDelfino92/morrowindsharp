@@ -106,50 +106,64 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 
-### VISUALS
+### VISUALS - READABLE SIGNPOSTS
+
+- Near Vanilla Road Sign Replacer OR Signposts Retextured
+
+### VISUALS - GROUNDCOVER
+
+- Remiros' Groundcover
+
+### VISUALS - WEAPON SHEATHING
+
+- Weapon Sheathing
+- Weapon Sheathing - Bow Position Edit
+- Morrowind Optimization Patch - Weapon Sheathing Patch
+
+### VISUALS - WEATHER AND LIGHTING
+
+- Glow in the Dahrk
+- Project Atlas - Glow in the Dahrk Patch
+- Let There Be Darkness - Lua Lighting Overhaul
+- The Midnight Oil - Lighting Overhaul
+- Transporter Lights
+- Weather Adjuster
+
+### VISUALS - VISUAL EFFECTS
 
 - Apel's Rain Replacer
 - Better Waterfalls
 - Bitter Coast Scum Replacer
-- Bloodmoon Hide Replacer
-- Buoyant Lord Vivec
-- Complete Armor Joints
-- Distant Mournhold
 - Flies
-- Glow in the Dahrk
-- Project Atlas - Glow in the Dahrk Patch
-- Golden Saint Feminine Walk
-- Improved Nordic Iron Helm Mesh
 - Improved Thrown Weapon Projectiles
-- Incarnates Overhauled
-- Let There Be Darkness - Lua Lighting Overhaul
-- Meteorite Ministry
 - Mist Retexture
 - Mistify
-- Nordic Chest Replacer
 - Parasol Particles
 - Realistic Blood
-- Simple Golden Gold
+- Shattered Stones - An Earthquake Mod
 - Skeleton and Metal Sparks Blood Retexture
-- Soldier Belts Fix
 - Subtle Magic Glow
 - Subtle Smoke
 - The Dream is the Door
-- The Midnight Oil - Lighting Overhaul
-- Transporter Lights
 - Unto Dust
 - Visually Filled Soul Gems
 - Vivec Palace Water Replacer
 - Waterfalls Tweaks
-- Weapon Sheathing
-- Weapon Sheathing - Bow Position Edit
-- Morrowind Optimization Patch - Weapon Sheathing Patch
-- Weather Adjuster
+
+### VISUALS - OTHER VISUAL TWEAKS
+
+- Bloodmoon Hide Replacer
+- Buoyant Lord Vivec
+- Complete Armor Joints
+- Golden Saint Feminine Walk
+- Improved Nordic Iron Helm Mesh
+- Incarnates Overhauled
+- Meteorite Ministry
+- Nordic Chest Replacer
+- Simple Golden Gold
+- Soldier Belts Fix
 - Well Diversified
 - Wolf Helmet Replacer
-- Near Vanilla Road Sign Replacer OR Signposts Retextured
-- Remiros' Groundcover
-- Shattered Stones - An Earthquake Mod
 
 ### AUDIO
 
@@ -264,22 +278,21 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Early Transport to Mournhold.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
+- NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
+- GITD_WL_RR_Interiors.ESP
+- TheMidnightOil.ESP
+- Flies.ESP
+- mistify.ESP
+- Shattered Stones - An Earthquake Mod.ESP
+- The Dream is the Door.ESP
+- Waterfalls Tweaks.ESP
 - Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
-- Mournhold LOD.ESP
-- Flies.ESP
-- GITD_WL_RR_Interiors.ESP
 - Incarnates Overhauled.ESP
 - Meteorite Ministry Temple.ESP
-- mistify.ESP
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.ESP
-- The Dream is the Door.ESP
-- TheMidnightOil.ESP
-- Waterfalls Tweaks.ESP
 - Well Diversified.ESP
-- NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
-- Shattered Stones - An Earthquake Mod.ESP
 - Distant Thunder (No Scripts).ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
