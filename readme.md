@@ -1,4 +1,4 @@
-# MORROWIND IMPROVED
+# MORROWIND++
 
 Last updated: July 19th, 2020.  
 Last maintained: December 1st, 2020. 
@@ -15,25 +15,26 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 ## DESCRIPTION
 
-*Morrowind Improved* is the result of years of modding Morrowind: a modding guide that aims to enhance Morrowind across the board but without sacrificing its unique aesthetic. This mod list has been curated to keep the ever present mod conflicts to a minimum, ensuring you get the best out of each mod you may choose to install.
+**Morrowind++** is the result of years of modding Morrowind: a modding guide that aims to enhance Morrowind across the board but without sacrificing its unique aesthetic. This mod list has been curated to keep the ever present mod conflicts to a minimum, ensuring you get the best out of each mod you may choose to install.
 
-This mod list is divided in two major sections:
+This guide is divided in three sections:
 
-- The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) and [Mending Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/mendingmw.md) guides, which explain how to install the game, set up tools and mod manager, and patch Morrowind for a mostly bug-free, stable, and purist Morrowind experience.
-- The [Modding Morrowind](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md) and [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guides, which explain how to install many mods that enhance Morrowind, and how to solve potential issues with said mods.
+- The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) guide, which explains how to get the game running, set up the tools and mod manager we'll be using to mod Morrowind.
+- The [Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmw.md) guide, designed to experience a modernized Morrowind without introducing radically new gameplay mechanics or content, or modding Morrowind's aesthetics beyond the point of being unrecognizable.
+- The [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guide, which goes deep into using the tools installed in Setup in order  to solve potential issues with the mods installed in Morrowind++.
 
-While the Setup and Mending Morrowind are meant for everyone who is looking into playing Morrowind, the Modding Morrowind and Tools guides are aimed at more experienced modders. The **Modding Morrowind** guide, in particular, is divided into a series of modules, all of which can be installed independently from one another.
+**Morrowind++** is divided into a series of modules, all of which can be installed independently from one another. The **Core** module, however, should be great for anyone willing to iron out the many issues plaguing vanilla Morrowind.
 
-All mods present in Morrowind Improved will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
+All mods present in Morrowind++ will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire).
 
-At the end of both **Mending Morrowind** and **Modding Morrowind** you will find respective links to their mod and load order, allowing you to check whether you have installed the mods as intended.
+At the end of Morrowind++ you will find a link to the mod order and load order, allowing you to check whether you have installed the mods as intended.
 
 ## CONSIDERATIONS
 
 There are a few things you may want to keep in mind before going through with this guide.
 
 - This guide consists of 150 mods and a total 65 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you.
-- The total size of the guide is roughly 2.4GB of uncompressed files, 1.3GB of compressed mods you will have to download. But the truth is that **Mending Morrowind** compromises most of the bulk.
+- The total size of the guide is roughly 2.4GB of uncompressed files, 1.3GB of compressed mods you will have to download. But the truth is that the **Core** module compromises most of the bulk.
 - My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it.
 - This guide is not designed with **OpenMW** or **Morrowind Rebirth** in mind. This guide makes heavy use of the features of the Morrowind Script Extender, incompatible with OpenMW, and many of the mods present in this guide will conflict with the Morrowind Rebirth overhaul. You have been warned.
 - This guide does not contemplate **Tamriel Rebuilt**: though compatibility with the mod itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods present in this guide.
