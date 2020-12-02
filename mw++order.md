@@ -225,6 +225,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### OVERHAULS
 
 - Passage of Prayers - High Fane Corridor Overhaul
+- Reclamations in Holamayan
 - Seven Graces Shrines Enhanced
 - Seven Graces Shrines Enhanced - No Script Edits
 - Seven Graces Shrines Enhanced - Simple Golden Gold Patch
@@ -312,6 +313,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Passage of Prayers - Full.ESP
+- ReclamationsInHolamayan.ESP
 - QL_SevenGracesShrines.ESP
 - ShrineOfAzura.ESP
 - Yet Another Guard Diversity - Regular.ESP
