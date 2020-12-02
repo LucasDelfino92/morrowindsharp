@@ -620,7 +620,6 @@ Adds some worshipers and other NPCs to make the shrine feel more like a real pla
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Nordic Chest Replacer.esp**
-  - Clean with TESTool and tes3cmd.
   - Delete the following records in TESAME:
     - Cell **Solstheim, Bloodskal Barrow**
 - **Divayth Fyr Puzzle Fixed.ESP**
