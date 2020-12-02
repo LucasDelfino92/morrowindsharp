@@ -497,6 +497,8 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 ### NEW MECHANICS
 
+From Daggerfall to Morrowind, plenty of mechanics were lost. In addition, existing mechanics don't work quite well. These mods bring back some mechanics present in Daggerfall and other popular RPGs, address some flaws in others, and overall contribute to a more interesting roleplaying experience.
+
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
@@ -554,6 +556,8 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### BALANCE
 
+Morrowind is a notoriously unbalanced game. These mods try to address some of its most glaring balance flaws, particularly the cheesing.
+
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
@@ -604,8 +608,6 @@ Opens up the Vivec cantons.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Placement (ESP)**
-- [**Reclamations In Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
-Places shrines of the Anticipations/Reclamations and a fresco with Boethiah in the Holamayan Monastery.
 - [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
   - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
@@ -634,8 +636,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
 - **Morrowind Anti-Cheese.ESP**
   - Clean with TESTool and tes3cmd.
 - **QL_SevenGracesShrines.esp**
-  - Clean with tes3cmd.
-- **ReclamationsInHolamayan.esp**
   - Clean with tes3cmd.
 
 ### MANUAL CONFLICT RESOLUTION
