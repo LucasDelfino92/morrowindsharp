@@ -547,7 +547,7 @@ Increases health upon level up as though endurance was at its current value for 
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - In TESAME, delete the following records: 
+  - In [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - GMST **fJumpRunMultiplier**
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
@@ -639,8 +639,6 @@ The following plugins are dirty and require cleaning. [Follow the instructions h
   - Clean with tes3cmd.
 
 ### MANUAL CONFLICT RESOLUTION
-
-The following plugins will conflict with each other. [Follow the instructions here on how to delete records using TESAME.](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 
 - Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
     - Cell **Balmora, Eastern Guard Tower**
