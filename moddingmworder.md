@@ -4,10 +4,9 @@
 
 ## INDEX
 
-- [Modding Morrowind asset conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-asset-conflicts)
-- [Modding Morrowind plugin conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-plugin-conflicts)
-- [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
-- [Modding Morrowind load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-load-order)
+- Morrowind++ conflicts
+- Morrowind++ mod list
+- 
 
 ## MORROWIND++ CONFLICTS
 
@@ -224,9 +223,14 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### OVERHAULS
 
+- Passage of Prayers - High Fane Corridor Overhaul
+- Seven Graces Shrines Enhanced
+- Seven Graces Shrines Enhanced - No Script Edits
+- Seven Graces Shrines Enhanced - Simple Golden Gold Patch
+- Shrine of Azura
 - Yet Another Guard Diversity - Regular
 
-## MODDING MORROWIND LOAD ORDER
+## MORROWIND++ LOAD ORDER
 
 This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
 
@@ -306,6 +310,9 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
+- Passage of Prayers - Full.ESP
+- QL_SevenGracesShrines.ESP
+- ShrineOfAzura.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
