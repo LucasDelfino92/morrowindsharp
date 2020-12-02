@@ -6,6 +6,7 @@
 
 - Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
 - Overhauls: added **Wolverine Hall Overhaul**.
+- Separated the Visuals section into multiple sections.
 
 ## December 1st
 
