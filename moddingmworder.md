@@ -1,4 +1,4 @@
-# MODDING MORROWIND
+# MORROWIND++
 
 [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
@@ -9,16 +9,14 @@
 - [Modding Morrowind mod list](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-mod-list)
 - [Modding Morrowind load order](https://github.com/Sigourn/morrowind-improved/blob/master/moddingmworder.md#modding-morrowind-load-order)
 
-## MODDING MORROWIND CONFLICTS
+## MORROWIND++ CONFLICTS
 
-Beyond mods that don't carry over bug fixes from the **Mending Morrowind** guide, there are a number of plugins present in **Modding Morrowind** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
+Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
 
 - Ownership Overhaul.esp
-  - Load it just after the **Mending Morrowind** guide's mods to prevent it from overwriting crucial changes made to containers by mods installed in **Modding Morrowind**.
+  - Load it just after the **Core** section to prevent it from overwriting crucial changes made to containers by mods installed further down the guide.
 
-## MODDING MORROWIND MOD LIST
-
-This is a complete list of all mods present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
+## MORROWIND++ MOD LIST
 
 ### OFFICIAL DLCs
 
@@ -31,7 +29,7 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - MGE XE Shader - deband_fogaware
 - MGE XE Shader - EdgeAA
 
-### MENDING MORROWIND
+### CORE - BUG FIXES AND OPTIMIZATION
 
 - Patch for Purists
 - Correct UV Rocks
@@ -43,160 +41,190 @@ This is a complete list of all mods present in the guide, installed as if you ha
 - Immersive Run Fix
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
+
+### CORE - RESTORED CONTENT
+
+- Blight Storms Restored
+- Creature VFX Restoration
+- Diseases Restored
+- Great Service
+- Services Restored
+- Sound Spell Sound Effect
+
+### CORE - HIGH RESOLUTION TEXTURES
+
 - Facelift
 - Facelift Update
 - Intelligent Textures
-- Expansion Delay
 
-### USER INTERFACE
+### CORE - HIGH RESOLUTION USER INTERFACE
 
-- Alchemy Filter
-- Better Dialogue Font
 - Better Daedric Font
-- Better Questlist
-- Class Description Tooltip
-- Clock Block
-- Continue
-- Hotkeys Extended
-- HUD Weapon Charge
-- Inventory Mouse Wheel
-- New Game Confirmation
-- Quick Equip
-- Right Click Menu Exit
-- Shrine Tooltips
-- UI Expansion
+- Better Dialogue Font
+- Pete's Scroll 2018 ...in 2020
 - Logo Video Intro Reworked (Widescreen)
 - Title Screen Reworked (Widescreen)
 - Widescreen Splash Replacer
 - Widescreen Splash Additions
 
-### CONTENT RESTORATION
+### CORE - QUALITY OF LIFE IMPROVEMENTS
 
-- Blight Storms Restored
-- Bloated Caves
-- Creature VFX Restoration
-- Great Service
-- Services Restored
-- Silt Strider Animation Restored
-- Sound Spell Sound Effect
+- Alchemy Filter
+- Better Questlist
+- Book Pickup
+- Clock Block
+- Continue
+- Dahrk's Super-Sized Storage (D'sSSS)
+- Diligent Defenders
+- Easy Escort
+- Gondolier Destinations
+- Graphic Herbalism MWSE
+- GH Patches and Replacers
+- Hotkeys Extended
+- HUD Weapon Charge
+- Inventory Mouse Wheel
+- Kill Command
+- Lower First Person Sneak Mode
+- New Game Confirmation
+- Quick Equip
+- Right Click Menu Exit
+- Security Enhanced
+- Shrine Tooltips
+- Smart Ammo
+- Smart Map
+- MWSEabotlib
+- Switchable Scriptures
+- Torch Hotkey
+- UI Expansion
+
+### CORE - EXPANSION REIMPLEMENTATION
+
+- Expansion Delay
+- Early Transport to Mournhold
+- Tribunal Rebalance
+- Bloodmoon Rebalance
 
 ### VISUALS
 
 - Apel's Rain Replacer
-- Bitter Coast Scum Replacer
-- Vivec Palace Water Replacer
 - Better Waterfalls
+- Bitter Coast Scum Replacer
 - Bloodmoon Hide Replacer
-- Cavern Of The Incarnate Overhaul - NPC Changes Only
+- Buoyant Lord Vivec
 - Complete Armor Joints
+- Distant Mournhold
 - Flies
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Golden Saint Feminine Walk
+- Improved Nordic Iron Helm Mesh
 - Improved Thrown Weapon Projectiles
+- Incarnates Overhauled
 - Let There Be Darkness - Lua Lighting Overhaul
-- Mistify
+- Meteorite Ministry
 - Mist Retexture
+- Mistify
 - Nordic Chest Replacer
 - Parasol Particles
-- Pete's Scroll 2018 ...in 2020
+- Realistic Blood
 - Simple Golden Gold
+- Skeleton and Metal Sparks Blood Retexture
+- Soldier Belts Fix
 - Subtle Magic Glow
 - Subtle Smoke
 - The Dream is the Door
+- The Midnight Oil - Lighting Overhaul
 - Transporter Lights
 - Unto Dust
 - Visually Filled Soul Gems
+- Vivec Palace Water Replacer
 - Waterfalls Tweaks
 - Weapon Sheathing
-- Morrowind Optimization Patch - Weapon Sheathing Patch
 - Weapon Sheathing - Bow Position Edit
+- Morrowind Optimization Patch - Weapon Sheathing Patch
 - Weather Adjuster
 - Well Diversified
 - Wolf Helmet Replacer
 - Near Vanilla Road Sign Replacer OR Signposts Retextured
 - Remiros' Groundcover
+- Shattered Stones - An Earthquake Mod
 
 ### AUDIO
 
+- Distant Thunder (No Scripts)
 - Greet Distance Reducer
+- Haunted Barrows
+- Heartthrum
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
 - Silent Assassins
 - Sounds of Souls
+- Water Sounds
 
-### GAMEPLAY
+### GAMEPLAY - POLISH
 
 - Ownership Overhaul
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
-- Bed Buddies
 - Blighted Mine Means Blighted Workers
-- Book Pickup
-- Brutal Backstabbing
 - Corprus Fix
-- Dahrk's Super-Sized Storage (D'sSSS)
-- Diligent Defenders
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
-- Early Transport to Mournhold
-- Easy Escort
+- FMI - Hospitality Papers Expanded
 - FMI - Sane Ordinators
 - FMI - Service Refusal and Contraband
-- Gondolier Destinations
-- Graphic Herbalism MWSE
-- GH Patches and Replacers
-- Higher Faction Requirements
-- Kill Command
-- Less Aggressive Creatures
 - Loading Doors Lock Tune
+- Religions Elaborated - No Quest Changes
+- Supply Chests Merged
+- Temples with Shrines
+- The Publicans
+
+### GAMEPLAY - NEW MECHANICS
+
+- Bed Buddies
+- Blight is Coming
+- Brutal Backstabbing
 - Lock Bashing
-- Lower First Person Sneak Mode
-- Lucky Strke - A Critical Hit Mod
+- Lucky Strike - A Critical Hit Mod
 - Magicka Based Skill Progression
 - Marksman Rebalanced
 - Merlord's Starting Equipment
-- MWSE Character Creation Name Generator
 - MWSE Magicka Regen
 - No Rest Without Beds
 - Poison Crafting
-- Projectile Enchant Capacity
 - Putting Power In Willpower
-- Realistic Movement Speeds
 - Realistic Repair
-- Corsair83's Realistic Repair - Add-on
-- Corsair83's Realistic Repair - Add-on - Patch for Purists Patch
-- Religions Elaborated - No Quest Changes
+- Realistic Repair - Add-on
+- Realistic Repair - Add-on - Patch for Purists Patch
 - Retroactive Health Gain
-- Security Enhanced
 - Sneaky Strike
 - Speed and Movement Rebalanced
-- Supply Chests Merged
-- Switchable Scriptures
-- Synthesis Series - Creatures and Diseases
-- Temples with Shrines
-- The Midnight Oil - Lighting Overhaul
-- The Publicans
-- Torch Hotkey
 - Wings of Will - Willpower Based Levitation Speed
-- Yet Another Guard Diversity - Regular
 
-### GAMEPLAY MWSE ABOT
+### GAMEPLAY - BALANCE
 
-- Smart Ammo
-- Smart Map
-- MWSEabotlib
-
-### GAMEPLAY BALANCE
-
-- Tribunal Rebalance
-- Bloodmoon Rebalance
-- Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - Better Blance Booze - Heavy Drinker Mode
+- Beware the Sixth House (Sixth House Overhaul)
 - Controlled Consumption
 - Harder Barter
+- Higher Faction Requirements
 - Limited Leaping
+- Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- Projectile Enchant Capacity
+- Realistic Movement Speeds
+
+### DIALOGUE
+
+- FMI - Nice to Meet You
+- FMI - NotAllDunmer
+- Greetings for No Lore
+- LDM - Context Matters
+- Outfit Greetings Tweaked
+
+### OVERHAULS
+
+- Yet Another Guard Diversity - Regular
 
 ## MODDING MORROWIND LOAD ORDER
 
@@ -211,26 +239,40 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Expansion Delay.ESP
 - Ownership Overhaul.ESP
-- AlchemyFilter.ESP
 - Blight Storms Restored.ESP
-- Bloated Caves.ESP
+- Diseases Restored.ESP
 - Great Service.ESP
 - Services Restored.ESP
-- Silt Strider Animation Restored.ESP
 - SoundSpellSoundEffect.ESP
-- COI - NPC Changes Only.ESP
+- AlchemyFilter.ESP
+- PB_GondolierDestinations.ESP
+- correctUV Ore Replacer_fixed.ESP
+- LowerFirstPersonSneak.ESP
+- Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.ESP
+- Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
+- Mournhold LOD.ESP
 - Flies.ESP
 - GITD_WL_RR_Interiors.ESP
+- Incarnates Overhauled.ESP
+- Meteorite Ministry Temple.ESP
 - mistify.ESP
 - Nordic Chest Replacer.ESP
+- SoldierBeltsFix.ESP
 - The Dream is the Door.ESP
+- TheMidnightOil.ESP
 - Waterfalls Tweaks.ESP
 - Well Diversified.ESP
 - NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
+- Shattered Stones - An Earthquake Mod.ESP
+- Distant Thunder (No Scripts).ESP
 - hw_GreetDistanceReducer.ESP
+- Haunted Barrows.ESP
+- RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
 - Silent Assassins.ESP
 - Abundant Adamantium.ESP
@@ -239,32 +281,32 @@ This is a complete list of all plugins present in the guide, installed as if you
 - true corprus.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
-- Early Transport to Mournhold.ESP
+- Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_SaneOrdinators.ESP
 - FMI_ServiceRefusal_Contraband.ESP
-- PB_GondolierDestinations.ESP
-- correctUV Ore Replacer_respawning.ESP
-- higher faction requirements - Full.ESP
+- Religions Elaborated.ESP
+- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
+- Temples With Shrines.ESP
+- The Publicans.ESP
+- Blight Is Coming.ESP
 - mwse_LockBashing.ESP
-- LowerFirstPersonSneak.ESP
 - Lucky Strike.ESP
 - mwse_PoisonCrafting.ESP
-- Projectile Enchant Capacity.ESP
 - Putting Power in Willpower - Absorbonach.ESP
 - Realistic_Repair_Add-on.ESP
 - Realistic_Repair_Add-on - Patch for Purists Patch.ESP
-- Religions Elaborated.ESP
 - Speed and Movement.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
-- Synthesis Series - Creatures and Diseases.ESP
-- Temples With Shrines.ESP
-- TheMidnightOil.ESP
-- The Publicans.ESP
-- Yet Another Guard Diversity - Regular.ESP
-- tribunal rebalance.ESP
-- Bloodmoon Rebalance.ESP
-- Morrowind Anti-Cheese.ESP
 - better balanced booze_hardcore.ESP
+- Beware the Sixth House.ESP
+- higher faction requirements - Full.ESP
+- Morrowind Anti-Cheese.ESP
+- Projectile Enchant Capacity.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- Greetings for No Lore.ESP
+- outfit greetings tweaked.ESP
+- LDM - Context Matters.ESP
+- Yet Another Guard Diversity - Regular.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
