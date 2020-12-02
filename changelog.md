@@ -2,7 +2,12 @@
 
 ## INDEX
 
-- [Back to main page](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+- [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+
+## December 2nd
+
+- Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
+- Overhauls: added **Wolverine Hall Overhaul**.
 
 ## December 1st
 
