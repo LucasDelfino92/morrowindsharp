@@ -282,6 +282,8 @@ The first thing you will notice about this tab is that all options minus **Use D
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg). In the future you may want to modify them.
 
+> NOTE: if for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
+
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. While not every mod modifies statics to the point of needing to regenerate them, it doesn't hurt to do so. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window.
 
 ### IN-GAME TAB
