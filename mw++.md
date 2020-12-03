@@ -109,6 +109,8 @@ Certain content was cut before Morrowind shipped. These mods restore some of it.
 Restores the function of catching blight disease while out in a blight storm.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
+- [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
+Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue. 
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11  
