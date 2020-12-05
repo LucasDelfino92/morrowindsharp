@@ -126,7 +126,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Let There Be Darkness - Lua Lighting Overhaul
-- The Midnight Oil - Lighting Overhaul
 - Transporter Lights
 - Weather Adjuster
 
@@ -142,7 +141,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Mistify
 - Perfectly Proficient Parasol Particles Performance Patch
 - Realistic Blood
-- Shattered Stones - An Earthquake Mod
 - Skeleton and Metal Sparks Blood Retexture
 - Subtle Magic Glow
 - Subtle Smoke
@@ -274,10 +272,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Bloodmoon Rebalance.ESP
 - NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 - GITD_WL_RR_Interiors.ESP
-- TheMidnightOil.ESP
 - Flies.ESP
 - mistify.ESP
-- Shattered Stones - An Earthquake Mod.ESP
 - The Dream is the Door.ESP
 - Waterfalls Tweaks.ESP
 - Buoyant Lord Vivec.ESP
