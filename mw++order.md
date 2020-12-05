@@ -187,9 +187,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Corprus Fix
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
-- FMI - Hospitality Papers Expanded
-- FMI - Sane Ordinators
-- FMI - Service Refusal and Contraband
 - Loading Doors Lock Tune
 - One-handed Adamantium Axe
 - Religions Elaborated - No Quest Changes
@@ -236,8 +233,11 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Idle Talk
 - Its a Deal
+- FMI - Hospitality Papers Expanded
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
+- FMI - Sane Ordinators
+- FMI - Service Refusal and Contraband
 - Greetings for No Lore
 - LDM - Context Matters
 - Outfit Greetings Tweaked
@@ -299,9 +299,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - true corprus.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
-- Hospitality_Papers_Expanded_v2.7.ESP
-- FMI_SaneOrdinators.ESP
-- FMI_ServiceRefusal_Contraband.ESP
 - Adamantium Axe 1H.ESP
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
@@ -321,8 +318,11 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Morrowind Anti-Cheese.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
+- Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
+- FMI_SaneOrdinators.ESP
+- FMI_ServiceRefusal_Contraband.ESP
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
