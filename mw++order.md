@@ -1,6 +1,6 @@
 # MORROWIND++
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md)
 
 ## INDEX
@@ -331,3 +331,5 @@ This is a complete list of all plugins present in the guide, installed as if you
 - **Rem_WG.ESP**
 
 Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
+
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
