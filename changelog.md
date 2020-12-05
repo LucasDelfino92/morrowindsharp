@@ -5,6 +5,8 @@
 
 ## December 5th
 
+For the first time in months, I'm bringing the guide up to date! \o/
+
 - Core: added **Blighted Blight**.
 - Core: removed **Blight Storms Restored**. Replaced.
 - Core: added **Pluginless and Adjustable Lower First Person Sneak**.
