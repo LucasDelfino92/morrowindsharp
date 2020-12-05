@@ -336,11 +336,6 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Animated Replacer - Original Color**
-- [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by R-Zero and Greatness7  
-Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core - Vertical System**
-    - **01 Enlightened Flames**
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
@@ -511,10 +506,6 @@ Adds supply chests to factions that previously lacked any. This mod is a merge o
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?) by R-Zero  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
-  - MO2 will tell you there's no game data on top level.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ### NEW MECHANICS
 
@@ -522,12 +513,8 @@ From Daggerfall to Morrowind, plenty of mechanics were lost. In addition, existi
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
-Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
-Adds in lock-bashing from Daggerfall, but using Lua.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
   - This mod is incorrectly packaged.
@@ -539,29 +526,15 @@ Spellcasting skills advance based on the amount of Magicka spent, rather than th
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord  
-Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. 
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
-Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
-Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally, when an NPC dies, all their equipped gear is damaged to <20% condition.
-  - Right click **Data Files** and click **Set data directory**.
-  - Untick **Realistic_Repair_Optional.esp**. Click **OK**.
-- [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83  
-A simple rework and extension to the optional mod included in Merlord's Realistic Repair, which aims to add new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
-- [**Realistic Repair - Add-on - Patch for Purists Patch**](https://www.mediafire.com/file/zsbdfs0dvj8doh0/Corsair83%27s_Realistic_Repair_-_Add-on_v1.1_-_Patch_for_Purists_Patch.zip/file) by Sigourn  
-Addresses conflicts between Realistic Repair - Add-on and Patch for Purists.
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
 Increases health upon level up as though endurance was at its current value for past levels.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
