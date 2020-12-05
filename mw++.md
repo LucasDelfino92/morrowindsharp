@@ -312,8 +312,6 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
-Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
@@ -360,11 +358,6 @@ Makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. 
     - Right click on **data**, and click **Create directory...**. Name this new folder **textures**. Click **OK**. 
     - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek  
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. The quakes are implemented strictly for atmospheric purposes and should not directly affect gameplay or conflict with any other mods.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - This mod requires additional MGE XE instructions featured in the mod's page. Read them carefully.
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero  
 Retextures the Skeleton (white) and Metal Sparks (gold) textures.
   - MO2 will tell you there's no game data on top level. 
