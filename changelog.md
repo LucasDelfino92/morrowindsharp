@@ -5,12 +5,12 @@
 
 ## December 4th
 
-- Visuals: removed **Meteorite Ministry**. It stands out too much from the vanilla game.
+- Visuals: removed **Meteorite Ministry**. Stands out too much from the vanilla game.
 - Audio: removed **Distant Thunder**. Unnecessarily complicated installation instructions for such a non-issue.
 - Gameplay: updated **Ownership Overhauls** installation instructions. Now asks to hide the .esp plugin.
 - Gameplay: added **Beware the Sixth House**. Was listed in the mod order and load order, but missing from Morrowind++.
-- Overhauls: removed **Passage of Prayers - High Fane Corridor Overhaul**. It stands out too much from the vanilla game.
-- Overhauls: removed **Seven Graces Shrines - Enhanced**. It stands out too much from the vanilla game.
+- Overhauls: removed **Passage of Prayers - High Fane Corridor Overhaul**. Stands out too much from the vanilla game.
+- Overhauls: removed **Seven Graces Shrines - Enhanced**. Stands out too much from the vanilla game.
 
 To revert the INI changes from **Distant Thunder**, replace the following INI lines with these values.  
 
