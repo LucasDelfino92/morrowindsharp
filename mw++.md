@@ -389,10 +389,13 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Adds a simple script to make Vivec properly loop his idle animation.
-  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Tick **00Vanilla** and click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069) by Darkfri  
+Fix UV's and improve a bit the dry stone walls that you can see in some imperial towns.
+  - MO2 will install this mod as a BAIN package. Tick **0 - Vanilla with UV fixes** and click **OK**.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - MO2 will tell you there's no game data on top level. 
@@ -583,6 +586,10 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 
 These mods improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, and more.
 
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
+ Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
