@@ -595,7 +595,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
 - [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
 Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
-  - Only install the **** main file.
+  - Only install the **Simple Smith Dialogue** main file.
 
 ## OVERHAULS
 
