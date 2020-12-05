@@ -1,6 +1,7 @@
 # MORROWIND++ CHANGELOG
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
 ## December 4th
 
@@ -61,3 +62,6 @@ It is not the intention of this guide to mess with existing quests in any way or
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
+
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
