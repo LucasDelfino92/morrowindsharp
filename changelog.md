@@ -25,7 +25,7 @@ For the first time in months, I'm bringing the guide up to date! \o/
 - Dialogue: moved **FMI - Sane Ordinators** to this section.
 - Dialogue: moved **FMI - Service Refusal and Contraband** to this section.
 
-The following mods have been removed:
+The following mods have been removed, the reasoning being that they added entirely new mechanics that go beyond what I'd like to see added in Morrowind++, and in the case of Shrine of Azura, being the only overhaul left to remove (it blends in nicely with the vanilla game, but I don't want to turn Morrowind++ into a guide that adds any overhaul that does that).
 
 - Visuals: removed **The Midnight Oil - Lighting Overhaul**.
 - Gameplay: removed **Blight is Coming**.
