@@ -25,6 +25,9 @@ For the first time in months, I'm bringing the guide up to date! \o/
 - Dialogue: added **Idle Talk**.
 - Dialogue: added **Its a Deal**.
 - Dialogue: added **Simple Smith Dialogue**.
+- Dialogue: moved **FMI - Hospitality Papers** to this section.
+- Dialogue: moved **FMI - Sane Ordinators** to this section.
+- Dialogue: moved **FMI - Service Refusal and Contraband** to this section.
 
 ## December 4th
 
