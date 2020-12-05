@@ -13,8 +13,6 @@
 
 Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
 
-- Ownership Overhaul.esp
-  - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
 - Yet Another Guard Diversity.esp
   - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
 
@@ -250,12 +248,12 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Tribunal.esm
 - Bloodmoon.esm
 - Patch for Purists.esm
+- Ownership Overhaul.esm
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Ownership Overhaul.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - Blight Storms Restored.ESP
 - Diseases Restored.ESP
@@ -321,8 +319,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
-- Passage of Prayers - Full.ESP
-- QL_SevenGracesShrines.ESP
 - ShrineOfAzura.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
