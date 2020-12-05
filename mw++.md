@@ -608,8 +608,6 @@ Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
 
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
-Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
 
 ## FINISHING TOUCHES
 
