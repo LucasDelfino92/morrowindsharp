@@ -240,10 +240,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### OVERHAULS
 
 - Yet Another Guard Diversity - Regular
-- Passage of Prayers - High Fane Corridor Overhaul
-- Seven Graces Shrines Enhanced
-- Seven Graces Shrines Enhanced - No Script Edits
-- Seven Graces Shrines Enhanced - Simple Golden Gold Patch
 - Shrine of Azura
 
 ## MORROWIND++ LOAD ORDER
