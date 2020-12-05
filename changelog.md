@@ -3,6 +3,17 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 5th
+
+- Core: added **Blighted Blight**.
+- Core: removed **Blight Storms Restored**. Replaced.
+- Core: added **Pluginless and Adjustable Lower First Person Sneak**.
+- Core: removed **Lower First Person Sneak Mode**. Replaced.
+- Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
+- Visuals: removed **Parasol Particles**. Replaced.
+- Gameplay: added **Enchant Capacity Rebalanced**.
+- Gameplay: removed **Projectile Enchant Capacity**. Replaced.
+
 ## December 4th
 
 - Visuals: removed **Meteorite Ministry**. Stands out too much from the vanilla game.
