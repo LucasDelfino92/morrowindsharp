@@ -400,6 +400,9 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069) by Darkfri  
 Fix UV's and improve a bit the dry stone walls that you can see in some imperial towns.
   - MO2 will install this mod as a BAIN package. Tick **0 - Vanilla with UV fixes** and click **OK**.
+- [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
+Retextures the female Imperial Steel Cuirass to look like its male counterpart.
+  - Only install the **Imperial Female Cuirass Retexure** main file.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - MO2 will tell you there's no game data on top level. 
@@ -608,6 +611,9 @@ Replaces the three standard No Lore greetings with over sixty new ones.
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
 Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
+- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
+Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
+  - Only install the **** main file.
 
 ## OVERHAULS
 
