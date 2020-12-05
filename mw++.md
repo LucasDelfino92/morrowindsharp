@@ -693,10 +693,6 @@ The following mods require additional configuration through the in-game **Mod Co
 **Security Enhanced**
 - Set the **Assign Keybind for Lockpick Hotkey** key to **O** (the **L** is used by **Let There Be Darkness**).
 
-**Shattered Stones - An Earthquake Mod**
-- Access the in-game console by pressing the key to the left of the "1" key.
-- Type **set fQuakeChance to 5** to reduce earthquake chance from 30% to 5%.
-
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
 - **Quick Equip**: left click + Left Shift when clicking on inventory items will equip them or use them (in the case of consumables).
