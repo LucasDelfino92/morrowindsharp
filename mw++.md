@@ -398,13 +398,6 @@ Modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file) by Aoimevelho  
 Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
-- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
-Adds a tail of smaller rocks to the Ministry of Truth, giving it a more dramatic and moving-object-suspended-in-mid-flight look.
-  - Drag the **ex_vivec_prisonmoon_01.nif** mesh found inside the Extras folder and drop it into the Meshes\x\ folder where **ex_vivec_prisonmoon_tail.nif** is found.
-  - Hide/delete the following plugins:
-    - Meteorite Ministry Palace - Higher.ESP
-    - Meteorite Ministry Palace.ESP
-    - Meteorite Ministry Temple - Higher.ESP
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut  
