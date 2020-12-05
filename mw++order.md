@@ -271,6 +271,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Great Service.ESP
 - Services Restored.ESP
 - SoundSpellSoundEffect.ESP
+- Better_Typography_Bookarts_Fix.ESP
 - AlchemyFilter.ESP
 - PB_GondolierDestinations.ESP
 - correctUV Ore Replacer_fixed.ESP
