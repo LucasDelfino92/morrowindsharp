@@ -37,6 +37,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Project Atlas
 - Fix Those Bastard Rope Fences
 - Glowing Flames
+- Silver and Nordic Cuirasses Fixed
 - Expeditious Exit
 - Immersive Run Fix
 - Quest Skill Reward Fix
@@ -155,9 +156,11 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Complete Armor Joints
 - Dry Stone Walls Revamped
 - Golden Saint Feminine Walk
+- Imperial Female Cuirass Retex
 - Improved Nordic Iron Helm Mesh
 - Incarnates Overhauled
 - Nordic Chest Replacer
+- Practical Pauldrons - Streamlined Shoulders
 - Simple Golden Gold
 - Soldier Belts Fix
 - Well Diversified
@@ -188,6 +191,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - FMI - Sane Ordinators
 - FMI - Service Refusal and Contraband
 - Loading Doors Lock Tune
+- One-handed Adamantium Axe
 - Religions Elaborated - No Quest Changes
 - Supply Chests Merged
 - Temples with Shrines
@@ -237,6 +241,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Greetings for No Lore
 - LDM - Context Matters
 - Outfit Greetings Tweaked
+- Simple Smith Dialogue
 
 ### OVERHAULS
 
@@ -297,6 +302,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_SaneOrdinators.ESP
 - FMI_ServiceRefusal_Contraband.ESP
+- Adamantium Axe 1H.ESP
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Temples With Shrines.ESP
@@ -320,6 +326,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
+- Simple Smith Dialogue.ESP
 - ShrineOfAzura.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
