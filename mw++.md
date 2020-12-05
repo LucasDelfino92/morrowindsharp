@@ -685,7 +685,6 @@ The following mods require additional configuration through the in-game **Mod Co
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
 - In the **Light Settings** tab, set the **Light radius scaling** slider to **120%**.
-- In the **Light Settings** tab, set **Disable lights without a mesh** to **On**.
 
 **Putting Power in Willpower**
 - Set **Allow negative Resist Bonus** to **On**.
