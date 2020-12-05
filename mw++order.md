@@ -62,6 +62,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Better Daedric Font
 - Better Dialogue Font
+- Comrade Raven's Book Arts Replacer
 - Pete's Scroll 2018 ...in 2020
 - Logo Video Intro Reworked (Widescreen)
 - Title Screen Reworked (Widescreen)
@@ -71,6 +72,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### CORE - QUALITY OF LIFE IMPROVEMENTS
 
 - Alchemy Filter
+- Better Buoyancy
 - Better Questlist
 - Book Pickup
 - Clock Block
@@ -133,6 +135,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Apel's Rain Replacer
 - Better Waterfalls
 - Bitter Coast Scum Replacer
+- Enlightened Flames
 - Flies
 - Improved Thrown Weapon Projectiles
 - Mist Retexture
@@ -193,6 +196,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Supply Chests Merged
 - Temples with Shrines
 - The Publicans
+- Wading in Water MW
 
 ### GAMEPLAY - NEW MECHANICS
 
