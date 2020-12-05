@@ -10,14 +10,18 @@ For the first time in months, I'm bringing the guide up to date! \o/
 - Core: added **Silver and Nordic Cuirasses Fixed**.
 - Core: added **Blighted Blight**.
 - Core: removed **Blight Storms Restored**. Replaced.
+- Core: added **Comrade Raven's Book Arts Replacer**.
+- Core: added **Better Buoyancy**
 - Core: added **Pluginless and Adjustable Lower First Person Sneak**.
 - Core: removed **Lower First Person Sneak Mode**. Replaced.
+- Visuals: added **Enlightened Flames**.
 - Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
 - Visuals: removed **Parasol Particles**. Replaced.
 - Visuals: added **Dry Stone Walls Revamped**.
 - Visuals: added **Imperial Female Cuirass Retex**.
 - Visuals: added **Practical Pauldrons - Streamlined Shoulders**.
 - Gameplay: added **One-handed Adamantium Axe**.
+- Gameplay: added **Wading in Water MW**.
 - Gameplay: added **Lua Lockbashing**.
 - Gameplay: removed **Lock Bashing**. Replaced.
 - Gameplay: added **Enchant Capacity Rebalanced**.
