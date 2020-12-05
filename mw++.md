@@ -5,6 +5,7 @@
 ## INDEX
 
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
+  - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
@@ -24,6 +25,10 @@
   - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
 
 ## INTRODUCTION
+
+### CHANGELOG
+
+See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
 
 ### MODDING TIPS
 
