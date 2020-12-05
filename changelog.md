@@ -8,30 +8,32 @@
 For the first time in months, I'm bringing the guide up to date! \o/
 
 - Core: added **Silver and Nordic Cuirasses Fixed**.
-- Core: added **Blighted Blight**.
-- Core: removed **Blight Storms Restored**. Replaced.
+- Core: added **Blighted Blight**. Replaces **Blight Storms Restored**.
 - Core: added **Comrade Raven's Book Arts Replacer**.
 - Core: added **Better Buoyancy**
-- Core: added **Pluginless and Adjustable Lower First Person Sneak**.
-- Core: removed **Lower First Person Sneak Mode**. Replaced.
-- Visuals: added **Enlightened Flames**.
-- Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
-- Visuals: removed **Parasol Particles**. Replaced.
+- Core: added **Pluginless and Adjustable Lower First Person Sneak**. Replaces **Lower First Person Sneak Mode**.
+- Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**. Replaces **Parasol Particles**.
 - Visuals: added **Dry Stone Walls Revamped**.
 - Visuals: added **Imperial Female Cuirass Retex**.
 - Visuals: added **Practical Pauldrons - Streamlined Shoulders**.
 - Gameplay: added **One-handed Adamantium Axe**.
-- Gameplay: added **Wading in Water MW**.
-- Gameplay: added **Lua Lockbashing**.
-- Gameplay: removed **Lock Bashing**. Replaced.
-- Gameplay: added **Enchant Capacity Rebalanced**.
-- Gameplay: removed **Projectile Enchant Capacity**. Replaced.
+- Gameplay: added **Enchant Capacity Rebalanced**. Replaces **Projectile Enchant Capacity**.
 - Dialogue: added **Idle Talk**.
 - Dialogue: added **Its a Deal**.
 - Dialogue: added **Simple Smith Dialogue**.
 - Dialogue: moved **FMI - Hospitality Papers** to this section.
 - Dialogue: moved **FMI - Sane Ordinators** to this section.
 - Dialogue: moved **FMI - Service Refusal and Contraband** to this section.
+
+The following mods have been removed:
+
+- Visuals: removed **The Midnight Oil - Lighting Overhaul**.
+- Gameplay: removed **Blight is Coming**.
+- Gameplay: removed **Lock Bashing**.
+- Gameplay: removed **Merlord's Starting Equipment**.
+- Gameplay: removed **Poison Crafting**.
+- Gameplay: removed **Realistic Repair** and **Realistic Repair Add-On**.
+- Overhauls: removed **Shrine of Azura**.
 
 ## December 4th
 
