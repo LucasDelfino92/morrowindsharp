@@ -11,6 +11,8 @@
 - Core: removed **Lower First Person Sneak Mode**. Replaced.
 - Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
 - Visuals: removed **Parasol Particles**. Replaced.
+- Gameplay: added **Lua Lockbashing**.
+- Gameplay: removed **Lock Bashing**. Replaced.
 - Gameplay: added **Enchant Capacity Rebalanced**.
 - Gameplay: removed **Projectile Enchant Capacity**. Replaced.
 
