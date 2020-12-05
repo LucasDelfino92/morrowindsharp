@@ -626,7 +626,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 ### ADJUSTING YOUR LOAD ORDER
 
-Before running the automated conflict resolution tools, we need to confirm your installed mods and plugins are in the right order. [**Follow the mod order and load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md) and adjust your mod installation order and plugin load order accordingly before proceeding to the next step.
+Before running the automated conflict resolution tools, we need to confirm your installed plugins are in the right order. [**Follow the load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order) and adjust your load order accordingly before proceeding to the next step.
 
 ### AUTOMATED CONFLICT RESOLUTION
 
@@ -704,5 +704,5 @@ The mods installed in this guide and configured as mentioned above will use the 
 
 Congratulations, your modded Morrowind installation is ready!
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to index](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#index)
