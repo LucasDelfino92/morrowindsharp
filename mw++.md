@@ -500,8 +500,8 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Disp
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
-Adds the ability to bash open locked doors and chests, as was an option in previous TES games.
+- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
+Adds in lock-bashing from Daggerfall, but using Lua.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
   - This mod is incorrectly packaged.
