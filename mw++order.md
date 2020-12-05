@@ -197,7 +197,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Bed Buddies
 - Blight is Coming
 - Brutal Backstabbing
-- Lock Bashing
+- Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - Magicka Based Skill Progression
 - Marksman Rebalanced
@@ -299,7 +299,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Temples With Shrines.ESP
 - The Publicans.ESP
 - Blight Is Coming.ESP
-- mwse_LockBashing.ESP
 - Lucky Strike.ESP
 - mwse_PoisonCrafting.ESP
 - Putting Power in Willpower - Absorbonach.ESP
