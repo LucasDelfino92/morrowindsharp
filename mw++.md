@@ -597,15 +597,6 @@ Greetings regarding clothes are now limited to clothiers, nobles and snooty High
 
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel, and Remiros  
-Transforms the empty corridor in the High Fane into a much more interesting location with a new background.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Full version**
-- [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
-Redesigns the shrines associated with the Seven Graces pilgrimage, making them look more important and like actual pilgrimage sites.
-  - Also install the **Seven Graces Shrines Enhanced - No Script Edits** optional file.
-  - If you installed **Simple Golden Gold** earlier, also install [**Seven Graces Shrines Enhanced - Simple Golden Gold Patch**](https://www.mediafire.com/file/c62opmbrjgilge6/Seven_Graces_Shrines_Enhanced_-_Simple_Golden_Gold_Patch.zip/file). This will patch Seven Graces Shrines Enhanced's new gold piles with a golden texture.
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 Adds some worshipers and other NPCs to make the shrine feel more like a real place of worship.
 
@@ -628,10 +619,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
   - Clean with TESTool and tes3cmd.
 - **Morrowind Anti-Cheese.ESP**
   - Clean with TESTool and tes3cmd.
-- **Passage of Prayers - Full.ESP**
-  - Clean with TESTool.
-- **QL_SevenGracesShrines.ESP**
-  - Clean with tes3cmd.
 
 ### MANUAL CONFLICT RESOLUTION
 
