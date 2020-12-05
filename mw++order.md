@@ -134,7 +134,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Apel's Rain Replacer
 - Better Waterfalls
 - Bitter Coast Scum Replacer
-- Enlightened Flames
 - Flies
 - Improved Thrown Weapon Projectiles
 - Mist Retexture
@@ -194,7 +193,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Supply Chests Merged
 - Temples with Shrines
 - The Publicans
-- Wading in Water MW
 
 ### GAMEPLAY - NEW MECHANICS
 
@@ -317,7 +315,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
-- ShrineOfAzura.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
