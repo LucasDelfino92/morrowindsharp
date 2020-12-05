@@ -648,10 +648,10 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
     - Cell **Solstheim, Bloodskal Barrow**
 - **Divayth Fyr Puzzle Fixed.ESP**
   - Clean with TESTool and tes3cmd.
-- **Religions Elaborated.ESP**
-  - Clean with tes3cmd.
 - **Dubdilla Location Fix.ESP**
   - Clean with TESTool and tes3cmd.
+- **Religions Elaborated.ESP**
+  - Clean with tes3cmd.
 - **true corprus.ESP**
   - Clean with TESTool and tes3cmd.
 
