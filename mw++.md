@@ -654,8 +654,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
   - Clean with TESTool and tes3cmd.
 - **true corprus.ESP**
   - Clean with TESTool and tes3cmd.
-- **Morrowind Anti-Cheese.ESP**
-  - Clean with TESTool and tes3cmd.
 
 ### MANUAL CONFLICT RESOLUTION
 
