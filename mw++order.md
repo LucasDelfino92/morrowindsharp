@@ -44,7 +44,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### CORE - RESTORED CONTENT
 
-- Blight Storms Restored
+- Blighted Blight
 - Creature VFX Restoration
 - Diseases Restored
 - Great Service
@@ -84,8 +84,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - HUD Weapon Charge
 - Inventory Mouse Wheel
 - Kill Command
-- Lower First Person Sneak Mode
 - New Game Confirmation
+- Pluginless and Adjustable Lower First Person Sneak
 - Quick Equip
 - Right Click Menu Exit
 - Security Enhanced
@@ -136,7 +136,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Improved Thrown Weapon Projectiles
 - Mist Retexture
 - Mistify
-- Parasol Particles
+- Perfectly Proficient Parasol Particles Performance Patch
 - Realistic Blood
 - Shattered Stones - An Earthquake Mod
 - Skeleton and Metal Sparks Blood Retexture
@@ -219,12 +219,12 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Better Blance Booze - Heavy Drinker Mode
 - Beware the Sixth House (Sixth House Overhaul)
 - Controlled Consumption
+- Enchant Capacity Rebalance
 - Harder Barter
 - Higher Faction Requirements
 - Hunter's Mark - A Marksman Mod
 - Limited Leaping
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- Projectile Enchant Capacity
 - Realistic Movement Speeds
 
 ### DIALOGUE
@@ -255,7 +255,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Yet Another Guard Diversity - Regular.ESP
-- Blight Storms Restored.ESP
 - Diseases Restored.ESP
 - Great Service.ESP
 - Services Restored.ESP
@@ -263,7 +262,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - AlchemyFilter.ESP
 - PB_GondolierDestinations.ESP
 - correctUV Ore Replacer_fixed.ESP
-- LowerFirstPersonSneak.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
 - tribunal rebalance.ESP
@@ -313,7 +311,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - higher faction requirements - Full.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Morrowind Anti-Cheese.ESP
-- Projectile Enchant Capacity.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - Greetings for No Lore.ESP
