@@ -2,7 +2,7 @@
 
 Last updated: December 4th, 2020. 
 
-See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md) page for more information.
+See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) page for more information.
 
 ## CONTACT INFO
 
