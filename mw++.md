@@ -111,8 +111,8 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 Certain content was cut before Morrowind shipped. These mods restore some of it.
 
-- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558?) by half11  
-Restores the function of catching blight disease while out in a blight storm.
+- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian
+Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua. 
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
@@ -205,10 +205,10 @@ Allows the use of the mouse wheels to move items into and out of containers.
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108) by Androl  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
+- [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly. Made with MWSE-Lua. 
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
 Holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
 - [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
@@ -344,9 +344,9 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Vanilla Mist Replacer**
-- [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
-Adds falling spores particle effects to the iconic emperor parasol mushrooms.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
+- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Verious and Melchior Dahrk  
+Adds falling spores particle effects to the iconic emperor parasol mushrooms. Patched for Project Atlas compatibility.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
 Makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. 
@@ -560,6 +560,9 @@ Rebalances alcohol so that it is less effective than potions.
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
+- [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/46685) by Necrolesian  
+ Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
+  - MO2 will install this mod as a BAIN package. Tick **MWSE Version** and click **OK**.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
@@ -573,8 +576,6 @@ Adds a lot of new marksman weapons in an attempt to improve progression and fill
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
-- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685) by pianobadger  
-Creates balanced enchant values for all projectiles in Morrowind to better make use of the Morrowind Code Patch "Arrow enchanting" option.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
