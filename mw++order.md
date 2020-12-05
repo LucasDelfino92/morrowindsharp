@@ -201,20 +201,13 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### GAMEPLAY - NEW MECHANICS
 
 - Bed Buddies
-- Blight is Coming
 - Brutal Backstabbing
-- Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - Magicka Based Skill Progression
 - Marksman Rebalanced
-- Merlord's Starting Equipment
 - MWSE Magicka Regen
 - No Rest Without Beds
-- Poison Crafting
 - Putting Power In Willpower
-- Realistic Repair
-- Realistic Repair - Add-on
-- Realistic Repair - Add-on - Patch for Purists Patch
 - Retroactive Health Gain
 - Sneaky Strike
 - Speed and Movement Rebalanced
@@ -309,12 +302,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
-- Blight Is Coming.ESP
 - Lucky Strike.ESP
-- mwse_PoisonCrafting.ESP
 - Putting Power in Willpower - Absorbonach.ESP
-- Realistic_Repair_Add-on.ESP
-- Realistic_Repair_Add-on - Patch for Purists Patch.ESP
 - Speed and Movement.ESP
 - better balanced booze_hardcore.ESP
 - Beware the Sixth House.ESP
