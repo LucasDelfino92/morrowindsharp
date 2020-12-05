@@ -239,7 +239,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### OVERHAULS
 
 - Yet Another Guard Diversity - Regular
-- Shrine of Azura
 
 ## MORROWIND++ LOAD ORDER
 
