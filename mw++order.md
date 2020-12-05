@@ -158,7 +158,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Golden Saint Feminine Walk
 - Improved Nordic Iron Helm Mesh
 - Incarnates Overhauled
-- Meteorite Ministry
 - Nordic Chest Replacer
 - Simple Golden Gold
 - Soldier Belts Fix
@@ -286,7 +285,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
 - Incarnates Overhauled.ESP
-- Meteorite Ministry Temple.ESP
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.ESP
 - Well Diversified.ESP
