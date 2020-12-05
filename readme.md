@@ -14,7 +14,13 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 ## DESCRIPTION
 
-**Morrowind++** is the result of years of modding Morrowind: a modding guide that aims to enhance Morrowind across the board but without sacrificing its unique aesthetic. This mod list has been curated to keep the ever present mod conflicts to a minimum, ensuring you get the best out of each mod you may choose to install.
+**Morrowind++** is the result of years of five years of modding Morrowind, looking up guides, installing mods, troubleshooting, and engaging with other users (modders and end users alike). It's a modding guide that aims to enhance Morrowind across the board, based on the following pillars:
+
+- Performance and stability: with the exception of the optional MGE XE shaders, your game should perform better than vanilla, and crash considerably less. I can report less than a couple of crashes in hundreds of gameplay hours.
+- Faithfulness: mods suggested here will not turn Morrowind into an unrecognizable game. Unique gameplay elements and Morrowind's distinctive aesthetic won't be sacrificed in favor of "modernity". Everything that is suggested will simply improve on what's already there, blending in seamlessly with the vanilla game.
+- Compatibility: mod conflicts will be kept to a minimum in order to ensure all of them work as intended.
+
+## THE GUIDE
 
 This guide is divided in three sections:
 
@@ -32,11 +38,11 @@ At the end of Morrowind++ you will find a link to the mod order and load order, 
 
 There are a few things you may want to keep in mind before going through with this guide.
 
-- This guide consists of roughly 155 mods and 80 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you.
-- The total size of the guide is roughly 2.4GB of uncompressed files, 1.3GB of compressed mods you will have to download.
-- My mod manager of choice for Morrowind is **Mod Organizer 2**. The **Setup** module will explain in detail why I use it, and how to use it.
+- Morrowind++ consists of roughly 155 mods and 80 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you.
+- The total size of the guide is short of 5GB (the standard Morrowind installation, which we will keep clean, adds another 1.5GB). This accounts for installed mods and also their original compressed files.
+- The mod manager this guide uses is **Mod Organizer 2**. The **Setup** module will explain in detail why, and how to use it.
 - This guide is not designed with **OpenMW** or **Morrowind Rebirth** in mind. This guide makes heavy use of the features of the Morrowind Script Extender, incompatible with OpenMW, and many of the mods present in this guide will conflict with the Morrowind Rebirth overhaul. You have been warned.
-- This guide does not contemplate **Tamriel Rebuilt**: though compatibility with the mod itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods present in this guide.
+- This guide does not contemplate **Tamriel Rebuilt**: though compatibility with the mod itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods suggested here.
 
 ## MY SETUP
 
