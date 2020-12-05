@@ -17,6 +17,8 @@ To revert the INI changes from **Distant Thunder**, replace the following INI li
 > Thunder Sound ID 2=Thunder2  
 > Thunder Sound ID 3=Thunder3  
 
+- Added quality of life improvements to the guide's links (they will now take you to the top header instead of dropping you at the very beginning).
+
 ## December 2nd
 
 - Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
