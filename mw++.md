@@ -151,6 +151,10 @@ High resolution replacer for the Daedric font used in scrolls.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
+- [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
+Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Only install the **Pete's Journal and Scroll** optional file.
@@ -172,6 +176,8 @@ These mods address various issues with Morrowind's gameplay and user interface, 
 
 - [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 Adds the ability to filter ingredients based on their magic effects.
+- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
+Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
@@ -331,6 +337,11 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Animated Replacer - Original Color**
+- [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by R-Zero and Greatness7  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+    - **00 Core - Vertical System**
+    - **01 Enlightened Flames**
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
@@ -497,6 +508,10 @@ Adds supply chests to factions that previously lacked any. This mod is a merge o
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?) by R-Zero  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
+  - MO2 will tell you there's no game data on top level.
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ### NEW MECHANICS
 
