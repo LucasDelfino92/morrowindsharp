@@ -13,10 +13,13 @@ For the first time in months, I'm bringing the guide up to date! \o/
 - Core: removed **Lower First Person Sneak Mode**. Replaced.
 - Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
 - Visuals: removed **Parasol Particles**. Replaced.
+- Visuals: added **Dry Stone Walls Revamped**.
 - Gameplay: added **Lua Lockbashing**.
 - Gameplay: removed **Lock Bashing**. Replaced.
 - Gameplay: added **Enchant Capacity Rebalanced**.
 - Gameplay: removed **Projectile Enchant Capacity**. Replaced.
+- Dialogue: added **Idle Talk**.
+- Dialogue: added **Its a Deal**.
 
 ## December 4th
 
