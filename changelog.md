@@ -2,6 +2,10 @@
 
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
+## December 4th
+
+- Visuals: removed **Meteorite Ministry**. This is a back and forth in the guide, since at times I think it looks cool, but at others I think it's just too tacky.
+
 ## December 2nd
 
 - Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
