@@ -164,7 +164,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### AUDIO
 
-- Distant Thunder (No Scripts)
 - Greet Distance Reducer
 - Haunted Barrows
 - Heartthrum
@@ -282,7 +281,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.ESP
 - Well Diversified.ESP
-- Distant Thunder (No Scripts).ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
 - RFD_Heartthrum.ESP
