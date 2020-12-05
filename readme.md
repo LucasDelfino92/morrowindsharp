@@ -18,9 +18,9 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 This guide is divided in three sections:
 
-- The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) guide, which explains how to get the game running, set up the tools and mod manager we'll be using to mod Morrowind.
-- The [Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md) guide, designed to experience a modernized Morrowind without introducing radically new gameplay mechanics or content, or modding Morrowind's aesthetics beyond the point of being unrecognizable.
-- The [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md) guide, which goes deep into using the tools installed in Setup in order  to solve potential issues with the mods installed in Morrowind++.
+- The [Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup) guide, which explains how to get the game running, set up the tools and mod manager we'll be using to mod Morrowind.
+- The [Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind) guide, designed to experience a modernized Morrowind without introducing radically new gameplay mechanics or content, or modding Morrowind's aesthetics beyond the point of being unrecognizable.
+- The [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools) guide, which goes deep into using the tools installed in Setup in order  to solve potential issues with the mods installed in Morrowind++.
 
 **Morrowind++** is divided into a series of modules, all of which can be installed independently from one another. The **Core** module, however, should be great for anyone willing to iron out the many issues plaguing vanilla Morrowind.
 
