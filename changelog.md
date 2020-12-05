@@ -7,6 +7,7 @@
 
 For the first time in months, I'm bringing the guide up to date! \o/
 
+- Core: added **Silver and Nordic Cuirasses Fixed**.
 - Core: added **Blighted Blight**.
 - Core: removed **Blight Storms Restored**. Replaced.
 - Core: added **Pluginless and Adjustable Lower First Person Sneak**.
@@ -14,12 +15,16 @@ For the first time in months, I'm bringing the guide up to date! \o/
 - Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**.
 - Visuals: removed **Parasol Particles**. Replaced.
 - Visuals: added **Dry Stone Walls Revamped**.
+- Visuals: added **Imperial Female Cuirass Retex**.
+- Visuals: added **Practical Pauldrons - Streamlined Shoulders**.
+- Gameplay: added **One-handed Adamantium Axe**.
 - Gameplay: added **Lua Lockbashing**.
 - Gameplay: removed **Lock Bashing**. Replaced.
 - Gameplay: added **Enchant Capacity Rebalanced**.
 - Gameplay: removed **Projectile Enchant Capacity**. Replaced.
 - Dialogue: added **Idle Talk**.
 - Dialogue: added **Its a Deal**.
+- Dialogue: added **Simple Smith Dialogue**.
 
 ## December 4th
 
