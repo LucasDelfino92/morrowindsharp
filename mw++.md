@@ -59,11 +59,10 @@ One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties
 
 ### INSTALLING THE MODULES
 
-As explained in the main page, this guide is modular, and each module can be installed independently from each other (sans patches that cover mods from multiple sections, you'll easily tell which ones these are). However, for the sake of simplicity these are the steps you should following when installing any of these modules.
+Each module can be installed independently from each other (sans patches that cover mods from multiple sections, you'll easily tell which ones these are). However, for the sake of simplicity these are the steps you should follow when installing any of these modules.
 
 - Install a given module.
-- Clean whatever dirty plugins it may have, as per their corresponding **Cleaning plugins** section.
-- Jump into the **Finishing touches** section, which will contain the most general information.
+- Clean whatever dirty plugins it may have, as per the [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches) section.
 
 Just because the guide has an order it doesn't mean you can't install modules or mods out of order: Mod Organizer 2 lets us rearrange mod and plugin order after installing them. But rest assured, following the guide in order will be your best bet at preserving your sanity.
 
@@ -111,7 +110,7 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 ### RESTORED CONTENT
 
-Certain content was cut before Morrowind shipped. These mods restore some of it.
+Mods that restore content that was cut before the game shipped.
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua. 
@@ -130,7 +129,7 @@ The player will hear an actual noise when he's under the effects of the Sound ma
 
 ### HIGH RESOLUTION TEXTURES
 
-AI upscaling made possible a complete texture pack for Morrowind. In addition, mesh improvements will improve the notably wonky character faces even more.
+Mods that rely on AI upscaling and manual cleanup to improve Morrowind's textures. In addition, mesh improvements to character faces.
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
@@ -141,7 +140,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 ### HIGH RESOLUTION USER INTERFACE
 
-These mods modify various user interface elements as well as the splash screens to account for higher resolutions.
+Mods that increase the resolution of various interface elements as well as splash screens.
 
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -172,7 +171,7 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 ### QUALITY OF LIFE IMPROVEMENTS
 
-These mods address various issues with Morrowind's gameplay and user interface, from the minor and annoying to the large and infuriating. That said, none of these affect the basic gameplay and balance of the game: they simply make playing Morrowind more enjoyable, usually through quality of life features that were sorely lacking. Thus they are encouraged even for a first playthrough.
+Mods that address various issues with Morrowind's gameplay and user interface, from the minor and annoying to the large and infuriating. Because they only cut the "middle man" in most cases and do not affect the balance of the game, they are recommended even for a first playthrough.
 
 - [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 Adds the ability to filter ingredients based on their magic effects.
@@ -245,7 +244,7 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 ### EXPANSION REIMPLEMENTATION
 
-The Tribunal and Bloodmoon expansions were poorly integrated into the base game. These mods modify how the player is introduced to them, and modifies the balance of the expansions as to blend in seamlessly with the vanilla game.
+Mods that modify the implementation of the Tribunal and Bloodmoon expansions, as well as rebalance them to blend in better with the vanilla game.
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
@@ -258,7 +257,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ## VISUALS
 
-Morrowind is a 2002 game but, unlike what many people think, a fairly beautiful one thanks to a strong artstyle and MGE XE's features. The mods in this section aren't meant to overhaul what Morrowind looks like. That is, if you think Morrowind is an ugly game, the mods here won't do much to change your mind. But it is my hope that, if you already enjoy Morrowind's aesthetic, these will make it even better for you.
+Mods that modify the visuals of the game. These add new effects or address various visual issues or inconsistencies. Bear in mind that, if you think Morrowind is an ugly game (shame on you), the mods here won't do much to change your mind.
 
 ### READABLE SIGNPOSTS
 
@@ -444,6 +443,8 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 
 ## AUDIO
 
+Mods that modify certain audio aspects of the game.
+
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
@@ -472,6 +473,8 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## GAMEPLAY
+
+Mods that modify the basic gameplay and balance of the game, including the addition of new mechanics.
 
 ### POLISH
 
@@ -574,8 +577,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### BALANCE
 
-Morrowind is a notoriously unbalanced game. These mods try to address some of its most glaring balance flaws, particularly the cheesing.
-
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
@@ -604,7 +605,7 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 
 ## DIALOGUE
 
-These mods improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, and more.
+Mods that improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, adding entirely new audio lines, and more.
 
 - [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
  Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
