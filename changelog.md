@@ -4,7 +4,9 @@
 
 ## December 4th
 
-- Visuals: removed **Meteorite Ministry**. This is a back and forth in the guide, since at times I think it looks cool, but at others I think it's just too tacky.
+- Visuals: removed **Meteorite Ministry**. It stands out too much from the vanilla game.
+- Overhauls: removed **Passage of Prayers - High Fane Corridor Overhaul**. It stands out too much from the vanilla game.
+- Overhauls: removed **Seven Graces Shrines - Enhanced**. It stands out too much from the vanilla game.
 
 ## December 2nd
 
