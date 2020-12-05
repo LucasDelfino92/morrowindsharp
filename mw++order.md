@@ -221,6 +221,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Controlled Consumption
 - Harder Barter
 - Higher Faction Requirements
+- Hunter's Mark - A Marksman Mod
 - Limited Leaping
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - Projectile Enchant Capacity
@@ -310,6 +311,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - better balanced booze_hardcore.ESP
 - Beware the Sixth House.ESP
 - higher faction requirements - Full.ESP
+- Hunter's Mark - A Marksman Mod.ESP
 - Morrowind Anti-Cheese.ESP
 - Projectile Enchant Capacity.ESP
 - FMI_Nice_to_Meet_You.ESP
