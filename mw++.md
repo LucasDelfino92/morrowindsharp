@@ -98,6 +98,8 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Flames are now glow mapped and/or properly illuminated.
   - Only install the **Glowing Flames** main file. The update files are not necessary.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
+- [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?) by Explorer1911  
+Some weight fixes and mesh tweaks to make the Silver, Duke's Guard, and Nordic Iron cuirasses flex at the waist like most cuirasses do.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
@@ -325,6 +327,7 @@ Replaces rain with a more heavy rain look.
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+  - Only install the **Bitter Coast Scum Replacer** main file.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Animated Replacer - Original Color**
@@ -377,6 +380,7 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
 Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
+  - Only install the **Vivec Palace Water Replacer** main file.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **01 Original Color**
@@ -409,6 +413,8 @@ Modifies the Nordic Iron Helm to look less stupid.
 Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
+- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
+Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124) by McChuggernaut  
 Turns the green coins into gold coins.
   - Only install the **Gold coins** main file.
@@ -472,14 +478,10 @@ Gives you the disease resisting effects of Corprus as soon as you catch it from 
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
-Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
-- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
-Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+- [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
+Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
@@ -590,10 +592,16 @@ These mods improve various aspects of vanilla dialogue, including appropiate fil
  Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 - [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
+Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this. 
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
+Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 Replaces the three standard No Lore greetings with over sixty new ones. 
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
