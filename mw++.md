@@ -280,7 +280,7 @@ Adds groundcover to almost all regions.
   - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
     - **00 Core**
     - **04b Thicker Grass**
-  - This mod requires additional MGE XE instructions featured in the mod's page. Read them carefully.
+  - Remiros' Groundcover plugins should never be activated while playing the game. They are there only to be activated when generating Distant Land *only*.
 
 ### WEAPON SHEATHING
 
