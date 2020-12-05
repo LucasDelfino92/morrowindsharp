@@ -153,6 +153,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Bloodmoon Hide Replacer
 - Buoyant Lord Vivec
 - Complete Armor Joints
+- Dry Stone Walls Revamped
 - Golden Saint Feminine Walk
 - Improved Nordic Iron Helm Mesh
 - Incarnates Overhauled
@@ -229,6 +230,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### DIALOGUE
 
+- Idle Talk
+- Its a Deal
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
 - Greetings for No Lore
@@ -310,6 +313,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - higher faction requirements - Full.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Morrowind Anti-Cheese.ESP
+- Idle Talk.ESP
+- Its a deal.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - Greetings for No Lore.ESP
