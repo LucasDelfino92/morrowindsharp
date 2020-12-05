@@ -10,11 +10,11 @@
 - Overhauls: removed **Passage of Prayers - High Fane Corridor Overhaul**. It stands out too much from the vanilla game.
 - Overhauls: removed **Seven Graces Shrines - Enhanced**. It stands out too much from the vanilla game.
 
-> To revert the INI changes from **Distant Thunder**, replace the following INI lines with these values.
-> Thunder Sound ID 0=Thunder0
-> Thunder Sound ID 1=Thunder1
-> Thunder Sound ID 2=Thunder2
-> Thunder Sound ID 3=Thunder3
+> To revert the INI changes from **Distant Thunder**, replace the following INI lines with these values.  
+> Thunder Sound ID 0=Thunder0  
+> Thunder Sound ID 1=Thunder1  
+> Thunder Sound ID 2=Thunder2  
+> Thunder Sound ID 3=Thunder3  
 
 ## December 2nd
 
