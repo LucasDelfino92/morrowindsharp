@@ -1,6 +1,7 @@
 # TOOLS
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
 ## INDEX
 
@@ -106,5 +107,5 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 
 While you will never be asked to use this tool when following **Morrowind++**, it pays to get used to it when installing mods on your own.
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
-[Back to index](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#index)
+[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
