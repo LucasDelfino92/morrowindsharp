@@ -181,7 +181,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### GAMEPLAY - POLISH
 
-- Ownership Overhaul
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
 - Blighted Mine Means Blighted Workers
@@ -211,6 +210,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MWSE Magicka Regen
 - No Rest Without Beds
+- Ownership Overhaul
 - Putting Power In Willpower
 - Realistic Movement Speeds
 - Retroactive Health Gain
