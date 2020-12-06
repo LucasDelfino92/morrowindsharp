@@ -577,7 +577,6 @@ Mods that improve various aspects of vanilla dialogue, including appropiate filt
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
 Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
@@ -585,6 +584,7 @@ Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filterin
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
 Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 Replaces the three standard No Lore greetings with over sixty new ones. 
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
