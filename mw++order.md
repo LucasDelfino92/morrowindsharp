@@ -189,7 +189,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### GAMEPLAY - BALANCE AND MECHANICS
 
 - Bed Buddies
-- Better Blance Booze - Heavy Drinker Mode
 - Brutal Backstabbing
 - Controlled Consumption
 - Enchant Capacity Rebalance
@@ -280,7 +279,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
-- better balanced booze_hardcore.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
