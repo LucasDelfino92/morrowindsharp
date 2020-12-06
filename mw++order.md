@@ -88,6 +88,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Inventory Mouse Wheel
 - Kill Command
 - New Game Confirmation
+- No Translation Tooltips
 - Pluginless and Adjustable Lower First Person Sneak
 - Quick Equip
 - Right Click Menu Exit
@@ -193,7 +194,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Temples with Shrines
 - The Publicans
 
-### GAMEPLAY - NEW MECHANICS
+### GAMEPLAY - BALANCE AND MECHANICS
 
 - Bed Buddies
 - Better Blance Booze - Heavy Drinker Mode
@@ -202,8 +203,10 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Enchant Capacity Rebalance
 - Harder Barter
 - Higher Faction Requirements
+- Hold Your Breath
 - Hunter's Mark - A Marksman Mod
 - Limited Leaping
+- Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - Magicka Based Skill Progression
 - Marksman Rebalanced
@@ -216,6 +219,9 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Retroactive Health Gain
 - Sneaky Strike
 - Speed and Movement Rebalanced
+- Visible Alchemy Success Chance
+- Visible Persuasion Chance
+- Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
 ### DIALOGUE
