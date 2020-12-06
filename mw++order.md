@@ -37,6 +37,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
+- Dry Stone Walls Revamped
 - Fix Those Bastard Rope Fences
 - Glowing Flames
 - Silver and Nordic Cuirasses Fixed
@@ -139,6 +140,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### VISUALS - VISUAL EFFECTS
 
+- Buoyant Lord Vivec
 - Flies
 - Mistify
 - Perfectly Proficient Parasol Particles Performance Patch
@@ -153,9 +155,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
 - Bloodmoon Hide Replacer
-- Buoyant Lord Vivec
 - Complete Armor Joints
-- Dry Stone Walls Revamped
 - Golden Saint Feminine Walk
 - Imperial Female Cuirass Retex
 - Improved Nordic Iron Helm Mesh
