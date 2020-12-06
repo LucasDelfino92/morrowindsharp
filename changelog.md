@@ -5,9 +5,20 @@
 
 ## December 6th
 
+Structure:
+
 - Core: moved **Beware the Sixth House** to this section. Since mort's major rebalances were meant to be used together, it only made sense.
 - Gameplay: merged **New mechanics** and **Balance** into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
 - Gameplay: moved **Ownership Overhaul** to the **Balance and Mechanics** section. It's a general anti-cheese over a mod that fixes an oversight.
+
+Additions:
+
+- Core: added **No Translation Tooltips**.
+- Gameplay: added **Hold Your Breath**.
+- Gameplay: added **Lua Lock Bashing**.
+- Gameplay: added **Visible Alchemy Success Chance**.
+- Gameplay: added **Visible Persuasion Chance**.
+- Gameplay: added **Wading in Water MW**.
 
 ## December 5th
 
