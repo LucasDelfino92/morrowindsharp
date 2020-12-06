@@ -80,7 +80,7 @@ Fixes UV mapping on rocks and stones.
     - Right click on **Data Files** and click **Set data directory**. Click **OK**.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
-  - MO2 will install the mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install the mod as a BAIN package. Only tick the following options and click **OK**:
     - **00 Core**
     - **01 Fixed Vanilla Textures**
     - **02 Lake Fjalding Anti-Suck**
@@ -89,7 +89,7 @@ Greatly improves performance and fixes some mesh errors.
   - Those who plan to use Better Bodies or tree replacers (not covered by my guides) should skip installing options 03 and 05.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -136,7 +136,7 @@ Addresses numerous mesh issues with the vanilla head meshes, leading to much bet
   - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The textures included in Intelligent Textures already contain the texture fixes present in the above mods.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core** and **01 Atlas Textures** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Atlas Textures** and click **OK**.
 
 ### HIGH RESOLUTION USER INTERFACE
 
@@ -157,7 +157,7 @@ Replaces most of original book arts with hi-res images redrawn from scratch by A
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Only install the **Pete's Journal and Scroll** optional file.
-  - MO2 will install this mod as a BAIN package. Tick **01 Journal and Scroll - 2K** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **01 Journal and Scroll - 2K** and click **OK**.
 - [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
 HD recreation of the Title and Logo Intro, in widescreen.
   - Install both main files.
@@ -197,9 +197,9 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file.
-    - MO2 will install this mod as a BAIN package. Tick **00 Correct UV Ore + README** and **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+    - MO2 will install this mod as a BAIN package. Only tick **00 Correct UV Ore + README** and **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
     - Hide/disable **correctUV Ore Replacer_respawning.esp**
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
@@ -233,9 +233,7 @@ Automatically switches between the local and world map depending on user configu
 Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
 Lets you open or close any book or scroll in the game.
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Core**
-    - **01 Closed Book Icons**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Closed Book Icons** and click **OK**.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
@@ -264,9 +262,7 @@ Choose between one of these two alternatives for readable signposts. My personal
 
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis  
 Makes road signs legible. Uses vanilla background and resolution.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Vvardenfell only**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vvardenfell only** and click **OK**.
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
@@ -276,10 +272,8 @@ Makes road signs legible. Uses higher quality vanilla-friendly textures.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **04b Thicker Grass**
-  - Remiros' Groundcover plugins should never be activated while playing the game. They are there only to be activated when generating Distant Land *only*.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
+  - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
 
 ### WEAPON SHEATHING
 
@@ -299,7 +293,7 @@ Greatly improves performance and fixes some mesh errors.
 
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
+  - MO2 will install this mod as a BAIN package. Only tick the following options and click **OK**:
     - **00 Core**
     - **01 Hi Res Window Texture Replacer**
     - **02 Interior Sunrays**
@@ -307,7 +301,7 @@ Makes windows glow in the dark.
     - **05 Raven Rock Glass Windows Interior Sunrays**
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays**.
+  - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays** and click **OK**.
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -330,9 +324,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 - [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Animated Replacer - Original Color**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Animated Replacer - Original Color** and click **OK**.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level.
@@ -346,9 +338,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
   - Only install the **Mist Retexture** main file.
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The mod also includes an optional mesh replacer for the vanilla effect. 
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Vanilla Mist Replacer**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vanilla Mist Replacer** and click **OK**.
 - [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Verious and Melchior Dahrk  
 Adds falling spores particle effects to the iconic emperor parasol mushrooms. Patched for Project Atlas compatibility.
   - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
@@ -363,24 +353,20 @@ Retextures the Skeleton (white) and Metal Sparks (gold) textures.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - MO2 will install this mod as a BAIN package. Tick **faint** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Default Dust**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Default Dust** and click **OK**.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Original Color**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Original Color** and click **OK**.
 - [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple  
 Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 
@@ -390,13 +376,13 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Adds a simple script to make Vivec properly loop his idle animation.
-  - MO2 will install this mod as a BAIN package. Tick **00Vanilla** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069) by Darkfri  
 Fix UV's and improve a bit the dry stone walls that you can see in some imperial towns.
-  - MO2 will install this mod as a BAIN package. Tick **0 - Vanilla with UV fixes** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **0 - Vanilla with UV fixes** and click **OK**.
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
 Retextures the female Imperial Steel Cuirass to look like its male counterpart.
   - Only install the **Imperial Female Cuirass Retexure** main file.
@@ -436,9 +422,7 @@ Mods that modify certain audio aspects of the game.
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 Gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
-  - MO2 will install this mod as a BAIN package. Tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Fire Sound Replacer**
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Fire Sound Replacer** and click **OK**.
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack  
 Allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
