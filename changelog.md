@@ -36,6 +36,10 @@ The following mods have been removed for consistency with the other mods in thei
 - Gameplay: removed **Realistic Repair** and **Realistic Repair Add-On**.
 - Overhauls: removed **Shrine of Azura**.
 
+Other removed mods:
+
+- Gameplay: removed **Corprus Fix**. Patch for Purists will include a similar fix in the future.
+
 ## December 4th
 
 - Visuals: removed **Meteorite Ministry**. Stands out too much from the vanilla game.
