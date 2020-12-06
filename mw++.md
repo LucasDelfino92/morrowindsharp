@@ -486,9 +486,6 @@ Provides a configurable restriction on the amount of potions the player can drin
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
-Makes factions have higher requirements for advancing.
-  - Hide/disable **higher faction requirements - Morrowind Only.esp**.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
  Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
