@@ -106,6 +106,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Early Transport to Mournhold
 - Tribunal Rebalance
 - Bloodmoon Rebalance
+- Beware the Sixth House (Sixth House Overhaul)
 
 ### VISUALS - READABLE SIGNPOSTS
 
@@ -196,30 +197,26 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### GAMEPLAY - NEW MECHANICS
 
 - Bed Buddies
-- Brutal Backstabbing
-- Lucky Strike - A Critical Hit Mod
-- Magicka Based Skill Progression
-- Marksman Rebalanced
-- MWSE Magicka Regen
-- No Rest Without Beds
-- Putting Power In Willpower
-- Retroactive Health Gain
-- Sneaky Strike
-- Speed and Movement Rebalanced
-- Wings of Will - Willpower Based Levitation Speed
-
-### GAMEPLAY - BALANCE
-
 - Better Blance Booze - Heavy Drinker Mode
-- Beware the Sixth House (Sixth House Overhaul)
+- Brutal Backstabbing
 - Controlled Consumption
 - Enchant Capacity Rebalance
 - Harder Barter
 - Higher Faction Requirements
 - Hunter's Mark - A Marksman Mod
 - Limited Leaping
+- Lucky Strike - A Critical Hit Mod
+- Magicka Based Skill Progression
+- Marksman Rebalanced
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- MWSE Magicka Regen
+- No Rest Without Beds
+- Putting Power In Willpower
 - Realistic Movement Speeds
+- Retroactive Health Gain
+- Sneaky Strike
+- Speed and Movement Rebalanced
+- Wings of Will - Willpower Based Levitation Speed
 
 ### DIALOGUE
 
@@ -266,6 +263,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Early Transport to Mournhold.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
+- Beware the Sixth House.ESP
 - NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 - GITD_WL_RR_Interiors.ESP
 - Flies.ESP
@@ -293,14 +291,13 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
-- Lucky Strike.ESP
-- Putting Power in Willpower - Absorbonach.ESP
-- Speed and Movement.ESP
 - better balanced booze_hardcore.ESP
-- Beware the Sixth House.ESP
 - higher faction requirements - Full.ESP
 - Hunter's Mark - A Marksman Mod.ESP
+- Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
+- Putting Power in Willpower - Absorbonach.ESP
+- Speed and Movement.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
 - Hospitality_Papers_Expanded_v2.7.ESP
