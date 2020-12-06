@@ -15,7 +15,7 @@
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
   - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
-  - [Expansion reimplementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-reimplementation)
+  - [Expansion reimplementation and general rebalance](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-reimplementation-and-general-rebalance)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay)
@@ -239,7 +239,7 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-### EXPANSION REIMPLEMENTATION
+### EXPANSION REIMPLEMENTATION AND GENERAL REBALANCE
 
 Mods that modify the implementation of the Tribunal and Bloodmoon expansions, as well as rebalance them to blend in better with the vanilla game.
 
@@ -251,6 +251,9 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 Rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind.
+- [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
+Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
+  - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
 
 ## VISUALS
 
@@ -481,54 +484,15 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-### MECHANICS
-
-Mods that bring back some mechanics present in Daggerfall, or that modify some vanilla mechanics to work differently.
-
-- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
-Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
-Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
-  - This mod is incorrectly packaged.
-    - Expand the **Data Files** folder.
-    - Drag the **mwse** folder into the mod's root directory in MO2.
-- [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
-Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
-- [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
-Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-- [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
-Prevents the player from resting unless they activate a bed.
-- [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **2.0** folder. 
-    - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
-Increases health upon level up as though endurance was at its current value for past levels.
-- [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
-Modifies critical strike coefficient depending on the weapon you use.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - GMST **fJumpRunMultiplier**
-  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
-  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
-- [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
-Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
-
-### BALANCE
+### BALANCE AND MECHANICS
 
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Rebalances alcohol so that it is less effective than potions.
   - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
-- [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
+- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/46685) by Necrolesian  
@@ -545,10 +509,42 @@ Makes factions have higher requirements for advancing.
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
+  - This mod is incorrectly packaged.
+    - Expand the **Data Files** folder.
+    - Drag the **mwse** folder into the mod's root directory in MO2.
+- [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
+Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
+- [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/dgk6tqjzm4ebj67/Morrowind_Anti-Cheese_v1.2_%28Modding_Morrowind%29.zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
+- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
+Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
+- [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
+Prevents the player from resting unless they activate a bed.
+- [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+  - MO2 will tell you there's no game data on top level.
+    - Expand the **2.0** folder. 
+    - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
+Increases health upon level up as though endurance was at its current value for past levels.
+- [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
+Modifies critical strike coefficient depending on the weapon you use.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - GMST **fJumpRunMultiplier**
+  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
+  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
+- [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
+Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
 ## DIALOGUE
 
