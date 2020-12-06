@@ -20,7 +20,6 @@
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue)
-- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#overhauls)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
 
