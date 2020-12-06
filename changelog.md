@@ -7,6 +7,7 @@
 
 - Core: moved **Beware the Sixth House** to this section. Since mort's major rebalances were meant to be used together, it only made sense.
 - Gameplay: merged **New mechanics** and **Balance** into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
+- Gameplay: moved **Ownership Overhaul** to the **Balance and Mechanics** section. It's a general anti-cheese over a mod that fixes an oversight.
 
 ## December 5th
 
