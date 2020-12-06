@@ -15,6 +15,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Yet Another Guard Diversity.esp
   - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
+- Beware the Sixth House.ESP, tribunal rebalance.ESP, Bloodmoon Rebalance.ESP
+  - Load them at the very end of your load order to prevent other mods from overwriting their balance changes.
 
 ## MORROWIND++ MOD LIST
 
@@ -309,9 +311,9 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
+- Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- Beware the Sixth House.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
