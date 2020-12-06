@@ -470,9 +470,6 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 Mods that modify various balance aspects of the game, modify how certain mechanics work, or add new mechanics altogether (mostly brought back from Daggerfall).
 
-- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
-Rebalances alcohol so that it is less effective than potions.
-  - Only install the **Better Balanced Booze - Heavy Drinker Mode** main file.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
