@@ -117,6 +117,10 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Remiros' Groundcover
 
+### VISUALS - YET ANOTHER GUARD DIVERSITY
+
+- Yet Another Guard Diversity - Regular
+
 ### VISUALS - WEAPON SHEATHING
 
 - Weapon Sheathing
@@ -133,26 +137,19 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### VISUALS - VISUAL EFFECTS
 
-- Apel's Rain Replacer
-- Better Waterfalls
-- Bitter Coast Scum Replacer
 - Flies
-- Improved Thrown Weapon Projectiles
-- Mist Retexture
 - Mistify
 - Perfectly Proficient Parasol Particles Performance Patch
-- Realistic Blood
-- Skeleton and Metal Sparks Blood Retexture
-- Subtle Magic Glow
-- Subtle Smoke
 - The Dream is the Door
 - Unto Dust
 - Visually Filled Soul Gems
-- Vivec Palace Water Replacer
-- Waterfalls Tweaks
 
 ### VISUALS - OTHER VISUAL TWEAKS
 
+- Apel's Rain Replacer
+- Better Waterfalls
+- Waterfalls Tweaks
+- Bitter Coast Scum Replacer
 - Bloodmoon Hide Replacer
 - Buoyant Lord Vivec
 - Complete Armor Joints
@@ -160,11 +157,16 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Golden Saint Feminine Walk
 - Imperial Female Cuirass Retex
 - Improved Nordic Iron Helm Mesh
+- Improved Thrown Weapon Projectiles
 - Incarnates Overhauled
+- Mist Retexture
 - Nordic Chest Replacer
 - Practical Pauldrons - Streamlined Shoulders
-- Simple Golden Gold
-- Soldier Belts Fix
+- Realistic Blood
+- Skeleton and Metal Sparks Blood Retexture
+- Subtle Magic Glow
+- Subtle Smoke
+- Vivec Palace Water Replacer
 - Well Diversified
 - Wolf Helmet Replacer
 
@@ -238,10 +240,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Outfit Greetings Tweaked
 - Simple Smith Dialogue
 
-### OVERHAULS
-
-- Yet Another Guard Diversity - Regular
-
 ## MORROWIND++ LOAD ORDER
 
 This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
@@ -267,20 +265,16 @@ This is a complete list of all plugins present in the guide, installed as if you
 - correctUV Ore Replacer_fixed.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
-- tribunal rebalance.ESP
-- Bloodmoon Rebalance.ESP
-- Beware the Sixth House.ESP
 - NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 - GITD_WL_RR_Interiors.ESP
+- Buoyant Lord Vivec.ESP
 - Flies.ESP
 - mistify.ESP
 - The Dream is the Door.ESP
 - Waterfalls Tweaks.ESP
-- Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
 - Incarnates Overhauled.ESP
 - Nordic Chest Replacer.ESP
-- SoldierBeltsFix.ESP
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
@@ -315,6 +309,9 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.ESP
+- Beware the Sixth House.ESP
 - Merged Objects.ESP
 - Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
