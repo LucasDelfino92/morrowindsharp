@@ -3,6 +3,11 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 6th
+
+- Core: moved **Beware the Sixth House** to this section. Since mort's major rebalances were meant to be used together, it only made sense.
+- Gameplay: merged **New mechanics** and **Balance** into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
+
 ## December 5th
 
 For the first time in months, I'm bringing the guide up to date! \o/
