@@ -39,6 +39,8 @@ Removals:
 
 - Visuals: **Simple Golden Gold**. Really small mod, hardly makes a difference.
 - Visuals: **Soldier Belts Fix**. Really small mod, hardly makes a difference.
+- Gameplay: **Better Balanced Booze**. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
+- Gameplay: **Higher Faction Requirements**. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
 
 ## December 5th
 
@@ -131,7 +133,9 @@ Removed:
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
+- [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
