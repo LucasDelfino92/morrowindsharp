@@ -96,7 +96,7 @@ What are the major changes since the last version, you ask? These:
 
 ## Removed mods
 
-Replaced mods:
+Replaced:
 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
@@ -104,6 +104,9 @@ Replaced mods:
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
+
+Removed:
+
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
