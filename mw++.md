@@ -213,6 +213,8 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
+- [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?) by OEA  
+Removes the tooltips (messages) from road signs and/or hanging banners. To be used with "real signpost"-type mods.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly. Made with MWSE-Lua. 
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
@@ -502,6 +504,8 @@ Dynamically adjusts how much merchants will pay for items. Expensive items will 
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732) by King Feraligatr  
 Makes factions have higher requirements for advancing.
   - Hide/disable **higher faction requirements - Morrowind Only.esp**.
+- [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
+ Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
@@ -543,6 +547,12 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
     - GMST **fJumpRunMultiplier**
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
+- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
+- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
+- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
@@ -662,11 +672,17 @@ The following mods require additional configuration through the in-game **Mod Co
   - If you enjoy the fire flickering, then set **Light radius scaling** to **120%** instead.
 - In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
 
+**No Translation Tooltips**
+- Set **Disable banner tooltips?** to **No**.
+
 **Putting Power in Willpower**
 - Set **Allow negative Resist Bonus** to **On**.
 
 **Security Enhanced**
 - Set the **Assign Keybind for Lockpick Hotkey** key to **O** (the **L** is used by **Let There Be Darkness**).
+
+**Visible Persuasion Chance**
+- Set **Immersive Mode** to **On**.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
