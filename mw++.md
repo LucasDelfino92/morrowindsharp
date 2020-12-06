@@ -261,34 +261,21 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 ## VISUALS
 
-Mods that modify the visuals of the game. These add new effects or address various visual issues or inconsistencies. Bear in mind that, if you think Morrowind is an ugly game (shame on you), the mods here won't do much to change your mind.
+Mods that modify the visuals of the game. Bear in mind that, if you think Morrowind is an ugly game (shame on you), the mods here won't do much to change your mind.
 
-### READABLE SIGNPOSTS
+### ESSENTIALS
 
-Choose between one of these two alternatives for readable signposts. My personal preference is PeterBitt's, but if you are a vanilla purist nothing beats Atrayonis'.
-
-- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis  
-Makes road signs legible. Uses vanilla background and resolution.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vvardenfell only** and click **OK**.
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
-
-### REMIROS' GROUNDCOVER
-
+  - A very vanilla-friendly alternative to this mod is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
   - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
-
-## YET ANOTHER GUARD DIVERSITY
-
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
-
-### WEAPON SHEATHING
-
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Only install the **WeaponSheathing 1.6-MWSE** main file.
@@ -300,9 +287,6 @@ The bows will better line up with the sheathing animation.
 Greatly improves performance and fixes some mesh errors.
   - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
-
-### WEATHER AND LIGHTING
-
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
   - MO2 will install this mod as a BAIN package. Only tick the following options and click **OK**:
@@ -483,6 +467,8 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ### BALANCE AND MECHANICS
+
+Mods that modify various balance aspects of the game, modify how certain mechanics work, or add new mechanics altogether (mostly brought back from Daggerfall).
 
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Rebalances alcohol so that it is less effective than potions.
