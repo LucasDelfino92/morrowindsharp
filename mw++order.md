@@ -194,7 +194,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Controlled Consumption
 - Enchant Capacity Rebalance
 - Harder Barter
-- Higher Faction Requirements
 - Hold Your Breath
 - Hunter's Mark - A Marksman Mod
 - Limited Leaping
@@ -282,7 +281,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Temples With Shrines.ESP
 - The Publicans.ESP
 - better balanced booze_hardcore.ESP
-- higher faction requirements - Full.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
