@@ -112,7 +112,7 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 Mods that restore content that was cut before the game shipped.
 
-- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian
+- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua. 
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
