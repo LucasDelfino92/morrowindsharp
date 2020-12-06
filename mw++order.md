@@ -114,24 +114,12 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### VISUALS - READABLE SIGNPOSTS
 
-- Near Vanilla Road Sign Replacer OR Signposts Retextured
-
-### VISUALS - GROUNDCOVER
-
+- Signposts Retextured
 - Remiros' Groundcover
-
-### VISUALS - YET ANOTHER GUARD DIVERSITY
-
 - Yet Another Guard Diversity - Regular
-
-### VISUALS - WEAPON SHEATHING
-
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
-
-### VISUALS - WEATHER AND LIGHTING
-
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Let There Be Darkness - Lua Lighting Overhaul
@@ -267,7 +255,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - correctUV Ore Replacer_fixed.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
-- NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
+- PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
 - Buoyant Lord Vivec.ESP
 - Flies.ESP
