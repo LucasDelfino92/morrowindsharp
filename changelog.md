@@ -5,20 +5,40 @@
 
 ## December 6th
 
-Structure:
+Re-structuring:
 
 - Core: moved **Beware the Sixth House** to this section. Since mort's major rebalances were meant to be used together, it only made sense.
+- Core: moved **Dry Stone Walls Revamped** to this section. It's a UV fix, much like Correct Meshes.
 - Gameplay: merged **New mechanics** and **Balance** into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
+- Overhauls: removed this section since it only contained one mod. Moved **Yet Another Guard Diversity** to **Visuals**.
 - Gameplay: moved **Ownership Overhaul** to the **Balance and Mechanics** section. It's a general anti-cheese over a mod that fixes an oversight.
+- Visuals: moved **Buoyant Lord Vivec** to the **Visual Effects** section.
+- Visuals: moved the following mods to the **Other Visual Tweaks** sub-section. This section now contains visual tweaks that deal with the vanilla assets, instead of adding entirely new visual effects.
+  - **Apel's Rain Replacer**
+  - **Better Waterfalls**
+  - **Waterfalls Tweaks**
+  - **Bitter Coast Scum Replacer**
+  - **Improved Thrown Weapon Projectiles**
+  - **Mist Retexture**
+  - **Realistic Blood**
+  - **Skeleton and Metal Sparks Blood Retexture**
+  - **Subtle Magic Glow**
+  - **Subtle Smoke**
+  - **Vivec Palace Water Replacer**
 
 Additions:
 
-- Core: added **No Translation Tooltips**.
-- Gameplay: added **Hold Your Breath**.
-- Gameplay: added **Lua Lock Bashing**.
-- Gameplay: added **Visible Alchemy Success Chance**.
-- Gameplay: added **Visible Persuasion Chance**.
-- Gameplay: added **Wading in Water MW**.
+- Core: **No Translation Tooltips**.
+- Gameplay: **Hold Your Breath**.
+- Gameplay: **Lua Lock Bashing**.
+- Gameplay: **Visible Alchemy Success Chance**.
+- Gameplay: **Visible Persuasion Chance**.
+- Gameplay: **Wading in Water MW**.
+
+Removals:
+
+- Visuals: **Simple Golden Gold**. Really small mod, hardly makes a difference.
+- Visuals: **Soldier Belts Fix**. Really small mod, hardly makes a difference.
 
 ## December 5th
 
@@ -109,6 +129,8 @@ Removed:
 
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
+- [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
