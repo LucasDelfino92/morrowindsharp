@@ -184,7 +184,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
 - Blighted Mine Means Blighted Workers
-- Corprus Fix
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
 - Loading Doors Lock Tune
@@ -287,7 +286,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
 - Clean Blighted_Kwama_Workers.ESP
-- true corprus.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Adamantium Axe 1H.ESP
