@@ -477,8 +477,6 @@ Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium 
 Adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
 If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
-- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544) by grasscid  
-Gives you the disease resisting effects of Corprus as soon as you catch it from Dagoth Gares rather than after Divayth Fyr cures you, as according to the lore.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
@@ -500,9 +498,9 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-### NEW MECHANICS
+### MECHANICS
 
-From Daggerfall to Morrowind, plenty of mechanics were lost. In addition, existing mechanics don't work quite well. These mods bring back some mechanics present in Daggerfall and other popular RPGs, address some flaws in others, and overall contribute to a more interesting roleplaying experience.
+Mods that bring back some mechanics present in Daggerfall, or that modify some vanilla mechanics to work differently.
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
