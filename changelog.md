@@ -94,6 +94,32 @@ What are the major changes since the last version, you ask? These:
 - The former **Mending Morrowind** guide has been greatly expanded and renamed to **Core**. Here you will find bug fixes, high resolution vanilla textures, quality of life improvements, restored content, and expansion reimplementation. This was inspired by Qolore7's [**Viva New Vegas**](https://vivanewvegas.github.io/index.html) guide.
 - Broadly speaking, mods have been moved around to simplify the structure of the guide, and sub-categories have been added to some sections which I found fitting.
 
+## Removed mods
+
+Replaced mods:
+
+- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
+- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
+- [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755)
+- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
+- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
+- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
+- [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
+- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
+- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
+- [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
+- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
+- [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
+- [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)
+- [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)
+- [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
+- [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226)
+- [**Seven Graces Shrines - Enhanced**](https://www.nexusmods.com/morrowind/mods/46417)
+- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)
+
 ## Legacy: Quests
 
 It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options, changing its rewards, or adding more flavor to it, is out of the question. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in these mods.
