@@ -198,10 +198,9 @@ Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Tick **00 Core + Vanilla Meshes** and click **OK**.
-  - Also install the **GH Patches and Replacers** optional file. MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Correct UV Ore + README**
-    - **10 Atlas - Vanilla BC Mushrooms**
-  - Hide/disable **correctUV Ore Replacer_respawning.esp**
+  - Also install the **GH Patches and Replacers** optional file.
+    - MO2 will install this mod as a BAIN package. Tick **00 Correct UV Ore + README** and **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+    - Hide/disable **correctUV Ore Replacer_respawning.esp**
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
