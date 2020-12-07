@@ -15,6 +15,7 @@ Additions:
 - Gameplay: **Borrowed Time**
 - Gameplay: **Harder Taunting**
 - Gameplay: **No Disposition Bonus For Bartering**
+- Gameplay: **Ordinator Armour Fix** (replaces **FMI - Sane Ordinators**)
 
 Removals:
 
@@ -143,6 +144,7 @@ Replaced:
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
+- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 
 Removed:
 
