@@ -201,8 +201,7 @@ Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file.
-    - MO2 will install this mod as a BAIN package. Only tick **00 Correct UV Ore + README** and **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
-    - Hide/disable **correctUV Ore Replacer_respawning.esp**
+    - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
@@ -472,6 +471,8 @@ Mods that modify various balance aspects of the game, modify how certain mechani
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by VitruvianGuar  
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point. 
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
@@ -483,6 +484,8 @@ Provides a configurable restriction on the amount of potions the player can drin
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106) by Sephumbra  
+Failing at taunting will now reduce an npcs will to fight instead of doing nothing. Prevents low skilled players from successfully provoking an enemy into a fight.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
  Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
@@ -506,6 +509,8 @@ Takes into account the distance to target when calculating the hit chance for ra
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
+- [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file) by Sigourn  
+Prevents Disposition from raising after sucessfully bartering with an NPC, which could be cheesed by selling low value items (such as ingredients) one at a time.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
@@ -644,6 +649,7 @@ The following mods require additional configuration through the in-game **Mod Co
 - Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
+- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
 - In the **Light Settings** tab, set **Apply flicker removal to fire too?** to **On**.
   - If you enjoy the fire flickering, then set **Light radius scaling** to **120%** instead.
 - In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
