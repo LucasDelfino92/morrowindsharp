@@ -129,6 +129,7 @@ Replaced:
 
 Removed:
 
+- **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
