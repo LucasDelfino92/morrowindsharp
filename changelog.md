@@ -5,6 +5,11 @@
 
 ## December 7th
 
+Maintenance:
+
+- Gameplay: fixed Nexus link for **Enchantment Capacity Rebalance**. Was previously linking to Projectile Enchant Capacity.
+- Visuals: added additional instructions for **Let There Be Darkness**.
+
 Additions:
 
 - Gameplay: **Borrowed Time**
