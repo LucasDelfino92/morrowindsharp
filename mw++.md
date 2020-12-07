@@ -476,7 +476,7 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Disp
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
-- [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/46685) by Necrolesian  
+- [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
  Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
   - MO2 will install this mod as a BAIN package. Tick **MWSE Version** and click **OK**.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
