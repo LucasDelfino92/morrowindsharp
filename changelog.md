@@ -3,6 +3,18 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 7th
+
+Additions:
+
+- Gameplay: **Borrowed Time**
+- Gameplay: **Harder Taunting**
+- Gameplay: **No Disposition Bonus For Bartering**
+
+Removals:
+
+- Core: modified GH Patches and Replacers installation instructions to remove **Diverse Ore Veins**. This mod reduced variety on the game's textures.
+
 ## December 6th
 
 Re-structuring:
