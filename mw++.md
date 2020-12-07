@@ -513,6 +513,9 @@ Provides functional and configurable magicka regeneration for the player, NPCs, 
 Prevents Disposition from raising after sucessfully bartering with an NPC, which could be cheesed by selling low value items (such as ingredients) one at a time.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
+- [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
+Allows you to wear Indoril and Her Hand's armour legally after accepting Wraithguard from Vivec and killing Salas Valor and receiving Almalexia's Blessing, respectively.
+  - Only install the **Ordinator Armour Fix** main file.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
@@ -556,8 +559,6 @@ Expands quorn's HospitalityPapers Mod, including newly recorded lines from origi
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
-Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
