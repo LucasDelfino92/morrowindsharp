@@ -250,7 +250,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Better_Typography_Bookarts_Fix.ESP
 - AlchemyFilter.ESP
 - PB_GondolierDestinations.ESP
-- correctUV Ore Replacer_fixed.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
@@ -282,6 +281,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
+- No Disposition Bonus For Bartering.ESP
+- OrdinatorArmourFix.ESP
 - Putting Power in Willpower - Absorbonach.ESP
 - Speed and Movement.ESP
 - Idle Talk.ESP
@@ -289,7 +290,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
-- FMI_SaneOrdinators.ESP
 - FMI_ServiceRefusal_Contraband.ESP
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
