@@ -99,7 +99,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Bloodmoon Rebalance
 - Beware the Sixth House (Sixth House Overhaul)
 
-### VISUALS - ESSENTIALS
+### VISUALS - NEW FEATURES
 
 - Signposts Retextured
 - Remiros' Groundcover
@@ -113,14 +113,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Transporter Lights
 - Weather Adjuster
 
-### VISUALS - VISUAL EFFECTS
-
-- Mistify
-- Perfectly Proficient Parasol Particles Performance Patch
-- Unto Dust
-- Visually Filled Soul Gems
-
-### VISUALS - OTHER VISUAL TWEAKS
+### VISUALS - TWEAKS
 
 - Apel's Rain Replacer
 - Better Waterfalls
@@ -131,12 +124,12 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Improved Nordic Iron Helm Mesh
 - Improved Thrown Weapon Projectiles
 - Mist Retexture
-- Nordic Chest Replacer
 - Practical Pauldrons - Streamlined Shoulders
 - Realistic Blood
 - Skeleton and Metal Sparks Blood Retexture
 - Subtle Magic Glow
 - Subtle Smoke
+- Visually Filled Soul Gems
 - Vivec Palace Water Replacer
 - Well Diversified
 - Wolf Helmet Replacer
@@ -144,8 +137,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### AUDIO
 
 - Greet Distance Reducer
-- Haunted Barrows
-- Heartthrum
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
@@ -181,7 +172,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MWSE Magicka Regen
 - No Rest Without Beds
-- Ordinator Armour Fix
 - Ownership Overhaul
 - Putting Power In Willpower
 - Realistic Movement Speeds
@@ -197,6 +187,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Idle Talk
 - Its a Deal
+- FMI - Legion Dialogue
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
 - Greetings for No Lore
@@ -226,14 +217,10 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Expansion Delay.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
-- mistify.ESP
 - Waterfalls Tweaks.ESP
 - Complete Armor Joints.ESP
-- Nordic Chest Replacer.ESP
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
-- Haunted Barrows.ESP
-- RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
@@ -249,11 +236,11 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
 - No Disposition Bonus For Bartering.ESP
-- OrdinatorArmourFix.ESP
 - Putting Power in Willpower - Absorbonach.ESP
 - Speed and Movement.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
+- FMI_Legion_Dialogue.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - Greetings for No Lore.ESP
