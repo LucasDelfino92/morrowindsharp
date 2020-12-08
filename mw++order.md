@@ -181,6 +181,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MWSE Magicka Regen
 - No Rest Without Beds
+- Ordinator Armour Fix
 - Ownership Overhaul
 - Putting Power In Willpower
 - Realistic Movement Speeds
@@ -198,7 +199,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Its a Deal
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
-- FMI - Sane Ordinators
 - Greetings for No Lore
 - LDM - Context Matters
 - Outfit Greetings Tweaked
