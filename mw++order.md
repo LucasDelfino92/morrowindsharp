@@ -37,10 +37,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
-- Dry Stone Walls Revamped
 - Fix Those Bastard Rope Fences
 - Glowing Flames
-- Silver and Nordic Cuirasses Fixed
 - Expeditious Exit
 - Immersive Run Fix
 - Quest Skill Reward Fix
@@ -52,8 +50,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Creature VFX Restoration
 - Diseases Restored
 - Great Service
-- Services Restored
-- Sound Spell Sound Effect
 
 ### CORE - HIGH RESOLUTION TEXTURES
 
@@ -77,25 +73,17 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Alchemy Filter
 - Better Buoyancy
 - Better Questlist
-- Book Pickup
-- Clock Block
 - Continue
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
 - Easy Escort
-- Gondolier Destinations
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
 - Hotkeys Extended
 - HUD Weapon Charge
-- Inventory Mouse Wheel
 - Kill Command
 - New Game Confirmation
-- No Translation Tooltips
 - Pluginless and Adjustable Lower First Person Sneak
-- Quick Equip
-- Right Click Menu Exit
-- Security Enhanced
 - Shrine Tooltips
 - Smart Ammo
 - Smart Map
@@ -107,7 +95,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### CORE - EXPANSION REIMPLEMENTATION AND GENERAL REBALANCE
 
 - Expansion Delay
-- Early Transport to Mournhold
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 - Beware the Sixth House (Sixth House Overhaul)
@@ -128,11 +115,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### VISUALS - VISUAL EFFECTS
 
-- Buoyant Lord Vivec
-- Flies
 - Mistify
 - Perfectly Proficient Parasol Particles Performance Patch
-- The Dream is the Door
 - Unto Dust
 - Visually Filled Soul Gems
 
@@ -144,11 +128,8 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Bitter Coast Scum Replacer
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
-- Golden Saint Feminine Walk
-- Imperial Female Cuirass Retex
 - Improved Nordic Iron Helm Mesh
 - Improved Thrown Weapon Projectiles
-- Incarnates Overhauled
 - Mist Retexture
 - Nordic Chest Replacer
 - Practical Pauldrons - Streamlined Shoulders
@@ -168,9 +149,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
-- Silent Assassins
-- Sounds of Souls
-- Water Sounds
 
 ### GAMEPLAY - POLISH
 
@@ -218,11 +196,9 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Idle Talk
 - Its a Deal
-- FMI - Hospitality Papers Expanded
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
 - FMI - Sane Ordinators
-- FMI - Service Refusal and Contraband
 - Greetings for No Lore
 - LDM - Context Matters
 - Outfit Greetings Tweaked
@@ -245,29 +221,20 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - Diseases Restored.ESP
 - Great Service.ESP
-- Services Restored.ESP
-- SoundSpellSoundEffect.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - AlchemyFilter.ESP
-- PB_GondolierDestinations.ESP
 - Expansion Delay.ESP
-- Early Transport to Mournhold.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
-- Buoyant Lord Vivec.ESP
-- Flies.ESP
 - mistify.ESP
-- The Dream is the Door.ESP
 - Waterfalls Tweaks.ESP
 - Complete Armor Joints.ESP
-- Incarnates Overhauled.ESP
 - Nordic Chest Replacer.ESP
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
 - Haunted Barrows.ESP
 - RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
-- Silent Assassins.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
 - Clean Blighted_Kwama_Workers.ESP
@@ -287,10 +254,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Speed and Movement.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
-- Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
-- FMI_ServiceRefusal_Contraband.ESP
 - Greetings for No Lore.ESP
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
