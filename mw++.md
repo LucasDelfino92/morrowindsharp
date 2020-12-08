@@ -233,7 +233,7 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 Mods that modify the visuals of the game. Bear in mind that, if you think Morrowind is an ugly game (shame on you), the mods here won't do much to change your mind.
 
-### ESSENTIALS
+### NEW FEATURES
 
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
@@ -281,21 +281,7 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-### VISUAL EFFECTS
-
-- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
-Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The mod also includes an optional mesh replacer for the vanilla effect. 
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vanilla Mist Replacer** and click **OK**.
-- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Verious and Melchior Dahrk  
-Adds falling spores particle effects to the iconic emperor parasol mushrooms. Patched for Project Atlas compatibility.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
-- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
-Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Default Dust** and click **OK**.
-- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
-Makes in-world soul gems that are filled appear as enchanted items.
-
-### OTHER VISUAL TWEAKS
+### TWEAKS
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
@@ -322,8 +308,6 @@ Modifies the Nordic Iron Helm to look less stupid.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
-- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
-Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
@@ -340,6 +324,8 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
+Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
@@ -358,11 +344,6 @@ Mods that modify certain audio aspects of the game.
 
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
-Gives Nordic barrows on Solstheim their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Fire Sound Replacer** and click **OK**.
-- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack  
-Allows the player to listen to the Heart of Lorkhan when inside the Ghostfence.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
   - Only install the **Outdoor Banners With Sound** main file.
@@ -454,9 +435,6 @@ Provides functional and configurable magicka regeneration for the player, NPCs, 
 Prevents Disposition from raising after sucessfully bartering with an NPC, which could be cheesed by selling low value items (such as ingredients) one at a time.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
-Allows you to wear Indoril and Her Hand's armour legally after accepting Wraithguard from Vivec and killing Salas Valor and receiving Almalexia's Blessing, respectively.
-  - Only install the **Ordinator Armour Fix** main file.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
@@ -494,6 +472,8 @@ Mods that improve various aspects of vanilla dialogue, including appropiate filt
  Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 - [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
@@ -514,9 +494,6 @@ Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
-- **Nordic Chest Replacer.ESP**
-  - Delete the following records in TESAME:
-    - Cell **Solstheim, Bloodskal Barrow**
 - **Divayth Fyr Puzzle Fixed.ESP**
   - Clean with TESTool and tes3cmd.
 - **Dubdilla Location Fix.ESP**
