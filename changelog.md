@@ -5,7 +5,7 @@
 
 ## December 8th
 
-More removed mods as I analyze which ones hardly made a difference in my playthroughs. As always a reminder that there's nothing particularly wrong with them.
+I think this should be the last sweep I do for the guide, when it comes to removing mods.
 
 Re-structuring:
 
