@@ -7,6 +7,14 @@
 
 More removed mods as I analyze which ones hardly made a difference in my playthroughs. As always a reminder that there's nothing particularly wrong with them.
 
+Re-structuring:
+
+- Visuals: removed Visual Effects section, renamed remaining sections to New Features and Tweaks, 
+
+Additions:
+
+- Dialogue: FMI - Legion Dialogue
+
 Removals:
 
 - Core: Dry Stone Walls Revamped
@@ -24,13 +32,20 @@ Removals:
 - Core: Early Transport to Mournhold
 - Visuals: Buoyant Lord Vivec
 - Visuals: Flies
+- Visuals: Mistify
+- Visuals: Perfectly Proficient Parasol Particles Performance Patch
 - Visuals: The Dream is the Door
+- Visuals: Unto Dust
 - Visuals: Imperial Female Cuirass Retexure
 - Visuals: Golden Saint Feminine Walk
-- Visuals:Incarnates Overhauled
+- Visuals: Incarnates Overhauled
+- Visuals: Nordic Chest Replacer
+- Audio: Haunted Barrows
+- Audio: Heartthrum
 - Audio: Silent Assassins
 - Audio: Sounds of Souls
 - Audio: Water Sounds
+- Gameplay: Ordinator Armour Fix
 - Dialogue: FMI - Hospitality Papers Expanded
 - Dialogue: FMI - Service Refusal and Contraband
 
@@ -196,13 +211,19 @@ Removed:
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
+- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)
+- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
 - [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
+- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
+- [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
+- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
@@ -210,6 +231,7 @@ Removed:
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
+- [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
