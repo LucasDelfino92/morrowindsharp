@@ -90,17 +90,12 @@ Greatly improves performance and fixes some mesh errors.
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
   - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
-- [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069) by Darkfri  
-Fix UV's and improve a bit the dry stone walls that you can see in some imperial towns.
-  - MO2 will install this mod as a BAIN package. Only tick **0 - Vanilla with UV fixes** and click **OK**.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
   - Only install the **Glowing Flames** main file. The update files are not necessary.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
-- [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?) by Explorer1911  
-Some weight fixes and mesh tweaks to make the Silver, Duke's Guard, and Nordic Iron cuirasses flex at the waist like most cuirasses do.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
@@ -122,12 +117,6 @@ Restores visual effects on creatures.
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue. 
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) by half11  
-Adds Cinia Urtius, a master trainer for Medium Armor (as per the Morrowind Prophecies Official Strategy Guide), and restores Hecerinde's Secret Master vendor items.
-- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
-The player will hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 
 ### HIGH RESOLUTION TEXTURES
 
@@ -181,10 +170,6 @@ Adds the ability to filter ingredients based on their magic effects.
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
-Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
-- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
-Adds clock to UI that displays either game world time or real time.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
@@ -195,8 +180,6 @@ Increases the capacity of all containers (BM and TR included) by x100. Enough to
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?) by PeterBitt  
-Each gondolier in Vivec will now get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
@@ -206,24 +189,14 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-- [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN  
-Allows the use of the mouse wheels to move items into and out of containers.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
-- [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?) by OEA  
-Removes the tooltips (messages) from road signs and/or hanging banners. To be used with "real signpost"-type mods.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly. Made with MWSE-Lua. 
-- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
-Holding down a hotkey (default left Shift) while clicking an item in your inventory will equip that item instead of picking it up.
-- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
-Allows exiting any menu by right clicking (or whatever your menu key is mapped to).
-- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
@@ -248,8 +221,6 @@ Mods that modify the implementation of the Tribunal and Bloodmoon expansions, as
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
@@ -312,21 +283,12 @@ Personal preset for darker nights and less horrible fog.
 
 ### VISUAL EFFECTS
 
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
-Adds a simple script to make Vivec properly loop his idle animation.
-  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
-- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
-Adds a visual effect to all vanilla flies sound emitters.
-  - MO2 will tell you there's no game data on top level.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The mod also includes an optional mesh replacer for the vanilla effect. 
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vanilla Mist Replacer** and click **OK**.
 - [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Verious and Melchior Dahrk  
 Adds falling spores particle effects to the iconic emperor parasol mushrooms. Patched for Project Atlas compatibility.
   - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
-To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Default Dust** and click **OK**.
@@ -350,24 +312,13 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
-Retextures the female Imperial Steel Cuirass to look like its male counterpart.
-  - Only install the **Imperial Female Cuirass Retexure** main file.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **meshes**. Click **OK**. 
-    - Right click the **meshes** folder and click **Create directory...**. Name this new folder **r**. Click **OK**. 
-    - Expand the **meshes** folder. Drag the .kf and .nif files into the **meshes\r** folder. Click **OK**.
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
 Modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
-- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file) by Aoimevelho  
-Modifies the armor and clothes of the failed incarnates to better reflect their backgrounds.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
@@ -418,17 +369,6 @@ Outdoor banners now play sound alongside their animations. During clear weather 
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
-Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
-- [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/) by NullCascade  
-Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
-  - To download the file from GitHub you need to click on the **Clone or download** button on the upper right and click **Download Zip**.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **morrowind-mods-master** folder. 
-    - Right click **Sounds of Souls** and click **Set data directory**.
-    - Rename the mod to **Sounds of Souls**. Click **OK**.
-- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
-Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## GAMEPLAY
 
@@ -456,7 +396,7 @@ Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and sp
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
-Adds supply chests to factions that previously lacked any. This mod is a merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002). Credits go to their original authors.
+Adds supply chests to factions that previously lacked any. This mod is a merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
@@ -553,14 +493,10 @@ Mods that improve various aspects of vanilla dialogue, including appropiate filt
  Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 - [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
-Expands quorn's HospitalityPapers Mod, including newly recorded lines from original Morrowind voice actor Jeff Baker.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 Replaces the three standard No Lore greetings with over sixty new ones. 
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
@@ -640,12 +576,6 @@ Regardless of the extent you've followed this guide through, I recommend making 
 
 The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
-**Book Pickup**
-- Set **Pickup by default?** to **No**.
-
-**Clock Block**
-- Set **Clock type** to **Game time**.
-
 **Continue**
 - Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
 
@@ -655,24 +585,16 @@ The following mods require additional configuration through the in-game **Mod Co
   - If you enjoy the fire flickering, then set **Light radius scaling** to **120%** instead.
 - In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
 
-**No Translation Tooltips**
-- Set **Disable banner tooltips?** to **No**.
-
 **Putting Power in Willpower**
 - Set **Allow negative Resist Bonus** to **On**.
-
-**Security Enhanced**
-- Set the **Assign Keybind for Lockpick Hotkey** key to **O** (the **L** is used by **Let There Be Darkness**).
 
 **Visible Persuasion Chance**
 - Set **Immersive Mode** to **On**.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
-- **Quick Equip**: left click + Left Shift when clicking on inventory items will equip them or use them (in the case of consumables).
 - **Kill Command**: button **K** to order attacks.
 - **Scriptable Scriptures**: button **B** to switch between open and closed scriptures.
-- **Security Enhanced**: buttons **O** and **P** to equip lockpicks and probes respectively.
 
 Congratulations, your modded Morrowind installation is ready!
 
