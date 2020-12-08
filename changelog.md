@@ -3,62 +3,93 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 8th
+
+More removed mods as I analyze which ones hardly made a difference in my playthroughs. As always a reminder that there's nothing particularly wrong with them.
+
+Removals:
+
+- Core: Dry Stone Walls Revamped
+- Core: Silver and Nordic Cuirasses Fixed
+- Core: Services Restored
+- Core: Sound Spell Sound Effect
+- Core: Book Pickup
+- Core: Clock Block
+- Core: Gondolier Destinations
+- Core: Inventory mouse wheel
+- Core: No Translation Tooltips
+- Core: Quick Equip
+- Core: Right Click Menu Exit
+- Core: Security Enhanced
+- Core: Early Transport to Mournhold
+- Visuals: Buoyant Lord Vivec
+- Visuals: Flies
+- Visuals: The Dream is the Door
+- Visuals: Imperial Female Cuirass Retexure
+- Visuals: Golden Saint Feminine Walk
+- Visuals:Incarnates Overhauled
+- Audio: Silent Assassins
+- Audio: Sounds of Souls
+- Audio: Water Sounds
+- Dialogue: FMI - Hospitality Papers Expanded
+- Dialogue: FMI - Service Refusal and Contraband
+
 ## December 7th
 
 Maintenance:
 
-- Gameplay: fixed Nexus link for **Enchantment Capacity Rebalance**. Was previously linking to Projectile Enchant Capacity.
-- Visuals: added additional instructions for **Let There Be Darkness**.
+- Gameplay: fixed Nexus link for Enchantment Capacity Rebalance. Was previously linking to Projectile Enchant Capacity.
+- Visuals: added additional instructions for Let There Be Darkness.
 
 Additions:
 
-- Gameplay: **Borrowed Time**
-- Gameplay: **Harder Taunting**
-- Gameplay: **No Disposition Bonus For Bartering**
-- Gameplay: **Ordinator Armour Fix** (replaces **FMI - Sane Ordinators**)
+- Gameplay: Borrowed Time
+- Gameplay: Harder Taunting
+- Gameplay: No Disposition Bonus For Bartering
+- Gameplay: Ordinator Armour Fix** (replaces FMI - Sane Ordinators)
 
 Removals:
 
-- Core: modified GH Patches and Replacers installation instructions to remove **Diverse Ore Veins**. This mod reduced variety on the game's textures.
+- Core: modified GH Patches and Replacers installation instructions to remove Diverse Ore Veins. This mod reduced variety on the game's textures.
 
 ## December 6th
 
 Re-structuring:
 
-- Core: moved **Beware the Sixth House** to this section. Since mort's major rebalances were meant to be used together, it only made sense.
-- Core: moved **Dry Stone Walls Revamped** to this section. It's a UV fix, much like Correct Meshes.
-- Gameplay: merged **New mechanics** and **Balance** into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
-- Overhauls: removed this section since it only contained one mod. Moved **Yet Another Guard Diversity** to **Visuals**.
-- Gameplay: moved **Ownership Overhaul** to the **Balance and Mechanics** section. It's a general anti-cheese over a mod that fixes an oversight.
-- Visuals: moved **Buoyant Lord Vivec** to the **Visual Effects** section.
-- Visuals: moved the following mods to the **Other Visual Tweaks** sub-section. This section now contains visual tweaks that deal with the vanilla assets, instead of adding entirely new visual effects.
-  - **Apel's Rain Replacer**
-  - **Better Waterfalls**
-  - **Waterfalls Tweaks**
-  - **Bitter Coast Scum Replacer**
-  - **Improved Thrown Weapon Projectiles**
-  - **Mist Retexture**
-  - **Realistic Blood**
-  - **Skeleton and Metal Sparks Blood Retexture**
-  - **Subtle Magic Glow**
-  - **Subtle Smoke**
-  - **Vivec Palace Water Replacer**
+- Core: moved Beware the Sixth House to this section. Since mort's major rebalances were meant to be used together, it only made sense.
+- Core: moved Dry Stone Walls Revamped to this section. It's a UV fix, much like Correct Meshes.
+- Gameplay: merged New mechanics and Balance into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
+- Overhauls: removed this section since it only contained one mod. Moved Yet Another Guard Diversity to Visuals.
+- Gameplay: moved Ownership Overhaul to the Balance and Mechanics section. It's a general anti-cheese over a mod that fixes an oversight.
+- Visuals: moved Buoyant Lord Vivec to the Visual Effects section.
+- Visuals: moved the following mods to the Other Visual Tweaks sub-section. This section now contains visual tweaks that deal with the vanilla assets, instead of adding entirely new visual effects.
+  - Apel's Rain Replacer
+  - Better Waterfalls
+  - Waterfalls Tweaks
+  - Bitter Coast Scum Replacer
+  - Improved Thrown Weapon Projectiles
+  - Mist Retexture
+  - Realistic Blood
+  - Skeleton and Metal Sparks Blood Retexture
+  - Subtle Magic Glow
+  - Subtle Smoke
+  - Vivec Palace Water Replacer
 
 Additions:
 
-- Core: **No Translation Tooltips**.
-- Gameplay: **Hold Your Breath**.
-- Gameplay: **Lua Lock Bashing**.
-- Gameplay: **Visible Alchemy Success Chance**.
-- Gameplay: **Visible Persuasion Chance**.
-- Gameplay: **Wading in Water MW**.
+- Core: No Translation Tooltips.
+- Gameplay: Hold Your Breath.
+- Gameplay: Lua Lock Bashing.
+- Gameplay: Visible Alchemy Success Chance.
+- Gameplay: Visible Persuasion Chance.
+- Gameplay: Wading in Water MW.
 
 Removals:
 
-- Visuals: **Simple Golden Gold**. Really small mod, hardly makes a difference.
-- Visuals: **Soldier Belts Fix**. Really small mod, hardly makes a difference.
-- Gameplay: **Better Balanced Booze**. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
-- Gameplay: **Higher Faction Requirements**. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
+- Visuals: Simple Golden Gold. Really small mod, hardly makes a difference.
+- Visuals: Soldier Belts Fix. Really small mod, hardly makes a difference.
+- Gameplay: Better Balanced Booze. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
+- Gameplay: Higher Faction Requirements. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
 
 ## December 5th
 
@@ -148,11 +179,33 @@ Replaced:
 
 Removed:
 
+- [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
+- [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
 - **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
+- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)
+- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)
+- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
+- [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
+- [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
+- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)
+- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)
+- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
+- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)
+- [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
+- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
+- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
+- [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
+- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
@@ -168,6 +221,8 @@ Removed:
 - [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226)
 - [**Seven Graces Shrines - Enhanced**](https://www.nexusmods.com/morrowind/mods/46417)
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
 
 ## Legacy: Quests
 
