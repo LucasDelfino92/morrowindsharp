@@ -104,7 +104,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Torch Hotkey
 - UI Expansion
 
-### CORE - EXPANSION REIMPLEMENTATION
+### CORE - EXPANSION REIMPLEMENTATION AND GENERAL REBALANCE
 
 - Expansion Delay
 - Early Transport to Mournhold
@@ -112,7 +112,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Bloodmoon Rebalance
 - Beware the Sixth House (Sixth House Overhaul)
 
-### VISUALS - READABLE SIGNPOSTS
+### VISUALS - ESSENTIALS
 
 - Signposts Retextured
 - Remiros' Groundcover
