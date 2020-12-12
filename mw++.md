@@ -32,7 +32,7 @@ See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/ch
 
 ### FOLLOWING THE SETUP GUIDE
 
-The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup page. Please abstain from using this guide until you've correctly set up Morrowind.
+The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
 ### MODDING TIPS
 
