@@ -169,8 +169,8 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 Mods that address various issues with Morrowind's gameplay and user interface, from the minor and annoying to the large and infuriating. Because they only cut the "middle man" in most cases and do not affect the balance of the game, they are recommended even for a first playthrough.
 
-- [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
-Adds the ability to filter ingredients based on their magic effects.
+- [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
+Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects. 
 - [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
@@ -244,6 +244,8 @@ Mods that modify the visuals of the game. Bear in mind that, if you think Morrow
 Makes road signs legible. Uses higher quality vanilla-friendly textures.
   - Install only one of the main files.
   - A very vanilla-friendly alternative to this mod is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis.
+- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?) by Hrnchamd  
+Makes thrown projectiles visible on the player, enemies and statics.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
