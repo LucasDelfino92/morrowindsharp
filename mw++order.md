@@ -70,7 +70,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### CORE - QUALITY OF LIFE IMPROVEMENTS
 
-- Alchemy Filter
+- Alchemical Knowledge
 - Better Buoyancy
 - Better Questlist
 - Continue
@@ -102,6 +102,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### VISUALS - NEW FEATURES
 
 - Signposts Retextured
+- Pincushion
 - Remiros' Groundcover
 - Yet Another Guard Diversity - Regular
 - Weapon Sheathing
@@ -213,7 +214,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Diseases Restored.ESP
 - Great Service.ESP
 - Better_Typography_Bookarts_Fix.ESP
-- AlchemyFilter.ESP
 - Expansion Delay.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
