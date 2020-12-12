@@ -170,7 +170,8 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 Mods that address various issues with Morrowind's gameplay and user interface, from the minor and annoying to the large and infuriating. Because they only cut the "middle man" in most cases and do not affect the balance of the game, they are recommended even for a first playthrough.
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
-Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects. 
+Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
+  - Note that though the author suggests enabling Healthy Appetite in the Morrowind Code Patch, I suggest playing without it as it is a notoriously OP feature.
 - [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
