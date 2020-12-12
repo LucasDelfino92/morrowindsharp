@@ -10,17 +10,17 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
-- [Core](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core)
+- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
   - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#bug-fixes-and-optimization)
   - [Restored content](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#restored-content)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
   - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
   - [Expansion reimplementation and general rebalance](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-reimplementation-and-general-rebalance)
-- [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals)
-- [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
-- [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay)
-- [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue)
+- [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
+- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
+- [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
+- [Dialogue module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
 
@@ -70,7 +70,7 @@ Each module can be installed independently from each other (sans patches that co
 
 Just because the guide has an order it doesn't mean you can't install modules or mods out of order: Mod Organizer 2 lets us rearrange mod and plugin order after installing them. But rest assured, following the guide in order will be your best bet at preserving your sanity.
 
-## CORE
+## CORE MODULE
 
 ### BUG FIXES AND OPTIMIZATION
 
@@ -234,7 +234,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
 
-## VISUALS
+## VISUALS MODULE
 
 Mods that modify the visuals of the game. Bear in mind that, if you think Morrowind is an ugly game (shame on you), the mods here won't do much to change your mind.
 
@@ -343,7 +343,7 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-## AUDIO
+## AUDIO MODULE
 
 Mods that modify certain audio aspects of the game.
 
@@ -357,7 +357,7 @@ Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 
-## GAMEPLAY
+## GAMEPLAY MODULE
 
 Mods that modify the basic gameplay and balance of the game, including the addition of new mechanics.
 
@@ -469,7 +469,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## DIALOGUE
+## DIALOGUE MODULE
 
 Mods that improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, adding entirely new audio lines, and more.
 
