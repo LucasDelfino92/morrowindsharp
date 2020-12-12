@@ -4,8 +4,9 @@
 
 ## INDEX
 
+- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
-  - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
+  - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
@@ -23,11 +24,15 @@
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
 
-## INTRODUCTION
-
-### CHANGELOG
+## CHANGELOG
 
 See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) page for more information.
+
+## INTRODUCTION
+
+### FOLLOWING THE SETUP GUIDE
+
+The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup page. Please abstain from using this guide until you've correctly set up Morrowind.
 
 ### MODDING TIPS
 
