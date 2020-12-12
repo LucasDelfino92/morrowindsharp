@@ -3,6 +3,13 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 12th
+
+Additions:
+
+- Core: Alchemical Knowledge (replaces Alchemy Filter)
+- Visuals: Pincushion
+
 ## December 8th
 
 I think this should be the last sweep I do for the guide, when it comes to removing mods.
@@ -185,6 +192,7 @@ What are the major changes since the last version, you ask? These:
 Replaced:
 
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
+- [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808)
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
 - [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755)
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
