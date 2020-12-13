@@ -3,6 +3,12 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 13th
+
+Maintenance:
+
+- Gameplay: added additional instructions for Putting Power in Willpower.
+
 ## December 12th
 
 Additions:
