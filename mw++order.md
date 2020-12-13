@@ -236,7 +236,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
 - No Disposition Bonus For Bartering.ESP
-- Putting Power in Willpower - Absorbonach.ESP
 - Speed and Movement.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
