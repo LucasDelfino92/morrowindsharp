@@ -351,6 +351,8 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
@@ -381,8 +383,6 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
-To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
