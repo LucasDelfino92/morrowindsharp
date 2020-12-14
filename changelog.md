@@ -3,6 +3,24 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 14th
+
+Re-structuring:
+
+- Game balance: new section.
+- Core - Expansion Rebalance and Reimplementation: renamed to Expansion Delay, and distributed all other mods along existing (and new) categories:
+  - Gameplay - New mechanics: moved Early Travel to Mournhold to this section.
+  - Game balance: moved Beware the Sixth House to this section.
+  - Game balance: moved Tribunal Rebalance to this section.
+  - Game balance: moved Bloodmoon Rebalance to this section.
+- Restored Content: removed section, and distributed mods along existing (and new) categories.
+  - Visuals - VFX: moved Creature VFX Restoration to this section.
+  - Dialogue: moved Great Service to this section.
+  - Gameplay - Tweaks: moved Services Restored to this section.
+  - Gameplay - New mechanics: moved Blighted Blight to this section.
+  - Gameplay - New mechanics: moved Diseases Restored to this section.
+- Gameplay: redistributed the mods in this category among two sub-sections, Tweaks and New Mechanics, and also alongside Game balance. The changes are far too many to list.
+
 ## December 13th
 
 Maintenance:
