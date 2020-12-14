@@ -268,10 +268,12 @@ Mods that modify the visuals of the game. Bear in mind that, if you think Morrow
 
 ### NEW FEATURES
 
-- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
-Makes road signs legible. Uses higher quality vanilla-friendly textures.
-  - Install only one of the main files.
-  - A very vanilla-friendly alternative to this mod is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis.
+These add entirely new features to the game's visuals, previously not present.
+
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?) by Hrnchamd  
 Makes thrown projectiles visible on the player, enemies and statics.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
@@ -279,6 +281,10 @@ Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
   - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?) by PeterBitt  
+Makes road signs legible. Uses higher quality vanilla-friendly textures.
+  - Install only one of the main files.
+  - A very vanilla-friendly alternative to this mod is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
@@ -316,7 +322,7 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-### TWEAKS
+### ENHANCEMENTS
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
@@ -328,23 +334,9 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Animated Replacer - Original Color** and click **OK**.
-- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
-Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-  - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
-Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
-Modifies the Nordic Iron Helm to look less stupid.
-  - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
-- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
-Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
 Makes blood more liquid and less smoke-like.
   - This mod is incorrectly packaged. 
@@ -365,6 +357,32 @@ Makes in-world soul gems that are filled appear as enchanted items.
 Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Original Color** and click **OK**.
+
+### PERSONAL NITPICKS
+
+- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
+Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
+Adds a simple script to make Vivec properly loop his idle animation.
+  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
+- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+  - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
+Modifies the Nordic Iron Helm to look less stupid.
+  - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
+- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
+Overhauls the appearance of the failed incarnates to use their equipment.
+- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
+Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
+- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
+Mesh replacers for various shoulder armours to help them feel a bit more practical.
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
+Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
@@ -387,11 +405,35 @@ Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 
+## DIALOGUE MODULE
+
+Mods that improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, adding entirely new audio lines, and more.
+
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
+ Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+NPCs no longer will greet you as if they had just met you.
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+Replaces the three standard No Lore greetings with over sixty new ones. 
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
+Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
+- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
+Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
+  - Only install the **Simple Smith Dialogue** main file.
+
 ## GAMEPLAY MODULE
 
 Mods that modify the basic gameplay and balance of the game, including the addition of new mechanics.
 
-### POLISH
+### TWEAKS
 
 There are multiple "what the hell" situations in Morrowind, inconsistencies or oversights if you will. This section addresses the most significant of them.
 
@@ -499,30 +541,6 @@ Displays the percentage chance you have in successfully persuading someone. Come
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
-
-## DIALOGUE MODULE
-
-Mods that improve various aspects of vanilla dialogue, including appropiate filtering for certain lines, writing new lines when the existing were lacking in variety, adding entirely new audio lines, and more.
-
-- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
- Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
-Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
-Replaces the three standard No Lore greetings with over sixty new ones. 
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
-Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
-- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
-Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
-  - Only install the **Simple Smith Dialogue** main file.
 
 ## FINISHING TOUCHES
 
