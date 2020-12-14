@@ -12,6 +12,7 @@
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
   - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#bug-fixes-and-optimization)
+  - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-delay)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
   - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
