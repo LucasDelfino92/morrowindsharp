@@ -205,6 +205,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Marksman Rebalanced
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MWSE Magicka Regen
+- No Disposition Bonus For Bartering
 - No Rest Without Beds
 - Ownership Overhaul
 - Putting Power In Willpower
