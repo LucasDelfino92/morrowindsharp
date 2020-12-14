@@ -171,7 +171,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
 - Hold Your Breath
-- Loading Doors Lock Tune
 - Marksman Rebalanced
 - One-handed Adamantium Axe
 - Retroactive Health Gain
@@ -189,6 +188,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Diseases Restored
 - Early Transport to Mournhold
 - Hunter's Mark - A Marksman Mod
+- Loading Doors Lock Tune
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - MWSE Magicka Regen
