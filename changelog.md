@@ -9,6 +9,20 @@ Maintenance:
 
 - Gameplay: added additional instructions for Putting Power in Willpower.
 
+Additions:
+
+- Core: Services Restored (re-added)
+- Core: Book Pickup (re-added)
+- Core: Book Worm (re-added)
+- Core: Clock Block (re-added)
+- Core: Consistent Keys
+- Core: MWSE Hide The Skooma
+- Core: Quick Equip (re-added)
+- Core: Right Click Menu Exit (re-added)
+- Core: Security Enhanced (re-added)
+- Core: Smart Journal
+- Core: Early Transport to Mournhold (re-added)
+
 ## December 12th
 
 Additions:
@@ -200,7 +214,6 @@ Replaced:
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
 - [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808)
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
-- [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755)
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
@@ -210,18 +223,11 @@ Removed:
 
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
 - [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
 - **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
-- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)
-- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
-- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)
-- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)
-- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
