@@ -112,9 +112,10 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### VISUALS - NEW FEATURES
 
-- Signposts Retextured
+- Improved Thrown Weapon Projectiles
 - Pincushion
 - Remiros' Groundcover
+- Signposts Retextured
 - Yet Another Guard Diversity - Regular
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
@@ -125,24 +126,33 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Transporter Lights
 - Weather Adjuster
 
-### VISUALS - TWEAKS
+### VISUALS - VFX
 
 - Apel's Rain Replacer
 - Better Waterfalls
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
-- Bloodmoon Hide Replacer
-- Complete Armor Joints
-- Improved Nordic Iron Helm Mesh
-- Improved Thrown Weapon Projectiles
 - Mist Retexture
-- Practical Pauldrons - Streamlined Shoulders
 - Realistic Blood
 - Skeleton and Metal Sparks Blood Retexture
 - Subtle Magic Glow
 - Subtle Smoke
 - Visually Filled Soul Gems
 - Vivec Palace Water Replacer
+
+### VISUALS - PERSONAL NITPICKS
+
+- Bloodmoon Hide Replacer
+- Buoyant Lord Vivec
+- Complete Armor Joints
+- Golden Saint Feminine Walk
+- Imperial Steel Cuirass With Belt
+- Improved Nordic Iron Helm Mesh
+- Incarnates Overhauled
+- Nordic Chest Replacer
+- Practical Pauldrons - Streamlined Shoulders
+- Soldier Belts Fix
+- The Dream is the Door
 - Well Diversified
 - Wolf Helmet Replacer
 
@@ -153,7 +163,19 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
 
-### GAMEPLAY - POLISH
+### DIALOGUE
+
+- Idle Talk
+- Its a Deal
+- FMI - Legion Dialogue
+- FMI - Nice to Meet You
+- FMI - NotAllDunmer
+- Greetings for No Lore
+- LDM - Context Matters
+- Outfit Greetings Tweaked
+- Simple Smith Dialogue
+
+### GAMEPLAY - TWEAKS
 
 - Abundant Adamantium Ore
 - Adamantium Weapons Ignore Normal Weapon Resistance
@@ -195,18 +217,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
-### DIALOGUE
-
-- Idle Talk
-- Its a Deal
-- FMI - Legion Dialogue
-- FMI - Nice to Meet You
-- FMI - NotAllDunmer
-- Greetings for No Lore
-- LDM - Context Matters
-- Outfit Greetings Tweaked
-- Simple Smith Dialogue
-
 ## MORROWIND++ LOAD ORDER
 
 This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
@@ -231,10 +241,24 @@ This is a complete list of all plugins present in the guide, installed as if you
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
 - Waterfalls Tweaks.ESP
+- Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
+- Incarnates Overhauled.ESP
+- Nordic Chest Replacer.ESP
+- SoldierBeltsFix.ESP
+- The Dream is the Door.ESP
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
 - Outdoor Banners With Sound.ESP
+- Idle Talk.ESP
+- Its a deal.ESP
+- FMI_Legion_Dialogue.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- Greetings for No Lore.ESP
+- outfit greetings tweaked.ESP
+- LDM - Context Matters.ESP
+- Simple Smith Dialogue.ESP
 - Abundant Adamantium.ESP
 - AdamantiumIgnoresNormWepResist (1.0).ESP
 - Clean Blighted_Kwama_Workers.ESP
@@ -249,15 +273,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lucky Strike.ESP
 - No Disposition Bonus For Bartering.ESP
 - Speed and Movement.ESP
-- Idle Talk.ESP
-- Its a deal.ESP
-- FMI_Legion_Dialogue.ESP
-- FMI_Nice_to_Meet_You.ESP
-- FMI_#NotAllDunmer.ESP
-- Greetings for No Lore.ESP
-- outfit greetings tweaked.ESP
-- LDM - Context Matters.ESP
-- Simple Smith Dialogue.ESP
 - Morrowind Anti-Cheese.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
