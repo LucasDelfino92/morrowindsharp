@@ -13,8 +13,6 @@
 
 Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
 
-- Yet Another Guard Diversity.esp
-  - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
 - Morrowind Anti-Cheese.ESP, Beware the Sixth House.ESP, tribunal rebalance.ESP, Bloodmoon Rebalance.ESP
   - Load them at the very end of your load order to prevent other mods from overwriting their balance changes.
 
@@ -44,13 +42,9 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
 
-### CORE - RESTORED CONTENT
+### CORE - EXPANSION DELAY
 
-- Blighted Blight
-- Creature VFX Restoration
-- Diseases Restored
-- Great Service
-- Services Restored
+- Expansion Delay
 
 ### CORE - HIGH RESOLUTION TEXTURES
 
@@ -102,14 +96,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Torch Hotkey
 - UI Expansion
 
-### CORE - EXPANSION REIMPLEMENTATION AND GENERAL REBALANCE
-
-- Expansion Delay
-- Early Transport to Mournhold
-- Tribunal Rebalance
-- Bloodmoon Rebalance
-- Beware the Sixth House (Sixth House Overhaul)
-
 ### VISUALS - NEW FEATURES
 
 - Improved Thrown Weapon Projectiles
@@ -132,6 +118,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Better Waterfalls
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
+- Creature VFX Restoration
 - Mist Retexture
 - Realistic Blood
 - Skeleton and Metal Sparks Blood Retexture
@@ -165,6 +152,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 ### DIALOGUE
 
+- Great Service
 - Idle Talk
 - Its a Deal
 - FMI - Legion Dialogue
@@ -182,41 +170,51 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Blighted Mine Means Blighted Workers
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
+- Hold Your Breath
 - Loading Doors Lock Tune
+- Marksman Rebalanced
 - One-handed Adamantium Axe
-- Religions Elaborated - No Quest Changes
-- Supply Chests Merged
+- Retroactive Health Gain
+- Services Restored
+- Speed and Movement Rebalanced
 - Temples with Shrines
 - The Publicans
+- Wings of Will - Willpower Based Levitation Speed
 
-### GAMEPLAY - BALANCE AND MECHANICS
+### GAMEPLAY - NEW MECHANICS
 
 - Bed Buddies
+- Blighted Blight
 - Brutal Backstabbing
-- Controlled Consumption
-- Enchant Capacity Rebalance
-- Harder Barter
-- Hold Your Breath
+- Diseases Restored
+- Early Transport to Mournhold
 - Hunter's Mark - A Marksman Mod
-- Limited Leaping
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
-- Magicka Based Skill Progression
-- Marksman Rebalanced
-- Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MWSE Magicka Regen
-- No Disposition Bonus For Bartering
-- No Rest Without Beds
-- Ownership Overhaul
 - Putting Power In Willpower
-- Realistic Movement Speeds
-- Retroactive Health Gain
-- Sneaky Strike
-- Speed and Movement Rebalanced
+- Religions Elaborated - No Quest Changes
+- Supply Chests Merged
 - Visible Alchemy Success Chance
 - Visible Persuasion Chance
 - Wading in Water MW
-- Wings of Will - Willpower Based Levitation Speed
+
+### GAME BALANCE
+
+- Controlled Consumption
+- Enchant Capacity Rebalance
+- Harder Barter
+- Limited Leaping
+- Magicka Based Skill Progression
+- No Disposition Bonus For Bartering
+- No Rest Without Beds
+- Realistic Movement Speeds
+- Sneaky Strike
+- Ownership Overhaul
+- Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- Beware the Sixth House (Sixth House Overhaul)
+- Tribunal Rebalance
+- Bloodmoon Rebalance
 
 ## MORROWIND++ LOAD ORDER
 
@@ -232,14 +230,10 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Yet Another Guard Diversity - Regular.ESP
-- Diseases Restored.ESP
-- Great Service.ESP
-- Services Restored.ESP
-- Better_Typography_Bookarts_Fix.ESP
 - Expansion Delay.ESP
-- Early Transport to Mournhold.ESP
+- Better_Typography_Bookarts_Fix.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
+- Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Waterfalls Tweaks.ESP
 - The Dream is the Door.ESP
@@ -251,6 +245,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
 - Outdoor Banners With Sound.ESP
+- Great Service.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
 - FMI_Legion_Dialogue.ESP
@@ -266,14 +261,17 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Adamantium Axe 1H.ESP
-- Religions Elaborated.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
+- Services Restored.ESP
+- Speed and Movement.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
+- Diseases Restored.ESP
+- Early Transport to Mournhold.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
+- Religions Elaborated.ESP
+- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - No Disposition Bonus For Bartering.ESP
-- Speed and Movement.ESP
 - Morrowind Anti-Cheese.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
