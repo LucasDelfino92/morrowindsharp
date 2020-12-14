@@ -137,6 +137,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Skeleton and Metal Sparks Blood Retexture
 - Subtle Magic Glow
 - Subtle Smoke
+- The Dream is the Door
 - Visually Filled Soul Gems
 - Vivec Palace Water Replacer
 
@@ -152,7 +153,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Nordic Chest Replacer
 - Practical Pauldrons - Streamlined Shoulders
 - Soldier Belts Fix
-- The Dream is the Door
 - Well Diversified
 - Wolf Helmet Replacer
 
@@ -241,12 +241,12 @@ This is a complete list of all plugins present in the guide, installed as if you
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
 - Waterfalls Tweaks.ESP
+- The Dream is the Door.ESP
 - Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
 - Incarnates Overhauled.ESP
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.ESP
-- The Dream is the Door.ESP
 - Well Diversified.ESP
 - hw_GreetDistanceReducer.ESP
 - Outdoor Banners With Sound.ESP
