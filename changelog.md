@@ -13,6 +13,7 @@ Re-structuring:
 
 - Visuals: split Tweaks section into VFX and Personal Nitpicks.
 - Visuals: re-ordered the mods in the New features section. Moved Improved Thrown Weapon Projectiles to this section.
+- Dialogue: moved this section before Gameplay.
 
 Additions:
 
