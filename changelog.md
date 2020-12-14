@@ -9,6 +9,11 @@ Maintenance:
 
 - Gameplay: added additional instructions for Putting Power in Willpower.
 
+Re-structuring:
+
+- Visuals: split Tweaks section into Enhancements and Personal Nitpicks.
+- Visuals: re-ordered the mods in the New features section. Moved Improved Thrown Weapon Projectiles to this section.
+
 Additions:
 
 - Core: Services Restored (re-added)
@@ -22,6 +27,12 @@ Additions:
 - Core: Security Enhanced (re-added)
 - Core: Smart Journal
 - Core: Early Transport to Mournhold (re-added)
+- Visuals: Buoyant Lord Vivec (re-added)
+- Visuals: Golden Saint Feminine Walk (re-added)
+- Visuals: Incarnates Overhauled (re-added)
+- Visuals: Nordic Chest Replacer (re-added)
+- Visuals: Soldier Belts Fix (re-added)
+- Visuals: The Dream is the Door (re-added)
 
 ## December 12th
 
@@ -229,19 +240,13 @@ Removed:
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
 - [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?)
 - [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)
 - [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
-- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
-- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
