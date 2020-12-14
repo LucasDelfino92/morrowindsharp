@@ -15,7 +15,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 
 - Yet Another Guard Diversity.esp
   - Load it just after the **Core - Bug Fixes and Optimization** section to prevent it from overwriting changes made by other mods installed in the guide.
-- Beware the Sixth House.ESP, tribunal rebalance.ESP, Bloodmoon Rebalance.ESP
+- Morrowind Anti-Cheese.ESP, Beware the Sixth House.ESP, tribunal rebalance.ESP, Bloodmoon Rebalance.ESP
   - Load them at the very end of your load order to prevent other mods from overwriting their balance changes.
 
 ## MORROWIND++ MOD LIST
@@ -50,6 +50,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Creature VFX Restoration
 - Diseases Restored
 - Great Service
+- Services Restored
 
 ### CORE - HIGH RESOLUTION TEXTURES
 
@@ -73,6 +74,10 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Alchemical Knowledge
 - Better Buoyancy
 - Better Questlist
+- Book Pickup
+- Book Worm
+- Clock Block
+- Consistent Keys (MWSE Version)
 - Continue
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
@@ -82,10 +87,15 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Hotkeys Extended
 - HUD Weapon Charge
 - Kill Command
+- MWSE Hide the Skooma
 - New Game Confirmation
 - Pluginless and Adjustable Lower First Person Sneak
+- Quick Equip
+- Right Click Menu Exit
+- Security Enhanced
 - Shrine Tooltips
 - Smart Ammo
+- Smart Journal
 - Smart Map
 - MWSEabotlib
 - Switchable Scriptures
@@ -95,6 +105,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 ### CORE - EXPANSION REIMPLEMENTATION AND GENERAL REBALANCE
 
 - Expansion Delay
+- Early Transport to Mournhold
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 - Beware the Sixth House (Sixth House Overhaul)
@@ -213,8 +224,10 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - Diseases Restored.ESP
 - Great Service.ESP
+- Services Restored.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
 - PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
 - GITD_WL_RR_Interiors.ESP
 - Waterfalls Tweaks.ESP
@@ -234,7 +247,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - The Publicans.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
-- Morrowind Anti-Cheese.ESP
 - No Disposition Bonus For Bartering.ESP
 - Speed and Movement.ESP
 - Idle Talk.ESP
@@ -246,6 +258,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
+- Morrowind Anti-Cheese.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
