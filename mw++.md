@@ -122,6 +122,12 @@ Restores visual effects on creatures.
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue. 
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - NPC **hecerinde**
+  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
+  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
 
 ### HIGH RESOLUTION TEXTURES
 
@@ -176,6 +182,15 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
+Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
+- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+Let's you keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
+- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+Adds a clock to UI that displays either game world time or real time (depending on settings).
+- [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
+Renames keys so they'll have a consistent naming scheme.
+  - Only install the **Consistent Keys - MWSE Version** main file.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
@@ -199,15 +214,25 @@ Adds a fillbar that shows the currently equipped weapon's charge under the weapo
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly. Made with MWSE-Lua. 
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
+- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
+Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
+- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+Exit any menu by right clicking (or whatever your menu key is mapped to).
+- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
   - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
+- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
+Adds several new options for the journal and quest pages.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
 Automatically switches between the local and world map depending on user configuration.
   - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
@@ -227,6 +252,8 @@ Mods that modify the implementation of the Tribunal and Bloodmoon expansions, as
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
@@ -563,8 +590,16 @@ Regardless of the extent you've followed this guide through, I recommend making 
 
 The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
+**abot's Smart Journal**
+- Set **Add a prefix in order to group quest names?** to **0**. This will remove the lag when opening the quest page without this option set to 0.
+- (Optional) Set every option below **Sort quests list by quest name?** to **No**. These options are mostly useful to troubleshoot mods. 
+
+**Clock Block**
+- (Optional) Set **Clock type** to **Game time**.
+- (Optional) Set **Clock position** to **Bottom**. Personally I find it more aesthetic this way.
+
 **Continue**
-- Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
+- (Optional) Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
@@ -575,13 +610,19 @@ The following mods require additional configuration through the in-game **Mod Co
 **Putting Power in Willpower**
 - Set **Allow negative Resist Bonus** to **On**.
 
+**Security Enhanced**
+- Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
+- (Optional) Set **Enable Lockpick Auto-Equip On Locked Object Activation** to **Off**.
+- (Optional) Set **Enable Probe Auto-Equip On Trapped Object Activation** to **Off**.
+
 **Visible Persuasion Chance**
-- Set **Immersive Mode** to **On**.
+- (Optional) Set **Immersive Mode** to **On**.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
-- **Kill Command**: button **K** to order attacks.
-- **Scriptable Scriptures**: button **B** to switch between open and closed scriptures.
+- **Kill Command**: **K** key to order attacks.
+- **Security Enhanced**: **O** key to equip lockpicks, **P** key to equip probes.
+- **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
 
 Congratulations, your modded Morrowind installation is ready!
 
