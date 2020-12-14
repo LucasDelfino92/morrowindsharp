@@ -372,6 +372,8 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
+Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
 Modifies the Nordic Iron Helm to look less stupid.
   - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
