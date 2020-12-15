@@ -242,6 +242,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - The Dream is the Door.ESP
 - Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
+- Mournhold LOD.ESP
 - Incarnates Overhauled.ESP
 - Nordic Chest Replacer.ESP
 - SoldierBeltsFix.ESP
