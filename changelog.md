@@ -19,7 +19,14 @@ Re-structuring:
   - Gameplay - Tweaks: moved Services Restored to this section.
   - Gameplay - New mechanics: moved Blighted Blight to this section.
   - Gameplay - New mechanics: moved Diseases Restored to this section.
+- Visuals - Personal Nitpicks: renamed to Visuals - Miscellaneous.
 - Gameplay: redistributed the mods in this category among two sub-sections, Tweaks and New Mechanics, and also alongside Game balance. The changes are far too many to list.
+
+Additions:
+
+- Core - Quality of life improvements: Graphic Herbalism Lighting
+- Visuals - New features: Light Decay
+- Visuals - Miscellaneous: Distant Mournhold
 
 ## December 13th
 
