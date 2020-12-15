@@ -78,6 +78,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Easy Escort
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
+- Graphic Herbalism Lighting
 - Hotkeys Extended
 - HUD Weapon Charge
 - Kill Command
@@ -109,6 +110,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Let There Be Darkness - Lua Lighting Overhaul
+- Light Decay
 - Transporter Lights
 - Weather Adjuster
 
@@ -128,11 +130,12 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Visually Filled Soul Gems
 - Vivec Palace Water Replacer
 
-### VISUALS - PERSONAL NITPICKS
+### VISUALS - MISCELLANEOUS
 
 - Bloodmoon Hide Replacer
 - Buoyant Lord Vivec
 - Complete Armor Joints
+- Distant Mournhold
 - Golden Saint Feminine Walk
 - Imperial Steel Cuirass With Belt
 - Improved Nordic Iron Helm Mesh
