@@ -3,6 +3,19 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 15th
+
+- Visuals: added MWSE Blood Diversity. Replaces Realistic Blood and Skeleton and Metal Sparks Blood Retexture.
+- Visuals: added Bitter Coast Sounds (UMOPP Version).
+- Visuals: moved Improved Thrown Weapon Projectiles to VFX.
+- Visuals: re-added Flies.
+- Visuals: re-added Mistify.
+- Visuals: re-added Perfectly Proficient Parasol Particles Performance Patch.
+- Visuals: re-added Shattered Stones - An Earthquake Mod.
+- Visuals: re-added Unto Dust.
+- Gameplay: removed Adamantium Weapons Ignore Normal Weapon Resistance.
+- Gameplay: added MWSE State-Based Health. Replaces Retroactive Health Gain.
+
 ## December 14th
 
 Re-structuring:
@@ -251,8 +264,11 @@ Replaced:
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
 - [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808)
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
+- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419)
+- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359)
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
+- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 
@@ -266,11 +282,6 @@ Removed:
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
-- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
-- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
-- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?)
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
-- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
@@ -278,6 +289,7 @@ Removed:
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
+- [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
