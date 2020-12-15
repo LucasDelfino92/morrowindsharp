@@ -485,7 +485,7 @@ Displays the percentage chance you have in successfully persuading someone. Come
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
 
-## BALANCE MODULE
+## GAME BALANCE MODULE
 
 - [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by VitruvianGuar  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point. 
