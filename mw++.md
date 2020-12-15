@@ -185,6 +185,8 @@ Automatically harvests herbs, instead of opening the container interface. Picked
   - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file.
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
+Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
@@ -271,6 +273,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
@@ -321,7 +325,7 @@ Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Original Color** and click **OK**.
 
-### PERSONAL NITPICKS
+### MISCELLANEOUS
 
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
@@ -331,6 +335,8 @@ Adds a simple script to make Vivec properly loop his idle animation.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255) by EnvyDeveloper  
+Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
 - [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
