@@ -226,6 +226,10 @@ Lets you open or close any book or scroll in the game.
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
+- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
+- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
 
 ## VISUALS MODULE
 
@@ -492,10 +496,6 @@ Adds supply chests to factions that previously lacked any. This mod is a merge o
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
-- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
-Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
-- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
-Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.
 
