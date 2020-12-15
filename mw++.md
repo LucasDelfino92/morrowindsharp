@@ -231,10 +231,6 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 ### NEW FEATURES
 
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
-Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?) by Hrnchamd  
 Makes thrown projectiles visible on the player, enemies and statics.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
@@ -297,20 +293,37 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Animated Replacer - Original Color** and click **OK**.
+- [**Bitter Coast Sounds - UMOPP Version**](https://www.mediafire.com/file/tvs1uizswgyoy76/Bitter+Coast+Sounds+(UMOPP+v3.1.0+Version).zip/file) by PikachunoTM  
+Adds ambient noise and dragonflies all over the Bitter Coast region.
+  - MO2 will install this mod as a BAIN package. Only tick **Core** if you installed **Intelligent Textures** earlier, else tick both and click **OK**.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
+- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
+Adds a visual effect to all vanilla flies sound emitters.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
-- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419) by Leatherpoker  
-Makes blood more liquid and less smoke-like.
-  - This mod is incorrectly packaged. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **textures**. Click **OK**. 
-    - Drag **tx_blood.dds** into the **Textures** folder. Click **OK**.
-- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359) by R-Zero  
-Retextures the Skeleton (white) and Metal Sparks (gold) textures.
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vanilla Mist Replacer** and click **OK**.
+- [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril21  
+Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 R-Zero's Textures** and click **OK**.
+  - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
+- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Melchior Dahrk and Verious  
+Adds falling spores particle effects to the iconic emperor parasol mushrooms. Uses Project Atlas' performance friendly atlased textures.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek  
+Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. 
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - This mod requires additional MGE XE configuration. Follow the instructions on the mod's page.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
@@ -318,6 +331,9 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
+- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
+Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Default Dust** and click **OK**.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
@@ -402,8 +418,6 @@ Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
 
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
 Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
-- [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774) by AresGAWDofWar  
-Adamantium weapons, much stronger than silver, will now ignore Normal Weapon resistance.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
 If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
@@ -416,10 +430,10 @@ Endurance determines how long you can hold your breath under water. Uses MWSE.
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133) by Necrolesian  
+Health is now calculated based on current strength, endurance and level. 
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
 Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
-- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
-Increases health upon level up as though endurance was at its current value for past levels.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
