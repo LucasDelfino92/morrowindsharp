@@ -5,6 +5,8 @@
 
 ## December 15th
 
+- Core: moved Visible Alchemy Success Chance to Quality of life improvements.
+- Core: moved Visible Persuasion Chance to Quality of life improvements.
 - Visuals: added MWSE Blood Diversity. Replaces Realistic Blood and Skeleton and Metal Sparks Blood Retexture.
 - Visuals: added Bitter Coast Sounds (UMOPP Version).
 - Visuals: moved Improved Thrown Weapon Projectiles to VFX.
