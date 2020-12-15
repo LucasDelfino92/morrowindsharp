@@ -52,6 +52,18 @@ My recommendation is that you follow the **Setup** and **Morrowind++** guides on
 
 This guide recommends the use of **Mod Organizer 2** for installing mods. The **Setup** guide will explain in detail why, and how to make the best of this mod manager.
 
+### Why isn't (particular mod) included in the guide?
+
+There can be many reasons for this, but I'll start with the most important: Morrowind++ consists of mods I personally play with. Because of this, I feel comfortable recommending them (i.e. listing them here). No matter how good a mod may be, if I personally don't use it, it won't be featured in Morrowind++.
+
+As to what makes me not use a mod:
+
+- The mod adds original content to the game, without the intention of improving on an aspect that is genuinely lacking.
+- The mod stands out too much from the vanilla game. Even mods that utilize vanilla assets can stand out from the vanilla game (for instance, by adding lots of clutter in a game notorious for its sparse use of clutter).
+- The mod conflicts with many mods present in the guide.
+- The mod is very performance intensive.
+- The mod, I feel, isn't worth the time that goes into installing it. When your modding guide consists of 100+ mods, trying to keep it short is key.
+
 ### Is this guide compatible with OpenMW?
 
 No. Many mods in this guide rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW. That said, many individual mods will be compatible. But I can't point these out for you.
