@@ -469,7 +469,6 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
   - MO2 will tell you there's no game data on top level.
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-    - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**. This will remove the new feature allowing Atronachs to absorb elemental attacks that correspond to their element.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
@@ -533,6 +532,9 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable **Ownership Overhaul.ESP**
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of PfP and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
+- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?) by autumn  
+230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
+  - Hide/disable **MDMD - Bosses Only.ESP**
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
