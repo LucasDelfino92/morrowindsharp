@@ -553,6 +553,10 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide/disable **MDMD - Bosses Only.ESP**
   - Also install [**MDMD + Adamantium Armor Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788796049778278430/MDMD__Adamantium_Armor_Integrated_Patch.zip) if you installed Adamantium Armor Integrated earlier.
+- [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
+Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
+  - Hide/disable **There Can Be Only One.ESP** and **There Can Be Only One (Alt Fyr).ESP**.
+  - Also install [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788905669973114911/There_Can_Be_Only_One__MDMD_Patch.zip) if you installed MDMD - More Deadly Morrowind Denizens earlier.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
@@ -576,9 +580,10 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 ### MANUAL CONFLICT RESOLUTION
 
-- Delete the following records from **Yet Another Guard Diversity - Regular.esp** for compatibility with **Morrowind Anti-Cheese.esp**:
-    - Cell **Balmora, Eastern Guard Tower**
-    - This ensures there aren't new instances of guards in the Eastern Guard Tower.
+- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
+  - Cell **Balmora, Eastern Guard Tower** 
+  - Save the plugin as **Yet Another Guard Diversity - Regular.ESP**, overwriting the original when asked.
+  - This ensures there aren't new instances of guards in the Eastern Guard Tower.
 
 ### ADJUSTING YOUR LOAD ORDER
 
@@ -589,9 +594,16 @@ Before running the automated conflict resolution tools, we need to confirm your 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
-- **Merged Objects.esp** will now be present at the end of your load order.
+- **Merged Objects.ESP** will now be present at the end of your load order.
 
-TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same.
+There's an additional step to take if you've installed MDMD - More Deadly Morrowind Denizens.
+
+- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following record from **Merged Objects.ESP**:
+  - NPC **sjoring hard-heart** 
+  - Save the plugin as **Merged Objects.ESP**, overwriting the original when asked.
+  - This omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
+
+Though it is not necessary for Morrowind++, TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. Thus the following step is completely optional:
 
 - Run TESTool in MO2.
 - A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
