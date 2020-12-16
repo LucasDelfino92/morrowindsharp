@@ -107,29 +107,15 @@ Removals:
 
 ## December 6th
 
-- Visuals: removed Simple Golden Gold. Really small mod, hardly makes a difference.
-- Visuals: moved the following mods to the Other Visual Tweaks sub-section. This section now contains visual tweaks that deal with the vanilla assets, instead of adding entirely new visual effects.
-  - Apel's Rain Replacer
-  - Better Waterfalls
-  - Waterfalls Tweaks
-  - Bitter Coast Scum Replacer
-  - Improved Thrown Weapon Projectiles
-  - Mist Retexture
-  - Realistic Blood
-  - Skeleton and Metal Sparks Blood Retexture
-  - Subtle Magic Glow
-  - Subtle Smoke
-  - Vivec Palace Water Replacer
-- Gameplay: merged New mechanics and Balance into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
-- Gameplay: moved Ownership Overhaul to the Balance and Mechanics section. It's a general anti-cheese over a mod that fixes an oversight.
+- Visuals: removed Simple Golden Gold.
 - Gameplay: added Hold Your Breath.
 - Gameplay: added Lua Lock Bashing.
 - Gameplay: added Visible Alchemy Success Chance.
 - Gameplay: added Visible Persuasion Chance.
 - Gameplay: added Wading in Water MW.
-- Gameplay: removed Better Balanced Booze. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
-- Gameplay: removed Higher Faction Requirements. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
-- Overhauls: removed this section since it only contained one mod. Moved Yet Another Guard Diversity to Visuals.
+- Gameplay: removed Better Balanced Booze.
+- Gameplay: removed Higher Faction Requirements.
+- Overhauls: removed this section, and moved Yet Another Guard Diversity to Visuals.
 
 ## December 5th
 
@@ -157,8 +143,6 @@ The following mods have been removed for consistency with the other mods in thei
 - Gameplay: removed Poison Crafting.
 - Gameplay: removed Realistic Repair and Realistic Repair Add-On.
 - Overhauls: removed Shrine of Azura.
-
-
 
 ## December 4th
 
