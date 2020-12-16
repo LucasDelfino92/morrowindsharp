@@ -239,7 +239,7 @@ Reduces light seams.
   
 The following shaders should be installed through Mod Organizer 2 to keep our Data Files folder clean. They are installed like any other mod.
 
-- [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip)
+- [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip) by Hrnchamd  
 - [**MGE XE Shader - Deband_Fogaware v2**](https://cdn.discordapp.com/attachments/381217735306248192/788784078505639956/MGE_XE_Shader_-_Deband_Fogaware_v2_August_24th_2020.zip) by Hrnchamd and vtastek  
 Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
 - [**MGE XE Shader - EdgeAA**](https://cdn.discordapp.com/attachments/381217735306248192/788784082200428574/MGE_XE_Shader_-_EdgeAA_August_8th_2019.zip) ported by vtastek  
