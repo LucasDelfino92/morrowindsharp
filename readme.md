@@ -78,7 +78,7 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 ## MY SETUP
 
-When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in Vivec City and the Grazelands) to 30fps (indoors). For reference, here is a my setup.
+When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
 
 - OS: Windows 8.1 Pro 64-bit
 - CPU: Intel Core i5 4440
