@@ -18,6 +18,9 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
+- MDMD + Adamantium Armor Integrated Patch.ESP
+- There Can Be Only One (Alt Fyr 2).ESP
+- There Can Be Only One + MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -238,6 +241,8 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
 - MDMD + Adamantium Armor Integrated Patch
+- There Can Be Only One
+- There Can Be Only One + MDMD Patch
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -311,6 +316,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD + Adamantium Armor Integrated Patch.ESP
+- There Can Be Only One (Alt Fyr 2).ESP
+- There Can Be Only One + MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
