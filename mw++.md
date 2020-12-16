@@ -437,8 +437,6 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
  Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
   - MO2 will install this mod as a BAIN package. Tick **MWSE Version** and click **OK**.
-- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106) by Sephumbra  
-Failing at taunting will now reduce an npcs will to fight instead of doing nothing. Prevents low skilled players from successfully provoking an enemy into a fight.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
@@ -520,6 +518,8 @@ Restores diseases by assigning them to existing creatures and fixes some other (
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106) by Sephumbra  
+Failing at taunting will now reduce an npcs will to fight instead of doing nothing. Prevents low skilled players from successfully provoking an enemy into a fight.
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
