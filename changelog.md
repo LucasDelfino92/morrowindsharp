@@ -3,6 +3,14 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 16th
+
+- Setup: updated MGE XE section with new shaders instructions.
+- Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
+- Visuals: added Enlightened Flames.
+- Visuals: added Heat Haze.
+- Difficulty: added Service Requirements.
+
 ## December 15th
 
 - Core: moved Visible Alchemy Success Chance to Quality of life improvements.
