@@ -187,6 +187,8 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### GAMEPLAY
 
 - Abundant Adamantium Ore
+- Adamantium Armor Integrated
+- Area Effect Arrows Integrated
 - Bed Buddies
 - Blighted Mine Means Blighted Workers
 - Borrowed Time
@@ -197,6 +199,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Enchant Capacity Rebalance
 - Hold Your Breath
 - Hunter's Mark - A Marksman Mod
+- Hunter's Mark + Area Effect Arrows Integrated Patch
 - Limited Leaping
 - Loading Doors Lock Tune
 - Lua Lockbashing
@@ -234,6 +237,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
+- MDMD + Adamantium Armor Integrated Patch
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -283,11 +287,14 @@ This is a complete list of all plugins present in the guide, installed as if you
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
 - Abundant Adamantium.ESP
+- Adamantium Armor Integrated.ESP
+- Area Effect Arrows Integrated.ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Early Transport to Mournhold.ESP
 - Hunter's Mark - A Marksman Mod.ESP
+- Hunter's Mark + Area Effect Arrows Integrated Patch.ESP
 - Lucky Strike.ESP
 - Adamantium Axe 1H.ESP
 - Putting Power in Willpower - Absorbonach.ESP
@@ -303,6 +310,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
+- MDMD + Adamantium Armor Integrated Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
