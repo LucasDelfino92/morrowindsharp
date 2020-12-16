@@ -96,10 +96,11 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Switchable Scriptures
 - Torch Hotkey
 - UI Expansion
+- Visible Alchemy Success Chance
+- Visible Persuasion Chance
 
 ### VISUALS - NEW FEATURES
 
-- Improved Thrown Weapon Projectiles
 - Pincushion
 - Remiros' Groundcover
 - Signposts Retextured
@@ -120,13 +121,19 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Better Waterfalls
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
+- Bitter Coast Sounds - UMOPP Version 
 - Creature VFX Restoration
+- Flies
+- Improved Thrown Weapon Projectiles
 - Mist Retexture
-- Realistic Blood
-- Skeleton and Metal Sparks Blood Retexture
+- Mistify
+- MWSE Blood Diversity
+- Perfectly Proficient Parasol Particles Performance Patch
+- Shattered Stones - An Earthquake Mod
 - Subtle Magic Glow
 - Subtle Smoke
 - The Dream is the Door
+- Unto Dust
 - Visually Filled Soul Gems
 - Vivec Palace Water Replacer
 
@@ -166,53 +173,52 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Outfit Greetings Tweaked
 - Simple Smith Dialogue
 
-### GAMEPLAY - TWEAKS
+### GAMEPLAY
 
 - Abundant Adamantium Ore
-- Adamantium Weapons Ignore Normal Weapon Resistance
+- Bed Buddies
 - Blighted Mine Means Blighted Workers
+- Borrowed Time
+- Brutal Backstabbing
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
-- Hold Your Breath
-- Marksman Rebalanced
-- One-handed Adamantium Axe
-- Retroactive Health Gain
-- Services Restored
-- Speed and Movement Rebalanced
-- Temples with Shrines
-- The Publicans
-- Wings of Will - Willpower Based Levitation Speed
-
-### GAMEPLAY - NEW MECHANICS
-
-- Bed Buddies
-- Blighted Blight
-- Brutal Backstabbing
-- Diseases Restored
 - Early Transport to Mournhold
+- Enchant Capacity Rebalance
+- Hold Your Breath
 - Hunter's Mark - A Marksman Mod
+- Limited Leaping
 - Loading Doors Lock Tune
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
+- Magicka Based Skill Progression
+- Marksman Rebalanced
 - MWSE Magicka Regen
+- MWSE State-Based Health
+- One-handed Adamantium Axe
 - Putting Power In Willpower
 - Religions Elaborated - No Quest Changes
 - Supply Chests Merged
-- Visible Alchemy Success Chance
-- Visible Persuasion Chance
-- Wading in Water MW
-
-### GAME BALANCE
-
-- Controlled Consumption
-- Enchant Capacity Rebalance
-- Harder Barter
-- Limited Leaping
-- Magicka Based Skill Progression
-- No Disposition Bonus For Bartering
-- No Rest Without Beds
-- Realistic Movement Speeds
+- Services Restored
 - Sneaky Strike
+- Speed and Movement Rebalanced
+- Temples with Shrines
+- The Publicans
+- Wading in Water MW
+- Wings of Will - Willpower Based Levitation Speed
+
+### DIFFICULTY
+
+- Blight is Coming
+- Blighted Blight
+- Creeping Blight
+- Controlled Consumption
+- Diseases Restored
+- Harder Barter
+- Harder Taunting
+- No Disease Labels
+- No Rest Without Beds
+- Reactive Resistance
+- Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - Beware the Sixth House (Sixth House Overhaul)
@@ -239,6 +245,10 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Waterfalls Tweaks.ESP
+- bcsounds.ESP
+- Flies.ESP
+- mistify.ESP
+- Shattered Stones - An Earthquake Mod.ESP
 - The Dream is the Door.ESP
 - Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
@@ -260,22 +270,21 @@ This is a complete list of all plugins present in the guide, installed as if you
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
 - Abundant Adamantium.ESP
-- AdamantiumIgnoresNormWepResist (1.0).ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
+- Early Transport to Mournhold.ESP
+- Hunter's Mark - A Marksman Mod.ESP
+- Lucky Strike.ESP
 - Adamantium Axe 1H.ESP
+- Religions Elaborated.ESP
+- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Services Restored.ESP
 - Speed and Movement.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
+- Blight is Coming.ESP
 - Diseases Restored.ESP
-- Early Transport to Mournhold.ESP
-- Hunter's Mark - A Marksman Mod.ESP
-- Lucky Strike.ESP
-- Religions Elaborated.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
-- No Disposition Bonus For Bartering.ESP
 - Morrowind Anti-Cheese.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
