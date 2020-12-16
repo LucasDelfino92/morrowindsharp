@@ -231,12 +231,23 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and call it **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
 
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend.
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (these are present in the home page) then you should be able to play just fine.
 
-- [**MGE XE Shader - deband_fogaware**](https://www.mediafire.com/file/i76vzpyz66f5gzj/MGE_XE_Shader_-_deband_fogaware.zip/file) by Hrnchamd and vtastek: shader that improves on the look of the game's fog.
-- [**MGE XE Shader - EdgeAA**](https://www.mediafire.com/file/qnxovx5vc5m0wcs/MGE_XE_Shader_-_EdgeAA.zip/file) ported by vtastek: Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use both at the same time for best results.
+- [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
+Reduces light seams.
+  - You only need to install the **d3d8.dll** to your Morrowind root folder.
+  
+The following shaders should be installed through Mod Organizer 2 to keep our Data Files folder clean. They are installed like any other mod.
 
-These shaders need to be installed through Mod Organizer 2, and are installed like any normal mod. Once you have installed the shaders, we can finally configure MGE XE by launching Mod Organizer 2.
+- [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip)
+- [**MGE XE Shader - Deband_Fogaware v2**](https://cdn.discordapp.com/attachments/381217735306248192/788784078505639956/MGE_XE_Shader_-_Deband_Fogaware_v2_August_24th_2020.zip) by Hrnchamd and vtastek  
+Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+- [**MGE XE Shader - EdgeAA**](https://cdn.discordapp.com/attachments/381217735306248192/788784082200428574/MGE_XE_Shader_-_EdgeAA_August_8th_2019.zip) ported by vtastek  
+Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
+- [**MGE XE Shader - specialprocess**](https://cdn.discordapp.com/attachments/381217735306248192/788784079487107102/MGE_XE_Shader_-_Specialprocess_August_11th_2020.zip) by vtastek  
+Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
+
+These shaders need to be installed through Mod Organizer 2,  Once you have installed the shaders, we can finally configure MGE XE by launching Mod Organizer 2.
 
 - From the dropdown menu to the left of the **Run** button, select **MGE XE**. Run the application.
 
@@ -252,14 +263,13 @@ are the SSAO and Bloom shaders, which sadly are also some of the most visually i
 
 The shader combination that works the best for me, and which I personally recommend, is the following:
 
-- EdgeAA
 - SSAO HQ
-- Bloom Fine
 - Underwater Effects
 - Underwater Interior Effects
 - Sunshafts
-- Eye Adaptation (HDR)
-- deband_fogaware
+- EdgeAA
+- specialprocess
+- deband_fogawarev2
 
 ### DISTANT LAND TAB
 
