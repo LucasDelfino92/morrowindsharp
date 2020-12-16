@@ -230,6 +230,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - No Rest Without Beds
 - Reactive Resistance
 - Realistic Movement Speeds
+- Service Requirements Lore
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
@@ -298,6 +299,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - The Publicans.ESP
 - Blight is Coming.ESP
 - Diseases Restored.ESP
+- Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
