@@ -15,8 +15,11 @@
 - Visuals: re-added Perfectly Proficient Parasol Particles Performance Patch.
 - Visuals: re-added Shattered Stones - An Earthquake Mod.
 - Visuals: re-added Unto Dust.
+- Gameplay: merged all sections into one.
 - Gameplay: removed Adamantium Weapons Ignore Normal Weapon Resistance.
 - Gameplay: added MWSE State-Based Health. Replaces Retroactive Health Gain.
+- Difficulty: renamed from Game balance. Moved most mods into Gameplay.
+- Difficulty: removed No Disposition Bonus for Bartering.
 
 ## December 14th
 
@@ -296,6 +299,7 @@ Removed:
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
+- [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
