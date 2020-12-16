@@ -32,8 +32,10 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### MGE XE
 
 - MGE XE Data Files
-- MGE XE Shader - deband_fogaware
+- MGE XE Shader - 16 Lights Shaders Alpha
+- MGE XE Shader - Deband Fogaware v2
 - MGE XE Shader - EdgeAA
+- MGE XE Shader - Specialprocess
 
 ### CORE - BUG FIXES AND OPTIMIZATION
 
@@ -109,6 +111,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Pincushion
 - Remiros' Groundcover
+- Remiros' Groundcover Shaders - Landbias Fix
 - Signposts Retextured
 - Yet Another Guard Diversity - Regular
 - Weapon Sheathing
