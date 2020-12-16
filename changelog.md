@@ -14,6 +14,8 @@
 - Gameplay: added Area Effect Arrows Integrated and a patch for Hunter's Marksman.
 - Difficulty: added Service Requirements Lore.
 - Difficulty: added a patch for MDMD - More Deadly Morrowind Denizens and Adamantium Armor Integrated.
+- Difficulty: added There Can Be Only One.
+- Difficulty: added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
 
 ## December 15th
 
