@@ -11,10 +11,16 @@
 
 ## MORROWIND++ CONFLICTS
 
-Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible. The obvious ones have been already addressed in the guide itself (patches needed to load after the mods they are patching), and this section is only present to explain why some need a special load order.
+Beyond mods that don't carry over bug fixes from the **Core** section, there are a number of plugins present in **Morrowind++** that are meant to be loaded in a given order to ensure they are working with the least amount of conflicts possible.
 
-- Morrowind Anti-Cheese.ESP, Beware the Sixth House.ESP, tribunal rebalance.ESP, Bloodmoon Rebalance.ESP
-  - Load them at the very end of your load order to prevent other mods from overwriting their balance changes.
+Load the following sequence of plugins at the very end of your load order to prevent other mods from overwriting their changes:
+
+- Morrowind Anti-Cheese.ESP
+- MDMD - More Deadly Morrowind Denizens.ESP
+- MDMD - Creatures Add-On.ESP
+- Beware the Sixth House.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.ESP
 
 ## MORROWIND++ MOD LIST
 
@@ -221,6 +227,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 - Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- MDMD - More Deadly Morrowind Denizens
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -277,6 +284,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Hunter's Mark - A Marksman Mod.ESP
 - Lucky Strike.ESP
 - Adamantium Axe 1H.ESP
+- Putting Power in Willpower - Absorbonach.ESP
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Services Restored.ESP
@@ -286,6 +294,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Blight is Coming.ESP
 - Diseases Restored.ESP
 - Morrowind Anti-Cheese.ESP
+- MDMD - More Deadly Morrowind Denizens.ESP
+- MDMD - Creatures Add-On.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
