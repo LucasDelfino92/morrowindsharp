@@ -181,7 +181,7 @@ What are the major changes since the last version, you ask? These:
 - The former **Mending Morrowind** guide has been greatly expanded and renamed to **Core**. Here you will find bug fixes, high resolution vanilla textures, quality of life improvements, restored content, and expansion reimplementation. This was inspired by Qolore7's [**Viva New Vegas**](https://vivanewvegas.github.io/index.html) guide.
 - Broadly speaking, mods have been moved around to simplify the structure of the guide, and sub-categories have been added to some sections which I found fitting.
 
-## Removed mods
+## Mods no longer in Morrowind++
 
 Replaced:
 
