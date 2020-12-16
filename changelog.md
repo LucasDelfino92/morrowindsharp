@@ -19,7 +19,7 @@
 - Gameplay: removed Adamantium Weapons Ignore Normal Weapon Resistance.
 - Gameplay: removed instructions to disable the Putting Power in Willpower plugin.
 - Gameplay: added MWSE State-Based Health. Replaces Retroactive Health Gain.
-- Difficulty: renamed from Game balance. Moved most mods into Gameplay.
+- Difficulty: renamed from Game balance. Moved mods that don't make the game harder into Gameplay.
 - Difficulty: removed No Disposition Bonus for Bartering.
 - Difficulty: re-added Blight is Coming.
 - Difficulty: added Creeping Blight.
