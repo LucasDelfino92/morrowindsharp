@@ -194,7 +194,6 @@ Replaced:
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
-- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 
 Removed:
 
@@ -215,6 +214,7 @@ Removed:
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
+- [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
 - [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
