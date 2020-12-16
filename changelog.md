@@ -22,6 +22,8 @@
 - Difficulty: removed No Disposition Bonus for Bartering.
 - Difficulty: re-added Blight is Coming.
 - Difficulty: added Creeping Blight.
+- Difficulty: added No Disease Labels.
+- Difficulty: added Reactive Resistance.
 
 ## December 14th
 
