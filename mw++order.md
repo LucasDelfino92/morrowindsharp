@@ -132,7 +132,9 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Bitter Coast Scum Replacer
 - Bitter Coast Sounds - UMOPP Version 
 - Creature VFX Restoration
+- Enlightened Flames
 - Flies
+- Heat Haze
 - Improved Thrown Weapon Projectiles
 - Mist Retexture
 - Mistify
