@@ -292,6 +292,8 @@ The first thing you will notice about this tab is that all options minus **Use D
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy [**my personal settings**](https://cdn.discordapp.com/attachments/705627823104327680/788785684210647060/MGE_XE_Settings_-_December_16th_2020.png). In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
+You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
+
 > NOTE: if for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. While not every mod modifies statics to the point of needing to regenerate them, it doesn't hurt to do so. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window.
