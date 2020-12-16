@@ -622,8 +622,6 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
-- In the **Light Settings** tab, set **Apply flicker removal to fire too?** to **On**.
-  - If you enjoy the fire flickering, then set **Light radius scaling** to **120%** instead.
 - In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
 
 **Putting Power in Willpower**
