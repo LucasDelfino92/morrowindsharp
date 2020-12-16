@@ -10,8 +10,9 @@
 - Visuals: added Enlightened Flames.
 - Visuals: added Heat Haze.
 - Gameplay: added Adamantium Armor Integrated.
-- Gameplay: added Area Effect Arrows Integrated.
+- Gameplay: added Area Effect Arrows Integrated and a patch for Hunter's Marksman.
 - Difficulty: added Service Requirements Lore.
+- Difficulty: added a patch for MDMD - More Deadly Morrowind Denizens and Adamantium Armor Integrated.
 
 ## December 15th
 
