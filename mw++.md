@@ -639,6 +639,7 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
+- In this same tab, I recommend setting all three **Ambient color adjustments** to *at least* 65. Otherwise, the combination of shaders and this mod will make certain interiors look very dark.
 - In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
 
 **Putting Power in Willpower**
