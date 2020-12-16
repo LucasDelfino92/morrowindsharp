@@ -262,12 +262,15 @@ Greatly improves performance and fixes some mesh errors.
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
-  - MO2 will install this mod as a BAIN package. Only tick the following options and click **OK**:
-    - **00 Core**
-    - **01 Hi Res Window Texture Replacer**
-    - **02 Interior Sunrays**
-    - **03 Nord Glass Windows Interior Sunrays**
-    - **05 Raven Rock Glass Windows Interior Sunrays**
+  - MO2 will install this mod as a fomod package. Follow the instructions below:
+    - Tick **Yes** to Interior Sunrays.
+    - Tick **Yes** to Nord Glass Windows.
+    - Tick **Yes** to Raven Rock Glass Windows.
+    - Skip Tamriel_Data.
+    - Skip Dark Molag Mar.
+    - Tick Hi-Res Window Texture Replacer.
+    - Click **Install** to finish.
+    - Hide/disable **GITD_Telvanni_Dormers.ESP** (personal preference, as I feel these look too tacky).
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays** and click **OK**.
