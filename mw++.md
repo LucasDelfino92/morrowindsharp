@@ -303,10 +303,16 @@ Adds ambient noise and dragonflies all over the Bitter Coast region.
   - MO2 will install this mod as a BAIN package. Only tick **Core** if you installed **Intelligent Textures** earlier, else tick both and click **OK**.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
+- [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/) by R-Zero and Greatness7  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+  - MO2 will install this mod as a BAIN package. Tick **00 Core - Vertical System** and **01 Enlightened Flames** and click **OK**.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
+Adds a heat haze shader controller by MGE XE and MWSE-lua.
+  - This mod requires you to register its new shader in MGE XE. Follow the instructions on the mod's page.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
@@ -328,7 +334,7 @@ Adds falling spores particle effects to the iconic emperor parasol mushrooms. Us
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. 
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - This mod requires additional MGE XE configuration. Follow the instructions on the mod's page.
+  - This mod requires you to register its new shader in MGE XE. Follow the instructions on the mod's page.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
@@ -528,6 +534,9 @@ Prevents the player from resting unless they activate a bed.
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
+Adds faction rank requirements to obtain faction services.
+  - MO2 will install this mod as a BAIN package.Only tick **Service Requirements Lore** and click **Ok**.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
