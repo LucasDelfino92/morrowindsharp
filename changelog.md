@@ -29,142 +29,85 @@
 
 ## December 14th
 
-Re-structuring:
-
 - Game balance: new section.
-- Core - Expansion Rebalance and Reimplementation: renamed to Expansion Delay, and distributed all other mods along existing (and new) categories:
-  - Gameplay - New mechanics: moved Early Travel to Mournhold to this section.
-  - Game balance: moved Beware the Sixth House to this section.
-  - Game balance: moved Tribunal Rebalance to this section.
-  - Game balance: moved Bloodmoon Rebalance to this section.
-- Restored Content: removed section, and distributed mods along existing (and new) categories.
-  - Visuals - VFX: moved Creature VFX Restoration to this section.
-  - Dialogue: moved Great Service to this section.
-  - Gameplay - Tweaks: moved Services Restored to this section.
-  - Gameplay - New mechanics: moved Blighted Blight to this section.
-  - Gameplay - New mechanics: moved Diseases Restored to this section.
-- Visuals - Personal Nitpicks: renamed to Visuals - Miscellaneous.
+- Core: added Graphic Herbalism Lighting.
+- Core: removed Restored content section, and distributed mods along existing (and new) categories.
+- Core: renamed Expansion rebalance and reimplementation to Expansion Delay, and distributed all other mods along existing (and new) categories.
+- Visuals: renamed Personal Nitpicks to Miscellaneous.
+- Visuals: added Light Decay.
+- Visuals: moved Creature VFX Restoration to VFX.
+- Visuals: re-added Distant Mournhold.
+- Dialogue: moved Great Service to this section.
 - Gameplay: redistributed the mods in this category among two sub-sections, Tweaks and New Mechanics, and also alongside Game balance. The changes are far too many to list.
-
-Additions:
-
-- Core - Quality of life improvements: Graphic Herbalism Lighting
-- Visuals - New features: Light Decay
-- Visuals - Miscellaneous: Distant Mournhold
+- Gameplay: moved Services Restored to Tweaks.
+- Gameplay: moved Early Travel to Mournhold to New mechanics.
+- Gameplay: moved Blighted Blight to New mechanics.
+- Gameplay: moved Diseases Restored to New mechanics.
+- Game balance: moved Beware the Sixth House to this section.
+- Game balance: moved Tribunal Rebalance to this section.
+- Game balance: moved Bloodmoon Rebalance to this section.
 
 ## December 13th
 
-Maintenance:
-
-- Gameplay: added additional instructions for Putting Power in Willpower.
-
-Re-structuring:
-
+- Core: re-added Services Restored.
+- Core: re-added Book Pickup.
+- Core: re-added Book Worm.
+- Core: re-added Clock Block.
+- Core: added Consistent Keys.
+- Core: added MWSE Hide The Skooma.
+- Core: re-added Quick Equip.
+- Core: re-added Right Click Menu Exit.
+- Core: re-added Security Enhanced.
+- Core: re-added Smart Journal.
+- Core: re-added Early Transport to Mournhold.
 - Visuals: split Tweaks section into VFX and Personal Nitpicks.
-- Visuals: re-ordered the mods in the New features section. Moved Improved Thrown Weapon Projectiles to this section.
+- Visuals: re-ordered the mods in the New features section.
+- Visuals: re-added Buoyant Lord Vivec.
+- Visuals: re-added Golden Saint Feminine Walk.
+- Visuals: re-added Incarnates Overhauled.
+- Visuals: re-added Nordic Chest Replacer.
+- Visuals: re-added Soldier Belts Fix.
+- Visuals: re-added The Dream is the Door.
 - Dialogue: moved this section before Gameplay.
-
-Additions:
-
-- Core: Services Restored (re-added)
-- Core: Book Pickup (re-added)
-- Core: Book Worm (re-added)
-- Core: Clock Block (re-added)
-- Core: Consistent Keys
-- Core: MWSE Hide The Skooma
-- Core: Quick Equip (re-added)
-- Core: Right Click Menu Exit (re-added)
-- Core: Security Enhanced (re-added)
-- Core: Smart Journal
-- Core: Early Transport to Mournhold (re-added)
-- Visuals: Buoyant Lord Vivec (re-added)
-- Visuals: Golden Saint Feminine Walk (re-added)
-- Visuals: Incarnates Overhauled (re-added)
-- Visuals: Nordic Chest Replacer (re-added)
-- Visuals: Soldier Belts Fix (re-added)
-- Visuals: The Dream is the Door (re-added)
 
 ## December 12th
 
-Additions:
-
-- Core: Alchemical Knowledge (replaces Alchemy Filter)
-- Visuals: Pincushion
+- Core: added Alchemical Knowledge (replaces Alchemy Filter).
+- Visuals: added Pincushion.
 
 ## December 8th
 
-I think this should be the last sweep I do for the guide, when it comes to removing mods.
-
-Re-structuring:
-
-- Visuals: removed Visual Effects section, renamed remaining sections to New Features and Tweaks, 
-
-Additions:
-
-- Dialogue: FMI - Legion Dialogue
+- Dialogue: added FMI - Legion Dialogue.
 
 Removals:
 
-- Core: Dry Stone Walls Revamped
-- Core: Silver and Nordic Cuirasses Fixed
-- Core: Services Restored
-- Core: Sound Spell Sound Effect
-- Core: Book Pickup
-- Core: Clock Block
-- Core: Gondolier Destinations
-- Core: Inventory mouse wheel
-- Core: No Translation Tooltips
-- Core: Quick Equip
-- Core: Right Click Menu Exit
-- Core: Security Enhanced
-- Core: Early Transport to Mournhold
-- Visuals: Buoyant Lord Vivec
-- Visuals: Flies
-- Visuals: Mistify
-- Visuals: Perfectly Proficient Parasol Particles Performance Patch
-- Visuals: The Dream is the Door
-- Visuals: Unto Dust
-- Visuals: Imperial Female Cuirass Retexure
-- Visuals: Golden Saint Feminine Walk
-- Visuals: Incarnates Overhauled
-- Visuals: Nordic Chest Replacer
-- Audio: Haunted Barrows
-- Audio: Heartthrum
-- Audio: Silent Assassins
-- Audio: Sounds of Souls
-- Audio: Water Sounds
-- Gameplay: Ordinator Armour Fix
-- Dialogue: FMI - Hospitality Papers Expanded
-- Dialogue: FMI - Service Refusal and Contraband
+- Core: removed Dry Stone Walls Revamped.
+- Core: removed Silver and Nordic Cuirasses Fixed.
+- Core: removed Sound Spell Sound Effect.
+- Core: removed Gondolier Destinations.
+- Core: removed Inventory mouse wheel.
+- Core: removed No Translation Tooltips.
+- Visuals: removed Imperial Female Cuirass Retexure.
+- Audio: removed Haunted Barrows.
+- Audio: removed Heartthrum.
+- Audio: removed Silent Assassins.
+- Audio: removed Sounds of Souls.
+- Audio: removed Water Sounds.
+- Gameplay: removed Ordinator Armour Fix (replaced FMI - Sane Ordinators).
+- Dialogue: removed FMI - Hospitality Papers Expanded.
+- Dialogue: removed FMI - Service Refusal and Contraband.
 
 ## December 7th
 
-Maintenance:
-
-- Gameplay: fixed Nexus link for Enchantment Capacity Rebalance. Was previously linking to Projectile Enchant Capacity.
+- Core: modified GH Patches and Replacers installation instructions to remove Diverse Ore Veins. This mod reduced the variety in the game's textures and (IMO) made ores look even worse.
 - Visuals: added additional instructions for Let There Be Darkness.
-
-Additions:
-
-- Gameplay: Borrowed Time
-- Gameplay: Harder Taunting
-- Gameplay: No Disposition Bonus For Bartering
-- Gameplay: Ordinator Armour Fix** (replaces FMI - Sane Ordinators)
-
-Removals:
-
-- Core: modified GH Patches and Replacers installation instructions to remove Diverse Ore Veins. This mod reduced variety on the game's textures.
+- Gameplay: fixed Nexus link for Enchantment Capacity Rebalance. Was previously linking to Projectile Enchant Capacity.
+- Gameplay: added Borrowed Time.
+- Gameplay: added Harder Taunting.
 
 ## December 6th
 
-Re-structuring:
-
-- Core: moved Beware the Sixth House to this section. Since mort's major rebalances were meant to be used together, it only made sense.
-- Core: moved Dry Stone Walls Revamped to this section. It's a UV fix, much like Correct Meshes.
-- Gameplay: merged New mechanics and Balance into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
-- Overhauls: removed this section since it only contained one mod. Moved Yet Another Guard Diversity to Visuals.
-- Gameplay: moved Ownership Overhaul to the Balance and Mechanics section. It's a general anti-cheese over a mod that fixes an oversight.
-- Visuals: moved Buoyant Lord Vivec to the Visual Effects section.
+- Visuals: removed Simple Golden Gold. Really small mod, hardly makes a difference.
 - Visuals: moved the following mods to the Other Visual Tweaks sub-section. This section now contains visual tweaks that deal with the vanilla assets, instead of adding entirely new visual effects.
   - Apel's Rain Replacer
   - Better Waterfalls
@@ -177,70 +120,56 @@ Re-structuring:
   - Subtle Magic Glow
   - Subtle Smoke
   - Vivec Palace Water Replacer
-
-Additions:
-
-- Core: No Translation Tooltips.
-- Gameplay: Hold Your Breath.
-- Gameplay: Lua Lock Bashing.
-- Gameplay: Visible Alchemy Success Chance.
-- Gameplay: Visible Persuasion Chance.
-- Gameplay: Wading in Water MW.
-
-Removals:
-
-- Visuals: Simple Golden Gold. Really small mod, hardly makes a difference.
-- Visuals: Soldier Belts Fix. Really small mod, hardly makes a difference.
-- Gameplay: Better Balanced Booze. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
-- Gameplay: Higher Faction Requirements. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
+- Gameplay: merged New mechanics and Balance into a single section. Most "new mechanics" were rebalances of their own, and new mechanics inevitably modify the balance of the game, particularly when they add critical hits and backstabbing.
+- Gameplay: moved Ownership Overhaul to the Balance and Mechanics section. It's a general anti-cheese over a mod that fixes an oversight.
+- Gameplay: added Hold Your Breath.
+- Gameplay: added Lua Lock Bashing.
+- Gameplay: added Visible Alchemy Success Chance.
+- Gameplay: added Visible Persuasion Chance.
+- Gameplay: added Wading in Water MW.
+- Gameplay: removed Better Balanced Booze. Really small mod, hardly makes a difference when it comes to adding "balance" into Morrowind.
+- Gameplay: removed Higher Faction Requirements. Of all mods in the balance section, this is the only one meant to make the game "harder" for the sake of it (Harder Barter just looks to smooth out progression and disallow cheesing).
+- Overhauls: removed this section since it only contained one mod. Moved Yet Another Guard Diversity to Visuals.
 
 ## December 5th
 
-For the first time in months, I'm bringing the guide up to date! \o/
-
-- Core: added **Silver and Nordic Cuirasses Fixed**.
-- Core: added **Blighted Blight**. Replaces **Blight Storms Restored**.
-- Core: added **Comrade Raven's Book Arts Replacer**.
-- Core: added **Better Buoyancy**
-- Core: added **Pluginless and Adjustable Lower First Person Sneak**. Replaces **Lower First Person Sneak Mode**.
-- Visuals: added **Perfectly Proficient Parasol Particles Performance Patch**. Replaces **Parasol Particles**.
-- Visuals: added **Dry Stone Walls Revamped**.
-- Visuals: added **Imperial Female Cuirass Retex**.
-- Visuals: added **Practical Pauldrons - Streamlined Shoulders**.
-- Gameplay: added **One-handed Adamantium Axe**.
-- Gameplay: added **Enchant Capacity Rebalanced**. Replaces **Projectile Enchant Capacity**.
-- Dialogue: added **Idle Talk**.
-- Dialogue: added **Its a Deal**.
-- Dialogue: added **Simple Smith Dialogue**.
-- Dialogue: moved **FMI - Hospitality Papers** to this section.
-- Dialogue: moved **FMI - Sane Ordinators** to this section.
-- Dialogue: moved **FMI - Service Refusal and Contraband** to this section.
+- Core: added Blighted Blight. Replaces Blight Storms Restored.
+- Core: added Comrade Raven's Book Arts Replacer.
+- Core: added Better Buoyancy.
+- Core: added Pluginless and Adjustable Lower First Person Sneak. Replaces Lower First Person Sneak Mode.
+- Visuals: added Perfectly Proficient Parasol Particles Performance Patch. Replaces Parasol Particles.
+- Visuals: added Practical Pauldrons - Streamlined Shoulders.
+- Gameplay: added One-handed Adamantium Axe.
+- Gameplay: added Enchant Capacity Rebalanced. Replaces Projectile Enchant Capacity.
+- Dialogue: added Idle Talk.
+- Dialogue: added Its a Deal.
+- Dialogue: added Simple Smith Dialogue.
+- Dialogue: moved FMI - Hospitality Papers to this section.
+- Dialogue: moved FMI - Sane Ordinators to this section.
+- Dialogue: moved FMI - Service Refusal and Contraband to this section.
 
 The following mods have been removed for consistency with the other mods in their respective sections:
 
-- Visuals: removed **The Midnight Oil - Lighting Overhaul**.
-- Visuals: removed **Shattered Stones - An Earthquake Mod**.
-- Gameplay: removed **Blight is Coming**.
-- Gameplay: removed **Lock Bashing**.
-- Gameplay: removed **Merlord's Starting Equipment**.
-- Gameplay: removed **Poison Crafting**.
-- Gameplay: removed **Realistic Repair** and **Realistic Repair Add-On**.
-- Overhauls: removed **Shrine of Azura**.
+- Visuals: removed The Midnight Oil - Lighting Overhaul.
+- Gameplay: removed Corprus Fix. Patch for Purists will include a similar fix in the future.
+- Gameplay: removed Lock Bashing.
+- Gameplay: removed Merlord's Starting Equipment.
+- Gameplay: removed Poison Crafting.
+- Gameplay: removed Realistic Repair and Realistic Repair Add-On.
+- Overhauls: removed Shrine of Azura.
 
-Other removed mods:
 
-- Gameplay: removed **Corprus Fix**. Patch for Purists will include a similar fix in the future.
 
 ## December 4th
 
-- Visuals: removed **Meteorite Ministry**. Stands out too much from the vanilla game.
-- Audio: removed **Distant Thunder**. Unnecessarily complicated installation instructions for such a non-issue.
-- Gameplay: updated **Ownership Overhauls** installation instructions. Now asks to hide the .esp plugin.
-- Gameplay: added **Beware the Sixth House**. Was listed in the mod order and load order, but missing from Morrowind++.
-- Overhauls: removed **Passage of Prayers - High Fane Corridor Overhaul**. Stands out too much from the vanilla game.
-- Overhauls: removed **Seven Graces Shrines - Enhanced**. Stands out too much from the vanilla game.
+- Visuals: removed Meteorite Ministry.
+- Audio: removed Distant Thunder.
+- Gameplay: updated Ownership Overhauls installation instructions. Now asks to hide the .esp plugin.
+- Gameplay: added Beware the Sixth House. Was listed in the mod order and load order, but missing from Morrowind++.
+- Overhauls: removed Passage of Prayers - High Fane Corridor Overhaul.
+- Overhauls: removed Seven Graces Shrines - Enhanced.
 
-To revert the INI changes from **Distant Thunder**, replace the following INI lines with these values.  
+To revert the INI changes from Distant Thunder, replace the following INI lines with these values.  
 
 > Thunder Sound ID 0=Thunder0  
 > Thunder Sound ID 1=Thunder1  
@@ -248,14 +177,14 @@ To revert the INI changes from **Distant Thunder**, replace the following INI li
 > Thunder Sound ID 3=Thunder3  
 
 - Added quality of life improvements to the guide's links (they will now take you to the top header instead of dropping you at the very beginning).
-- Added **Hunter's Mark - A Marksman Mod** to the mod order and load order.
+- Added Hunter's Mark - A Marksman Mod to the mod order and load order.
 
 ## December 2nd
 
-- Visuals: replaced link for **Incarnates Overhauled**. Now with the proper .esp name.
-- Overhauls: removed **No-Frills Open Vivec**. The performance hit and compatibility issues are too big to ignore.
-- Overhauls: removed **No-Frills Closed Molag Mar**. Pretty much pointless without the above mod installed.
-- Overhauls: removed **Reclamations in Holamayan**. Hardly essential.
+- Visuals: replaced link for Incarnates Overhauled. Now with the proper .esp name.
+- Overhauls: removed No-Frills Open Vivec.
+- Overhauls: removed No-Frills Closed Molag Mar.
+- Overhauls: removed Reclamations in Holamayan.
 - Separated the Visuals section into multiple sections.
 
 ## December 1st
