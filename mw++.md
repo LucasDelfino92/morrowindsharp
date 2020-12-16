@@ -472,8 +472,6 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
     - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**. This will remove the new feature allowing Atronachs to absorb elemental attacks that correspond to their element.
-- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
-Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Only install the **No Quest Changes** optional file.
@@ -507,8 +505,13 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ## DIFFICULTY MODULE
 
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by half11
+Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
+- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+  - Only install the **Creeping Blight - MWSE Version** main file.
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
@@ -517,8 +520,14 @@ Restores diseases by assigning them to existing creatures and fixes some other (
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
+Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
+- [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
+Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
+- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
+Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
