@@ -301,9 +301,8 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Animated Replacer - Original Color** and click **OK**.
-- [**Bitter Coast Sounds - UMOPP Version**](https://www.mediafire.com/file/tvs1uizswgyoy76/Bitter+Coast+Sounds+(UMOPP+v3.1.0+Version).zip/file) by PikachunoTM  
+- [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip) by PikachunoTM  
 Adds ambient noise and dragonflies all over the Bitter Coast region.
-  - MO2 will install this mod as a BAIN package. Only tick **Core** if you installed **Intelligent Textures** earlier, else tick both and click **OK**.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
 - [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/) by R-Zero and Greatness7  
