@@ -9,6 +9,8 @@
 - Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
 - Visuals: added Enlightened Flames.
 - Visuals: added Heat Haze.
+- Gameplay: added Adamantium Armor Integrated.
+- Gameplay: added Area Effect Arrows Integrated.
 - Difficulty: added Service Requirements Lore.
 
 ## December 15th
