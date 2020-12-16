@@ -7,6 +7,7 @@
 
 - Setup: updated MGE XE section with new shaders instructions.
 - Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
+- Visuals: simplified Bitter Coast Sounds installation instructions (package now installs vanilla-sized textures, no one will ever tell the difference).
 - Visuals: added Enlightened Flames.
 - Visuals: added Heat Haze.
 - Gameplay: added Adamantium Armor Integrated.
