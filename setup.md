@@ -290,7 +290,7 @@ The first thing you will notice about this tab is that all options minus **Use D
   - Click **Create Statics**.
 - Once the statics have been created, simply click **Finish**.
 
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy [**my personal settings**](http://www.mediafire.com/convkey/8bfe/iynys9ynhfzcbhgzg.jpg). In the future you may want to modify them.
+Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy [**my personal settings**](https://cdn.discordapp.com/attachments/705627823104327680/788785684210647060/MGE_XE_Settings_-_December_16th_2020.png). In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
 > NOTE: if for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
 
