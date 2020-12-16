@@ -17,6 +17,7 @@
 - Visuals: re-added Unto Dust.
 - Gameplay: merged all sections into one.
 - Gameplay: removed Adamantium Weapons Ignore Normal Weapon Resistance.
+- Gameplay: removed instructions to disable the Putting Power in Willpower plugin.
 - Gameplay: added MWSE State-Based Health. Replaces Retroactive Health Gain.
 - Difficulty: renamed from Game balance. Moved most mods into Gameplay.
 - Difficulty: removed No Disposition Bonus for Bartering.
@@ -24,6 +25,7 @@
 - Difficulty: added Creeping Blight.
 - Difficulty: added No Disease Labels.
 - Difficulty: added Reactive Resistance.
+- Difficulty: added MDMD - More Deadly Morrowind Denizens.
 
 ## December 14th
 
