@@ -9,7 +9,7 @@
 - Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
 - Visuals: added Enlightened Flames.
 - Visuals: added Heat Haze.
-- Difficulty: added Service Requirements.
+- Difficulty: added Service Requirements Lore.
 
 ## December 15th
 
