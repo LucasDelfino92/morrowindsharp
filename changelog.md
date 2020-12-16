@@ -20,6 +20,8 @@
 - Gameplay: added MWSE State-Based Health. Replaces Retroactive Health Gain.
 - Difficulty: renamed from Game balance. Moved most mods into Gameplay.
 - Difficulty: removed No Disposition Bonus for Bartering.
+- Difficulty: re-added Blight is Coming.
+- Difficulty: added Creeping Blight.
 
 ## December 14th
 
@@ -296,7 +298,6 @@ Removed:
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
 - [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
