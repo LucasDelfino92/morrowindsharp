@@ -426,8 +426,6 @@ Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
 
 ## GAMEPLAY MODULE
 
-- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
-Every Raw Adamantium rock is guaranteed to have at least 2 pieces of Adamantium Ore. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
 Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
