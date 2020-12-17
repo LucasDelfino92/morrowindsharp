@@ -14,7 +14,7 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 ## DESCRIPTION
 
-**Morrowind++** is the result of five years of modding Morrowind, looking up guides, installing mods, troubleshooting, and engaging with other users (modders and end users alike). It's a modding guide that aims to enhance Morrowind across the board, based on the following pillars:
+**Morrowind++** is the result of five years of playing Morrowind, looking up modding guides, installing mods, troubleshooting them, and engaging with other users (modders and end users alike). It's a modding guide that aims to enhance Morrowind across the board, based on the following pillars:
 
 - Performance and stability: with the exception of the optional MGE XE shaders, your game should perform better than vanilla, and crash considerably less. I can report less than a couple of crashes in hundreds of gameplay hours.
 - Faithfulness: mods suggested here will not turn Morrowind into an unrecognizable game. Unique gameplay elements and Morrowind's distinctive aesthetic won't be sacrificed in favor of "modernity". Everything that is suggested will simply improve on what's already there, blending in seamlessly with the vanilla game.
