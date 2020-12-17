@@ -189,7 +189,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### GAMEPLAY
 
-- Abundant Adamantium Ore
 - Adamantium Armor Integrated
 - Area Effect Arrows Integrated
 - Bed Buddies
@@ -291,7 +290,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - outfit greetings tweaked.ESP
 - LDM - Context Matters.ESP
 - Simple Smith Dialogue.ESP
-- Abundant Adamantium.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Arrows Integrated.ESP
 - Clean Blighted_Kwama_Workers.ESP
