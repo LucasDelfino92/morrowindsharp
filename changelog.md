@@ -3,6 +3,10 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 17th
+
+- Gameplay: removed Abundant Adamantium Ore. With Adamantium Armor Integrated, your Adamantium Armor needs should be covered.
+
 ## December 16th
 
 - Setup: updated MGE XE section with new shaders instructions.
@@ -226,6 +230,7 @@ Removed:
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
+- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
