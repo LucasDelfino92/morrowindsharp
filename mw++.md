@@ -580,8 +580,9 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
-  - Save the plugin as **Yet Another Guard Diversity - Regular.ESP**, overwriting the original when asked.
-  - This ensures there aren't new instances of guards in the Eastern Guard Tower.
+- Save the plugin as **Yet Another Guard Diversity - Regular.ESP**, overwriting the original when asked.
+
+> This ensures there aren't new instances of guards in the Eastern Guard Tower.
 
 ### ADJUSTING YOUR LOAD ORDER
 
@@ -598,8 +599,9 @@ There's an additional step to take if you've installed MDMD - More Deadly Morrow
 
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following record from **Merged Objects.ESP**:
   - NPC **sjoring hard-heart** 
-  - Save the plugin as **Merged Objects.ESP**, overwriting the original when asked.
-  - This omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
+- Save the plugin as **Merged Objects.ESP**, overwriting the original when asked.
+
+> This omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
 
 Though it is not necessary for Morrowind++, TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. Thus the following step is completely optional:
 
