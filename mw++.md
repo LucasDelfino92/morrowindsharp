@@ -641,30 +641,33 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **abot's Smart Journal**
 - Set **Add a prefix in order to group quest names?** to **0**. This will remove the lag when opening the quest page without this option set to 0.
-- (Optional) Set every option below **Sort quests list by quest name?** to **No**. These options are mostly useful to troubleshoot mods. 
+- (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
 
 **Clock Block**
-- (Optional) Set **Clock type** to **Game time**.
-- (Optional) Set **Clock position** to **Bottom**. Personally I find it more aesthetic this way.
+- (Recommended) Set **Clock type** to **Game time**.
+- (Recommended) Set **Clock position** to **Bottom**.
 
 **Continue**
-- (Optional) Set **Hide Credits Button** and **Hide New Game Button (In Game)** to **Yes**.
+- (Recommended) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
 - In this same tab, I recommend setting all three **Ambient color adjustments** to *at least* 65. Otherwise, the combination of shaders and this mod will make certain interiors look very dark.
-- In the **Light Settings** tab, set **Use TLaD overrides for radius and color of light sources?** to **Off**.
+- In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
+
+**MWSE Magicka Bonus**
+- (Recommended) Enable **Magicka decay**.
 
 **Putting Power in Willpower**
-- Set **Allow negative Resist Bonus** to **On**.
+- Enable **Allow negative Resist Bonus**.
 
 **Security Enhanced**
 - Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
-- (Optional) Set **Enable Lockpick Auto-Equip On Locked Object Activation** to **Off**.
-- (Optional) Set **Enable Probe Auto-Equip On Trapped Object Activation** to **Off**.
+- (Recommended) Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
+- (Recommended) Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
 **Visible Persuasion Chance**
-- (Optional) Set **Immersive Mode** to **On**.
+- (Recommended) Enable **Immersive Mode**.
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
