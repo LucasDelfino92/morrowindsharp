@@ -117,9 +117,9 @@ Modifies how the Tribunal and Bloodmoon expansions are implemented into the game
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Install the **kart_facelift_default** main file and the **kart_facelift_update_0-10-3** update file.
+  - Only install the **kart_facelift_meshes** main file.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The textures included in Intelligent Textures already contain the texture fixes present in the above mods.
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Atlas Textures** and click **OK**.
 
 ### HIGH RESOLUTION USER INTERFACE
