@@ -3,6 +3,11 @@
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 18th
+
+- Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
+- Finising touches: added in-game configuration instructions for MWSE Magicka Regen.
+
 ## December 17th
 
 - Gameplay: removed Abundant Adamantium Ore. With Adamantium Armor Integrated, your Adamantium Armor needs should be covered.
