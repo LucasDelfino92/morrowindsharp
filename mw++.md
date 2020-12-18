@@ -655,8 +655,12 @@ The following mods require additional configuration through the in-game **Mod Co
 - In this same tab, I recommend setting all three **Ambient color adjustments** to *at least* 65. Otherwise, the combination of shaders and this mod will make certain interiors look very dark.
 - In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
 
+**Magicka Based Skill Progression**
+- Set **Skill Experience per Magicka** to 0.066667. This reduces the skill experience gain to a third of its original value, which was too generous.
+
 **MWSE Magicka Bonus**
-- (Recommended) Enable **Magicka decay**.
+- Set **Player Magicka Regen Rate** to 33%. This reduces the regeneration rate to a third of its original value, which was too generous.
+- Set **NPC Magicka Regen Rate** to 33%. This reduces the regeneration rate to a third of its original value, which was too generous.
 
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
