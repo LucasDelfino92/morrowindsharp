@@ -5,6 +5,7 @@
 
 ## December 18th
 
+- Visuals: added a disclaimer to Flies (known issue).
 - Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
 - Finising touches: added in-game configuration instructions for MWSE Magicka Regen.
 
