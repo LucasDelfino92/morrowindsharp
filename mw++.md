@@ -311,6 +311,7 @@ Replaces the game's particle-based candle flames with new, higher quality and be
 Adds a visual effect to all vanilla flies sound emitters.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - Known issues: you may be able to find flies underwater, since the vanilla game already has instances where the "flies" sound runs underwater.
 - [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
 Adds a heat haze shader controller by MGE XE and MWSE-lua.
   - This mod requires you to register its new shader in MGE XE. Follow the instructions on the mod's page.
