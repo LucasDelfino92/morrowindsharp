@@ -60,7 +60,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### CORE - HIGH RESOLUTION TEXTURES
 
 - Facelift
-- Facelift Update
 - Intelligent Textures
 
 ### CORE - HIGH RESOLUTION USER INTERFACE
