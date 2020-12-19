@@ -277,7 +277,6 @@ It is not the intention of this guide to mess with existing quests in any way or
 - [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961)
 - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
-- [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340)
 - [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
 
