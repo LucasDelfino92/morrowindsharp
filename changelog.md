@@ -7,6 +7,7 @@
 
 - Setup: separated two distinct parts in MGE XE's installation instructions into their own sub-sections (installing shaders, launching MGE XE).
 - Morrowind++: added links to the Finishing touches sub-section in the index.
+- Core: updated Facelift installation instructions (no longer requires to download an update file).
 - Visuals: added a disclaimer to Flies (known issue).
 - Gameplay: added Improved Vanilla Leveling. **Refrain from installing this mod on an on-going playthrough**.
 - Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
