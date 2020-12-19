@@ -1,6 +1,7 @@
 # MORROWIND++
 
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)
+[Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
 
 ## INDEX
 
