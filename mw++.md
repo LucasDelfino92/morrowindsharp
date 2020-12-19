@@ -1,6 +1,6 @@
 # MORROWIND++
 
-[<< Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
 
 ## INDEX
@@ -685,5 +685,5 @@ The mods installed in this guide and configured as mentioned above will use the 
 - **Security Enhanced**: **O** key to equip lockpicks, **P** key to equip probes.
 - **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
 
-[<< Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
