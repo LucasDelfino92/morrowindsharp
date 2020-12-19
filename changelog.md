@@ -266,19 +266,18 @@ Removed:
 
 It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options, changing its rewards, or adding more flavor to it, is out of the question. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in these mods.
 
-- [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180)
-- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?)
-- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
-- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?)
-- [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752)
-- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
-- [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/)
-- [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/)
-- [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961)
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)
-- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602)
-- [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
-- [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
+- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn
+- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93
+- [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?) by Alxemical
+- [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752) by Gavrilo93 and PoodleSandwich2
+- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius
+- [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/) by Endoran
+- [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/) by Lurlock
+- [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Gavrilo93
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93
+- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93
+- [**The G93 Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Gavrilo93 and [**Dubdilla Location Fix - A Cure for Vampirism Patch**](https://www.mediafire.com/file/zxjoeye5haxrnk7/Dubdilla_Location_Fix_-_A_Cure_for_Vampirism_Patch_v1.0.zip/file)
+- [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
