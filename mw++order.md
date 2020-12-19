@@ -201,6 +201,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Hold Your Breath
 - Hunter's Mark - A Marksman Mod
 - Hunter's Mark + Area Effect Arrows Integrated Patch
+- Improved Vanilla Leveling
 - Limited Leaping
 - Loading Doors Lock Tune
 - Lua Lockbashing
