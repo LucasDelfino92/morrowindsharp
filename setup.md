@@ -253,8 +253,9 @@ Shader that dramatically improves on the game's lighting, and adds effects such 
 
 ### LAUNCHING MGE XE
 
-Once you have installed the shaders, we can finally configure MGE XE by launching Mod Organizer 2.
+Once you have installed the shaders, we can finally run and configure MGE XE through Mod Organizer 2.
 
+- Launch Mod Organizer 2.
 - From the dropdown menu to the left of the **Run** button, select **MGE XE**. 
 - Click **Run** to run the executable.
 
