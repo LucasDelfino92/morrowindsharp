@@ -455,6 +455,8 @@ Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
   - Also install [**Hunter's Mark + Area Effect Arrows Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788796440582553691/Hunters_Mark__Area_Effect_Arrows_Integrated_Patch.zip) if you installed Area Effect Arrows Integrated earlier.
+- [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
+Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
@@ -653,6 +655,10 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Continue**
 - (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
+
+**Improved Vanilla Leveling**
+- Enable **Enhanced Tooltip**. This option assumes you haven't installed the "Level-up skills tooltip" patch in the Morrowind Code Patch.
+- Disable **Retroactive Health Activation** for compatibility with MWSE State-Based Health.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
