@@ -14,6 +14,7 @@
   - [Installing mods in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mods-in-mod-organizer-2)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
+  - [Installing shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-shaders)
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
@@ -230,6 +231,8 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
 - Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and call it **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
+
+### INSTALLING SHADERS
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (these are present in the home page) then you should be able to play just fine.
 
