@@ -266,11 +266,16 @@ Removed:
 
 It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options or changing its is out of the question. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in a handful of perfectly compatible mods that either address minor annoyances in certain vanilla quests, or expand on the vanilla content altogether.
 
-- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn
-- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93
-- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93
-- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93
+- [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?) by Leyawynn  
+The unique Spell Breaker won't require the player to trigger its quest before it appears in the game world.
+- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93  
+Allows you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
+- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius  
+This plugin repairs the walls of Fort Frostmoth as the Bloodmoon main quest progresses.
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
+Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
+- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93  
+Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
