@@ -15,6 +15,7 @@
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
   - [Installing shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-shaders)
+  - [Launching MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#launching-mge-xe)
   - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
@@ -250,9 +251,12 @@ Anti-Aliasing shader that provides even better results than the standard MGE XE 
 - [**MGE XE Shader - specialprocess**](https://cdn.discordapp.com/attachments/381217735306248192/788784079487107102/MGE_XE_Shader_-_Specialprocess_August_11th_2020.zip) by vtastek  
 Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
 
-These shaders need to be installed through Mod Organizer 2,  Once you have installed the shaders, we can finally configure MGE XE by launching Mod Organizer 2.
+### LAUNCHING MGE XE
 
-- From the dropdown menu to the left of the **Run** button, select **MGE XE**. Run the application.
+Once you have installed the shaders, we can finally configure MGE XE by launching Mod Organizer 2.
+
+- From the dropdown menu to the left of the **Run** button, select **MGE XE**. 
+- Click **Run** to run the executable.
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
