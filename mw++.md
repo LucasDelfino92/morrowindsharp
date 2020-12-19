@@ -675,13 +675,13 @@ The following mods require additional configuration through the in-game **Mod Co
 **Visible Persuasion Chance**
 - (Recommended) Enable **Immersive Mode**.
 
+### MOD KEYBINDINGS
+
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
 - **Kill Command**: **K** key to order attacks.
 - **Security Enhanced**: **O** key to equip lockpicks, **P** key to equip probes.
 - **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
-
-Congratulations, your modded Morrowind installation is ready!
 
 [Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [Back to index](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#index)
