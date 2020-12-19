@@ -305,7 +305,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
 
-> NOTE: if for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
+> If for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. While not every mod modifies statics to the point of needing to regenerate them, it doesn't hurt to do so. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window.
 
