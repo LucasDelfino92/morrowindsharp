@@ -50,6 +50,8 @@ To clean up your GOG installation of Morrowind, delete the following files from 
 
 Overall, this will free about 700 MBs in your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
 
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
+
 ## MORROWIND CODE PATCH
 
 The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2. It will be the first step in our journey to prepare Morrowind for whatever tools and mods we will install later.
