@@ -648,11 +648,11 @@ The following mods require additional configuration through the in-game **Mod Co
 - (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
 
 **Clock Block**
-- (Recommended) Set **Clock type** to **Game time**.
-- (Recommended) Set **Clock position** to **Bottom**.
+- (Optional) Set **Clock type** to **Game time**.
+- (Optional) Set **Clock position** to **Bottom**.
 
 **Continue**
-- (Recommended) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
+- (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
@@ -671,11 +671,11 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Security Enhanced**
 - Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
-- (Recommended) Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
-- (Recommended) Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
+- Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
+- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
 **Visible Persuasion Chance**
-- (Recommended) Enable **Immersive Mode**.
+- (Optional) Enable **Immersive Mode**.
 
 ### MOD KEYBINDINGS
 
