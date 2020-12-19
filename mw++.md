@@ -23,7 +23,14 @@
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Difficulty module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#difficulty-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
+  - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#cleaning-plugins)
+  - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#manual-conflict-resolution)
   - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
+  - [Automatic conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#automated-conflict-resolution)
+  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#synchronizing-mod-masters)
+  - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#running-distant-land)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
+  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
 
 ## CHANGELOG
 
