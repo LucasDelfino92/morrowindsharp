@@ -1,7 +1,7 @@
 # MORROWIND++ CHANGELOG
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
-[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
 ## December 18th
 
@@ -283,5 +283,5 @@ It is not the intention of this guide to mess with existing quests in any way or
 - [**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953)
 - [**Vodunius Nuccius House Lodgings**](https://www.nexusmods.com/morrowind/mods/46364)
 
-[Back to home](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
-[Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
+[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
