@@ -267,16 +267,11 @@ Removed:
 It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options, changing its rewards, or adding more flavor to it, is out of the question. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in these mods.
 
 - [**Ajiras Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180)
-- [**Ajira's Alchemy Reports Randomised**](https://www.nexusmods.com/morrowind/mods/47550)
 - [**Always there Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?)
 - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589)
 - [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962?)
 - [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752)
 - [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?)
-- [**Gaenor's Millions**](https://www.nexusmods.com/morrowind/mods/44870)
-- [**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671)
-- [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097)
-- [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)
 - [**Imperial Silver Armor**](https://www.nexusmods.com/morrowind/mods/47751/)
 - [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788/)
 - [**Pacifist Options - When it Makes Sense**](https://www.nexusmods.com/morrowind/mods/47961)
