@@ -5,7 +5,10 @@
 
 ## December 18th
 
+- Setup: separated two distinct parts in MGE XE's installation instructions into their own sub-sections (installing shaders, launching MGE XE).
+- Morrowind++: added links to the Finishing touches sub-section in the index.
 - Visuals: added a disclaimer to Flies (known issue).
+- Gameplay: added Improved Vanilla Leveling.
 - Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
 - Finising touches: added in-game configuration instructions for MWSE Magicka Regen.
 
