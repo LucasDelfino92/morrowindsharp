@@ -303,7 +303,7 @@ The first thing you will notice about this tab is that all options minus **Use D
   - Click **Create Statics**.
 - Once the statics have been created, simply click **Finish**.
 
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy [**my personal settings**](https://cdn.discordapp.com/attachments/705627823104327680/788785684210647060/MGE_XE_Settings_-_December_16th_2020.png). In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
+Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
 You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
 
