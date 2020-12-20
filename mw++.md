@@ -554,6 +554,11 @@ Prevents the player from resting unless they activate a bed.
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+When an NPC is killed, all their equipped gear is damaged to a configurable condition.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+  - Hide/disable **Realistic_Repair_Optional.ESP**. This will avoid adding the new forges and anvils to the game's major cities and settlements.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
 Adds faction rank requirements to obtain faction services.
   - MO2 will install this mod as a BAIN package.Only tick **Service Requirements Lore** and click **Ok**.
@@ -685,6 +690,9 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
+
+**Realistic Repair**
+- Disable **Enable Realistic Repair**. This will remove the functionality of requiring anvils and forges to repair your equipment.
 
 **Security Enhanced**
 - Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
