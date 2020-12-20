@@ -9,6 +9,7 @@
 - Visuals: changed Bitter Coast Scum Replacer installation instructions (the recommended option is now Greener Color).
 - Gameplay: added Always There Spell Breaker.
 - Gameplay: added Smarter Soultrap.
+- Difficulty: added Realistic Repair.
 - In-game configuration: changed MWSE Magicka Regen instructions (from 33% regeneration to 20%).
 - In-game configuration: added UI Expansion instructions.
 
