@@ -237,6 +237,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - No Rest Without Beds
 - Reactive Resistance
 - Realistic Movement Speeds
+- Realistic Repair
 - Service Requirements Lore
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
