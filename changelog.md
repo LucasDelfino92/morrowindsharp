@@ -274,7 +274,7 @@ Removed:
 
 ## Legacy: Quests
 
-It is not the intention of this guide to mess with existing quests in any way or form. This means that modifying a quest by adding new options or changing its is out of the question. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in a handful of perfectly compatible mods that either address minor annoyances in certain vanilla quests, or expand on the vanilla content altogether.
+It is not the intention of this guide to mess with existing quests in any way or form. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in a handful of perfectly compatible mods that expand on the vanilla content in a lore-friendly and compatible manner with Morrowind++.
 
 - [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93  
 Allows you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
@@ -282,6 +282,8 @@ Allows you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
 This plugin repairs the walls of Fort Frostmoth as the Bloodmoon main quest progresses.
 - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
 Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
+- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits.
 - [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93  
 Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
