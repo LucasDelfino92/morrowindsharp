@@ -307,7 +307,7 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Animated Replacer - Original Color** and click **OK**.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 Animated Replacer - Greener Color** and click **OK**.
 - [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip) by PikachunoTM  
 Adds ambient noise and dragonflies all over the Bitter Coast region.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
@@ -440,6 +440,8 @@ Places one copy of each adamantium armor piece (except the helm) in Vvardenfell.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop.
   - Hide/disable **Area Effect Projectiles Integrated.ESP** and **Area Effect Projectiles Integrated (PAR Edit).ESP**. These include additional balance tweaks.
+- [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648) by Leyawynn  
+Removes the quest prerequisite for the unique Spell Breaker shield to spawn in the game.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
@@ -506,6 +508,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
     - NPC **hecerinde**
   - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
   - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
+- [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121) by NullCascade  
+Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
@@ -653,12 +657,12 @@ Launch Morrowind and make the following adjustments.
 The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
 **abot's Smart Journal**
-- Set **Add a prefix in order to group quest names?** to **0**. This will remove the lag when opening the quest page without this option set to 0.
+- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
 
 **Clock Block**
-- (Optional) Set **Clock type** to **Game time**.
-- (Optional) Set **Clock position** to **Bottom**.
+- (Optional) Set **Clock type** to Game time.
+- (Optional) Set **Clock position** to Bottom.
 
 **Continue**
 - (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
@@ -668,7 +672,7 @@ The following mods require additional configuration through the in-game **Mod Co
 - Disable **Retroactive Health Activation** for compatibility with MWSE State-Based Health.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
-- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to **NONE**.
+- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to NONE.
 - If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to 75.
 - In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
 
@@ -676,8 +680,8 @@ The following mods require additional configuration through the in-game **Mod Co
 - Set **Skill Experience per Magicka** to 0.066667. This reduces the skill experience gain to a third of its original value, which was too generous.
 
 **MWSE Magicka Bonus**
-- Set **Player Magicka Regen Rate** to 33%. This reduces the regeneration rate to a third of its original value, which was too generous.
-- Set **NPC Magicka Regen Rate** to 33%. This reduces the regeneration rate to a third of its original value, which was too generous.
+- Set **Player Magicka Regen Rate** to 20%. This reduces the regeneration rate to a fifth of its original value, which was too generous.
+- Set **NPC Magicka Regen Rate** to 20%. This reduces the regeneration rate to a fifth of its original value, which was too generous.
 
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
@@ -686,6 +690,14 @@ The following mods require additional configuration through the in-game **Mod Co
 - Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
+
+**UI Expansion**
+
+Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
+
+- Set **Auto-select search bar** to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
+- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
+- (Optional) Set **Use search bars?** to No.
 
 **Visible Persuasion Chance**
 - (Optional) Enable **Immersive Mode**.
