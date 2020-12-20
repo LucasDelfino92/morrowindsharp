@@ -190,6 +190,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Adamantium Armor Integrated
 - Area Effect Arrows Integrated
+- Always There Spell Breaker
 - Bed Buddies
 - Blighted Mine Means Blighted Workers
 - Borrowed Time
@@ -215,6 +216,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Religions Elaborated - No Quest Changes
 - Supply Chests Merged
 - Services Restored
+- Smarter Soultrap
 - Sneaky Strike
 - Speed and Movement Rebalanced
 - Temples with Shrines
@@ -292,6 +294,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Simple Smith Dialogue.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Arrows Integrated.ESP
+- Always there Spell Breaker.ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
