@@ -8,6 +8,7 @@
 - Setup: added images to MGE XE section to aid with the options.
 - Visuals: changed Bitter Coast Scum Replacer installation instructions (the recommended option is now Greener Color).
 - Gameplay: added Always There Spell Breaker.
+- Gameplay: fixed Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Gameplay: added Smarter Soultrap.
 - Difficulty: added Realistic Repair.
 - In-game configuration: changed MWSE Magicka Regen instructions (from 33% regeneration to 20%).
