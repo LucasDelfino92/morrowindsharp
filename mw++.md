@@ -575,6 +575,11 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide/disable **There Can Be Only One.ESP** and **There Can Be Only One (Alt Fyr).ESP**.
   - Also install [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788905669973114911/There_Can_Be_Only_One__MDMD_Patch.zip) if you installed MDMD - More Deadly Morrowind Denizens earlier.
+  - Note: if you want Divayth Fyr to retain his lootable set of Daedric Armor, do as follows:
+    - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records from **There Can Be Only One**: 
+    - NPC **divayth fyr**
+  - Save the plugin as **There Can Be Only One (Alt Fyr 2).ESP**, overwriting the original when asked.
+  - If you installed **There Can Be Only One + MDMD Patch**, repeat the same process, saving the plugin as **There Can Be Only One + MDMD Patch.ESP**, overwriting the original when asked.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
