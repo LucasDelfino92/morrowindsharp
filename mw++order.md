@@ -218,7 +218,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Services Restored
 - Smarter Soultrap
 - Sneaky Strike
-- Speed and Movement Rebalanced
 - Temples with Shrines
 - The Publicans
 - Wading in Water MW
@@ -308,7 +307,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Services Restored.ESP
-- Speed and Movement.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
 - Blight is Coming.ESP
