@@ -3,6 +3,10 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 24th
+
+- Gameplay: removed Speed and Movement Rebalanced (unless you specifically try to make a character with high Speed and Athletics, you are going to hate this mod).
+
 ## December 20th
 
 - Setup: added images to MGE XE section to aid with the options.
@@ -246,6 +250,7 @@ Removed:
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
+- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
@@ -262,7 +267,7 @@ Removed:
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
-- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/)
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)
