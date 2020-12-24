@@ -512,12 +512,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - GMST **fJumpRunMultiplier**
-  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
-  - This restores the higher speed when jumping, allowing to clear larger gaps as intended in the vanilla game.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
