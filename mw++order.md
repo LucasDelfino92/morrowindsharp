@@ -148,7 +148,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Complete Armor Joints
 - Distant Mournhold
 - Imperial Steel Cuirass With Belt
-- Incarnates Overhauled
 - Well Diversified
 - Wolf Helmet Replacer
 
@@ -243,7 +242,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Waterfalls Tweaks.ESP
 - Complete Armor Joints.ESP
 - Mournhold LOD.ESP
-- Incarnates Overhauled.ESP
 - Well Diversified.ESP
 - Great Service.ESP
 - Idle Talk.ESP
