@@ -161,7 +161,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Improved Nordic Iron Helm Mesh
 - Incarnates Overhauled
 - Nordic Chest Replacer
-- Practical Pauldrons - Streamlined Shoulders
 - Soldier Belts Fix
 - Well Diversified
 - Wolf Helmet Replacer
@@ -200,8 +199,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Early Transport to Mournhold
 - Enchant Capacity Rebalance
 - Hold Your Breath
-- Hunter's Mark - A Marksman Mod
-- Hunter's Mark + Area Effect Arrows Integrated Patch
 - Improved Vanilla Leveling
 - Limited Leaping
 - Loading Doors Lock Tune
@@ -211,7 +208,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Marksman Rebalanced
 - MWSE Magicka Regen
 - MWSE State-Based Health
-- One-handed Adamantium Axe
 - Putting Power In Willpower
 - Religions Elaborated - No Quest Changes
 - Supply Chests Merged
@@ -299,10 +295,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Early Transport to Mournhold.ESP
-- Hunter's Mark - A Marksman Mod.ESP
-- Hunter's Mark + Area Effect Arrows Integrated Patch.ESP
 - Lucky Strike.ESP
-- Adamantium Axe 1H.ESP
 - Putting Power in Willpower - Absorbonach.ESP
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
