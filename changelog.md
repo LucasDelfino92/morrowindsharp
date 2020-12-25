@@ -18,6 +18,7 @@
 - Visuals: removed Buoyant Lord Vivec.
 - Visuals: removed Golden Saint Feminine Walk.
 - Visuals: removed Improved Nordic Iron Helm Mesh.
+- Visuals: removed Incarnates Overhauled.
 - Visuals: removed Nordic Chest Replacer.
 - Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
 - Visuals: removed Soldier Belts Fix.
@@ -289,6 +290,7 @@ Removed:
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/)
+- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523)
