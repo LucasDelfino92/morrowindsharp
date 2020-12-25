@@ -19,7 +19,6 @@
   - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
-- [Dialogue module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Difficulty module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#difficulty-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
@@ -366,27 +365,15 @@ Replaces the water in the Palace of Vivec's canals.
 
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
-Adds a simple script to make Vivec properly loop his idle animation.
-  - MO2 will install this mod as a BAIN package. Only tick **00Vanilla** and click **OK**.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255) by EnvyDeveloper  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
 - [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
 Adds the missing belt to the male Imperial Steel Cuirass mesh.
-- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
-Modifies the Nordic Iron Helm to look less stupid.
-  - Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 - [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
 Overhauls the appearance of the failed incarnates to use their equipment.
-- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
-Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
-Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
@@ -399,6 +386,12 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
+ Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
   - Only install the **Outdoor Banners With Sound** main file.
@@ -406,30 +399,6 @@ Outdoor banners now play sound alongside their animations. During clear weather 
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-
-## DIALOGUE MODULE
-
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
- Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
-Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
-Replaces the three standard No Lore greetings with over sixty new ones. 
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?) by Anille  
-Greetings regarding clothes are now limited to clothiers, nobles and snooty High Elves.
-- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?) by Endoran  
-Adds all of Garothmuk gro-Muzgub's dialogue to all of the smith class.
-  - Only install the **Simple Smith Dialogue** main file.
 
 ## GAMEPLAY MODULE
 
