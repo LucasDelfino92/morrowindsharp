@@ -385,8 +385,6 @@ Modifies the Nordic Iron Helm to look less stupid.
 Overhauls the appearance of the failed incarnates to use their equipment.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383) by Remiros  
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
-- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
-Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
@@ -461,9 +459,6 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
   - MO2 will install this mod as a BAIN package. Tick **MWSE Version** and click **OK**.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
-- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
-Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-  - Also install [**Hunter's Mark + Area Effect Arrows Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/790365245289791488/Hunters_Mark__Area_Effect_Arrows_Integrated_Patch.zip) if you installed Area Effect Arrows Integrated earlier.
 - [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
 Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
@@ -487,8 +482,6 @@ Takes into account the distance to target when calculating the hit chance for ra
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133) by Necrolesian  
 Health is now calculated based on current strength, endurance and level. 
-- [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
-Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
