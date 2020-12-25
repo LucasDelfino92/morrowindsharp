@@ -3,6 +3,12 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 25th
+
+- Visuals: removed Practical Pauldrons - Streamlined Shoulders (some changes look good but many others do not, plus I'd rather respect the original designs).
+- Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch (this was the only mod in the guide which added entirely new equipment into the game).
+- Gameplay: removed One-handed Adamantium Axe (a major nitpick to add to a guide).
+
 ## December 24th
 
 - Gameplay: removed Speed and Movement Rebalanced (unless you specifically try to make a character with high Speed and Athletics, you are going to hate this mod).
@@ -249,6 +255,7 @@ Removed:
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
+- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
@@ -261,8 +268,11 @@ Removed:
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
+- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656)
+- [**Hunter's Mark + Area Effect Arrows Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/790365245289791488/Hunters_Mark__Area_Effect_Arrows_Integrated_Patch.zip)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
 - [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
+- [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
