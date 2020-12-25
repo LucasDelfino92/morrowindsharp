@@ -153,37 +153,22 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### VISUALS - MISCELLANEOUS
 
 - Bloodmoon Hide Replacer
-- Buoyant Lord Vivec
 - Complete Armor Joints
 - Distant Mournhold
-- Golden Saint Feminine Walk
 - Imperial Steel Cuirass With Belt
-- Improved Nordic Iron Helm Mesh
 - Incarnates Overhauled
-- Nordic Chest Replacer
-- Soldier Belts Fix
 - Well Diversified
 - Wolf Helmet Replacer
 
 ### AUDIO
 
+- Great Service
+- Idle Talk
+- Its a Deal
 - Greet Distance Reducer
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
-
-### DIALOGUE
-
-- Great Service
-- Idle Talk
-- Its a Deal
-- FMI - Legion Dialogue
-- FMI - Nice to Meet You
-- FMI - NotAllDunmer
-- Greetings for No Lore
-- LDM - Context Matters
-- Outfit Greetings Tweaked
-- Simple Smith Dialogue
 
 ### GAMEPLAY
 
@@ -269,25 +254,15 @@ This is a complete list of all plugins present in the guide, installed as if you
 - mistify.ESP
 - Shattered Stones - An Earthquake Mod.ESP
 - The Dream is the Door.ESP
-- Buoyant Lord Vivec.ESP
 - Complete Armor Joints.ESP
 - Mournhold LOD.ESP
 - Incarnates Overhauled.ESP
-- Nordic Chest Replacer.ESP
-- SoldierBeltsFix.ESP
 - Well Diversified.ESP
-- hw_GreetDistanceReducer.ESP
-- Outdoor Banners With Sound.ESP
 - Great Service.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
-- FMI_Legion_Dialogue.ESP
-- FMI_Nice_to_Meet_You.ESP
-- FMI_#NotAllDunmer.ESP
-- Greetings for No Lore.ESP
-- outfit greetings tweaked.ESP
-- LDM - Context Matters.ESP
-- Simple Smith Dialogue.ESP
+- hw_GreetDistanceReducer.ESP
+- Outdoor Banners With Sound.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Arrows Integrated.ESP
 - Always there Spell Breaker.ESP
