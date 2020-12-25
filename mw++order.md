@@ -109,54 +109,60 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Visible Alchemy Success Chance
 - Visible Persuasion Chance
 
-### VISUALS - NEW FEATURES
+### VISUALS - ENVIRONMENT
 
-- Pincushion
-- Remiros' Groundcover
-- Remiros' Groundcover Shaders - Landbias Fix
-- Signposts Retextured
-- Yet Another Guard Diversity - Regular
-- Weapon Sheathing
-- Weapon Sheathing - Bow Position Edit
-- Morrowind Optimization Patch - Weapon Sheathing Patch
-- Glow in the Dahrk
-- Project Atlas - Glow in the Dahrk Patch
-- Let There Be Darkness - Lua Lighting Overhaul
-- Light Decay
-- Transporter Lights
-- Weather Adjuster
-
-### VISUALS - VFX
-
-- Apel's Rain Replacer
 - Better Waterfalls
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
-- Creature VFX Restoration
-- Enlightened Flames
-- Improved Thrown Weapon Projectiles
-- Mist Retexture
-- MWSE Blood Diversity
-- Subtle Magic Glow
-- Subtle Smoke
-- Visually Filled Soul Gems
+- Distant Mournhold
+- Near Vanilla Road Sign Replacer
+- Remiros' Groundcover
+- Remiros' Groundcover Shaders - Landbias Fix
 - Vivec Palace Water Replacer
+- Well Diversified
 
-### VISUALS - MISCELLANEOUS
+### VISUALS - EQUIPMENT AND ITEMS
 
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
-- Distant Mournhold
 - Imperial Steel Cuirass With Belt
-- Well Diversified
+- Improved Thrown Weapon Projectiles
+- Weapon Sheathing
+- Weapon Sheathing - Bow Position Edit
+- Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
+
+### VISUALS - NPCS
+
+- Transporter Lights
+- Yet Another Guard Diversity - Regular
+
+### VISUALS - VISUAL EFFECTS
+
+- Apel's Rain Replacer
+- Creature VFX Restoration
+- Enlightened Flames
+- Glow in the Dahrk
+- Project Atlas - Glow in the Dahrk Patch
+- Light Decay
+- Mist Retexture
+- MWSE Blood Diversity
+- Pincushion
+- Subtle Magic Glow
+- Subtle Smoke
+- Visually Filled Soul Gems
+
+### VISUALS - WEATHER AND LIGHTING
+
+- Let There Be Darkness - Lua Lighting Overhaul
+- Weather Adjuster
 
 ### AUDIO
 
+- Greet Distance Reducer
 - Great Service
 - Idle Talk
 - Its a Deal
-- Greet Distance Reducer
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
@@ -236,17 +242,17 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Expansion Delay.ESP
 - Better_Typography_Bookarts_Fix.ESP
-- PB_SignpostsRetextured.ESP (or if you desire, NearVanillaRoadSigns.ESP)
+- Waterfalls Tweaks.ESP
+- Mournhold LOD.ESP
+- NearVanillaRoadSigns.ESP
+- Well Diversified.ESP
+- Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
-- Waterfalls Tweaks.ESP
-- Complete Armor Joints.ESP
-- Mournhold LOD.ESP
-- Well Diversified.ESP
+- hw_GreetDistanceReducer.ESP
 - Great Service.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
-- hw_GreetDistanceReducer.ESP
 - Outdoor Banners With Sound.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Arrows Integrated.ESP
