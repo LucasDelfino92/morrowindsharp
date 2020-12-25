@@ -5,7 +5,7 @@
 
 ## December 25th
 
-"Try to avoid adding original content" was a big drive behind this update. Thus the large culling.
+"Try to avoid adding original content" was a big drive behind this update, along with removing most visual effect mods that added new things instead of improving on existing aspects of the game. Thus the large culling.
 
 - Visuals: removed Bitter Coast Sounds - UMOPP Version.
 - Visuals: removed Flies.
