@@ -23,6 +23,7 @@
 - Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
 - Visuals: removed Soldier Belts Fix.
 - Visuals: removed Signposts Retextured (replaced with Near Vanilla Road Signs).
+- Visuals: added Silt Strider Redone.
 - Visual: yet another massive shuffling. This one should be the last.
 - Dialogue: removed FMI - Legion Dialogue.
 - Dialogue: removed FMI - Nice to Meet You.
@@ -32,6 +33,7 @@
 - Dialogue: removed Outfit Greetings Tweaked.
 - Dialogue: removed Simple Smith Dialogue.
 - Audio: merged the remaining dialogue mods into this section (which consisted of new audio lines).
+- Audio: added No Female Nord Screeching.
 - Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Gameplay: removed One-handed Adamantium Axe.
 
