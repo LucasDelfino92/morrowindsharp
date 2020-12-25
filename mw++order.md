@@ -118,6 +118,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Near Vanilla Road Sign Replacer
 - Remiros' Groundcover
 - Remiros' Groundcover Shaders - Landbias Fix
+- Silt Strider Redone
 - Vivec Palace Water Replacer
 - Well Diversified
 
@@ -163,6 +164,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Great Service
 - Idle Talk
 - Its a Deal
+- No Female Nord Screeching
 - Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
