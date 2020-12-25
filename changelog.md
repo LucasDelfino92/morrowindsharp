@@ -22,6 +22,7 @@
 - Visuals: removed Nordic Chest Replacer.
 - Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
 - Visuals: removed Soldier Belts Fix.
+- Visual: yet another massive shuffling. This one should be the last.
 - Dialogue: removed FMI - Legion Dialogue.
 - Dialogue: removed FMI - Nice to Meet You.
 - Dialogue: removed FMI - NotAllDunmer.
