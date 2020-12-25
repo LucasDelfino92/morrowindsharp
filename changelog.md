@@ -20,6 +20,7 @@
 - Dialogue: removed LDM - Context Matters.
 - Dialogue: removed Outfit Greetings Tweaked.
 - Dialogue: removed Simple Smith Dialogue.
+- Audio: merged the remaining dialogue mods into this section (which consisted of new audio lines).
 - Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Gameplay: removed One-handed Adamantium Axe.
 
