@@ -307,21 +307,11 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
   - Only install the **Bitter Coast Scum Replacer** main file.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 Animated Replacer - Greener Color** and click **OK**.
-- [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip) by PikachunoTM  
-Adds ambient noise and dragonflies all over the Bitter Coast region.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
 - [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/) by R-Zero and Greatness7  
 Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
   - MO2 will install this mod as a BAIN package. Tick **00 Core - Vertical System** and **01 Enlightened Flames** and click **OK**.
-- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
-Adds a visual effect to all vanilla flies sound emitters.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - Known issues: you may be able to find flies underwater, since the vanilla game already has instances where the "flies" sound runs underwater.
-- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
-Adds a heat haze shader controller by MGE XE and MWSE-lua.
-  - This mod requires you to register its new shader in MGE XE. Follow the instructions on the mod's page.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you there's no game data on top level. 
@@ -329,31 +319,15 @@ Makes thrown weapon projectiles fly pointy end forward and, some of them, spin i
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
-- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
-Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Vanilla Mist Replacer** and click **OK**.
 - [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril21  
 Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 R-Zero's Textures** and click **OK**.
   - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
-- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?) by Melchior Dahrk and Verious  
-Adds falling spores particle effects to the iconic emperor parasol mushrooms. Uses Project Atlas' performance friendly atlased textures.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Project Atlas** and click **OK**.
-- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and vtastek  
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. 
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - This mod requires you to register its new shader in MGE XE. Follow the instructions on the mod's page.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
-To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
-- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?) by Melchior Dahrk and Greatness7  
-Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Default Dust** and click **OK**.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
