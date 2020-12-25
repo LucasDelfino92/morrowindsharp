@@ -5,9 +5,23 @@
 
 ## December 25th
 
-- Visuals: removed Practical Pauldrons - Streamlined Shoulders (some changes look good but many others do not, plus I'd rather respect the original designs).
-- Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch (this was the only mod in the guide which added entirely new equipment into the game).
-- Gameplay: removed One-handed Adamantium Axe (a major nitpick to add to a guide).
+"Try to avoid adding original content" was a big drive behind this update. Thus the large culling.
+
+- Visuals: re-removed Buoyant Lord Vivec.
+- Visuals: re-removed Golden Saint Feminine Walk.
+- Visuals: removed Improved Nordic Iron Helm Mesh.
+- Visuals: removed Nordic Chest Replacer.
+- Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
+- Visuals: removed Soldier Belts Fix.
+- Dialogue: removed FMI - Legion Dialogue.
+- Dialogue: removed FMI - Nice to Meet You.
+- Dialogue: removed FMI - NotAllDunmer.
+- Dialogue: removed Greetings for No Lore.
+- Dialogue: removed LDM - Context Matters.
+- Dialogue: removed Outfit Greetings Tweaked.
+- Dialogue: removed Simple Smith Dialogue.
+- Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
+- Gameplay: removed One-handed Adamantium Axe.
 
 ## December 24th
 
@@ -254,7 +268,12 @@ Removed:
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
+- [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/)
+- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
@@ -263,6 +282,15 @@ Removed:
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318)
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329)
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)
+- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?)
+- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
@@ -284,9 +312,6 @@ Removed:
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226)
 - [**Seven Graces Shrines - Enhanced**](https://www.nexusmods.com/morrowind/mods/46417)
-- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)
-- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)
-- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
 
 ## Legacy: Quests
 
