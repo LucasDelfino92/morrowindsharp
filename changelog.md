@@ -7,8 +7,16 @@
 
 "Try to avoid adding original content" was a big drive behind this update. Thus the large culling.
 
-- Visuals: re-removed Buoyant Lord Vivec.
-- Visuals: re-removed Golden Saint Feminine Walk.
+- Visuals: removed Bitter Coast Sounds - UMOPP Version.
+- Visuals: removed Flies.
+- Visuals: removed Heat Haze.
+- Visuals: removed Mistify.
+- Visuals: removed Perfectly Proficient Parasol Particles Performance Patch.
+- Visuals: removed Shattered Stones - An Earthquake Mod.
+- Visuals: removed The Dream is the Door.
+- Visuals: removed Unto Dust.
+- Visuals: removed Buoyant Lord Vivec.
+- Visuals: removed Golden Saint Feminine Walk.
 - Visuals: removed Improved Nordic Iron Helm Mesh.
 - Visuals: removed Nordic Chest Replacer.
 - Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
@@ -269,6 +277,14 @@ Removed:
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
+- [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip)
+- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
+- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
+- [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?)
+- [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)
+- [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?)
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703/)
 - [**Imperial Female Cuirass Retexure**](https://www.nexusmods.com/morrowind/mods/47781?)
