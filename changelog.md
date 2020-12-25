@@ -22,6 +22,7 @@
 - Visuals: removed Nordic Chest Replacer.
 - Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
 - Visuals: removed Soldier Belts Fix.
+- Visuals: removed Signposts Retextured (replaced with Near Vanilla Road Signs).
 - Visual: yet another massive shuffling. This one should be the last.
 - Dialogue: removed FMI - Legion Dialogue.
 - Dialogue: removed FMI - Nice to Meet You.
@@ -263,6 +264,7 @@ Replaced:
 - [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808)
 - [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419)
+- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359)
 - [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
