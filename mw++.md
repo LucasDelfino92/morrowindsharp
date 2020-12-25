@@ -468,7 +468,7 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ## DIFFICULTY MODULE
 
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by half11
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by half11  
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
