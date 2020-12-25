@@ -260,6 +260,10 @@ Adds groundcover to almost all regions.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
   - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
   - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
+- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files) by Hater8  
+Atlased replacer for the Silt Strider, which also adds a neat canvas and lanterns to it.
+  - Only install the **Hater8's Silt Strider Redone** main file.
+  - MO2 will install this mod as a BAIN package. Only tick **H8 vanilla - High res textures** and click **OK**.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
@@ -369,6 +373,8 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
  Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 - [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
   - Only install the **Outdoor Banners With Sound** main file.
