@@ -346,8 +346,6 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 - [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
 Adds the missing belt to the male Imperial Steel Cuirass mesh.
-- [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
-Overhauls the appearance of the failed incarnates to use their equipment.
 - [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
   - This mod is incorrectly packaged.
