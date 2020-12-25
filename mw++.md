@@ -253,6 +253,7 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
+  - MO2 will install the mod as a BAIN package. Only tick **00 Core** and **01 Vvardenfell only** and click **OK**.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Only install the **Remiros' Groundcover** main file.
