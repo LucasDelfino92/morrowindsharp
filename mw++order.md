@@ -145,7 +145,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Enlightened Flames
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
-- Light Decay
 - Mist Retexture
 - MWSE Blood Diversity
 - Pincushion
@@ -183,6 +182,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Enchant Capacity Rebalance
 - Hold Your Breath
 - Improved Vanilla Leveling
+- Light Decay
 - Limited Leaping
 - Loading Doors Lock Tune
 - Lua Lockbashing
