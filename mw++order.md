@@ -211,7 +211,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Controlled Consumption
 - Harder Barter
-- Harder Taunting
 - No Disease Labels
 - No Rest Without Beds
 - Ownership Overhaul
