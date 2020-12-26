@@ -370,8 +370,6 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 
 ### NPCS
 
-- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
@@ -420,6 +418,8 @@ Changes weather chances, including an increasing chance of blight throughout Vva
   - Only install the **Creeping Blight - MWSE Version** main file.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
