@@ -130,6 +130,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Loading Doors Lock Tune
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
+- Wading in Water MW
 
 ### AUDIO - QUALITY OF LIFE IMPROVEMENTS
 
@@ -186,31 +187,33 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Let There Be Darkness - Lua Lighting Overhaul
 - Weather Adjuster
 
-### GAMEPLAY
+### GAMEPLAY - TWEAKS
+
+- Improved Vanilla Leveling
+- Hold Your Breath
+- Magicka Based Skill Progression
+- Marksman Rebalanced
+- Putting Power In Willpower
+- Sneaky Strike
+- Wings of Will - Willpower Based Levitation Speed
+
+### GAMEPLAY - MECHANICS
 
 - Bed Buddies
 - Brutal Backstabbing
-- Hold Your Breath
-- Improved Vanilla Leveling
 - Light Decay
-- Limited Leaping
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
-- Magicka Based Skill Progression
-- Marksman Rebalanced
 - MWSE Magicka Regen
-- Putting Power In Willpower
-- Realistic Movement Speeds
-- Sneaky Strike
-- Wading in Water MW
-- Wings of Will - Willpower Based Levitation Speed
 
-### DIFFICULTY
+### GAMEPLAY - BALANCE
 
 - Controlled Consumption
 - Harder Barter
+- Limited Leaping
 - No Disease Labels
 - No Rest Without Beds
+- Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
