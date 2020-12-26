@@ -40,6 +40,7 @@
 - Gameplay: removed Smarter Soultrap.
 - Gameplay: removed Supply Chests Merged.
 - Gameplay: moved Realistic Movement Speed to this section.
+- Gameplay: added additional instructions for Putting Power in Willpower.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Harder Taunting.
 - Difficulty: removed Reactive Resistance.
