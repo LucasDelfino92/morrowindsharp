@@ -5,7 +5,8 @@
 
 ## December 25th Hot Update
 
-- Audio: removed Outdoor Banners With Sounds.
+- Audio: removed Outdoor Banners With Sounds (barely noticeable).
+- Gameplay: moved Light Decay to this section (makes more sense, since it affects how indoors exploration plays out).
 
 ## December 25th
 
