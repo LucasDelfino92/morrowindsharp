@@ -36,7 +36,7 @@ At the end of Morrowind++ you will find a link to the [**mod order and load orde
 
 ### How many plugins and mods are there?
 
-Morrowind++ consists of roughly 150 mods and 50 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you. Very, very few mods depend on others to work as intended. Those that do are clearly pointed out in the guide. Working on this mod list, it was very important for me to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
+Morrowind++ consists of roughly 135 mods and 45 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you. Very, very few mods depend on others to work as intended. Those that do are clearly pointed out in the guide. Working on this mod list, it was very important for me to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
 ### How much space do I need to install these mods?
 
