@@ -64,7 +64,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - FMI - NotAllDunmer
 - LDM - Context Matters
 - Religions Elaborated - No Quest Changes
-- Supply Chests Merged
 - Services Restored
 - Temples with Shrines
 - The Publicans
@@ -247,7 +246,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - FMI_#NotAllDunmer.ESP
 - LDM - Context Matters.ESP
 - Religions Elaborated.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Services Restored.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
