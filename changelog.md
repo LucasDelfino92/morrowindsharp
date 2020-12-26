@@ -5,49 +5,31 @@
 
 ## December 26th
 
-- Core: moved all remaining Audio mods to the Quality of Life Improvements section (since they only addressed audio annoyances).
-- Core: removed Visible Persuasion Chance.
-- Core: new section, Continuity Fixes.
-  - Moved Blighted Blight to this section.
-  - Moved Blighted Mine Means Blighted Workers to this section.
-  - Moved Diseases Restored to this section.
-  - Moved Divayth Fyr Puzzle Fixed to this section.
-  - Moved Dubdilla Location Fix to this section.
-  - Moved FMI - Legion Dialogue to this section.
-  - Moved FMI - Nice to Meet You to this section.
-  - Moved FMI - NotAllDunmer to this section.
-  - Moved LDM - Context Matters to this section.
-  - Moved Religions Elaborated to this section. Added additional TESAME instructions.
-  - Moved Services Restored to this section (per continuity with the Morrowind Prophecies strategy guide).
-  - Moved Temples with Shrines to this section.
-  - Moved The Publicans to this section.
-- Core: moved Early Transport to Mournhold to Expansion Delay section.
-- QOL Improvements: new module. Most mods from Core were moved to this section.
-- Visuals: removed Silt Strider Redone.
-- Visuals: removed Enlightened Flames.
-- Visuals: moved Creeping Blight to this section.
-- Audio: removed Idle Talk.
-- Audio: removed Its a Deal.
-- Audio: renamed to Dialogue.
-- Dialogue: re-added FMI - Legion Dialogue.
-- Dialogue: re-added  FMI - Nice to Meet You.
-- Dialogue: re-added  FMI - NotAllDunmer.
-- Dialogue: re-added  LDM - Context Matters.
-- Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
-- Gameplay: removed Area Effect Arrows Integrated.
-- Gameplay: removed Always There Spell Breaker.
-- Gameplay: removed Borrowed Time.
-- Gameplay: removed Enchant Capacity Rebalance.
-- Gameplay: removed MWSE State-Based Health.
-- Gameplay: removed Smarter Soultrap.
-- Gameplay: removed Supply Chests Merged.
-- Gameplay: moved Realistic Movement Speed to this section.
-- Gameplay: added additional instructions for Putting Power in Willpower.
-- Difficulty: removed Blight is Coming.
-- Difficulty: removed Harder Taunting.
-- Difficulty: removed Reactive Resistance.
-- Difficulty: removed Realistic Repair.
-- Difficulty: removed Service Requirements Lore.
+- Massive shuffling of mods overall. Too many to accurately list.
+- Religions Elaborated: added additional TESAME instructions.
+- Putting Power in Willpower: added additional instructions.
+- Added FMI - Legion Dialogue.
+- Added FMI - Nice to Meet You.
+- Added FMI - NotAllDunmer.
+- Added LDM - Context Matters.
+- Removed Visible Persuasion Chance.
+- Removed Silt Strider Redone.
+- Removed Enlightened Flames.
+- Removed Idle Talk.
+- Removed Its a Deal.
+- Removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
+- Removed Area Effect Arrows Integrated.
+- Removed Always There Spell Breaker.
+- Removed Borrowed Time.
+- Removed Enchant Capacity Rebalance.
+- Removed MWSE State-Based Health.
+- Removed Smarter Soultrap.
+- Removed Supply Chests Merged.
+- Removed Blight is Coming.
+- Removed Harder Taunting.
+- Removed Reactive Resistance.
+- Removed Realistic Repair.
+- Removed Service Requirements Lore.
 
 ## December 25th Hot Update
 
