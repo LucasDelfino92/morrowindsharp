@@ -211,11 +211,6 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
 Let's you keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
-- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
-Adds a clock to UI that displays either game world time or real time (depending on settings).
-- [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
-Renames keys so they'll have a consistent naming scheme.
-  - Only install the **Consistent Keys - MWSE Version** main file.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
@@ -236,8 +231,6 @@ Automatically switches between the local and world map depending on user configu
 Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
-- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
-Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
 
 ### CONTROLS
 
@@ -492,17 +485,9 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable **Ownership Overhaul.ESP**
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
-- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?) by autumn  
-230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier and more varied.
-  - Hide/disable **MDMD - Bosses Only.ESP**
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
-  - Hide/disable **There Can Be Only One (Alt Fyr).ESP** and **There Can Be Only One (Alt Fyr 2).ESP**.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - NPC **divayth fyr**
-  - Save the plugin as **There Can Be Only One.ESP**, overwriting the original when asked.
-  - This omits the changes to Divayth Fyr, so he retains his iconic Daedric Armor (which can be looted).
-- Also install [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/792185861021761546/There_Can_Be_Only_One__MDMD_Patch_Lootable_Daedric_Armor.zip) if you installed MDMD - More Deadly Morrowind Denizens earlier.
+  - Hide/disable **There Can Be Only One.ESP** and **There Can Be Only One (Alt Fyr 2).ESP**.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
@@ -592,10 +577,6 @@ The following mods require additional configuration through the in-game **Mod Co
 **abot's Smart Journal**
 - Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
-
-**Clock Block**
-- (Optional) Set **Clock type** to Game time.
-- (Optional) Set **Clock position** to Bottom.
 
 **Continue**
 - (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
