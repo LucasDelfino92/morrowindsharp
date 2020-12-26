@@ -189,7 +189,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### GAMEPLAY
 
 - Bed Buddies
-- Borrowed Time
 - Brutal Backstabbing
 - Hold Your Breath
 - Improved Vanilla Leveling
