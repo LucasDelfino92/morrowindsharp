@@ -191,7 +191,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Bed Buddies
 - Borrowed Time
 - Brutal Backstabbing
-- Enchant Capacity Rebalance
 - Hold Your Breath
 - Improved Vanilla Leveling
 - Light Decay
