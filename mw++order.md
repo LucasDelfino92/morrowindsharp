@@ -206,9 +206,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Harder Taunting
 - No Disease Labels
 - No Rest Without Beds
-- Reactive Resistance
 - Realistic Movement Speeds
-- Realistic Repair
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
