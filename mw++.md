@@ -158,17 +158,13 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
     - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**. 
     - Drag the three .tag files into the **splash** folder and click **OK**.
 
-### QUALITY OF LIFE IMPROVEMENTS
+### USER INTERFACE QUALITY OF LIFE IMPROVEMENTS
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
   - Note that though the author suggests enabling Healthy Appetite in the Morrowind Code Patch, I suggest playing without it as it is a notoriously OP feature.
-- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
-Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
-Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
 Let's you keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 - [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
@@ -178,6 +174,53 @@ Renames keys so they'll have a consistent naming scheme.
   - Only install the **Consistent Keys - MWSE Version** main file.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
+- [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
+Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
+- [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
+Adds a confirmation popup when you click on New Game in the main menu.
+- [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
+Adds tooltips with the effect's name to shrines when hovering over the different options.
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
+- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
+Adds several new options for the journal and quest pages.
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
+Automatically switches between the local and world map depending on user configuration.
+  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
+- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
+Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
+- [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
+Expands UI functionality with searching, filtering, and more visual feedback.
+- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
+
+### CONTROLS QUALITY OF LIFE IMPROVEMENTS
+
+- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
+Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
+- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
+Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
+- [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
+Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
+- [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
+Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
+- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+Exit any menu by right clicking (or whatever your menu key is mapped to).
+- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+- [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
+Lets you open or close any book or scroll in the game.
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Closed Book Icons** and click **OK**.
+- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
+Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
+
+### GAMEPLAY QUALITY OF LIFE IMPROVEMENTS
+
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
 Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
   - MO2 will tell you there's no game data on top level. 
@@ -193,55 +236,21 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
 Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
-Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
-- [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
-Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-- [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-- [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
-Adds a confirmation popup when you click on New Game in the main menu.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
-- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
-Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
-- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
-Exit any menu by right clicking (or whatever your menu key is mapped to).
-- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+### AUDIO QUALITY OF LIFE IMPROVEMENTS
+
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
-- [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
-Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
-- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
-Adds several new options for the journal and quest pages.
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
-Automatically switches between the local and world map depending on user configuration.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
-Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
-- [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
-Lets you open or close any book or scroll in the game.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Closed Book Icons** and click **OK**.
-- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
-Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-- [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
-Expands UI functionality with searching, filtering, and more visual feedback.
-- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
-Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
 
 ## VISUALS MODULE
 
