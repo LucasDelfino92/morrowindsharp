@@ -39,6 +39,7 @@
 - Gameplay: removed Always There Spell Breaker.
 - Gameplay: removed MWSE State-Based Health.
 - Gameplay: removed Smarter Soultrap.
+- Gameplay: moved Realistic Movement Speed to this section.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Reactive Resistance.
 - Difficulty: removed Realistic Repair.
