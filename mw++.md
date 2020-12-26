@@ -442,8 +442,6 @@ Takes into account the distance to target when calculating the hit chance for ra
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-- [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133) by Necrolesian  
-Health is now calculated based on current strength, endurance and level. 
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
@@ -602,7 +600,6 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Improved Vanilla Leveling**
 - Enable **Enhanced Tooltip**. This option assumes you haven't installed the "Level-up skills tooltip" patch in the Morrowind Code Patch.
-- Disable **Retroactive Health Activation** for compatibility with MWSE State-Based Health.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to NONE.
@@ -624,8 +621,7 @@ The following mods require additional configuration through the in-game **Mod Co
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
-**UI Expansion**
-
+**UI Expansion**  
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
 
 - Set **Auto-select search bar** to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
