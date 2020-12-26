@@ -18,8 +18,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD + Adamantium Armor Integrated Patch.ESP
-- There Can Be Only One (Alt Fyr 2).ESP
+- There Can Be Only One.ESP
 - There Can Be Only One + MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
@@ -106,8 +105,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Switchable Scriptures
 - Torch Hotkey
 - UI Expansion
-- Visible Alchemy Success Chance
-- Visible Persuasion Chance
 
 ### VISUALS - ENVIRONMENT
 
@@ -118,7 +115,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Near Vanilla Road Sign Replacer
 - Remiros' Groundcover
 - Remiros' Groundcover Shaders - Landbias Fix
-- Silt Strider Redone
 - Vivec Palace Water Replacer
 - Well Diversified
 
@@ -142,7 +138,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Apel's Rain Replacer
 - Creature VFX Restoration
-- Enlightened Flames
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Mist Retexture
@@ -161,17 +156,12 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Greet Distance Reducer
 - Great Service
-- Idle Talk
-- Its a Deal
 - No Female Nord Screeching
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
 
 ### GAMEPLAY
 
-- Adamantium Armor Integrated
-- Area Effect Arrows Integrated
-- Always There Spell Breaker
 - Bed Buddies
 - Blighted Mine Means Blighted Workers
 - Borrowed Time
@@ -195,16 +185,16 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Religions Elaborated - No Quest Changes
 - Supply Chests Merged
 - Services Restored
-- Smarter Soultrap
 - Sneaky Strike
 - Temples with Shrines
 - The Publicans
+- Visible Alchemy Success Chance
+- Visible Persuasion Chance
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
 ### DIFFICULTY
 
-- Blight is Coming
 - Blighted Blight
 - Creeping Blight
 - Controlled Consumption
@@ -216,11 +206,9 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Reactive Resistance
 - Realistic Movement Speeds
 - Realistic Repair
-- Service Requirements Lore
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
-- MDMD + Adamantium Armor Integrated Patch
 - There Can Be Only One
 - There Can Be Only One + MDMD Patch
 - Beware the Sixth House (Sixth House Overhaul)
@@ -252,11 +240,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - GITD_WL_RR_Interiors.ESP
 - hw_GreetDistanceReducer.ESP
 - Great Service.ESP
-- Idle Talk.ESP
-- Its a deal.ESP
-- Adamantium Armor Integrated.ESP
-- Area Effect Arrows Integrated.ESP
-- Always there Spell Breaker.ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
@@ -268,14 +251,11 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Services Restored.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
-- Blight is Coming.ESP
 - Diseases Restored.ESP
-- Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD + Adamantium Armor Integrated Patch.ESP
-- There Can Be Only One (Alt Fyr).ESP
+- There Can Be Only One.ESP
 - There Can Be Only One + MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
