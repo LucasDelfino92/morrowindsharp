@@ -513,7 +513,7 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide/disable **There Can Be Only One.ESP** and **There Can Be Only One (Alt Fyr 2).ESP**.
-  - Also install [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788905669973114911/There_Can_Be_Only_One__MDMD_Patch.zip) if you installed MDMD - More Deadly Morrowind Denizens earlier.
+  - Also install [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/792183011013165136/There_Can_Be_Only_One__MDMD_Patch_Divayth_Fyr_1.zip) if you installed MDMD - More Deadly Morrowind Denizens earlier.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
