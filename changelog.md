@@ -9,10 +9,14 @@
 - Massive culling of changelog.
 - Religions Elaborated: added TESAME instructions.
 - Putting Power in Willpower: added instructions to hide the .ESP.
+- There Can Be Only One: modified installation instructions (now recommends the Alt Fyr plugin).
 - Added FMI - Legion Dialogue.
 - Added FMI - Nice to Meet You.
 - Added FMI - NotAllDunmer.
 - Added LDM - Context Matters.
+- Removed Clock Block.
+- Removed Consistent Keys.
+- Removed Visible Alchemy Success Chance.
 - Removed Visible Persuasion Chance.
 - Removed Silt Strider Redone.
 - Removed Enlightened Flames.
@@ -31,10 +35,10 @@
 - Removed Reactive Resistance.
 - Removed Realistic Repair.
 - Removed Service Requirements Lore.
+- Removed MDMD - More Deadly Morrowind Citizens and There Can Be Only One + MDMD Patch.
 
 ## December 25th
 
-- There Can Be Only One: modified installation instructions (now recommends the standard plugin; we simply delete the Divayth Fyr changes later). MDMD Patch has been modified as a consequence.
 - Added No Female Nord Screeching.
 - Removed Bitter Coast Sounds - UMOPP Version.
 - Removed Flies.
@@ -101,8 +105,11 @@ Removed:
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
 - **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
+- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)
+- [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
+- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608)
 - [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip)
@@ -165,6 +172,8 @@ Removed:
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
+- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?)
+- [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/792185861021761546/There_Can_Be_Only_One__MDMD_Patch_Lootable_Daedric_Armor.zip)
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)
