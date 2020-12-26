@@ -13,6 +13,8 @@
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
 - Gameplay: removed Smarter Soultrap.
+- Gameplay: moved Visible Alchemy Success Chance to this section.
+- Gameplay: moved Visible Persuasion Chance to this section.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Service Requirements Lore.
 
