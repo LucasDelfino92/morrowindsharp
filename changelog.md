@@ -3,6 +3,10 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 25th Hot Update
+
+- Audio: removed Outdoor Banners With Sounds.
+
 ## December 25th
 
 "Try to avoid adding original content" was a big drive behind this update, along with removing most visual effect mods that added new things instead of improving on existing aspects of the game. Thus the large culling.
@@ -309,13 +313,9 @@ Removed:
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318)
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329)
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)
+- [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?)
-- [**Simple Smith Dialogue**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
