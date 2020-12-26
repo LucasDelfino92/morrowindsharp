@@ -410,6 +410,9 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 ### WEATHER AND LIGHTING
 
+- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+  - Only install the **Creeping Blight - MWSE Version** main file.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
@@ -470,9 +473,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
-- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-  - Only install the **Creeping Blight - MWSE Version** main file.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
