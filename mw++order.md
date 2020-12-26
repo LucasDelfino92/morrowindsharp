@@ -165,7 +165,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Idle Talk
 - Its a Deal
 - No Female Nord Screeching
-- Outdoor Banners With Sound
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
 
@@ -255,7 +254,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Great Service.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
-- Outdoor Banners With Sound.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Arrows Integrated.ESP
 - Always there Spell Breaker.ESP
