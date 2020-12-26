@@ -165,6 +165,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### VISUALS - NPCS
 
+- Creeping Blight
 - Transporter Lights
 - Yet Another Guard Diversity - Regular
 
@@ -208,7 +209,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### DIFFICULTY
 
-- Creeping Blight
 - Controlled Consumption
 - Harder Barter
 - Harder Taunting
