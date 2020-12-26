@@ -277,7 +277,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD + Adamantium Armor Integrated Patch.ESP
-- There Can Be Only One (Alt Fyr 2).ESP
+- There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One + MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
