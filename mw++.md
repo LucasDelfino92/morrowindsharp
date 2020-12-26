@@ -13,6 +13,7 @@
   - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
   - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#bug-fixes-and-optimization)
+  - [Continuity fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#continuity-fixes)
   - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-delay)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
@@ -118,13 +119,6 @@ Makes the game treat skill increases from quests as if there were raised via nor
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-### EXPANSION DELAY
-
-- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
-Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
 ### CONTINUITY FIXES
 
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
@@ -145,6 +139,13 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+### EXPANSION DELAY
+
+- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
+Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ### HIGH RESOLUTION TEXTURES
 
