@@ -36,6 +36,7 @@
 - Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
+- Gameplay: removed Borrowed Time.
 - Gameplay: removed Enchant Capacity Rebalance.
 - Gameplay: removed MWSE State-Based Health.
 - Gameplay: removed Smarter Soultrap.
@@ -373,6 +374,7 @@ Removed:
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
 - [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
+- [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)
 - [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 - [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106)
