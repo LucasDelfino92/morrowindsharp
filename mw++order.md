@@ -16,10 +16,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 Load the following sequence of plugins at the very end of your load order to prevent other mods from overwriting their changes:
 
 - Morrowind Anti-Cheese.ESP
-- MDMD - More Deadly Morrowind Denizens.ESP
-- MDMD - Creatures Add-On.ESP
-- There Can Be Only One.ESP
-- There Can Be Only One + MDMD Patch.ESP
+- There Can Be Only One (Alt Fyr).ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -94,8 +91,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Alchemical Knowledge
 - Better Questlist
 - Book Worm
-- Clock Block
-- Consistent Keys (MWSE Version)
 - Continue
 - HUD Weapon Charge
 - New Game Confirmation
@@ -105,11 +100,9 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Smart Map
 - MWSEabotlib
 - UI Expansion
-- Visible Alchemy Success Chance
 
 ### CONTROLS - QUALITY OF LIFE IMPROVEMENTS
 
-- Better Buoyancy
 - Book Pickup
 - Hotkeys Extended
 - Kill Command
@@ -190,6 +183,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### GAMEPLAY - TWEAKS
 
 - Improved Vanilla Leveling
+- Better Buoyancy
 - Hold Your Breath
 - Magicka Based Skill Progression
 - Marksman Rebalanced
@@ -216,9 +210,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- MDMD - More Deadly Morrowind Denizens
-- There Can Be Only One
-- There Can Be Only One + MDMD Patch
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -263,10 +254,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - GITD_WL_RR_Interiors.ESP
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
-- MDMD - More Deadly Morrowind Denizens.ESP
-- MDMD - Creatures Add-On.ESP
-- There Can Be Only One.ESP
-- There Can Be Only One + MDMD Patch.ESP
+- There Can Be Only One (Alt Fyr).ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
