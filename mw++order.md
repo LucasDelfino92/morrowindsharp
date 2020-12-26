@@ -109,6 +109,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Switchable Scriptures
 - Torch Hotkey
 - UI Expansion
+- Visible Alchemy Success Chance
 
 ### VISUALS - ENVIRONMENT
 
@@ -192,8 +193,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Sneaky Strike
 - Temples with Shrines
 - The Publicans
-- Visible Alchemy Success Chance
-- Visible Persuasion Chance
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
