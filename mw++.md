@@ -16,12 +16,12 @@
   - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-delay)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
-  - [User interface quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#user-interface-quality-of-life-improvements)
-  - [Controls quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#controls-quality-of-life-improvements)
-  - [Gameplay quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-quality-of-life-improvements)
-  - [Audio quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-quality-of-life-improvements)
+- [QOL Improvements Module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#qol-improvements-module)
+  - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#user-interface)
+  - [Controls](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#controls)
+  - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay)
+  - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
-- [Dialogue module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Difficulty module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#difficulty-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
@@ -123,6 +123,27 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 
+### CONTINUITY FIXES
+
+- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
+If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
+- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+NPCs no longer will greet you as if they had just met you.
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
 ### HIGH RESOLUTION TEXTURES
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
@@ -161,7 +182,9 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
     - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**. 
     - Drag the three .tag files into the **splash** folder and click **OK**.
 
-### USER INTERFACE QUALITY OF LIFE IMPROVEMENTS
+## QOL IMPROVEMENTS MODULE
+
+### USER INTERFACE
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
@@ -198,7 +221,7 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 - [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
 Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
 
-### CONTROLS QUALITY OF LIFE IMPROVEMENTS
+### CONTROLS
 
 - [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
@@ -222,7 +245,7 @@ Lets you open or close any book or scroll in the game.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-### GAMEPLAY QUALITY OF LIFE IMPROVEMENTS
+### GAMEPLAY
 
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
 Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
@@ -239,13 +262,23 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
 Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - NPC **hecerinde**
+  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
+  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
 
-### AUDIO QUALITY OF LIFE IMPROVEMENTS
+### AUDIO
 
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
@@ -372,33 +405,14 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-## DIALOGUE MODULE
-
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
-Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
 ## GAMEPLAY MODULE
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
-If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by VitruvianGuar  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
@@ -412,8 +426,6 @@ Preserves vanilla leveling mechanics while eliminating the need to micromanage s
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
 Adds in lock-bashing from Daggerfall.
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
@@ -444,18 +456,8 @@ Adds supply chests to factions that previously lacked any. Merge of the [**Imper
   - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
     - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
     - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - NPC **hecerinde**
-  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
-  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
-- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
-Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
-- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
