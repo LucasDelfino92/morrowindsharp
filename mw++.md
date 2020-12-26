@@ -444,8 +444,6 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
 Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
-- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
-Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
@@ -628,9 +626,6 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - Set **Auto-select search bar** to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
-
-**Visible Persuasion Chance**
-- (Optional) Enable **Immersive Mode**.
 
 ### MOD KEYBINDINGS
 
