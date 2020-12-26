@@ -261,7 +261,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Lucky Strike.ESP
-- Putting Power in Willpower - Absorbonach.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
