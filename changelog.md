@@ -8,6 +8,7 @@
 - Core: moved all remaining Audio mods to the Quality of Life Improvements section (since they only addressed audio annoyances).
 - Core: removed Visible Persuasion Chance.
 - Core: new section, Continuity Fixes.
+  - Moved Blighted Blight to this section.
   - Moved Blighted Mine Means Blighted Workers to this section.
   - Moved Diseases Restored to this section.
   - Moved Divayth Fyr Puzzle Fixed to this section.
@@ -18,6 +19,7 @@
   - Moved LDM - Context Matters to this section.
   - Moved Religions Elaborated to this section.
   - Moved Supply Chests Merged to this section.
+  - Moved Services Restored to this section (per continuity with the Morrowind Prophecies strategy guide).
   - Moved Temples with Shrines to this section.
   - Moved The Publicans to this section.
 - Core: moved Early Transport to Mournhold to Expansion Delay section.
