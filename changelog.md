@@ -22,6 +22,7 @@
 - Gameplay: removed Smarter Soultrap.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Reactive Resistance.
+- Difficulty: removed Realistic Repair.
 - Difficulty: removed Service Requirements Lore.
 
 ## December 25th Hot Update
@@ -359,6 +360,8 @@ Removed:
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
+- [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)
+- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
 - [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/)
