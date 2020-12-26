@@ -17,8 +17,7 @@
   - Moved FMI - Nice to Meet You to this section.
   - Moved FMI - NotAllDunmer to this section.
   - Moved LDM - Context Matters to this section.
-  - Moved Religions Elaborated to this section.
-  - Moved Supply Chests Merged to this section.
+  - Moved Religions Elaborated to this section. Added additional TESAME instructions.
   - Moved Services Restored to this section (per continuity with the Morrowind Prophecies strategy guide).
   - Moved Temples with Shrines to this section.
   - Moved The Publicans to this section.
@@ -39,6 +38,7 @@
 - Gameplay: removed Always There Spell Breaker.
 - Gameplay: removed MWSE State-Based Health.
 - Gameplay: removed Smarter Soultrap.
+- Gameplay: removed Supply Chests Merged.
 - Gameplay: moved Realistic Movement Speed to this section.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Reactive Resistance.
@@ -386,6 +386,7 @@ Removed:
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
 - [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/)
+- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
