@@ -18,7 +18,7 @@
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
   - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#quality-of-life-improvements)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
-- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
+- [Dialogue module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Difficulty module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#difficulty-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
@@ -193,6 +193,8 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
 Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
@@ -205,6 +207,8 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
+- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
@@ -213,8 +217,12 @@ Holding down a hotkey (default left shift) while clicking an item in your invent
 Exit any menu by right clicking (or whatever your menu key is mapped to).
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
+Removes the sheep sounds from Morrowind.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
+- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
   - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
@@ -350,18 +358,18 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-## AUDIO MODULE
+## DIALOGUE MODULE
 
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
-Removes the sheep sounds from Morrowind.
-- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+NPCs no longer will greet you as if they had just met you.
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 ## GAMEPLAY MODULE
 
