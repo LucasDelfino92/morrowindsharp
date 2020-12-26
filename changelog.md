@@ -21,6 +21,7 @@
 - Gameplay: removed Always There Spell Breaker.
 - Gameplay: removed Smarter Soultrap.
 - Difficulty: removed Blight is Coming.
+- Difficulty: removed Reactive Resistance.
 - Difficulty: removed Service Requirements Lore.
 
 ## December 25th Hot Update
