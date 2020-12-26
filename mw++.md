@@ -135,6 +135,14 @@ NPCs no longer will greet you as if they had just met you.
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
+  - Only install the **No Quest Changes** optional file.
+- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
+Adds supply chests to factions that previously lacked any. Merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
+  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
+    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
+    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
@@ -447,14 +455,6 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
   - MO2 will tell you there's no game data on top level.
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
-Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
-  - Only install the **No Quest Changes** optional file.
-- [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file) by Gavrilo93 and CryptsOfTheDead  
-Adds supply chests to factions that previously lacked any. Merge of the [**Imperial Cult**](https://www.nexusmods.com/morrowind/mods/47836), [**Morag Tong**](https://www.nexusmods.com/morrowind/mods/47753), and [**Tribunal Temple**](https://www.nexusmods.com/morrowind/mods/47656) Supply Chest series, and [**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002).
-  - MO2 will install this mod as a BAIN package. Tick the corresponding options and click **OK**:
-    - **00 Complete**: only if you didn't install **Religions Elaborated** earlier.
-    - **02 Religions Elaborated Compatible**: only if you installed **Religions Elaborated** earlier.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
