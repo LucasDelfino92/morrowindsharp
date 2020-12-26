@@ -88,16 +88,20 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
 - Graphic Herbalism Lighting
+- Greet Distance Reducer
 - Hotkeys Extended
 - HUD Weapon Charge
 - Kill Command
 - MWSE Hide the Skooma
 - New Game Confirmation
+- No Female Nord Screeching
 - Pluginless and Adjustable Lower First Person Sneak
 - Quick Equip
 - Right Click Menu Exit
 - Security Enhanced
+- Sheep-no-More
 - Shrine Tooltips
+- Shut the Fuck up Cliff Racers
 - Smart Ammo
 - Smart Journal
 - Smart Map
@@ -152,13 +156,13 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Let There Be Darkness - Lua Lighting Overhaul
 - Weather Adjuster
 
-### AUDIO
+### DIALOGUE
 
-- Greet Distance Reducer
 - Great Service
-- No Female Nord Screeching
-- Sheep-no-More
-- Shut the Fuck up Cliff Racers
+- FMI - Legion Dialogue.
+- FMI - Nice to Meet You.
+- FMI - NotAllDunmer.
+- LDM - Context Matters.
 
 ### GAMEPLAY
 
@@ -231,6 +235,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Expansion Delay.ESP
 - Better_Typography_Bookarts_Fix.ESP
+- hw_GreetDistanceReducer.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
 - NearVanillaRoadSigns.ESP
@@ -238,8 +243,11 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
-- hw_GreetDistanceReducer.ESP
 - Great Service.ESP
+- FMI_Legion_Dialogue.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- LDM - Context Matters.ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
