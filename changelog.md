@@ -7,6 +7,18 @@
 
 - Core: moved all remaining Audio mods to the Quality of Life Improvements section (since they only addressed audio annoyances).
 - Core: removed Visible Persuasion Chance.
+- Core: new section, Continuity Fixes.
+  - Moved Blighted Mine Means Blighted Workers to this section.
+  - Moved Divayth Fyr Puzzle Fixed to this section.
+  - Moved Dubdilla Location Fix to this section.
+  - Moved FMI - Legion Dialogue to this section.
+  - Moved FMI - Nice to Meet You to this section.
+  - Moved FMI - NotAllDunmer to this section.
+  - Moved LDM - Context Matters to this section.
+  - Moved Temples with Shrines to this section.
+  - Moved The Publicans to this section.
+- Core: moved Early Transport to Mournhold to Expansion Delay section.
+- QOL Improvements: new module. Most mods from Core were moved to this section.
 - Visuals: removed Silt Strider Redone.
 - Visuals: removed Enlightened Flames.
 - Audio: removed Idle Talk.
@@ -19,6 +31,7 @@
 - Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
+- Gameplay: removed MWSE State-Based Health.
 - Gameplay: removed Smarter Soultrap.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Reactive Resistance.
@@ -356,6 +369,7 @@ Removed:
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656)
 - [**Hunter's Mark + Area Effect Arrows Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/790365245289791488/Hunters_Mark__Area_Effect_Arrows_Integrated_Patch.zip)
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)
+- [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)
 - [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
