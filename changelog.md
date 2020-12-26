@@ -32,10 +32,6 @@
 - Removed Realistic Repair.
 - Removed Service Requirements Lore.
 
-## December 25th Hot Update
-
-- Removed Outdoor Banners With Sounds.
-
 ## December 25th
 
 - There Can Be Only One: modified installation instructions (now recommends the standard plugin; we simply delete the Divayth Fyr changes later). MDMD Patch has been modified as a consequence.
@@ -56,15 +52,13 @@
 - Removed Practical Pauldrons - Streamlined Shoulders.
 - Removed Soldier Belts Fix.
 - Removed Signposts Retextured (replaced with Near Vanilla Road Signs).
+- Removed Outdoor Banners With Sounds.
 - Removed Greetings for No Lore.
 - Removed Outfit Greetings Tweaked.
 - Removed Simple Smith Dialogue.
 - Removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Removed One-handed Adamantium Axe.
-
-## December 24th
-
-- Gameplay: removed Speed and Movement Rebalanced (unless you specifically try to make a character with high Speed and Athletics, you are going to hate this mod).
+- Removed Speed and Movement Rebalanced (unless you specifically try to make a character with high Speed and Athletics, you are going to hate this mod).
 
 ## December 20th
 
