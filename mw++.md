@@ -289,6 +289,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
     - NPC **hecerinde**
   - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
   - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
+- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
 ### AUDIO
 
@@ -443,12 +445,8 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
   - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**.
-- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
-Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
-- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
@@ -484,6 +482,8 @@ Puts optional restrictions on jumping, including a cooldown and/or minimum fatig
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
+- [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
+Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
