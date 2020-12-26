@@ -480,8 +480,6 @@ Provides a configurable restriction on the amount of potions the player can drin
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106) by Sephumbra  
-Failing at taunting will now reduce an npcs will to fight instead of doing nothing. Prevents low skilled players from successfully provoking an enemy into a fight.
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
