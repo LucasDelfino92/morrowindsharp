@@ -165,8 +165,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### VISUALS - NPCS
 
-- Creeping Blight
-- Transporter Lights
 - Yet Another Guard Diversity - Regular
 
 ### VISUALS - VISUAL EFFECTS
@@ -184,7 +182,9 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### VISUALS - WEATHER AND LIGHTING
 
+- Creeping Blight
 - Let There Be Darkness - Lua Lighting Overhaul
+- Transporter Lights
 - Weather Adjuster
 
 ### GAMEPLAY - TWEAKS
