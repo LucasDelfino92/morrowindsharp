@@ -604,9 +604,6 @@ The following mods require additional configuration through the in-game **Mod Co
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
 
-**Realistic Repair**
-- Disable **Enable Realistic Repair**. This will remove the functionality of requiring anvils and forges to repair your equipment.
-
 **Security Enhanced**
 - Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
