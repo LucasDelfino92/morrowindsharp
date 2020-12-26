@@ -36,6 +36,7 @@
 - Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
+- Gameplay: removed Enchant Capacity Rebalance.
 - Gameplay: removed MWSE State-Based Health.
 - Gameplay: removed Smarter Soultrap.
 - Gameplay: removed Supply Chests Merged.
@@ -318,7 +319,6 @@ Replaced:
 - [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419)
 - [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)
 - [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359)
-- [**Projectile Enchant Capacity**](https://www.nexusmods.com/morrowind/mods/46685)
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
 - [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959)
 - [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
@@ -373,6 +373,7 @@ Removed:
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
 - [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
+- [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 - [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
