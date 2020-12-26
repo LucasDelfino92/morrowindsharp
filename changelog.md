@@ -3,6 +3,19 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 26th
+
+- Visuals: removed Silt Strider Redone.
+- Visuals: removed Enlightened Flames.
+- Audio: removed Idle Talk.
+- Audio: removed Its a Deal.
+- Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
+- Gameplay: removed Area Effect Arrows Integrated.
+- Gameplay: removed Always There Spell Breaker.
+- Gameplay: removed Smarter Soultrap.
+- Difficulty: removed Blight is Coming.
+- Difficulty: removed Service Requirements Lore.
+
 ## December 25th Hot Update
 
 - Audio: removed Outdoor Banners With Sounds (barely noticeable).
@@ -290,6 +303,7 @@ Removed:
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip)
+- [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
 - [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)
 - [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)
@@ -303,10 +317,13 @@ Removed:
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/)
 - [**Incarnates Overhauled**](http://www.mediafire.com/file/nko6w93tldzvt78/Incarnates+Overhauled+v1.0.zip/file)
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)
+- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files)
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?)
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523)
 - [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)
 - [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)
+- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968)
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)
@@ -319,6 +336,10 @@ Removed:
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?)
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
+- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)
+- [**MDMD + Adamantium Armor Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788796049778278430/MDMD__Adamantium_Armor_Integrated_Patch.zip)
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
+- [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
@@ -329,9 +350,11 @@ Removed:
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
-- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
+- [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/)
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
 - [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506)
 - [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)
 - [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)
