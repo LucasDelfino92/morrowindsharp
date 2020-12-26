@@ -84,21 +84,7 @@
 - Added There Can Be Only One.
 - Added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
 
-## Mods no longer in Morrowind++
-
-Replaced:
-
-- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558)
-- [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808)
-- [**Lower First Person Sneak Mode**](https://www.nexusmods.com/morrowind/mods/43108)
-- [**Realistic Blood v1.0**](http://mw.modhistory.com/download-50-10419)
-- [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)
-- [**Skeleton and Metal Sparks blood retexture**](https://www.nexusmods.com/morrowind/mods/43359)
-- [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857)
-- [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959)
-- [**Corprus Fix**](https://www.nexusmods.com/morrowind/mods/45544). Future Patch for Purists inclusion.
-
-Removed:
+## Removed mods
 
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
 - [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
@@ -180,21 +166,6 @@ Removed:
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226)
 - [**Seven Graces Shrines - Enhanced**](https://www.nexusmods.com/morrowind/mods/46417)
-
-## Legacy: Quests
-
-It is not the intention of this guide to mess with existing quests in any way or form. Neither it is my intention to add content in the way of new quests. However, I leave this section up for anyone interested in a handful of perfectly compatible mods that expand on the vanilla content in a lore-friendly and compatible manner with Morrowind++.
-
-- [**Blight at the Hairat-Vassamsi Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93  
-Allows you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.
-- [**Frostmoth Repaired**](https://www.nexusmods.com/morrowind/mods/27457?) by Talthybius  
-This plugin repairs the walls of Fort Frostmoth as the Bloodmoon main quest progresses.
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
-Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
-- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits.
-- [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Gavrilo93  
-Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
