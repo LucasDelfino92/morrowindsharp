@@ -52,9 +52,22 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
 
+### CORE - CONTINUITY FIXES
+
+- Blighted Mine Means Blighted Workers
+- Divayth Fyr Puzzle Fixed
+- Dubdilla Location Fix
+- FMI - Legion Dialogue
+- FMI - Nice to Meet You
+- FMI - NotAllDunmer
+- LDM - Context Matters
+- Temples with Shrines
+- The Publicans
+
 ### CORE - EXPANSION DELAY
 
 - Expansion Delay
+- Early Transport to Mournhold
 
 ### CORE - HIGH RESOLUTION TEXTURES
 
@@ -110,11 +123,13 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
 - Graphic Herbalism Lighting
+- Loading Doors Lock Tune
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
 
 ### AUDIO - QUALITY OF LIFE IMPROVEMENTS
 
+- Great Service
 - Greet Distance Reducer
 - No Female Nord Screeching
 - Sheep-no-More
@@ -166,29 +181,16 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Let There Be Darkness - Lua Lighting Overhaul
 - Weather Adjuster
 
-### DIALOGUE
-
-- Great Service
-- FMI - Legion Dialogue.
-- FMI - Nice to Meet You.
-- FMI - NotAllDunmer.
-- LDM - Context Matters.
-
 ### GAMEPLAY
 
 - Bed Buddies
-- Blighted Mine Means Blighted Workers
 - Borrowed Time
 - Brutal Backstabbing
-- Divayth Fyr Puzzle Fixed
-- Dubdilla Location Fix
-- Early Transport to Mournhold
 - Enchant Capacity Rebalance
 - Hold Your Breath
 - Improved Vanilla Leveling
 - Light Decay
 - Limited Leaping
-- Loading Doors Lock Tune
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - Magicka Based Skill Progression
@@ -200,8 +202,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Supply Chests Merged
 - Services Restored
 - Sneaky Strike
-- Temples with Shrines
-- The Publicans
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
@@ -239,8 +239,19 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+- Clean Blighted_Kwama_Workers.ESP
+- Divayth Fyr Puzzle Fixed.ESP
+- Dubdilla Location Fix.ESP
+- FMI_Legion_Dialogue.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- LDM - Context Matters.ESP
+- Temples With Shrines.ESP
+- The Publicans.ESP
 - Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
+- Great Service.ESP
 - hw_GreetDistanceReducer.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
@@ -249,22 +260,11 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
-- Great Service.ESP
-- FMI_Legion_Dialogue.ESP
-- FMI_Nice_to_Meet_You.ESP
-- FMI_#NotAllDunmer.ESP
-- LDM - Context Matters.ESP
-- Clean Blighted_Kwama_Workers.ESP
-- Divayth Fyr Puzzle Fixed.ESP
-- Dubdilla Location Fix.ESP
-- Early Transport to Mournhold.ESP
 - Lucky Strike.ESP
 - Putting Power in Willpower - Absorbonach.ESP
 - Religions Elaborated.ESP
 - Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
 - Services Restored.ESP
-- Temples With Shrines.ESP
-- The Publicans.ESP
 - Diseases Restored.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
