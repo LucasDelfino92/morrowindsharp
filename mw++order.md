@@ -239,12 +239,16 @@ This is a complete list of all plugins present in the guide, installed as if you
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Clean Blighted_Kwama_Workers.ESP
+- Diseases Restored.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - FMI_Legion_Dialogue.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - LDM - Context Matters.ESP
+- Religions Elaborated.ESP
+- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
+- Services Restored.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
 - Expansion Delay.ESP
@@ -261,10 +265,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - GITD_WL_RR_Interiors.ESP
 - Lucky Strike.ESP
 - Putting Power in Willpower - Absorbonach.ESP
-- Religions Elaborated.ESP
-- Supply Chests Merged.ESP OR Supply Chests Merged - Religions Elaborated Compatible.ESP
-- Services Restored.ESP
-- Diseases Restored.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
