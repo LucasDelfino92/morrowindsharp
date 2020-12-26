@@ -6,6 +6,7 @@
 ## December 26th
 
 - Core: moved all remaining Audio mods to the Quality of Life Improvements section (since they only addressed audio annoyances).
+- Core: removed Visible Persuasion Chance.
 - Visuals: removed Silt Strider Redone.
 - Visuals: removed Enlightened Flames.
 - Audio: removed Idle Talk.
@@ -19,8 +20,6 @@
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
 - Gameplay: removed Smarter Soultrap.
-- Gameplay: moved Visible Alchemy Success Chance to this section.
-- Gameplay: moved Visible Persuasion Chance to this section.
 - Difficulty: removed Blight is Coming.
 - Difficulty: removed Service Requirements Lore.
 
@@ -309,6 +308,7 @@ Removed:
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
+- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 - [**Bitter Coast Sounds - UMOPP Version**](https://cdn.discordapp.com/attachments/705627823104327680/788888827761655899/Bitter_Coast_Sounds_UMOPP_v3.1.0_Version.zip)
 - [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/)
