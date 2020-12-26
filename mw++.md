@@ -432,9 +432,6 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Disp
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
- Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
-  - MO2 will install this mod as a BAIN package. Tick **MWSE Version** and click **OK**.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
