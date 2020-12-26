@@ -54,13 +54,18 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### CORE - CONTINUITY FIXES
 
+- Blighted Blight
 - Blighted Mine Means Blighted Workers
+- Diseases Restored
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
 - FMI - Legion Dialogue
 - FMI - Nice to Meet You
 - FMI - NotAllDunmer
 - LDM - Context Matters
+- Religions Elaborated - No Quest Changes
+- Supply Chests Merged
+- Services Restored
 - Temples with Shrines
 - The Publicans
 
@@ -196,21 +201,15 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Magicka Based Skill Progression
 - Marksman Rebalanced
 - MWSE Magicka Regen
-- MWSE State-Based Health
 - Putting Power In Willpower
-- Religions Elaborated - No Quest Changes
-- Supply Chests Merged
-- Services Restored
 - Sneaky Strike
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
 ### DIFFICULTY
 
-- Blighted Blight
 - Creeping Blight
 - Controlled Consumption
-- Diseases Restored
 - Harder Barter
 - Harder Taunting
 - No Disease Labels
