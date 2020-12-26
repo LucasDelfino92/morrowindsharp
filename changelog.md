@@ -67,26 +67,23 @@
 
 ## December 20th
 
-- Setup: added images to MGE XE section to aid with the options.
-- Visuals: changed Bitter Coast Scum Replacer installation instructions (the recommended option is now Greener Color).
-- In-game configuration: changed MWSE Magicka Regen instructions (from 33% regeneration to 20%).
-- In-game configuration: added UI Expansion instructions.
+- Bitter Coast Scum Replacer: changed installation instructions (the recommended option is now Greener Color).
+- MWSE Magicka Regen: changed in-game configuration instructions (from 33% regeneration to 20%).
+- UI Expansion: added in-game configuration instructions in Finishing touches.
 
 ## December 18th
 
-- Setup: separated two distinct parts in MGE XE's installation instructions into their own sub-sections (installing shaders, launching MGE XE).
-- Morrowind++: added links to the Finishing touches sub-section in the index.
-- Core: updated Facelift installation instructions (no longer requires to download an update file).
-- Gameplay: added Improved Vanilla Leveling. **Refrain from installing this mod on an on-going playthrough**.
-- Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
-- Finising touches: added in-game configuration instructions for MWSE Magicka Regen.
+- Facelift: updated installation instructions (no longer requires to download an update file).
+- Magicka Based Skill Progression: added in-game configuration instructions in Finishing touches.
+- MWSE Magicka Regen: added in-game configuration instructions in Finishing touches.
+- Added Improved Vanilla Leveling. **Refrain from installing this mod on an on-going playthrough**.
 
 ## December 16th
 
-- Setup: updated MGE XE section with new shaders instructions.
-- Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
-- Difficulty: added There Can Be Only One.
-- Difficulty: added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
+- Updated MGE XE section with new shaders instructions.
+- Remiros' Groundcover: updated installation instructions with new shaders instructions.
+- Added There Can Be Only One.
+- Added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
 
 ## Mods no longer in Morrowind++
 
