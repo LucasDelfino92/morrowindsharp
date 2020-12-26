@@ -203,6 +203,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Marksman Rebalanced
 - MWSE Magicka Regen
 - Putting Power In Willpower
+- Realistic Movement Speeds
 - Sneaky Strike
 - Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
@@ -214,7 +215,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Harder Taunting
 - No Disease Labels
 - No Rest Without Beds
-- Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
