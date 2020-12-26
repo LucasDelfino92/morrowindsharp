@@ -121,6 +121,8 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 ### CONTINUITY FIXES
 
+- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
+Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
 If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
@@ -466,13 +468,11 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ## DIFFICULTY MODULE
 
-- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
-Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
+- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
+Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
   - Only install the **Creeping Blight - MWSE Version** main file.
-- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
-Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
