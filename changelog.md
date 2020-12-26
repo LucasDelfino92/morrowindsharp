@@ -36,6 +36,7 @@
 - Audio: added No Female Nord Screeching.
 - Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Gameplay: removed One-handed Adamantium Axe.
+- Difficulty: modified installation instructions for There Can Be Only One (now recommends the Divayth Fyr scripted Daedric Armor plugin). MDMD Patch has been modified as a consequence.
 
 ## December 24th
 
