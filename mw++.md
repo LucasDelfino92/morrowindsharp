@@ -470,15 +470,8 @@ Failing at taunting will now reduce an npcs will to fight instead of doing nothi
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
-Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
-When an NPC is killed, all their equipped gear is damaged to a configurable condition.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-  - Hide/disable **Realistic_Repair_Optional.ESP**. This will avoid adding the new forges and anvils to the game's major cities and settlements.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
