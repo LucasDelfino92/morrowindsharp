@@ -33,36 +33,33 @@
 
 ## December 25th Hot Update
 
-- Audio: removed Outdoor Banners With Sounds (barely noticeable).
-- Gameplay: moved Light Decay to this section (makes more sense, since it affects how indoors exploration plays out).
+- Removed Outdoor Banners With Sounds.
 
 ## December 25th
 
-"Try to avoid adding original content" was a big drive behind this update, along with removing most visual effect mods that added new things instead of improving on existing aspects of the game. Thus the large culling.
-
-- Visuals: removed Bitter Coast Sounds - UMOPP Version.
-- Visuals: removed Flies.
-- Visuals: removed Heat Haze.
-- Visuals: removed Mistify.
-- Visuals: removed Perfectly Proficient Parasol Particles Performance Patch.
-- Visuals: removed Shattered Stones - An Earthquake Mod.
-- Visuals: removed The Dream is the Door.
-- Visuals: removed Unto Dust.
-- Visuals: removed Buoyant Lord Vivec.
-- Visuals: removed Golden Saint Feminine Walk.
-- Visuals: removed Improved Nordic Iron Helm Mesh.
-- Visuals: removed Incarnates Overhauled.
-- Visuals: removed Nordic Chest Replacer.
-- Visuals: removed Practical Pauldrons - Streamlined Shoulders (seems like a very controversial mod).
-- Visuals: removed Soldier Belts Fix.
-- Visuals: removed Signposts Retextured (replaced with Near Vanilla Road Signs).
-- Dialogue: removed Greetings for No Lore.
-- Dialogue: removed Outfit Greetings Tweaked.
-- Dialogue: removed Simple Smith Dialogue.
-- Audio: added No Female Nord Screeching.
-- Gameplay: removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
-- Gameplay: removed One-handed Adamantium Axe.
-- Difficulty: modified installation instructions for There Can Be Only One (now recommends the standard plugin; we simply delete the Divayth Fyr changes later). MDMD Patch has been modified as a consequence.
+- There Can Be Only One: modified installation instructions (now recommends the standard plugin; we simply delete the Divayth Fyr changes later). MDMD Patch has been modified as a consequence.
+- Added No Female Nord Screeching.
+- Removed Bitter Coast Sounds - UMOPP Version.
+- Removed Flies.
+- Removed Heat Haze.
+- Removed Mistify.
+- Removed Perfectly Proficient Parasol Particles Performance Patch.
+- Removed Shattered Stones - An Earthquake Mod.
+- Removed The Dream is the Door.
+- Removed Unto Dust.
+- Removed Buoyant Lord Vivec.
+- Removed Golden Saint Feminine Walk.
+- Removed Improved Nordic Iron Helm Mesh.
+- Removed Incarnates Overhauled.
+- Removed Nordic Chest Replacer.
+- Removed Practical Pauldrons - Streamlined Shoulders.
+- Removed Soldier Belts Fix.
+- Removed Signposts Retextured (replaced with Near Vanilla Road Signs).
+- Removed Greetings for No Lore.
+- Removed Outfit Greetings Tweaked.
+- Removed Simple Smith Dialogue.
+- Removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
+- Removed One-handed Adamantium Axe.
 
 ## December 24th
 
@@ -72,7 +69,6 @@
 
 - Setup: added images to MGE XE section to aid with the options.
 - Visuals: changed Bitter Coast Scum Replacer installation instructions (the recommended option is now Greener Color).
-- Gameplay: fixed Hunter's Mark + Area Effect Arrows Integrated Patch.
 - In-game configuration: changed MWSE Magicka Regen instructions (from 33% regeneration to 20%).
 - In-game configuration: added UI Expansion instructions.
 
@@ -81,7 +77,6 @@
 - Setup: separated two distinct parts in MGE XE's installation instructions into their own sub-sections (installing shaders, launching MGE XE).
 - Morrowind++: added links to the Finishing touches sub-section in the index.
 - Core: updated Facelift installation instructions (no longer requires to download an update file).
-- Visuals: added a disclaimer to Flies (known issue).
 - Gameplay: added Improved Vanilla Leveling. **Refrain from installing this mod on an on-going playthrough**.
 - Finising touches: added in-game configuration instructions for Magicka Based Skill Progression.
 - Finising touches: added in-game configuration instructions for MWSE Magicka Regen.
@@ -90,7 +85,6 @@
 
 - Setup: updated MGE XE section with new shaders instructions.
 - Visuals: updated Remiros' Groundcover installation instructions with new shaders instructions.
-- Visuals: simplified Bitter Coast Sounds installation instructions (package now installs vanilla-sized textures, no one will ever tell the difference).
 - Difficulty: added There Can Be Only One.
 - Difficulty: added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
 
