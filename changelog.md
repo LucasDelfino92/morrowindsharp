@@ -26,6 +26,7 @@
 - QOL Improvements: new module. Most mods from Core were moved to this section.
 - Visuals: removed Silt Strider Redone.
 - Visuals: removed Enlightened Flames.
+- Visuals: moved Creeping Blight to this section.
 - Audio: removed Idle Talk.
 - Audio: removed Its a Deal.
 - Audio: renamed to Dialogue.
