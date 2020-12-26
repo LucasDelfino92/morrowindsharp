@@ -332,8 +332,6 @@ Makes windows glow in the dark.
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays** and click **OK**.
   - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
-- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Only install the **Mist Retexture** main file.
@@ -375,9 +373,6 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
-Outdoor banners now play sound alongside their animations. During clear weather types the unused flag.wav sound file is used (it fits this weather type better compared to the standard flag2.wav). For stormy weather types the script uses the regular flag2.wav sound file.
-  - Only install the **Outdoor Banners With Sound** main file.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
@@ -413,6 +408,8 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
 Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
