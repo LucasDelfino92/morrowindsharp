@@ -24,7 +24,6 @@
   - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
-- [Difficulty module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#difficulty-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#cleaning-plugins)
   - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#manual-conflict-resolution)
@@ -426,33 +425,18 @@ Personal preset for darker nights and less horrible fog.
 
 ## GAMEPLAY MODULE
 
-- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
-Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
-Endurance determines how long you can hold your breath under water. Uses MWSE.
+### TWEAKS
+
 - [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
 Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
-- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
-Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
-Adds in lock-bashing from Daggerfall.
-- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
-Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
-  - This mod is incorrectly packaged.
-    - Expand the **Data Files** folder.
-    - Drag the **mwse** folder into the mod's root directory in MO2.
+- [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
+Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
-Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.  
+Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
-Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
@@ -468,7 +452,25 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## DIFFICULTY MODULE
+### MECHANICS
+
+- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
+Adds in lock-bashing from Daggerfall.
+- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
+  - This mod is incorrectly packaged.
+    - Expand the **Data Files** folder.
+    - Drag the **mwse** folder into the mod's root directory in MO2.
+- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
+Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
+
+### BALANCE
 
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
@@ -476,6 +478,8 @@ Provides a configurable restriction on the amount of potions the player can drin
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
+Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
@@ -486,7 +490,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?) by autumn  
-230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
+230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier and more varied.
   - Hide/disable **MDMD - Bosses Only.ESP**
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
