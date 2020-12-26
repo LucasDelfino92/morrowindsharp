@@ -232,10 +232,6 @@ Lets you open or close any book or scroll in the game.
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
-- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
-Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
-- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
-Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
 
 ## VISUALS MODULE
 
@@ -260,10 +256,6 @@ Adds groundcover to almost all regions.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
   - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
   - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
-- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files) by Hater8  
-Atlased replacer for the Silt Strider, which also adds a neat canvas and lanterns to it.
-  - Only install the **Hater8's Silt Strider Redone** main file.
-  - MO2 will install this mod as a BAIN package. Only tick **H8 vanilla - High res textures** and click **OK**.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
   - Only install the **Vivec Palace Water Replacer** main file.
@@ -314,9 +306,6 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 Replaces rain with a more heavy rain look.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
-- [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/) by R-Zero and Greatness7  
-Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
-  - MO2 will install this mod as a BAIN package. Tick **00 Core - Vertical System** and **01 Enlightened Flames** and click **OK**.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
   - MO2 will install this mod as a fomod package. Follow the instructions below:
@@ -367,10 +356,6 @@ Personal preset for darker nights and less horrible fog.
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
- Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-- [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
@@ -380,13 +365,6 @@ Drastically reduces the frequency of idle Cliff Racer screeches, by editing the 
 
 ## GAMEPLAY MODULE
 
-- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
-Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
-- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-  - Hide/disable **Area Effect Projectiles Integrated.ESP** and **Area Effect Projectiles Integrated (PAR Edit).ESP**. These include additional balance tweaks.
-- [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648) by Leyawynn  
-Removes the quest prerequisite for the unique Spell Breaker shield to spawn in the game.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
@@ -450,14 +428,16 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
     - NPC **hecerinde**
   - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
   - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
-- [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121) by NullCascade  
-Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+Displays the percentage success chance in potion making, much like the Morrowind Code Patch's option for enchanting.
+- [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+Displays the percentage chance you have in successfully persuading someone. Comes with an immersive option to replace percentage chance with "Very Low", "Low", etc.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
@@ -465,8 +445,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ## DIFFICULTY MODULE
 
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by half11  
-Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
@@ -495,9 +473,6 @@ When an NPC is killed, all their equipped gear is damaged to a configurable cond
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
   - Hide/disable **Realistic_Repair_Optional.ESP**. This will avoid adding the new forges and anvils to the game's major cities and settlements.
-- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
-Adds faction rank requirements to obtain faction services.
-  - MO2 will install this mod as a BAIN package.Only tick **Service Requirements Lore** and click **Ok**.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
   - Hide/disable **Ownership Overhaul.ESP**
@@ -506,7 +481,6 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide/disable **MDMD - Bosses Only.ESP**
-  - Also install [**MDMD + Adamantium Armor Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/788796049778278430/MDMD__Adamantium_Armor_Integrated_Patch.zip) if you installed Adamantium Armor Integrated earlier.
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide/disable **There Can Be Only One (Alt Fyr).ESP** and **There Can Be Only One (Alt Fyr 2).ESP**.
