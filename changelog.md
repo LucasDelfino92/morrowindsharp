@@ -5,10 +5,16 @@
 
 ## December 26th
 
+- Core: moved all remaining Audio mods to the Quality of Life Improvements section (since they only addressed audio annoyances).
 - Visuals: removed Silt Strider Redone.
 - Visuals: removed Enlightened Flames.
 - Audio: removed Idle Talk.
 - Audio: removed Its a Deal.
+- Audio: renamed to Dialogue.
+- Dialogue: re-added FMI - Legion Dialogue.
+- Dialogue: re-added  FMI - Nice to Meet You.
+- Dialogue: re-added  FMI - NotAllDunmer.
+- Dialogue: re-added  LDM - Context Matters.
 - Gameplay: removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
 - Gameplay: removed Area Effect Arrows Integrated.
 - Gameplay: removed Always There Spell Breaker.
