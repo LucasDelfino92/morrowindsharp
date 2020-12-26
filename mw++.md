@@ -234,8 +234,6 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 ### CONTROLS
 
-- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
-Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
@@ -427,6 +425,8 @@ Personal preset for darker nights and less horrible fog.
 
 - [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
 Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
+- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
+Adds new controls for swimming and levitating, and modifies how swimming and levitation speed are calculated.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
