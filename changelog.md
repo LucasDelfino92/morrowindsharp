@@ -41,6 +41,7 @@
 - Gameplay: removed Supply Chests Merged.
 - Gameplay: moved Realistic Movement Speed to this section.
 - Difficulty: removed Blight is Coming.
+- Difficulty: removed Harder Taunting.
 - Difficulty: removed Reactive Resistance.
 - Difficulty: removed Realistic Repair.
 - Difficulty: removed Service Requirements Lore.
@@ -372,6 +373,7 @@ Removed:
 - [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844)
 - [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381)
+- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106)
 - [**Higher Faction Requirements**](https://www.nexusmods.com/morrowind/mods/45732)
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656)
 - [**Hunter's Mark + Area Effect Arrows Integrated Patch**](https://cdn.discordapp.com/attachments/705627823104327680/790365245289791488/Hunters_Mark__Area_Effect_Arrows_Integrated_Patch.zip)
