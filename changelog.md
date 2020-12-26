@@ -94,20 +94,6 @@
 - Difficulty: added There Can Be Only One.
 - Difficulty: added a patch for There Can Be Only One and MDMD - More Deadly Morrowind Denizens.
 
-## December 15th
-
-- Core: moved Visible Alchemy Success Chance to Quality of life improvements.
-- Core: moved Visible Persuasion Chance to Quality of life improvements.
-- Visuals: added MWSE Blood Diversity. Replaces Realistic Blood and Skeleton and Metal Sparks Blood Retexture.
-- Gameplay: merged all sections into one.
-- Gameplay: removed Adamantium Weapons Ignore Normal Weapon Resistance.
-- Gameplay: removed instructions to disable the Putting Power in Willpower plugin.
-- Difficulty: renamed from Game balance. Moved mods that don't make the game harder into Gameplay.
-- Difficulty: removed No Disposition Bonus for Bartering.
-- Difficulty: added Creeping Blight.
-- Difficulty: added No Disease Labels.
-- Difficulty: added MDMD - More Deadly Morrowind Denizens.
-
 ## Mods no longer in Morrowind++
 
 Replaced:
