@@ -72,44 +72,53 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Widescreen Splash Replacer
 - Widescreen Splash Additions
 
-### CORE - QUALITY OF LIFE IMPROVEMENTS
+### USER INTERFACE - QUALITY OF LIFE IMPROVEMENTS
 
 - Alchemical Knowledge
-- Better Buoyancy
 - Better Questlist
-- Book Pickup
 - Book Worm
 - Clock Block
 - Consistent Keys (MWSE Version)
 - Continue
+- HUD Weapon Charge
+- New Game Confirmation
+- Shrine Tooltips
+- Smart Ammo
+- Smart Journal
+- Smart Map
+- MWSEabotlib
+- UI Expansion
+- Visible Alchemy Success Chance
+
+### CONTROLS - QUALITY OF LIFE IMPROVEMENTS
+
+- Better Buoyancy
+- Book Pickup
+- Hotkeys Extended
+- Kill Command
+- Quick Equip
+- Right Click Menu Exit
+- Security Enhanced
+- Switchable Scriptures
+- Torch Hotkey
+
+### GAMEPLAY - QUALITY OF LIFE IMPROVEMENTS
+
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
 - Easy Escort
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
 - Graphic Herbalism Lighting
-- Greet Distance Reducer
-- Hotkeys Extended
-- HUD Weapon Charge
-- Kill Command
 - MWSE Hide the Skooma
-- New Game Confirmation
-- No Female Nord Screeching
 - Pluginless and Adjustable Lower First Person Sneak
-- Quick Equip
-- Right Click Menu Exit
-- Security Enhanced
+
+### AUDIO - QUALITY OF LIFE IMPROVEMENTS
+
+- Greet Distance Reducer
+- No Female Nord Screeching
 - Sheep-no-More
-- Shrine Tooltips
 - Shut the Fuck up Cliff Racers
-- Smart Ammo
-- Smart Journal
-- Smart Map
-- MWSEabotlib
-- Switchable Scriptures
-- Torch Hotkey
-- UI Expansion
-- Visible Alchemy Success Chance
 
 ### VISUALS - ENVIRONMENT
 
