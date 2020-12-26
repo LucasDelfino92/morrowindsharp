@@ -9,7 +9,7 @@
 - Massive culling of changelog.
 - Religions Elaborated: added TESAME instructions.
 - Putting Power in Willpower: added instructions to hide the .ESP.
-- There Can Be Only One: modified installation instructions (now recommends the Alt Fyr plugin).
+- There Can Be Only One: replaced with One of a Kind - Daedric Weapons Armor and Shields.
 - Added FMI - Legion Dialogue.
 - Added FMI - Nice to Meet You.
 - Added FMI - NotAllDunmer.
