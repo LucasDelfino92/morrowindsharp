@@ -6,8 +6,9 @@
 ## December 26th
 
 - Massive shuffling of mods overall. Too many to accurately list.
-- Religions Elaborated: added additional TESAME instructions.
-- Putting Power in Willpower: added additional instructions.
+- Massive culling of changelog.
+- Religions Elaborated: added TESAME instructions.
+- Putting Power in Willpower: added instructions to hide the .ESP.
 - Added FMI - Legion Dialogue.
 - Added FMI - Nice to Meet You.
 - Added FMI - NotAllDunmer.
