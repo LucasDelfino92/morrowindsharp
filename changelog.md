@@ -9,12 +9,15 @@
 - Core: removed Visible Persuasion Chance.
 - Core: new section, Continuity Fixes.
   - Moved Blighted Mine Means Blighted Workers to this section.
+  - Moved Diseases Restored to this section.
   - Moved Divayth Fyr Puzzle Fixed to this section.
   - Moved Dubdilla Location Fix to this section.
   - Moved FMI - Legion Dialogue to this section.
   - Moved FMI - Nice to Meet You to this section.
   - Moved FMI - NotAllDunmer to this section.
   - Moved LDM - Context Matters to this section.
+  - Moved Religions Elaborated to this section.
+  - Moved Supply Chests Merged to this section.
   - Moved Temples with Shrines to this section.
   - Moved The Publicans to this section.
 - Core: moved Early Transport to Mournhold to Expansion Delay section.
