@@ -43,6 +43,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Project Atlas
 - Fix Those Bastard Rope Fences
 - Glowing Flames
+- Loading Doors Lock Tune
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
@@ -115,10 +116,8 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Graphic Herbalism MWSE
 - GH Patches and Replacers
 - Graphic Herbalism Lighting
-- Loading Doors Lock Tune
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
-- Wading in Water MW
 
 ### AUDIO - QUALITY OF LIFE IMPROVEMENTS
 
@@ -187,6 +186,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Putting Power In Willpower
 - Sneaky Strike
 - Speed and Movement Rebalanced
+- Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
 
 ### GAMEPLAY - BALANCE
