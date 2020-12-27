@@ -44,7 +44,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Fix Those Bastard Rope Fences
 - Glowing Flames
 - Expeditious Exit
-- Immersive Run Fix
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
 
@@ -111,7 +110,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### GAMEPLAY - QUALITY OF LIFE IMPROVEMENTS
 
 - Bed Buddies
-- Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
 - Easy Escort
 - Graphic Herbalism MWSE
