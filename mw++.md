@@ -109,6 +109,8 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Flames are now glow mapped and/or properly illuminated.
   - Only install the **Glowing Flames** main file. The update files are not necessary.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor  
@@ -257,8 +259,6 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
 Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
@@ -269,8 +269,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
     - NPC **hecerinde**
   - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
   - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
-- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
 ### AUDIO
 
@@ -440,6 +438,8 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
     - GMST **fJumpRunMultiplier**
   - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This omits the change to the running jump speed.
+- [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
