@@ -14,6 +14,9 @@
 - Added FMI - Nice to Meet You.
 - Added FMI - NotAllDunmer.
 - Added LDM - Context Matters.
+- Added Outfit Greetings Tweaked.
+- Added Speed and Movement Rebalanced.
+- Added Poison Crafting.
 - Removed Clock Block.
 - Removed Consistent Keys.
 - Removed Visible Alchemy Success Chance.
@@ -129,7 +132,6 @@
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?)
 - [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
 - [**Adamantium Weapons Ignore Normal Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/45774)
 - [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)
@@ -149,12 +151,10 @@
 - [**No Disposition Bonus For Bartering**](http://www.mediafire.com/file/rmoj4phsrq0fv3y/No+Disposition+Bonus+For+Bartering.zip/file)
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
-- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)
 - [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
 - [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/)
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
