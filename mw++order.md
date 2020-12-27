@@ -16,7 +16,7 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 Load the following sequence of plugins at the very end of your load order to prevent other mods from overwriting their changes:
 
 - Morrowind Anti-Cheese.ESP
-- There Can Be Only One (Alt Fyr).ESP
+- oneofakind daedric combined complete.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -130,6 +130,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Great Service
 - Greet Distance Reducer
 - No Female Nord Screeching
+- Outfit Greetings Tweaked
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
 
@@ -189,6 +190,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Sneaky Strike
+- Speed and Movement Rebalanced
 - Wings of Will - Willpower Based Levitation Speed
 
 ### GAMEPLAY - MECHANICS
@@ -199,6 +201,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - MWSE Magicka Regen
+- Poison Crafting
 
 ### GAMEPLAY - BALANCE
 
@@ -210,6 +213,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- One of a Kind - Daedric Weapons Armor and Shields
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -245,6 +249,7 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Better_Typography_Bookarts_Fix.ESP
 - Great Service.ESP
 - hw_GreetDistanceReducer.ESP
+- outfit greetings tweaked.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
 - NearVanillaRoadSigns.ESP
@@ -252,9 +257,10 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
+- Speed and Movement.ESP
 - Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
-- There Can Be Only One (Alt Fyr).ESP
+- oneofakind daedric combined complete.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
