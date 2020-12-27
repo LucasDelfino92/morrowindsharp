@@ -252,6 +252,7 @@ Shader that improves on the look of the game's fog by getting rid of [banding](h
 Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
 - [**MGE XE Shader - specialprocess**](https://cdn.discordapp.com/attachments/381217735306248192/788784079487107102/MGE_XE_Shader_-_Specialprocess_August_11th_2020.zip) by vtastek  
 Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
+  - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
 
 ### LAUNCHING MGE XE
 
