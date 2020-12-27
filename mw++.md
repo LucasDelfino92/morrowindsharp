@@ -111,8 +111,6 @@ Flames are now glow mapped and/or properly illuminated.
   - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
-- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
@@ -248,10 +246,6 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
-Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
