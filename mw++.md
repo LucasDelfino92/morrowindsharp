@@ -204,13 +204,8 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 ### USER INTERFACE
 
-- [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
-Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
-  - Note that though the author suggests enabling Healthy Appetite in the Morrowind Code Patch, I suggest playing without it as it is a notoriously OP feature.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
-Let's you keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
@@ -256,6 +251,8 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 ### GAMEPLAY
 
+- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?) by Melchior Dahrk  
 Increases the capacity of all containers (BM and TR included) by x100. Enough to help you sort out those pesky dwemer cogs.
   - MO2 will tell you there's no game data on top level. 
@@ -411,6 +408,8 @@ Changes weather chances, including an increasing chance of blight throughout Vva
   - Only install the **Creeping Blight - MWSE Version** main file.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
@@ -437,6 +436,8 @@ Spellcasting skills advance based on the amount of Magicka spent, rather than th
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
+Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
@@ -455,24 +456,6 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-### MECHANICS
-
-- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
-Do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Configuration Menu includes option for Short Blades only or all weapons.
-- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
-Adds in lock-bashing from Daggerfall.
-- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
-Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
-  - This mod is incorrectly packaged.
-    - Expand the **Data Files** folder.
-    - Drag the **mwse** folder into the mod's root directory in MO2.
-- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
-Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-
 ### BALANCE
 
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
@@ -483,8 +466,6 @@ Dynamically adjusts how much merchants will pay for items. Expensive items will 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
-Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
