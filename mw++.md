@@ -122,8 +122,6 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
-- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
-If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
