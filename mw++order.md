@@ -16,7 +16,6 @@ Beyond mods that don't carry over bug fixes from the **Core** section, there are
 Load the following sequence of plugins at the very end of your load order to prevent other mods from overwriting their changes:
 
 - Morrowind Anti-Cheese.ESP
-- oneofakind daedric combined complete.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -196,12 +195,11 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Controlled Consumption
 - Harder Barter
-- Limited Leaping
+- No Daedric Drops for Purists
 - No Rest Without Beds
 - Realistic Movement Speeds
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- One of a Kind - Daedric Weapons Armor and Shields
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
 - Bloodmoon Rebalance
@@ -245,8 +243,8 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Speed and Movement.ESP
+- No Daedric Drops for Purists.ESP
 - Morrowind Anti-Cheese.ESP
-- oneofakind daedric combined complete.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
