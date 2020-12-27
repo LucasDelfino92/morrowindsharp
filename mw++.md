@@ -294,6 +294,8 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
@@ -440,9 +442,16 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
   - MO2 will tell you there's no game data on top level.
     - Expand the **2.0** folder. 
     - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-  - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**.
+  - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**. This disables the new feature that lets Atronachs absorb attacks of their elemental nature.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
+  - Hide/delete the mod's **mwse** folder. This disables the new sprinting feature.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - GMST **fJumpRunMultiplier**
+  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
+  - This omits the change to the running jump speed.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
