@@ -201,7 +201,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - MWSE Magicka Regen
-- Poison Crafting
 
 ### GAMEPLAY - BALANCE
 
