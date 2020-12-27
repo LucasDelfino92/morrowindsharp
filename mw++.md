@@ -145,6 +145,12 @@ Adds supply chests, missing temple markers, healing services to healers, and dis
     - Cell **Ebonheart, Imperial Chapels**
   - Save the plugin as **Religions Elaborated.ESP**, overwriting the original when asked.
   - This omits the addition of supply chests.
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - NPC **hecerinde**
+  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
+  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
@@ -263,12 +269,6 @@ Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-l
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - NPC **hecerinde**
-  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
-  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
 
 ### AUDIO
 
