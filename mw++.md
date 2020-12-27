@@ -457,8 +457,8 @@ Provides a configurable restriction on the amount of potions the player can drin
 Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
-Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+- [**No Daedric Drops for Purists**](https://cdn.discordapp.com/attachments/218457935846703104/792763923300352020/No_Daedric_Drops_for_Purists_v1.0.zip) by Sigourn  
+Daedric equipment will no longer drop from respawnable enemies.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
@@ -468,8 +468,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable **Ownership Overhaul.ESP**
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
-- [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/47766) by mort  
-Edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
