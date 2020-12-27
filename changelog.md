@@ -16,6 +16,7 @@
 - Added LDM - Context Matters.
 - Added Outfit Greetings Tweaked.
 - Added Speed and Movement Rebalanced.
+- Removed Blighted Mines Mean Blighted Kwama Workers.
 - Removed Alchemical Knowledge.
 - Removed Book Worm.
 - Removed Clock Block.
@@ -99,6 +100,7 @@
 - [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
 - **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
+- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920)
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?)
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)
