@@ -16,7 +16,6 @@
 - Added LDM - Context Matters.
 - Added Outfit Greetings Tweaked.
 - Added Speed and Movement Rebalanced.
-- Added Poison Crafting.
 - Removed Clock Block.
 - Removed Consistent Keys.
 - Removed Visible Alchemy Success Chance.
