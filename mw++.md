@@ -391,8 +391,6 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
   - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 R-Zero's Textures** and click **OK**.
   - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
-- [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?) by Hrnchamd  
-Makes thrown projectiles visible on the player, enemies and statics.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
