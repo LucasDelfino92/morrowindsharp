@@ -472,8 +472,6 @@ Add as Luck-based Critical Strike mechanic reminiscent of the one in Daggerfall.
     - Drag the **mwse** folder into the mod's root directory in MO2.
 - [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
 Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness 7  
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 
 ### BALANCE
 
