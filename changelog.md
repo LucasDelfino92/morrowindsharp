@@ -72,7 +72,6 @@
 - Removed Simple Smith Dialogue.
 - Removed Hunter's Mark - A Marksman Mod and Hunter's Mark + Area Effect Arrows Integrated Patch.
 - Removed One-handed Adamantium Axe.
-- Removed Speed and Movement Rebalanced (unless you specifically try to make a character with high Speed and Athletics, you are going to hate this mod).
 
 ## December 20th
 
