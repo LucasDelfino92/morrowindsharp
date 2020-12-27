@@ -6,6 +6,8 @@
 ## December 27th
 
 - Added No Daedric Drops for Purists.
+- Removed Immersive Run FIx.
+- Removed Dahrk's Super-Sized Storage (D'sSSS).
 - Removed Limited Leaping.
 - Removed One of a Kind - Daedric Weapons Armor and Shields.
 
@@ -101,6 +103,8 @@
 
 ## Removed mods
 
+- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)
+- [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?)
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
 - [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
