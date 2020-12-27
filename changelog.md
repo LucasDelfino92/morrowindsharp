@@ -3,6 +3,12 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## December 27th
+
+- Added No Daedric Drops for Purists.
+- Removed Limited Leaping.
+- Removed One of a Kind - Daedric Weapons Armor and Shields.
+
 ## December 26th
 
 - Massive shuffling of mods overall. Too many to accurately list.
@@ -169,7 +175,9 @@
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544)
 - [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299)
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)
+- [**One of a Kind - Daedric Weapons Armor and Shields**](https://www.nexusmods.com/morrowind/mods/47766)
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?)
 - [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/792185861021761546/There_Can_Be_Only_One__MDMD_Patch_Lootable_Daedric_Armor.zip)
