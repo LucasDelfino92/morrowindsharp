@@ -16,12 +16,15 @@
 - Added LDM - Context Matters.
 - Added Outfit Greetings Tweaked.
 - Added Speed and Movement Rebalanced.
+- Removed Alchemical Knowledge.
+- Removed Book Worm.
 - Removed Clock Block.
 - Removed Consistent Keys.
 - Removed Visible Alchemy Success Chance.
 - Removed Visible Persuasion Chance.
 - Removed Silt Strider Redone.
 - Removed Enlightened Flames.
+- Removed Pincushion.
 - Removed Idle Talk.
 - Removed Its a Deal.
 - Removed Adamantium Armor Integrated and MDMD + Adamantium Armor Integrated Patch.
@@ -32,8 +35,12 @@
 - Removed MWSE State-Based Health.
 - Removed Smarter Soultrap.
 - Removed Supply Chests Merged.
+- Removed Brutal Backstabbing.
+- Removed Lua Lockbashing.
+- Removed Lucky Strike - A Critical Hit Mod.
 - Removed Blight is Coming.
 - Removed Harder Taunting.
+- Removed No Disease Labels.
 - Removed Reactive Resistance.
 - Removed Realistic Repair.
 - Removed Service Requirements Lore.
@@ -93,6 +100,8 @@
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)
 - **Diverse Ore Veins** (optional patch included in Graphic Herbalism MWSE)
 - [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306/?)
+- [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?)
+- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)
 - [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)
 - [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
@@ -155,7 +164,11 @@
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
 - [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
 - [**Supply Chests Merged**](https://www.mediafire.com/file/0imsxgeox22x49g/Supply_Chests_Merged_v1.0.zip/file)
+- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)
+- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544)
+- [**Lucky Strike - a Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649)
+- [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567)
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745?)
 - [**There Can Be Only One + MDMD Patch**](https://cdn.discordapp.com/attachments/705627823104327680/792185861021761546/There_Can_Be_Only_One__MDMD_Patch_Lootable_Daedric_Armor.zip)
