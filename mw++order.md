@@ -88,9 +88,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### USER INTERFACE - QUALITY OF LIFE IMPROVEMENTS
 
-- Alchemical Knowledge
 - Better Questlist
-- Book Worm
 - Continue
 - HUD Weapon Charge
 - New Game Confirmation
@@ -114,6 +112,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 ### GAMEPLAY - QUALITY OF LIFE IMPROVEMENTS
 
+- Bed Buddies
 - Dahrk's Super-Sized Storage (D'sSSS)
 - Diligent Defenders
 - Easy Escort
@@ -169,7 +168,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Project Atlas - Glow in the Dahrk Patch
 - Mist Retexture
 - MWSE Blood Diversity
-- Pincushion
 - Subtle Magic Glow
 - Subtle Smoke
 - Visually Filled Soul Gems
@@ -178,6 +176,7 @@ Load the following sequence of plugins at the very end of your load order to pre
 
 - Creeping Blight
 - Let There Be Darkness - Lua Lighting Overhaul
+- Light Decay
 - Transporter Lights
 - Weather Adjuster
 
@@ -188,26 +187,17 @@ Load the following sequence of plugins at the very end of your load order to pre
 - Hold Your Breath
 - Magicka Based Skill Progression
 - Marksman Rebalanced
+- MWSE Magicka Regen
 - Putting Power In Willpower
 - Sneaky Strike
 - Speed and Movement Rebalanced
 - Wings of Will - Willpower Based Levitation Speed
-
-### GAMEPLAY - MECHANICS
-
-- Bed Buddies
-- Brutal Backstabbing
-- Light Decay
-- Lua Lockbashing
-- Lucky Strike - A Critical Hit Mod
-- MWSE Magicka Regen
 
 ### GAMEPLAY - BALANCE
 
 - Controlled Consumption
 - Harder Barter
 - Limited Leaping
-- No Disease Labels
 - No Rest Without Beds
 - Realistic Movement Speeds
 - Ownership Overhaul
@@ -257,7 +247,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Speed and Movement.ESP
-- Lucky Strike.ESP
 - Morrowind Anti-Cheese.ESP
 - oneofakind daedric combined complete.ESP
 - Beware the Sixth House.ESP
