@@ -52,7 +52,6 @@ Load the following sequence of plugins at the very end of your load order to pre
 ### CORE - CONTINUITY FIXES
 
 - Blighted Blight
-- Blighted Mine Means Blighted Workers
 - Diseases Restored
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
@@ -221,7 +220,6 @@ This is a complete list of all plugins present in the guide, installed as if you
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Clean Blighted_Kwama_Workers.ESP
 - Diseases Restored.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
