@@ -190,20 +190,16 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
 High resolution replacer for the Daedric font used in scrolls. 
-  - MO2 will tell you there's no game data on top level. 
-    - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
-    - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
+  - Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Only install the **Better Dialogue Font** main file.
 - [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
 Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-  - Only install the **Pete's Journal and Scroll** optional file.
-  - MO2 will install this mod as a BAIN package. Only tick **01 Journal and Scroll - 2K** and click **OK**.
+  - Install **Pete's Journal and Scroll** only.
+  - Only tick **01 Journal and Scroll - 2K** and click **OK**.
 - [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
 HD recreation of the Title and Logo Intro, in widescreen.
   - Install both main files.
@@ -211,9 +207,7 @@ HD recreation of the Title and Logo Intro, in widescreen.
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 - [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen  
 Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
-  - MO2 will tell you there's no game data on top level.
-    - Right click on **data**, and click **Create directory...**. Name this new folder **splash** and click **OK**. 
-    - Drag the three .tag files into the **splash** folder and click **OK**.
+  - Place the loose .tga files in **Data Files\Splash**.
 
 ## QOL IMPROVEMENTS MODULE
 
@@ -223,24 +217,39 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
+- [**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
+UI overhaul allowing you to generate a random name for you character before character creation.
+- [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
+Restores the description tooltip to the vanilla class selection menu.
+- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+Adds clock to UI that displays either game world time or real time (depending on settings).
+- [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
+Renames keys so they'll have a consistent naming scheme.
+  - Install the **MWSE Version** only.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
+- [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21  
+Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 - [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
+- [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade  
+Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 - [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
 Adds a confirmation popup when you click on New Game in the main menu.
 - [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
+- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
+  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
 - [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
 Adds several new options for the journal and quest pages.
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
+- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot  
 Automatically switches between the local and world map depending on user configuration.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
-Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
+  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
+- [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969) by abot  
+Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
