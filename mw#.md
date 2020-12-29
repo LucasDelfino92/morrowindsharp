@@ -86,13 +86,18 @@ Just because the guide has an order it doesn't mean you can't install modules or
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The best unofficial fan patch for Morrowind.
+- [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM  
+Includes fixes for all of the Official Plugins.
+  - Install **UMOPP 3.1.0** only.
+  - Hide all plugins except bcsounds.ESP, EBQ_Artifact.ESP, and master_index.ESP.
+- [**Pikas Miscellaneous Mods**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
+Gives most of the Adamantium Armor set from Tribunal UV and Mesh repairs.
+  - Install **Fixed Adamantium Armor Meshes** only.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
-Fixes UV mapping on rocks and stones.  
-  - MO2 will tell you there's no game data on top level.  
-    - Right click on **Data Files** and click **Set data directory**. Click **OK**.
+Fixes UV mapping on rocks and stones.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
-  - MO2 will install the mod as a BAIN package. Only tick the following options and click **OK**:
+  - Only tick the following options and click **OK**:
     - **00 Core**
     - **01 Fixed Vanilla Textures**
     - **02 Lake Fjalding Anti-Suck**
@@ -107,8 +112,10 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
-  - Only install the **Glowing Flames** main file. The update files are not necessary.
-  - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
+  - Install **Glowing Flames** only.
+  - Hide Glowing Flames - TrueLightsAndDarkness Tweaks.ESP.
+- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
@@ -121,19 +128,26 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 ### CONTINUITY FIXES
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
-Restores the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
-- [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228/) by half11  
-Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+Restores the possibility of contracting blight diseases while out in a blight storm.
+- [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Cliffworms  
+If a mine is blighted, the kwama worker standing outside of it will now be blighted as well.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
+Implements the need to purchase "Hospitality Papers" before being able to get services in Sadrith Mora.
 - [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
+- [**Dahrk Mods by Melchior**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
+Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
+  - Install **Hidden Imperial Door Fix** only.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
@@ -205,6 +219,8 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 ### USER INTERFACE
 
+- [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
+Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
