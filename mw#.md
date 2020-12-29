@@ -425,8 +425,6 @@ Personal preset for darker nights and less horrible fog.
 
 ### TWEAKS
 
-- [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065?) by Merzasphor  
-Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases required to achieve optimal character progression.
 - [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
 Adds new controls for swimming and levitating, and modifies how swimming and levitation speed are calculated.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
@@ -437,8 +435,6 @@ Spellcasting skills advance based on the amount of Magicka spent, rather than th
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
-Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
   - MO2 will tell you there's no game data on top level.
@@ -461,14 +457,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### BALANCE
 
-- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
-Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.
-- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
-Dynamically adjusts how much merchants will pay for items. Expensive items will be much less valuable while cheap items will be more or less the same price. Pluginless, compatible with everything.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**No Daedric Drops for Purists**](https://cdn.discordapp.com/attachments/218457935846703104/792763923300352020/No_Daedric_Drops_for_Purists_v1.0.zip) by Sigourn  
-Daedric equipment will no longer drop from respawnable enemies.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
