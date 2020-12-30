@@ -275,6 +275,8 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
     - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255) by EnvyDeveloper  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+- [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222) by Melchior Dahrk  
+Tweaks the Forge of Hilbongard slightly to make it a little more unique.
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
   - Install **00 Core** and **01 Vvardenfell only** only.
@@ -392,8 +394,13 @@ Personal preset for darker nights and less horrible fog.
 
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
+In the vanilla game, Nordic barrows on Solstheim use the same "haunted whispers" sound effect that Dunmer tombs use. This mod gives the barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
+  - In the BAIN installer, tick **00 Core** only.
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?) by Von Djangos  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+- [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
