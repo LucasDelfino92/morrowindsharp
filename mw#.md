@@ -11,7 +11,6 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
-- [QOL Improvements Module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#qol-improvements-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
@@ -467,8 +466,29 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New Mechanics
 
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
+Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
+- [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
+- [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
+An MWSE leveling mod that implements most features of Galsiah's Character Development. I strongly recommend you read the mod's page.
+- [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
+Enemies can now chase you through doors.
+- [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
+Changes how quickly time passes in-game depending on where you are and what you're doing.
+- [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
+Adds in lock-bashing from Daggerfall.
+- [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
+  - Place the **MWSE** folder alongside Lucky Strike.ESP in the **Data Files** folder.
+- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
+Adds rank requirements to access faction services.
+  - In the BAIN installer, tick **Service Requirements Lore** only.
+
 ### Balance
 
+- [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
+Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
