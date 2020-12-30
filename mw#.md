@@ -88,8 +88,8 @@ Greatly improves performance and fixes some mesh errors.
     - **05 Chuzei Fix**
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
-  - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+  - In the BAIN installer, tick **00 Core** only.
+  - Hide **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
