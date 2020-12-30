@@ -147,6 +147,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde Secret Master tools.
+- [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
+You will not be able to speak with NPCs when silenced.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
