@@ -534,7 +534,181 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 ### Adjusting your load order
 
-Before running the automated conflict resolution tools, we need to confirm your installed plugins are in the right order. [**Follow the load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order) and adjust your load order accordingly before proceeding to the next step.
+- DLC: Tribunal
+- DLC: Bloodmoon
+- MGE XE Data Files
+- MGE XE Shader - 16 Lights Shaders Alpha
+- MGE XE Shader - Deband Fogaware v2
+- MGE XE Shader - EdgeAA
+- MGE XE Shader - Specialprocess
+- Patch for Purists
+- Correct UV Rocks
+- Morrowind Optimization Patch
+- Project Atlas
+- Fix Those Bastard Rope Fences
+- Glowing Flames
+- Loading Doors Lock Tune
+- Expeditious Exit
+- Quest Skill Reward Fix
+- Skill Increase GMST Fix
+- Blighted Blight
+- Diseases Restored
+- Divayth Fyr Puzzle Fixed
+- Dubdilla Location Fix
+- FMI - Legion Dialogue
+- FMI - Nice to Meet You
+- FMI - NotAllDunmer
+- LDM - Context Matters
+- Religions Elaborated - No Quest Changes
+- Services Restored
+- Temples with Shrines
+- The Publicans
+- Expansion Delay
+- Early Transport to Mournhold
+- Facelift
+- Intelligent Textures
+- Better Daedric Font
+- Better Dialogue Font
+- Comrade Raven's Book Arts Replacer
+- Pete's Scroll 2018 ...in 2020
+- Logo Video Intro Reworked (Widescreen)
+- Title Screen Reworked (Widescreen)
+- Widescreen Splash Replacer
+- Widescreen Splash Additions
+- Better Questlist
+- Continue
+- HUD Weapon Charge
+- New Game Confirmation
+- Shrine Tooltips
+- Smart Ammo
+- Smart Journal
+- Smart Map
+- MWSEabotlib
+- UI Expansion
+- Book Pickup
+- Hotkeys Extended
+- Kill Command
+- Quick Equip
+- Right Click Menu Exit
+- Security Enhanced
+- Switchable Scriptures
+- Torch Hotkey
+- Bed Buddies
+- Diligent Defenders
+- Easy Escort
+- Graphic Herbalism MWSE
+- GH Patches and Replacers
+- Graphic Herbalism Lighting
+- MWSE Hide the Skooma
+- Pluginless and Adjustable Lower First Person Sneak
+- Great Service
+- Greet Distance Reducer
+- No Female Nord Screeching
+- Outfit Greetings Tweaked
+- Sheep-no-More
+- Shut the Fuck up Cliff Racers
+- Better Waterfalls
+- Waterfalls Tweaks
+- Bitter Coast Scum Replacer
+- Distant Mournhold
+- Near Vanilla Road Sign Replacer
+- Remiros' Groundcover
+- Remiros' Groundcover Shaders - Landbias Fix
+- Vivec Palace Water Replacer
+- Well Diversified
+- Bloodmoon Hide Replacer
+- Complete Armor Joints
+- Imperial Steel Cuirass With Belt
+- Improved Thrown Weapon Projectiles
+- Weapon Sheathing
+- Weapon Sheathing - Bow Position Edit
+- Morrowind Optimization Patch - Weapon Sheathing Patch
+- Wolf Helmet Replacer
+- Yet Another Guard Diversity - Regular
+- Apel's Rain Replacer
+- Creature VFX Restoration
+- Glow in the Dahrk
+- Project Atlas - Glow in the Dahrk Patch
+- Mist Retexture
+- MWSE Blood Diversity
+- Subtle Magic Glow
+- Subtle Smoke
+- Visually Filled Soul Gems
+- Creeping Blight
+- Let There Be Darkness - Lua Lighting Overhaul
+- Light Decay
+- Transporter Lights
+- Weather Adjuster
+- Better Buoyancy
+- Hold Your Breath
+- Magicka Based Skill Progression
+- Marksman Rebalanced
+- Putting Power In Willpower
+- Sneaky Strike
+- Speed and Movement Rebalanced
+- Wading in Water MW
+- Wings of Will - Willpower Based Levitation Speed
+- No Rest Without Beds
+- Realistic Movement Speeds
+- Ownership Overhaul
+- Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- Beware the Sixth House (Sixth House Overhaul)
+- Tribunal Rebalance
+- Bloodmoon Rebalance
+
+This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
+
+- Morrowind.esm
+- Tribunal.esm
+- Bloodmoon.esm
+- Patch for Purists.esm
+- Ownership Overhaul.esm
+- Patch for Purists - Book Typos.ESP
+- Patch for Purists - Semi-Purist Fixes.ESP
+- Lake Fjalding Anti-Suck.ESP
+- chuzei_helm_no_neck.ESP
+- Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+- Diseases Restored.ESP
+- Divayth Fyr Puzzle Fixed.ESP
+- Dubdilla Location Fix.ESP
+- FMI_Legion_Dialogue.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- LDM - Context Matters.ESP
+- Religions Elaborated.ESP
+- Services Restored.ESP
+- Temples With Shrines.ESP
+- The Publicans.ESP
+- Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
+- Better_Typography_Bookarts_Fix.ESP
+- Great Service.ESP
+- hw_GreetDistanceReducer.ESP
+- outfit greetings tweaked.ESP
+- Waterfalls Tweaks.ESP
+- Mournhold LOD.ESP
+- NearVanillaRoadSigns.ESP
+- Well Diversified.ESP
+- Complete Armor Joints.ESP
+- Yet Another Guard Diversity - Regular.ESP
+- GITD_WL_RR_Interiors.ESP
+- Speed and Movement.ESP
+- No Daedric Drops for Purists.ESP
+- Morrowind Anti-Cheese.ESP
+- Beware the Sixth House.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.ESP
+- Merged Objects.ESP
+- Merged_Leveled_Lists.ESP
+- **Rem_AC.ESP**
+- **Rem_AI.ESP**
+- **Rem_AL.ESP**
+- **Rem_BC.ESP**
+- **Rem_GL.ESP**
+- **Rem_Solstheim.ESP**
+- **Rem_WG.ESP**
+
+Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
 
 ### Automated conflict resolution
 
