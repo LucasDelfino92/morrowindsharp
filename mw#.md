@@ -494,8 +494,23 @@ Increases the penalties for crime.
   - Hide all plugins except EcoAdjCrime (Necro Edit).ESP.
 - [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
+- [**Helm of Tohan BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/47152) by Necrolesian  
+Edits the stats of the unique Helm of Tohan from the official plugin to be in line with BTB's Game Improvements - Necro Edit.
+- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
+Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+- [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0  
+Framework that is necessary for other MAB0's mods to work.
+- [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
+Allows the player to be affected by only one potion/ingredient at a time.
+- [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
+Makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
+230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
+  - Hide MDMD - Bosses Only.ESP.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
+- [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
+Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
@@ -503,6 +518,8 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable **Ownership Overhaul.ESP**
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
+- [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
+dasdasd
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
