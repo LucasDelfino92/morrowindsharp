@@ -149,12 +149,16 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - This omits the restoration of Hecerinde Secret Master tools.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
+- [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Gavrilo93  
+Adds a Silver Staff of Peace into the inventory of each Mouth in the Telvanni Council.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
+Adds in a Wizards Staff to high ranking members of the Mages Guild.
 
 ### Expansion Implementation
 
