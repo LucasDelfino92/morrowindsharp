@@ -63,7 +63,7 @@ One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties
 
 ## CORE MODULE
 
-### BUG FIXES AND OPTIMIZATION
+### Bug Fixes and Optimization
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The best unofficial fan patch for Morrowind.
@@ -111,7 +111,7 @@ Changes how saves are handled by Morrowind. The goal of the mod is to provide mo
   - Download using Code -> Download Zip.
   - Set the **Sophisticated Save System** folder as the correct data directory, and rename the mod appropiately.
 
-### CONTINUITY FIXES
+### Continuity Fixes
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm.
@@ -155,14 +155,14 @@ To align with what the in game dialogue suggests, the entrance to the Cavern of 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-### EXPANSION DELAY
+### Expansion Implementation
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-### MESHES AND TEXTURES
+### Meshes and Textures
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
@@ -238,7 +238,7 @@ Displays Value/Weight Ratio of currently focused object/inventory item in toolti
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-### HOTKEYS
+### Hotkeys
 
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
@@ -264,7 +264,7 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 ## VISUALS MODULE
 
-### ENVIRONMENT
+### Environment
 
 - [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -339,7 +339,7 @@ Restores previously unused Silt Strider animation - it was present in the model,
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
-### VISUAL EFFECTS
+### VFX
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
@@ -370,7 +370,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 
-### WEATHER AND LIGHTING
+### Weather and Lighting
 
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
@@ -414,8 +414,13 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## GAMEPLAY MODULE
 
-### GENERAL
+### General
 
+- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
+Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+  - Hide all plugins except Area Effect Projectiles Integrated (PAR Edit).
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
@@ -439,6 +444,10 @@ Spellcasting skills advance based on the amount of Magicka spent, rather than th
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+- [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
+Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
+- [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
+Sets the Adamantium Axe to be a one-handed weapon, and adjusts it's damage and speed accordingly.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
@@ -456,7 +465,9 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-### BALANCE
+### New Mechanics
+
+### Balance
 
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
@@ -477,7 +488,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ## FINISHING TOUCHES
 
-### CLEANING PLUGINS
+### Cleaning plugins
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
@@ -488,7 +499,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Religions Elaborated.ESP**
   - Clean with tes3cmd.
 
-### MANUAL CONFLICT RESOLUTION
+### Manual conflict resolution
 
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
@@ -496,11 +507,11 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 > This ensures there aren't new instances of guards in the Eastern Guard Tower.
 
-### ADJUSTING YOUR LOAD ORDER
+### Adjusting your load order
 
 Before running the automated conflict resolution tools, we need to confirm your installed plugins are in the right order. [**Follow the load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order) and adjust your load order accordingly before proceeding to the next step.
 
-### AUTOMATED CONFLICT RESOLUTION
+### Automated conflict resolution
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
@@ -522,7 +533,7 @@ Though it is not necessary for Morrowind++, TESTool lets us merge the leveled li
 - Select **Merge Leveled Lists for active plugins** and click **Execute**.
 - Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
 
-### SYNCHRONIZING MOD MASTERS
+### Synchronizing mod masters
 
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
@@ -531,7 +542,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 
-### RUNNING DISTANT LAND
+### Running Distant Land
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
@@ -541,7 +552,7 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Run above steps using saved / default settings**.
 - Once the statics have been created, simply click **Finish**.
 
-### IN-GAME CONFIGURATION
+### In-game configuration
 
 **General adjustments**
 
@@ -560,9 +571,6 @@ The following mods require additional configuration through the in-game **Mod Co
 **Continue**
 - (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
 
-**Improved Vanilla Leveling**
-- Enable **Enhanced Tooltip**. This option assumes you haven't installed the "Level-up skills tooltip" patch in the Morrowind Code Patch.
-
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set **Cell lighting value overrides** to NONE.
 - If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to 75.
@@ -570,10 +578,6 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Magicka Based Skill Progression**
 - Set **Skill Experience per Magicka** to 0.066667. This reduces the skill experience gain to a third of its original value, which was too generous.
-
-**MWSE Magicka Bonus**
-- Set **Player Magicka Regen Rate** to 20%. This reduces the regeneration rate to a fifth of its original value, which was too generous.
-- Set **NPC Magicka Regen Rate** to 20%. This reduces the regeneration rate to a fifth of its original value, which was too generous.
 
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
@@ -590,7 +594,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
-### MOD KEYBINDINGS
+### Mod keybindings
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
