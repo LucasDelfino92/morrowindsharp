@@ -150,6 +150,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - This omits the restoration of Hecerinde Secret Master tools.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -316,7 +318,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 The bows will better line up with the sheathing animation.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
-  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to Morrowind Optimization Patch - Weapon Sheathing Patch.
+  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
@@ -332,6 +334,8 @@ Gives the base golden saint the feminine walk animation instead of the default m
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
 The Incarnates will wear clothing and armor that reflects who they are.
+- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
@@ -341,29 +345,26 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 Replaces rain with a more heavy rain look.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
-  - MO2 will install this mod as a fomod package. Follow the instructions below:
-    - Tick **Yes** to Interior Sunrays.
-    - Tick **Yes** to Nord Glass Windows.
-    - Tick **Yes** to Raven Rock Glass Windows.
-    - Skip Tamriel_Data.
-    - Skip Dark Molag Mar.
-    - Tick Hi-Res Window Texture Replacer.
-    - Click **Install** to finish.
-    - Hide/disable **GITD_Telvanni_Dormers.ESP** (personal preference, as I feel these look too tacky).
+  - In the FOMOD installer, install the following options:
+    - Interior Sunrays.
+    - Nord Glass Windows.
+    - Raven Rock Glass Windows.
+    - Hi-Res Window Texture Replacer.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays** and click **OK**.
-  - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
+  - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-  - Only install the **Mist Retexture** main file.
+  - Install **Mist Retexture** only.
 - [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril21  
 Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 R-Zero's Textures** and click **OK**.
+  - In the BAIN installer, tick **00 Core** and **02 R-Zero's Textures** only.
   - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
+- [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?) by jiopi  
+Removes the annoying sparkle effects from Shield.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
+  - In the BAIN installer, tick **faint** only.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
@@ -373,7 +374,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-  - Only install the **Creeping Blight - MWSE Version** main file.
+  - Install the **MWSE Version** only.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
@@ -402,47 +403,46 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
+The player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+- [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?) by R-Zero  
+Makes Miner class NPCs cough.
+- [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## GAMEPLAY MODULE
 
-### QOL IMPROVEMENTS
+### GENERAL
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
+Adds new controls for swimming and levitating, and modifies how swimming and levitation speed are calculated.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
-  - Also install the **GH Patches and Replacers** optional file.
-    - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+  - In the BAIN installer, tick **00 Core + Vanilla Meshes** only.
+  - Also install **GH Patches and Replacers**.
+    - In the BAIN installer, tick **10 Atlas - Vanilla BC Mushrooms** only.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
 Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
-- [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-- [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
-
-### TWEAKS
-
-- [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?) by OperatorJack  
-Adds new controls for swimming and levitating, and modifies how swimming and levitation speed are calculated.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
 Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+- [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+- [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-  - MO2 will tell you there's no game data on top level.
-    - Expand the **2.0** folder. 
-    - Right click the **Data Files** folder and click **Set data directory**. Click **OK**.
-  - Hide/disable **Putting Power in Willpower - Absorbonach.ESP**. This disables the new feature that lets Atronachs absorb attacks of their elemental nature.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros  
@@ -450,7 +450,6 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
   - Hide/delete the mod's **mwse** folder. This disables the new sprinting feature.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - GMST **fJumpRunMultiplier**
-  - Save the plugin as **Speed and Movement.ESP**, overwriting the original when asked.
   - This omits the change to the running jump speed.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
