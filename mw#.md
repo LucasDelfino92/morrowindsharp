@@ -464,7 +464,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-### New Mechanics
+### New mechanics
 
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
