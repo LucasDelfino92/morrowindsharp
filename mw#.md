@@ -5,16 +5,15 @@
 
 ## INDEX
 
-- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
-- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
-  - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
-  - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
-  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
-  - [Installing the modules](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#installing-the-modules)
-- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
-  - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#bug-fixes-and-optimization)
-  - [Continuity fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#continuity-fixes)
-  - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#expansion-delay)
+- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
+- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#introduction)
+  - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#following-the-setup-guide)
+  - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
+  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
+- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
+  - [Bug fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#bug-fixes-and-optimization)
+  - [Continuity fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#continuity-fixes)
+  - [Expansion delay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#expansion-delay)
   - [High resolution textures](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-textures)
   - [High resolution user interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#high-resolution-user-interface)
 - [QOL Improvements Module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#qol-improvements-module)
@@ -70,15 +69,6 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Name it accordingly to its category and click **OK**.
 
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
-
-### INSTALLING THE MODULES
-
-Each module can be installed independently from each other (sans patches that cover mods from multiple sections, you'll easily tell which ones these are). However, for the sake of simplicity these are the steps you should follow when installing any of these modules.
-
-- Install a given module.
-- Clean whatever dirty plugins it may have, as per the [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches) section.
-
-Just because the guide has an order it doesn't mean you can't install modules or mods out of order: Mod Organizer 2 lets us rearrange mod and plugin order after installing them. But rest assured, following the guide in order will be your best bet at preserving your sanity.
 
 ## CORE MODULE
 
