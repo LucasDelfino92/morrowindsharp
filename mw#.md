@@ -489,6 +489,11 @@ Adds rank requirements to access faction services.
 
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
+- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
+Increases the penalties for crime.
+  - Hide all plugins except EcoAdjCrime (Necro Edit).ESP.
+- [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) by Archimag  
+Eliminates trade exploits and makes bartering much more punishing.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
