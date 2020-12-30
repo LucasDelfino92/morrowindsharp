@@ -80,9 +80,11 @@ The best unofficial fan patch for Morrowind.
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
   - Hide all plugins except bcsounds.ESP, EBQ_Artifact.ESP, and master_index.ESP.
-- [**Pikas Miscellaneous Mods**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
+- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
+The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
+  - Hide Better Propylon Teleport Warp.ESP.
+- [**Fixed Adamantium Armor Meshes**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
 Gives most of the Adamantium Armor set from Tribunal UV and Mesh repairs.
-  - Install **Fixed Adamantium Armor Meshes** only.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
 Fixes UV mapping on rocks and stones.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
@@ -135,26 +137,23 @@ NPCs no longer will greet you as if they had just met you.
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
-- [**Dahrk Mods by Melchior**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
+- [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
-  - Install **Hidden Imperial Door Fix** only.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
-  - Only install the **No Quest Changes** optional file.
+  - Install **No Quest Changes** only.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - Cell **Ald-ruhn, Temple**
     - Cell **Balmora, Temple**
     - Cell **Ebonheart, Imperial Chapels**
-  - Save the plugin as **Religions Elaborated.ESP**, overwriting the original when asked.
   - This omits the addition of supply chests.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
-  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
-  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
+  - This omits the restoration of Hecerinde Secret Master tools.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
@@ -167,16 +166,18 @@ Modifies how the Tribunal and Bloodmoon expansions are implemented into the game
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-### HIGH RESOLUTION TEXTURES
+### MESHES AND TEXTURES
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Only install the **kart_facelift_meshes** main file.
+  - Install **kart_facelift_meshes** only.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Atlas Textures** and click **OK**.
+  - Only tick **00 Core** and **01 Atlas Textures** and click **OK**.
 
-### HIGH RESOLUTION USER INTERFACE
+## USER INTERFACE AND HOTKEYS MODULE
+
+### HD UI
 
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -199,9 +200,7 @@ Replaces the default splash screens with better quality widescreen versions (16:
 Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
   - Place the loose .tga files in **Data Files\Splash**.
 
-## QOL IMPROVEMENTS MODULE
-
-### USER INTERFACE
+### UI
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
 Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
@@ -217,7 +216,7 @@ Restores the description tooltip to the vanilla class selection menu.
 Adds clock to UI that displays either game world time or real time (depending on settings).
 - [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
 Renames keys so they'll have a consistent naming scheme.
-  - Install the **MWSE Version** only.
+  - Install **MWSE Version** only.
 - [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
 Adds a continue button to the main menu to instantly load your most recent save.
 - [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21  
@@ -243,62 +242,29 @@ Displays Value/Weight Ratio of currently focused object/inventory item in toolti
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-### CONTROLS
+### HOTKEYS
 
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 - [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
+- [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976) by abot  
+Adds hotkeys for journal Quests and Topics.
 - [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
 Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
+- [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708?) by Merlord  
+Adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu.
 - [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
 Exit any menu by right clicking (or whatever your menu key is mapped to).
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 - [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
 Lets you open or close any book or scroll in the game.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Closed Book Icons** and click **OK**.
+  - Only tick **00 Core** and **01 Closed Book Icons** and click **OK**.
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-
-### GAMEPLAY
-
-- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-- [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
-When the player or the player's companions are attacked, any companions will launch into action in defense.
-- [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
-Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
-  - Also install the **GH Patches and Replacers** optional file.
-    - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
-Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
-- [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-- [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
-
-### AUDIO
-
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
-Removes the sheep sounds from Morrowind.
-- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 
 ## VISUALS MODULE
 
@@ -420,7 +386,42 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
+## AUDIO MODULE
+
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
+Removes the sheep sounds from Morrowind.
+- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+
 ## GAMEPLAY MODULE
+
+### QOL IMPROVEMENTS
+
+- [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
+When the player or the player's companions are attacked, any companions will launch into action in defense.
+- [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
+Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+  - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
+  - Also install the **GH Patches and Replacers** optional file.
+    - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
+Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
+- [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+- [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
+Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 
 ### TWEAKS
 
