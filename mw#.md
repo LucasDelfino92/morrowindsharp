@@ -11,17 +11,19 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
-- [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
-- [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
-- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
-  - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#cleaning-plugins)
-  - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#manual-conflict-resolution)
-  - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#adjusting-your-load-order)
-  - [Automatic conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#automated-conflict-resolution)
-  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#synchronizing-mod-masters)
-  - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#running-distant-land)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
-  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
+- [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#ui-and-hotkeys-module)
+- [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals-module)
+- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio-module)
+- [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-module)
+- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
+  - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-plugins)
+  - [Manual conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#manual-conflict-resolution)
+  - [Adjusting your load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#adjusting-your-load-order)
+  - [Automatic conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#automated-conflict-resolution)
+  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
+  - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#running-distant-land)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
+  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
 
 ## CHANGELOG
 
@@ -187,7 +189,7 @@ Addresses numerous mesh issues with the vanilla head meshes, leading to much bet
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - In the BAIN installer, tick **00 Core** and **01 Atlas Textures** only.
 
-## USER INTERFACE AND HOTKEYS MODULE
+## UI AND HOTKEYS MODULE
 
 ### HD UI
 
