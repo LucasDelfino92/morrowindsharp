@@ -89,16 +89,22 @@ Greatly improves performance and fixes some mesh errors.
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - In the BAIN installer, tick **00 Core** only.
   - Hide **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+- [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
+Restores visual effects on creatures.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
   - Install **Glowing Flames** only.
   - Hide Glowing Flames - TrueLightsAndDarkness Tweaks.ESP.
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor  
@@ -132,6 +138,9 @@ Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filterin
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 - [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
@@ -147,6 +156,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde Secret Master tools.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
+Removes the sheep sounds from Morrowind.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Gavrilo93  
@@ -334,15 +345,8 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Makes Vivec stay floating in the air unless attacked.
   - In the BAIN installer, tick **00Vanilla** only.
-- [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
-Restores visual effects on creatures.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
 The Incarnates will wear clothing and armor that reflects who they are.
-- [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 - [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
 Atlased Silt Strider with an improved collision box and more details, including a canvas and light sources.
   - In the BAIN installer, tick **H8 vanilla - High res textures** only.
@@ -401,8 +405,6 @@ Personal preset for darker nights and less horrible fog.
 
 ## AUDIO MODULE
 
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 In the vanilla game, Nordic barrows on Solstheim use the same "haunted whispers" sound effect that Dunmer tombs use. This mod gives the barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
   - In the BAIN installer, tick **00 Core** only.
@@ -414,8 +416,6 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
-Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
