@@ -178,7 +178,7 @@ Modifies how the Tribunal and Bloodmoon expansions are implemented into the game
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-### Meshes and Textures
+### HD Textures
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
