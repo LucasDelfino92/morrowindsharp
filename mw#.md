@@ -472,12 +472,6 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
   - Hide Putting Power in Willpower - Absorbonach.ESP.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
-- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by Remiros  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-  - Hide/delete the mod's **mwse** folder. This disables the new sprinting feature.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - GMST **fJumpRunMultiplier**
-  - This omits the change to the running jump speed.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
