@@ -343,6 +343,9 @@ Gives the base golden saint the feminine walk animation instead of the default m
 The Incarnates will wear clothing and armor that reflects who they are.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
+Atlased Silt Strider with an improved collision box and more details, including a canvas and light sources.
+  - In the BAIN installer, tick **H8 vanilla - High res textures** only.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
