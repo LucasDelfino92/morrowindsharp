@@ -566,7 +566,9 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 > This ensures there aren't new instances of guards in the Eastern Guard Tower.
 
-### Adjusting your load order
+### Install order and load order
+
+WIP Mod order
 
 - DLC: Tribunal
 - DLC: Bloodmoon
@@ -690,7 +692,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 
-This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
+WIP Load order
 
 - Morrowind.esm
 - Tribunal.esm
