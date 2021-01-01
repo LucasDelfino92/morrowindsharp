@@ -71,9 +71,6 @@ The best unofficial fan patch for Morrowind.
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
   - Hide all plugins except bcsounds.ESP, EBQ_Artifact.ESP, and master_index.ESP.
-- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
-The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
-  - Hide Better Propylon Teleport Warp.ESP.
 - [**Fixed Adamantium Armor Meshes**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
 Gives most of the Adamantium Armor set from Tribunal UV and Mesh repairs.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
@@ -171,8 +168,12 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 Removes the sheep sounds from Morrowind.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
+- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
+The player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
 - [**Supply Chests**](https://www.mediafire.com/file/ztyoimq8twh8hzy/Supply+Chests+v1.0.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
 Adds supply chests to the Imperial Cult, Imperial Legion, Morag Tong, Tribunal Temple, and to the Caldera Guild of Mages.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Gavrilo93  
@@ -434,10 +435,6 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
-Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
-- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
-The player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?) by R-Zero  
 Makes Miner class NPCs cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
@@ -449,6 +446,9 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
+The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
+  - Hide Better Propylon Teleport Warp.ESP.
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
