@@ -143,6 +143,8 @@ Gives the hidden imperial door the same shading as the walls it is next to so th
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
+- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+Replaces the three standard No Lore greetings with over sixty new ones.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
@@ -446,6 +448,8 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Disp
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+- [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306) by PeterBitt  
+Each gondolier in Vivec will get you to all gondolier ports in Vivec.
 - [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - In the BAIN installer, tick **00 Core + Vanilla Meshes** only.
@@ -614,6 +618,7 @@ Installation order.
 - FMI - #NotAllDunmer
 - FMI - Service Refusal and Contraband
 - Golden Saint Feminine Walk
+- Greetings for No Lore
 - Hidden Imperial Door Fix
 - LDM - Context Matters
 - One-handed Adamantium Axe
@@ -722,6 +727,7 @@ Installation order.
 - Bed Buddies
 - Diligent Defenders
 - Easy Escort
+- Gondolier Destinations
 - Graphic Herbalism MWSE
 - Graphic Herbalism - Patches and Replacers
 - Graphic Herbalism Lighting
@@ -796,6 +802,7 @@ Load order.
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - FMI_ServiceRefusal_Contraband.ESP
+- Greetings for No Lore.ESP
 - LDM - Context Matters.ESP
 - Adamantium Axe 1H.ESP
 - Religions Elaborated.ESP
@@ -828,6 +835,7 @@ Load order.
 - Silent Assassins.ESP
 - SoundSpellSoundEffect.ESP
 - Tunnel Cough.ESP
+- PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Projectiles Integrated (PAR Edit).ESP
 - Hunter's Mark - A Marksman Mod.ESP
