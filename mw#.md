@@ -866,6 +866,11 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 
 There are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
+- Delete the following records from **Supply Chests.ESP** for compatibility with **Religions Elaborated.ESP**:
+  - Cell **Ald-ruhn, Temple**
+  - Cell **Balmora, Temple**
+  - Cell **Ebonheart, Imperial Chapels**
+    - Omits the additions of supply chests already present in Religions Elaborated.
 - Delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
     - Omits a Hlaalu Guard placed by Yet Another Guard Diversity that Morrowind Anti-Cheese can't move correctly.
