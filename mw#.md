@@ -463,6 +463,8 @@ An alternative version of the official plugin Area Effect Arrows that distribute
   - Hide all plugins except Area Effect Projectiles Integrated (PAR Edit).
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
+- [**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751) by Endoran  
+Implements Alaisiagae's excellent Imperial armour resources into the game in a lore-friendly way.
 
 ### Leveling/Attributes/Skills tweaks
 
