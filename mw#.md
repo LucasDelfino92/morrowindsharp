@@ -887,9 +887,9 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
   - Cell **Balmora, Temple**
   - Cell **Ebonheart, Imperial Chapels**
     - Omits the additions of supply chests already present in Religions Elaborated.
-- Delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
+- Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
-    - Omits a Hlaalu Guard placed by Yet Another Guard Diversity that Morrowind Anti-Cheese can't move correctly.
+    - Omits addition of a Hlaalu Guard and the moving of another which are no longer necessary as the Sword of White Woe was removed.
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
   - Cell **Caldera, Guild of Mages** 
     - Omits an Imperial Guard placed by Morrowind Anti-Cheese who is no longer necessary.
