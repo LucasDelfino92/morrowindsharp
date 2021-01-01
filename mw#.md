@@ -571,14 +571,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 - **Religions Elaborated.ESP**
   - Clean with tes3cmd.
 
-### Manual conflict resolution
-
-- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
-  - Cell **Balmora, Eastern Guard Tower** 
-- Save the plugin as **Yet Another Guard Diversity - Regular.ESP**, overwriting the original when asked.
-
-> This ensures there aren't new instances of guards in the Eastern Guard Tower.
-
 ### Install order and load order
 
 Installation order.
@@ -865,27 +857,29 @@ Load order.
 
 Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
 
-### Automated conflict resolution
+### Conflict resolution
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order.
 
-There's an additional step to take if you've installed MDMD - More Deadly Morrowind Denizens.
+There are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
-- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following record from **Merged Objects.ESP**:
+- Delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
+  - Cell **Balmora, Eastern Guard Tower** 
+    - Omits a Hlaalu Guard placed by Yet Another Guard Diversity that Morrowind Anti-Cheese can't move correctly.
+- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
+  - Cell **Caldera, Guild of Mages** 
+    - Omits an Imperial Guard placed by Morrowind Anti-Cheese who is no longer necessary.
+- If you installed **MDMD - More Deadly Morrowind Denizens**, delete the following record from **Merged Objects.ESP**:
   - NPC **sjoring hard-heart** 
-- Save the plugin as **Merged Objects.ESP**, overwriting the original when asked.
-
-> This omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
-
-Though it is not necessary for Morrowind++, TESTool lets us merge the leveled lists in our active plugins in order to reduce conflicts, generating a **Merged_Leveled_Lists.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds certain weapons for sale to vendor leveled lists, and another mod also does the same. Thus the following step is completely optional:
-
-- Run TESTool in MO2.
-- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Select **Merge Leveled Lists for active plugins** and click **Execute**.
-- Close the program. **Merged_Leveled_Lists.esp** will now be present at the end of your load order.
+    - Omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
+- If you installed **BTB's Game Improvements - Necro Edit**, delete the following records from **Merged Objects.ESP**:
+  - Weapon **iron spider dagger**
+  - Weapon **imperial netch blade**
+  - Weapon **Stormkiss**
+    - Omits the addition of the Ignore Weapon Resistance flag added by Patch for Purists, which overwrites BTB's change to how weapon resistance works.
 
 ### Synchronizing mod masters
 
