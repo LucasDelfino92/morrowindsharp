@@ -892,7 +892,7 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
     - Omits addition of a Hlaalu Guard and the moving of another which are no longer necessary as the Sword of White Woe was removed.
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
   - Cell **Caldera, Guild of Mages** 
-    - Omits an Imperial Guard placed by Morrowind Anti-Cheese who is no longer necessary.
+    - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
 - If you installed **MDMD - More Deadly Morrowind Denizens**, delete the following record from **Merged Objects.ESP**:
   - NPC **sjoring hard-heart** 
     - Omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
