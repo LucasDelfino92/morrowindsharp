@@ -578,7 +578,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 ### Install order and load order
 
-WIP Mod order
+Installation order.
 
 - DLC: Tribunal
 - DLC: Bloodmoon
@@ -588,27 +588,45 @@ WIP Mod order
 - MGE XE Shader - EdgeAA
 - MGE XE Shader - Specialprocess
 - Patch for Purists
+- Unofficial Morrowind Official Plugins Patched
+- Better Propylon Teleport Script
+- Fixed Adamantium Armor Meshes
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
+- Creature VFX Restoration
 - Fix Those Bastard Rope Fences
 - Glowing Flames
+- Great Service
+- Immersive Run Fix
 - Loading Doors Lock Tune
+- Silt Strider Animation Restored
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
+- Sophisticated Save System
 - Blighted Blight
-- Diseases Restored
+- Blighted Mine Means Blighted Workers
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
+- FMI - Hospitality Papers Expanded
 - FMI - Legion Dialogue
 - FMI - Nice to Meet You
-- FMI - NotAllDunmer
+- FMI - #NotAllDunmer
+- FMI - Service Refusal and Contraband
+- Golden Saint Feminine Walk
+- Hidden Imperial Door Fix
 - LDM - Context Matters
+- One-handed Adamantium Axe
 - Religions Elaborated - No Quest Changes
 - Services Restored
+- Sheep-no-More
+- Silence
+- Telvanni Staff for the Telvanni Staff
 - Temples with Shrines
+- The Dream is the Door
 - The Publicans
+- Wizard Staff for Wizards
 - Expansion Delay
 - Early Transport to Mournhold
 - Facelift
@@ -617,47 +635,46 @@ WIP Mod order
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
 - Pete's Scroll 2018 ...in 2020
-- Logo Video Intro Reworked (Widescreen)
-- Title Screen Reworked (Widescreen)
-- Widescreen Splash Replacer
+- Logo Video Intro Reworked
+- Title Screen Reworked
 - Widescreen Splash Additions
+- Widescreen Splash Replacer
+- Alchemical Knowledge
 - Better Questlist
+- Book Worm
+- Character Creation Name Generator
+- Class Description Tooltip
+- Clock Block
+- Consistent Keys - MWSE Version
 - Continue
-- HUD Weapon Charge
-- New Game Confirmation
-- Shrine Tooltips
-- Smart Ammo
-- Smart Journal
-- Smart Map
+. Essential Indicators
+. HUD Weapon Charge
+. Memory Monitor
+. New Game Confirmation
+. Shrine Tooltips
+. Smart Ammo
+. Smart Journal
+. Smart Map
 - MWSEabotlib
+- Tooltip
 - UI Expansion
 - Book Pickup
 - Hotkeys Extended
+- Hot Quests
 - Kill Command
 - Quick Equip
+- Quick Loadouts
 - Right Click Menu Exit
 - Security Enhanced
 - Switchable Scriptures
 - Torch Hotkey
-- Bed Buddies
-- Diligent Defenders
-- Easy Escort
-- Graphic Herbalism MWSE
-- GH Patches and Replacers
-- Graphic Herbalism Lighting
-- MWSE Hide the Skooma
-- Pluginless and Adjustable Lower First Person Sneak
-- Great Service
-- Greet Distance Reducer
-- No Female Nord Screeching
-- Outfit Greetings Tweaked
-- Sheep-no-More
-- Shut the Fuck up Cliff Racers
 - Better Waterfalls
 - Waterfalls Tweaks
 - Bitter Coast Scum Replacer
 - Distant Mournhold
+- Forge of Hilbongard
 - Near Vanilla Road Sign Replacer
+- Nordic Chest Replacer
 - Remiros' Groundcover
 - Remiros' Groundcover Shaders - Landbias Fix
 - Vivec Palace Water Replacer
@@ -666,43 +683,92 @@ WIP Mod order
 - Complete Armor Joints
 - Imperial Steel Cuirass With Belt
 - Improved Thrown Weapon Projectiles
+- Particle Arrow Replacer
+- Practical Pauldrons - Streamlined Shoulders
+- Soldier Belts Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
+- Buoyant Lord Vivec
+- Incarnates Overhauled
+- Silt Strider Redone
 - Yet Another Guard Diversity - Regular
 - Apel's Rain Replacer
-- Creature VFX Restoration
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Mist Retexture
 - MWSE Blood Diversity
+- No Shield Sparkle
 - Subtle Magic Glow
 - Subtle Smoke
 - Visually Filled Soul Gems
-- Creeping Blight
+- Creeping Blight (MWSE)
 - Let There Be Darkness - Lua Lighting Overhaul
 - Light Decay
 - Transporter Lights
 - Weather Adjuster
-- Better Buoyancy
+- Haunted Barrows
+- Idle Talk
+- Its a Deal
+- No Female Nord Screeching
+- Outfit Greetings Tweaked
+- Shut the Fuck up Cliff Racers
+- Silent Assassins
+- Sound Spell Sound Effect
+- Tunnel Cough
+- Water Sounds
+- Bed Buddies
+- Diligent Defenders
+- Easy Escort
+- Graphic Herbalism MWSE
+- Graphic Herbalism - Patches and Replacers
+- Graphic Herbalism Lighting
+- MWSE Hide the Skooma
+- Pluginless and Adjustable Lower First Person Sneak
+- Wading in Water MW
+- Adamantium Armor Integrated
+- Area Effect Projectiles Integrated
+- Hunter's Mark - A Marksman Mod
+- Imperial Silver Armour
+- Class-Conscious Character Progression
 - Hold Your Breath
 - Magicka Based Skill Progression
 - Marksman Rebalanced
 - Putting Power In Willpower
-- Sneaky Strike
-- Speed and Movement Rebalanced
-- Wading in Water MW
 - Wings of Will - Willpower Based Levitation Speed
+- Blight is Coming
+- Brutal Backstabbing
+- Dynamic Timescale
+- Lua Lockbashing
+- Lucky Strike - A Critical Hit Mod
+- Merlord's Starting Equipment
+- DragonDoor
+- HardTrade
+- Limited Leaping
+- MAB0's Foundations
+- MAB0's Ingestion
+- MAB0's Manipulated
+- No Disease Labels
 - No Rest Without Beds
+- No Taunting
 - Realistic Movement Speeds
+- Service Requirements Lore
+- Sneaky Strike
 - Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
+- BTB's Game Improvements - Necro Edit
+- Helm of Tohan BTBGI Patch
+- Balanced Passive Races and Birthsigns
+- Economy Adjuster Adjustments
+- More Deadly Morrowind Denizens
+- Umbra - Blademaster
+- There Can Be Only One
 - Beware the Sixth House (Sixth House Overhaul)
-- Tribunal Rebalance
 - Bloodmoon Rebalance
+- Tribunal Rebalance
 
-WIP Load order
+Load order.
 
 - Morrowind.esm
 - Tribunal.esm
@@ -711,41 +777,80 @@ WIP Load order
 - Ownership Overhaul.esm
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
+- bcsounds.ESP
+- EBQ_Artifact.ESP
+- master_index.ESP
+- Better Propylon Teleport Warp.ESP
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Diseases Restored.ESP
+- Great Service.ESP
+- Silt Strider Animation Restored.ESP
+- Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
+- Hospitality_Papers_Expanded_v2.7.ESP
 - FMI_Legion_Dialogue.ESP
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
+- FMI_ServiceRefusal_Contraband.ESP
 - LDM - Context Matters.ESP
+- Adamantium Axe 1H.ESP
 - Religions Elaborated.ESP
 - Services Restored.ESP
+- Silence.ESP
+- Telvanni Staff for the Telvanni Staff.ESP
 - Temples With Shrines.ESP
+- The Dream is the Door.ESP
 - The Publicans.ESP
+- Clean_wizardsstaffforwizards.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
-- Great Service.ESP
-- hw_GreetDistanceReducer.ESP
-- outfit greetings tweaked.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
+- md_Forge of Hilbongard.ESP
 - NearVanillaRoadSigns.ESP
+- Nordic Chest Replacer.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
+- Buoyant Lord Vivec.ESP
+- Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
-- Speed and Movement.ESP
-- No Daedric Drops for Purists.ESP
+- Haunted Barrows.ESP
+- Idle Talk.ESP
+- Its a deal.ESP
+- outfit greetings tweaked.ESP
+- Silent Assassins.ESP
+- SoundSpellSoundEffect.ESP
+- Tunnel Cough.ESP
+- Adamantium Armor Integrated.ESP
+- Area Effect Projectiles Integrated (PAR Edit).ESP
+- Hunter's Mark - A Marksman Mod.ESP
+- Hunter's Mark PFP Patch.ESP
+- Hunter's Mark AEPI Patch.ESP
+- SilverArmourIntegration.ESP
+- Blight is Coming.ESP
+- Lucky Strike.ESP
+- Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
+- BTB's Game Improvements (Necro Edit).ESP
+- BTBGI PFP Patch.ESP
+- Helm of Tohan BTBGI Patch.ESP
+- SoldierBeltsFix.ESP
+- EcoAdjCrime (Necro Edit).ESP
+- MDMD - More Deadly Morrowind Denizens.ESP
+- MDMD - Creatures Add-On.ESP
+- MDMD AAI Patch.ESP
+- BTBGI MDMD Patch.ESP
+- Umbra, Blademaster.ESP
+- There Can Be Only One (Alt Fyr).ESP
+- TCBOO MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
 - Merged Objects.ESP
-- Merged_Leveled_Lists.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
