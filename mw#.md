@@ -100,6 +100,8 @@ Flames are now glow mapped and/or properly illuminated.
   - Hide Glowing Flames - TrueLightsAndDarkness Tweaks.ESP.
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
+Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
@@ -137,11 +139,6 @@ NPCs no longer will greet you as if they had just met you.
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
-- [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
-Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 Replaces the three standard No Lore greetings with over sixty new ones.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
@@ -173,6 +170,8 @@ Adds a Silver Staff of Peace into the inventory of each Mouth in the Telvanni Co
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
+- [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653?) by Melchior Dahrk  
+Makes the Madstone of the Ahemmusa align with its in game description so that the enchantment also affects the player and you will now hear the whispers of the ancestors when you use it, and adds some flavor dialogue to give some background on the amulet. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
@@ -329,6 +328,10 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+- [**Lore-Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939) by R-Zero and Petethegoat  
+Adjusts the appearance of the Iron Warhammer to match the in-game description.
+- [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
+Reduces the dimensions and spikiness of Orcish Boots.
 - [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
 Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and Bloodmoon.
   - Hide both .ESPs.
@@ -355,6 +358,9 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Makes Vivec stay floating in the air unless attacked.
   - In the BAIN installer, tick **00Vanilla** only.
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
 The Incarnates will wear clothing and armor that reflects who they are.
 - [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
