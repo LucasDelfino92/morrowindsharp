@@ -184,6 +184,7 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653?) by Melchior Dahrk  
 Makes the Madstone of the Ahemmusa align with its in game description so that the enchantment also affects the player and you will now hear the whispers of the ancestors when you use it, and adds some flavor dialogue to give some background on the amulet. 
+  - Hide the Meshes and Textures folders.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
