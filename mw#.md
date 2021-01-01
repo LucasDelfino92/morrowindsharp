@@ -599,7 +599,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - MGE XE Shader - Specialprocess
 - Patch for Purists
 - Unofficial Morrowind Official Plugins Patched
-- Better Propylon Teleport Script
 - Fixed Adamantium Armor Meshes
 - Correct UV Rocks
 - Morrowind Optimization Patch
@@ -608,13 +607,17 @@ The installation order dictates the priority a given mod's assets have over the 
 - Fix Those Bastard Rope Fences
 - Glowing Flames
 - Great Service
+- Hidden Imperial Door Fix
 - Immersive Run Fix
-- Loading Doors Lock Tune
 - Silt Strider Animation Restored
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
 - Sophisticated Save System
+- Expansion Delay
+- Early Transport to Mournhold
+- Facelift
+- Intelligent Textures
 - Blighted Blight
 - Blighted Mine Means Blighted Workers
 - Divayth Fyr Puzzle Fixed
@@ -626,23 +629,26 @@ The installation order dictates the priority a given mod's assets have over the 
 - FMI - Service Refusal and Contraband
 - Golden Saint Feminine Walk
 - Greetings for No Lore
-- Hidden Imperial Door Fix
+- Imperial Steel Cuirass With Belt
+- Improved Thrown Weapon Projectiles
 - LDM - Context Matters
+- Loading Doors Lock Tune
+- Lore-Friendly Iron Warhammer
 - One-handed Adamantium Axe
 - Religions Elaborated - No Quest Changes
 - Services Restored
 - Sheep-no-More
 - Silence
+- Silent Assassins
+- Soldier Belts Fix
+- Sound Spell Sound Effect
 - Supply Chests
 - Telvanni Staff for the Telvanni Staff
 - Temples with Shrines
 - The Dream is the Door
+- The Madstone
 - The Publicans
 - Wizard Staff for Wizards
-- Expansion Delay
-- Early Transport to Mournhold
-- Facelift
-- Intelligent Textures
 - Better Daedric Font
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
@@ -693,11 +699,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - Well Diversified
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
-- Imperial Steel Cuirass With Belt
-- Improved Thrown Weapon Projectiles
+- No Orcish Clown Shoes
 - Particle Arrow Replacer
 - Practical Pauldrons - Streamlined Shoulders
-- Soldier Belts Fix
 - Spear-Staff Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
@@ -727,11 +731,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - No Female Nord Screeching
 - Outfit Greetings Tweaked
 - Shut the Fuck up Cliff Racers
-- Silent Assassins
-- Sound Spell Sound Effect
 - Tunnel Cough
 - Water Sounds
 - Bed Buddies
+- Better Propylon Teleport Script
 - Diligent Defenders
 - Easy Escort
 - Gondolier Destinations
@@ -795,12 +798,13 @@ Load order.
 - bcsounds.ESP
 - EBQ_Artifact.ESP
 - master_index.ESP
-- Better Propylon Teleport Warp.ESP
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 - Great Service.ESP
 - Silt Strider Animation Restored.ESP
+- Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
 - Clean Blighted_Kwama_Workers.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
@@ -815,14 +819,15 @@ Load order.
 - Religions Elaborated.ESP
 - Services Restored.ESP
 - Silence.ESP
+- Silent Assassins.ESP
+- SoundSpellSoundEffect.ESP
 - Supply Chests.ESP
 - Telvanni Staff for the Telvanni Staff.ESP
 - Temples With Shrines.ESP
 - The Dream is the Door.ESP
+- The Madstone.ESP
 - The Publicans.ESP
 - Clean_wizardsstaffforwizards.ESP
-- Expansion Delay.ESP
-- Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
@@ -839,9 +844,8 @@ Load order.
 - Idle Talk.ESP
 - Its a deal.ESP
 - outfit greetings tweaked.ESP
-- Silent Assassins.ESP
-- SoundSpellSoundEffect.ESP
 - Tunnel Cough.ESP
+- Better Propylon Teleport Warp.ESP
 - PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Projectiles Integrated (PAR Edit).ESP
