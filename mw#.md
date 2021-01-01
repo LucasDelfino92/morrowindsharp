@@ -333,6 +333,9 @@ Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+- [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353) by hollaajith  
+Changes the position where Spears/Staffs are held. Now they are held closer the end, as it should be.
+  - In the BAIN installer, expand **Spear and Staff** and set Data Files as the correct data directory.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
