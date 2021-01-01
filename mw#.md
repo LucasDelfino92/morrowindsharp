@@ -488,8 +488,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
-- [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
-Enemies can now chase you through doors.
 - [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
@@ -499,12 +497,11 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
   - Place the **MWSE** folder alongside Lucky Strike.ESP in the **Data Files** folder.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
-- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
-Adds rank requirements to access faction services.
-  - In the BAIN installer, tick **Service Requirements Lore** only.
 
 ### Balance
 
+- [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
+Enemies can now chase you through doors.
 - [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
@@ -523,6 +520,9 @@ Prevents the player from resting unless they activate a bed.
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
+Adds rank requirements to access faction services.
+  - In the BAIN installer, tick **Service Requirements Lore** only.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
