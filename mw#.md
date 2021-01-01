@@ -104,6 +104,8 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 - [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?) by R-Zero  
@@ -139,10 +141,17 @@ NPCs no longer will greet you as if they had just met you.
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 Replaces the three standard No Lore greetings with over sixty new ones.
+- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
+Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**Lore-Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939) by R-Zero and Petethegoat  
+Adjusts the appearance of the Iron Warhammer to match the in-game description.
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
 Sets the Adamantium Axe to be a one-handed weapon, and adjusts it's damage and speed accordingly.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
@@ -162,6 +171,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 Removes the sheep sounds from Morrowind.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
+Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Supply Chests**](https://www.mediafire.com/file/ztyoimq8twh8hzy/Supply+Chests+v1.0.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
 Adds supply chests to the Imperial Cult, Imperial Legion, Morag Tong, Tribunal Temple, and to the Caldera Guild of Mages.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Gavrilo93  
@@ -324,12 +335,6 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
-- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
-Adds the missing belt to the male Imperial Steel Cuirass mesh.
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
-Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-- [**Lore-Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939) by R-Zero and Petethegoat  
-Adjusts the appearance of the Iron Warhammer to match the in-game description.
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Reduces the dimensions and spikiness of Orcish Boots.
 - [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
@@ -337,8 +342,6 @@ Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and
   - Hide both .ESPs.
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523?) by Kyim  
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
-Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353) by hollaajith  
 Changes the position where Spears/Staffs are held. Now they are held closer the end, as it should be.
   - In the BAIN installer, expand **Spear and Staff** and set Data Files as the correct data directory.
@@ -358,9 +361,6 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Makes Vivec stay floating in the air unless attacked.
   - In the BAIN installer, tick **00Vanilla** only.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
 The Incarnates will wear clothing and armor that reflects who they are.
 - [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
