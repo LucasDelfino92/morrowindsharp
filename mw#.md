@@ -689,6 +689,7 @@ Installation order.
 - Particle Arrow Replacer
 - Practical Pauldrons - Streamlined Shoulders
 - Soldier Belts Fix
+- Spear-Staff Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
