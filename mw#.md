@@ -118,7 +118,7 @@ Changes how saves are handled by Morrowind. The goal of the mod is to provide mo
   - Download using Code -> Download Zip.
   - Set the **Sophisticated Save System** folder as the correct data directory, and rename the mod appropiately.
 
-### Continuity Fixes
+### Continuity
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm.
