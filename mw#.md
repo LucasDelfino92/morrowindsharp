@@ -11,6 +11,7 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
+- [Continuity module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#continuity-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio-module)
@@ -114,7 +115,23 @@ Changes how saves are handled by Morrowind. The goal of the mod is to provide mo
   - Download using Code -> Download Zip.
   - Set the **Sophisticated Save System** folder as the correct data directory, and rename the mod appropiately.
 
-### Continuity
+### Expansion Implementation
+
+- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
+Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
+### HD Textures
+
+- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
+  - Install **kart_facelift_meshes** only.
+- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures** only.
+
+## CONTINUITY MODULE
 
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm.
@@ -189,22 +206,6 @@ Makes the Madstone of the Ahemmusa align with its in game description so that th
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
 Adds in a Wizards Staff to high ranking members of the Mages Guild.
-
-### Expansion Implementation
-
-- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
-Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-### HD Textures
-
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
-Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Install **kart_facelift_meshes** only.
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures** only.
 
 ## UI AND HOTKEYS MODULE
 
@@ -587,7 +588,7 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
 
 ### Install order and load order
 
-Installation order.
+The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
 - DLC: Tribunal
 - DLC: Bloodmoon
