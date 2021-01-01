@@ -642,14 +642,14 @@ Installation order.
 - Clock Block
 - Consistent Keys - MWSE Version
 - Continue
-. Essential Indicators
-. HUD Weapon Charge
-. Memory Monitor
-. New Game Confirmation
-. Shrine Tooltips
-. Smart Ammo
-. Smart Journal
-. Smart Map
+- Essential Indicators
+- HUD Weapon Charge
+- Memory Monitor
+- New Game Confirmation
+- Shrine Tooltips
+- Smart Ammo
+- Smart Journal
+- Smart Map
 - MWSEabotlib
 - Tooltip
 - UI Expansion
