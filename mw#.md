@@ -164,6 +164,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 Removes the sheep sounds from Morrowind.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
+- [**Supply Chests**](https://www.mediafire.com/file/ztyoimq8twh8hzy/Supply+Chests+v1.0.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
+Adds supply chests to the Imperial Cult, Imperial Legion, Morag Tong, Tribunal Temple, and to the Caldera Guild of Mages.
 - [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Gavrilo93  
 Adds a Silver Staff of Peace into the inventory of each Mouth in the Telvanni Council.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
@@ -503,6 +505,8 @@ Adds starting equipment, based on the items seen in the images in the class sele
 
 ### Balance
 
+- [**Caldera Mages Guild Guarded Alchemy Set**](https://www.mediafire.com/file/6qdmt7i3s4n4yym/Caldera+Mages+Guild+Guarded+Alchemy+Set+v1.0.zip/file) by Sigourn  
+Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
 - [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) by Archimag  
@@ -617,6 +621,7 @@ Installation order.
 - Services Restored
 - Sheep-no-More
 - Silence
+- Supply Chests
 - Telvanni Staff for the Telvanni Staff
 - Temples with Shrines
 - The Dream is the Door
@@ -739,6 +744,7 @@ Installation order.
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
 - Merlord's Starting Equipment
+- Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
 - HardTrade
 - Limited Leaping
@@ -795,6 +801,7 @@ Load order.
 - Religions Elaborated.ESP
 - Services Restored.ESP
 - Silence.ESP
+- Supply Chests.ESP
 - Telvanni Staff for the Telvanni Staff.ESP
 - Temples With Shrines.ESP
 - The Dream is the Door.ESP
@@ -830,6 +837,7 @@ Load order.
 - Blight is Coming.ESP
 - Lucky Strike.ESP
 - Service_Requirements.ESP
+- Caldera Mages Guild Guarded Alchemy Set.ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
