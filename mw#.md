@@ -160,6 +160,8 @@ Replaces the three standard No Lore greetings with over sixty new ones.
 Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284) by R-Zero  
+In-game dialogues and journal entries suggested that some exceptional members of Royal Guard wield King's Oath blades, but that wasn't the case. This plugin adds King's Oath to Helseth's personal guards in the throne room.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
@@ -168,6 +170,8 @@ Automatically synchronizes linked doors locked/unlocked state on activate, lock/
 Adjusts the appearance of the Iron Warhammer to match the in-game description.
 - [**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745) by grasscid  
 Sets the Adamantium Axe to be a one-handed weapon, and adjusts it's damage and speed accordingly.
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
+Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Install **No Quest Changes** only.
@@ -631,10 +635,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - Greetings for No Lore
 - Imperial Steel Cuirass With Belt
 - Improved Thrown Weapon Projectiles
+- King's Oath Fix
 - LDM - Context Matters
 - Loading Doors Lock Tune
 - Lore-Friendly Iron Warhammer
 - One-handed Adamantium Axe
+- Plunder the Dungeon
+- Redaynia Restored
 - Religions Elaborated - No Quest Changes
 - Services Restored
 - Sheep-no-More
@@ -813,9 +820,12 @@ Load order.
 - FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - FMI_ServiceRefusal_Contraband.ESP
+- Redaynia Restored.ESP
 - Greetings for No Lore.ESP
+- KingsOathFix.ESP
 - LDM - Context Matters.ESP
 - Adamantium Axe 1H.ESP
+- Clean Plunder the Dungeon.ESP
 - Religions Elaborated.ESP
 - Services Restored.ESP
 - Silence.ESP
