@@ -122,6 +122,7 @@ Gameplay:
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
 - [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
+- [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)
 - [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)
 
 Overhauls:
