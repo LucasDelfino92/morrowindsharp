@@ -212,6 +212,9 @@ Makes the Madstone of the Ahemmusa align with its in game description so that th
   - Hide the Meshes and Textures folders.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294?) by R-Zero  
+Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit. An optional plugin sets summoned daedra's souls to zero, making them impossible to soultrap.
+  - Hide TrueScourge.ESP
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
 Adds in a Wizards Staff to high ranking members of the Mages Guild.
 
@@ -570,6 +573,7 @@ Increases the penalties for crime.
   - Hide MDMD - Bosses Only.ESP.
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
+  - MDMD - More Deadly Morrowind Denizens encourages the use of this mod, as it doesn't touch Umbra.
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide all plugins except There Can Be Only One (Alt Fyr).ESP.
@@ -660,6 +664,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - The Dream is the Door
 - The Madstone
 - The Publicans
+- True Scourge
 - Wizard Staff for Wizards
 - Better Daedric Font
 - Better Dialogue Font
@@ -843,6 +848,7 @@ Load order.
 - The Dream is the Door.ESP
 - The Madstone.ESP
 - The Publicans.ESP
+- TrueScourge_zerosouls.ESP
 - Clean_wizardsstaffforwizards.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - Waterfalls Tweaks.ESP
@@ -889,7 +895,8 @@ Load order.
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- Merged Objects.ESP
+- **Merged Objects.ESP**
+- **Balanced Pasive Races and Birthsigns.ESP**
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
@@ -898,7 +905,11 @@ Load order.
 - **Rem_Solstheim.ESP**
 - **Rem_WG.ESP**
 
-Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
+There are a couple of notes here:
+
+- We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
+- Balanced Pasive Races and Birthsigns.ESP should be re-enabled after you've finished merging objects. This is because Merged Objects will otherwise merge conflicting records with BTB's Game Improvements (Necro Edit).ESP which we would have to delete afterwards, so it's best to simply avoid this problem.
+- The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 
 ### Conflict resolution
 
