@@ -172,6 +172,8 @@ Adjusts the appearance of the Iron Warhammer to match the in-game description.
 Sets the Adamantium Axe to be a one-handed weapon, and adjusts it's damage and speed accordingly.
 - [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
 Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
+- [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero  
+Adds the missing village of Ald Redaynia. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders. The mod doesn't feature any quest, but has some custom dialogue; the villagers will provide you with directions to nearby quest locations, given enough disposition.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 Adds supply chests, missing temple markers, healing services to healers, and disallows you to be a member of both Tribunal Temple and Imperial Cult.
   - Install **No Quest Changes** only.
@@ -187,6 +189,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - This omits the restoration of Hecerinde Secret Master tools.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
+- [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits.
 - [**Silence**](https://www.nexusmods.com/morrowind/mods/37921) by Jyggalag117  
 You will not be able to speak with NPCs when silenced.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
@@ -645,6 +649,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Religions Elaborated - No Quest Changes
 - Services Restored
 - Sheep-no-More
+- Shrine of Azura
 - Silence
 - Silent Assassins
 - Soldier Belts Fix
@@ -828,6 +833,7 @@ Load order.
 - Clean Plunder the Dungeon.ESP
 - Religions Elaborated.ESP
 - Services Restored.ESP
+- Shrine of Azura.ESP
 - Silence.ESP
 - Silent Assassins.ESP
 - SoundSpellSoundEffect.ESP
