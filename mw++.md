@@ -291,6 +291,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+  - Also install [**Let There Be Darkness (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). This will remove a compatibility issue with mods that may use the **L** key, such as Security Enhanced (a mod present in this guide). Only use it for version 1.1 of Let There Be Darkness!
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
@@ -405,6 +406,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Subtle Magic Glow
 - Subtle Smoke
 - Let There Be Darkness - Lua Lighting Overhaul
+- Let There Be Darkness (No Level Design Lighting Preview Patch)
 - Weather Adjuster
 - Greet Distance Reducer
 - No Female Nord Screeching
@@ -510,11 +512,6 @@ The following mods require additional configuration through the in-game **Mod Co
 - If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to 75.
 - In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
 
-**Security Enhanced**
-- Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
-- Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
-- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
-
 **UI Expansion**  
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
 
@@ -526,7 +523,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
-- **Security Enhanced**: **O** key to equip lockpicks, **P** key to equip probes.
+- **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
