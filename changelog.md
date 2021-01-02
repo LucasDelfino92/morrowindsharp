@@ -19,7 +19,6 @@ Continuity:
 
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
-- [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294)
 
 UI and Hotkeys:
 
