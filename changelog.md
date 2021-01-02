@@ -17,7 +17,6 @@ Core:
 
 Continuity:
 
-- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
 - [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294)
@@ -87,7 +86,6 @@ Overhauls:
 - [**Passage of Prayers - High Fane Corridor Overhaul**](https://www.nexusmods.com/morrowind/mods/46786)
 - [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729)
 - [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226)
-- [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
 - [**Seven Graces Shrines - Enhanced**](https://www.nexusmods.com/morrowind/mods/46417)
 - [**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571)
 - [**Tower of Vos**](https://www.nexusmods.com/morrowind/mods/43527)
