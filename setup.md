@@ -182,7 +182,7 @@ Follow these steps for **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
 
 - Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
 - In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
-- Navigate to the location of the tool you want to install and double click on its .exe file.
+- Navigate to the location of the tool and double click on its .exe file.
 - In the **Start In** field, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind).
 - Click **Apply** and then **OK**.
 
