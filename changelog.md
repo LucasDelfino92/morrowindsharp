@@ -30,7 +30,6 @@ Gameplay:
 - [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
 - [**Realistic Repair Add-On**](https://www.nexusmods.com/morrowind/mods/47461)
-- [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
