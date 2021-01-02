@@ -399,7 +399,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Yet Another Guard Diversity - Regular
-- Apel's Rain Replacer
 - Creature VFX Restoration
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
