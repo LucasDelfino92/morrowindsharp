@@ -7,7 +7,7 @@
 
 - Removed roughly 40 mods from Morrowind++ in preparation for the alternate, more extensive guide, which will include almost all of them.
 
-## Removed mods
+## To be checked for inclusion
 
 Continuity:
 
