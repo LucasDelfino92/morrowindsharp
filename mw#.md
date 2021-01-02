@@ -64,7 +64,7 @@ One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties
 
 ## CORE MODULE
 
-### Bug Fixes and Optimization
+### Bug fixes and optimization
 
 - [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by half11  
 The best unofficial fan patch for Morrowind.
@@ -115,14 +115,14 @@ Changes how saves are handled by Morrowind. The goal of the mod is to provide mo
   - Download using Code -> Download Zip.
   - Set the **Sophisticated Save System** folder as the correct data directory, and rename the mod appropiately.
 
-### Expansion Implementation
+### Expansion implementation
 
 - [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
 Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-### HD Textures
+### HD textures
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
