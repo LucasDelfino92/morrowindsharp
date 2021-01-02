@@ -9,11 +9,6 @@
 
 ## To be checked for inclusion
 
-Continuity:
-
-- [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
-- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
-
 Visuals - Equipment and Items:
 
 - [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816/)
