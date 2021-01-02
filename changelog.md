@@ -3,6 +3,10 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## January 2nd, 2020
+
+- Reformatted Removed mods section of the changelog. All mods which will be present in the alternate, more complete guide, have been removed from this section. In addition, mods that were removed further back in the history of the guide and which may prove to be interesting to many players have been added back to that section.
+
 ## December 27th
 
 - Added No Daedric Drops for Purists.
