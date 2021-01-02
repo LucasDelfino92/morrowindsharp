@@ -10,11 +10,6 @@
 
 ## Removed mods
 
-Core:
-
-- [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
-- [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
-
 Continuity:
 
 - [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
@@ -23,14 +18,11 @@ Continuity:
 UI and Hotkeys:
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?)
-- [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
-- [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
 - [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608)
 - [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634)
 
 Visuals:
 
-- [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488)
 - [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
 - [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)
@@ -48,16 +40,10 @@ Audio:
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
-- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 
 Gameplay:
 
-- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726)
-- [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
-- [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?)
-- [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845)
-- [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
