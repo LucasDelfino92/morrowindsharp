@@ -6,6 +6,7 @@
 ## January 2nd, 2020
 
 - Reformatted Removed mods section of the changelog. All mods which will be present in the alternate, more complete guide, have been removed from this section. In addition, mods that were removed further back in the history of the guide and which may prove to be interesting to many players have been added back to that section.
+- Removed roughly 40 mods from Morrowind++ in preparation for the new guide, which will include almost all of them.
 
 ## December 27th
 
