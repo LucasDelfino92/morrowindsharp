@@ -394,6 +394,9 @@ Makes windows glow in the dark.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
+Adds a heat haze shader controller by MGE XE and MWSE-lua. Subtle overall, gets faster, stronger and closer when near lava pools.
+  - Make sure to place **heathaze.fx** at the end of your MGE XE shader chain.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Install **Mist Retexture** only.
@@ -432,15 +435,23 @@ Personal preset for darker nights and less horrible fog.
 
 ## AUDIO MODULE
 
+- [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471) by TheInkBunny  
+Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism. 
+  - Install **(No Scripts**) only.
+  - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
 - [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 In the vanilla game, Nordic barrows on Solstheim use the same "haunted whispers" sound effect that Dunmer tombs use. This mod gives the barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
   - In the BAIN installer, tick **00 Core** only.
+- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?) by RedFurryDemon and OperatorJack  
+Allows you to hear the Heart of Lorkhan from the surface when inside the Ghostfence.
 - [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?) by Von Djangos  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 - [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
+Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
