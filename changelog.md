@@ -27,6 +27,7 @@ UI and Hotkeys:
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?)
 - [**Inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847)
 - [**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540?)
+- [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)
 - [**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608)
 - [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634)
 
@@ -65,7 +66,9 @@ Gameplay:
 - [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648)
 - [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)
 - [**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147?)
+- [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845)
 - [**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106)
+- [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795?)
 - [**Ordinator Armour Fix**](https://www.nexusmods.com/morrowind/mods/47781?)
 - [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)
