@@ -343,8 +343,11 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
+Adjustment of the Nordic Iron Helm mesh so that it doesn't look as stupid. 
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Reduces the dimensions and spikiness of Orcish Boots.
+  - Install **Improved Nordic Iron Helm 1.0-alternate** only.
 - [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
 Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and Bloodmoon.
   - Hide both .ESPs.
@@ -708,6 +711,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Well Diversified
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
+- Improved Nordic Iron Helm (Alternate)
 - No Orcish Clown Shoes
 - Particle Arrow Replacer
 - Practical Pauldrons - Streamlined Shoulders
@@ -723,6 +727,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Apel's Rain Replacer
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
+- Heat Haze
 - Mist Retexture
 - MWSE Blood Diversity
 - No Shield Sparkle
@@ -734,10 +739,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - Light Decay
 - Transporter Lights
 - Weather Adjuster
+- Distant Thunder (No Scripts)
 - Haunted Barrows
+- Heartthrum
 - Idle Talk
 - Its a Deal
 - No Female Nord Screeching
+- Outdoor Banners With Sound
 - Outfit Greetings Tweaked
 - Shut the Fuck up Cliff Racers
 - Tunnel Cough
@@ -854,9 +862,12 @@ Load order.
 - Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
+- Distant Thunder (No Scripts).ESP
 - Haunted Barrows.ESP
+- RFD_Heartthrum.ESP
 - Idle Talk.ESP
 - Its a deal.ESP
+- Outdoor Banners With Sound.ESP
 - outfit greetings tweaked.ESP
 - Tunnel Cough.ESP
 - Better Propylon Teleport Warp.ESP
