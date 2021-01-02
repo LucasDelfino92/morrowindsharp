@@ -30,7 +30,7 @@ The **Morrowind++** page is divided into a series of modules, all of which can b
 
 All mods present in Morrowind++ will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire or Google Drive).
 
-At the end of Morrowind++ you will find a link to the [**mod order and load order**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind) of the mods installed in the guide. Following this order is very important to ensure mods work as intended.
+At the end of Morrowind++ you will find a link to the install order and load order of the mods present in the guide. Following this order is very important to ensure mods work as intended.
 
 ## FAQ
 
