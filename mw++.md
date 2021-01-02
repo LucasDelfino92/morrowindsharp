@@ -307,13 +307,12 @@ Personal preset for darker nights and less horrible fog.
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-- [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+- [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
   - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
   - Also install the **GH Patches and Replacers** optional file.
     - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella  
-Picking a glowing plant using Graphic Herbalism MWSE will also remove the glow-light.
+  - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella. Picking a glowing plant will also remove the glow-light.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
