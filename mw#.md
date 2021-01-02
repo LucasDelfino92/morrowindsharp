@@ -110,10 +110,6 @@ Forces the game to instantly close on exit.
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
-- [**Sophisticated Save System**](https://github.com/NullCascade/morrowind-mods) by NullCascade  
-Changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
-  - Download using Code -> Download Zip.
-  - Set the **Sophisticated Save System** folder as the correct data directory, and rename the mod appropiately.
 
 ### Expansion implementation
 
@@ -625,7 +621,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
-- Sophisticated Save System
 - Expansion Delay
 - Early Transport to Mournhold
 - Facelift
