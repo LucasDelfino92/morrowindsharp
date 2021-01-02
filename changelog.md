@@ -62,6 +62,13 @@ Core:
 - [**Dry Stone Walls Revamped**](https://www.nexusmods.com/morrowind/mods/49069)
 - [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646?)
 
+Continuity:
+
+- [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284)
+- [**Skyrim-like Draugr Eyes**](https://www.nexusmods.com/morrowind/mods/43277)
+- [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350)
+- [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294)
+
 UI and Hotkeys:
 
 - [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?)
@@ -72,6 +79,7 @@ UI and Hotkeys:
 
 Visuals:
 
+- [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488)
 - [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816/)
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481)
 - [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?)
@@ -96,6 +104,7 @@ Audio:
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?)
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)
 - [**Sounds of Souls**](https://github.com/NullCascade/morrowind-mods/)
+- [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)
 
 Gameplay:
 
