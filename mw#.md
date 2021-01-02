@@ -595,6 +595,16 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ## FINISHING TOUCHES
 
+### Additional patches
+
+- [**Morrowind# Patches**](https://www.mediafire.com/file/y40uy5feib2dsmw/Sigourn's+Morrowind#+Patches.zip/file) by Sigourn  
+BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to tick install the appropiate patch:
+  - 00 Hunter's Mark + Patch for Purists Patch
+  - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
+  - 02 MDMD Creatures + BTBGI Patch
+  - 03 MDMD Denizens + Adamantium Armor Integrated Patch
+  - 04 TCBOO + MDMD Denizens Patch
+
 ### Cleaning plugins
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
