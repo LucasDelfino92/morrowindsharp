@@ -338,7 +338,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Install order and load order
 
-The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
+The installation order dictates the priority a given mod's assets have over the mods' plugins installed before them. Respect this order to ensure assets are overwritten as intended.
 
 - DLC: Tribunal
 - DLC: Bloodmoon
@@ -423,9 +423,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 
-## MORROWIND++ LOAD ORDER
-
-This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
 
 - Morrowind.esm
 - Tribunal.esm
