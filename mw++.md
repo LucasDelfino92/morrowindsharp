@@ -336,11 +336,132 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ## FINISHING TOUCHES
 
-### ADJUSTING YOUR LOAD ORDER
+### Install order and load order
 
-Before running the automated conflict resolution tools, we need to confirm your installed plugins are in the right order. [**Follow the load order in this page**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++order.md#morrowind-load-order) and adjust your load order accordingly before proceeding to the next step.
+The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-### AUTOMATED CONFLICT RESOLUTION
+- DLC: Tribunal
+- DLC: Bloodmoon
+- MGE XE Data Files
+- MGE XE Shader - 16 Lights Shaders Alpha
+- MGE XE Shader - Deband Fogaware v2
+- MGE XE Shader - EdgeAA
+- MGE XE Shader - Specialprocess
+- Patch for Purists
+- Correct UV Rocks
+- Morrowind Optimization Patch
+- Project Atlas
+- Fix Those Bastard Rope Fences
+- Glowing Flames
+- Great Service
+- Expeditious Exit
+- Quest Skill Reward Fix
+- Skill Increase GMST Fix
+- Expansion Delay
+- Early Transport to Mournhold
+- Facelift
+- Intelligent Textures
+- Improved Thrown Weapon Projectiles
+- Services Restored
+- Sheep-no-More
+- The Publicans
+- Better Daedric Font
+- Better Dialogue Font
+- Comrade Raven's Book Arts Replacer
+- Pete's Scroll 2018 ...in 2020
+- Logo Video Intro Reworked (Widescreen)
+- Title Screen Reworked (Widescreen)
+- Widescreen Splash Replacer
+- Widescreen Splash Additions
+- Better Questlist
+- Continue
+- HUD Weapon Charge
+- New Game Confirmation
+- Shrine Tooltips
+- Smart Ammo
+- Smart Journal
+- Smart Map
+- MWSEabotlib
+- UI Expansion
+- Book Pickup
+- Hotkeys Extended
+- Quick Equip
+- Right Click Menu Exit
+- Security Enhanced
+- Torch Hotkey
+- Better Waterfalls
+- Waterfalls Tweaks
+- Bitter Coast Scum Replacer
+- Near Vanilla Road Sign Replacer
+- Remiros' Groundcover
+- Remiros' Groundcover Shaders - Landbias Fix
+- Vivec Palace Water Replacer
+- Weapon Sheathing
+- Weapon Sheathing - Bow Position Edit
+- Morrowind Optimization Patch - Weapon Sheathing Patch
+- Yet Another Guard Diversity - Regular
+- Apel's Rain Replacer
+- Creature VFX Restoration
+- Glow in the Dahrk
+- Project Atlas - Glow in the Dahrk Patch
+- Subtle Magic Glow
+- Subtle Smoke
+- Let There Be Darkness - Lua Lighting Overhaul
+- Weather Adjuster
+- Greet Distance Reducer
+- No Female Nord Screeching
+- Shut the Fuck up Cliff Racers
+- Diligent Defenders
+- Easy Escort
+- Graphic Herbalism MWSE
+- GH Patches and Replacers
+- Graphic Herbalism Lighting
+- MWSE Hide the Skooma
+- Pluginless and Adjustable Lower First Person Sneak
+- Improved Vanilla Leveling
+- Beware the Sixth House (Sixth House Overhaul)
+- Tribunal Rebalance
+- Bloodmoon Rebalance
+
+## MORROWIND++ LOAD ORDER
+
+This is a complete list of all plugins present in the guide, installed as if you had followed the guide from beginning to end, respecting the order mentioned above.
+
+- Morrowind.esm
+- Tribunal.esm
+- Bloodmoon.esm
+- Patch for Purists.esm
+- Patch for Purists - Book Typos.ESP
+- Patch for Purists - Semi-Purist Fixes.ESP
+- Lake Fjalding Anti-Suck.ESP
+- chuzei_helm_no_neck.ESP
+- Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+- Great Service.ESP
+- Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
+- Services Restored.ESP
+- The Publicans.ESP
+- Better_Typography_Bookarts_Fix.ESP
+- hw_GreetDistanceReducer.ESP
+- Waterfalls Tweaks.ESP
+- NearVanillaRoadSigns.ESP
+- Yet Another Guard Diversity - Regular.ESP
+- GITD_WL_RR_Interiors.ESP
+- Beware the Sixth House.ESP
+- tribunal rebalance.ESP
+- Bloodmoon Rebalance.ESP
+- Merged Objects.ESP
+- **Rem_AC.ESP**
+- **Rem_AI.ESP**
+- **Rem_AL.ESP**
+- **Rem_BC.ESP**
+- **Rem_GL.ESP**
+- **Rem_Solstheim.ESP**
+- **Rem_WG.ESP**
+
+Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
+
+### CONFLICT RESOLUTION
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
