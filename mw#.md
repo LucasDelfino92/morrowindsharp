@@ -241,8 +241,6 @@ Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in
 
 ### UI
 
-- [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?) by VitruvianGuar  
-Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 - [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 - [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
@@ -669,7 +667,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Title Screen Reworked
 - Widescreen Splash Additions
 - Widescreen Splash Replacer
-- Alchemical Knowledge
 - Better Questlist
 - Book Worm
 - Character Creation Name Generator
