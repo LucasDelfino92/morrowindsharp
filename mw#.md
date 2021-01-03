@@ -997,42 +997,74 @@ Launch Morrowind and make the following adjustments.
 The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
 **abot's Smart Journal**
-- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
-- (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
+- Set **Add a prefix in order to group quest names?** to *0*. This will remove the lag when opening the quest page without this option set to 0.
+- Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
+
+**abot's Tooltip**
+- Disable **Show item Value/Weight Ratio in tooltip**.
+
+**Clock Block**
+- Set **Clock position** to *Bottom*.
+- Set **Clock type** to *Game time*.
 
 **Continue**
 - (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
 
+**DragonDoor!**
+- Disable **Show messages**.
+- Disable **Allow vampires to chase**.
+
+**Essential Indicators**  
+General Settings
+- Disable **Essential Item Indicator**.
+- Disable **Essential NPC Indicator**.
+- Disable **Quest-Giver NPC Indicator**.
+- Disable **Quest-Giver Faction Sensibility**.
+Crosshair Settings  
+- Set **Crosshair Scale** to *80%*.
+- Set **Sneaking Crosshair Scale** to *80%*.
+
+**HardTrade**
+- Disable **Limit player stats to 100 when trading**.
+
 **Let There Be Darkness - Lua Lighting Overhaul**
-- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to NONE.
-- If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to 75.
+- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to *NONE*.
+- If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to *75*.
 - In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
 
+**Limited Leaping**
+- Set **Cooldown between jumps** to *1*.
+- Set **Minimum fatigue to jump** to *20*. This matches the fatigue drain for jumping when using BTB's Game Improvements.
+
 **Magicka Based Skill Progression**
-- Set **Skill Experience per Magicka** to 0.066667. This reduces the skill experience gain to a third of its original value, which was too generous.
+- Set **Skill Experience per Magicka** to *0.066667*. This reduces the skill experience gain to a third of its original value, which was too generous.
 
 **Putting Power in Willpower**
 - Enable **Allow negative Resist Bonus**.
 
+**Realistic Repair**
+- Set **Minimum loot condition** to *10*.
+- Set **Maximum loot condition** to *90*.
+
 **Security Enhanced**
-- Set **Assign Keybind for Lockpick Hotkey** to **O**. Let There Be Darkness already utilizes the L key, so this will prevent conflicts (just think of "O" as "Open").
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
 **UI Expansion**  
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
 
-- Set **Auto-select search bar** to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
-- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
-- (Optional) Set **Use search bars?** to No.
+- Set **Auto-select search bar** to *None*. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
+- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to *No*.
+- (Optional) Set **Use search bars?** to *No*.
 
 ### Mod keybindings
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
-- **Kill Command**: **K** key to order attacks.
-- **Security Enhanced**: **O** key to equip lockpicks, **P** key to equip probes.
-- **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
+- Hot Quests: **U** key for Quests, **I** key for Topics.
+- Kill Command: **K** key to order attacks.
+- Security Enhanced: **L** key to equip lockpicks, **P** key to equip probes.
+- Scriptable Scriptures: **B** key to switch between open and closed scriptures.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
