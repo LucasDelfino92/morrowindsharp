@@ -416,9 +416,6 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 ### Weather and Lighting
 
-- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-  - Install the **MWSE Version** only.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
@@ -519,8 +516,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New mechanics
 
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
-Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
 - [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
@@ -760,7 +755,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Subtle Magic Glow
 - Subtle Smoke
 - Visually Filled Soul Gems
-- Creeping Blight (MWSE)
 - Let There Be Darkness - Lua Lighting Overhaul
 - Light Decay
 - Transporter Lights
@@ -797,7 +791,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Wings of Will - Willpower Based Levitation Speed
-- Blight is Coming
 - Brutal Backstabbing
 - Dynamic Timescale
 - Lua Lockbashing
@@ -906,7 +899,6 @@ Load order.
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - SilverArmourIntegration.ESP
-- Blight is Coming.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
 - Realistic_Repair_Add-on.ESP
