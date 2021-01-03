@@ -581,13 +581,11 @@ Increases the penalties for crime.
   - Hide *MDMD - Bosses Only.ESP*
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
-  - MDMD - More Deadly Morrowind Denizens encourages the use of this mod, as it doesn't touch Umbra.
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide all plugins except *There Can Be Only One (Alt Fyr).ESP*
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
-  - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
