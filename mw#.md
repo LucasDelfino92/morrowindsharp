@@ -71,7 +71,7 @@ The best unofficial fan patch for Morrowind.
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM  
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
-  - Hide all plugins except bcsounds.ESP, EBQ_Artifact.ESP, and master_index.ESP.
+  - Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, and *master_index.ESP*
 - [**Fixed Adamantium Armor Meshes**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
 Gives most of the Adamantium Armor set from Tribunal UV and Mesh repairs.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
@@ -95,7 +95,7 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
   - Install **Glowing Flames** only.
-  - Hide Glowing Flames - TrueLightsAndDarkness Tweaks.ESP.
+  - Hide *Glowing Flames - TrueLightsAndDarkness Tweaks.ESP*
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
@@ -205,12 +205,12 @@ Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653?) by Melchior Dahrk  
 Makes the Madstone of the Ahemmusa align with its in game description so that the enchantment also affects the player and you will now hear the whispers of the ancestors when you use it, and adds some flavor dialogue to give some background on the amulet. 
-  - Hide the Meshes and Textures folders.
+  - Hide the **Meshes** and **Textures** folders.
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294?) by R-Zero  
 Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit. An optional plugin sets summoned daedra's souls to zero, making them impossible to soultrap.
-  - Hide TrueScourge.ESP
+  - Hide *TrueScourge.ESP*
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
 Adds in a Wizards Staff to high ranking members of the Mages Guild.
 
