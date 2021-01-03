@@ -350,7 +350,7 @@ Reduces the dimensions and spikiness of Orcish Boots.
   - Install **Improved Nordic Iron Helm 1.0-alternate** only.
 - [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
 Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and Bloodmoon.
-  - Hide both .ESPs.
+  - Hide both .ESPs. We will be installing *Area Effect Arrows Integrated* later, which uses a plugin that incorporates this mod's changes.
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523?) by Kyim  
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353) by hollaajith  
