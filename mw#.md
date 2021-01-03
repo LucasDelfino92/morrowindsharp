@@ -534,8 +534,9 @@ Adds starting equipment, based on the items seen in the images in the class sele
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
-- [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) by Archimag  
+- [**HardTrade**](https://www.mediafire.com/file/35mewcxe9zow3ml/HardTrade+(No+Extra+Features+Patch).zip/file) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
+  - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0  
