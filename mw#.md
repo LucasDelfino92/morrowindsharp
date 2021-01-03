@@ -469,7 +469,7 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
-  - Hide Better Propylon Teleport Warp.ESP.
+  - Hide *Better Propylon Teleport Warp.ESP*
 - [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?) by NullCascade  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 - [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?) by NullCascade  
@@ -495,7 +495,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-  - Hide all plugins except Area Effect Projectiles Integrated (PAR Edit).
+  - Hide all plugins except *Area Effect Projectiles Integrated (PAR Edit).ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 - [**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751) by Endoran  
@@ -513,7 +513,7 @@ Spellcasting skills advance based on the amount of Magicka spent, rather than th
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 - [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-  - Hide Putting Power in Willpower - Absorbonach.ESP.
+  - Hide *Putting Power in Willpower - Absorbonach.ESP*
 - [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
@@ -529,7 +529,7 @@ Changes how quickly time passes in-game depending on where you are and what you'
 Adds in lock-bashing from Daggerfall.
 - [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
-  - Place the **MWSE** folder alongside Lucky Strike.ESP in the **Data Files** folder.
+  - Place the **MWSE** folder alongside *Lucky Strike.ESP* in the **Data Files** folder.
 - [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
 
@@ -557,14 +557,18 @@ Prevents the player from resting unless they activate a bed.
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
+  - Hide *Realistic_Repair_Optional.ESP*
+  - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
 Adds rank requirements to access faction services.
-  - In the BAIN installer, tick **Service Requirements Lore** only.
+  - In the BAIN installer, tick *Service Requirements Lore* only.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-  - Hide/disable **Ownership Overhaul.ESP**
+  - Hide/disable *Ownership Overhaul.ESP*
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
@@ -575,16 +579,16 @@ Edits the stats of the unique Helm of Tohan from the official plugin to be in li
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
 Increases the penalties for crime.
-  - Hide all plugins except EcoAdjCrime (Necro Edit).ESP.
+  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
-  - Hide MDMD - Bosses Only.ESP.
+  - Hide *MDMD - Bosses Only.ESP*
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
   - MDMD - More Deadly Morrowind Denizens encourages the use of this mod, as it doesn't touch Umbra.
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
-  - Hide all plugins except There Can Be Only One (Alt Fyr).ESP.
+  - Hide all plugins except *There Can Be Only One (Alt Fyr).ESP*
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
   - Note that unlike the Tribunal and Bloodmoon rebalances, this mod makes the game *harder*.
@@ -809,6 +813,8 @@ The installation order dictates the priority a given mod's assets have over the 
 - No Rest Without Beds
 - No Taunting
 - Realistic Movement Speeds
+- Realistic Repair
+- Realistic Repair Add-On
 - Service Requirements Lore
 - Sneaky Strike
 - Ownership Overhaul
@@ -897,25 +903,27 @@ Load order.
 - Area Effect Projectiles Integrated (PAR Edit).ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
-- Hunter's Mark AEPI Patch.ESP
+- Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - SilverArmourIntegration.ESP
 - Blight is Coming.ESP
 - Lucky Strike.ESP
-- Service_Requirements.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
+- Realistic_Repair_Add-on.ESP
+- Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
 - Helm of Tohan BTBGI Patch.ESP
+- BTBGI Realistic Repair Add-on Patch.ESP
 - SoldierBeltsFix.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD AAI Patch.ESP
+- MDMD Adamantium Armor Integrated Patch.ESP
 - BTBGI MDMD Patch.ESP
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
-- TCBOO MDMD Patch.ESP
+- There Can Be Only One MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
