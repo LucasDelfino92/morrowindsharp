@@ -127,6 +127,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde's Secret Master tools.
+- **Temple Markers** by Caeris  
+Adds temple markers to the temples at Ghostgate, Maar Gan, Suran and Vos.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
