@@ -9,9 +9,9 @@
 - Simplifcation of installation instructions.
 - Deleted **Continuity** module, and redistributed mods accordingly.
 - The following mods have changed categories:
-  - Services Restored moved from Continuity to Core.
-  - The Publicans moved from Continuity to Core.
-  - Improved Thrown Weapon Projectiles moved from Continuity to Visuals.
+  - Services Restored moved from Continuity to Core (Non-purist fixes9.
+  - The Publicans moved from Continuity to Core (Non-purist fixes).
+  - Improved Thrown Weapon Projectiles moved from Continuity to Visuals (Equipment).
   - Great Service moved from Core to Audio.
   - Sheep-no-More moved from Continuity to Audio.
 
