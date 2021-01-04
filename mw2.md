@@ -165,7 +165,7 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
     - In the BAIN installer, tick **01 Journal and Scroll - 2K** only.
 - [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
 HD recreation of the Title and Logo Intro, in widescreen.
-  - Install both main files.
+  - Install **Title Screen Reworked (Widescreen)** only (assuming you enabled *Skip opening movie* in MGE XE).
 - [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 - [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen  
@@ -570,7 +570,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
 - Pete's Scroll 2018 ...in 2020
-- Logo Video Intro Reworked
 - Title Screen Reworked
 - Widescreen Splash Additions
 - Widescreen Splash Replacer
