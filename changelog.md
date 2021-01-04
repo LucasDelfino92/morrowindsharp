@@ -7,7 +7,7 @@
 
 - Guide released on Reddit!
 - Simplifcation of installation instructions.
-- Deleted **Continuity** module.
+- Deleted **Continuity** module, and redistributed mods accordingly.
 - The following mods have changed categories:
   - Services Restored moved from Continuity to Core.
   - The Publicans moved from Continuity to Core.
