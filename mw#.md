@@ -182,7 +182,7 @@ Adds supply chests, missing temple markers, healing services to healers, and dis
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
-  - This omits the restoration of Hecerinde Secret Master tools.
+  - This omits the restoration of Hecerinde's Secret Master tools.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
 - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
@@ -313,8 +313,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-  - Install **Bitter Coast Scum Replacer** only.
-    - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
+  - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
 - [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255) by EnvyDeveloper  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 - [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222) by Melchior Dahrk  
