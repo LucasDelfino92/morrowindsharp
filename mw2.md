@@ -11,7 +11,7 @@ Version 2.0
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#introduction)
   - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
-  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
+  - [Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#overwrite-folder)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals-module)
@@ -54,14 +54,9 @@ When installing mods manually, by extracting the contents of a mod and dropping 
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-### CREATING SEPARATORS IN MOD ORGANIZER 2
+### OVERWRITE FOLDER
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. I recommend creating a separator for the following sections before installing these mods.
-
-- Right click on the empty space on the mod order window, and click **Create Separator**.
-- Name it accordingly to its category and click **OK**.
-
-One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names.
+One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names and paths.
 
 ## CORE MODULE
 
