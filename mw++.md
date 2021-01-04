@@ -195,7 +195,7 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
-  - Install **00 Core** and **01 Vvardenfell only** only.
+  - In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Install **Remiros' Groundcover** only.
