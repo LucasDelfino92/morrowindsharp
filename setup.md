@@ -52,7 +52,7 @@ Overall, this will free about 700 MBs in your Morrowind installation. You should
 
 ## MORROWIND CODE PATCH
 
-The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed through Mod Organizer 2. It will be the first step in our journey to prepare Morrowind for whatever tools and mods we will install later.
+The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed using a mod manager. Installing the Morrowind Code Patch is the first step to get Morrowind in working order.
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
