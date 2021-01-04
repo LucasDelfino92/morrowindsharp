@@ -11,7 +11,6 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creating-separators-in-mod-organizer-2)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#core-module)
-- [Continuity module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#continuity-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio-module)
