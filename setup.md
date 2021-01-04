@@ -199,8 +199,9 @@ Follow these steps for **Wrye Mash**.
 
 ### INSTALLING MODS IN MOD ORGANIZER 2
 
-To install a mod through Mod Organizer, click on the icon to the left of the globe icon at the top, called **Install a new mod from an archive**. 
+We will be installing our first file shortly, but first you need to know how to install a mod through Mod Organizer 2.
 
+- Click on the **Install a new mod from an archive** icon, which resembles a hard drive. 
 - Select the file you want to install.
 - MO2 will prompt you to give the installed mod a name. Click **OK**.
 - Your mod will appear on the left window. To enable it, tick the box to its left. If the mod includes plugins, these will appear ticked on the right window as well.
@@ -209,10 +210,10 @@ To install a mod through Mod Organizer, click on the icon to the left of the glo
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separator for the upcoming **MGE XE** section.
 
-- Right click on the empty space on the mod order window, and click **Create Separator**.
+- Right click on the empty space on the mod order window, below *Overwrite*, and click **Create Separator**.
 - Name it **MGE XE** and click **OK**.
 
-This will create a separator which you can move around in the left window, but for the sake of this guide keep it below the Morrowind expansions, like so:
+This will create a separator which you can move up and down in the left window, but for the sake of this guide keep it below the Morrowind expansions, like so:
 
 - DLC: Tribunal
 - DLC: Bloodmoon
