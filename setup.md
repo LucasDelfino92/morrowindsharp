@@ -69,9 +69,9 @@ Many tools have been made available to Morrowind over the years. This section wi
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
-This tool is used to see the structure of mods, allowing you to see conflicts between and thus letting you decide how to sort said conflicts.
+This tool is used to see the structure of mods, allowing you to see conflicts between them and thus letting you decide how to solve said conflicts.
 
-- Extract the files in **Morrowind Mods\Tools\TES3View**. 
+- Extract the contents of the file in **Morrowind Mods\Tools\TES3View**. 
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
@@ -79,25 +79,25 @@ This tool is used to see the structure of mods, allowing you to see conflicts be
 
 This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
 
-- Extract the files in **Morrowind Mods\Tools\TES3Merge**.
+- Extract the contents of the file in **Morrowind Mods\Tools\TES3Merge**.
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
 
-- Extract the files in **Morrowind Mods\Tools\TESAME**.
+- Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
 
 [**TESTool**](http://mw.modhistory.com/download-13-5234)
 
 This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
 
-- Extract the files in **Morrowind Mods\Tools\TESTool**. 
+- Extract the contents of the file in **Morrowind Mods\Tools\TESTool**. 
 
 [**tes3cmd**](https://www.mediafire.com/file/6aji5oad8zh1drc/tes3cmd.zip/file)
 
 This tool is used for cleaning plugins, deleting dirty records.
 
-- Extract the files, and merge the **Data Files** folder with your game's **Data Files** folder.
+- Extract the contents of the file, and merge the **Data Files** folder with your game's **Data Files** folder.
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
