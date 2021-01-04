@@ -104,11 +104,11 @@ This tool is used for cleaning plugins, deleting dirty records (identical duplic
 This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
-- Extract the file into a folder, and copy the **Data Files** and **Mopy** folders into your Morrowind root folder (for instance, C:\Games\Morrowind)
-- Run the **mash64.exe** found inside Morrowind\Mopy. This will launch the Wrye Mash 2019 Configuration Wizard.
+- Extract the contents of the file, rename the **Mopy** folder to **WryeMash**, and place it in **Morrowind Mods\Toolts\WryeMash**. We don't need the other files included in the archive.
+- Run the **mash64.exe** found in **Morrowind Mods\Toolts\WryeMash**. This will launch the Wrye Mash 2019 Configuration Wizard.
 - Click **Next>**. The Wizard will ask you to fill the following paths:
    - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select a different path (for instance, C:\Games). We don't care about this path because we will be using Mod Organizer 2 to install our mods.
+   - **Mods Installers directory**: select your Morrowind mods folder (for instance, C:\Games\Morrowind Mods). We don't really care about this path because we will be using Mod Organizer 2 to install our mods, but it's a good idea to give WryeMash a proper path anyhow.
    - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
 - With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
 
