@@ -114,7 +114,7 @@ Addresses numerous mesh issues with the vanilla head meshes, leading to much bet
   - Install **kart_facelift_meshes** only.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures** only.
+  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
 
 ## UI AND HOTKEYS MODULE
 
