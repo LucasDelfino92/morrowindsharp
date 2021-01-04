@@ -227,19 +227,19 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 - Download the **MGE XE Manual Install** main file.
 - Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-- Run MWSE-Update.exe. Once the updating process is finished, the window will close itself.
+- Run **MWSE-Update.exe**. This will update MWSE, required by many modern mods, to the latest version. Once the updating process is finished, the window will close itself.
 - In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
-- Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and call it **MGE XE Data Files**.
+- Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and rename the .zip to **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
 
 ### INSTALLING SHADERS
 
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'm only going to refer you to the ones I personally use and recommend. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (these are present in the home page) then you should be able to play just fine.
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
 
 - [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
 Reduces light seams.
-  - You only need to install the **d3d8.dll** to your Morrowind root folder.
-  
+  - Extract the contents of the file, and place the **d3d8.dll** in your Morrowind root folder, overwriting when prompted. You do not need the Data Files folder.
+ 
 The following shaders should be installed through Mod Organizer 2 to keep our Data Files folder clean. They are installed like any other mod.
 
 - [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip) by Hrnchamd  
