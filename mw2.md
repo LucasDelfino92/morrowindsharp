@@ -88,7 +88,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - In the BAIN installer, tick **00 Core** only.
   - Hide **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
-Restores visual effects on creatures.
+Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
