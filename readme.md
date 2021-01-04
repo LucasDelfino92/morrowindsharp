@@ -1,4 +1,4 @@
-# MORROWIND++
+# MORROWIND++: A Morrowind Modding Guide
 
 Don't forget to check out the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) for the latest updates!
 
