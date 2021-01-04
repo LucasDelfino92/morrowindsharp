@@ -288,22 +288,22 @@ This tab lets you generate distant land, which in other words means you will see
 
 The first thing you will notice about this tab is that all options minus **Use Distant Land** and **Distant land generator wizard** are disabled. We need to generate distant land first for these options to become available.
 
-- Click **Distant land generator wizard**.
-- Click **Select all**. This will activate all the plugins in your load order, meaning these will be used for generating distant land.
-- Click **Continue**. This will open the **Distant Land Generation** window.
+- Click *Distant land generator wizard*.
+- On the **Distant Land Setup Wizard**, click *Select all*. This will activate all the plugins in your load order, meaning they will be used for generating distant land.
+- Click *Continue*. This will open the **Distant Land Generation** window.
   - **Automatic setup everything** will generate Distant Land for you.
-  - **Distant Land configuration setup...** will let you modify the Distant Land generation parameters. This is especially useful for those who want to lower the stress on their computers, or push their rigs to the max. We will be using this option.
-- In the **Land Textures** tab, simply click **Create Land Textures**.
-- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
+  - **Distant Land configuration setup...** will let you modify the Distant Land generation parameters. This is especially useful for those who want to lower the stress on their computers, or push their rigs to the max. If this is your first time generating distant land, the wizard will automatically proceed with this option.
+- In the **Land Textures** tab, simply click *Create Land Textures*.
+- In the **Land Meshes** tab, select *Ultra High* from the *World mesh detail* dropdown menu. Click *Create Land Meshes*.
 - In the **Statics** tab:
-  - I suggest ticking **Include reflective water in interiors**.
-  - Cick **Edit list**. In the window that has opened, click **Add**. A window should open in the Morrowind\mge3 directory. Double click on **MGE XE Default Statics Classifiers.ovr** to add it to the Static Overrides list. Click **Save**. This will prevent some bugs with Distant Land generation.
-  - Click **Create Statics**.
+  - I suggest enabling *Include reflective water in interiors*.
+  - Cick *Edit list*. In the window that has opened, click *Add*. A window should open in the Morrowind\mge3 directory. Double click *MGE XE Default Statics Classifiers.ovr* to add it to the Static Overrides list. Click *Save*. This will prevent some bugs with Distant Land generation.
+  - Click *Create Statics*.
 - Once the statics have been created, simply click **Finish**.
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
-You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
+You must also modify your *Weather Settings* in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
 
 > If for some reason your distant land generation crashes when creating statics, try omitting the Static Overrides step in the **Statics** tab.
 
@@ -315,11 +315,11 @@ You must also modify your **Weather Settings** in the **Distant Land** tab to ac
 
 The default settings on this tab are pretty good, but there are a handful more you may want to enable.
 
-- **Skip opening movie** is a timesaver.
-- **Crosshair autohide** may sound temptative, but it grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. I don't recommend it.
-- **Allow yes to all load errors** is a must have, as error messages can get annoying.
-- **Allow screenshots** is great for those of us who like to take and share screenshots of our game.
-- **High detail actor shadows** is buggy and bad for performance. I don't recommend it.
+- *Skip opening movie* is a timesaver.
+- *Crosshair autohide* may sound temptative, but it grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. I don't recommend it.
+- *Allow yes to all load errors* is a must have, as error messages can get annoying.
+- *Allow screenshots* is great for those of us who like to take and share screenshots of our game.
+- *High detail actor shadows* is buggy and bad for performance. I don't recommend it.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
