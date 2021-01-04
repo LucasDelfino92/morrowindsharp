@@ -434,7 +434,10 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - **Rem_Solstheim.ESP**
 - **Rem_WG.ESP**
 
-Remember that the plugins from **Remiros' Groundcover** should only be ticked when generating Distant Land in MGE XE.
+There are a couple of notes here:
+
+- We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
+- The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 
 ### CONFLICT RESOLUTION
 
