@@ -453,10 +453,10 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
 - Run MGE XE in MO2.
-- In the **Distant Land** tab, click **Distant land generator wizard**.
-- Click **Select all**, and then **Continue**.
-- Click **Run above steps using saved / default settings**.
-- Once the statics have been created, simply click **Finish**.
+- In the **Distant Land** tab, click *Distant land generator wizard*.
+- Click *Select all*, and then *Continue*.
+- Click *Run above steps using saved / default settings*.
+- Once the statics have been created, simply click *Finish*.
 
 ### IN-GAME CONFIGURATION
 
@@ -464,33 +464,33 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 
 Launch Morrowind and make the following adjustments.
 
-- Under the **Options** menu, go to the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. These shadows look pretty bad, are glitchy, and not worth the performance hit.
+- Under the **Options** menu, go to the *Video* tab.
+- The *Gamma Correction* slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the *Real-time Shadows* slider all the way to the left, disabling them. These shadows look pretty bad, are glitchy, and not worth the performance hit.
 
 The following mods require additional configuration through the in-game **Mod Configuration** menu.
 
 **abot's Smart Journal**
-- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
-- (Optional) Disable every option below **Sort quests list by quest name?**. These options are mostly useful to troubleshoot mods. 
+- Set *Add a prefix in order to group quest names?* to *0*. This will remove the lag when opening the quest page without this option set to 0.
+- (Optional) Disable every option below *Sort quests list by quest name?*. These options are mostly useful to troubleshoot mods. 
 
 **Continue**
-- (Optional) Enable **Hide Credits Button** and **Hide New Game Button (In Game)**.
+- (Optional) Enable *Hide Credits Button* and *Hide New Game Button (In Game)*.
 
 **Improved Vanilla Leveling**
-- Enable **Enhanced Tooltip**. This option assumes you haven't installed the "Level-up skills tooltip" patch in the Morrowind Code Patch.
+- Enable *Enhanced Tooltip*. This option assumes you haven't installed the "Level-up skills tooltip" patch in the Morrowind Code Patch.
 
 **Let There Be Darkness - Lua Lighting Overhaul**
-- In the **General and Cell Settings** tab, set **Cell lighting value overrides** to NONE.
-- If you've installed the specialprocess shader in **Setup**, set all three **Ambient color adjustments** to 75.
-- In the **Light Settings** tab, disable **Use TLaD overrides for radius and color of light sources?**.
+- In the **General and Cell Settings** tab, set *Cell lighting value overrides* to *NONE*.
+- If you've installed the specialprocess shader in **Setup**, set all three *Ambient color adjustments* to *75*.
+- In the **Light Settings** tab, disable *Use TLaD overrides for radius and color of light sources?*.
 
 **UI Expansion**  
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
 
-- Set **Auto-select search bar** to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
-- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
-- (Optional) Set **Use search bars?** to No.
+- Set *Auto-select search bar* to *None*. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
+- (Optional) Set *Use verbose buttons instead of icons for inventory filtering?* to *No*.
+- (Optional) Set *Use search bars?* to *No*.
 
 ### MOD KEYBINDINGS
 
