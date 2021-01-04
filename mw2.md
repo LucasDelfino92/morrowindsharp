@@ -568,6 +568,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - LDM - Context Matters
 - Loading Doors Lock Tune
 - Services Restored
+- Temple Markers
 - Temples with Shrines
 - The Publicans
 - Expansion Delay
@@ -733,6 +734,7 @@ Load order.
 - FMI_#NotAllDunmer.ESP
 - LDM - Context Matters.ESP
 - Services Restored.ESP
+- Temple Markers.ESP
 - Temples With Shrines.ESP
 - The Publicans.ESP
 - Expansion Delay.ESP
