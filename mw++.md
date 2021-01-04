@@ -63,8 +63,6 @@ One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties
 The best unofficial fan patch for Morrowind.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
 Fixes UV mapping on rocks and stones.  
-  - MO2 will tell you there's no game data on top level.  
-    - Right click on **Data Files** and click **Set data directory**. Click **OK**.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
   - In the BAIN installer, tick the following options only:
