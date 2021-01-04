@@ -44,7 +44,11 @@ Roughly 5GB. This accounts for installed (that is, uncompressed) mods and also t
 
 ### How much time will it take me to install all mods?
 
-My recommendation is that you follow the **Setup** and **Morrowind++** guides on separate days. Setting up the game and tools is a very boring process: you are installing stuff you will need in the future, but not any fun mods. **Morrowind++** is a long guide, but most people won't bother installing all mods in it. Overall, I can't give you a number. I can tell you, however, it will take you far less time than setting up most other Morrowind guides, bar the most spartan ones.
+It depends!
+
+Setting up the game tools (**Setup**) is a very boring process: you are installing stuff you will need in the future, but not any fun mods. **Morrowind++** is a long guide, but thankfully you can simply focus on the **Core** and **Gameplay** modules if you want to jump into the game as soon as possible, with **Yet Another Guard Diversity** (under Visuals) being the *only* other mod you should install before beginning a new playthrough. The entirety of this process should last you no longer than an hour and a half, allowing you to enjoy Morrowind and install the other mods in the guide when you feel like it.
+
+Bottomline is, it will take you far less time to install **Morrowind++** than setting up most other Morrowind guides, bar the most spartan ones.
 
 ### Should I manually install these mods?
 
