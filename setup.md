@@ -104,8 +104,8 @@ This tool is used for cleaning plugins, deleting dirty records (identical duplic
 This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
-- Extract the contents of the file, rename the **Mopy** folder to **WryeMash**, and place it in **Morrowind Mods\Toolts\WryeMash**. We don't need the other files included in the archive.
-- Run the **mash64.exe** found in **Morrowind Mods\Toolts\WryeMash**. This will launch the Wrye Mash 2019 Configuration Wizard.
+- Extract the contents of the file, rename the **Mopy** folder to **WryeMash**, and place the folder in **Morrowind Mods\Tools**. We don't need the other files included in the archive.
+- Run **mash64.exe** found in **Morrowind Mods\Tools\WryeMash**. This will launch the Wrye Mash 2019 Configuration Wizard.
 - Click **Next>**. The Wizard will ask you to fill the following paths:
    - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
    - **Mods Installers directory**: select your Morrowind mods folder (for instance, C:\Games\Morrowind Mods). We don't really care about this path because we will be using Mod Organizer 2 to install our mods, but it's a good idea to give WryeMash a proper path anyhow.
@@ -121,30 +121,30 @@ I advise you to use Mod Organizer 2 for mod installation *only*. Don't use it to
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 - Download the main file: **Mod Organizer 2 (Archive)**.
-- Extract the contents to a folder and rename it **Mod Organizer 2**. Place that folder insde your **Morrowind Mods\Tools** folder.
-- Right click on ModOrganizer.exe, select Properties, and under Compatibility make sure **Run as Administrator** is checked. Select **Apply** and click **OK**.
-- Run ModOrganizer.exe. 
-   - You will be asked to **Choose Instance**. Click on **Portable**.
-   - You will be asked to **select the game to manage**. Choose **Morrowind**. If the game doesn’t appear in the list, click **Browse...** and select the game’s installation folder.
-- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click **No**.
-- You will be asked to associate MO2 with nxm links. Click on **Yes**.
+- Extract the contents to a folder and rename it **Mod Organizer 2**. Place the folder in **Morrowind Mods\Tools**.
+- Right click on **ModOrganizer.exe** found in **Morrowind Mods\Tools\Mod Organizer 2**, select *Properties*, and under *Compatibility* make sure *Run as Administrator* is checked. Click *Apply* and click *OK*.
+- Run **ModOrganizer.exe**. 
+   - You will be asked to *Choose Instance*. Click *Portable*.
+   - You will be asked to *Select the game to manage*. Click *Morrowind*. If the game doesn’t appear in the list, click *Browse...* and select the game’s root folder.
+- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click *No*.
+- You will be asked to associate MO2 with nxm links. Click *No*.
 
 Now that Mod Organizer 2 has been installed successfully, we need to configure it.
 
-- Click on the ID card icon at the top of the window, called **Configure profiles**.
-- Tick **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure Automatic Archive Invalidation **is not** enabled.
-- With the **Default** profile selected, click **Rename**. Type in **Vanilla** and click **OK**.
-- With the **Vanilla** profile selected, click **Copy**. Type in **Morrowind++** (or whatever you feel) and click **OK**.
+- Click on the **Configure profiles** icon, which resembles an ID card.
+- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
+- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
+- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
 - Close this window.
 
-On the **Profile** bar below the ID card icon, make sure to select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
+On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
-Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. It should read as follows:
+Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **installation order**. So far, it should read as follows:
 
 - DLC: Tribunal
 - DLC: Bloodmoon
 
-Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the edits of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**. It should read as follows:
+Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**. It should read as follows:
 
 - Morrowind.esm
 - Tribunal.esm
@@ -156,46 +156,46 @@ You can hide unnecessary information in Mod Organizer 2 by right clicking on the
 
 Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow collision**, requires a few .ini edits to work properly.
 
-- Launch Mod Organizer 2.
+- Run **ModOrganizer.exe**. 
 - Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
-- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily.
+- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily. Note that the **Weather Snow** section may be found much further down below than the others.
   - **[Weather Rain]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=450 -> Change this to **Max Raindrops=1500**
+  - Rain Diameter=600 -> Increase the value to **1200**
+  - Max Raindrops=450 -> Increase the value to **1500**
   - **[Weather Thunderstorm]**
-  - Rain Diameter=600 -> Change this to **Rain Diameter=1200**
-  - Max Raindrops=650 -> Change this to **Max Raindrops=3000**
+  - Rain Diameter=600 -> Increase the value to **1200**
+  - Max Raindrops=650 -> Increase the value to **3000**
   - **[Weather Snow]**
-  - Snow Diameter=800 -> Change this to **Snow Diameter=1600**
-  - Max Snowflakes=750 -> Change this to **Max Snowflakes=1500**
+  - Snow Diameter=800 -> Increase the value to **1600**
+  - Max Snowflakes=750 -> Increase the value to **1500**
 - Click **Save** and close the window.
 
 ### SETTING UP TOOLS IN MOD ORGANIZER 2
 
-For our modding tools to work in our Mod Organizer 2 Morrowind installation, we need to configure them in Mod Organizer 2. Some of them require generic instructions, others require more specific instructions which I'll detail.
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. Some tools require generic instructions, while others demand more specific instructions.
 
-Follow these steps for **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
+Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
 
-- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
-- Navigate to the location of the tool and double click on its .exe file.
-- In the **Start In** field, search for the location of your Morrowind root folder (for instance, C:\Games\Morrowind).
-- Click **Apply** and then **OK**.
+- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
+- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
+- Navigate to the location of the tool you want to install and double click its .exe file.
+- In the *Start In* field, select your Morrowind root folder (for instance, C:\Games\Morrowind).
+- Click *Apply* and then *OK*.
 
 Follow these steps for **tes3cmd**.
 
-- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
+- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
+- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
 - Navigate to the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe) and double click on it.
-- In **Start In**, search for the location of your Morrowind **Data Files** folder (for instance, C:\Games\Morrowind\Data Files)
-- Click **Apply** and then **OK**.
+- In *Start In*, search for the location of your Morrowind Data Files folder (for instance, C:\Games\Morrowind\Data Files)
+- Click *Apply* and then *OK*.
 
 Follow these steps for **Wrye Mash**.
 
-- Go to **Configure the executables that can be started through Mod Organizer** (gears icon).
-- In the **Modify Executables** window, click **Add an executable** (blue plus icon) and select **Add from file...**.
-- Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind\Mopy\mash64.exe) and double click on it.
-- Click **Apply** and then **OK**.
+- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
+- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
+- Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind Mods\Tools\WryeMash) and double click on it.
+- Click *Apply* and then *OK*.
 
 ### INSTALLING MODS IN MOD ORGANIZER 2
 
