@@ -124,10 +124,8 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde's Secret Master tools.
-- **Temple Markers** by Caeris  
-Adds temple markers to the temples at Ghostgate, Maar Gan, Suran and Vos.
-- [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
-Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
+- [**Temples with Shrines and Markers**](https://www.mediafire.com/file/e4nwhuett8uso91/Temples+with+Shrines+and+Markers.zip/file) by Leyawynn, Caeris, and Sigourn  
+Adds shrines to the temples in Maar Gan, Molag Mar, Suran, and Vos. Adds Intervention markers in Ghostgate, Maar Gan, Suran, and Vos. Based off Leyawynn's [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) and Caeris' [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/).
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -559,8 +557,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - LDM - Context Matters
 - Loading Doors Lock Tune
 - Services Restored
-- Temple Markers
-- Temples with Shrines
+- Temples with Shrines and Markers
 - The Publicans
 - Expansion Delay
 - Early Transport to Mournhold
@@ -723,8 +720,7 @@ Load order.
 - FMI_#NotAllDunmer.ESP
 - LDM - Context Matters.ESP
 - Services Restored.ESP
-- Temple Markers.ESP
-- Temples With Shrines.ESP
+- Temples with Shrines and Markers.ESP
 - The Publicans.ESP
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
