@@ -270,22 +270,19 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 ### Equipment and Items
 
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
-Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+Mesh and texture replacer for the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
-Adds the missing belt to the male Imperial Steel Cuirass mesh.
+Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 - [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
-Adjustment of the Nordic Iron Helm mesh so that it doesn't look as stupid. 
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
-Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-- [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
-Reduces the dimensions and spikiness of Orcish Boots.
+Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
   - Install **Improved Nordic Iron Helm 1.0-alternate** only.
-- [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
-Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and Bloodmoon.
-  - Hide both .ESPs. We will be installing *Area Effect Arrows Integrated* later, which uses a plugin that incorporates this mod's changes.
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
+Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523?) by Kyim  
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
@@ -299,7 +296,7 @@ The bows will better line up with the sheathing animation.
 Greatly improves performance and fixes some mesh errors.
   - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
-Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
+Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ### NPCs
 
@@ -307,7 +304,7 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
-Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
+Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
 ### VFX
 
@@ -323,9 +320,6 @@ Makes windows glow in the dark.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
-- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
-Adds a heat haze shader controller by MGE XE and MWSE-lua. Subtle overall, gets faster, stronger and closer when near lava pools.
-  - Make sure to place **heathaze.fx** at the end of your MGE XE shader chain.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Install **Mist Retexture** only.
@@ -412,7 +406,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-  - Hide all plugins except *Area Effect Projectiles Integrated (PAR Edit).ESP*
+  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 
@@ -532,8 +526,6 @@ The following plugins are dirty and require cleaning. [**Follow the instructions
   - Clean with TESTool and tes3cmd.
 - **Dubdilla Location Fix.ESP**
   - Clean with TESTool and tes3cmd.
-- **Religions Elaborated.ESP**
-  - Clean with tes3cmd.
 
 ### Install order and load order
 
@@ -626,7 +618,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Improved Nordic Iron Helm (Alternate)
 - Improved Thrown Weapon Projectiles
 - No Orcish Clown Shoes
-- Particle Arrow Replacer
 - Practical Pauldrons - Streamlined Shoulders
 - Soldier Belts Fix
 - Weapon Sheathing
@@ -638,7 +629,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Apel's Rain Replacer
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
-- Heat Haze
 - Mist Retexture
 - MWSE Blood Diversity
 - No Shield Sparkle
@@ -754,7 +744,7 @@ Load order.
 - Better Propylon Teleport Warp.ESP
 - PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
-- Area Effect Projectiles Integrated (PAR Edit).ESP
+- Area Effect Projectiles Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
