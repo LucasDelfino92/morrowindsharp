@@ -409,12 +409,12 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Expansion Delay.ESP
 - Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
-- hw_GreetDistanceReducer.ESP
 - Waterfalls Tweaks.ESP
 - NearVanillaRoadSigns.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - Great Service.ESP
+- hw_GreetDistanceReducer.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
