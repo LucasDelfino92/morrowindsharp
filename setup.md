@@ -265,7 +265,7 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
-All features in this page are self-explained, but the **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in **Shader setup...**. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though all of them come at the cost of performance, which can be more or less significant depending on your computer. Of all available shaders, the most intensive ones are the SSAO and Bloom shaders, which sadly are also some of the most visually impressive.
+All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
 
 - In the **Graphics** tab, click **Shader setup...**.
 - On the **Set active shaders** window, click on **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
