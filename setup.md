@@ -83,19 +83,19 @@ This tool is used for solving conflicts between plugins, forwarding conflicting 
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
-This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records.
+This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
 
 - Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
 
 [**TESTool**](http://mw.modhistory.com/download-13-5234)
 
-This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records.
+This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
 
 - Extract the contents of the file in **Morrowind Mods\Tools\TESTool**. 
 
 [**tes3cmd**](https://www.mediafire.com/file/6aji5oad8zh1drc/tes3cmd.zip/file)
 
-This tool is used for cleaning plugins, deleting dirty records.
+This tool is used for cleaning plugins, deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
 
 - Extract the contents of the file, and merge the **Data Files** folder with your game's **Data Files** folder.
 
