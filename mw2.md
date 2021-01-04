@@ -249,7 +249,7 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
-  - Install **00 Core** and **01 Vvardenfell only** only.
+  - In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
 - [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/) by Remiros  
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
