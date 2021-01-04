@@ -215,7 +215,7 @@ Makes thrown weapon projectiles fly pointy end forward and, some of them, spin i
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
   - MO2 will tell you the content of data files does not look valid.
-    - Right click the **Data Files** folder and click *Set as data files directory**. Click *OK*.
+    - Right click the **Data Files** folder and click *Set as data files directory*. Click *OK*.
 - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
 The bows will better line up with the sheathing animation.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
