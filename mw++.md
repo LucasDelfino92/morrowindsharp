@@ -11,10 +11,9 @@
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#creating-separators-in-mod-organizer-2)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
-- [Continuity module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#continuity-module)
 - [UI and hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
-- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
+- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Install order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#install-order-and-load-order)
@@ -73,33 +72,40 @@ Fixes UV mapping on rocks and stones.
     - Right click on **Data Files** and click **Set data directory**. Click **OK**.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
-  - MO2 will install the mod as a BAIN package. Only tick the following options and click **OK**:
+  - In the BAIN installer, tick the following options only:
     - **00 Core**
     - **01 Fixed Vanilla Textures**
     - **02 Lake Fjalding Anti-Suck**
-    - **03 MGE XE Addon**
+    - **03 MGE XE Addon**: if you plan to install tree replacers (like Vurt's) in the future, you should not install this option.
     - **05 Chuzei Fix**
-  - Those who plan to use Better Bodies or tree replacers (not covered by my guides) should skip installing options 03 and 05.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and click **OK**.
-  - Hide/delete **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+  - In the BAIN installer, tick **00 Core** only.
+  - Hide **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
 - [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?) by rot  
 Restores visual effects on creatures.
 - [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by EJ-12 and Petethegoat  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 - [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by PoodleSandwich  
 Flames are now glow mapped and/or properly illuminated.
-  - Only install the **Glowing Flames** main file. The update files are not necessary.
-  - Hide/deactivate **Glowing Flames - TrueLightsAndDarkness Tweaks.esp**.
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+  - Install **Glowing Flames** only.
+  - Hide *Glowing Flames - TrueLightsAndDarkness Tweaks.ESP*
 - [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Forces the game to instantly close on exit.
 - [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 - [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
+
+### Non-purist fixes
+
+- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+    - NPC **hecerinde**
+  - This omits the restoration of Hecerinde's Secret Master tools.
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ### Expansion implementation
 
@@ -112,27 +118,10 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Only install the **kart_facelift_meshes** main file.
+  - Install **kart_facelift_meshes** only.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Atlas Textures** and click **OK**.
-
-## CONTINUITY MODULE
-
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
-Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-  - MO2 will tell you there's no game data on top level. 
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - NPC **hecerinde**
-  - Save the plugin as **Services Restored.ESP**, overwriting the original when asked.
-  - This omits the restoration of Hecerinde Secret Master tools for consistency with the vanilla game (the other Secret Master tools are also unavailable).
-- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
-Removes the sheep sounds from Morrowind.
-- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures** only.
 
 ## UI AND HOTKEYS MODULE
 
@@ -142,18 +131,18 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 High resolution replacer for the Daedric font used in scrolls. 
   - MO2 will tell you there's no game data on top level. 
     - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
-    - Drag **daedric_font.fnt** and **daedric_font_obw.tex** into the **fonts** folder and click **OK**.
+  - Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
-  - Only install the **Better Dialogue Font** main file.
+  - Install **Better Dialogue Font** only.
 - [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
 Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-  - Only install the **Pete's Journal and Scroll** optional file.
-  - MO2 will install this mod as a BAIN package. Only tick **01 Journal and Scroll - 2K** and click **OK**.
+  - Install **Pete's Journal and Scroll** only.
+    - In the BAIN installer, tick **01 Journal and Scroll - 2K** only.
 - [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
 HD recreation of the Title and Logo Intro, in widescreen.
   - Install both main files.
@@ -174,14 +163,12 @@ Adds a confirmation popup when you click on New Game in the main menu.
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
+  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
 - [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
 Adds several new options for the journal and quest pages.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
 Automatically switches between the local and world map depending on user configuration.
-  - Make sure to install the updated **MWSEabotlib** further below if you decide to install this mod.
-- [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
-Up-to-date **abot\lib.lua**, shared by Smart Ammo and Smart Map.
+  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -200,15 +187,6 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 - [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-## AUDIO MODULE
-
-- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
-
 ## VISUALS MODULE
 
 ### Environment
@@ -219,35 +197,35 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 - [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-  - Only install the **Bitter Coast Scum Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **02 Animated Replacer - Greener Color** and click **OK**.
+  - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
-  - MO2 will install the mod as a BAIN package. Only tick **00 Core** and **01 Vvardenfell only** and click **OK**.
+  - Install **00 Core** and **01 Vvardenfell only** only.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
-  - Only install the **Remiros' Groundcover** main file.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **04b Thicker Grass** and click **OK**.
-  - Deactivate all of the mod's plugins. **Do not hide or delete them: they are meant to be activated when generating Distant Land *only*.**
+  - Install **Remiros' Groundcover** only.
+    - In the BAIN installer, tick **00 Core** and **04b Thicker Grass** only.
   - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
 - [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
 Replaces the water in the Palace of Vivec's canals.
-  - Only install the **Vivec Palace Water Replacer** main file.
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core** and **01 Original Color** and click **OK**.
+  - In the BAIN installer, tick **00 Core** and **01 Original Color** only.
 
 ### Equipment
 
+- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
+  - MO2 will tell you there's no game data on top level. 
+    - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-  - Only install the **WeaponSheathing 1.6-MWSE** main file.
+  - Install **WeaponSheathing 1.6-MWSE** only.
   - MO2 will tell you there's no game data on top level. 
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
 The bows will better line up with the sheathing animation.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
 Greatly improves performance and fixes some mesh errors.
-  - MO2 will install the mod as a BAIN package. Only tick **04 Weapon Sheathing Patch**.
-  - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. Click **OK**.
+  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 
 ### NPCS
 
@@ -258,22 +236,17 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
-  - MO2 will install this mod as a fomod package. Follow the instructions below:
-    - Tick **Yes** to Interior Sunrays.
-    - Tick **Yes** to Nord Glass Windows.
-    - Tick **Yes** to Raven Rock Glass Windows.
-    - Skip Tamriel_Data.
-    - Skip Dark Molag Mar.
-    - Tick Hi-Res Window Texture Replacer.
-    - Click **Install** to finish.
-    - Hide/disable **GITD_Telvanni_Dormers.ESP** (personal preference, as I feel these look too tacky).
+  - In the FOMOD installer, install the following options:
+    - Interior Sunrays.
+    - Nord Glass Windows.
+    - Raven Rock Glass Windows.
+    - Hi-Res Window Texture Replacer.
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - MO2 will install this mod as a BAIN package. Only tick **10 Glow in the Dahrk Patch - Interior Sunrays** and click **OK**.
-  - Rename the mod to **Project Atlas - Glow in the Dahrk Patch**. Click **OK**.
+  - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - MO2 will install this mod as a BAIN package. Only tick **faint** and click **OK**.
+  - In the BAIN installer, tick **faint** only.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
@@ -291,6 +264,19 @@ Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
+## AUDIO MODULE
+
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
+NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
+- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
+Removes the sheep sounds from Morrowind.
+- [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+
 ## GAMEPLAY MODULE
 
 ### Quality of life improvements
@@ -301,9 +287,9 @@ When the player or the player's companions are attacked, any companions will lau
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 - [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-  - MO2 will install this mod as a BAIN package. Only tick **00 Core + Vanilla Meshes** and click **OK**.
-  - Also install the **GH Patches and Replacers** optional file.
-    - MO2 will install this mod as a BAIN package. Only tick **10 Atlas - Vanilla BC Mushrooms** and click **OK**.
+  - In the BAIN installer, tick **00 Core + Vanilla Meshes** only.
+  - Also install **GH Patches and Replacers**.
+    - In the BAIN installer, tick **10 Atlas - Vanilla BC Mushrooms** only.
   - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella. Picking a glowing plant will also remove the glow-light.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -342,20 +328,18 @@ The installation order dictates the priority a given mod's assets have over the 
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
+- Creature VFX Restoration
 - Fix Those Bastard Rope Fences
 - Glowing Flames
-- Great Service
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
+- Services Restored
+- The Publicans
 - Expansion Delay
 - Early Transport to Mournhold
 - Facelift
 - Intelligent Textures
-- Improved Thrown Weapon Projectiles
-- Services Restored
-- Sheep-no-More
-- The Publicans
 - Better Daedric Font
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
@@ -387,11 +371,11 @@ The installation order dictates the priority a given mod's assets have over the 
 - Remiros' Groundcover
 - Remiros' Groundcover Shaders - Landbias Fix
 - Vivec Palace Water Replacer
+- Improved Thrown Weapon Projectiles
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Yet Another Guard Diversity - Regular
-- Creature VFX Restoration
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Subtle Magic Glow
@@ -399,8 +383,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - Let There Be Darkness - Lua Lighting Overhaul
 - Let There Be Darkness (No Level Design Lighting Preview Patch)
 - Weather Adjuster
+- Great Service
 - Greet Distance Reducer
 - No Female Nord Screeching
+- Sheep-no-More
 - Shut the Fuck up Cliff Racers
 - Diligent Defenders
 - Easy Escort
@@ -410,7 +396,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
 - Improved Vanilla Leveling
-- Beware the Sixth House (Sixth House Overhaul)
+- Beware the Sixth House
 - Tribunal Rebalance
 - Bloodmoon Rebalance
 
@@ -425,17 +411,17 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
 - Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Great Service.ESP
-- Expansion Delay.ESP
-- Early Transport to Mournhold.ESP
 - Services Restored.ESP
 - The Publicans.ESP
+- Expansion Delay.ESP
+- Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - hw_GreetDistanceReducer.ESP
 - Waterfalls Tweaks.ESP
 - NearVanillaRoadSigns.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
+- Great Service.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -515,6 +501,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
 - **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
+- **Torch Hotkey** **C** key to equip light sources.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
