@@ -65,7 +65,7 @@ The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), 
 
 ## TOOLS
 
-Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools, as well as the mod manager we will be using to install our mods, Mod Organizer 2.
+Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools.
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
