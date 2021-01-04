@@ -418,6 +418,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+  - Also install [**Let There Be Darkness (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). This will remove a compatibility issue with mods that may use the **L** key, such as Security Enhanced (a mod present in this guide). Only use it for version 1.1 of Let There Be Darkness! This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
