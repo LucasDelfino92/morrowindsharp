@@ -3,6 +3,18 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## January 4th, 2020
+
+- Guide released on Reddit!
+- Simplifcation of installation instructions.
+- Deleted **Continuity** module.
+- The following mods have changed categories:
+  - Services Restored moved from Continuity to Core.
+  - The Publicans moved from Continuity to Core.
+  - Improved Thrown Weapon Projectiles moved from Continuity to Visuals.
+  - Great Service moved from Core to Audio.
+  - Sheep-no-More moved from Continuity to Audio.
+
 ## January 3rd, 2020
 
 - Version 1.0 of Morrowind++ released.
