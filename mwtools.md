@@ -58,7 +58,7 @@ TES Advanced Mod Editor lets you open a plugin in order to clean it manually, de
 - Run TESAME in MO2.
 - Go to **Mods -> Open ..**
 - Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
-- Right click on the records you want to delete (alternatively, press spacebar) and the records will turn black.
+- Right click on the records you want to delete (alternatively, press spacebar with the record selected) and the records will turn black.
 - Now press **Delete**, and the records will be gone.
 - Go to **Mods -> Save as ..**
 - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
