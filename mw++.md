@@ -122,7 +122,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
 High resolution replacer for the Daedric font used in scrolls. 
-  - MO2 will tell you there's no game data on top level. 
+  - MO2 will tell you the content of data files does not look valid.
     - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
   - Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
@@ -130,7 +130,7 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
   - Install **Better Dialogue Font** only.
 - [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
 Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
-  - MO2 will tell you there's no game data on top level. 
+  - MO2 will tell you the content of data files does not look valid.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -207,12 +207,12 @@ Replaces the water in the Palace of Vivec's canals.
 
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
-  - MO2 will tell you there's no game data on top level. 
+  - MO2 will tell you the content of data files does not look valid.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
-  - MO2 will tell you there's no game data on top level. 
+  - MO2 will tell you the content of data files does not look valid.
     - Right click **Data Files** and click **Set data directory**. Click **OK**.
 - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
 The bows will better line up with the sheathing animation.
