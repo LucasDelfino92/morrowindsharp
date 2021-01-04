@@ -305,7 +305,11 @@ The first thing you will notice about this tab is that all options minus **Use D
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
-You must also modify your *Weather Settings* in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier. [**This is what the settings should look like.**](https://cdn.discordapp.com/attachments/705627823104327680/788827910567493692/weather_settings.png) Credits for them go to vtastek!
+You must also modify your *Weather Settings* in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier.
+
+- Click *Weather Settings*.
+- Set the *Fog range factor* of all weathers to **1,000**.
+- Click *Save*.
 
 ### IN-GAME TAB
 
