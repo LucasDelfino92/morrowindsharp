@@ -296,12 +296,10 @@ The first thing you will notice about this tab is that all options minus **Use D
 - In the **Land Textures** tab, simply click *Create Land Textures*.
 - In the **Land Meshes** tab, select *Ultra High* from the *World mesh detail* dropdown menu. Click *Create Land Meshes*.
 - In the **Statics** tab:
-  - I suggest enabling *Include reflective water in interiors*.
-  - Cick *Edit list*. In the window that has opened, click *Add*. A window should open in the Morrowind\mge3 directory. Double click *MGE XE Default Statics Classifiers.ovr* to add it to the Static Overrides list. Click *Save*. This will prevent some bugs with Distant Land generation.
+  - Enable *Include reflective water in interiors*.
+  - Disable Use lists of statics overriding parameters set above.
   - Click *Create Statics*.
 - Once the statics have been created, simply click **Finish**.
-
-> If for some reason your distant land generation crashes when creating statics, repeat the process from the beginning, omitting the Static Overrides step in the **Statics** tab.
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. While not every mod modifies statics to the point of needing to regenerate them, it doesn't hurt to do so. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window.
 
