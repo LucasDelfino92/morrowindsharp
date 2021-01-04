@@ -30,8 +30,6 @@ Install Morrowind and all modding tools outside all default Windows folders (Pro
 - C:\Games\Morrowind Mods, where you will keep your mods' archives.
 - C:\Games\Morrowind Mods\Tools, where Morrowind tools will be installed.
 
-Your **Morrowind\Data Files** folder contains your game’s data. If you followed my advice, it will be found in C:\Games\Morrowind\Data Files\.
-
 Your **Morrowind root folder** contains the game’s executable (Morrowind.exe), the game’s launcher (Morrowind Launcher.exe) and the game’s .ini file (Morrowind.ini). Certain mods require you to modify values from the .ini, but those are in the minority.
 
 One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
@@ -40,7 +38,7 @@ One thing many Morrowind players who bought their game through online stores suc
 
 The Game of the Year Edition available from GOG (which this guide assumes you are using) contains plenty of unnecessary files. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSAs themselves, which leads to unnecessary file bloat.
 
-In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide assumes you will be playing Morrowind without them.
+In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide recommends you not to play with them. However, later I will recommend a mod that includes patches versions of those plugins (the ones that are worth your time, at least).
 
 To clean up your GOG installation of Morrowind, delete the following files from your **Morrowind\Data Files** folder:
 
