@@ -123,22 +123,22 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 - [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
 High resolution replacer for the Daedric font used in scrolls. 
   - MO2 will tell you the content of data files does not look valid.
-    - Right click on **data**, and click **Create directory...**. Name this new folder **fonts** and click **OK**. 
-  - Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
+    - Right click on *data files*, and click *Create directory...*. Type **fonts** and click *OK*. 
+  - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into **fonts**. Click *OK*.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Install **Better Dialogue Font** only.
 - [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
 Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
   - MO2 will tell you the content of data files does not look valid.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+    - Right click the **Data Files** folder and click *Set as data files directory*. Click *OK*.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
   - Install **Pete's Journal and Scroll** only.
     - In the BAIN installer, tick **01 Journal and Scroll - 2K** only.
 - [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
 HD recreation of the Title and Logo Intro, in widescreen.
-  - Install both main files.
+  - Install **Title Screen Reworked (Widescreen)** only (assuming you enabled *Skip opening movie* in MGE XE).
 - [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
@@ -208,12 +208,12 @@ Replaces the water in the Palace of Vivec's canals.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.
   - MO2 will tell you the content of data files does not look valid.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+    - Right click the **Data Files** folder and click *Set as data files directory*. Click *OK*.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by akortunov, Greatness7, Heinrich, Hrnchamd, London Rook, Lord Berandas, Melchior Dahrk, MementoMoritius, NullCascade, PetetheGoat, PikachunoTM, and Remiros  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
   - MO2 will tell you the content of data files does not look valid.
-    - Right click **Data Files** and click **Set data directory**. Click **OK**.
+    - Right click the **Data Files** folder and click *Set as data files directory**. Click *OK*.
 - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
 The bows will better line up with the sheathing animation.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
@@ -337,10 +337,8 @@ The installation order dictates the priority a given mod's assets have over the 
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
 - Pete's Scroll 2018 ...in 2020
-- Logo Video Intro Reworked (Widescreen)
 - Title Screen Reworked (Widescreen)
 - Widescreen Splash Replacer
-- Widescreen Splash Additions
 - Better Questlist
 - Continue
 - HUD Weapon Charge
