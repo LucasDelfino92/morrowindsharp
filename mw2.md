@@ -106,6 +106,8 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 ### Non-purist fixes
 
+- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 - [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
@@ -116,13 +118,6 @@ Fixes several inconsistencies in dialogue spoken by members of the Imperial Legi
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
-Gives the base golden saint the feminine walk animation instead of the default male walk animation.
-  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
-- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
-Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
@@ -132,8 +127,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde's Secret Master tools.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
-Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos. 
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
@@ -279,6 +272,8 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
   - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
+- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
+Adds the missing belt to the male Imperial Steel Cuirass mesh.
 - [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
 Adjustment of the Nordic Iron Helm mesh so that it doesn't look as stupid. 
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
@@ -291,6 +286,8 @@ Adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and
   - Hide both .ESPs. We will be installing *Area Effect Arrows Integrated* later, which uses a plugin that incorporates this mod's changes.
 - [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523?) by Kyim  
 Mesh replacers for various shoulder armours to help them feel a bit more practical.
+- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
+Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
@@ -304,6 +301,9 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 
 ### NPCs
 
+- [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
+Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+  - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.
 
@@ -553,22 +553,19 @@ The installation order dictates the priority a given mod's assets have over the 
 - Creature VFX Restoration
 - Fix Those Bastard Rope Fences
 - Glowing Flames
-- Immersive Run Fix
 - Silt Strider Animation Restored
 - Expeditious Exit
 - Quest Skill Reward Fix
 - Skill Increase GMST Fix
+- Immersive Run Fix
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
 - FMI - Legion Dialogue
 - FMI - Nice to Meet You
 - FMI - #NotAllDunmer
-- Golden Saint Feminine Walk
-- Imperial Steel Cuirass With Belt
 - LDM - Context Matters
 - Loading Doors Lock Tune
 - Services Restored
-- Soldier Belts Fix
 - Temples with Shrines
 - The Publicans
 - Expansion Delay
@@ -622,15 +619,18 @@ The installation order dictates the priority a given mod's assets have over the 
 - Well Diversified
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
+- Imperial Steel Cuirass With Belt
 - Improved Nordic Iron Helm (Alternate)
 - Improved Thrown Weapon Projectiles
 - No Orcish Clown Shoes
 - Particle Arrow Replacer
 - Practical Pauldrons - Streamlined Shoulders
+- Soldier Belts Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
+- Golden Saint Feminine Walk
 - Yet Another Guard Diversity - Regular
 - Apel's Rain Replacer
 - Glow in the Dahrk
