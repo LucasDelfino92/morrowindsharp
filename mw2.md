@@ -120,7 +120,7 @@ NPCs no longer will greet you as if they had just met you.
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
