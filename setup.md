@@ -61,7 +61,7 @@ The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), 
 - Extract the contents of **MCP beta** to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
 - Execute the Morrowind Code Patch.exe as an administrator.
 - The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [**this handy Google Sheets document**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
-- Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder.
+- Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder. Do not delete it, as it is a backup of your pre-patched executable.
 
 ## TOOLS
 
