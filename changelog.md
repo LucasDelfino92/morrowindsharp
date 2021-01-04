@@ -3,6 +3,12 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
 
+## v1.01 (January 4th, 2020)
+
+- Minor formatting tweaks for readability.
+- Minor update to MO2 messages' instructions.
+- Removed Logo Intro Video Reworked, as **Setup** recommends the option to *Skip opening movie*.
+
 ## January 4th, 2020
 
 - Guide released on Reddit!
