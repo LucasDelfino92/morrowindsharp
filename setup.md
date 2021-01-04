@@ -38,7 +38,7 @@ One thing many Morrowind players who bought their game through online stores suc
 
 The Game of the Year Edition available from GOG (which this guide assumes you are using) contains plenty of unnecessary files. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSAs themselves, which leads to unnecessary file bloat.
 
-In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide recommends you not to play with them. However, later I will recommend a mod that includes patches versions of those plugins (the ones that are worth your time, at least).
+In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide recommends you not to play with them.
 
 To clean up your GOG installation of Morrowind, delete the following files from your **Morrowind\Data Files** folder:
 
