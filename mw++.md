@@ -497,7 +497,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 The mods installed in this guide and configured as mentioned above will use the following keys:
 
 - **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
-- **Torch Hotkey** **C** key to equip light sources.
+- **Torch Hotkey**: **C** key to equip light sources.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
