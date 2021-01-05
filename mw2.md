@@ -1,4 +1,4 @@
-# MORROWIND2
+# MORROWIND#
 
 Version 2.0  
 
