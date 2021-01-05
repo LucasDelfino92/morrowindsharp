@@ -458,7 +458,7 @@ Makes all mental manipulation effect count as an aggression. Player will be fine
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- **No Summon Soultrap** by Sigourn  
+- [**No Soultrapping Summons**](https://www.mediafire.com/file/smmmzs6v2912g21/No+Soultrapping+Summons.zip/file) by Sigourn  
 Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
@@ -677,7 +677,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MAB0's Manipulated
 - No Disease Labels
 - No Rest Without Beds
-- No Summon Soultrap
+- No Soultrapping Summons
 - No Taunting
 - Realistic Movement Speeds
 - Realistic Repair
@@ -745,7 +745,7 @@ Load order.
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
-- No Summon Soultrap.ESP
+- No Soultrapping Summons.ESP
 - Realistic_Repair_Add-on.ESP
 - Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
