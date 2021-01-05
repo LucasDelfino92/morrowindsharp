@@ -448,6 +448,8 @@ Framework that is necessary for other MAB0's mods to work.
 Allows the player to be affected by only one potion/ingredient at a time.
 - [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 Makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+- [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
@@ -660,6 +662,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MAB0's Foundations
 - MAB0's Ingestion
 - MAB0's Manipulated
+- Nimble Armor
 - No Disease Labels
 - No Rest Without Beds
 - No Soultrapping Summons
