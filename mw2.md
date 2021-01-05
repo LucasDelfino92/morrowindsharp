@@ -756,7 +756,7 @@ Load order.
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- **Merged Objects.ESP**
+- Merged Objects.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
