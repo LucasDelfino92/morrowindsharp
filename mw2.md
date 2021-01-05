@@ -18,7 +18,6 @@ Version 2.0
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
-  - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-plugins)
   - [Install order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#install-order-and-load-order)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#conflict-resolution)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
@@ -514,15 +513,6 @@ BAIN-ready installer which contains patches for the following mods. Should you h
   - 04 MDMD Creatures + BTBGI Patch
   - 05 MDMD Denizens + Adamantium Armor Integrated Patch
   - 06 TCBOO + MDMD Denizens Patch
-
-### Cleaning plugins
-
-The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-
-- **Divayth Fyr Puzzle Fixed.ESP**
-  - Clean with TESTool and tes3cmd.
-- **Dubdilla Location Fix.ESP**
-  - Clean with TESTool and tes3cmd.
 
 ### Install order and load order
 
