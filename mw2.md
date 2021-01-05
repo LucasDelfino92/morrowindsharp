@@ -7,7 +7,6 @@ Version 2.0
 
 ## INDEX
 
-- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#introduction)
   - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#modding-tips)
@@ -24,10 +23,6 @@ Version 2.0
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
-
-## CHANGELOG
-
-See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) page for more information.
 
 ## INTRODUCTION
 
