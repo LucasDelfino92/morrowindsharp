@@ -452,7 +452,7 @@ Makes all mental manipulation effect count as an aggression. Player will be fine
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**No Soultrapping Summons**](https://www.mediafire.com/file/smmmzs6v2912g21/No+Soultrapping+Summons.zip/file) by Sigourn  
+- [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
 Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
