@@ -667,14 +667,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - MAB0's Manipulated
 - No Disease Labels
 - No Rest Without Beds
-- No Soultrapping Summons
 - No Taunting
+- Ownership Overhaul
 - Realistic Movement Speeds
 - Realistic Repair
 - Realistic Repair Add-On
 - Service Requirements Lore
 - Sneaky Strike
-- Ownership Overhaul
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
 - Helm of Tohan BTBGI Patch
@@ -686,6 +685,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
+- No Soultrapping Summons
 
 Load order.
 
@@ -735,7 +735,6 @@ Load order.
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
-- No Soultrapping Summons.ESP
 - Realistic_Repair_Add-on.ESP
 - Service_Requirements.ESP
 - Morrowind Anti-Cheese.ESP
@@ -756,6 +755,7 @@ Load order.
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
+- No Soultrapping Summons.ESP
 - Merged Objects.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
