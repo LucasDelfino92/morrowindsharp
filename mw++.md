@@ -13,7 +13,7 @@ Version 1.01
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
   - [Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#overwrite-folder)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
-- [UI and hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
+- [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
@@ -245,7 +245,7 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
-### Weather and lighting
+### Weather and Lighting
 
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
