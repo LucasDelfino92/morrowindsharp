@@ -668,6 +668,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MAB0's Manipulated
 - No Disease Labels
 - No Rest Without Beds
+- No Soultrapping Summons
 - No Taunting
 - Ownership Overhaul
 - Realistic Movement Speeds
@@ -686,7 +687,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- No Soultrapping Summons
 
 Load order.
 
