@@ -462,8 +462,8 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
   - Hide *Realistic_Repair_Optional.ESP*
   - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
-- [**Service Requirements Lore (Sigourn Edit)**](https://www.mediafire.com/file/rjnoarybkfcmzxj/Service+Requirements+Lore+(Sigourn+Edit).zip/file) by Vanhikes, dungeom, and Sigourn  
-Adds rank requirements to access faction services. This is an edited version of [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567), which allows Guild Guides to offer teleportation services regardless of your faction affiliation.
+- [**Service Requirements Lore (Sigourn Edit) v1.3**](https://www.mediafire.com/file/rjnoarybkfcmzxj/Service+Requirements+Lore+(Sigourn+Edit).zip/file) by Vanhikes, dungeom, and Sigourn  
+Adds rank requirements to access faction services. This is an edited version of [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567), which allows Guild Guides and Healers to offer teleportation services regardless of your faction affiliation, allows you to get services of any Great House, Tribunal Temple, and Imperial Cult member as long as they are rank 3 or below.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
