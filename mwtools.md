@@ -6,7 +6,7 @@
 ## INDEX
 
 - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
-  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool-1)
+  - [TESTool](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#testool)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
   - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
