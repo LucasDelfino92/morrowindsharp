@@ -469,7 +469,7 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
   - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
 - [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567) by Vanhikes and dungeom  
 Adds rank requirements to access faction services.
-  - In the BAIN installer, tick *Service Requirements Lore* only.
+  - In the BAIN installer, tick **Service Requirements Lore** only.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
