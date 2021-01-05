@@ -743,6 +743,7 @@ Load order.
 - BTBGI PFP Patch.ESP
 - Helm of Tohan BTBGI Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
+- Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
@@ -756,7 +757,6 @@ Load order.
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
 - **Merged Objects.ESP**
-- **Balanced Pasive Races and Birthsigns.ESP**
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
@@ -768,7 +768,6 @@ Load order.
 There are a couple of notes here:
 
 - We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
-- Balanced Pasive Races and Birthsigns.ESP should be re-enabled after you've finished merging objects. This is because Merged Objects will otherwise merge conflicting records with BTB's Game Improvements (Necro Edit).ESP which we would have to delete afterwards, so it's best to simply avoid this problem.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 
 ### Conflict resolution
