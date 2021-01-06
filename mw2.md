@@ -27,12 +27,14 @@ Version 2.0.1
 
 ## CHANGELOG
 
-v2.0.1:
+<details>
+<summary>v2.0.1</summary>
 
 - Modified Service Requirements Lore plugin.
 - Fixed HardTrade. Previously the download included a .json file that did nothing.
 - Added Nimble Armor.
 - Added extra TESAME instructions for BTBGI (Necro Edit).
+</details>
 
 ## INTRODUCTION
 
