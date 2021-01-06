@@ -333,6 +333,7 @@ The installation order dictates the priority a given mod's assets have over the 
 
 <details>
   <summary>Install order</summary>
+
 - DLC: Tribunal
 - DLC: Bloodmoon
 - MGE XE Data Files
