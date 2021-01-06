@@ -527,6 +527,10 @@ BAIN-ready installer which contains patches for the following mods. Should you h
 
 The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
+
+<details>
+<summary>Install order</summary>
+
 - DLC: Tribunal
 - DLC: Bloodmoon
 - MGE XE Data Files
@@ -696,8 +700,12 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
+</details>
 
-Load order.
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
+
+<details>
+<summary>Load order</summary>
 
 - Morrowind.esm
 - Tribunal.esm
@@ -780,6 +788,7 @@ There are a couple of notes here:
 
 - We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
+</details>
 
 ### Conflict resolution
 
