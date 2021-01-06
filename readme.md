@@ -1,7 +1,5 @@
 # MORROWIND++: A Morrowind Modding Guide
 
-Don't forget to check out the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) for the latest updates!
-
 ## CONTACT INFO
 
 You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
