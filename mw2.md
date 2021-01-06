@@ -93,7 +93,6 @@ Removed the following mods:
 - Character Creation Name Generator.
 - Quick Loadouts.
 - Forge of Hilbongard.
-- Nordic Chest Replacer.
 - Particle Arrow Replacer.
 - Spear-Staff Fix.
 - Buoyant Lord Vivec.
