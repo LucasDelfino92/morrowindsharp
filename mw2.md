@@ -507,7 +507,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 ### Patches
 
 - [**Morrowind# Patches**](https://www.mediafire.com/file/yi197dsgrlceled/Morrowind#+Patches+v1.1.zip/file) by Sigourn  
-BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to tick install the appropiate patch:
+BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
   - 03 BTBGI + Realistic Repair Add-on Patch
