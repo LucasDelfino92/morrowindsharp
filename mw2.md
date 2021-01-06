@@ -801,7 +801,7 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
 
 - Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
-    - Omits addition of a Hlaalu Guard and the moving of another which are no longer necessary as the Sword of White Woe was removed.
+    - Omits the addition of a Hlaalu Guard to protect the Sword of White Woe who is no longer necessary as BTB removes the sword.
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
   - Cell **Caldera, Guild of Mages** 
     - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
@@ -815,7 +815,7 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
   - Weapon **iron spider dagger**
   - Weapon **imperial netch blade**
   - Weapon **Stormkiss**
-    - Omits the addition of the Ignore Weapon Resistance flag added by Patch for Purists, which overwrites BTB's change to how weapon resistance works.
+    - Omits the addition of the Ignore Weapon Resistance flag added by Patch for Purists to these three weapons, which overwrites BTB's change to how weapon resistance works.
 
 ### Synchronizing mod masters
 
