@@ -11,7 +11,7 @@ Version 2.0.1
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#introduction)
   - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#modding-tips)
-  - [Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#overwrite-folder)
+  - [The Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#the-overwrite-folder)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#core-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#visuals-module)
@@ -38,13 +38,13 @@ Version 2.0.1
 
 ## INTRODUCTION
 
-### FOLLOWING THE SETUP GUIDE
+### Following the Setup guide
 
 The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
 Additionally, unlike Morrowind++, this guide assumes a certain level of competence from its users, and knowledge about the game. Because of this, instructions have been simplified, particularly those that always pointed out when Mod Organizer 2 won't recognize a mod's Data Files structure.
 
-### MODDING TIPS
+### Modding tips
 
 **Mod Organizer 2** lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want to certain files not to overwrite another mod's.
 
@@ -53,7 +53,7 @@ Additionally, unlike Morrowind++, this guide assumes a certain level of competen
 - Right click on the plugins, folders, or files you want to hide, and select **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-### OVERWRITE FOLDER
+### The Overwrite folder
 
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names and paths.
 
