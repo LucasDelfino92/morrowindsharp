@@ -946,11 +946,6 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 
 There are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
-- Delete the following records from **Supply Chests.ESP** for compatibility with **Religions Elaborated.ESP**:
-  - Cell **Ald-ruhn, Temple**
-  - Cell **Balmora, Temple**
-  - Cell **Ebonheart, Imperial Chapels**
-    - Omits the additions of supply chests already present in Religions Elaborated.
 - Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
     - Omits addition of a Hlaalu Guard and the moving of another which are no longer necessary as the Sword of White Woe was removed.
