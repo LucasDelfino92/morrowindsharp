@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.1  
+Version 2.0.2 
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -26,6 +26,12 @@ Version 2.0.1
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+<summary>v2.0.2</summary>
+
+- Fixed load order. Previously it mentioned the wrong Better Propylon Teleport Warp plugin.
+</details>
 
 <details>
 <summary>v2.0.1</summary>
