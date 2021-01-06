@@ -784,6 +784,9 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
   - Cell **Caldera, Guild of Mages** 
     - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
+- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
+  - BSGN **Elfborn** 
+    - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
 - If you installed **MDMD - More Deadly Morrowind Denizens**, delete the following record from **Merged Objects.ESP**:
   - NPC **sjoring hard-heart** 
     - Omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
