@@ -1,12 +1,13 @@
 # MORROWIND#
 
-Version 2.0  
+Version 2.0.1  
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
 
 ## INDEX
 
+- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#introduction)
   - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#modding-tips)
@@ -23,6 +24,15 @@ Version 2.0
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
+
+## CHANGELOG
+
+v2.0.1:
+
+- Modified Service Requirements Lore plugin.
+- Fixed HardTrade. Previously the download included a .json file that did nothing.
+- Added Nimble Armor.
+- Added extra TESAME instructions for BTBGI (Necro Edit).
 
 ## INTRODUCTION
 
