@@ -27,7 +27,26 @@ Version 1.01
 
 ## CHANGELOG
 
-See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) page for more information.
+<details>
+  <summary>v1.01 (January 4th)</summary>
+  
+- Minor formatting tweaks for readability.
+- Minor update to MO2 messages' instructions.
+- Removed Logo Intro Video Reworked, as **Setup** recommends the option to *Skip opening movie*.
+</details>
+
+<details>
+  <summary>v1.0 (January 4th)</summary>
+
+- Simplifcation of installation instructions.
+- Deleted **Continuity** module, and redistributed mods accordingly.
+- The following mods have changed categories:
+  - Services Restored moved from Continuity to Core (Non-purist fixes9.
+  - The Publicans moved from Continuity to Core (Non-purist fixes).
+  - Improved Thrown Weapon Projectiles moved from Continuity to Visuals (Equipment).
+  - Great Service moved from Core to Audio.
+  - Sheep-no-More moved from Continuity to Audio.
+</details>
 
 ## INTRODUCTION
 
