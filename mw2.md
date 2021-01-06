@@ -36,6 +36,79 @@ Version 2.0.1
 - Added extra TESAME instructions for BTBGI (Necro Edit).
 </details>
 
+<details>
+  <summary>v2.0.0</summary>
+
+General:
+
+- Formatting tweaks.
+- Modified Area Effect Arrows Integrated installation instructions (no longer requires Particle Arrow Replacer).
+- Added Temples with Shrines and Markers to Core (Non-purist fixes).
+- Added No Soultrapping Summons to Gameplay (Balance).
+
+Moved the following mods:
+
+- Great Service moved from Core to Audio.
+- Hidden Imperial Door Fix moved from Core to Visuals (Environment).
+- Immersive Run Fix moved from Core (Bug fixes and optimization) to Core (Non-purist fixes).
+- Blighted Blight moved from Continuity to Gameplay (New mechanics).
+- Divayth Fyr Puzzle Fixed moved from Continuity to Core (Non-purist fixes).
+- Dubdilla Location Fix moved from Continuity to Core (Non-purist fixes).
+- FMI - Legion Dialogue moved from Continuity to Core (Non-purist fixes).
+- FMI - Nice to Meet You moved from Continuity to Core (Non-purist fixes).
+- FMI - NotAllDunmer moved from Continuity to Core (Non-purist fixes).
+- Golden Saint Feminine Walk moved from Continuity to Visuals (NPCs).
+- Imperial Steel Cuirass With Belt moved from Continuity to Visuals (Equipment).
+- Improved Thrown Weapon Projectiles moved from Continuity to Visuals (Equipment).
+- LDM - Context Matters moved from Continuity to Core (Non-purist fixes).
+- Loading Doors Lock Tune moved from Continuity to Core (Non-purist fixes).
+- Services Restored moved from Continuity to Core (Non-purist fixes).
+- Sheep-no-More moved from Continuity to Audio.
+- Soldier Belts Fix moved from Continuity to Visuals (Equipment).
+- The Publicans moved from Continuity to Core (Non-purist fixes).
+
+Removed the following mods:
+
+- Blighted Mine Means Blighted Workers.
+- FMI - Hospitality Papers Expanded.
+- FMI - Service Refusal and Contraband.
+- Greetings for No Lore.
+- King's Oath Fix.
+- Lore-Friendly Iron Warhammer.
+- One-handed Adamantium Axe.
+- Plunder the Dungeon.
+- Redaynia Restored.
+- Religions Elaborated.
+- Shrine of Azura.
+- Silence.
+- Silent Assassins.
+- Sound Spell Sound Effect.
+- Supply Chests.
+- Telvanni Staff for the Telvanni Staff.
+- Temples with Shrines.
+- The Dream is the Door.
+- The Madstone.
+- True Scourge.
+- Wizard Staff for Wizards.
+- Character Creation Name Generator.
+- Quick Loadouts.
+- Forge of Hilbongard.
+- Nordic Chest Replacer.
+- Particle Arrow Replacer.
+- Spear-Staff Fix.
+- Buoyant Lord Vivec.
+- Incarnates Overhauled.
+- Silt Strider Redone.
+- Heat Haze.
+- Distant Thunder.
+- Haunted Barrows.
+- Heartthrum.
+- Idle Talk.
+- Its a Deal.
+- Tunnel Cough.
+- Imperial Silver Armour.
+</details>
+
 ## INTRODUCTION
 
 ### Following the Setup guide
