@@ -596,22 +596,21 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Patches
 
-- [**Morrowind# Patches**](https://www.mediafire.com/file/ej4oqtsthhe49v6/Morrowind#+Patches.zip/file) by Sigourn  
-BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to tick install the appropiate patch:
+- [**Morrowind# Patches**](https://www.mediafire.com/file/yi197dsgrlceled/Morrowind#+Patches+v1.1.zip/file) by Sigourn  
+BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
   - 03 BTBGI + Realistic Repair Add-on Patch
-  - 04 MDMD Creatures + BTBGI Patch
-  - 05 MDMD Denizens + Adamantium Armor Integrated Patch
-  - 06 TCBOO + MDMD Denizens Patch
+  - 04 MDMD + BTBGI Patch
+  - 05 MDMD + Adamantium Armor Integrated Patch
+  - 06 There Can Be Only One + BTBGI Patch
+  - 07 There Can Be Only One + MDMD Patch
 
 ### Cleaning plugins
 
 The following plugins are dirty and require cleaning. [**Follow the instructions here on how to clean plugins.**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
 
 - **Divayth Fyr Puzzle Fixed.ESP**
-  - Clean with TESTool and tes3cmd.
-- **Dubdilla Location Fix.ESP**
   - Clean with TESTool and tes3cmd.
 - **Religions Elaborated.ESP**
   - Clean with tes3cmd.
@@ -917,6 +916,7 @@ Load order.
 - BTBGI MDMD Patch.ESP
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
+- There Can Be Only One BTBGI Patch.ESP
 - There Can Be Only One MDMD Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
