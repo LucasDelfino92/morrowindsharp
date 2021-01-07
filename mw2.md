@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.1.2  
+Version 2.0.2  
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -26,6 +26,13 @@ Version 2.0.1.2
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+<summary>v2.0.2</summary>
+
+- Added The Dream is the Door.
+- Added Heartthrum.
+</details>
 
 <details>
 <summary>v2.0.1.2</summary>
@@ -407,6 +414,8 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - In the BAIN installer, tick **faint** only.
 - [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 - [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
 Makes in-world soul gems that are filled appear as enchanted items.
 
@@ -432,6 +441,8 @@ Personal preset for darker nights and less horrible fog.
 
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178) by RedFurryDemon and OperatorJack  
+Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
@@ -704,6 +715,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - No Shield Sparkle
 - Subtle Magic Glow
 - Subtle Smoke
+- The Dream is the Door
 - Visually Filled Soul Gems
 - Let There Be Darkness - Lua Lighting Overhaul
 - Let There Be Darkness (No Level Design Lighting Preview Patch)
@@ -711,6 +723,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Transporter Lights
 - Weather Adjuster
 - Great Service
+- Heartthrum
 - No Female Nord Screeching
 - Outdoor Banners With Sound
 - Outfit Greetings Tweaked
@@ -813,7 +826,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
+- The Dream is the Door.ESP
 - Great Service.ESP
+- RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
 - outfit greetings tweaked.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
