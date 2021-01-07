@@ -28,9 +28,10 @@ Version 2.0.2
 ## CHANGELOG
 
 <details>
-<summary>v2.0.2</summary>
+<summary>v2.0.1.2</summary>
 
 - Fixed load order. Previously it mentioned the wrong Better Propylon Teleport Warp plugin.
+- Uploaded clean version of Temples with Shrines and Markers.
 </details>
 
 <details>
@@ -201,7 +202,7 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde's Secret Master tools.
-- [**Temples with Shrines and Markers**](https://www.mediafire.com/file/e4nwhuett8uso91/Temples+with+Shrines+and+Markers.zip/file) by Leyawynn, Caeris, and Sigourn  
+- [**Temples with Shrines and Markers**](https://www.mediafire.com/file/0d6zzc6aiasytc5/Temples+with+Shrines+and+Markers+v1.1.zip/file) by Leyawynn, Caeris, and Sigourn  
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran, and Vos. Adds Intervention markers in Ghostgate, Maar Gan, Suran, and Vos. Based off Leyawynn's [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) and Caeris' [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/).
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
