@@ -30,7 +30,9 @@ Version 2.0.4 (January 8th)
 ## CHANGELOG
 
 <details>
-  <summary>v2.0.4</summary>
+  <summary>v2.1.0</summary>
+
+With this update, a new game is recommended.
 
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
 - Updated Morrowind# Patches.
@@ -38,8 +40,14 @@ Version 2.0.4 (January 8th)
 - Removed Helm of Tohan (EBQ_Artifact.ESP). This mod and Adamantium Armor Integrated go hand in hand.
 - Removed Helm of Tohan BTBGI Patch.
 - Removed Realistic Repair Add-on. Ultimately we install Realistic Repair to control the condition of damaged loot.
+- Removed MDMD - More Deadly Morrowind Denizens. Despite being "inspired" Mort's rebalances, this mod goes way overboard with its changes.
+- Removed Umbra - Blademaster. This mod and More Deadly Morrowind Denizens go hand in hand.
+- Removed There Can Be Only One. There was no rhyme or reason to Morrowind's Daedric equipment placement. The only genuine issue (availability from respawning enemies) already addressed by BTB's Game Improvements.
 - Removed BTBGI + Realistic Repair Add-on Patch.
 - Removed MDMD + Adamantium Armor Integrated Patch.
+- Removed MDMD + BTBGI Patch.
+- Removed There Can Be Only One + BTBGI Patch.
+- Moved the remaining Hunter's Mark - A Marksman Mod patches to the mod's installation instructions.
 </details>
 
 <details>
@@ -509,6 +517,7 @@ An alternative version of the official plugin Area Effect Arrows that distribute
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
+  - Also install [**Hunter's Mark - A Marksman Mod Patches**](https://www.mediafire.com/file/2i938deplxylfjs/Hunter's+Mark+-+A+Marksman+Mod+Patches.zip/file) by Sigourn. Includes patches for Patch for Purists and Area Effect Projectiles Integrated.
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -586,14 +595,6 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
-230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
-  - Hide *MDMD - Bosses Only.ESP*
-- [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
-Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
-- [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
-Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
-  - Hide all plugins except *There Can Be Only One (Alt Fyr).ESP*
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
@@ -617,16 +618,6 @@ This section contains specific instructions for the (re)installation of the Morr
   - (Game mechanics) Attribute uncap
   - (Game mechanics) Skill uncap
     - Allows levelling of the eight main attributes and player skills past 100.
-
-### Patches
-
-- [**Morrowind# Patches v1.2**](https://www.mediafire.com/file/l536faf92ewiwrv/Morrowind#+Patches+v1.2.zip/file) by Sigourn  
-BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
-  - 00 Hunter's Mark + Patch for Purists Patch
-  - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
-  - 02 MDMD + BTBGI Patch
-  - 03 There Can Be Only One + BTBGI Patch
-  - 04 There Can Be Only One + MDMD Patch
 
 ### Install order and load order
 
@@ -761,6 +752,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Wading in Water MW
 - Area Effect Projectiles Integrated
 - Hunter's Mark - A Marksman Mod
+- Hunter's Mark - A Marksman Mod Patches
 - Class-Conscious Character Progression
 - Hold Your Breath
 - Magicka Based Skill Progression
@@ -792,9 +784,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
 - Balanced Passive Races and Birthsigns
-- More Deadly Morrowind Denizens
-- Umbra - Blademaster
-- There Can Be Only One
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
@@ -854,15 +843,8 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
-- Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
-- MDMD - More Deadly Morrowind Denizens.ESP
-- MDMD - Creatures Add-On.ESP
-- MDMD BTBGI Patch.ESP
-- Umbra, Blademaster.ESP
-- There Can Be Only One (Alt Fyr).ESP
-- There Can Be Only One BTBGI Patch.ESP
-- There Can Be Only One MDMD Patch.ESP
+- Balanced Pasive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -900,9 +882,6 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
   - BSGN **Elfborn** 
     - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
-- If you installed **MDMD - More Deadly Morrowind Denizens**, delete the following record from **Merged Objects.ESP**:
-  - NPC **sjoring hard-heart** 
-    - Omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
 - If you installed **BTB's Game Improvements - Necro Edit**, delete the following records from **Merged Objects.ESP**:
   - Weapon **iron spider dagger**
   - Weapon **imperial netch blade**
