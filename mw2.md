@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.3
+Version 2.0.4 (January 8th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -31,6 +31,7 @@ Version 2.0.3
 
 <details>
   <summary>v2.0.4</summary>
+
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
 - Updated Morrowind# Patches.
 - Removed Adamantium Armor Integrated. Let Tribunal equipment remain Tribunal exclusive.
