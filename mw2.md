@@ -32,6 +32,7 @@ Version 2.0.2
 
 - Added The Dream is the Door.
 - Added Heartthrum.
+- Removed Service Requirements Lore. Ultimately the game wasn't designed with this kind of mod in mind.
 </details>
 
 <details>
@@ -559,8 +560,6 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
   - Hide *Realistic_Repair_Optional.ESP*
   - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
-- [**Service Requirements Lore (Sigourn Edit) v1.3.1**](https://www.mediafire.com/file/oo4nrx4tgklfp19/Service+Requirements+Lore+(Sigourn+Edit)+v1.3.1.zip/file) by Vanhikes, dungeom, and Sigourn  
-Adds rank requirements to access faction services. This is an edited version of [**Service Requirements Lore**](https://www.nexusmods.com/morrowind/mods/45567), which allows Guild Guides and Healers to offer teleportation services regardless of your faction affiliation, allows you to get services of any Great House, Tribunal Temple, and Imperial Cult member as long as they are rank 3 or below.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
@@ -772,7 +771,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Movement Speeds
 - Realistic Repair
 - Realistic Repair Add-On
-- Service Requirements Lore (Sigourn Edit)
 - Sneaky Strike
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
@@ -841,7 +839,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
 - Realistic_Repair_Add-on.ESP
-- Service Requirements Lore.ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
