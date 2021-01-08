@@ -546,6 +546,9 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
+- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
+Increases the penalties for crime.
+  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**HardTrade v2.6 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade+v2.6+(Sigourn+Edit).zip/file) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
   - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
@@ -583,9 +586,6 @@ Fixes the biggest exploits and balance issues in the game. This is a stripped do
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
-Increases the penalties for crime.
-  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -774,6 +774,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Lucky Strike - A Critical Hit Mod
 - Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
+- Economy Adjuster Adjustments
 - HardTrade (Sigourn Edit)
 - Limited Leaping
 - MAB0's Foundations
@@ -791,7 +792,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
 - Balanced Passive Races and Birthsigns
-- Economy Adjuster Adjustments
 - More Deadly Morrowind Denizens
 - Umbra - Blademaster
 - There Can Be Only One
@@ -850,12 +850,12 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
+- EcoAdjCrime (Necro Edit).ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
-- EcoAdjCrime (Necro Edit).ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD BTBGI Patch.ESP
