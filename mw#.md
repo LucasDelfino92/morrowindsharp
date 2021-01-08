@@ -17,6 +17,8 @@
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
+  - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-code-patch)
+  - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patch)
   - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-plugins)
   - [Install order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#install-order-and-load-order)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#conflict-resolution)
@@ -24,10 +26,6 @@
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
-
-## CHANGELOG
-
-See the [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/changelog.md#morrowind-changelog) page for more information.
 
 ## INTRODUCTION
 
@@ -593,6 +591,21 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
 ## FINISHING TOUCHES
+
+### Morrowind Code Patch
+
+This section contains specific instructions for the (re)installation of the Morrowind Code Patch, which you should have installed already in the **Setup** page. These instructions are mod-specific, hence why they were not mentioned in **Setup**.
+
+- If you installed **BTB's Game Improvements - Necro Edit**, install the following patch:
+  - (Mod specific) Weapon resistance change
+    - Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. BTBGI's relies on this patch for its weapon resistance changes to work as intended.
+- If you installed **BTB's Game Improvements - Necro Edit** and **MAB0's Ingestion**, install the following patch:
+  - (Game mechanics) Healthy appetite
+    - Eating ingredients always succeeds, giving its first effect and skill advancement. To prevent the cheesing of this patch, BTBGI removes the skill gain for consuming ingredients, and MAB0's Ingestion prevents you from spamming their consumption for overpowered effects.
+- If you installed **BTB's Game Improvements - Necro Edit**, **Balanced Passive Races and Birthsigns**, or **Class-Conscious Character Progression**, install the following patches:
+  - (Game mechanics) Attribute uncap
+  - (Game mechanics) Skill uncap
+    - Allows levelling of the eight main attributes and player skills past 100.
 
 ### Patches
 
