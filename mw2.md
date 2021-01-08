@@ -30,8 +30,15 @@ Version 2.0.3
 ## CHANGELOG
 
 <details>
-  <summary>v2.0.3.1</summary>
+  <summary>v2.0.4</summary>
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
+- Updated Morrowind# Patches.
+- Removed Adamantium Armor Integrated. Let Tribunal equipment remain Tribunal exclusive.
+- Removed Helm of Tohan (EBQ_Artifact.ESP). This mod and Adamantium Armor Integrated go hand in hand.
+- Removed Helm of Tohan BTBGI Patch.
+- Removed Realistic Repair Add-on. Ultimately we install Realistic Repair to control the condition of damaged loot.
+- Removed BTBGI + Realistic Repair Add-on Patch.
+- Removed MDMD + Adamantium Armor Integrated Patch.
 </details>
 
 <details>
@@ -169,7 +176,7 @@ The best unofficial fan patch for Morrowind.
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM  
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
-  - Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, and *master_index.ESP*
+  - Hide all plugins except *bcsounds.ESP* and *master_index.ESP*
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
 Fixes UV mapping on rocks and stones.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
@@ -566,7 +573,6 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
   - Hide *Realistic_Repair_Optional.ESP*
-  - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
@@ -617,15 +623,13 @@ This section contains specific instructions for the (re)installation of the Morr
 
 ### Patches
 
-- [**Morrowind# Patches**](https://www.mediafire.com/file/yi197dsgrlceled/Morrowind#+Patches+v1.1.zip/file) by Sigourn  
+- [**Morrowind# Patches v1.2**](https://www.mediafire.com/file/l536faf92ewiwrv/Morrowind#+Patches+v1.2.zip/file) by Sigourn  
 BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
-  - 03 BTBGI + Realistic Repair Add-on Patch
-  - 04 MDMD + BTBGI Patch
-  - 05 MDMD + Adamantium Armor Integrated Patch
-  - 06 There Can Be Only One + BTBGI Patch
-  - 07 There Can Be Only One + MDMD Patch
+  - 02 MDMD + BTBGI Patch
+  - 03 There Can Be Only One + BTBGI Patch
+  - 04 There Can Be Only One + MDMD Patch
 
 ### Install order and load order
 
@@ -758,7 +762,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
 - Wading in Water MW
-- Adamantium Armor Integrated
 - Area Effect Projectiles Integrated
 - Hunter's Mark - A Marksman Mod
 - Class-Conscious Character Progression
@@ -787,11 +790,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - Ownership Overhaul
 - Realistic Movement Speeds
 - Realistic Repair
-- Realistic Repair Add-On
 - Sneaky Strike
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
-- Helm of Tohan BTBGI Patch
 - Balanced Passive Races and Birthsigns
 - Economy Adjuster Adjustments
 - More Deadly Morrowind Denizens
@@ -815,7 +816,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
 - bcsounds.ESP
-- EBQ_Artifact.ESP
 - master_index.ESP
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
@@ -847,25 +847,20 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - outfit greetings tweaked.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
-- Adamantium Armor Integrated.ESP
 - Area Effect Projectiles Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
-- Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
-- Helm of Tohan BTBGI Patch.ESP
-- BTBGI Realistic Repair Add-on Patch.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD Adamantium Armor Integrated Patch.ESP
 - MDMD BTBGI Patch.ESP
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
