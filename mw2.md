@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.2  
+Version 2.0.3
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -28,11 +28,19 @@ Version 2.0.2
 ## CHANGELOG
 
 <details>
+<summary>v2.0.3</summary>
+
+- Removed Fixed Adamantium Armor Meshes. Can't say I ever found anything wrong with them.
+- Removed Nordic Chest Replacer. This is an oddly specific mod for an "issue" I honestly never noticed.
+- Removed Practical Pauldrons - Streamlined Shoulders. Same as above.
+- Removed Service Requirements Lore. Ultimately the game wasn't designed with this kind of mod in mind.
+</details>
+
+<details>
 <summary>v2.0.2</summary>
 
 - Added The Dream is the Door.
 - Added Heartthrum.
-- Removed Service Requirements Lore. Ultimately the game wasn't designed with this kind of mod in mind.
 </details>
 
 <details>
@@ -154,8 +162,6 @@ The best unofficial fan patch for Morrowind.
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
   - Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, and *master_index.ESP*
-- [**Fixed Adamantium Armor Meshes**](https://www.nexusmods.com/morrowind/mods/46364?) by PikachunoTM  
-Gives most of the Adamantium Armor set from Tribunal UV and Mesh repairs.
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
 Fixes UV mapping on rocks and stones.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
@@ -334,8 +340,6 @@ Gives the hidden imperial door the same shading as the walls it is next to so th
 - [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
   - In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
-- [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/) by Remiros  
-Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 - [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
 Adds groundcover to almost all regions.
   - Install **Remiros' Groundcover** only.
@@ -354,7 +358,6 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 Mesh and texture replacer for the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-  - Download the mod from the main link at the top of the page, *not* the outdated v1.0 link at the bottom.
 - [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 - [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
@@ -364,8 +367,6 @@ Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
-- [**Practical Pauldrons - Streamlined Shoulders**](https://www.nexusmods.com/morrowind/mods/48523?) by Kyim  
-Mesh replacers for various shoulder armours to help them feel a bit more practical.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
@@ -609,7 +610,6 @@ BAIN-ready installer which contains patches for the following mods. Should you h
 
 The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-
 <details>
 <summary>Install order</summary>
 
@@ -622,7 +622,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - MGE XE Shader - Specialprocess
 - Patch for Purists
 - Unofficial Morrowind Official Plugins Patched
-- Fixed Adamantium Armor Meshes
 - Correct UV Rocks
 - Morrowind Optimization Patch
 - Project Atlas
@@ -687,7 +686,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Distant Mournhold
 - Hidden Imperial Door Fix
 - Near Vanilla Road Sign Replacer
-- Nordic Chest Replacer
 - Remiros' Groundcover
 - Remiros' Groundcover Shaders - Landbias Fix
 - Vivec Palace Water Replacer
@@ -698,7 +696,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Improved Nordic Iron Helm (Alternate)
 - Improved Thrown Weapon Projectiles
 - No Orcish Clown Shoes
-- Practical Pauldrons - Streamlined Shoulders
 - Soldier Belts Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
@@ -819,7 +816,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
 - NearVanillaRoadSigns.ESP
-- Nordic Chest Replacer.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
 - Yet Another Guard Diversity - Regular.ESP
