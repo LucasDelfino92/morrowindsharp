@@ -297,7 +297,7 @@ The first thing you will notice about this tab is that all options minus **Use D
 - In the **Land Meshes** tab, select *Ultra High* from the *World mesh detail* dropdown menu. Click *Create Land Meshes*.
 - In the **Statics** tab:
   - Enable *Include reflective water in interiors*.
-  - Disable Use lists of statics overriding parameters set above.
+  - Disable *Use lists of statics overriding parameters set above*.
   - Click *Create Statics*.
 - Once the statics have been created, simply click **Finish**.
 
