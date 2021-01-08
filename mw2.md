@@ -986,6 +986,9 @@ Crosshair Settings
 **Putting Power in Willpower**
 - Enable *Allow negative Resist Bonus*.
 
+**Realistic Repair**
+- Disable *Enable Realistic Repair*. This disables the mechanic that only lets you repair equipment at repair stations (forges, anvils, etc.).
+
 **Security Enhanced**
 - Disable *Enable Lockpick Auto-Equip On Locked Object Activation*.
 - Disable *Enable Probe Auto-Equip On Trapped Object Activation*.
