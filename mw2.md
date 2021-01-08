@@ -563,12 +563,12 @@ Eliminates trade exploits and makes bartering much more punishing.
   - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0  
-Framework that is necessary for other MAB0's mods to work.
 - [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
-Allows the player to be affected by only one potion/ingredient at a time.
+Prevents the player from consuming more than one potion or ingredient at a time.
+  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) to be installed.
 - [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
-Makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+Makes all mental manipulation effect count as an aggression. Any calm, frenzy, rally, demoralize, command and charm humanoid effect will put a bounty on the player's head if witnessed, unless the targeted NPC was initially in combat.
+  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) to be installed.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
@@ -576,9 +576,9 @@ Removes "Diseased", "Blighted", and similar adjectives from creature names using
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
 - [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
-Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
+Prevents the player from soultrapping summoned creatures by reducing their soul values to 0, and adjusts in-game dialogue accordingly.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
-Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
+Disables the "taunt" option in the persuasion menu, preventing you from taunting any enemy into combat and killing them with impunity.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
