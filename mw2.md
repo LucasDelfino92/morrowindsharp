@@ -504,8 +504,6 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 ### Equipment
 
-- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
-Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
