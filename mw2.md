@@ -33,6 +33,7 @@ Version 2.0.3
 - Removed Fixed Adamantium Armor Meshes. Can't say I ever found anything wrong with them.
 - Removed Nordic Chest Replacer. This is an oddly specific mod for an "issue" I honestly never noticed.
 - Removed Practical Pauldrons - Streamlined Shoulders. Same as above.
+- Removed Merlord's Starting Equipment. The mod is great, but given the focus this guide places on balance, the unbalanced starting equipment depending on class is hard to ignore.
 - Removed Service Requirements Lore. Ultimately the game wasn't designed with this kind of mod in mind.
 </details>
 
@@ -525,8 +526,6 @@ Adds in lock-bashing from Daggerfall.
 - [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
   - Place the **MWSE** folder alongside *Lucky Strike.ESP* in the **Data Files** folder.
-- [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?) by Merlord  
-Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
 
 ### Balance
 
@@ -751,7 +750,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Dynamic Timescale
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
-- Merlord's Starting Equipment
 - Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
 - HardTrade (Sigourn Edit)
