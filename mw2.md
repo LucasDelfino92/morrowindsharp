@@ -32,7 +32,7 @@ Version 2.0.3.1
 <details>
   <summary>v2.0.3.1</summary>
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
-- Changed location of Economy Adjuster Adjustments and No Soultrapping Summons. The former doesn't need a special load order; the latter does.
+- Changed the install order of Economy Adjuster Adjustments, Ownership Overhaul, and No Soultrapping Summons. The former two don't need a special load order; the latter does.
 </details>
 
 <details>
@@ -563,6 +563,9 @@ Removes "Diseased", "Blighted", and similar adjectives from creature names using
 Prevents the player from resting unless they activate a bed.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
+- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+  - Hide/disable *Ownership Overhaul.ESP*
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
@@ -571,9 +574,6 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
   - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
-- [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-  - Hide/disable *Ownership Overhaul.ESP*
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
