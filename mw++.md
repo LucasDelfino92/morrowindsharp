@@ -1,6 +1,6 @@
 # MORROWIND++
 
-Version 1.01
+Version 1.01 (January 4th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -11,7 +11,7 @@ Version 1.01
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
   - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
   - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
-  - [Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#overwrite-folder)
+  - [The Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#the-overwrite-folder)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
@@ -50,11 +50,11 @@ Version 1.01
 
 ## INTRODUCTION
 
-### FOLLOWING THE SETUP GUIDE
+### Following the Setup guide
 
 The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
-### MODDING TIPS
+### Modding tips
 
 A crash course to Morrowind and Bethesda modding in general is:
 
@@ -72,7 +72,7 @@ When installing mods manually, by extracting the contents of a mod and dropping 
 - Right click on the plugins, folders, or files you want to hide, and click **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-### OVERWRITE FOLDER
+### The Overwrite folder
 
 One more quirk about Mod Organizer 2 is the **Overwrite** folder and how it ties together with the tools we installed in the **Setup** section. The **Overwrite** folder is the destiny folder for the output of many of these tools. For instance, Distant Land generation will place its contents here, inside the **distantland** folder. Files in the **Overwrite** folder will overwrite all your installed assets and plugins, should they have the same names and paths.
 
