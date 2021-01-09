@@ -37,6 +37,7 @@ Version 2.0.3.2
 
 <details>
   <summary>v2.0.3.1</summary>
+
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
 - Changed the install order of Economy Adjuster Adjustments, Ownership Overhaul, and No Soultrapping Summons. The former two don't need a special load order; the latter does.
 </details>
