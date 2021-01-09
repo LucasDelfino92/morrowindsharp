@@ -10,6 +10,7 @@
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [Adjusting the INI](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#adjusting-the-ini)
+  - [Adjusting the INI](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#profiles)
   - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
   - [Installing mods in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mods-in-mod-organizer-2)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
@@ -129,16 +130,6 @@ I advise you to use Mod Organizer 2 for mod installation *only*. Don't use it to
 - Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click *No*.
 - You will be asked to associate MO2 with nxm links. Click *No*.
 
-Now that Mod Organizer 2 has been installed successfully, we need to configure it.
-
-- Click on the **Configure profiles** icon, which resembles an ID card.
-- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
-- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
-- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
-- Close this window.
-
-On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
-
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **installation order**. So far, it should read as follows:
 
 - DLC: Tribunal
@@ -169,6 +160,18 @@ Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow c
   - Snow Diameter=800 -> Increase the value to **1600**
   - Max Snowflakes=750 -> Increase the value to **1500**
 - Click **Save** and close the window.
+
+### PROFILES
+
+Now that we've done all preliminary adjustments, we can set up our profiles. Profiles let you quickly change from one mod setup to another.
+
+- Click on the **Configure profiles** icon, which resembles an ID card.
+- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
+- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
+- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
+- Close this window.
+
+On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ### SETTING UP TOOLS IN MOD ORGANIZER 2
 
