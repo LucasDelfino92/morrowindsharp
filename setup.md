@@ -10,7 +10,7 @@
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
   - [Adjusting the INI](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#adjusting-the-ini)
-  - [Adjusting the INI](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#profiles)
+  - [Profiles](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#profiles)
   - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
   - [Installing mods in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mods-in-mod-organizer-2)
   - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
