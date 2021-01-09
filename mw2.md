@@ -533,7 +533,7 @@ An alternative version of the official plugin Area Effect Arrows that distribute
   - Hide all plugins except *Area Effect Arrows Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-  - Also install [**Hunter's Mark - A Marksman Mod Patches**](https://www.mediafire.com/file/2i938deplxylfjs/Hunter's+Mark+-+A+Marksman+Mod+Patches.zip/file) by Sigourn. Includes patches for Patch for Purists and Area Effect Arrows Integrated.
+  - Also install [**Hunter's Mark - A Marksman Mod Patches**](https://www.mediafire.com/file/6xhzfdh83j2zr55/Hunters+Mark+-+A+Marksman+Mod+Patches+v1.1.zip/file) by Sigourn. Includes patches for Patch for Purists and Area Effect Arrows Integrated.
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -854,20 +854,9 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 
 There are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
-- Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
+- Delete the following records from **Yet Another Guard Diversity - Regular.ESP** for compatibility with **Morrowind Anti-Cheese.ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
-    - Omits the addition of a Hlaalu Guard to protect the Sword of White Woe who is no longer necessary as BTB removes the sword.
-- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
-  - Cell **Caldera, Guild of Mages** 
-    - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
-- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
-  - BSGN **Elfborn** 
-    - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
-- If you installed **BTB's Game Improvements - Necro Edit**, delete the following records from **Merged Objects.ESP**:
-  - Weapon **iron spider dagger**
-  - Weapon **imperial netch blade**
-  - Weapon **Stormkiss**
-    - Omits the addition of the Ignore Weapon Resistance flag added by Patch for Purists to these three weapons, which overwrites BTB's change to how weapon resistance works.
+    - Omits the unintended addition of a Hlaalu Guard because of a conflict with Morrowind Anti-Cheese which made the Sword of White Woe even harder to steal.
 
 ### Synchronizing mod masters
 
@@ -928,9 +917,6 @@ Crosshair Settings
 - Set *Crosshair Scale** to *80%*.
 - Set *Sneaking Crosshair Scale** to *80%*.
 
-**HardTrade**
-- Disable *Limit player stats to 100 when trading*.
-
 **Let There Be Darkness - Lua Lighting Overhaul**
 - In the **General and Cell Settings** tab, set *Cell lighting value overrides* to *NONE*.
 - If you've installed the specialprocess shader in **Setup**, set all three *Ambient color adjustments* to *75*.
@@ -938,7 +924,6 @@ Crosshair Settings
 
 **Limited Leaping**
 - Set *Cooldown between jumps* to *1*.
-- Set *Minimum fatigue to jump* to *20*. This matches the fatigue drain for jumping when using BTB's Game Improvements.
 
 **Magicka Based Skill Progression**
 - Set *Skill Experience per Magicka* to *0.066667*. This reduces the skill experience gain to a third of its original value, which was too generous.
