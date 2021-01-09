@@ -43,6 +43,7 @@ With this update, a new game is **required**. This update consists of the remova
 - Removed BTB's Game Improvements - Necro Edit.
 - Removed Balanced Passive Races and Birthsigns.
 - Updated Hunter's Mark - A Marksman Mod Area Effect Arrows Integrated Patch.
+</details>
 
 <details>
   <summary>v2.1.0</summary>
