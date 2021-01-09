@@ -570,6 +570,8 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
+- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+Dynamically adjusts how much merchants will pay for items, making expensive items much less valuable.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
