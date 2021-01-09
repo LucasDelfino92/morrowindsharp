@@ -224,7 +224,7 @@ This will create a separator which you can move up and down in the left window, 
 
 ## MGE XE
 
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) by Hrnchamd
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
@@ -232,14 +232,15 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
 - Run **MWSE-Update.exe**. This will update MWSE, required by many modern mods, to the latest version. Once the updating process is finished, the window will close itself.
 - In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
-- Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and rename the .zip to **MGE XE Data Files**.
+- Make a zip file out of the remaining **Data Files** folder and rename the .zip to **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
 
-There's an additional patch available for MGE XE which we will have to install manually.
+[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
 
-- [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
-Reduces light seams.
-  - Extract the contents of the file, and move all files into your Morrowind root directory, overwriting when prompted.
+This is an additional, beta patch for MGE XE that reduces light seams.
+
+- Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, overwriting when prompted.
+- Make a zip file out of the remaining **Data Files** folder and rename the .zip to **MGE XE PPL Beta Data Files**.
 
 ### INSTALLING SHADERS
 
