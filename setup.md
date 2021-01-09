@@ -235,15 +235,17 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Make a zip file out of the remaining files (**meshes**, **shaders**, and **textures** folders) and rename the .zip to **MGE XE Data Files**.
 - Install this file in Mod Organizer 2.
 
+There's an additional patch available for MGE XE which we will have to install manually.
+
+- [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
+Reduces light seams.
+  - Extract the contents of the file, and move all files into your Morrowind root directory, overwriting when prompted.
+
 ### INSTALLING SHADERS
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
 
-- [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
-Reduces light seams.
-  - Extract the contents of the file, and place the **d3d8.dll** in your Morrowind root folder, overwriting when prompted. You do not need the Data Files folder.
- 
-The following shaders should be installed through Mod Organizer 2 to keep our Data Files folder clean. They are installed like any other mod.
+The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
 
 - [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip) by Hrnchamd  
 - [**MGE XE Shader - Deband_Fogaware v2**](https://cdn.discordapp.com/attachments/381217735306248192/788784078505639956/MGE_XE_Shader_-_Deband_Fogaware_v2_August_24th_2020.zip) by Hrnchamd and vtastek  
