@@ -41,7 +41,7 @@ Version 2.0.3
 - Removed Nordic Chest Replacer. This is an oddly specific mod for an "issue" I honestly never noticed.
 - Removed Practical Pauldrons - Streamlined Shoulders. Same as above.
 - Removed Merlord's Starting Equipment. The mod is great, but given the focus this guide places on balance, the unbalanced starting equipment depending on class is hard to ignore.
-- Removed Service Requirements Lore. Ultimately the game wasn't designed with this kind of mod in mind.
+- Removed Service Requirements Lore. The idea behind the mod is great: make advancing through ranks have clear benefits. The problem is that the game wasn't designed with such a mod into account. Ideally the more you progress through a faction, the better the services you unlock: training, spellmaking, and enchanting being the obvious ones. But with the exception of the highest ranking NPCs in any given faction and others, low ranking NPCs (such as Ajira and Galbedir), NPCs seem to have ranks arbitrarily assigned to them.
 </details>
 
 <details>
