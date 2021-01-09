@@ -337,6 +337,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - DLC: Tribunal
 - DLC: Bloodmoon
 - MGE XE Data Files
+- MGE XE PPL Beta Data Files
 - MGE XE Shader - 16 Lights Shaders Alpha
 - MGE XE Shader - Deband Fogaware v2
 - MGE XE Shader - EdgeAA
