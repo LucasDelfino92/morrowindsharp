@@ -29,6 +29,22 @@ Version 2.1.0 (January 8th)
 ## CHANGELOG
 
 <details>
+  <summary>v2.2.0</summary>
+  
+With this update, a new game is **required**. This update consists of the removal of many balance mods. For the most part, I feel like the problem with Morrowind isn't because of balance. In fact, the broken balance is what makes Morrowind so appealing to many players. Moreover, I felt like some of these mods were too inconvenient to the player, and others just disrespected the lore for the sake of balance. It's up to you to decide.
+
+- Added Harder Barter.
+- Removed Caldera Mages Guild Guarded Alchemy Set.
+- Removed Economy Adjuster Adjustments (Crime Module).
+- Removed MAB0's Manipulated. 
+- Removed HardTrade.
+- Removed Nimble Armor. Removed for the sake of respecting the vanilla armor mechanics.
+- Removed No Soultrapping Summons.
+- Removed BTB's Game Improvements - Necro Edit.
+- Removed Balanced Passive Races and Birthsigns.
+- Updated Hunter's Mark - A Marksman Mod Area Effect Arrows Integrated Patch.
+
+<details>
   <summary>v2.1.0</summary>
 
 With this update, a new game is recommended.
@@ -513,10 +529,10 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
+  - Hide all plugins except *Area Effect Arrows Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-  - Also install [**Hunter's Mark - A Marksman Mod Patches**](https://www.mediafire.com/file/2i938deplxylfjs/Hunter's+Mark+-+A+Marksman+Mod+Patches.zip/file) by Sigourn. Includes patches for Patch for Purists and Area Effect Projectiles Integrated.
+  - Also install [**Hunter's Mark - A Marksman Mod Patches**](https://www.mediafire.com/file/2i938deplxylfjs/Hunter's+Mark+-+A+Marksman+Mod+Patches.zip/file) by Sigourn. Includes patches for Patch for Purists and Area Effect Arrows Integrated.
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -550,32 +566,17 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 ### Balance
 
-- [**Caldera Mages Guild Guarded Alchemy Set**](https://www.mediafire.com/file/6qdmt7i3s4n4yym/Caldera+Mages+Guild+Guarded+Alchemy+Set+v1.0.zip/file) by Sigourn  
-Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
-- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
-Increases the penalties for crime.
-  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
-- [**HardTrade v2.6 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade+v2.6+(Sigourn+Edit).zip/file) by Archimag  
-Eliminates trade exploits and makes bartering much more punishing.
-  - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
 Prevents the player from consuming more than one potion or ingredient at a time.
   - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) to be installed.
-- [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
-Makes all mental manipulation effect count as an aggression. Any calm, frenzy, rally, demoralize, command and charm humanoid effect will put a bounty on the player's head if witnessed, unless the targeted NPC was initially in combat.
-  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) to be installed.
-- [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
-Prevents the player from soultrapping summoned creatures by reducing their soul values to 0, and adjusts in-game dialogue accordingly.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu, preventing you from taunting any enemy into combat and killing them with impunity.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
@@ -590,10 +591,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable *Ownership Overhaul.ESP*
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
-- [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
-Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-- [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
-Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
@@ -607,13 +604,10 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 This section contains specific instructions for the (re)installation of the Morrowind Code Patch, which you should have installed already in the **Setup** page. These instructions are mod-specific, hence why they were not mentioned in **Setup**.
 
-- If you installed **BTB's Game Improvements - Necro Edit**, install the following patch:
-  - (Mod specific) Weapon resistance change
-    - Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. BTBGI's relies on this patch for its weapon resistance changes to work as intended.
-- If you installed **BTB's Game Improvements - Necro Edit** and **MAB0's Ingestion**, install the following patch:
+- If you installed **MAB0's Ingestion**, install the following patch:
   - (Game mechanics) Healthy appetite
-    - Eating ingredients always succeeds, giving its first effect and skill advancement. To prevent the cheesing of this patch, BTBGI removes the skill gain for consuming ingredients, and MAB0's Ingestion prevents you from spamming their consumption for overpowered effects.
-- If you installed **BTB's Game Improvements - Necro Edit**, **Balanced Passive Races and Birthsigns**, or **Class-Conscious Character Progression**, install the following patches:
+    - Eating ingredients always succeeds, giving its first effect and skill advancement. MAB0's Ingestion prevents you from spamming their consumption for overpowered effects.
+- If you installed **Class-Conscious Character Progression**, install the following patches:
   - (Game mechanics) Attribute uncap
   - (Game mechanics) Skill uncap
     - Allows levelling of the eight main attributes and player skills past 100.
@@ -749,7 +743,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
 - Wading in Water MW
-- Area Effect Projectiles Integrated
+- Area Effect Arrows Integrated
 - Hunter's Mark - A Marksman Mod
 - Hunter's Mark - A Marksman Mod Patches
 - Class-Conscious Character Progression
@@ -763,26 +757,19 @@ The installation order dictates the priority a given mod's assets have over the 
 - Dynamic Timescale
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
-- Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
-- Economy Adjuster Adjustments
-- HardTrade (Sigourn Edit)
+- Harder Barter
 - Limited Leaping
 - MAB0's Foundations
 - MAB0's Ingestion
-- MAB0's Manipulated
-- Nimble Armor
 - No Disease Labels
 - No Rest Without Beds
-- No Soultrapping Summons
 - No Taunting
 - Ownership Overhaul
 - Realistic Movement Speeds
 - Realistic Repair
 - Sneaky Strike
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- BTB's Game Improvements - Necro Edit
-- Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
@@ -823,6 +810,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - NearVanillaRoadSigns.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
+- SoldierBeltsFix.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - The Dream is the Door.ESP
@@ -832,22 +820,15 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - outfit greetings tweaked.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
-- Area Effect Projectiles Integrated.ESP
+- Area Effect Arrows Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
-- Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
+- Hunter's Mark Area Effect Arrows Integrated Patch.ESP
 - Lucky Strike.ESP
-- Caldera Mages Guild Guarded Alchemy Set.ESP
-- EcoAdjCrime (Necro Edit).ESP
 - Morrowind Anti-Cheese.ESP
-- BTB's Game Improvements (Necro Edit).ESP
-- BTBGI PFP Patch.ESP
-- SoldierBeltsFix.ESP
-- Balanced Pasive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- No Soultrapping Summons.ESP
 - Merged Objects.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
