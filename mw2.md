@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.3.1
+Version 2.0.3.2
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -28,6 +28,12 @@ Version 2.0.3.1
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.0.3.2</summary>
+  
+- Adjusted position of MDMD BTBGI Patch.ESP. This patch includes changes from BTBGI and MDMD, but it should load after There Can Be Only One's plugins to prevent being overridden by them (BTBGI already includes the changes from There Can Be Only One, so loading the patch after all mods will work just fine).
+</details>
 
 <details>
   <summary>v2.0.3.1</summary>
@@ -867,11 +873,11 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD Adamantium Armor Integrated Patch.ESP
-- MDMD BTBGI Patch.ESP
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One BTBGI Patch.ESP
 - There Can Be Only One MDMD Patch.ESP
+- MDMD BTBGI Patch.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
