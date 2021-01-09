@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.3
+Version 2.0.3.1
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,6 +32,7 @@ Version 2.0.3
 <details>
   <summary>v2.0.3.1</summary>
 - Added extra Morrowind Code Patch instructions depending on whether you installed certain mods.
+- Changed location of Economy Adjuster Adjustments and No Soultrapping Summons. The former doesn't need a special load order; the latter does.
 </details>
 
 <details>
@@ -540,6 +541,9 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
+- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
+Increases the penalties for crime.
+  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**HardTrade v2.6 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade+v2.6+(Sigourn+Edit).zip/file) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
   - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
@@ -557,8 +561,6 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
 Prevents the player from resting unless they activate a bed.
-- [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
-Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
@@ -580,9 +582,6 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
 Edits the stats of the unique Helm of Tohan from the official plugin to be in line with BTB's Game Improvements - Necro Edit.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-- [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
-Increases the penalties for crime.
-  - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -597,6 +596,8 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+- [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
+Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
 
 ## FINISHING TOUCHES
 
@@ -774,6 +775,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Lucky Strike - A Critical Hit Mod
 - Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
+- Economy Adjuster Adjustments
 - HardTrade (Sigourn Edit)
 - Limited Leaping
 - MAB0's Foundations
@@ -782,7 +784,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Nimble Armor
 - No Disease Labels
 - No Rest Without Beds
-- No Soultrapping Summons
 - No Taunting
 - Ownership Overhaul
 - Realistic Movement Speeds
@@ -793,13 +794,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - BTB's Game Improvements - Necro Edit
 - Helm of Tohan BTBGI Patch
 - Balanced Passive Races and Birthsigns
-- Economy Adjuster Adjustments
 - More Deadly Morrowind Denizens
 - Umbra - Blademaster
 - There Can Be Only One
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
+- No Soultrapping Summons
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -854,6 +855,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Lucky Strike.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
+- EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
@@ -862,7 +864,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - BTBGI Realistic Repair Add-on Patch.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
-- EcoAdjCrime (Necro Edit).ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD Adamantium Armor Integrated Patch.ESP
