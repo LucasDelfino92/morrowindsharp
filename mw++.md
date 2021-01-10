@@ -1,6 +1,6 @@
 # MORROWIND++
 
-Version 1.01 (January 4th)
+Version 1.0.1.1 (January 10th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -28,7 +28,13 @@ Version 1.01 (January 4th)
 ## CHANGELOG
 
 <details>
-  <summary>v1.01 (January 4th)</summary>
+  <summary>v1.0.1.1 (January 10th)</summary>
+  
+- Added instructions to hide a mesh from Morrowind Optimization Patch.
+</details>
+
+<details>
+  <summary>v1.0.1 (January 4th)</summary>
   
 - Minor formatting tweaks for readability.
 - Minor update to MO2 messages' instructions.
@@ -92,6 +98,7 @@ Greatly improves performance and fixes some mesh errors.
     - **02 Lake Fjalding Anti-Suck**
     - **03 MGE XE Addon**: if you plan to install tree replacers (like Vurt's) in the future, you should not install this option.
     - **05 Chuzei Fix**
+  - Hide **meshes\f\furn_web10.nif**. This mesh causes a certain cobweb to lose transparency at a distance when using Intelligent Textures (present in this guide).
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - In the BAIN installer, tick **00 Core** only.
