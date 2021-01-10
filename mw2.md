@@ -33,6 +33,8 @@ Version 2.1.0.0
 <details>
   <summary>v2.1.0.0</summary>
 
+With this update, a new game is **required**.
+
 - Collapsed installation instructions for patches into the instructions of mods that require said patches (Weapon Sheathing, Glow in the Dahrk, Let There Be Darkness, MAB0's Ingestion and MAB0's Manipulated).
 - Added a new module, **Dialogue and Quests**.
 - Moved the following mods:
