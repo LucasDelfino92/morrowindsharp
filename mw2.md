@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.0.3.2
+Version 2.1.0.0
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -16,6 +16,7 @@ Version 2.0.3.2
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#audio-module)
+- [Dialogue and Quests module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#dialogue-and-quests-module)
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#gameplay-module)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-code-patch)
@@ -28,6 +29,31 @@ Version 2.0.3.2
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.0.0</summary>
+
+- Collapsed installation instructions for patches into the instructions of mods that require said patches (Weapon Sheathing, Glow in the Dahrk, Let There Be Darkness, MAB0's Ingestion and MAB0's Manipulated).
+- Added a new module, **Dialogue and Quests**.
+- Moved the following mods:
+  - FMI - Nice to Meet You from Core to Dialogue and Quests.
+  - FMI - #NotAllDunmer from Core to Dialogue and Quests.
+  - LDM - Context Matters from Core to Dialogue and Quests.
+  - Early Transport to Mournhold from Core to Dialogue and Quests.
+  - Great Service from Audio to Dialogue and Quests.
+  - Outfit Greetings Tweaked from Audio to Dialogue and Quests.
+- Added Greetings for No Lore (Dialogue and Quests).
+- Added Idle Talk (Dialogue and Quests).
+- Added Its a Deal (Dialogue and Quests).
+- Added LDM - Choices & Consequences (Dialogue and Quests).
+- Added Plunder the Dungeon (Dialogue and Quests).
+- Added Silent Assassins (Audio).
+- Added Sound Spell Sound Effect (Audio).
+- Added Tunnel Cough (Audio).
+- Removed FMI - Legion Dialogue. Superseded by LDM - Choices & Consequences.
+- Removed Expansion Delay. Superseded by LDM - Choices & Consequences.
+
+</details>
 
 <details>
   <summary>v2.0.3.2</summary>
@@ -109,19 +135,19 @@ Moved the following mods:
 Removed the following mods:
 
 - Blighted Mine Means Blighted Workers.
-- FMI - Hospitality Papers Expanded.
+- **FMI - Hospitality Papers Expanded. (Added back in v2.1.0.0)**
 - FMI - Service Refusal and Contraband.
-- Greetings for No Lore.
+- **Greetings for No Lore. (Added back in v2.1.0.0)**
 - King's Oath Fix.
 - Lore-Friendly Iron Warhammer.
 - One-handed Adamantium Axe.
-- Plunder the Dungeon.
+- **Plunder the Dungeon. (Added back in v2.1.0.0)**
 - Redaynia Restored.
 - Religions Elaborated.
 - Shrine of Azura.
 - Silence.
-- Silent Assassins.
-- Sound Spell Sound Effect.
+- **Silent Assassins. (Added back in v2.1.0.0)**
+- **Sound Spell Sound Effect. (Added back in v2.1.0.0)**
 - Supply Chests.
 - Telvanni Staff for the Telvanni Staff.
 - Temples with Shrines.
@@ -141,9 +167,9 @@ Removed the following mods:
 - Distant Thunder.
 - Haunted Barrows.
 - **Heartthrum. (Added back in v2.0.2)**
-- Idle Talk.
-- Its a Deal.
-- Tunnel Cough.
+- **Idle Talk. (Added back in v2.1.0.0)**
+- **Its a Deal. (Added back in v2.1.0.0)**
+- **Tunnel Cough. (Added back in v2.1.0.0)**
 - Imperial Silver Armour.
 </details>
 
@@ -217,14 +243,6 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
-Fixes several inconsistencies in dialogue spoken by members of the Imperial Legion.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
-- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 - [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
@@ -236,13 +254,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 Adds shrines to the temples in Maar Gan, Molag Mar, Suran, and Vos. Adds Intervention markers in Ghostgate, Maar Gan, Suran, and Vos. Based off Leyawynn's [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) and Caeris' [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/).
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-### Expansion implementation
-
-- [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588?) by half11  
-Modifies how the Tribunal and Bloodmoon expansions are implemented into the game. This is an essential mod for anyone who thinks Bethesda's expansions deserved a better implementation.
-- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ### HD textures
 
@@ -305,12 +316,12 @@ Adds a confirmation popup when you click on New Game in the main menu.
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 - [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
+  - Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
 - [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
 Adds several new options for the journal and quest pages.
 - [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot  
 Automatically switches between the local and world map depending on user configuration.
-  - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
+  - Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
 - [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969) by abot  
 Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
@@ -388,11 +399,9 @@ Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
   - Install **WeaponSheathing 1.6-MWSE** only.
-- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim  
-The bows will better line up with the sheathing animation.
-- [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
-Greatly improves performance and fixes some mesh errors.
-  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
+  - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim. The bows will better line up with the sheathing animation.
+  - Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
+    - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
@@ -415,9 +424,8 @@ Makes windows glow in the dark.
     - Nord Glass Windows.
     - Raven Rock Glass Windows.
     - Hi-Res Window Texture Replacer.
-- [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-  - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+  - Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
+    - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Install **Mist Retexture** only.
@@ -441,8 +449,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file) by Sigourn  
-Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
+  - Also install [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
@@ -457,22 +464,53 @@ Personal preset for darker nights and less horrible fog.
 
 ## AUDIO MODULE
 
-- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178) by RedFurryDemon and OperatorJack  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 - [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
-- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+- [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
+- [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
+With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+- [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero  
+Makes all Miner class NPCs periodically cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 Simulates water sounds when colliding with generic fake animated water meshes.
+
+## DIALOGUE AND QUESTS
+
+- [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
+In the vanilla game, you were supposed to have to purchase "Hospitality Papers" before being able to get services in Sadrith Mora. This mod reimplements the need of Hospitality Papers.
+- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+NPCs no longer will greet you as if they had just met you.
+- [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+- [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+- [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+Replaces the three standard No Lore greetings with over sixty new ones.
+- [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+- [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and Von Djangos  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+- [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+- [**LDM - Choices & Consequences v0.452**](https://www.mediafire.com/file/xg7q447klayx35r/LDM+-+Choices+and+Consequences+v0.452+(Morrowind#+Compatible).zip/file) by Lucevar  
+A quest tweaks module for LDM that attempts to provide more roleplay options, more noticeable NPC reactions and consequences for completing quests (depending of course on HOW you complete them), and overall a more reactive game world. This mod is currently in **beta**. [**You can follow the mod's progress and report issues here.**](https://discord.com/channels/210394599246659585/677279423250038834)
+  - This mod includes **Expansion Delay**, which modifies how the Tribunal and Bloodmoon expansions are accessed in the game, and which the following mod on this list, **Early Transport to Mournhold**, relies on.
+  - This mod has been edited to remove the Quarantined Vvardenfell lines, as **Early Transport to Mournhold** includes similar lines.
+- [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+- [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
+Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
 
 ## GAMEPLAY MODULE
 
@@ -556,12 +594,12 @@ Eliminates trade exploits and makes bartering much more punishing.
   - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0  
-Framework that is necessary for other MAB0's mods to work.
 - [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
 Allows the player to be affected by only one potion/ingredient at a time.
+  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0.
 - [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 Makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
@@ -664,16 +702,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - Immersive Run Fix
 - Divayth Fyr Puzzle Fixed
 - Dubdilla Location Fix
-- FMI - Legion Dialogue
-- FMI - Nice to Meet You
-- FMI - #NotAllDunmer
-- LDM - Context Matters
 - Loading Doors Lock Tune
 - Services Restored
 - Temples with Shrines and Markers
 - The Publicans
-- Expansion Delay
-- Early Transport to Mournhold
 - Facelift
 - Intelligent Textures
 - Better Daedric Font
@@ -747,14 +779,27 @@ The installation order dictates the priority a given mod's assets have over the 
 - Light Decay
 - Transporter Lights
 - Weather Adjuster
-- Great Service
 - Heartthrum
 - No Female Nord Screeching
 - Outdoor Banners With Sound
-- Outfit Greetings Tweaked
 - Sheep-no-More
 - Shut the Fuck up Cliff Racers
+- Silent Asssassins
+- Sound Spell Sound Effect
+- Tunnel Cough
 - Water Sounds
+- FMI - Hospitality Papers Expanded
+- FMI - Nice to Meet You
+- FMI - #NotAllDunmer
+- Great Service
+- Greetings for No Lore
+- Idle Talk
+- Its a Deal
+- LDM - Context Matters
+- LDM - Choices & Consequences v0.452
+- Early Transport to Mournhold
+- Outfit Greetings Tweaked
+- Plunder the Dungeon
 - Bed Buddies
 - Better Propylon Teleport Script
 - Diligent Defenders
@@ -831,15 +876,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Silt Strider Animation Restored.ESP
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
-- FMI_Legion_Dialogue.ESP
-- FMI_Nice_to_Meet_You.ESP
-- FMI_#NotAllDunmer.ESP
-- LDM - Context Matters.ESP
 - Services Restored.ESP
 - Temples with Shrines and Markers.ESP
 - The Publicans.ESP
-- Expansion Delay.ESP
-- Early Transport to Mournhold.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - Waterfalls Tweaks.ESP
 - Mournhold LOD.ESP
@@ -849,10 +888,23 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - The Dream is the Door.ESP
-- Great Service.ESP
 - RFD_Heartthrum.ESP
 - Outdoor Banners With Sound.ESP
+- Silent Assassins.ESP
+- SoundSpellSoundEffect.ESP
+- Tunnel Cough.ESP
+- Hospitality_Papers_Expanded_v2.7.ESP
+- FMI_Nice_to_Meet_You.ESP
+- FMI_#NotAllDunmer.ESP
+- Great Service.ESP
+- Greetings for No Lore.ESP
+- Idle Talk.ESP
+- Its a deal.ESP
+- LDM - Context Matters.ESP
+- LDM - Choices and Consequences.ESP
+- Early Transport to Mournhold.ESP
 - outfit greetings tweaked.ESP
+- Clean Plunder the Dungeon.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
