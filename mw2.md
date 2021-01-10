@@ -125,7 +125,7 @@ Removed the following mods:
 - Supply Chests.
 - Telvanni Staff for the Telvanni Staff.
 - Temples with Shrines.
-- The Dream is the Door.
+- **The Dream is the Door. (Added back in v2.0.2)**
 - The Madstone.
 - True Scourge.
 - Wizard Staff for Wizards.
@@ -140,7 +140,7 @@ Removed the following mods:
 - Heat Haze.
 - Distant Thunder.
 - Haunted Barrows.
-- Heartthrum.
+- **Heartthrum. (Added back in v2.0.2)**
 - Idle Talk.
 - Its a Deal.
 - Tunnel Cough.
