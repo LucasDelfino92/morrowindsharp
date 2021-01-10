@@ -485,7 +485,7 @@ Makes all Miner class NPCs periodically cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 Simulates water sounds when colliding with generic fake animated water meshes.
 
-## DIALOGUE AND QUESTS
+## DIALOGUE AND QUESTS MODULE
 
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
 In the vanilla game, you were supposed to have to purchase "Hospitality Papers" before being able to get services in Sadrith Mora. This mod reimplements the need of Hospitality Papers.
