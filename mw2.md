@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.0.2
+Version 2.1.0.3
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -29,6 +29,12 @@ Version 2.1.0.2
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.0.3</summary>
+  
+- Modified LDM - Choices & Consequences installation instructions. The mod requires the Icons and Meshes assets from the previous release.
+</details>
 
 <details>
   <summary>v2.1.0.2</summary>
@@ -519,10 +525,10 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-- [**LDM - Choices & Consequences v0.452**](https://www.mediafire.com/file/xg7q447klayx35r/LDM+-+Choices+and+Consequences+v0.452+(Morrowind#+Compatible).zip/file) by Lucevar  
+- [**LDM - Choices & Consequences v0.452 (Morrowind# Compatible)**](https://www.mediafire.com/file/xg7q447klayx35r/LDM+-+Choices+and+Consequences+v0.452+(Morrowind#+Compatible).zip/file) by Lucevar  
 A quest tweaks module for LDM that attempts to provide more roleplay options, more noticeable NPC reactions and consequences for completing quests (depending of course on HOW you complete them), and overall a more reactive game world. This mod is currently in **beta**. [**You can follow the mod's progress and report issues here.**](https://discord.com/channels/210394599246659585/677279423250038834)
-  - This mod includes **Expansion Delay**, which modifies how the Tribunal and Bloodmoon expansions are accessed in the game, and which the following mod on this list, **Early Transport to Mournhold**, relies on.
-  - This mod has been edited to remove the Quarantined Vvardenfell lines, as **Early Transport to Mournhold** includes similar lines.
+  - Edited to remove the Quarantined Vvardenfell lines, as **Early Transport to Mournhold** includes similar lines.
+  - This plugin requires the **icons** and **meshes** folders from v0.45's 00 Core folder. [**Download it here.**](https://cdn.discordapp.com/attachments/677279423250038834/743958530046033951/LDM_-_Choices_and_Consequences_0.45.zip)
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
@@ -816,6 +822,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Idle Talk
 - Its a Deal
 - LDM - Context Matters
+- LDM - Choices & Consequences v0.45 (Icons and Meshes)
 - LDM - Choices & Consequences v0.452
 - Early Transport to Mournhold
 - Outfit Greetings Tweaked
