@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.0.0
+Version 2.1.0.1
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -29,6 +29,15 @@ Version 2.1.0.0
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.0.1</summary>
+  
+- Uploaded alternative version of Adamantium Armor Integrated. You can now find the Adamantium Helm in Vvardenfell.
+- Removed Helm of Tohan (EBQ_Artifact.ESP). With the uploaded mentioned above, this mod is no longer required to get the Helm in Vvardenfell.
+- Removed Helm of Tohan BTBGI Patch. No longer needed.
+- Updated Morrowind# MDMD Adamantium Armor Integrated Patch.
+</details>
 
 <details>
   <summary>v2.1.0.0</summary>
@@ -544,8 +553,9 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 ### Equipment
 
-- [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
-Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.
+- [**Adamantium Armor Integrated (Sigourn edit)**](https://www.mediafire.com/file/i92rtec5gvd4swx/Adamantium+Armor+Integrated+v1.1+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
+Places one copy of each adamantium armor piece in Vvardenfell. They're not for sale.
+  - Edited version of [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) that allows you to find the Adamantium Helm on Vvardenfell.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
@@ -593,7 +603,7 @@ Increases the penalties for crime.
   - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
 - [**HardTrade v2.6 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade+v2.6+(Sigourn+Edit).zip/file) by Archimag  
 Eliminates trade exploits and makes bartering much more punishing.
-  - This is a stripped down version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) which removes the "investing" feature as well as GMST changes that make persuasion more difficult.
+  - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the Investing feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
@@ -622,11 +632,10 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
-Fixes the biggest exploits and balance issues in the game. This is a stripped down version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which removes all records conflicting with Ownership Overhaul by Necrolesian, and additionally includes a number of Patch for Purists and Rarer Scrap Metal fixes not carried over into Morrowind Anti-Cheese.
+Fixes the biggest exploits and balance issues in the game.
+  - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-- [**Helm of Tohan BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/47152) by Necrolesian  
-Edits the stats of the unique Helm of Tohan from the official plugin to be in line with BTB's Game Improvements - Necro Edit.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
@@ -665,7 +674,7 @@ This section contains specific instructions for the (re)installation of the Morr
 
 ### Patches
 
-- [**Morrowind# Patches**](https://www.mediafire.com/file/yi197dsgrlceled/Morrowind#+Patches+v1.1.zip/file) by Sigourn  
+- [**Morrowind# Patches v1.1.1**](https://www.mediafire.com/file/pjqvlnd5dltxqcq/Morrowind#+Patches+v1.1.1.zip/file) by Sigourn  
 BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
@@ -846,7 +855,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Sneaky Strike
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
-- Helm of Tohan BTBGI Patch
 - Balanced Passive Races and Birthsigns
 - More Deadly Morrowind Denizens
 - Umbra - Blademaster
@@ -870,7 +878,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Patch for Purists - Book Typos.ESP
 - Patch for Purists - Semi-Purist Fixes.ESP
 - bcsounds.ESP
-- EBQ_Artifact.ESP
 - master_index.ESP
 - Lake Fjalding Anti-Suck.ESP
 - chuzei_helm_no_neck.ESP
@@ -921,7 +928,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Morrowind Anti-Cheese.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
-- Helm of Tohan BTBGI Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - SoldierBeltsFix.ESP
