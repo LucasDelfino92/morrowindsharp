@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.0.1
+Version 2.1.0.2
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -29,6 +29,13 @@ Version 2.1.0.1
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.0.2</summary>
+  
+- Added Abundant Adamantium Ore (Gameplay).
+- Modified UMOPP installation instructions. I forgot to remove EBQ_Artifact.ESP from the list of plugins you should not disable.
+</details>
 
 <details>
   <summary>v2.1.0.1</summary>
@@ -214,7 +221,7 @@ The best unofficial fan patch for Morrowind.
 - [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?) by PikachunoTM  
 Includes fixes for all of the Official Plugins.
   - Install **UMOPP 3.1.0** only.
-  - Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, and *master_index.ESP*
+  - Hide all plugins except *bcsounds.ESP* and *master_index.ESP*
 - [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) by Nich  
 Fixes UV mapping on rocks and stones.
 - [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) by Remiros and Greatness7  
@@ -527,6 +534,8 @@ Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward
 
 ### Quality of life improvements
 
+- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
+Increases the amount of Adamantium Ore available in Raw Adamantium rock. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
@@ -811,6 +820,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Early Transport to Mournhold
 - Outfit Greetings Tweaked
 - Plunder the Dungeon
+- Abundant Adamantium Ore
 - Bed Buddies
 - Better Propylon Teleport Script
 - Diligent Defenders
@@ -914,6 +924,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Early Transport to Mournhold.ESP
 - outfit greetings tweaked.ESP
 - Clean Plunder the Dungeon.ESP
+- Abundant Adamantium.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
