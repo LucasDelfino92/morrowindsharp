@@ -33,6 +33,8 @@ Version 2.1.0.4
 <details>
   <summary>v2.1.0.4</summary>
 - Updated LDM - Choices and Consequences to version v0.46, and modified its installation instructions.
+- Added Adamantium Ore Fix.
+- Removed Abundant Adamantium Ore.
 </details>
 
 <details>
@@ -544,8 +546,8 @@ Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward
 
 ### Quality of life improvements
 
-- [**Abundant Adamantium Ore**](https://www.nexusmods.com/morrowind/mods/45726) by grasscid  
-Increases the amount of Adamantium Ore available in Raw Adamantium rock. This means even at the bare minimum amount, if you visit every Raw Adamantium rock in the game, you'll be guaranteed to be able to craft yourself at least one full set of Adamantium Armor.
+- [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?) by Half11  
+Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
 Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
@@ -830,7 +832,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Early Transport to Mournhold
 - Outfit Greetings Tweaked
 - Plunder the Dungeon
-- Abundant Adamantium Ore
+- Adamantium Ore Fix
 - Bed Buddies
 - Better Propylon Teleport Script
 - Diligent Defenders
@@ -934,7 +936,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Early Transport to Mournhold.ESP
 - outfit greetings tweaked.ESP
 - Clean Plunder the Dungeon.ESP
-- Abundant Adamantium.ESP
+- Adamantium Ore Fix.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Adamantium Armor Integrated.ESP
