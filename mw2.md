@@ -615,6 +615,8 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 ### Balance
 
+> Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
+
 - [**Caldera Mages Guild Guarded Alchemy Set**](https://www.mediafire.com/file/6qdmt7i3s4n4yym/Caldera+Mages+Guild+Guarded+Alchemy+Set+v1.0.zip/file) by Sigourn  
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
