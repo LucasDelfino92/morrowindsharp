@@ -26,9 +26,9 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 The **Morrowind++** page is divided into a series of modules, all of which can be installed independently from one another. The **Core** module contains bug fixes, high resolution textures using AI upscaling, and a couple of mods addressing the implementation of expansions to iron out the Morrowind experience. It's a good recommendation for anyone looking to play Morrowind for the first time.
 
-All mods present in Morrowind++ will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on my personal MediaFire or Google Drive).
+All mods present in Morrowind++ will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on Google Drive or my personal MediaFire folder).
 
-At the end of Morrowind++ you will find a link to the install order and load order of the mods present in the guide. Following this order is very important to ensure mods work as intended.
+At the end of Morrowind++ you will find the install order and load order of the mods present in the guide. Following this order is very important to ensure mods work as intended.
 
 ## FAQ
 
