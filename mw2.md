@@ -31,9 +31,28 @@ Version 2.1.0.4
 ## CHANGELOG
 
 <details>
+  <summary>v2.1.1</summary>
+
+- Added Chocolate UI (UI and Hotkeys).
+- Added Incarnates Overhauled (Visuals).
+- Added Silt Strider Redone (Visuals).
+- Added Vivec the God (Visuals).
+- Added Heat Haze (Visuals).
+- Added Blight is Coming (Gameplay).
+- Added Creeping Blight (Gameplay).
+- Added Religions Elaborated (Gameplay).
+- Added Supply Chests (Gameplay).
+- Added Temples With Shrines (Gameplay).
+- Added Soulless Creatures (Gameplay).
+- Removed Temples With Shrines and Temple Markers (Gameplay).
+- Removed No Soultrapping Summons (Gameplay).
+</details>
+
+<details>
   <summary>v2.1.0.4</summary>
+
 - Updated LDM - Choices and Consequences to version v0.46, and modified its installation instructions.
-- Added Adamantium Ore Fix.
+- Added Adamantium Ore Fix (Gameplay).
 - Removed Abundant Adamantium Ore.
 </details>
 
@@ -174,14 +193,14 @@ Removed the following mods:
 - One-handed Adamantium Axe.
 - **Plunder the Dungeon. (Added back in v2.1.0.0)**
 - Redaynia Restored.
-- Religions Elaborated.
+- **Religions Elaborated. (Added back in v2.1.1)**
 - Shrine of Azura.
 - Silence.
 - **Silent Assassins. (Added back in v2.1.0.0)**
 - **Sound Spell Sound Effect. (Added back in v2.1.0.0)**
-- Supply Chests.
+- **Supply Chests. (Added back in v2.1.1)**
 - Telvanni Staff for the Telvanni Staff.
-- Temples with Shrines.
+- **Temples with Shrines. (Added back in v2.1.1)**
 - **The Dream is the Door. (Added back in v2.0.2)**
 - The Madstone.
 - True Scourge.
@@ -192,9 +211,9 @@ Removed the following mods:
 - Particle Arrow Replacer.
 - Spear-Staff Fix.
 - Buoyant Lord Vivec.
-- Incarnates Overhauled.
-- Silt Strider Redone.
-- Heat Haze.
+- **Incarnates Overhauled. (Added back in v2.1.1)**
+- **Silt Strider Redone. (Added back in v2.1.1)**
+- **Heat Haze. (Added back in v2.1.1)**
 - Distant Thunder.
 - Haunted Barrows.
 - **Heartthrum. (Added back in v2.0.2)**
@@ -281,8 +300,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
     - NPC **hecerinde**
   - This omits the restoration of Hecerinde's Secret Master tools.
-- [**Temples with Shrines and Markers**](https://www.mediafire.com/file/0d6zzc6aiasytc5/Temples+with+Shrines+and+Markers+v1.1.zip/file) by Leyawynn, Caeris, and Sigourn  
-Adds shrines to the temples in Maar Gan, Molag Mar, Suran, and Vos. Adds Intervention markers in Ghostgate, Maar Gan, Suran, and Vos. Based off Leyawynn's [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) and Caeris' [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/).
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -305,6 +322,9 @@ High resolution replacer for the Daedric font used in scrolls.
 - [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
   - Install **Better Dialogue Font** only.
+- [**Chocolate UI**](https://www.nexusmods.com/morrowind/mods/43076/) by Innicin  
+Modernizes the user interface.
+  - Note that this mod includes **Better Dialogue Font**. However, because this mod is not a straight improvement over the vanilla UI (since it changes the aesthetic) I'm still listing Better Dialogue Font above should you wish to skip installing this mod.
 - [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
 Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
 - [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
@@ -436,11 +456,20 @@ Equipped weapons will be shown on the character's hip or back. This new function
 - [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-### NPCs
+### NPCs and Creatures
 
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
+- [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
+Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
+  - Edited version of [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) that removes all cavern edits.
+- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
+Replaces the Silt Strider model with one according to fan art.
+  - In the BAIN installer, tick **h8 vanilla - high res textures** only.
+- [**Vivec the God**](https://www.nexusmods.com/morrowind/mods/49103?) by Morrowind Modding Community and Nwahs and Mushrooms Team  
+Replaces the Vivec model with one inspired by concept art. Versions with and without flaming head are available.
+  - The download requires repackaging. I prefer the *head fire* version myself.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
@@ -457,6 +486,9 @@ Makes windows glow in the dark.
     - Hi-Res Window Texture Replacer.
   - Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
     - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+- [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
+Adds a heat haze shader controller by MGE XE and MWSE-lua. Subtle overall, gets faster, stronger and closer when near lava pools.
+  - The shader needs to be registered in MGE XE's Shader tab.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Install **Mist Retexture** only.
@@ -601,10 +633,15 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New mechanics
 
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
+Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
+- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+  - Install **Creeping Blight - MWSE Version** only.
 - [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
@@ -612,6 +649,14 @@ Adds in lock-bashing from Daggerfall.
 - [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
   - Place the **MWSE** folder alongside *Lucky Strike.ESP* in the **Data Files** folder.
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/) by Caeris  
+Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows you from being a member of both factions, adds missing temple markers, and adds healing services to healers.
+  - Install **No Quest Changes** only.
+- [**Supply Chests**](https://www.mediafire.com/file/wet5a9cheiy8sa3/Supply+Chests+v1.1.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
+Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a supply chest to the Mages Guild in Caldera.
+  - In the BAIN installer, tick **01 Supply Chest (Morrowind# Compatible)** only.
+- [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535?) by Leyawynn  
+There are numerous temples that don't have any shrines inside. This mod adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 
 ### Balance
 
@@ -654,6 +699,8 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
   - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
+- [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
+Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
   - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
@@ -675,8 +722,6 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-- [**No Soultrapping Summons**](https://www.mediafire.com/file/94dnmjnvuobdch6/No+Soultrapping+Summons+v1.1.zip/file) by Sigourn  
-Prevents the player from soultrapping summoned creatures by reducing their soul values to 0.
 
 ## FINISHING TOUCHES
 
@@ -738,12 +783,12 @@ The installation order dictates the priority a given mod's assets have over the 
 - Dubdilla Location Fix
 - Loading Doors Lock Tune
 - Services Restored
-- Temples with Shrines and Markers
 - The Publicans
 - Facelift
 - Intelligent Textures
 - Better Daedric Font
 - Better Dialogue Font
+- Chocolate UI
 - Comrade Raven's Book Arts Replacer
 - Pete's Scroll 2018 ...in 2020
 - Title Screen Reworked
@@ -797,10 +842,14 @@ The installation order dictates the priority a given mod's assets have over the 
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
 - Golden Saint Feminine Walk
+- Incarnates Overhauled
+- Silt Strider Redone
+- Vivec the God
 - Yet Another Guard Diversity - Regular
 - Apel's Rain Replacer
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
+- Heat Haze
 - Mist Retexture
 - MWSE Blood Diversity
 - No Shield Sparkle
@@ -855,11 +904,16 @@ The installation order dictates the priority a given mod's assets have over the 
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Wings of Will - Willpower Based Levitation Speed
+- Blight is Coming
 - Blighted Blight
 - Brutal Backstabbing
+- Creeping Blight
 - Dynamic Timescale
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod
+- Religions Elaborated (No Quest Changes)
+- Supply Chests
+- Temples With Shrines
 - Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
 - Economy Adjuster Adjustments
@@ -877,6 +931,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Repair
 - Realistic Repair Add-On
 - Sneaky Strike
+- Soulless Creatures
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - BTB's Game Improvements - Necro Edit
 - Balanced Passive Races and Birthsigns
@@ -886,7 +941,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- No Soultrapping Summons
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -910,7 +964,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Divayth Fyr Puzzle Fixed.ESP
 - Dubdilla Location Fix.ESP
 - Services Restored.ESP
-- Temples with Shrines and Markers.ESP
 - The Publicans.ESP
 - Better_Typography_Bookarts_Fix.ESP
 - Waterfalls Tweaks.ESP
@@ -918,6 +971,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - NearVanillaRoadSigns.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
+- Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - GITD_WL_RR_Interiors.ESP
 - The Dream is the Door.ESP
@@ -946,7 +1000,11 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
+- Blight is Coming.ESP
 - Lucky Strike.ESP
+- Religions Elaborated.ESP
+- Supply Chests.ESP
+- Temples With Shrines.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
@@ -967,7 +1025,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- No Soultrapping Summons.ESP
 - Merged Objects.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
