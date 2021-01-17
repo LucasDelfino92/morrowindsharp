@@ -601,6 +601,8 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
+- [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535?) by Leyawynn  
+There are numerous temples that don't have any shrines inside. This mod adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
@@ -655,8 +657,6 @@ Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows 
 - [**Supply Chests**](https://www.mediafire.com/file/wet5a9cheiy8sa3/Supply+Chests+v1.1.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
 Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a supply chest to the Mages Guild in Caldera.
   - In the BAIN installer, tick **01 Supply Chest (Morrowind# Compatible)** only.
-- [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535?) by Leyawynn  
-There are numerous temples that don't have any shrines inside. This mod adds shrines to the temples in Maar Gan, Molag Mar, Suran and Vos.
 
 ### Balance
 
@@ -894,6 +894,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Graphic Herbalism Lighting
 - MWSE Hide the Skooma
 - Pluginless and Adjustable Lower First Person Sneak
+- Temples With Shrines
 - Wading in Water MW
 - Adamantium Armor Integrated
 - Area Effect Projectiles Integrated
@@ -913,7 +914,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Lucky Strike - A Critical Hit Mod
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
-- Temples With Shrines
 - Caldera Mages Guild Guarded Alchemy Set
 - DragonDoor
 - Economy Adjuster Adjustments
@@ -995,6 +995,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Adamantium Ore Fix.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
+- Temples With Shrines.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Projectiles Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
@@ -1004,7 +1005,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Lucky Strike.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
-- Temples With Shrines.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
