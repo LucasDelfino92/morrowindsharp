@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.0.4
+Version 2.1.1
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
