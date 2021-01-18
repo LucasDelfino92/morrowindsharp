@@ -707,8 +707,10 @@ Fixes the biggest exploits and balance issues in the game.
   - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
+  - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
+  - Note that this mod, in tandem with **BTB's Game Improvements - Necro Edit**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
