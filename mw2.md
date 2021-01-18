@@ -27,6 +27,7 @@ Version 2.1.1
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
+- [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
 
@@ -1164,6 +1165,22 @@ The mods installed in this guide and configured as mentioned above will use the 
 - **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
 - **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
 - **Torch Hotkey**: **C** key to equip light sources.
+
+## COMPATIBILITY
+
+Morrowind# is a big guide and touches on many aspects of the game. Though this guide is presented "as is", it doesn't mean you can't install other mods on top; only that you should think twice about what you are installing.
+
+For reference, here is a list of known mods in the guide that tend to have compatibility issues with other mods.
+
+- **Ownership Overhaul**: this mod touches on a *lot* of items in the game which are unowned, including doors, and it's not unusual at all for other mods (particularly big overhauls, like towns and cities) to override many of the changes made by this mod to a given location (e.g. a Pelagiad overhaul overriding the ownership of many items). Moreover, mods that add items to the game world may not account for ownership either, meaning those items are free for the taking.
+  - Diagnosis: nothing serious. if you have some self-control, refrain from picking up items that should *obviously* be owned.
+  - Recommendation: just load conflicting .esms and .esps after Ownership Overhaul.
+- **Yet Another Guard Diversity**: this mod replaces vanilla guards with unique guards selected from leveled lists. But because of how this mod works, it is perfectly possible for a mod to override its changes (by moving the vanilla guards around) and have the guards revert to their vanilla, generic appearance. This would be most noticeable with Imperial Legion guards who don't wear closed helmets (unlike their Hlaalu, Redoran, Telvanni, and Indoril counterparts). Moreover, new guards added to the game world will most likely have a generic appearance as well.
+  - Diagnosis: nothing serious. Just expect the ocassional generic guard here and there.
+  - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
+- **Morrowind Anti-Cheese**, **BTB's Game Improvements - Necro Edit**, **MDMD - More Deadly Morrowind Denizens**, **There Can Be Only One**: these mods make drastic changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with these mods (e.g. a faction overhaul, such as Vvardenfell Brotherhood or Morag Tong Polished).
+  - Diagnosis: depending on the conflict, it can be virtually harmless (without looking at TES3View you wouldn't even tell there is a conflict) or serious (an NPC that should have been buffed to a considerable degree reverts back to its vanilla, puny mook state).
+  - Recommendation: use TES3View to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
