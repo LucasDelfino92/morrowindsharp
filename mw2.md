@@ -1133,7 +1133,7 @@ The following mods require additional configuration through the in-game **Mod Co
 - Disable *Allow vampires to chase*. This prevents vampires from accidentally setting themselves on fire in plain daylight.
 - Disable *NPCs will call for help in battle*. Because this feature can cause a chain reaction of NPCs calling for help, this can easily turn an entire dungeon hostile within seconds of spotting your first enemy, effectively sending all NPCs to your current position (which may not even be 10 feet past the entrance).
 
-**Dynamic Timescale**
+**Dynamic Timescale**  
 Cell Settings
 - Set *Wilderness timescale* to 60. This will slow down the timescale when in wilderness cells by 50%. In my opinion, the default value is way too high.
 
