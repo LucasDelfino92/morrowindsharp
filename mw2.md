@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.1
+Version 2.1.1.1
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,12 @@ Version 2.1.1
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.1.1</summary>
+
+- Updated DragonDoor! in-game configuration instructions.
+</details>
 
 <details>
   <summary>v2.1.1</summary>
@@ -1117,7 +1123,8 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **DragonDoor!**
 - Disable *Show messages*.
-- Disable *Allow vampires to chase*.
+- Disable *Allow vampires to chase*. This prevents vampires from accidentally setting themselves on fire in plain daylight.
+- Disable *NPCs will call for help in battle*. Because this feature can cause a chain reaction of NPCs calling for help, this can easily turn an entire dungeon hostile within seconds of spotting your first enemy, effectively sending all NPCs to your current position (which may not even be 10 feet past the entrance).
 
 **Essential Indicators**  
 General Settings
