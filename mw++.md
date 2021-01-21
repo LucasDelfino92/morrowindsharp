@@ -291,7 +291,7 @@ Personal preset for darker nights and less horrible fog.
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 - [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994) by helswake  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+- [**No Female Nord Screeching**](https://www.mediafire.com/file/luyidl5yufsvfco/No+Female+Nord+Screeching+v1.0.zip/file) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 Removes the sheep sounds from Morrowind.
