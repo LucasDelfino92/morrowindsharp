@@ -457,7 +457,7 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 Mesh and texture replacer for the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-- [**Imperial Steel Cuirass With Belt**](https://www.mediafire.com/file/lnor6bmtl2gdb1v/Imperial+Steel+Cuirass+With+Belt+v1.0.zip/file) by Quorn and Alaisiagae  
+- [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232) by Quorn and Alaisiagae  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 - [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
 Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
@@ -482,7 +482,7 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
-- [**Incarnates Overhauled**](https://www.mediafire.com/file/nko6w93tldzvt78/Incarnates_Overhauled_v1.0.zip/file) by Aoimevelho  
+- [**Incarnates Overhauled (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Aoimevelho  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
   - Edited version of [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) that removes all cavern edits.
 - [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
@@ -550,7 +550,7 @@ Personal preset for darker nights and less horrible fog.
 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178) by RedFurryDemon and OperatorJack  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
-- [**No Female Nord Screeching**](https://www.mediafire.com/file/luyidl5yufsvfco/No+Female+Nord+Screeching+v1.0.zip/file) by Sigourn  
+- [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
@@ -629,14 +629,14 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 ### Equipment
 
-- [**Adamantium Armor Integrated (Sigourn Edit)**](https://www.mediafire.com/file/i92rtec5gvd4swx/Adamantium+Armor+Integrated+v1.1+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
+- [**Adamantium Armor Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Necrolesian and Sigourn  
 Places one copy of each adamantium armor piece in Vvardenfell. They're not for sale.
   - Edited version of [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) that allows you to find the Adamantium Helm on Vvardenfell.
   - Note: the mod **Expansions Integrated (Sigourn Edit)** found below includes this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
-- [**Expansions Integrated (Sigourn Edit)**](https://www.mediafire.com/file/ls7dlxk4f5oyaew/Expansions+Integrated+v1.1.2+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
+- [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Necrolesian and Sigourn  
 Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
   - Edited version of [**Expansions Integrated**](https://www.nexusmods.com/morrowind/mods/47861) that removes the creature additions and also allows you to find the Adamantium Helm on Vvardenfell.
   - Note: the mod **Adamantium Armor Integrated (Sigourn Edit)** found above is included in this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
@@ -680,15 +680,15 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/) by Caeris  
 Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows you from being a member of both factions, adds missing temple markers, and adds healing services to healers.
   - Install **No Quest Changes** only.
-- [**Supply Chests**](https://www.mediafire.com/file/wet5a9cheiy8sa3/Supply+Chests+v1.1.zip/file) by Gavrilo93, CryptsOfTheDead, and Sigourn  
+- [**Supply Chests**](https://www.nexusmods.com/morrowind/mods/49232) by Gavrilo93, CryptsOfTheDead, and Sigourn  
 Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a supply chest to the Mages Guild in Caldera.
-  - In the BAIN installer, tick **01 Supply Chest (Morrowind# Compatible)** only.
+  - In the BAIN installer, tick **01 Supply Chests (Religions Elaborated Compatible)** only.
 
 ### Balance
 
 > Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
 
-- [**Caldera Mages Guild Guarded Alchemy Set**](https://www.mediafire.com/file/6qdmt7i3s4n4yym/Caldera+Mages+Guild+Guarded+Alchemy+Set+v1.0.zip/file) by Sigourn  
+- [**Caldera Mages Guild Guarded Alchemy Set**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
 Enemies can now chase you through doors.
@@ -727,7 +727,7 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
-- [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://www.mediafire.com/file/2dax0cd30gfw9xb/Morrowind+Anti-Cheese+v1.2.1+(Ownership+Overhaul+Compatible).zip/file) by Remiros and Half11  
+- [**Morrowind Anti-Cheese Ownership Overhaul Compatible (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
   - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
