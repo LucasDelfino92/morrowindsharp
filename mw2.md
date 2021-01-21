@@ -543,7 +543,7 @@ Personal preset for darker nights and less horrible fog.
 
 - [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178) by RedFurryDemon and OperatorJack  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
-- [**No Female Nord Screeching**](https://cdn.discordapp.com/attachments/705627823104327680/792170056825962526/No_Female_Nord_Screeching.zip) by Sigourn  
+- [**No Female Nord Screeching**](https://www.mediafire.com/file/luyidl5yufsvfco/No+Female+Nord+Screeching+v1.0.zip/file) by Sigourn  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
