@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.1.2
+Version 2.1.2
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,13 @@ Version 2.1.1.2
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.2</summary>
+
+- Added Expansions Integrated (Sigourn Edit).
+- Updated Morrowind# Patches to v1.2.
+</details>
 
 <details>
   <summary>v2.1.1.2</summary>
@@ -622,12 +629,17 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 ### Equipment
 
-- [**Adamantium Armor Integrated (Sigourn edit)**](https://www.mediafire.com/file/i92rtec5gvd4swx/Adamantium+Armor+Integrated+v1.1+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
+- [**Adamantium Armor Integrated (Sigourn Edit)**](https://www.mediafire.com/file/i92rtec5gvd4swx/Adamantium+Armor+Integrated+v1.1+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
 Places one copy of each adamantium armor piece in Vvardenfell. They're not for sale.
   - Edited version of [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) that allows you to find the Adamantium Helm on Vvardenfell.
+  - Note: the mod **Expansions Integrated (Sigourn Edit)** found below includes this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
+- [**Expansions Integrated (Sigourn Edit)**](https://www.mediafire.com/file/ls7dlxk4f5oyaew/Expansions+Integrated+v1.1.2+(Sigourn+Edit).zip/file) by Necrolesian and Sigourn  
+Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
+  - Edited version of [**Expansions Integrated**](https://www.nexusmods.com/morrowind/mods/47861) that removes the creature additions and also allows you to find the Adamantium Helm on Vvardenfell.
+  - Note: the mod **Adamantium Armor Integrated (Sigourn Edit)** found above is included in this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 
@@ -758,15 +770,18 @@ This section contains specific instructions for the (re)installation of the Morr
 
 ### Patches
 
-- [**Morrowind# Patches v1.1.1**](https://www.mediafire.com/file/pjqvlnd5dltxqcq/Morrowind#+Patches+v1.1.1.zip/file) by Sigourn  
+- [**Morrowind# Patches v1.2**](https://www.mediafire.com/file/zwdqdebry4ldm57/Morrowind#+Patches+v1.2.zip/file) by Sigourn  
 BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
+  - 02 Hunter's Mark + Expansions Integrated Patch
   - 03 BTBGI + Realistic Repair Add-on Patch
   - 04 MDMD + BTBGI Patch
   - 05 MDMD + Adamantium Armor Integrated Patch
-  - 06 There Can Be Only One + BTBGI Patch
-  - 07 There Can Be Only One + MDMD Patch
+  - 06 MDMD + Expansions Integrated Patch
+  - 07 There Can Be Only One + BTBGI Patch
+  - 08 There Can Be Only One + Expansions Integrated Patch
+  - 09 There Can Be Only One + MDMD Patch
 
 ### Install order and load order
 
@@ -914,6 +929,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Wading in Water MW
 - Adamantium Armor Integrated
 - Area Effect Projectiles Integrated
+- Expansions Integrated
 - Hunter's Mark - A Marksman Mod
 - Class-Conscious Character Progression
 - Hold Your Breath
@@ -957,6 +973,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
+- Morrowind# Patches v1.2
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1014,9 +1031,11 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Temples With Shrines.ESP
 - Adamantium Armor Integrated.ESP
 - Area Effect Projectiles Integrated.ESP
+- Expansions Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
+- Hunter's Mark Expansions Integrated Patch.ESP
 - Blight is Coming.ESP
 - Lucky Strike.ESP
 - Religions Elaborated.ESP
@@ -1033,8 +1052,10 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD Adamantium Armor Integrated Patch.ESP
+- MDMD Expansions Integrated Patch.ESP
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
+- There Can Be Only One Expansions Integrated Patch.ESP
 - There Can Be Only One BTBGI Patch.ESP
 - There Can Be Only One MDMD Patch.ESP
 - MDMD BTBGI Patch.ESP
@@ -1053,6 +1074,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 There are a couple of notes here:
 
 - We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
+- The Adamantium Armor Integrated and Expansions Integrated plugins (and related patches) shouldn't be used together. Choose one mod (and patches) or the other.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
