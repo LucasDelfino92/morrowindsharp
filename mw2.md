@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.2
+Version 2.1.3
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,12 @@ Version 2.1.2
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.3</summary>
+
+- Most MediaFire links were removed, in favor of hosting said mods in my personal Sigourn's Misc Mods and Patches page.
+</details>
 
 <details>
   <summary>v2.1.2</summary>
@@ -730,12 +736,6 @@ Prevents souls of summoned creatures from being trapped. Configurable and expand
 - [**Morrowind Anti-Cheese Ownership Overhaul Compatible (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
   - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
-- [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
-Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
-- [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
-Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-  - Note that this mod, in tandem with **BTB's Game Improvements - Necro Edit**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -744,6 +744,12 @@ Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging op
 - [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
 Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
   - Hide all plugins except *There Can Be Only One (Alt Fyr).ESP*
+- [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
+Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
+  - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
+- [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
+Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
+  - Note that this mod, in tandem with **BTB's Game Improvements - Necro Edit**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
@@ -770,18 +776,22 @@ This section contains specific instructions for the (re)installation of the Morr
 
 ### Patches
 
-- [**Morrowind# Patches v1.2**](https://www.mediafire.com/file/zwdqdebry4ldm57/Morrowind#+Patches+v1.2.zip/file) by Sigourn  
-BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
-  - 00 Hunter's Mark + Patch for Purists Patch
-  - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
-  - 02 Hunter's Mark + Expansions Integrated Patch
-  - 03 BTBGI + Realistic Repair Add-on Patch
-  - 04 MDMD + BTBGI Patch
-  - 05 MDMD + Adamantium Armor Integrated Patch
-  - 06 MDMD + Expansions Integrated Patch
-  - 07 There Can Be Only One + BTBGI Patch
-  - 08 There Can Be Only One + Expansions Integrated Patch
-  - 09 There Can Be Only One + MDMD Patch
+Depending on which mods you've decided to install, there may be no patching at all to be done, or quite a bit of it. This section comes last because these patches can be safely installed once you are over with the rest (they contain no assets that require a special installation order).
+
+- [**Morrowind# Patches in Sigourn's Misc Mods and Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+
+If you have installed any of the following combinations, download and install the patches from the page linked above.
+
+- Hunter's Mark + Patch for Purists Patch
+- Hunter's Mark + Area Effect Projectiles Integrated Patch
+- Hunter's Mark + Expansions Integrated Patch
+- MDMD + Adamantium Armor Integrated Patch
+- MDMD + Expansions Integrated Patch
+- There Can Be Only One + Expansions Integrated Patch
+- There Can Be Only One + MDMD Patch
+- BTBGI + Realistic Repair Add-on Patch
+- BTBGI + MDMD - Creatures Patch
+- BTBGI + There Can Be Only One Patch
 
 ### Install order and load order
 
@@ -965,15 +975,15 @@ The installation order dictates the priority a given mod's assets have over the 
 - Sneaky Strike
 - Soulless Creatures
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- BTB's Game Improvements - Necro Edit
-- Balanced Passive Races and Birthsigns
 - More Deadly Morrowind Denizens
 - Umbra - Blademaster
 - There Can Be Only One
+- BTB's Game Improvements - Necro Edit
+- Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- Morrowind# Patches v1.2
+- Morrowind# Patches
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1044,11 +1054,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
-- BTB's Game Improvements (Necro Edit).ESP
-- BTBGI PFP Patch.ESP
-- BTBGI Realistic Repair Add-on Patch.ESP
-- Balanced Pasive Races and Birthsigns.ESP
-- SoldierBeltsFix.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD Adamantium Armor Integrated Patch.ESP
@@ -1056,9 +1061,15 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One Expansions Integrated Patch.ESP
-- There Can Be Only One BTBGI Patch.ESP
 - There Can Be Only One MDMD Patch.ESP
-- MDMD BTBGI Patch.ESP
+- There Can Be Only One MDMD - Creatures Patch.ESP
+- BTB's Game Improvements (Necro Edit).ESP
+- BTBGI PFP Patch.ESP
+- BTBGI Realistic Repair Add-on Patch.ESP
+- BTBGI MDMD - Creatures Patch.ESP
+- BTBGI There Can Be Only One Patch.ESP
+- SoldierBeltsFix.ESP
+- Balanced Pasive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
@@ -1075,8 +1086,11 @@ There are a couple of notes here:
 
 - We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
 - The Adamantium Armor Integrated and Expansions Integrated plugins (and related patches) shouldn't be used together. Choose one mod (and patches) or the other.
+- The There Can Be Only One MDMD - Creatures Patch.ESP can be skipped if you are also installing BTBGI MDMD - Creatures Patch.ESP. This plugin includes the changes from the former, and other extra changes.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
+
+And if you are asking yourself "why is SoldierBeltsFix.ESP that high in the load order?". Sadly BTBGI edits the Imperial Templar Belt icon, and we need to load Soldier Belts Fix later to override that edit (which uses a generic belt icon) with the unique Imperial Templar Belt icon.
 
 ### Conflict resolution
 
