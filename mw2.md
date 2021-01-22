@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.3
+Version 2.1.3.1 (January 22nd)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,12 @@ Version 2.1.3
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.3.1</summary>
+
+- Removed BTBGI There Can Be Only One Patch.ESP. It's not necessary since BTBGI is loaded after There Can Be Only One and includes its changes.
+</details>
 
 <details>
   <summary>v2.1.3</summary>
@@ -791,7 +797,6 @@ If you have installed any of the following combinations, download and install th
 - There Can Be Only One + MDMD Patch
 - BTBGI + Realistic Repair Add-on Patch
 - BTBGI + MDMD - Creatures Patch
-- BTBGI + There Can Be Only One Patch
 
 ### Install order and load order
 
@@ -1067,7 +1072,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - BTBGI PFP Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
-- BTBGI There Can Be Only One Patch.ESP
 - SoldierBeltsFix.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
