@@ -297,6 +297,7 @@ Greatly improves performance and fixes some mesh errors.
     - **02 Lake Fjalding Anti-Suck**
     - **03 MGE XE Addon**
     - **05 Chuzei Fix**
+  - Hide **meshes\f\furn_web10.nif**. This mesh causes a certain cobweb to lose transparency at a distance when using Intelligent Textures (present in this guide).
 - [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by the Project Atlas Team  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
   - In the BAIN installer, tick **00 Core** only.
