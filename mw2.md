@@ -1045,9 +1045,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
-- Adamantium Armor Integrated.ESP
+- Adamantium Armor Integrated.ESP **(Don't use it alongside Expansions Integrated)**
 - Area Effect Projectiles Integrated.ESP
-- Expansions Integrated.ESP
+- Expansions Integrated.ESP **(Don't use it alongside Adamantium Armor Integrated)**
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
@@ -1062,8 +1062,8 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD Adamantium Armor Integrated Patch.ESP
-- MDMD Expansions Integrated Patch.ESP
+- MDMD Adamantium Armor Integrated Patch.ESP **(Don't use it alongside the Expansions Integrated Patch)**
+- MDMD Expansions Integrated Patch.ESP **(Don't use it alongside the Adamantium Armor Integrated Patch)**
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One Expansions Integrated Patch.ESP
@@ -1090,7 +1090,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 There are a couple of notes here:
 
 - We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
-- The Adamantium Armor Integrated and Expansions Integrated plugins (and related patches) shouldn't be used together. Choose one mod (and patches) or the other.
 - The There Can Be Only One MDMD - Creatures Patch.ESP can be skipped if you are also installing BTBGI MDMD - Creatures Patch.ESP. This plugin includes the changes from the former, and other extra changes.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
