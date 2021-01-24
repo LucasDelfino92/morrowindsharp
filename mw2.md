@@ -1067,7 +1067,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One Expansions Integrated Patch.ESP
-- There Can Be Only One MDMD Patch.ESP
+- There Can Be Only One (Alt Fyr) MDMD Patch.ESP
 - There Can Be Only One MDMD - Creatures Patch.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
