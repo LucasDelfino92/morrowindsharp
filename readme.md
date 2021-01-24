@@ -59,9 +59,8 @@ There can be many reasons for this, but I'll start with the most important: Morr
 As to what makes me not use a mod:
 
 - The mod, I feel, isn't worth the time that goes into installing it. When your modding guide consists of 100+ mods, trying to keep it short is key.
-- The mod adds "original content" to the game, such as NPCs, quests, etc. I don't feel comfortable with that sort of content.
-- The mod stands out too much from the vanilla game. Even mods that utilize vanilla assets can stand out (for instance, by adding lots of clutter in a game notorious for its sparse use of clutter).
-- The mod conflicts with many mods present in the guide.
+- The mod stands out too much from the vanilla game.
+- The mod conflicts with many mods present in the guide, or overhauls aspects of the game that make it incompatible with many other mods. This and the above comment is why I tend to stay away from overhauls.
 - The mod is very performance intensive.
 
 ### Is this guide compatible with OpenMW?
