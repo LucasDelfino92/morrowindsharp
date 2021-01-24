@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.3.1 (January 22nd)
+Version 2.1.3.2 (January 24th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,13 @@ Version 2.1.3.1 (January 22nd)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.3.2</summary>
+
+- Updated plugin names for Adamantium Armor Integrated (Sigourn Edit), Expansions Integrated (Sigourn Edit), and MDMD - More Deadly Morrowind Denizes patches for these mods.
+- Added Merged Objects Anti-Suck.
+</details>
 
 <details>
   <summary>v2.1.3.1</summary>
@@ -798,6 +805,7 @@ If you have installed any of the following combinations, download and install th
 - There Can Be Only One + MDMD Patch
 - BTBGI + Realistic Repair Add-on Patch
 - BTBGI + MDMD - Creatures Patch
+- Merged Objects Anti-Suck
 
 ### Install order and load order
 
@@ -1045,9 +1053,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
-- Adamantium Armor Integrated.ESP **(Don't use it alongside Expansions Integrated)**
+- Adamantium Armor Integrated (Sigourn Edit).ESP **(Don't use it alongside Expansions Integrated)**
 - Area Effect Projectiles Integrated.ESP
-- Expansions Integrated.ESP **(Don't use it alongside Adamantium Armor Integrated)**
+- Expansions Integrated (Sigourn Edit).ESP **(Don't use it alongside Adamantium Armor Integrated)**
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
@@ -1062,8 +1070,8 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD Adamantium Armor Integrated Patch.ESP **(Don't use it alongside the Expansions Integrated Patch)**
-- MDMD Expansions Integrated Patch.ESP **(Don't use it alongside the Adamantium Armor Integrated Patch)**
+- MDMD Adamantium Armor Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Expansions Integrated Patch)**
+- MDMD Expansions Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Adamantium Armor Integrated Patch)**
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
 - There Can Be Only One Expansions Integrated Patch.ESP
@@ -1079,6 +1087,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
 - Merged Objects.ESP
+- **Merged Objects Anti-Suck.ESP**
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
@@ -1094,16 +1103,15 @@ There are a couple of notes here:
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
-And if you are asking yourself "why is SoldierBeltsFix.ESP that high in the load order?". Sadly BTBGI edits the Imperial Templar Belt icon, and we need to load Soldier Belts Fix later to override that edit (which uses a generic belt icon) with the unique Imperial Templar Belt icon.
-
 ### Conflict resolution
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order.
+- You can now activate the Merged Objects Anti-Suck.ESP. This will undo the changes Merged Objects makes to the **iron spider dagger**, **imperial netch blade**, **Stormkiss**, and **sjoring hard-heart** records. Please keep in mind this plugin is provided "as is" for use with this guide. If you have additional mods that modify these records, you will probably have to fix issues on your own.
 
-There are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
+Finally, there are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
 - Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
   - Cell **Balmora, Eastern Guard Tower** 
@@ -1114,14 +1122,8 @@ There are additional steps to take using [**TESAME**](https://github.com/Sigourn
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
   - BSGN **Elfborn** 
     - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
-- If you installed **MDMD - More Deadly Morrowind Denizens**, delete the following record from **Merged Objects.ESP**:
-  - NPC **sjoring hard-heart** 
-    - Omits an unnecessary merge that nerfed Sjoring Hard-Heart's stats.
-- If you installed **BTB's Game Improvements - Necro Edit**, delete the following records from **Merged Objects.ESP**:
-  - Weapon **iron spider dagger**
-  - Weapon **imperial netch blade**
-  - Weapon **Stormkiss**
-    - Omits the addition of the Ignore Weapon Resistance flag added by Patch for Purists to these three weapons, which overwrites BTB's change to how weapon resistance works.
+
+With this, we've finished our conflict solving.
 
 ### Synchronizing mod masters
 
