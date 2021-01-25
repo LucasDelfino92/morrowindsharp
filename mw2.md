@@ -34,6 +34,7 @@ Version 2.1.4 (January 25th)
 <details>
   <summary>v2.1.4</summary>
 
+- Updated Lucky Strike - A Critical Hit Mod link.
 - Added Flies (Visuals).
 - Added Controlled Consumption (MMMC Edit) (Gameplay).
 - Added Harder Barter (MMC Edit) (Gameplay).
