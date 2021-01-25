@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.3.2 (January 24th)
+Version 2.1.4 (January 25th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,10 +32,23 @@ Version 2.1.3.2 (January 24th)
 ## CHANGELOG
 
 <details>
+  <summary>v2.1.4</summary>
+
+- Added Flies (Visuals).
+- Added Controlled Consumption (MMMC Edit) (Gameplay).
+- Added Harder Barter (MMC Edit) (Gameplay).
+- Removed DragonDoor. DragonDoor has a handful of very neat features, but I found myself never escaping dungeons to have other enemies follow me. I reckon this is a much more useful feature if you play with the "call for help" option, which I found to be too overwhelming.
+- Removed HardTrade. I love the changes HardTrade makes to the economy, but they come at the expense of making the in-game gold rewards (and gold you find lying around) nearly useless as items are suddenly far more expensive than before.
+- Removed MAB0's Ingestion. Hit or miss when it comes to functioning.
+- Removed MAB0's Manipulated. Hit or miss when it comes to functioning.
+- Removed MAB0's Foundations. No longer necessary.
+</details>
+
+<details>
   <summary>v2.1.3.2</summary>
 
 - Updated plugin names for Adamantium Armor Integrated (Sigourn Edit), Expansions Integrated (Sigourn Edit), and MDMD - More Deadly Morrowind Denizes patches for these mods.
-- Added Merged Objects Anti-Suck.
+- Added Merged Objects Anti-Suck (Finishing touches).
 </details>
 
 <details>
@@ -518,6 +531,9 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 - [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
 Replaces rain with a more heavy rain look.
+- [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
+Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
+  - Also install [**Flies Fixed**](https://cdn.discordapp.com/attachments/218457935846703104/803267311246245908/Flies.ESP) by ProfArmitage. Fixes flies appearing underwater.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
   - In the FOMOD installer, install the following options:
@@ -694,9 +710,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
 Adds in lock-bashing from Daggerfall.
-- [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+- [**Lucky Strike - A Critical Hit Mod (MMC Edit)**](https://cdn.discordapp.com/attachments/218457935846703104/803328785436115004/Lucky_Strike_-_A_Critical_Hit_Mod_v1.0_MMC_Edit.zip) by R-Zero and the Morrowind Modding Community  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
-  - Place the **MWSE** folder alongside *Lucky Strike.ESP* in the **Data Files** folder.
+  - Edited version of [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) that fixes some issues with the mod that prevented it from working correctly.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/) by Caeris  
 Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows you from being a member of both factions, adds missing temple markers, and adds healing services to healers.
   - Install **No Quest Changes** only.
@@ -710,22 +726,14 @@ Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a su
 
 - [**Caldera Mages Guild Guarded Alchemy Set**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
-- [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
-Enemies can now chase you through doors.
+- [**Controlled Consumption (MMC Edit)**](https://cdn.discordapp.com/attachments/218457935846703104/803366632785313842/Controlled_Consumption_v1.3.0_MMC_Edit.zip) by NullCascade and the Morrowind Modding Community  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+  - Edited version of [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) which also restricts ingredient consumption.
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
 Increases the penalties for crime.
   - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
-- [**HardTrade v2.6 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade+v2.6+(Sigourn+Edit).zip/file) by Archimag  
-Eliminates trade exploits and makes bartering much more punishing.
-  - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the Investing feature as well as GMST changes that make persuasion more difficult.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**MAB0's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
-Allows the player to be affected by only one potion/ingredient at a time.
-  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0.
-- [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
-Makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
-  - Requires [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244?) by Meta Barj0.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
@@ -780,9 +788,9 @@ This section contains specific instructions for the (re)installation of the Morr
 - If you installed **BTB's Game Improvements - Necro Edit**, install the following patch:
   - (Mod specific) Weapon resistance change
     - Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. BTBGI's relies on this patch for its weapon resistance changes to work as intended.
-- If you installed **BTB's Game Improvements - Necro Edit** and **MAB0's Ingestion**, install the following patch:
+- If you installed **BTB's Game Improvements - Necro Edit** and **Controlled Consumption (MMC Edit)**, install the following patch:
   - (Game mechanics) Healthy appetite
-    - Eating ingredients always succeeds, giving its first effect and skill advancement. To prevent the cheesing of this patch, BTBGI removes the skill gain for consuming ingredients, and MAB0's Ingestion prevents you from spamming their consumption for overpowered effects.
+    - Eating ingredients always succeeds, giving its first effect and skill advancement. To prevent the cheesing of this patch, BTBGI removes the skill gain for consuming ingredients, and Controlled Consumption prevents you from spamming their consumption for overpowered effects.
 - If you installed **BTB's Game Improvements - Necro Edit**, **Balanced Passive Races and Birthsigns**, or **Class-Conscious Character Progression**, install the following patches:
   - (Game mechanics) Attribute uncap
   - (Game mechanics) Skill uncap
@@ -902,6 +910,8 @@ The installation order dictates the priority a given mod's assets have over the 
 - Vivec the God
 - Yet Another Guard Diversity - Regular
 - Apel's Rain Replacer
+- Flies
+- Flies Fix
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Heat Haze
@@ -971,13 +981,8 @@ The installation order dictates the priority a given mod's assets have over the 
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
 - Caldera Mages Guild Guarded Alchemy Set
-- DragonDoor
 - Economy Adjuster Adjustments
-- HardTrade (Sigourn Edit)
 - Limited Leaping
-- MAB0's Foundations
-- MAB0's Ingestion
-- MAB0's Manipulated
 - Nimble Armor
 - No Disease Labels
 - No Rest Without Beds
@@ -1030,6 +1035,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Complete Armor Joints.ESP
 - Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
+- Flies.ESP
 - GITD_WL_RR_Interiors.ESP
 - The Dream is the Door.ESP
 - RFD_Heartthrum.ESP
@@ -1061,7 +1067,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
 - Hunter's Mark Expansions Integrated Patch.ESP
 - Blight is Coming.ESP
-- Lucky Strike.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
 - Caldera Mages Guild Guarded Alchemy Set.ESP
