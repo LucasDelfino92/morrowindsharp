@@ -811,9 +811,6 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
-- [**Morrowind Anti-Cheese Ownership Overhaul Compatible (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Remiros and Half11  
-Fixes the biggest exploits and balance issues in the game.
-  - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for compatibility with Ownership Overhaul and also forwards fixes from Patch for Purists and Rarer Scrap Metal (included in Morrowind Anti-Cheese).
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -856,7 +853,7 @@ This section contains specific instructions for the (re)installation of the Morr
 
 Depending on which mods you've decided to install, there may be no patching at all to be done, or quite a bit of it. This section comes last because these patches can be safely installed once you are over with the rest (they contain no assets that require a special installation order).
 
-- [**Morrowind# Patches in Sigourn's Misc Mods and Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+- [**Sigourn's Misc Mods and Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 
 If you have installed any of the following combinations, download and install the patches from the page linked above.
 
@@ -869,6 +866,10 @@ If you have installed any of the following combinations, download and install th
 - There Can Be Only One + MDMD Patch
 - BTBGI + Realistic Repair Add-on Patch
 - BTBGI + MDMD - Creatures Patch
+- Ownership Overhaul Patches
+  - Make sure to install the Morrowind Anti-Cheese option.
+- Yet Another Guard Diversity Patches
+  - These are entirely optional as they don't really modify the gameplay. But if you are like me and want everything nice and tidy, get them!
 - Merged Objects Anti-Suck
 
 ### Install order and load order
@@ -1054,7 +1055,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Repair Add-On
 - Sneaky Strike
 - Soulless Creatures
-- Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - More Deadly Morrowind Denizens
 - Umbra - Blademaster
 - There Can Be Only One
@@ -1063,7 +1063,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- Morrowind# Patches
+- Sigourn's Misc Mods and Patches
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1135,6 +1135,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
+- Morrowind Anti-Cheese - Yet Another Guard Diversity Patch.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD Adamantium Armor Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Expansions Integrated Patch)**
@@ -1146,6 +1147,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - There Can Be Only One MDMD - Creatures Patch.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
+- BTBGI Yet Another Guard Diversity Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
 - Snow Prince Armor Redux.ESP
@@ -1181,9 +1183,6 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 
 Finally, there are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
-- Delete the following records from **Morrowind Anti-Cheese.ESP** for compatibility with **BTB's Game Improvements (Necro Edit).ESP**:
-  - Cell **Balmora, Eastern Guard Tower** 
-    - Omits the addition of a Hlaalu Guard to protect the Sword of White Woe who is no longer necessary as BTB removes the sword.
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
   - Cell **Caldera, Guild of Mages** 
     - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
