@@ -248,12 +248,14 @@ MGE XE receives constant support from the dedicated modding community, generally
 
 The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
 
-- [**MGE XE Shader - 16 Lights Shaders Alpha**](https://cdn.discordapp.com/attachments/381217735306248192/788784077410926612/MGE_XE_Shader_-_16_Lights_Shaders_Alpha_June_25th_2020.zip) by Hrnchamd  
-- [**MGE XE Shader - Deband_Fogaware v2**](https://cdn.discordapp.com/attachments/381217735306248192/788784078505639956/MGE_XE_Shader_-_Deband_Fogaware_v2_August_24th_2020.zip) by Hrnchamd and vtastek  
+- [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
+- [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
+Reworked version of the MGE XE standard water shader.
+- [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
 Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-- [**MGE XE Shader - EdgeAA**](https://cdn.discordapp.com/attachments/381217735306248192/788784082200428574/MGE_XE_Shader_-_EdgeAA_August_8th_2019.zip) ported by vtastek  
+- [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
 Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
-- [**MGE XE Shader - specialprocess**](https://cdn.discordapp.com/attachments/381217735306248192/788784079487107102/MGE_XE_Shader_-_Specialprocess_August_11th_2020.zip) by vtastek  
+- [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
 Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
   - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
 
