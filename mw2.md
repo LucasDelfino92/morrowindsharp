@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.4 (January 25th)
+Version 2.1.5 (January 26th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,53 @@ Version 2.1.4 (January 25th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.5</summary>
+
+- Added Animated Morrowind Merged (Visuals).
+- Added Snow Prince Armor Redux (MMC Edit) (Visuals).
+- Re-added HardTrade (Gameplay). For a detailed explanation, see below.
+- Removed Harder Barter (MMC Edit). For a detailed explanation, see below.
+
+I need to explain quite a few things about how these two mods work to understand why I reverted this change in just one day. This is entirely optional to read, but if you want to make your own decision as to which mod to use, I recommend reading through it.
+
+The Harder Barter (MMC Edit) is a personal tweak of mort's [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188). What the original mod does is exponentially reduce the value of items, which makes the more valuable items lose much more value compared to the lower priced items.
+
+- In the vanilla game, this is just fine. Daedric, Ebony, and Glass equipment can be found a plenty by the late game in the hands of Golden Saints and Dremora. But **There Can Be Only One** and **BTBGI (Necro Edit)** remove the availability of this equipment from respawning enemies *entirely*. Moreover, **Realistic Repair**'s Damaged Loot feature means most of the time, the equipment you will get your hands on will be so damaged you will barely gain any gold from selling it. In other words, Harder Barter effectively tanks the prices of items which weren't the problem to begin with (low value items such as ingredients and so forth).
+- Harder Barter and also leads to (rather common) scenarios where it is simply more convenient to sell items a piece than selling them in stacks, since the stack is considering as an item on its own (and in case of large, valuable stacks, it becomes subject to the mod's price tanking formula, which wouldn't apply to the individual items themselves).
+- There's also another significant issue with Harder Barter, in that it makes it very difficult to judge the value of an item "in the wild", that is, outside of the barter window. That 500 Gold bow may look like a great sale, but upon returning to a merchant you will find its value absolutely tanked, and realize that it was possibly much more profitable to loot a handful of considerably less valuable items that won't see their prices tanked as much.
+- Harder Barter also reduces the inherent value of items because of this formula: an item that is meant to be much more valuable than another suddenly isn't that valuable by comparison.
+- Because of the tanked item prices when selling to a vendor, you will also find yourself being ripped off at every opportunity.
+- Last but not least, I can't help but feel that in Harder Barter, your Mercantile skills don't really matter that much.
+
+What are the **advantages** of Harder Barter compared to HardTrade?
+
+- The **gold rewards** are **meaningful**, as getting that gold on your own wouldn't have been that eays. Socuccius Ergalla's 500 Gold reward for killing Foryn Gilnith means that much more in the early game, whereas in HardTrade it doesn't feel particularly meaningful. 
+- Moreover, **gold lying around** is worth the hassle to pick up.
+
+That's a lot of disadvantages for a couple of advantages. So, what's the case with **HardTrade**?
+
+- HardTrade keeps the linearity of in-game prices. More expensive items means you will get more gold from them. An item worth 500 Gold will always be worth more than two 200 Gold items.
+- Selling items one at a piece *may* be more valuable than selling them in stacks. But because of the emphasis HardTrade places on bargaining, and because BTBGI (Necro Edit) removes the Disposition bonus on a successful trade, it's simply better to sell an entire stack and try to bargain a good price for it, instead of doing so individually for every item in a stack. In other words, there's far more potential for profit when selling a stack of items than when selling them one at a piece.
+- HardTrade makes it very easy to judge the value of an item "in the wild", because the linearity of in-game prices is kept intact.
+- And because prices are not modified, a more valuable item will always keep its relative value compared to other items.
+- The modification of the bartering formulas mean that Mercantile IS worth investing into, because merchants will never "give away" their items (selling you a 500 Gold item for less than what's worth just because they just like you, even if your Mercantile skill is very low). With high skills, you will definitely see a massive shift in the economy of the game.
+
+The **disdvantages** of HardTrade?
+
+- Because merchants will charge you much more for your purchases, **gold rewards** are rather **meaningless**.
+- Likewise, **gold lying around**, which usually ranges from 1 to 100, is hardly worth the hassle to pick up. It certainly rings true for those random gold coins found inside chests.
+
+But what does my **Harder Barter (MMC Edit)** do, given that it's the mod I removed from the guide in this update?
+
+- It drops the original Harder Barter price tanking formula altogether. Instead, merchants would offer you half the money they would offer you in the vanilla game.
+- To deal with bulk selling being less effective than individual selling, it was now possible to sell an item for 0 Gold, whereas selling a stack composed of that item would see a rise in value. The logic behind this mimics real life's pretty well: merchants will usually favor buying stock in bulk over buying a single item, unless it is particularly valuable (a bottle worth 1 Gold isn't).
+
+The idea behind these changes would be to keep most of HardTrade's advantages, *while* making gold preserve purchasing power. Sadly, it didn't quite work out like that. Vanilla merchants lack the skills and the smarts to prevent you from, eventually, scamming them and engaging in a continuous "sell item, and then buy it back for less" loop. Even if you don't want to engage in this, it still meant that under normal gameplay circumstances you could still be making far more gold than you should.
+
+My conclusion is: HardTrade offers the most advantages, and even the disadvantages aren't particularly annoying as you obtain quest rewards at a much slower pace than you gain gold through other means. It's an ocassional annoyance, compared to Harder Barter's constant, infuriating, nonsensical changes which, for the most part (and thanks to the mod setup offered here) become nearly pointless.
+</details>
 
 <details>
   <summary>v2.1.4</summary>
@@ -500,6 +547,9 @@ Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
+- [**Snow Prince Armor Redux (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Saint_Jiub, Moranar, and Sigourn  
+Remodel and retexture of the Ancient Steel Armor set found in Bloodmoon.
+  - This is an edit of [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) that adds unique icons to the armor, fixes an issue with the helm not using its new unique model, and optimizes the textures for a smaller download.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
@@ -513,6 +563,8 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 ### NPCs and Creatures
 
+- [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50) by Arcimaestro Antares, Wikart, and abot  
+Adds new animated NPCs to the world, and gives animations to some Npcs of the original game. Additionally adds brigands in dark streets and corners of Balmora and Ald'Ruhn.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
@@ -727,12 +779,15 @@ Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a su
 
 - [**Caldera Mages Guild Guarded Alchemy Set**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
-- [**Controlled Consumption (MMC Edit)**](https://cdn.discordapp.com/attachments/218457935846703104/803366632785313842/Controlled_Consumption_v1.3.0_MMC_Edit.zip) by NullCascade and the Morrowind Modding Community  
+- [**Controlled Consumption v1.3.0 (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by NullCascade and the Morrowind Modding Community  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
   - Edited version of [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) which also restricts ingredient consumption.
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
 Increases the penalties for crime.
   - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
+- [**HardTrade v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file) by Archimag  
+Eliminates trade exploits by overhauling the bartering mechanics.
+  - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the investing feature and conflicting GMST changes with other mods in this setup.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
@@ -827,6 +882,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - DLC: Bloodmoon
 - MGE XE Data Files
 - MGE XE Shader - 16 Lights Shaders Alpha
+- MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
 - MGE XE Shader - Deband Fogaware v2
 - MGE XE Shader - EdgeAA
 - MGE XE Shader - Specialprocess
@@ -900,11 +956,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - Improved Nordic Iron Helm (Alternate)
 - Improved Thrown Weapon Projectiles
 - No Orcish Clown Shoes
+- Snow Prince Armor Redux (MMC Edit)
 - Soldier Belts Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
+- Animated Morrowind Merged
 - Golden Saint Feminine Walk
 - Incarnates Overhauled
 - Silt Strider Redone
@@ -982,7 +1040,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
 - Caldera Mages Guild Guarded Alchemy Set
+- Controlled Consumption (MMC Edit)
 - Economy Adjuster Adjustments
+- HardTrade
 - Limited Leaping
 - Nimble Armor
 - No Disease Labels
@@ -1034,6 +1094,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - NearVanillaRoadSigns.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
+- Animated_Morrowind - merged.ESP
 - Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - Flies.ESP
@@ -1087,6 +1148,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - BTBGI PFP Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
+- Snow Prince Armor Redux.ESP
 - SoldierBeltsFix.ESP
 - Balanced Pasive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
@@ -1175,6 +1237,9 @@ The following mods require additional configuration through the in-game **Mod Co
 
 **Continue**
 - (Optional) Enable *Hide Credits Button* and *Hide New Game Button (In Game)*.
+
+**Controlled Consumption**
+- 
 
 **DragonDoor!**
 - Disable *Show messages*.
