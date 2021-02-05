@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.5 (January 26th)
+Version 2.1.5.1 (February 5th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,16 @@ Version 2.1.5 (January 26th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.5.1</summary>
+
+- Moved Apel's Rain Replacer to the Weather and Lighting section (many popular skies mods modify rain; this should help users detect conflicts easily).
+- Updated Weather Adjuster preset with tweaks to improve fog/cloud brightness and darkness on different weather conditions.
+- Added extra in-game configuration settings for Weapon Sheathing, assuming the user has installed Animated Morrowind Merged.
+- Added missing in-game configuration settings for Controlled Consumption (MMC Edit).
+- Removed leftover in-game configuration settings for DragonDoor.
+</details>
 
 <details>
   <summary>v2.1.5</summary>
@@ -582,8 +592,6 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 ### VFX
 
-- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
-Replaces rain with a more heavy rain look.
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
   - Also install [**Flies Fixed**](https://cdn.discordapp.com/attachments/218457935846703104/803267311246245908/Flies.ESP) by ProfArmitage. Fixes flies appearing underwater.
@@ -620,6 +628,8 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 ### Weather and Lighting
 
+- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
+Replaces rain with a more heavy rain look.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
   - Also install [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
@@ -630,7 +640,7 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
-- [**Weather Adjuster - Morrowind Improved json**](http://www.mediafire.com/file/r7vlwhoko8rg2co/Weather_Adjuster_-_Sigourn%2527s_Mod_List_json.zip/file) by Sigourn  
+- [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/q99l3y9zezhdgjo/Weather+Adjuster+-+Morrowind+++Preset+v2.0.zip/file) by Sigourn  
 Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
@@ -969,7 +979,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Silt Strider Redone
 - Vivec the God
 - Yet Another Guard Diversity - Regular
-- Apel's Rain Replacer
 - Flies
 - Flies Fix
 - Glow in the Dahrk
@@ -982,6 +991,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Subtle Smoke
 - The Dream is the Door
 - Visually Filled Soul Gems
+- Apel's Rain Replacer
 - Let There Be Darkness - Lua Lighting Overhaul
 - Let There Be Darkness (No Level Design Lighting Preview Patch)
 - Light Decay
@@ -1238,12 +1248,7 @@ The following mods require additional configuration through the in-game **Mod Co
 - (Optional) Enable *Hide Credits Button* and *Hide New Game Button (In Game)*.
 
 **Controlled Consumption**
-- 
-
-**DragonDoor!**
-- Disable *Show messages*.
-- Disable *Allow vampires to chase*. This prevents vampires from accidentally setting themselves on fire in plain daylight.
-- Disable *NPCs will call for help in battle*. Because this feature can cause a chain reaction of NPCs calling for help, this can easily turn an entire dungeon hostile within seconds of spotting your first enemy, effectively sending all NPCs to your current position (which may not even be 10 feet past the entrance).
+- Set *Current consumption module* to Vanilla NPC Style (Necro Edit).
 
 **Dynamic Timescale**  
 Cell Settings
@@ -1265,7 +1270,7 @@ Crosshair Settings
 
 **Let There Be Darkness - Lua Lighting Overhaul**  
 General and Cell Settings
-- set *Cell lighting value overrides* to NONE.
+- Set *Cell lighting value overrides* to NONE.
 - If you've installed the specialprocess shader in **Setup**, set all three *Ambient color adjustments* to 75.
 
 Light Settings  
@@ -1288,6 +1293,11 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - Set *Auto-select search bar* to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
 - (Optional) Set *Use verbose buttons instead of icons for inventory filtering?* to No.
 - (Optional) Set *Use search bars?* to No.
+
+**Weapon Sheathing**
+Exclusions
+- Click *Plugins*, and click *animated_morrowind - merged.esp*. This will move the plugin to the *Blocked* list.
+  - This will avoid issues between both mods where Animated Morrowind Merged's NPCs would sometimes refuse to use items alongside their animations.
 
 ### Mod keybindings
 
