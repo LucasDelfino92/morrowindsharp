@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.5.2 (February 8th)
+Version 2.1.5.3 (February 8th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,14 @@ Version 2.1.5.2 (February 8th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.5.3</summary>
+
+- Added new tes3cmd instructions to Conflict resolution.
+- Removed Hunter's Mark - A Marksman Mod patches for Area Effects Projectiles Integrated and Expansions Integrated (not necessary anymore).
+- Removed There Can Be Only One patch for Expansions Integrated (not necessary anymore).
+</details>
 
 <details>
   <summary>v2.1.5.2</summary>
@@ -1198,7 +1206,8 @@ tes3cmd lets us clean all active plugins in our load order, and also solve confl
 
 Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
 
-- Once you are done with the above steps, make sure to reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
+- Once you are done with the above steps, reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
+- Activate multipatch.ESP.
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
