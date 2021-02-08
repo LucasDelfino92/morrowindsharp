@@ -15,41 +15,28 @@
 
 ## CLEANING PLUGINS
 
-At the end of each of [**Morrowind++**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md)'s sections you may find a list of plugins that require cleaning, and you will be redirected here. We will be using three tools to clean plugins: **TESTool**, **tes3cmd**, and **TESAME**. TESAME additionally doubles down as a conflict solving utility, as deleting records is useful for both deleting dirty records and records you don't want in a plugin, allowing you to solve conflicts with other mods.
-
-### TESTool
-
-The first step is to clean plugins using TESTool.
-
-- Run TESTool in MO2.
-- A window will pop up, asking you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**.
-- Click **Options**. Make sure the following options are active, and then click **Done**:
-  - Don't change plugin filenames.
-  - Ignore tribunal.esm
-  - Ignore bloodmoon.esm
-  - Restricted dialog cleaning
-  - Restricted cell cleaning
-- Select **Clean ESP/ESM files** and click **Execute**.
-- Browse for your **Morrowind\Data Files** folder, and select **all the plugins** that require cleaning.
-- TESTool will clean all plugins. Once it's finished, close TESTool.
-
-The cleaned plugins will have overwritten the existing plugins.
+At the end of each of [**Morrowind++**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md)'s sections you may find a list of plugins that require cleaning, and you will be redirected here. We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. tes3cmd and TESAME additionally double down as conflict solving utilities: tes3cmd will generate a multipatch to fix conflicting leveled lists, and TESAME lets you deleting records on your own, which is particularly useful for both deleting records you don't want in a plugin.
 
 ### tes3cmd
 
-The second step is to clean plugins using tes3cmd.
+tes3cmd lets you do a number of operations to handle dirty plugins and conflicting records. For the purpose of this section, we will go with the general operation first.
 
-- Run cmd in MO2.
-- A command window will appear, starting with your Morrowind Data Files directory (for instance, C:\Games\Morrowind\Data Files)
-- You will have to type **tes3cmd_clean.bat "plugin.esp"**, where "plugin" is the name of the plugin you want to clean. For example, you could end up with a line looking like so:
+- Run WryeMash in Mod Organizer.
+- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first!
+- Now, click *Misc* on the header and go to **TES3cmd** -> **Fixit (all active)**.
+- tes3cmd will now clean your dirty plugins and also generate a multipatch.esp. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order.
+- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. This will deactivate this option, since you don't need it anymore.
 
-> C:\Games\Morrowind\Data Files>tes3cmd_clean.bat "Clean Atmospheric Delights.ESP"
+Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
 
-- You can use TAB to autocomplete plugin names. For instance, typing TAB after writing "Clean" would probably autocomplete it to "Clean Atmospheric Delights.ESP". If not, keep pressing TAB.
-- Press Enter, and tes3cmd will clean the plugin.
-- You will need to repeat the process for each of the plugins that require cleaning. Once you are finished, close tes3cmd.
+- Once you are done with the above steps, make sure to reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
 
-The cleaned plugins will have overwritten the existing plugins.
+Whenever you reinstall one of the plugins cleaned by tes3cmd, you will have to clean it again. If you decide to install your own mods, you should also clean them using tes3cmd. This does not mean you have to repeat the entirety of the process, however.
+
+- Run WryeMash in Mod Organizer.
+- In the **Mods** tab, right click the plugin you want to clean and select *Clean with tes3cmd*.
+
+If dirty, tes3cmd will clean this individual plugin.
 
 ### TESAME
 
