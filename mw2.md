@@ -875,11 +875,8 @@ Depending on which mods you've decided to install, there may be no patching at a
 If you have installed any of the following combinations, download and install the patches from the page linked above.
 
 - Hunter's Mark + Patch for Purists Patch
-- Hunter's Mark + Area Effect Projectiles Integrated Patch
-- Hunter's Mark + Expansions Integrated Patch
 - MDMD + Adamantium Armor Integrated Patch
 - MDMD + Expansions Integrated Patch
-- There Can Be Only One + Expansions Integrated Patch
 - There Can Be Only One + MDMD Patch
 - BTBGI + Realistic Repair Add-on Patch
 - BTBGI + MDMD - Creatures Patch
@@ -1144,8 +1141,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Expansions Integrated (Sigourn Edit).ESP **(Don't use it alongside Adamantium Armor Integrated)**
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
-- Hunter's Mark Area Effect Projectiles Integrated Patch.ESP
-- Hunter's Mark Expansions Integrated Patch.ESP
 - Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
@@ -1160,7 +1155,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - MDMD Expansions Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Adamantium Armor Integrated Patch)**
 - Umbra, Blademaster.ESP
 - There Can Be Only One (Alt Fyr).ESP
-- There Can Be Only One Expansions Integrated Patch.ESP
 - There Can Be Only One (Alt Fyr) MDMD Patch.ESP
 - There Can Be Only One MDMD - Creatures Patch.ESP
 - BTB's Game Improvements (Necro Edit).ESP
@@ -1174,6 +1168,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
+- multipatch.ESP
 - Merged Objects.ESP
 - **Merged Objects Anti-Suck.ESP**
 - **Rem_AC.ESP**
@@ -1186,12 +1181,24 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 
 There are a couple of notes here:
 
-- We will generated Merged Objects.ESP in a moment. For this process, make sure you deactivate all bolded plugins.
+- We will generate multipatch.ESP and Merged Objects.ESP in a moment. For these processes, make sure you deactivate all bolded plugins.
 - The There Can Be Only One MDMD - Creatures Patch.ESP can be skipped if you are also installing BTBGI MDMD - Creatures Patch.ESP. This plugin includes the changes from the former, and other extra changes.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
 ### Conflict resolution
+
+tes3cmd lets us clean all active plugins in our load order, and also solve conflicts in leveled lists, generating a **multipatch.esp** file for the latter process which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
+
+- Run WryeMash in MO2.
+- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first!
+- Now, click *Misc* on the header and go to **TES3cmd** -> **Fixit (all active)**.
+- tes3cmd will now clean your dirty plugins and also generate a multipatch.esp. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order.
+- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. This will deactivate this option, since you don't need it anymore.
+
+Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
+
+- Once you are done with the above steps, make sure to reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
