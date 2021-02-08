@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.5.1 (February 5th)
+Version 2.1.5.2 (February 8th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,13 @@ Version 2.1.5.1 (February 5th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.5.2</summary>
+
+- Removed TESAME instructions for compatibility between BTBGI (Necro Edit) and Caldera Mages Guild Guarded Alchemy Set (if the thought of an Imperial Guard running around the Mages Guild troubles you, simply use the console to **disable** them).
+- Modified Facelift installation instructions (textures are now recommended for download as well, and override Intelligent Textures').
+</details>
 
 <details>
   <summary>v2.1.5.1</summary>
@@ -417,12 +424,12 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 ### HD textures
 
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
-Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Install **kart_facelift_meshes** only.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
+- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
+  - Install **kart_facelift_meshes** and **kart_facelift_textures** only.
 
 ## UI AND HOTKEYS MODULE
 
@@ -915,8 +922,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - Loading Doors Lock Tune
 - Services Restored
 - The Publicans
-- Facelift
 - Intelligent Textures
+- Facelift (Meshes)
+- Facelift (Textures)
 - Better Daedric Font
 - Better Dialogue Font
 - Chocolate UI
@@ -1193,9 +1201,6 @@ TES3Merge lets us merge the objects in our active plugins in order to reduce con
 
 Finally, there are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
 
-- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Caldera Mages Guild Guarded Alchemy Set.ESP**:
-  - Cell **Caldera, Guild of Mages** 
-    - Omits an Imperial Guard placed by BTB's Game Improvements who is no longer necessary.
 - Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
   - BSGN **Elfborn** 
     - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
