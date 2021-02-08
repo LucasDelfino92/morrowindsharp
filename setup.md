@@ -88,12 +88,6 @@ This tool is used for solving conflicts between plugins and also cleaning them, 
 
 - Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
 
-[**TESTool**](http://mw.modhistory.com/download-13-5234)
-
-This tool is used for solving conflicts between plugins and also cleaning them, by merging leveled lists and deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
-
-- Extract the contents of the file in **Morrowind Mods\Tools\TESTool**. 
-
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
 This tool is used for cleaning plugins, deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author), fixing unnecessary information present in cell edits, and also to generate a multipatch (which most importantly fixes conflicting leveled list entries).
@@ -176,7 +170,7 @@ On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. T
 
 ### SETTING UP TOOLS IN MOD ORGANIZER 2
 
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, and **TESAME**.
 
 - Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
 - In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
