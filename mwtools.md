@@ -19,8 +19,6 @@ At the end of each of [**Morrowind++**](https://github.com/Sigourn/morrowind-imp
 
 ### tes3cmd
 
-tes3cmd lets you do a number of operations to handle dirty plugins and conflicting records. For the purpose of this section, we will go with the general operation first.
-
 - Run WryeMash in Mod Organizer.
 - In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first!
 - Now, click *Misc* on the header and go to **TES3cmd** -> **Fixit (all active)**.
@@ -39,8 +37,6 @@ Whenever you reinstall one of the plugins cleaned by tes3cmd, you will have to c
 If dirty, tes3cmd will clean this individual plugin.
 
 ### TESAME
-
-TES Advanced Mod Editor lets you open a plugin in order to clean it manually, deleting unwanted records from a mod. It's also used to remove unwanted records from a plugin to improve compatibility between mods.
 
 - Run TESAME in MO2.
 - Go to **Mods -> Open ..**
