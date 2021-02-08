@@ -1172,7 +1172,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - BTBGI MDMD - Creatures Patch.ESP
 - Snow Prince Armor Redux.ESP
 - SoldierBeltsFix.ESP
-- Balanced Pasive Races and Birthsigns.ESP
+- Balanced Passive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
