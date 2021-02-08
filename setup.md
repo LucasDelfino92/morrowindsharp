@@ -94,15 +94,16 @@ This tool is used for solving conflicts between plugins and also cleaning them, 
 
 - Extract the contents of the file in **Morrowind Mods\Tools\TESTool**. 
 
-[**tes3cmd**](https://www.mediafire.com/file/6aji5oad8zh1drc/tes3cmd.zip/file)
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
-This tool is used for cleaning plugins, deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
+This tool is used for cleaning plugins, deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author), fixing unnecessary information present in cell edits, and also to generate a multipatch (which most importantly fixes conflicting leveled list entries).
 
-- Extract the contents of the file, and merge the **Data Files** folder with your game's **Data Files** folder.
+- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download tes3cmd.exe.
+- Place tes3cmd.exe in Morrowind's **Data Files** folder.
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
-This tool is used for repairing and updating saves, as well as updating the masters of mods you may install.
+This tool is used for repairing and updating saves, updating the masters of mods you may install, and using tes3cmd to clean plugins and generate a multipatch.
 
 - Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
 - Extract the contents of the file, rename the **Mopy** folder to **WryeMash**, and place the folder in **Morrowind Mods\Tools**. We don't need the other files included in the archive.
@@ -175,22 +176,12 @@ On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. T
 
 ### SETTING UP TOOLS IN MOD ORGANIZER 2
 
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. Some tools require generic instructions, while others demand more specific instructions.
-
-Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, **TESAME**, and **TESTool**.
 
 - Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
 - In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
 - Navigate to the location of the tool you want to install and double click its .exe file.
 - In the *Start In* field, select your Morrowind root folder (for instance, C:\Games\Morrowind).
-- Click *Apply* and then *OK*.
-
-Follow these steps for **tes3cmd**.
-
-- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
-- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
-- Navigate to the location of cmd.exe (for instance, C:\Windows\System32\cmd.exe) and double click on it.
-- In *Start In*, search for the location of your Morrowind Data Files folder (for instance, C:\Games\Morrowind\Data Files)
 - Click *Apply* and then *OK*.
 
 Follow these steps for **Wrye Mash**.
@@ -251,6 +242,7 @@ The following shaders will be installed through Mod Organizer 2, like virtually 
 - [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
 - [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
 Reworked version of the MGE XE standard water shader.
+  - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
 - [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
 Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
 - [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
