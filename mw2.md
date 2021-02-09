@@ -1209,7 +1209,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 There are a couple of notes here:
 
 - We will generate multipatch.ESP and Merged Objects.ESP in a moment. For these processes, make sure you deactivate all bolded plugins.
-- The There Can Be Only One MDMD - Creatures Patch.ESP can be skipped if you are also installing BTBGI MDMD - Creatures Patch.ESP. This plugin includes the changes from the former, and other extra changes.
 - The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
