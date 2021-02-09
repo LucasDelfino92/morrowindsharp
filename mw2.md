@@ -898,7 +898,7 @@ If you have installed any of the following combinations, download and install th
 
 - [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Patch for Purists reworks how four of Bloodmoon's containers Leveled Item lists work, fixing an issue where you could potentially find only one arrow or bolt in them. Hunter's Mark replaces the contents of three of these four fixed containers to guarantee Huntsman Arrows instead. This patch adds Huntsman Arrows to the missing Container (bm_nordictomb_02).
-- [**MDMD - Fixes Add-On**](https://www.mediafire.com/file/fm4vlfbc43qbw0j/MDMD_-_Fixes_Add-On_v1.0.zip/file) by Sigourn  
+- [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/) by Sigourn  
 This patch addresses four issues with MDMD - More Deadly Morrowind Denizens: an item missing its enchantment (mdmd_bolvynamulet), a Hunger missing its new spells (hunger_az_01), an enchantment working on self instead of on strike (mdmd_mindelisword_en), and the Steel Helm belonging to Sjoring Hard-Heart not having being changed to an Adamantium Helm (to complete the change from a Steel set to an Adamantium set).
 - [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Includes the changes made by both mods to Arrille's inventory.
@@ -914,7 +914,7 @@ Undoes Merged Objects.ESP changes to the Imperial Netch Blade, Iron Spider Dagge
 
 Last but not least, there's an entirely optional patch you may want to install.
 
-- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://www.mediafire.com/file/iltul33ahqnpqs6/BTB%2527s_Game_Improvements_-_Necro_Edit_v2.0_%2528Sigourn_Edit%2529.zip/file) by Necrolesian and Sigourn  
+- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by Necrolesian and Sigourn  
 Patches BTB's Game Improvements - Necro Edit and BTBGI + MDMD - Creatures Patch to remove creature stat buffs carried over from Morrowind Advanced. Compatible with all BTBGI - Necro Edit patches linked earlier.
 
 ### Install order and load order
