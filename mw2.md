@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.5.3 (February 8th)
+Version 2.1.6 (February 9th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,22 @@ Version 2.1.5.3 (February 8th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.6</summary>
+
+- With this update, a new game is recommended.
+- Added Mistify (Visuals).
+- Added Cost Based Enchant Skill Progression (Gameplay).
+- Added MDMD - Fixes Add-On (Gameplay).
+- Added There Can Be Only Fixed (Gameplay).
+- Added BTBGI (Necro Edit) (Sigourn Edit) (Patches).
+- Removed There Can Be Only One (in favor of respecting the placement of fixed Daedric equipment in the game). 
+- Removed Adamantium Armor Integrated (I've decided to keep expansion content to its respective expansion).
+- Removed Expansions Integrated (I've decided to keep expansion content to its respective expansion).
+- Removed MDMD + Adamantium Armor Integrated Patch (not necessary anymore).
+- Removed MDMD + Expansions Integrated Patch (not necessary anymore).
+</details>
 
 <details>
   <summary>v2.1.5.3</summary>
@@ -622,6 +638,10 @@ Makes windows glow in the dark.
 - [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
 Adds a heat haze shader controller by MGE XE and MWSE-lua. Subtle overall, gets faster, stronger and closer when near lava pools.
   - The shader needs to be registered in MGE XE's Shader tab.
+- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+Replaces the vanilla mist effect.
+  - In the BAIN installer, tick **01 vanilla mist replacer** only.
+  - The complete mod is incompatible with **Bitter Coast Scum Replacer**.
 - [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
   - Install **Mist Retexture** only.
@@ -743,17 +763,9 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 ### Equipment
 
-- [**Adamantium Armor Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Necrolesian and Sigourn  
-Places one copy of each adamantium armor piece in Vvardenfell. They're not for sale.
-  - Edited version of [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) that allows you to find the Adamantium Helm on Vvardenfell.
-  - Note: the mod **Expansions Integrated (Sigourn Edit)** found below includes this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
-- [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Necrolesian and Sigourn  
-Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
-  - Edited version of [**Expansions Integrated**](https://www.nexusmods.com/morrowind/mods/47861) that removes the creature additions and also allows you to find the Adamantium Helm on Vvardenfell.
-  - Note: the mod **Adamantium Armor Integrated (Sigourn Edit)** found above is included in this mod and shouldn't be used alongside it. My personal recommendation is to stick with Expansions Integrated unless you are a vanilla purist.
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
 
@@ -761,6 +773,8 @@ Adds a lot of new marksman weapons in an attempt to improve progression and fill
 
 - [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
 An MWSE leveling mod that implements most features of Galsiah's Character Development. I strongly recommend you read the mod's page.
+- [**Cost Based Enchant Progression**](https://www.mediafire.com/file/udrqcrzrz9uatxz/Cost_Based_Enchant_Skill_Progression_v1.0.zip/file) by Greatness7 and Sigourn  
+Enchant skill advances based on the cost of the enchantment cast, calculated as if it was a spell.
 - [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 - [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
@@ -815,6 +829,8 @@ Eliminates trade exploits by overhauling the bartering mechanics.
   - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the investing feature and conflicting GMST changes with other mods in this setup.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
+Fixes the biggest exploits and balance issues in the game.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
@@ -841,9 +857,9 @@ Prevents souls of summoned creatures from being trapped. Configurable and expand
   - Hide *MDMD - Bosses Only.ESP*
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
-- [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) by Necrolesian  
-Makes Daedric weapons and armor pieces unique items; there will now be only one of each piece in the game (ammunition excluded).
-  - Hide all plugins except *There Can Be Only One (Alt Fyr).ESP*
+- [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
+Removes Daedric equipment from random loot, leveled lists, and respawnable enemies. Now there will be a set amount of Daedric pieces you will be able to find in the game, all in their vanilla locations.
+  - Edited version of [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) to remove the changes that make all Daedric pieces unique.
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
   - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
@@ -878,21 +894,28 @@ This section contains specific instructions for the (re)installation of the Morr
 
 Depending on which mods you've decided to install, there may be no patching at all to be done, or quite a bit of it. This section comes last because these patches can be safely installed once you are over with the rest (they contain no assets that require a special installation order).
 
-- [**Sigourn's Misc Mods and Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+If you have installed any of the following combinations, download and install the patches from the linked pages.
 
-If you have installed any of the following combinations, download and install the patches from the page linked above.
+- [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Patch for Purists reworks how four of Bloodmoon's containers Leveled Item lists work, fixing an issue where you could potentially find only one arrow or bolt in them. Hunter's Mark replaces the contents of three of these four fixed containers to guarantee Huntsman Arrows instead. This patch adds Huntsman Arrows to the missing Container (bm_nordictomb_02).
+- [**MDMD - Fixes Add-On**](https://www.mediafire.com/file/fm4vlfbc43qbw0j/MDMD_-_Fixes_Add-On_v1.0.zip/file) by Sigourn  
+This patch addresses four issues with MDMD - More Deadly Morrowind Denizens: an item missing its enchantment (mdmd_bolvynamulet), a Hunger missing its new spells (hunger_az_01), an enchantment working on self instead of on strike (mdmd_mindelisword_en), and the Steel Helm belonging to Sjoring Hard-Heart not having being changed to an Adamantium Helm (to complete the change from a Steel set to an Adamantium set).
+- [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Includes the changes made by both mods to Arrille's inventory.
+- [**BTBGI + MDMD - Creatures Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Includes the changes made by both mods to the Bonelord, Dremora, Dremora Lord, and Greater Ancestor Ghost creatures, as well as five Hunger variations.
+- [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
+  - In the BAIN installer, tick **04 Morrowind Anti-Cheese** only.
+- [**Yet Another Guard Diversity Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Adds Yet Another Guard Diversity support to the guards added by Morrowind Anti-Cheese and BTB's Game Improvements - Necro Edit.
+- [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Undoes Merged Objects.ESP changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens.
 
-- Hunter's Mark + Patch for Purists Patch
-- MDMD + Adamantium Armor Integrated Patch
-- MDMD + Expansions Integrated Patch
-- There Can Be Only One + MDMD Patch
-- BTBGI + Realistic Repair Add-on Patch
-- BTBGI + MDMD - Creatures Patch
-- Ownership Overhaul Patches
-  - Make sure to install the Morrowind Anti-Cheese option.
-- Yet Another Guard Diversity Patches
-  - These are entirely optional as they don't really modify the gameplay. But if you are like me and want everything nice and tidy, get them!
-- Merged Objects Anti-Suck
+Last but not least, there's an entirely optional patch you may want to install.
+
+- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://www.mediafire.com/file/iltul33ahqnpqs6/BTB%2527s_Game_Improvements_-_Necro_Edit_v2.0_%2528Sigourn_Edit%2529.zip/file) by Necrolesian and Sigourn  
+Patches BTB's Game Improvements - Necro Edit and BTBGI + MDMD - Creatures Patch to remove creature stat buffs carried over from Morrowind Advanced. Compatible with all BTBGI - Necro Edit patches linked earlier.
 
 ### Install order and load order
 
@@ -997,6 +1020,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
 - Heat Haze
+- Mistify
 - Mist Retexture
 - MWSE Blood Diversity
 - No Shield Sparkle
@@ -1044,11 +1068,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - Pluginless and Adjustable Lower First Person Sneak
 - Temples With Shrines
 - Wading in Water MW
-- Adamantium Armor Integrated
 - Area Effect Projectiles Integrated
-- Expansions Integrated
 - Hunter's Mark - A Marksman Mod
 - Class-Conscious Character Progression
+- Cost Based Enchant Skill Progression
 - Hold Your Breath
 - Magicka Based Skill Progression
 - Marksman Rebalanced
@@ -1078,15 +1101,16 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Repair Add-On
 - Sneaky Strike
 - Soulless Creatures
-- More Deadly Morrowind Denizens
+- MDMD - More Deadly Morrowind Denizens
+- MDMD - Fixes Add-On
 - Umbra - Blademaster
-- There Can Be Only One
+- There Can Be Only Fixed
 - BTB's Game Improvements - Necro Edit
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- Sigourn's Misc Mods and Patches
+- *Additional patches from the Patches section*
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1144,9 +1168,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
-- Adamantium Armor Integrated (Sigourn Edit).ESP **(Don't use it alongside Expansions Integrated)**
 - Area Effect Projectiles Integrated.ESP
-- Expansions Integrated (Sigourn Edit).ESP **(Don't use it alongside Adamantium Armor Integrated)**
 - Hunter's Mark - A Marksman Mod.ESP
 - Hunter's Mark PFP Patch.ESP
 - Blight is Coming.ESP
@@ -1159,12 +1181,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Morrowind Anti-Cheese - Yet Another Guard Diversity Patch.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
-- MDMD Adamantium Armor Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Expansions Integrated Patch)**
-- MDMD Expansions Integrated (Sigourn Edit) Patch.ESP **(Don't use it alongside the Adamantium Armor Integrated Patch)**
+- MDMD - Fixes Add-On.ESP
 - Umbra, Blademaster.ESP
-- There Can Be Only One (Alt Fyr).ESP
-- There Can Be Only One (Alt Fyr) MDMD Patch.ESP
-- There Can Be Only One MDMD - Creatures Patch.ESP
+- There Can Be Only Fixed.ESP
 - BTB's Game Improvements (Necro Edit).ESP
 - BTBGI PFP Patch.ESP
 - BTBGI Yet Another Guard Diversity Patch.ESP
