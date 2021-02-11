@@ -28,6 +28,15 @@ Version 1.0.1.1 (January 10th)
 ## CHANGELOG
 
 <details>
+  <summary>v1.0.2 (February 11th)</summary>
+  
+- Added Facelift Textures (Core).
+- Added Pluginless Khajiit Head Pack (Core).
+- Added Mist Retexture (Visuals).
+- Added Apel's Rain Replacer (Visuals).
+</details>
+
+<details>
   <summary>v1.0.1.1 (January 10th)</summary>
   
 - Added instructions to hide a mesh from Morrowind Optimization Patch.
@@ -137,12 +146,15 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ### HD textures
 
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
-Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Install **kart_facelift_meshes** only.
 - [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
   - In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
+- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
+  - Install **kart_facelift_meshes** and **kart_facelift_textures** only.
+- [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
+Pluginless replacer version of the 8 base khajiit heads.
+  - Install **Pluginless Khajiit Head Pack - Whiskers Version** only.
 
 ## UI AND HOTKEYS MODULE
 
@@ -262,6 +274,9 @@ Makes windows glow in the dark.
     - Hi-Res Window Texture Replacer.
   - Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
     - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+- [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+  - Install **Mist Retexture** only.
 - [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
   - In the BAIN installer, tick **faint** only.
@@ -270,6 +285,8 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ### Weather and Lighting
 
+- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
+Replaces rain with a more heavy rain look.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
   - Also install [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
@@ -359,8 +376,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - The Publicans
 - Expansion Delay
 - Early Transport to Mournhold
-- Facelift
 - Intelligent Textures
+- Facelift (Textures)
+- Facelift (Meshes)
+- Pluginless Khajiit Head Pack
 - Better Daedric Font
 - Better Dialogue Font
 - Comrade Raven's Book Arts Replacer
@@ -397,8 +416,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - Yet Another Guard Diversity - Regular
 - Glow in the Dahrk
 - Project Atlas - Glow in the Dahrk Patch
+- Mist Retexture
 - Subtle Magic Glow
 - Subtle Smoke
+- Apel's Rain Replacer
 - Let There Be Darkness - Lua Lighting Overhaul
 - Let There Be Darkness (No Level Design Lighting Preview Patch)
 - Weather Adjuster
