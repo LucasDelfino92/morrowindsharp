@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.6 (February 9th)
+Version 2.1.7 (February 9th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,13 @@ Version 2.1.6 (February 9th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.7</summary>
+
+- Added Pluginless Khajiit Head Pack (Core).
+- Moved BTBGI (Necro Edit) (Sigourn Edit) to the Gameplay section (it is no longer optional, but encouraged as the default option).
+</details>
 
 <details>
   <summary>v2.1.6</summary>
@@ -454,6 +461,9 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 - [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
   - Install **kart_facelift_meshes** and **kart_facelift_textures** only.
+- [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
+Pluginless replacer version of the 8 base khajiit heads.
+  - Install **Pluginless Khajiit Head Pack - Whiskers Version** only.
 
 ## UI AND HOTKEYS MODULE
 
@@ -862,6 +872,8 @@ Removes Daedric equipment from random loot, leveled lists, and respawnable enemi
   - Edited version of [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) to remove the changes that make all Daedric pieces unique.
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
+  - Also install [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by Necrolesian and Sigourn. Removes creature stat buffs carried over from Morrowind Advanced, which go against the design principles of other rebalances we have installed.
+    - In the BAIN installer, install all options.
   - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -894,7 +906,7 @@ This section contains specific instructions for the (re)installation of the Morr
 
 Depending on which mods you've decided to install, there may be no patching at all to be done, or quite a bit of it. This section comes last because these patches can be safely installed once you are over with the rest (they contain no assets that require a special installation order).
 
-If you have installed any of the following combinations, download and install the patches from the linked pages.
+If appropriate, download and install the following patches:
 
 - [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Patch for Purists reworks how four of Bloodmoon's containers Leveled Item lists work, fixing an issue where you could potentially find only one arrow or bolt in them. Hunter's Mark replaces the contents of three of these four fixed containers to guarantee Huntsman Arrows instead. This patch adds Huntsman Arrows to the missing Container (bm_nordictomb_02).
@@ -902,8 +914,6 @@ Patch for Purists reworks how four of Bloodmoon's containers Leveled Item lists 
 This patch addresses four issues with MDMD - More Deadly Morrowind Denizens: an item missing its enchantment (mdmd_bolvynamulet), a Hunger missing its new spells (hunger_az_01), an enchantment working on self instead of on strike (mdmd_mindelisword_en), and the Steel Helm belonging to Sjoring Hard-Heart not having being changed to an Adamantium Helm (to complete the change from a Steel set to an Adamantium set).
 - [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Includes the changes made by both mods to Arrille's inventory.
-- [**BTBGI + MDMD - Creatures Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Includes the changes made by both mods to the Bonelord, Dremora, Dremora Lord, and Greater Ancestor Ghost creatures, as well as five Hunger variations.
 - [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
   - In the BAIN installer, tick **04 Morrowind Anti-Cheese** only.
@@ -911,11 +921,6 @@ Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
 Adds Yet Another Guard Diversity support to the guards added by Morrowind Anti-Cheese and BTB's Game Improvements - Necro Edit.
 - [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 Undoes Merged Objects.ESP changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens.
-
-Last but not least, there's an entirely optional patch you may want to install.
-
-- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by Necrolesian and Sigourn  
-Patches BTB's Game Improvements - Necro Edit and BTBGI + MDMD - Creatures Patch to remove creature stat buffs carried over from Morrowind Advanced. Compatible with all BTBGI - Necro Edit patches linked earlier.
 
 ### Install order and load order
 
@@ -953,6 +958,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Intelligent Textures
 - Facelift (Meshes)
 - Facelift (Textures)
+- Pluginless Khajiit Head Pack - Whiskers Version
 - Better Daedric Font
 - Better Dialogue Font
 - Chocolate UI
@@ -1106,6 +1112,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Umbra - Blademaster
 - There Can Be Only Fixed
 - BTB's Game Improvements - Necro Edit
+- BTB's Game Improvements - Necro Edit (Sigourn Edit)
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
