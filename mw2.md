@@ -839,7 +839,7 @@ Provides a configurable restriction on the amount of potions and ingredients the
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
 Increases the penalties for crime.
   - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
-- [**HardTrade v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file) by Archimag  
+- [**HardTrade v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file) by Archimag and Sigourn  
 Eliminates trade exploits by overhauling the bartering mechanics.
   - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the investing feature and conflicting GMST changes with other mods in this setup.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
@@ -865,10 +865,9 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
-- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
+- [**Morrowind Anti-Cheese v1.2 - Ownership Overhaul Compatible**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
-  - Also install [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
-    - In the BAIN installer, tick **04 Morrowind Anti-Cheese** only.
+  - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for increased compatibility with Ownership Overhaul.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -878,10 +877,10 @@ Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging op
 - [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
 Removes Daedric equipment from random loot, leveled lists, and respawnable enemies. Now there will be a set amount of Daedric pieces you will be able to find in the game, all in their vanilla locations.
   - Edited version of [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) to remove the changes that make all Daedric pieces unique.
-- [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
+- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - Also install [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by Necrolesian and Sigourn. Removes creature stat buffs carried over from Morrowind Advanced, which go against the design principles of other rebalances we have installed.
-    - In the BAIN installer, tick both **00 BTBGI (Necro Edit) (Sigourn Edit)** and **01 MDMD - Creatures Patch**.
+  - Edited version of [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?) that removes Morrowind Advanced's creature stat buffs.
+  - Also install the **BTBGI (Sigourn Edit) MDMD - Creatures Patch** file.
   - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Includes the changes made by both mods to Arrille's inventory.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -1095,14 +1094,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Repair Add-On
 - Sneaky Strike
 - Soulless Creatures
-- Morrowind Anti-Cheese
-- Ownership Overhaul Patches (Morrowind Anti-Cheese Patch)
+- Morrowind Anti-Cheese v1.2 - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
 - MDMD - Fixes Add-On
 - Umbra - Blademaster
 - There Can Be Only Fixed
-- BTB's Game Improvements - Necro Edit
 - BTB's Game Improvements - Necro Edit (Sigourn Edit)
+- BBTGI (Sigourn Edit) MDMD - Creatures Patch
 - BTBGI Realistic Repair Add-On Patch
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
