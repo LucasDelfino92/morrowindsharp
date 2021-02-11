@@ -55,6 +55,9 @@ Version 2.1.7 (February 9th)
 </details>
 
 <details>
+  <summary>v2.1.5.3 and earlier</summary>
+
+<details>
   <summary>v2.1.5.3</summary>
 
 - Added new tes3cmd instructions to Conflict resolution.
@@ -370,6 +373,7 @@ Removed the following mods:
 - **Its a Deal. (Added back in v2.1.0.0)**
 - **Tunnel Cough. (Added back in v2.1.0.0)**
 - Imperial Silver Armour.
+</details>
 </details>
 
 ## INTRODUCTION
@@ -778,6 +782,7 @@ An alternative version of the official plugin Area Effect Arrows that distribute
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
+  - Also install [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Adds Huntsman Arrows to a container edited by Patch for Purists but missed by Hunter's Mark (bm_nordictomb_02).
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -839,8 +844,6 @@ Eliminates trade exploits by overhauling the bartering mechanics.
   - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the investing feature and conflicting GMST changes with other mods in this setup.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
-Fixes the biggest exploits and balance issues in the game.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
@@ -862,9 +865,14 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
+Fixes the biggest exploits and balance issues in the game.
+  - Also install [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
+    - In the BAIN installer, tick **04 Morrowind Anti-Cheese** only.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
+  - Also install [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/) by Sigourn. Addresses a number of issues with MDMMD.
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 - [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
@@ -873,17 +881,18 @@ Removes Daedric equipment from random loot, leveled lists, and respawnable enemi
 - [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129) by BTB and Necrolesian  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
   - Also install [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by Necrolesian and Sigourn. Removes creature stat buffs carried over from Morrowind Advanced, which go against the design principles of other rebalances we have installed.
-    - In the BAIN installer, install all options.
-  - Note that this mod, in tandem with **Balanced Passive Races and Birthsigns**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
+    - In the BAIN installer, tick both **00 BTBGI (Necro Edit) (Sigourn Edit)** and **01 MDMD - Creatures Patch**.
+  - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Includes the changes made by both mods to Arrille's inventory.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-  - Note that this mod, in tandem with **BTB's Game Improvements - Necro Edit**, will cause certain NPCs to stop wearing their armor as the increased Unarmored skill encourages them to go around without it. Another mod in this guide, **Nimble Armor**, helps bypass this issue by removing the Armor bonus from the Unarmored skill, making it focus solely on Evasion.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+- [**Yet Another Guard Diversity Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Adds Yet Another Guard Diversity support to the guards added by Morrowind Anti-Cheese and BTB's Game Improvements - Necro Edit.
 
 ## FINISHING TOUCHES
 
@@ -891,36 +900,14 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 This section contains specific instructions for the (re)installation of the Morrowind Code Patch, which you should have installed already in the **Setup** page. These instructions are mod-specific, hence why they were not mentioned in **Setup**.
 
-- If you installed **BTB's Game Improvements - Necro Edit**, install the following patch:
-  - (Mod specific) Weapon resistance change
-    - Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. BTBGI's relies on this patch for its weapon resistance changes to work as intended.
-- If you installed **BTB's Game Improvements - Necro Edit** and **Controlled Consumption (MMC Edit)**, install the following patch:
-  - (Game mechanics) Healthy appetite
-    - Eating ingredients always succeeds, giving its first effect and skill advancement. To prevent the cheesing of this patch, BTBGI removes the skill gain for consuming ingredients, and Controlled Consumption prevents you from spamming their consumption for overpowered effects.
-- If you installed **BTB's Game Improvements - Necro Edit**, **Balanced Passive Races and Birthsigns**, or **Class-Conscious Character Progression**, install the following patches:
-  - (Game mechanics) Attribute uncap
-  - (Game mechanics) Skill uncap
-    - Allows levelling of the eight main attributes and player skills past 100.
-
-### Patches
-
-Depending on which mods you've decided to install, there may be no patching at all to be done, or quite a bit of it. This section comes last because these patches can be safely installed once you are over with the rest (they contain no assets that require a special installation order).
-
-If appropriate, download and install the following patches:
-
-- [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Patch for Purists reworks how four of Bloodmoon's containers Leveled Item lists work, fixing an issue where you could potentially find only one arrow or bolt in them. Hunter's Mark replaces the contents of three of these four fixed containers to guarantee Huntsman Arrows instead. This patch adds Huntsman Arrows to the missing Container (bm_nordictomb_02).
-- [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/) by Sigourn  
-This patch addresses four issues with MDMD - More Deadly Morrowind Denizens: an item missing its enchantment (mdmd_bolvynamulet), a Hunger missing its new spells (hunger_az_01), an enchantment working on self instead of on strike (mdmd_mindelisword_en), and the Steel Helm belonging to Sjoring Hard-Heart not having being changed to an Adamantium Helm (to complete the change from a Steel set to an Adamantium set).
-- [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Includes the changes made by both mods to Arrille's inventory.
-- [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Patches Morrowind Anti-Cheese for compatibility with Ownership Overhaul.
-  - In the BAIN installer, tick **04 Morrowind Anti-Cheese** only.
-- [**Yet Another Guard Diversity Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Adds Yet Another Guard Diversity support to the guards added by Morrowind Anti-Cheese and BTB's Game Improvements - Necro Edit.
-- [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Undoes Merged Objects.ESP changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens.
+- (Game mechanics) Healthy appetite
+  - Eating ingredients always succeeds, giving its first effect and skill advancement. **BTB's Game Improvements** removes the skill gain for consuming ingredients, and **Controlled Consumption (MMC Edit)** prevents you from spamming their consumption for overpowered effects.
+- (Game mechanics) Attribute uncap
+  - Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
+- (Game mechanics) Skill uncap
+  - Allows levelling of player skills past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
+- (Mod specific) Weapon resistance change
+  - Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **BTB's Game Improvements** relies on this patch for its weapon resistance changes to work as intended.
 
 ### Install order and load order
 
@@ -1076,6 +1063,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Wading in Water MW
 - Area Effect Projectiles Integrated
 - Hunter's Mark - A Marksman Mod
+- Hunter's Mark Patch for Purists Patch
 - Class-Conscious Character Progression
 - Cost Based Enchant Skill Progression
 - Hold Your Breath
@@ -1107,17 +1095,19 @@ The installation order dictates the priority a given mod's assets have over the 
 - Realistic Repair Add-On
 - Sneaky Strike
 - Soulless Creatures
+- Morrowind Anti-Cheese
+- Ownership Overhaul Patches (Morrowind Anti-Cheese Patch)
 - MDMD - More Deadly Morrowind Denizens
 - MDMD - Fixes Add-On
 - Umbra - Blademaster
 - There Can Be Only Fixed
 - BTB's Game Improvements - Necro Edit
 - BTB's Game Improvements - Necro Edit (Sigourn Edit)
+- BTBGI Realistic Repair Add-On Patch
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
 - Tribunal Rebalance
-- *Additional patches from the Patches section*
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1202,9 +1192,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
 - Bloodmoon Rebalance.ESP
-- multipatch.ESP
-- Merged Objects.ESP
-- **Merged Objects Anti-Suck.ESP**
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
 - **Rem_AL.ESP**
@@ -1213,20 +1200,25 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - **Rem_Solstheim.ESP**
 - **Rem_WG.ESP**
 
-There are a couple of notes here:
-
-- We will generate multipatch.ESP and Merged Objects.ESP in a moment. For these processes, make sure you deactivate all bolded plugins.
-- The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
+The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
 ### Conflict resolution
+
+Assuming you've installed **BTB's Game Improvements - Necro Edit** and **Balanced Passive Races and Birthsigns**, there's one record we need to delete using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+
+- Delete the following record from **BTB's Game Improvements (Necro Edit).ESP**:
+  - BSGN **Elfborn** 
+    - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
+
+Let's continue with general conflict solving.  
 
 tes3cmd lets us clean all active plugins in our load order, and also solve conflicts in leveled lists, generating a **multipatch.esp** file for the latter process which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
 - Run WryeMash in MO2.
 - In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first!
 - Now, click *Misc* on the header and go to **TES3cmd** -> **Fixit (all active)**.
-- tes3cmd will now clean your dirty plugins and also generate a multipatch.esp. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order.
+- tes3cmd will now clean your dirty plugins and also generate a multipatch.esp. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order. Make sure you activate it.
 - In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. This will deactivate this option, since you don't need it anymore.
 
 Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
@@ -1237,16 +1229,13 @@ Because tes3cmd will clean dirty records (records identical to those present in 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
-- **Merged Objects.ESP** will now be present at the end of your load order.
-- You can now activate the Merged Objects Anti-Suck.ESP. This will undo the changes Merged Objects makes to the **iron spider dagger**, **imperial netch blade**, **Stormkiss**, and **sjoring hard-heart** records. Please keep in mind this plugin is provided "as is" for use with this guide. If you have additional mods that modify these records, you will probably have to fix issues on your own.
+- **Merged Objects.ESP** will now be present at the end of your load order. Make sure you activate it.
 
-Finally, there are additional steps to take using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), assuming you've installed the mods mentioned below.
+Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens. To fix this, install and activate the following plugin.
 
-- Delete the following records from **BTB's Game Improvements (Necro Edit).ESP** for compatibility with **Balanced Passive Races and Birthsigns.ESP**:
-  - BSGN **Elfborn** 
-    - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
+- [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 
-With this, we've finished our conflict solving.
+With this, our conflict solving is over and done with.
 
 ### Synchronizing mod masters
 
