@@ -638,7 +638,7 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 - [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-Zero  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
-  - Also install [**Flies Fixed**](https://cdn.discordapp.com/attachments/218457935846703104/803267311246245908/Flies.ESP) by ProfArmitage. Fixes flies appearing underwater.
+  - Also install [**Flies Fixed**](https://cdn.discordapp.com/attachments/218457935846703104/803267311246245908/Flies.ESP) by ProfArmitage, which fixes flies appearing underwater.
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk and NullCascade  
 Makes windows glow in the dark.
   - In the FOMOD installer, install the following options:
@@ -680,7 +680,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 Replaces rain with a more heavy rain look.
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-  - Also install [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file). Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
+  - Also install the [**No Level Design Lighting Preview Patch**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file), which solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced. Make sure you only install this mod for version 1.1 of Let There Be Darkness.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 - [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
@@ -706,9 +706,9 @@ Removes the sheep sounds from Morrowind.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 - [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
-Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
 - [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-Zero  
-With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-Zero  
 Makes all Miner class NPCs periodically cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
@@ -717,7 +717,7 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 ## DIALOGUE AND QUESTS MODULE
 
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
-In the vanilla game, you were supposed to have to purchase "Hospitality Papers" before being able to get services in Sadrith Mora. This mod reimplements the need of Hospitality Papers.
+You will need to purchase Hospitality Papers to get services in Sadrith Mora, as intended in the vanilla game.
 - [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
@@ -733,7 +733,7 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**LDM - Choices & Consequences v0.46 (Morrowind# Compatible)**](https://www.mediafire.com/file/owmjxwzbysfolfs/LDM+-+Choices+and+Consequences+v0.46+alpha+(Morrowind#+Compatible).zip/file) by Lucevar  
-A quest tweaks module for LDM that attempts to provide more roleplay options, more noticeable NPC reactions and consequences for completing quests (depending of course on HOW you complete them), and overall a more reactive game world. This mod is currently in **beta**. [**You can follow the mod's progress and report issues here.**](https://discord.com/channels/210394599246659585/677279423250038834)
+Provide more roleplay options, more noticeable NPC reactions and consequences for completing quests, and overall a more reactive game world.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
@@ -746,9 +746,9 @@ Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward
 ### Quality of life improvements
 
 - [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?) by Half11  
-Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
   - Hide *Better Propylon Teleport Warp.ESP*
@@ -763,7 +763,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
   - In the BAIN installer, tick **00 Core + Vanilla Meshes** only.
   - Also install **GH Patches and Replacers**.
     - In the BAIN installer, tick **10 Atlas - Vanilla BC Mushrooms** only.
-  - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by GrunTella. Picking a glowing plant will also remove the glow-light.
+  - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864), which makes picking a glowing plant also remove the glow-light.
 - [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 - [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
@@ -779,8 +779,8 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
-Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons. All weapons have been seamlessly integrated into the game world via leveled lists and other means. The new Stalhrim items can be crafted in the same way as the vanilla items. All weapons have sheaths and quivers that are compatible with Weapon Sheathing.
-  - Also install [**Hunter's Mark + Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Adds Huntsman Arrows to a container edited by Patch for Purists but missed by Hunter's Mark (bm_nordictomb_02).
+Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game, integrated into the game world, leveled lists, and other means.
+  - Also install [**Hunter's Mark Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232), which adds Huntsman Arrows to a container edited by Patch for Purists but missed by Hunter's Mark (bm_nordictomb_02).
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -855,7 +855,7 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
   - Hide *Realistic_Repair_Optional.ESP*
-  - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair83. Adds new repair stations throughout the world.
+  - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461), which adds new repair stations throughout the world.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
@@ -865,7 +865,7 @@ Fixes the biggest exploits and balance issues in the game.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
-  - Also install [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/) by Sigourn. Addresses a number of issues with MDMMD.
+  - Also install [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/), which addresses a number of issues with MDMMD.
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 - [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
@@ -875,8 +875,8 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
   - Delete the following record from **BTB's Game Improvements (Necro Edit).ESP** using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame):
     - BSGN **Elfborn** 
   - This omits one birthsign tweak which **Balanced Passive Races and Birthsigns.ESP** doesn't cover.
-  - Also install the **BTBGI (Sigourn Edit) MDMD - Creatures Patch** file.
-  - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Includes the changes made by both mods to Arrille's inventory.
+  - Also install the **BTBGI (Sigourn Edit) MDMD - Creatures Patch** file, which patches conflicting creatures to include both mods' edits.
+  - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232), which patches Arrille to include both mods' edits.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
