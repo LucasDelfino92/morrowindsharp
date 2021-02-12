@@ -34,7 +34,7 @@ Version 2.1.8 (February 12th)
 <details>
   <summary>v2.1.8</summary>
 
-- Updated BTBGI (Necro Edit) (Sigourn Edit).
+- Updated BTBGI - Necro Edit (Morrowind#) (Gameplay).
 - Removed Caldera Mages Guild Guarded Alchemy Set (not really necessary when using Morrowind Anti-Cheese and BTBGI).
 - Removed There Can Be Only Fixed (merged into BTBGI (Necro Edit) (Sigourn Edit)).
 - Removed Yet Another Guard Diversity Patches (two extra plugins for a handful of guards isn't worth the hassle).
