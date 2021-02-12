@@ -224,8 +224,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 This is an additional, beta patch for MGE XE that reduces light seams.
 
-- Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, overwriting when prompted.
-- Make a zip file out of the remaining **Data Files** folder and rename the .zip to **MGE XE PPL Beta Data Files**.
+- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
 
 ### INSTALLING SHADERS
 
@@ -234,6 +233,7 @@ MGE XE receives constant support from the dedicated modding community, generally
 The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
 
 - [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
+  - This is a required install. Without it, you will encounter issues in your game.
 - [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
 Reworked version of the MGE XE standard water shader.
   - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
