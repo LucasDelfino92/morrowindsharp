@@ -1,6 +1,6 @@
 # MORROWIND++
 
-Version 1.0.1.1 (January 10th)
+Version 1.0.2 (February 11th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -357,7 +357,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - DLC: Tribunal
 - DLC: Bloodmoon
 - MGE XE Data Files
-- MGE XE PPL Beta Data Files
 - MGE XE Shader - 16 Lights Shaders Alpha
 - MGE XE Shader - Deband Fogaware v2
 - MGE XE Shader - EdgeAA
