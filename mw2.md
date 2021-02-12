@@ -27,6 +27,7 @@ Version 2.1.7 (February 9th)
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
+- [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#credits)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
@@ -604,7 +605,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
 - [**Snow Prince Armor Redux (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Saint_Jiub, Moranar, and Sigourn  
 Remodel and retexture of the Ancient Steel Armor set found in Bloodmoon.
-  - This is an edit of [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?) that adds unique icons to the armor, fixes an issue with the helm not using its new unique model, and optimizes the textures for a smaller download.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
@@ -623,9 +623,8 @@ Adds new animated NPCs to the world, and gives animations to some Npcs of the or
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
-- [**Incarnates Overhauled (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Aoimevelho  
+- [**Incarnates Overhauled (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Aoimevelho and Sigourn  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
-  - Edited version of [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/) that removes all cavern edits.
 - [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
 Replaces the Silt Strider model with one according to fan art.
   - In the BAIN installer, tick **h8 vanilla - high res textures** only.
@@ -735,7 +734,6 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 - [**LDM - Choices & Consequences v0.46 (Morrowind# Compatible)**](https://www.mediafire.com/file/owmjxwzbysfolfs/LDM+-+Choices+and+Consequences+v0.46+alpha+(Morrowind#+Compatible).zip/file) by Lucevar  
 A quest tweaks module for LDM that attempts to provide more roleplay options, more noticeable NPC reactions and consequences for completing quests (depending of course on HOW you complete them), and overall a more reactive game world. This mod is currently in **beta**. [**You can follow the mod's progress and report issues here.**](https://discord.com/channels/210394599246659585/677279423250038834)
-  - Edited to remove the Quarantined Vvardenfell lines, as **Early Transport to Mournhold** includes similar lines.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
@@ -819,7 +817,6 @@ Changes how quickly time passes in-game depending on where you are and what you'
 Adds in lock-bashing from Daggerfall.
 - [**Lucky Strike - A Critical Hit Mod (MMC Edit)**](https://cdn.discordapp.com/attachments/218457935846703104/803328785436115004/Lucky_Strike_-_A_Critical_Hit_Mod_v1.0_MMC_Edit.zip) by R-Zero and the Morrowind Modding Community  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
-  - Edited version of [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) that fixes some issues with the mod that prevented it from working correctly.
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843/) by Caeris  
 Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows you from being a member of both factions, adds missing temple markers, and adds healing services to healers.
   - Install **No Quest Changes** only.
@@ -835,13 +832,11 @@ Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a su
 Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**Controlled Consumption v1.3.0 (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by NullCascade and the Morrowind Modding Community  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-  - Edited version of [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) which also restricts ingredient consumption.
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
 Increases the penalties for crime.
   - Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
-- [**HardTrade v1.2 (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file) by Archimag and Sigourn  
+- [**HardTrade (Sigourn Edit)**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file) by Archimag and Sigourn  
 Eliminates trade exploits by overhauling the bartering mechanics.
-  - Edited version of [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368) that removes the investing feature and conflicting GMST changes with other mods in this setup.
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 - [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
@@ -865,9 +860,8 @@ Overhauls the repair mechanic so that repair hammers can only be used by activat
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
-- [**Morrowind Anti-Cheese v1.2 - Ownership Overhaul Compatible**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/) by Remiros and Half11  
+- [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
-  - Edited version of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) for increased compatibility with Ownership Overhaul.
 - [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
   - Hide *MDMD - Bosses Only.ESP*
@@ -876,10 +870,11 @@ Fixes the biggest exploits and balance issues in the game.
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 - [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
 Removes Daedric equipment from random loot, leveled lists, and respawnable enemies. Now there will be a set amount of Daedric pieces you will be able to find in the game, all in their vanilla locations.
-  - Edited version of [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766) to remove the changes that make all Daedric pieces unique.
 - [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - Edited version of [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?) that removes Morrowind Advanced's creature stat buffs.
+  - Delete the following record from **BTB's Game Improvements (Necro Edit).ESP** using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame):
+    - BSGN **Elfborn** 
+  - This omits one birthsign tweak which **Balanced Passive Races and Birthsigns.ESP** doesn't cover.
   - Also install the **BTBGI (Sigourn Edit) MDMD - Creatures Patch** file.
   - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn. Includes the changes made by both mods to Arrille's inventory.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
@@ -1203,14 +1198,6 @@ The plugins from **Remiros' Groundcover** should only be enabled when generating
 
 ### Conflict resolution
 
-Assuming you've installed **BTB's Game Improvements - Necro Edit** and **Balanced Passive Races and Birthsigns**, there's one record we need to delete using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
-
-- Delete the following record from **BTB's Game Improvements (Necro Edit).ESP**:
-  - BSGN **Elfborn** 
-    - Omits the addition of a new power which Balanced Passive Races and Birthsigns doesn't override.
-
-Let's continue with general conflict solving.  
-
 tes3cmd lets us clean all active plugins in our load order, and also solve conflicts in leveled lists, generating a **multipatch.esp** file for the latter process which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
 - Run WryeMash in MO2.
@@ -1341,6 +1328,20 @@ The mods installed in this guide and configured as mentioned above will use the 
 - **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
 - **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
 - **Torch Hotkey**: **C** key to equip light sources.
+
+## CREDITS
+
+I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
+
+- Saint_Jiub and Moranar, for [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?), which was edited to add Moranar's unique icons to the armor, as well as to optimize the textures present in the mod and fix an issue with the helm not using its new unique model.
+- Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
+- Lucevar, for [**LDM - Choices & Consequences**](https://discord.com/channels/210394599246659585/677279423250038834), which was edited for compatibility with **Early Transport to Mournhold**.
+- R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
+- NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624), which was edited to include ingredient consumption restrictions.
+- Archimag, for [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368), which was edited to remove the investing feature and unwanted GMST changes for compatibility with other mods.
+- Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which was edited for compatibility with **Ownership Overhaul**.
+- Necrolesian, for [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766), which was edited to remove all changes to availability of fixed and random Daedric equipment.
+- BTB and Necrolesian, for [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?), which was edited to remove Morrowind Advanced's creature stat buffs.
 
 ## COMPATIBILITY
 
