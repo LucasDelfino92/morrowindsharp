@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.7 (February 9th)
+Version 2.1.8 (February 12th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,15 @@ Version 2.1.7 (February 9th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.8</summary>
+
+- Updated BTBGI (Necro Edit) (Sigourn Edit).
+- Removed Caldera Mages Guild Guarded Alchemy Set (not really necessary when using Morrowind Anti-Cheese and BTBGI).
+- Removed There Can Be Only Fixed (merged into BTBGI (Necro Edit) (Sigourn Edit)).
+- Removed Yet Another Guard Diversity Patches (two extra plugins for a handful of guards isn't worth the hassle).
+</details>
 
 <details>
   <summary>v2.1.7</summary>
@@ -827,8 +836,6 @@ Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a su
 
 > Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
 
-- [**Caldera Mages Guild Guarded Alchemy Set**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Moves Ernand Thierry to the top of the Caldera Mages Guild tower, to protect the previously unprotected Alchemy set.
 - [**Controlled Consumption v1.3.0 (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by NullCascade and the Morrowind Modding Community  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 - [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?) by HotFusion, BTB, and Necrolesian  
@@ -867,15 +874,13 @@ Fixes the biggest exploits and balance issues in the game.
   - Also install [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/), which addresses a number of issues with MDMMD.
 - [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
-- [**There Can Be Only Fixed**](https://www.mediafire.com/file/hjcgfczwcdvlevf/There_Can_Be_Only_Fixed_v1.0.zip/file) by Necrolesian and Sigourn  
-Removes Daedric equipment from random loot, leveled lists, and respawnable enemies. Now there will be a set amount of Daedric pieces you will be able to find in the game, all in their vanilla locations.
-- [**BTB's Game Improvements - Necro Edit v2.0 (Sigourn Edit)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
+- [**BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - Delete the following record from **BTB's Game Improvements (Necro Edit).ESP** using [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame):
-    - BSGN **Elfborn** 
-  - This omits one birthsign tweak which **Balanced Passive Races and Birthsigns.ESP** doesn't cover.
-  - Also install the **BTBGI (Sigourn Edit) MDMD - Creatures Patch** file, which patches conflicting creatures to include both mods' edits.
-  - Also install [**BTBGI + Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/49232), which patches Arrille to include both mods' edits.
+  - Install **BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)** only.
+  - In the BAIN installer, tick the following options:
+    - **00 BTBGI Necro Edit (Morrowind#)**
+    - **01 BTBGI Necro Edit Realistic Repair Add-On Patch**
+    - **02 BTBGI Necro Edit (Morrowind#) MDMD - Creatures Patch**
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
@@ -884,8 +889,6 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-- [**Yet Another Guard Diversity Patches**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-Adds Yet Another Guard Diversity support to the guards added by Morrowind Anti-Cheese and BTB's Game Improvements - Necro Edit.
 
 ## FINISHING TOUCHES
 
@@ -1070,13 +1073,12 @@ The installation order dictates the priority a given mod's assets have over the 
 - Creeping Blight
 - Dynamic Timescale
 - Lua Lockbashing
-- Lucky Strike - A Critical Hit Mod
+- Lucky Strike - A Critical Hit Mod (MMC Edit)
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
-- Caldera Mages Guild Guarded Alchemy Set
 - Controlled Consumption (MMC Edit)
 - Economy Adjuster Adjustments
-- HardTrade
+- HardTrade (Sigourn Edit)
 - Limited Leaping
 - Nimble Armor
 - No Disease Labels
@@ -1092,10 +1094,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - MDMD - More Deadly Morrowind Denizens
 - MDMD - Fixes Add-On
 - Umbra - Blademaster
-- There Can Be Only Fixed
-- BTB's Game Improvements - Necro Edit (Sigourn Edit)
-- BBTGI (Sigourn Edit) MDMD - Creatures Patch
-- BTBGI Realistic Repair Add-On Patch
+- BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
@@ -1163,19 +1162,14 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
-- Caldera Mages Guild Guarded Alchemy Set.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
-- Morrowind Anti-Cheese - Yet Another Guard Diversity Patch.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD - Fixes Add-On.ESP
 - Umbra, Blademaster.ESP
-- There Can Be Only Fixed.ESP
 - BTB's Game Improvements (Necro Edit).ESP
-- BTBGI PFP Patch.ESP
-- BTBGI Yet Another Guard Diversity Patch.ESP
 - BTBGI Realistic Repair Add-on Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
 - Snow Prince Armor Redux.ESP
