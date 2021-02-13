@@ -38,7 +38,10 @@ Version 2.1.8.1 (February 13th)
 - Removed Realistic Repair (the "repair stations" feature goes against the intention of BTBGI's tweaks, while the "damaged loot" feature makes it much harder to get cash when using HardTrade).
   - Also removed Realistic Repair Add-On.
   - Also removed BTBGI Realistic Repair Add-On Patch.
-- Removed Hunter's Mark Patch for Purists Patch (my patch doesn't work as I intended it to, and there are quite a few issues with Hunter's Mark - A Marksman Mod's new equipment implementation that require a whole new patch).
+- Removed Hunter's Mark - A Marksman Mod (sadly the integration leaves a lot to be desired when it comes to the projectiles; this is to blame on the game's vanilla leveled lists more than the mod itself).
+  - Also removed Hunter's Mark Patch for Purists Patch (my patch doesn't work as I intended it to anyhow).
+- Removed the Equipment section.
+  - Moved Area Effect Projectiles Integrated to the New mechanics section.
 </details>
 
 <details>
@@ -788,14 +791,6 @@ There are numerous temples that don't have any shrines inside. This mod adds shr
 - [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-Zero  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-### Equipment
-
-- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
-- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
-Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game, integrated into the game world, leveled lists, and other means.
-
 ### Leveling/Attributes/Skills tweaks
 
 - [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
@@ -816,6 +811,9 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New mechanics
 
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
@@ -1057,9 +1055,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Pluginless and Adjustable Lower First Person Sneak
 - Temples With Shrines
 - Wading in Water MW
-- Area Effect Projectiles Integrated
-- Hunter's Mark - A Marksman Mod
-- Hunter's Mark Patch for Purists Patch
 - Class-Conscious Character Progression
 - Cost Based Enchant Skill Progression
 - Hold Your Breath
@@ -1067,6 +1062,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Wings of Will - Willpower Based Levitation Speed
+- Area Effect Projectiles Integrated
 - Blight is Coming
 - Blighted Blight
 - Brutal Backstabbing
@@ -1155,7 +1151,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
 - Area Effect Projectiles Integrated.ESP
-- Hunter's Mark - A Marksman Mod.ESP
 - Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
