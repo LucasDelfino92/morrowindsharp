@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.8 (February 12th)
+Version 2.1.8.1 (February 13th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,15 @@ Version 2.1.8 (February 12th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.8.1</summary>
+
+- Removed Realistic Repair (the "repair stations" feature goes against the intention of BTBGI's tweaks, while the "damaged loot" feature makes it much harder to get cash when using HardTrade).
+  - Also removed Realistic Repair Add-On.
+  - Also removed BTBGI Realistic Repair Add-On Patch.
+- Removed Hunter's Mark Patch for Purists Patch (my patch doesn't work as I intended it to, and there are quite a few issues with Hunter's Mark - A Marksman Mod's new equipment implementation that require a whole new patch).
+</details>
 
 <details>
   <summary>v2.1.8</summary>
@@ -788,7 +797,6 @@ An alternative version of the official plugin Area Effect Arrows that distribute
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
 Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game, integrated into the game world, leveled lists, and other means.
-  - Also install [**Hunter's Mark Patch for Purists Patch**](https://www.nexusmods.com/morrowind/mods/49232), which adds Huntsman Arrows to a container edited by Patch for Purists but missed by Hunter's Mark (bm_nordictomb_02).
 
 ### Leveling/Attributes/Skills tweaks
 
@@ -858,10 +866,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
   - Hide/disable *Ownership Overhaul.ESP*
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-- [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
-Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
-  - Hide *Realistic_Repair_Optional.ESP*
-  - Also install [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461), which adds new repair stations throughout the world.
 - [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
 Modifies critical strike coefficient depending on the weapon you use.
 - [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by akh  
@@ -879,7 +883,6 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
   - Install **BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)** only.
   - In the BAIN installer, tick the following options:
     - **00 BTBGI Necro Edit (Morrowind#)**
-    - **01 BTBGI Necro Edit Realistic Repair Add-On Patch**
     - **02 BTBGI Necro Edit (Morrowind#) MDMD - Creatures Patch**
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -1086,15 +1089,13 @@ The installation order dictates the priority a given mod's assets have over the 
 - No Taunting
 - Ownership Overhaul
 - Realistic Movement Speeds
-- Realistic Repair
-- Realistic Repair Add-On
 - Sneaky Strike
 - Soulless Creatures
-- Morrowind Anti-Cheese v1.2 - Ownership Overhaul Compatible
+- Morrowind Anti-Cheese - Ownership Overhaul Compatible
 - MDMD - More Deadly Morrowind Denizens
 - MDMD - Fixes Add-On
 - Umbra - Blademaster
-- BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)
+- BTB's Game Improvements - Necro Edit (Morrowind#)
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Bloodmoon Rebalance
@@ -1158,19 +1159,16 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Temples With Shrines.ESP
 - Area Effect Projectiles Integrated.ESP
 - Hunter's Mark - A Marksman Mod.ESP
-- Hunter's Mark PFP Patch.ESP
 - Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
 - EcoAdjCrime (Necro Edit).ESP
-- Realistic_Repair_Add-on.ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
 - MDMD - Creatures Add-On.ESP
 - MDMD - Fixes Add-On.ESP
 - Umbra, Blademaster.ESP
 - BTB's Game Improvements (Necro Edit).ESP
-- BTBGI Realistic Repair Add-on Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
 - Snow Prince Armor Redux.ESP
 - SoldierBeltsFix.ESP
