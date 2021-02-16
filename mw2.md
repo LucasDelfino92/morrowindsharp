@@ -876,7 +876,6 @@ Fixes the biggest exploits and balance issues in the game.
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 - [**BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - Install **BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)** only.
   - In the BAIN installer, tick the following options:
     - **00 BTBGI Necro Edit (Morrowind#)**
     - **02 BTBGI Necro Edit (Morrowind#) MDMD - Creatures Patch**
