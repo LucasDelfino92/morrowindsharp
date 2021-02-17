@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.8.1 (February 13th)
+Version 2.1.9 (February 17th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -30,6 +30,17 @@ Version 2.1.8.1 (February 13th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.9</summary>
+
+- Updated BTBGI - Necro Edit (Morrowind#) (Gameplay).
+- Re-added Equipment section under Gameplay.
+- Added Hunter's Mark - A Marksman Mod (Gameplay).
+- Added Projectiles Reintegrated (Gameplay).
+- Added Tribunal Rebalance + Hunter's Mark Patch (Gameplay).
+- Removed FMI - Nice to Meet You (an engine issue resets the variable which controls whether the player has met an NPC before, meaning this mod doesn't live up to its full potential).
+</details>
 
 <details>
   <summary>v2.1.8.1</summary>
@@ -736,8 +747,6 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 - [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn, PoodleSandwich, Jeff Baker, and SuperQuail  
 You will need to purchase Hospitality Papers to get services in Sadrith Mora, as intended in the vanilla game.
-- [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
-NPCs no longer will greet you as if they had just met you.
 - [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 - [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
@@ -811,9 +820,6 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New mechanics
 
-- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
@@ -835,6 +841,17 @@ Adds supply chests to the Imperial Cult and Tribunal Temple factions, disallows 
 - [**Supply Chests**](https://www.nexusmods.com/morrowind/mods/49232) by Gavrilo93, CryptsOfTheDead, and Sigourn  
 Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a supply chest to the Mages Guild in Caldera.
   - In the BAIN installer, tick **01 Supply Chests (Religions Elaborated Compatible)** only.
+
+### Equipment
+
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+  - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
+- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
+Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons.
+- [**Projectiles Reintegrated**](https://mw.moddinghall.com/file/51-projectiles-reintegrated/) by Sigourn  
+Increases the availability of projectiles all over Vvardenfell, by modifying vanilla containers shared by NPCs and those specific to certain NPCs as well, in addition to adding containers of its own when more specific changes were required.
+  - In the BAIN installer, tick **00 Projectiles Reintegrated** and **01 Projectiles Reintegrated + AEPI Patch**.
 
 ### Balance
 
@@ -878,6 +895,7 @@ Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging op
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
   - In the BAIN installer, tick the following options:
     - **00 BTBGI Necro Edit (Morrowind#)**
+    - **01 BTBGI Necro Edit (Morrowind#) Hunter's Mark Patch**
     - **02 BTBGI Necro Edit (Morrowind#) MDMD - Creatures Patch**
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -885,6 +903,7 @@ Rebalance of races and birthsigns, based on BTB's Game Improvements, with perman
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+  - Also install [**Tribunal Rebalance + Hunter's Mark Patch**](https://mw.moddinghall.com/file/51-projectiles-reintegrated/), which adjusts the stats of Goblin Arrows to better reflect their mook status.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -1061,7 +1080,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Wings of Will - Willpower Based Levitation Speed
-- Area Effect Projectiles Integrated
 - Blight is Coming
 - Blighted Blight
 - Brutal Backstabbing
@@ -1071,6 +1089,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - Lucky Strike - A Critical Hit Mod (MMC Edit)
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
+- Area Effect Projectiles Integrated
+- Hunter's Mark - A Marksman Mod
+- Projectiles Reintegrated
 - Controlled Consumption (MMC Edit)
 - Economy Adjuster Adjustments
 - HardTrade (Sigourn Edit)
@@ -1090,8 +1111,9 @@ The installation order dictates the priority a given mod's assets have over the 
 - BTB's Game Improvements - Necro Edit (Morrowind#)
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
-- Bloodmoon Rebalance
 - Tribunal Rebalance
+- Tribunal Rebalance Hunter's Mark Patch
+- Bloodmoon Rebalance
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1134,7 +1156,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - SoundSpellSoundEffect.ESP
 - Tunnel Cough.ESP
 - Hospitality_Papers_Expanded_v2.7.ESP
-- FMI_Nice_to_Meet_You.ESP
 - FMI_#NotAllDunmer.ESP
 - Great Service.ESP
 - Greetings for No Lore.ESP
@@ -1149,10 +1170,13 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
-- Area Effect Projectiles Integrated.ESP
 - Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
+- Area Effect Projectiles Integrated.ESP
+- Hunter's Mark - A Marksman Mod.ESP
+- Projectiles Reintegrated.ESP
+- Projectiles Reintegrated AEPI Patch.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - Morrowind Anti-Cheese.ESP
 - MDMD - More Deadly Morrowind Denizens.ESP
@@ -1160,12 +1184,14 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - MDMD - Fixes Add-On.ESP
 - Umbra, Blademaster.ESP
 - BTB's Game Improvements (Necro Edit).ESP
+- BTBGI Hunter's Mark Patch.ESP
 - BTBGI MDMD - Creatures Patch.ESP
 - Snow Prince Armor Redux.ESP
 - SoldierBeltsFix.ESP
 - Balanced Passive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
+- Tribunal Rebalance Hunter's Mark Patch.ESP
 - Bloodmoon Rebalance.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
