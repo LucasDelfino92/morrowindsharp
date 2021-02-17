@@ -1049,7 +1049,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Tunnel Cough
 - Water Sounds
 - FMI - Hospitality Papers Expanded
-- FMI - Nice to Meet You
 - FMI - #NotAllDunmer
 - Great Service
 - Greetings for No Lore
