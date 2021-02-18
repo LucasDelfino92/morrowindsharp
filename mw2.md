@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.9 (February 17th)
+Version 2.1.9.1 (February 18th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -21,6 +21,7 @@ Version 2.1.9 (February 17th)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-code-patch)
   - [Install order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#install-order-and-load-order)
+  - [Plugin cleaning](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#plugin-cleaning)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#conflict-resolution)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#synchronizing-mod-masters)
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
@@ -30,6 +31,12 @@ Version 2.1.9 (February 17th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.1.9.1</summary>
+
+- Reworked the Conflict resolution secton, splitting Plugin cleaning into its own section, and simplified the instructions.
+</details>
 
 <details>
   <summary>v2.1.9</summary>
@@ -1203,20 +1210,24 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
+### Plugin cleaning
+
+tes3cmd lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
+
+For the purpose of this guide, we will only clean the plugins we know are dirty.
+
+- Run WryeMash in MO2.
+- In the **Mods** tab, right click on each of the following plugins and click *Clean with tes3cmd*. After the process is over, close the window.
+  - Divayth Fyr Puzzle Fixed.ESP
+  - Religions Elaborated.ESP
+
 ### Conflict resolution
 
 tes3cmd lets us clean all active plugins in our load order, and also solve conflicts in leveled lists, generating a **multipatch.esp** file for the latter process which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
 - Run WryeMash in MO2.
-- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first!
-- Now, click *Misc* on the header and go to **TES3cmd** -> **Fixit (all active)**.
-- tes3cmd will now clean your dirty plugins and also generate a multipatch.esp. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order. Make sure you activate it.
-- In the **Mods** tab, click *Settings* on the header and then click **Lock Times**. This will deactivate this option, since you don't need it anymore.
-
-Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
-
-- Once you are done with the above steps, reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
-- Activate multipatch.ESP.
+- In the **Mods** tab, click *Misc* on the header and go to **TES3cmd** -> **Create MultiPatch**.
+- tes3cmd will now generate the multipatch. After the process is over, close the window. **multipatch.esp** will now be present at the end of your load order. Make sure you activate it.
 
 TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
