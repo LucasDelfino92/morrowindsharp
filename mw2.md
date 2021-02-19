@@ -1212,7 +1212,7 @@ The plugins from **Remiros' Groundcover** should only be enabled when generating
 
 ### Plugin cleaning
 
-tes3cmd lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
+**tes3cmd** lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
 
 For the purpose of this guide, we will only clean the plugins we know are dirty.
 
@@ -1223,18 +1223,18 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
 
 ### Conflict resolution
 
-tes3cmd lets us clean all active plugins in our load order, and also solve conflicts in leveled lists, generating a **multipatch.esp** file for the latter process which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
+**tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
 - Run WryeMash in MO2.
 - In the **Mods** tab, click *Misc* on the header and go to **TES3cmd** -> **Create MultiPatch**.
 - tes3cmd will now generate the multipatch. After the process is over, close the window. **multipatch.esp** will now be present at the end of your load order. Make sure you activate it.
 
-TES3Merge lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
+**TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Make sure you activate it.
 
-Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens. To fix this, install and activate the following plugin.
+Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens. To fix this, install and activate the following plugin, which will override these unintended changes with the intended record edits.
 
 - [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 
