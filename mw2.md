@@ -21,12 +21,13 @@ Version 2.1.9.1 (February 18th)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-code-patch)
   - [Install order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#install-order-and-load-order)
+  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#synchronizing-mod-masters)
   - [Plugin cleaning](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#plugin-cleaning)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#conflict-resolution)
-  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#synchronizing-mod-masters)
   - [Running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#running-distant-land)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
-  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
+  - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#closing-comments)
+- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
+- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 - [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#credits)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
@@ -918,7 +919,9 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Morrowind Code Patch
 
-This section contains specific instructions for the (re)installation of the Morrowind Code Patch, which you should have installed already in the **Setup** page. These instructions are mod-specific, hence why they were not mentioned in **Setup**.
+We have installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific instructions to work as intended, which is why we will be reinstalling the MCP.
+
+Please note that you don't need to reinstall all options from scratch: the Morrowind Code Patch **remembers your previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
 - (Game mechanics) Healthy appetite
   - Eating ingredients always succeeds, giving its first effect and skill advancement. **BTB's Game Improvements** removes the skill gain for consuming ingredients, and **Controlled Consumption (MMC Edit)** prevents you from spamming their consumption for overpowered effects.
@@ -1210,6 +1213,15 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
+### Synchronizing mod masters
+
+Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
+
+- Run WryeMash in MO2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an *Update Masters* window will appear. Click *Yes*. 
+- Once the window has closed, click on the *Save* button further below the same panel.
+
 ### Plugin cleaning
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
@@ -1240,15 +1252,6 @@ Last but not least, Merged Objects.ESP makes a handufl of unintended changes to 
 
 With this, our conflict solving is over and done with.
 
-### Synchronizing mod masters
-
-Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
-
-- Run WryeMash in MO2.
-- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an *Update Masters* window will appear. Click *Yes*. 
-- Once the window has closed, click on the *Save* button further below the same panel.
-
 ### Running Distant Land
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
@@ -1259,7 +1262,17 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click *Run above steps using saved / default settings*.
 - Once the statics have been created, simply click *Finish*.
 
-### In-game configuration
+### Closing commments
+
+Broadly speaking, these are the steps you should follow whenever you install new mods.
+
+- Get a reliable install order and load order working.
+- Synchronize mod masters.
+- Clean dirty plugins.
+- Solve conflicts.
+- Generate Distant Land to account for mods that may modify the worldspace.
+
+## IN-GAME CONFIGURATION
 
 **General adjustments**
 
