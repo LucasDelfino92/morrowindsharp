@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.1.9.1 (February 18th)
+Version 2.2.0 (February 25th)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,6 +32,16 @@ Version 2.1.9.1 (February 18th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.2.0</summary>
+
+- Updated Animated Morrowind Merged (Morrowind#) (Visuals).
+- Added Companion Health Bars (UI and Hotkeys).
+- Added Arukinns Better Books and Scrolls (Visuals).
+- Added Buoyant Lord Vivec (Visuals).
+- Add Melchior's Magnificent Manupscripts (Visuals).
+</details>
 
 <details>
   <summary>v2.1.9.1</summary>
@@ -548,6 +558,8 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 Restores the description tooltip to the vanilla class selection menu.
 - [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
 Adds clock to UI that displays either game world time or real time (depending on settings).
+- [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136) by mesafoo  
+Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
 - [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
 Renames keys so they'll have a consistent naming scheme.
   - Install **MWSE Version** only.
@@ -630,6 +642,9 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 
 ### Equipment and Items
 
+- [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100) by Arukinn  
+Replaces all the books, bookpages and scrolls.
+  - I recommend hiding all textures beginning with **Tx_book_pages_**, as they tend to display Christian iconography unfit for Morrowind.
 - [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
 Mesh and texture replacer for the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 - [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
@@ -641,6 +656,11 @@ Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
   - Install **Improved Nordic Iron Helm 1.0-alternate** only.
 - [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626) by Melchior Dahrk  
+Model replacer for all of the vanilla books.
+  - In the BAIN installer, tick **00 Core** only.
+  - Also install [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) Melchior's Magnificent Manuscripts Patch. 
+    - In the BAIN installer, tick **03 Melchior's Magnificent Manuscripts** only. Rename the mod to **Switchable Scriptures - Melchior's Magnificent Manuscripts Patch**.
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
 - [**Snow Prince Armor Redux (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Saint_Jiub, Moranar, and Sigourn  
@@ -658,8 +678,11 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 ### NPCs and Creatures
 
-- [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50) by Arcimaestro Antares, Wikart, and abot  
-Adds new animated NPCs to the world, and gives animations to some Npcs of the original game. Additionally adds brigands in dark streets and corners of Balmora and Ald'Ruhn.
+- [**Animated Morrowind Merged (Morrowind#)**](https://mw.moddinghall.com/file/56-animated-morrowind-merged-morrowind-version/) by Arcimaestro Antares, Wikart, abot, and Sigourn  
+Adds new animated NPCs to the world, and gives animations to some Npcs of the original game.
+- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
+Adds a simple script to make Vivec properly loop his idle animation.
+  - In the BAIN installer, tick **00vanilla** only.
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
@@ -981,6 +1004,7 @@ The installation order dictates the priority a given mod's assets have over the 
 - Book Worm
 - Class Description Tooltip
 - Clock Block
+- Companion Health Bars MWSE Lua Script
 - Consistent Keys - MWSE Version
 - Continue
 - Essential Indicators
@@ -1013,11 +1037,14 @@ The installation order dictates the priority a given mod's assets have over the 
 - Remiros' Groundcover Shaders - Landbias Fix
 - Vivec Palace Water Replacer
 - Well Diversified
+- Arukinns Better Books and Scrolls
 - Bloodmoon Hide Replacer
 - Complete Armor Joints
 - Imperial Steel Cuirass With Belt
 - Improved Nordic Iron Helm (Alternate)
 - Improved Thrown Weapon Projectiles
+- Melchior's Magnificent Manupscripts
+- Switchable Scriptures - Melchior's Magnificent Manuscripts Patch
 - No Orcish Clown Shoes
 - Snow Prince Armor Redux (MMC Edit)
 - Soldier Belts Fix
@@ -1025,7 +1052,8 @@ The installation order dictates the priority a given mod's assets have over the 
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
-- Animated Morrowind Merged
+- Animated Morrowind Merged (Morrowind#)
+- Buoyant Lord Vivec
 - Golden Saint Feminine Walk
 - Incarnates Overhauled
 - Silt Strider Redone
@@ -1154,6 +1182,7 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
 - Animated_Morrowind - merged.ESP
+- Buoyant Lord Vivec.ESP
 - Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
 - Flies.ESP
@@ -1365,6 +1394,7 @@ The mods installed in this guide and configured as mentioned above will use the 
 I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
 
 - Saint_Jiub and Moranar, for [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?), which was edited to add Moranar's unique icons to the armor, as well as to optimize the textures present in the mod and fix an issue with the helm not using its new unique model.
+- Abot, Arcimaestro Antares, and Wikart, for [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50), which was edited to remove brigands and the ability to donate gold to beggars.
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
 - Lucevar, for [**LDM - Choices & Consequences**](https://discord.com/channels/210394599246659585/677279423250038834), which was edited for compatibility with **Early Transport to Mournhold**.
 - R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
