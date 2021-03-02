@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.2.0 (February 25th)
+Version 2.3.0 (March 1st)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,6 +32,25 @@ Version 2.2.0 (February 25th)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.3.0</summary>
+
+With this update, a new game is recommended.
+
+- Updated the Weather Adjuster preset.
+- Removed Snow Prince Armor Redux. It is one of a kind in that it was the only mod that altered generic looking equipment into something unique.
+- Removed Animated Morrowind Merged (Morrowind#). I've decided to stay away from mods that add a considerable number of new NPCs into the game.
+- Removed Silt Strider Redone. Messing with the vanilla Silt Strider makes no sense.
+- Removed Vivec the God. Messing with vanilla Vivec makes no sense, plus his statues remained unaltered.
+- Removed Plunder the Dungeon. Unlike Divayth Fyr Puzzle Fixed, this one adds its one reward into the game, which is a no-no for me. In the distant future I would love to do my own version of LDM - Choices and Consequences that keeps consistency tweaks only, instead of adding new options during quests (which was never intended by this guide).
+- Removed Hunter's Mark - A Marksman Mod. I've decided to stay away from mods that add new equipment. We'll make do with what we have.
+- Removed Blight is Coming. I want to keep the game relatively free of new mechanics, unless they relate directly to the player character.
+- Removed Creeping Blight. See above.
+- Removed MDMD - More Deadly Morrowind Denizens. It's a really big mod that makes loads of changes, which makes it a compatibility nightmare. But most importantly, the changes made by this mod don't really blend in with those made by BTBGI, Beware the Sixth House, Tribunal Rebalance and Bloodmoon Rebalance.
+- Removed Umbra - Blademaster. It was added as a recommendation by the above mod (which didn't touch Umbra). Not needed any longer.
+- Removed patches for the above mods.
+</details>
 
 <details>
   <summary>v2.2.0</summary>
@@ -678,8 +697,6 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 ### NPCs and Creatures
 
-- [**Animated Morrowind Merged (Morrowind#)**](https://mw.moddinghall.com/file/56-animated-morrowind-merged-morrowind-version/) by Arcimaestro Antares, Wikart, abot, and Sigourn  
-Adds new animated NPCs to the world, and gives animations to some Npcs of the original game.
 - [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 Adds a simple script to make Vivec properly loop his idle animation.
   - In the BAIN installer, tick **00vanilla** only.
@@ -688,12 +705,6 @@ Gives the base golden saint the feminine walk animation instead of the default m
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
 - [**Incarnates Overhauled (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Aoimevelho and Sigourn  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
-- [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?) by Hater8  
-Replaces the Silt Strider model with one according to fan art.
-  - In the BAIN installer, tick **h8 vanilla - high res textures** only.
-- [**Vivec the God**](https://www.nexusmods.com/morrowind/mods/49103?) by Morrowind Modding Community and Nwahs and Mushrooms Team  
-Replaces the Vivec model with one inspired by concept art. Versions with and without flaming head are available.
-  - The download requires repackaging. I prefer the *head fire* version myself.
 - [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
@@ -748,10 +759,9 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 - [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
   - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
-- [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/q99l3y9zezhdgjo/Weather+Adjuster+-+Morrowind+++Preset+v2.0.zip/file) by Sigourn  
-Personal preset for darker nights and less horrible fog.
-  - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
-  - [**Comparison here.**](https://imgsli.com/MTUwMjI)
+  - Also install [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/1fqz9ovi69chkgp/Weather+Adjuster+-+Morrowind+++Preset+v2.1.zip/file). Personal preset for darker nights and less horrible fog.
+    - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
+    - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
 ## AUDIO MODULE
 
@@ -796,8 +806,6 @@ Provide more roleplay options, more noticeable NPC reactions and consequences fo
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-- [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
-Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
 
 ## GAMEPLAY MODULE
 
@@ -851,15 +859,10 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 ### New mechanics
 
-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
-Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Restores the possibility of contracting blight diseases while out in a blight storm.
 - [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
-- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-  - Install **Creeping Blight - MWSE Version** only.
 - [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 - [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
@@ -878,11 +881,9 @@ Adds supply chests to the Imperial Legion and Morag Tong factions, and adds a su
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
   - Hide all plugins except *Area Effect Projectiles Integrated.ESP*
-- [**Hunter's Mark - A Marksman Mod**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
-Adds a lot of new marksman weapons in an attempt to improve progression and fill in the gaps in the vanilla game. It includes new bows, crossbows, arrows, bolts and throwing weapons.
 - [**Projectiles Reintegrated**](https://mw.moddinghall.com/file/51-projectiles-reintegrated/) by Sigourn  
 Increases the availability of projectiles all over Vvardenfell, by modifying vanilla containers shared by NPCs and those specific to certain NPCs as well, in addition to adding containers of its own when more specific changes were required.
-  - In the BAIN installer, tick **00 Projectiles Reintegrated** and **01 Projectiles Reintegrated + AEPI Patch**.
+  - Install the **Vanilla Version** only.
 
 ### Balance
 
@@ -916,25 +917,15 @@ Modifies critical strike coefficient depending on the weapon you use.
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
 - [**Morrowind Anti-Cheese - Ownership Overhaul Compatible**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/) by Remiros and Half11  
 Fixes the biggest exploits and balance issues in the game.
-- [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by autumn  
-230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.
-  - Hide *MDMD - Bosses Only.ESP*
-  - Also install [**MDMD - Fixes Add-On**](https://mw.moddinghall.com/file/39-more-deadly-morrowind-denizens-fixes-add-on/), which addresses a number of issues with MDMMD.
-- [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
-Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 - [**BTB's Game Improvements - Necro Edit v2.0 (Morrowind#)**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/) by BTB, Necrolesian and Sigourn  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-  - In the BAIN installer, tick the following options:
-    - **00 BTBGI Necro Edit (Morrowind#)**
-    - **01 BTBGI Necro Edit (Morrowind#) Hunter's Mark Patch**
-    - **02 BTBGI Necro Edit (Morrowind#) MDMD - Creatures Patch**
+  - In the BAIN installer, tick **00 BTBGI Necro Edit (Morrowind#)** only.
 - [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) by BTB and Necrolesian  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 - [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 - [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-  - Also install [**Tribunal Rebalance + Hunter's Mark Patch**](https://mw.moddinghall.com/file/51-projectiles-reintegrated/), which adjusts the stats of Goblin Arrows to better reflect their mook status.
 - [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -1046,18 +1037,14 @@ The installation order dictates the priority a given mod's assets have over the 
 - Melchior's Magnificent Manupscripts
 - Switchable Scriptures - Melchior's Magnificent Manuscripts Patch
 - No Orcish Clown Shoes
-- Snow Prince Armor Redux (MMC Edit)
 - Soldier Belts Fix
 - Weapon Sheathing
 - Weapon Sheathing - Bow Position Edit
 - Morrowind Optimization Patch - Weapon Sheathing Patch
 - Wolf Helmet Replacer
-- Animated Morrowind Merged (Morrowind#)
 - Buoyant Lord Vivec
 - Golden Saint Feminine Walk
 - Incarnates Overhauled
-- Silt Strider Redone
-- Vivec the God
 - Yet Another Guard Diversity - Regular
 - Flies
 - Flies Fix
@@ -1096,7 +1083,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - LDM - Choices & Consequences v0.46
 - Early Transport to Mournhold
 - Outfit Greetings Tweaked
-- Plunder the Dungeon
 - Adamantium Ore Fix
 - Bed Buddies
 - Better Propylon Teleport Script
@@ -1117,18 +1103,15 @@ The installation order dictates the priority a given mod's assets have over the 
 - Marksman Rebalanced
 - Putting Power In Willpower
 - Wings of Will - Willpower Based Levitation Speed
-- Blight is Coming
 - Blighted Blight
 - Brutal Backstabbing
-- Creeping Blight
 - Dynamic Timescale
 - Lua Lockbashing
 - Lucky Strike - A Critical Hit Mod (MMC Edit)
 - Religions Elaborated (No Quest Changes)
 - Supply Chests
 - Area Effect Projectiles Integrated
-- Hunter's Mark - A Marksman Mod
-- Projectiles Reintegrated
+- Projectiles Reintegrated (Vanilla Version)
 - Controlled Consumption (MMC Edit)
 - Economy Adjuster Adjustments
 - HardTrade (Sigourn Edit)
@@ -1142,14 +1125,10 @@ The installation order dictates the priority a given mod's assets have over the 
 - Sneaky Strike
 - Soulless Creatures
 - Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- MDMD - More Deadly Morrowind Denizens
-- MDMD - Fixes Add-On
-- Umbra - Blademaster
 - BTB's Game Improvements - Necro Edit (Morrowind#)
 - Balanced Passive Races and Birthsigns
 - Beware the Sixth House (Sixth House Overhaul)
 - Tribunal Rebalance
-- Tribunal Rebalance Hunter's Mark Patch
 - Bloodmoon Rebalance
 </details>
 
@@ -1181,7 +1160,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - NearVanillaRoadSigns.ESP
 - Well Diversified.ESP
 - Complete Armor Joints.ESP
-- Animated_Morrowind - merged.ESP
 - Buoyant Lord Vivec.ESP
 - Incarnates Overhauled.ESP
 - Yet Another Guard Diversity - Regular.ESP
@@ -1203,33 +1181,21 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - LDM - Choices and Consequences v0.46.ESP
 - Early Transport to Mournhold.ESP
 - outfit greetings tweaked.ESP
-- Clean Plunder the Dungeon.ESP
 - Adamantium Ore Fix.ESP
 - Better Propylon Teleport Warp-Master Index.ESP
 - PB_GondolierDestinations.ESP
 - Temples With Shrines.ESP
-- Blight is Coming.ESP
 - Religions Elaborated.ESP
 - Supply Chests.ESP
 - Area Effect Projectiles Integrated.ESP
-- Hunter's Mark - A Marksman Mod.ESP
 - Projectiles Reintegrated.ESP
-- Projectiles Reintegrated AEPI Patch.ESP
 - EcoAdjCrime (Necro Edit).ESP
 - Morrowind Anti-Cheese.ESP
-- MDMD - More Deadly Morrowind Denizens.ESP
-- MDMD - Creatures Add-On.ESP
-- MDMD - Fixes Add-On.ESP
-- Umbra, Blademaster.ESP
 - BTB's Game Improvements (Necro Edit).ESP
-- BTBGI Hunter's Mark Patch.ESP
-- BTBGI MDMD - Creatures Patch.ESP
-- Snow Prince Armor Redux.ESP
 - SoldierBeltsFix.ESP
 - Balanced Passive Races and Birthsigns.ESP
 - Beware the Sixth House.ESP
 - tribunal rebalance.ESP
-- Tribunal Rebalance Hunter's Mark Patch.ESP
 - Bloodmoon Rebalance.ESP
 - **Rem_AC.ESP**
 - **Rem_AI.ESP**
@@ -1275,9 +1241,13 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Make sure you activate it.
 
-Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, Stormkiss, and Sjoring Hard-Heart records when using BTBGI Necro Edit and MDMD - More Deadly Morrowind Denizens. To fix this, install and activate the following plugin, which will override these unintended changes with the intended record edits.
+Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit.
 
-- [**Merged Objects Anti-Suck**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+  - Weapon **iron spider dagger**
+  - Weapon **imperial netch blade**
+  - Weapon **Stormkiss**
+- This omits the unintended changes made by Merged Objects to these weapons.
 
 With this, our conflict solving is over and done with.
 
@@ -1393,15 +1363,12 @@ The mods installed in this guide and configured as mentioned above will use the 
 
 I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
 
-- Saint_Jiub and Moranar, for [**Snow Prince Armor Redux**](https://www.nexusmods.com/morrowind/mods/42344?), which was edited to add Moranar's unique icons to the armor, as well as to optimize the textures present in the mod and fix an issue with the helm not using its new unique model.
-- Abot, Arcimaestro Antares, and Wikart, for [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50), which was edited to remove brigands and the ability to donate gold to beggars.
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
 - Lucevar, for [**LDM - Choices & Consequences**](https://discord.com/channels/210394599246659585/677279423250038834), which was edited for compatibility with **Early Transport to Mournhold**.
 - R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624), which was edited to include ingredient consumption restrictions.
 - Archimag, for [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368), which was edited to remove the investing feature and unwanted GMST changes for compatibility with other mods.
 - Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which was edited for compatibility with **Ownership Overhaul**.
-- Necrolesian, for [**There Can Be Only One**](https://www.nexusmods.com/morrowind/mods/47766), which was edited to remove all changes to availability of fixed and random Daedric equipment.
 - BTB and Necrolesian, for [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?), which was edited to remove Morrowind Advanced's creature stat buffs.
 
 ## COMPATIBILITY
@@ -1414,7 +1381,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
   - Recommendation: just load conflicting .esms and .esps after Ownership Overhaul.
 - **Yet Another Guard Diversity**: this mod replaces vanilla guards with unique guards selected from leveled lists. But because of how this mod works, it is perfectly possible for a mod to override its changes (by moving the vanilla guards around) and have the guards revert to their vanilla, generic appearance. This would be most noticeable with Imperial Legion guards who don't wear closed helmets (unlike their Hlaalu, Redoran, Telvanni, and Indoril counterparts). Moreover, new guards added to the game world will most likely have a generic appearance as well.
   - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
-- **Morrowind Anti-Cheese**, **MDMD - More Deadly Morrowind Denizens**, **BTB's Game Improvements - Necro Edit**: these mods make drastic changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with these mods (e.g. a faction overhaul, such as Vvardenfell Brotherhood or Morag Tong Polished). Depending on the conflict, it can be virtually harmless (without looking at TES3View you wouldn't even tell there is a conflict) or serious (an NPC that should have been buffed to a considerable degree reverts back to its vanilla, puny mook state).
+- **Morrowind Anti-Cheese**, **BTB's Game Improvements - Necro Edit**: these mods make drastic changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with these mods (e.g. a faction overhaul, such as Vvardenfell Brotherhood or Morag Tong Polished). Depending on the conflict, it can be virtually harmless (without looking at TES3View you wouldn't even tell there is a conflict) or serious (an NPC that should have been buffed to a considerable degree reverts back to its vanilla, puny mook state).
   - Recommendation: use TES3View to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
