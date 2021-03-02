@@ -50,6 +50,7 @@ With this update, a new game is recommended.
 - Removed MDMD - More Deadly Morrowind Denizens. It's a really big mod that makes loads of changes, which makes it a compatibility nightmare. But most importantly, the changes made by this mod don't really blend in with those made by BTBGI, Beware the Sixth House, Tribunal Rebalance and Bloodmoon Rebalance.
 - Removed Umbra - Blademaster. It was added as a recommendation by the above mod (which didn't touch Umbra). Not needed any longer.
 - Removed patches for the above mods.
+- Removed Merged Objects Anti-Suck. Manual instructions for TESAME have been added to the Conflict resolution section.
 </details>
 
 <details>
