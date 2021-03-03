@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.3.0 (March 1st)
+Version 2.4.0 (March 2nd)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,6 +32,14 @@ Version 2.3.0 (March 1st)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.4.0</summary>
+
+With this update, a new game is recommended.
+
+- Removed LDM - Choices and Consequences. After thoroughly looking at the changes from the mod, I noticed that the ones I would like to keep aren't that many themselves. Adding the individual mods to the guide itself feels fairly pointless as well.
+</details>
 
 <details>
   <summary>v2.3.0</summary>
@@ -801,8 +809,6 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 - [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-- [**LDM - Choices & Consequences v0.46 (Morrowind# Compatible)**](https://www.mediafire.com/file/owmjxwzbysfolfs/LDM+-+Choices+and+Consequences+v0.46+alpha+(Morrowind#+Compatible).zip/file) by Lucevar  
-Provide more roleplay options, more noticeable NPC reactions and consequences for completing quests, and overall a more reactive game world.
 - [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by Necrolesian  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
@@ -1081,7 +1087,6 @@ The installation order dictates the priority a given mod's assets have over the 
 - Idle Talk
 - Its a Deal
 - LDM - Context Matters
-- LDM - Choices & Consequences v0.46
 - Early Transport to Mournhold
 - Outfit Greetings Tweaked
 - Adamantium Ore Fix
@@ -1179,7 +1184,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 - Idle Talk.ESP
 - Its a deal.ESP
 - LDM - Context Matters.ESP
-- LDM - Choices and Consequences v0.46.ESP
 - Early Transport to Mournhold.ESP
 - outfit greetings tweaked.ESP
 - Adamantium Ore Fix.ESP
