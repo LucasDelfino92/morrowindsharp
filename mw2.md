@@ -280,8 +280,6 @@ Model replacer for all of the vanilla books.
     - In the BAIN installer, tick **03 Melchior's Magnificent Manuscripts** only. Rename the mod to **Switchable Scriptures - Melchior's Magnificent Manuscripts Patch**.
 - [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
-- [**Snow Prince Armor Redux (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by Saint_Jiub, Moranar, and Sigourn  
-Remodel and retexture of the Ancient Steel Armor set found in Bloodmoon.
 - [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 - [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
