@@ -1,6 +1,6 @@
 # MORROWIND#
 
-Version 2.4.0 (March 2nd)
+Version 2.4.0.1 (April 1st)
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
@@ -32,6 +32,13 @@ Version 2.4.0 (March 2nd)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 ## CHANGELOG
+
+<details>
+  <summary>v2.4.0.1</summary>
+
+- Removed reference to LDM - Choices and Consequences om the Credits section (mod is no longer present in the guide).
+- Removed Weapon Sheathing configuration (Animated Morrowind is no longer present in the guide).
+</details>
 
 <details>
   <summary>v2.4.0</summary>
@@ -932,11 +939,6 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - (Optional) Set *Use verbose buttons instead of icons for inventory filtering?* to No.
 - (Optional) Set *Use search bars?* to No.
 
-**Weapon Sheathing**
-Exclusions
-- Click *Plugins*, and click *animated_morrowind - merged.esp*. This will move the plugin to the *Blocked* list.
-  - This will avoid issues between both mods where Animated Morrowind Merged's NPCs would sometimes refuse to use items alongside their animations.
-
 ### Mod keybindings
 
 The mods installed in this guide and configured as mentioned above will use the following keys:
@@ -952,7 +954,6 @@ The mods installed in this guide and configured as mentioned above will use the 
 I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
 
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
-- Lucevar, for [**LDM - Choices & Consequences**](https://discord.com/channels/210394599246659585/677279423250038834), which was edited for compatibility with **Early Transport to Mournhold**.
 - R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624), which was edited to include ingredient consumption restrictions.
 - Archimag, for [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368), which was edited to remove the investing feature and unwanted GMST changes for compatibility with other mods.
