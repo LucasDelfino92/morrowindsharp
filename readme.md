@@ -79,6 +79,15 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
 
+System | My Specs
+------------ | -------------
+Operation System | Windows 8.1 Pro 64-bit
+CPU | Intel Core i5 4440
+RAM | 8GB
+Graphics | 1GB ATI AMD Radeon HD 7700 Series
+HDD | 1TB
+Resolution | 1080p
+
 - OS: Windows 8.1 Pro 64-bit
 - CPU: Intel Core i5 4440
 - RAM: 8GB
