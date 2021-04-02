@@ -82,7 +82,9 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 ## Tools
 
-Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools.
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
+
+> Though many tools have been made available over the years, we will be installing the ones we need for this guide.
 
 [**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 
