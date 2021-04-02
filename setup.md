@@ -26,7 +26,7 @@
 The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
 > Users have reported issues with Mod Organizer 2 when using the Steam version of the game, which is why the Steam release is not supported by this guide.
-
+>
 > OpenMW, an open source recreation of Morrowind, is strictly incompatible with this guide.
 
 You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on. 
@@ -57,7 +57,7 @@ To clean up your GOG installation of Morrowind of unnecessary files, delete the 
 - All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
 
 > The Morrowind Game of the Year Edition available from GOG contains plenty of unnecessary files, unlike the Steam version. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSA files themselves, which leads to unnecessary file bloat.
-
+>
 > Bethesda released a number of official plugins for Morrowind, included in the Game of the Year Edition. However, their quality and implementation leads a lot to be desired. Because of this, I suggest you do not use them. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
 This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
@@ -110,7 +110,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Wrye Mash x64 will now launch. Close the program.
 
 > We will be using Mod Organizer 2 to install our mods, meaning the **Mods Installers directory** is redundant to us. However, it is a required step to install Wrye Mash.
-
+>
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
 ### tes3cmd
@@ -340,9 +340,9 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
   - Check **Allow yes to all load errors**.
 
 > You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
-
+>
 > If you have no interest whatsoever in MGE XE's enhanced graphics options, like Distant Land and Shaders, you can check **Disable MGE in-game**. Feel free to skip the remainder of the **Setup** guide, as we will be configuring those next.
-
+>
 > To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
 
 ### Installing and configuring shaders
