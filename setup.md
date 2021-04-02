@@ -111,7 +111,7 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 
 > Though many tools have been made available over the years, we will be installing the ones we need for this guide.
 
-## MOD ORGANIZER 2
+## Mod Organizer 2
 
 **Mod Organizer 2** is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, widely considered to be the best one, is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is. Just make sure you avoid Nexus Mod Manager or Vortex (these mod managers aren't anywhere near as powerful, and they are more trouble than it's worth).
 
@@ -141,7 +141,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
 
-### ADJUSTING THE .INI
+### Adjusting Morrowind.ini
 
 Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow collision**, requires a few .ini edits to work properly.
 
@@ -159,7 +159,7 @@ Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow c
   - Max Snowflakes=750 -> Increase the value to **1500**
 - Click **Save** and close the window.
 
-### PROFILES
+### Setting up Profiles
 
 Now that we've done all preliminary adjustments, we can set up our profiles. Profiles let you quickly change from one mod setup to another.
 
