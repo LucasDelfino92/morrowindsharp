@@ -54,8 +54,6 @@ To clean up your GOG installation of Morrowind of unnecessary files, delete the 
 
 This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
 
-![Test](https://drive.google.com/file/d/1IghkZS9KjrUTEkYS3xpW2bsxZdfUKacj/view?usp=sharing)
-
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
 
 ## Morrowind Code Patch
