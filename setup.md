@@ -149,14 +149,18 @@ Mod Organizer 2 will now have launched. Here's some important things you should 
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. So far, it should read as follows:
 
-- DLC: Tribunal
-- DLC: Bloodmoon
+```
+DLC: Tribunal
+DLC: Bloodmoon
+```
 
 Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**. It should read as follows:
 
-- Morrowind.esm
-- Tribunal.esm
-- Bloodmoon.esm
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+```
 
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
@@ -171,9 +175,11 @@ One of the patches we installed with the Morrowind Code Patch, **Rain/snow colli
 [Weather Rain]
 Rain Diameter=1200
 Max Raindrops=1500
+
 [Weather Thunderstorm]
 Rain Diameter=1200
 Max Raindrops=3000
+
 [Weather Snow]
 Snow Diameter=1600
 Max Snowflakes=1500
