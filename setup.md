@@ -87,10 +87,10 @@ Repository for the Beta update for the Morrowind Code Patch.
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 
 - Download and run the **Wrye Mash 2019 x64 - Installer** main file.
-- Tick **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
+- Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
 - Select **C:\Games\Morrowind** as the destination location and click **Next >**. When Wrye Mash tells you the folder already exists, click **Yes** to install.
 - Click **Next >** until Wrye Mash has finished installing.
-- Untick **Launch Wrye Mash 2019 x64** and click **Finish**.
+- Uncheck **Launch Wrye Mash 2019 x64** and click **Finish**.
 
 ### Setup
 
@@ -99,7 +99,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
    - **Morrowind directory**: select your Morrowind **Root** folder (C:\Games\Morrowind). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
    - **Mods Installers directory**: select your Morrowind mods folder (C:\Games\Morrowind Mods).
 - Click **Next>** and then click **Finish**.
-- Wrye Mash x64 should now launch. Close the program.
+- Wrye Mash x64 will now launch. Close the program.
 
 > We will be using Mod Organizer 2 to install our mods, meaning the **Mods Installers directory** is redundant to us. However, it is a required step to install Wrye Mash.
 
@@ -107,22 +107,32 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 ## Mod Organizer 2
 
-**Mod Organizer 2** is one of the best mod managers out there, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative, widely considered to be the best one, is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is. Just make sure you avoid Nexus Mod Manager or Vortex (these mod managers aren't anywhere near as powerful, and they are more trouble than it's worth).
+**Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 
-I advise you to use Mod Organizer 2 for mod installation *only*. Don't use it to download mods: always download mods manually by going to Nexus, Morrowind Modding History, and other modding sites.
+> Nexus Mod Manager and Vortex are two popular mods managers, however, they have many issues of their own and you should avoid them.
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
-- Download the main file: **Mod Organizer 2 (Archive)**.
-- Extract the contents to a folder and rename it **Mod Organizer 2**. Place the folder in **Morrowind Mods\Tools**.
-- Right click on **ModOrganizer.exe** found in **Morrowind Mods\Tools\Mod Organizer 2**, select *Properties*, and under *Compatibility* make sure *Run as Administrator* is checked. Click *Apply* and click *OK*.
-- Run **ModOrganizer.exe**. 
-   - You will be asked to *Choose Instance*. Click *Portable*.
-   - You will be asked to *Select the game to manage*. Click *Morrowind*. If the game doesn’t appear in the list, click *Browse...* and select the game’s root folder.
-- Mod Organizer 2 will now launch, and ask you if you want to go through the tutorial. Click *No*.
-- You will be asked to associate MO2 with nxm links. Click *No*.
+- Download and run the **Mod Organizer 2** main file.
+- Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
+- Select **C:\Games\Morrowind Mods\MO2** as the destination location and click **Next >** until Mod Organizer 2 is installed.
+- Click **Finish**. This will launch Mod Organizer 2's initial setup.
 
-Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **installation order**. So far, it should read as follows:
+### Initial setup
+
+- Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
+- You will be asked to select a game to manage. Click **Browse...** and select **C:\Games\Morrowind**.
+- You will be asked to select a folder where data will be stored. Select **C:\Games\Morrowind Mods\MO2**.
+- Click **Next >** and then **Finish**. Mod Organizer 2 will now launch.
+- From the pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
+
+> If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
+
+### Setup
+
+Mod Organizer 2 will now have launched. Here's some important things you should know.
+
+Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. So far, it should read as follows:
 
 - DLC: Tribunal
 - DLC: Bloodmoon
@@ -133,7 +143,19 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 - Tribunal.esm
 - Bloodmoon.esm
 
-You can hide unnecessary information in Mod Organizer 2 by right clicking on the tabs above the installed mods, and unticking the tabs you don't want to see. I personally untick everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order**, hiding unnecessary background information seen on the pane below.
+> You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
+
+### Setting up Profiles
+
+Mod Organizer 2 has a feature called **Profiles**, which let you quickly change from one mod setup to another.
+
+- Click on the **Configure profiles** icon.
+- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
+- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
+- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
+- Close this window.
+
+On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ### Adjusting Morrowind.ini
 
@@ -152,18 +174,6 @@ Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow c
   - Snow Diameter=800 -> Increase the value to **1600**
   - Max Snowflakes=750 -> Increase the value to **1500**
 - Click **Save** and close the window.
-
-### Setting up Profiles
-
-Now that we've done all preliminary adjustments, we can set up our profiles. Profiles let you quickly change from one mod setup to another.
-
-- Click on the **Configure profiles** icon, which resembles an ID card.
-- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
-- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
-- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
-- Close this window.
-
-On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ## Tools
 
