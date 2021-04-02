@@ -291,9 +291,9 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-### Configuring MGE XE
+### Configuring MGE XE for vanilla graphics
 
-MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
+MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
 
 **Graphics tab**
 
@@ -305,6 +305,33 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 - I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
 - (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
 - (Optional) Check **Display FPS** to see your framerate in-game.
+
+**In-game tab**
+
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
+
+- Check **Allow yes to all load errors**.
+
+> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
+
+### Configuring MGE XE for enhanced graphics
+
+**Graphics tab**
+
+All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
+
+- In the **Graphics** tab, click *Shader setup...*.
+- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
+
+The shader combination that works the best for me, and which I personally recommend, is the following:
+
+- SSAO HQ
+- Underwater Effects
+- Underwater Interior Effects
+- Sunshafts
+- EdgeAA
+- specialprocess
+- deband_fogawarev2
 
 **Distant Land tab**
 
@@ -337,35 +364,7 @@ You must also modify your *Weather Settings* in the **Distant Land** tab to acco
 - Set the *Fog range factor* of all weathers to **1,000**.
 - Click *Save*.
 
-**In-game tab**
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
-
-The default settings on this tab are pretty good, but there are a handful more you may want to enable.
-
-- *Skip opening movie* is a timesaver.
-- *Crosshair autohide* may sound temptative, but it grows annoying when you want to pick up very small objects (like Gold) and you can't seem to nail them down. I don't recommend it.
-- *Allow yes to all load errors* is a must have, as error messages can get annoying.
-- *Allow screenshots* is great for those of us who like to take and share screenshots of our game.
-- *High detail actor shadows* is buggy and bad for performance. I don't recommend it.
-
-
-
-
-All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
-
-- In the **Graphics** tab, click *Shader setup...*.
-- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
-
-The shader combination that works the best for me, and which I personally recommend, is the following:
-
-- SSAO HQ
-- Underwater Effects
-- Underwater Interior Effects
-- Sunshafts
-- EdgeAA
-- specialprocess
-- deband_fogawarev2
 
 [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
 
