@@ -138,6 +138,13 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 ### Setup
 
+Before continuing to the next step, close Mod Organizer 2.
+
+- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**.
+- In the **Compatibility** tab, check *Run this program as an administrator* and click **Apply**.
+- Click **Accept** to close this window.
+- Run ModOrganizer.exe.
+
 Mod Organizer 2 will now have launched. Here's some important things you should know.
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. So far, it should read as follows:
@@ -244,7 +251,7 @@ Unofficial fan patch for Morrowind, regularly maintained.
 
 > IMPORTANT: whenever you are asked to install a mod from Nexus, always install the main files. If there are multiple main files present, you will be told which one you need to install. Ignore Updates and Optional files unless told to install them explicitly.
 
-### Installing other mods in Mod Organizer 2
+### Manually installing mods in Mod Organizer 2
 
 There are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you to download the file and add it manually to Mod Organizer 2. One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to showcase this process.
 
@@ -269,39 +276,15 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua gameplay mods work straight away.
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua mods work straight away.
 
-- Download the **MGE XE Manual Install** main file.
-- Extract the contents of the file, and move all files **minus the Data Files folder** into your Morrowind root directory, so that MGEXEgui.exe and MWSE-Update.exe are in the same folder as Morrowind.exe.
-- Run **MWSE-Update.exe**. This will update MWSE, required by many modern mods, to the latest version. Once the updating process is finished, the window will close itself.
-- In the **Data Files** folder found inside the **MGE XE Manual Install** file, delete the **XE Sky Variations.esp** file.
-- Make a zip file out of the remaining **Data Files** folder and rename the .zip to **MGE XE Data Files**.
-- Install this file in Mod Organizer 2.
+> Make sure you close Mod Organizer 2 before continuing. Many users have reported issues in the past because Mod Organizer 2 wouldn't register MGE XE until it was closed and launched again.
 
-[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
-
-This is an additional, beta patch for MGE XE that reduces light seams.
-
-- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
-
-### Installing shaders
-
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
-
-The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
-
-- [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
-  - This is a required install. Without it, you will encounter issues in your game.
-- [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
-Reworked version of the MGE XE standard water shader.
-  - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
-- [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
-Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-- [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
-Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
-- [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
-Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
-  - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
+- Manually download the **MGE XE Manual Install** main file.
+- Place all contents except the **Data Files** folder in **C:\Games\Morrowind**.
+- Return to the previously omitted **Data Files** folder, and delete the **XE Sky Variations.esp**.
+- Make a .zip out of the **Data Files** folder, and rename the .zip to **MGE XE Data Files**.
+- Manually install this mod in Mod Organizer 2.
 
 ### Launching MGE XE
 
@@ -374,6 +357,43 @@ The default settings on this tab are pretty good, but there are a handful more y
 - *Allow yes to all load errors* is a must have, as error messages can get annoying.
 - *Allow screenshots* is great for those of us who like to take and share screenshots of our game.
 - *High detail actor shadows* is buggy and bad for performance. I don't recommend it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
+
+This is an additional, beta patch for MGE XE that reduces light seams.
+
+- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
+
+### Installing shaders
+
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
+
+The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
+
+- [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
+  - This is a required install. Without it, you will encounter issues in your game.
+- [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
+Reworked version of the MGE XE standard water shader.
+  - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
+- [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
+Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+- [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
+Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
+- [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
+Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
+  - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
