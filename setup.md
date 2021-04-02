@@ -345,6 +345,30 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 >
 > To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
 
+**Distant Land tab**
+
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+
+All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
+
+- Click **Distant land generator wizard**.
+- On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
+- Click **Continue**. This will open the **Distant Land Generation** window.
+- In the **Land Textures** tab, simply click **Create Land Textures**.
+- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
+- In the **Statics** tab:
+  - Check **Include reflective water in interiors**.
+  - Click **Create Statics**.
+- Once the statics have been created, click **Finish**.
+
+> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
+
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Distant%20Land%20Tab.png)
+
+Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
+
+> Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to interiors only by clicking on the dropdown menu.
+
 ### Installing and configuring shaders
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
@@ -371,12 +395,15 @@ Reduces light seams.
 
 > Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
 
+Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
+
 **Graphics tab**
 
 The **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
 
-- In the **Graphics** tab, click *Shader setup...*.
-- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
+- Click **Shader setup...**.
+- On the **Set active shaders** window, click on **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them. 
+- Click **Save** before exiting.
 
 The shader combination that works the best for me, and which I personally recommend, is the following:
 
@@ -387,30 +414,6 @@ The shader combination that works the best for me, and which I personally recomm
 - EdgeAA
 - specialprocess
 - deband_fogawarev2
-
-**Distant Land tab**
-
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
-
-All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
-
-- Click **Distant land generator wizard**.
-- On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-- Click **Continue**. This will open the **Distant Land Generation** window.
-- In the **Land Textures** tab, simply click **Create Land Textures**.
-- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
-- In the **Statics** tab:
-  - Check **Include reflective water in interiors**.
-  - Click **Create Statics**.
-- Once the statics have been created, click **Finish**.
-
-> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Distant%20Land%20Tab.png)
-
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
-
-> Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to interiors only by clicking on the dropdown menu.
 
 You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier.
 
