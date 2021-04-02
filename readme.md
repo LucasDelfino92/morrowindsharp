@@ -32,6 +32,18 @@ At the end of Morrowind++ you will find the install order and load order of the 
 
 ## FAQ
 
+### Is this guide compatible with OpenMW?
+
+No. Many mods in this guide rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW. That said, many individual mods will be compatible. But I can't point these out for you.
+
+### Is this guide compatible with Morrowind Rebirth?
+
+No. This guide changes many aspects of the game which will be incompatible with Morrowind Rebirth. That said, many individual mods will be compatible. But I can't point these out for you.
+
+### Is this guide compatible with Tamriel Rebuilt?
+
+Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods suggested here, such as visual or gameplay improvements.
+
 ### How many plugins and mods are there?
 
 Morrowind++ consists of roughly 70 mods and 20 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you. Very, very few mods depend on others to work as intended. Those that do are clearly pointed out in the guide. Working on this mod list, it was very important for me to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
@@ -47,33 +59,6 @@ It depends!
 Setting up the game tools (**Setup**) is a very boring process: you are installing stuff you will need in the future, but not any fun mods. **Morrowind++** is a long guide, but thankfully you can simply focus on the **Core** and **Gameplay** modules if you want to jump into the game as soon as possible, with **Yet Another Guard Diversity** (under Visuals) being the *only* other mod you should install before beginning a new playthrough. The entirety of this process should last you no longer than an hour and a half, allowing you to enjoy Morrowind and install the other mods in the guide when you feel like it.
 
 Bottomline is, it will take you far less time to install **Morrowind++** than setting up most other Morrowind guides, bar the most spartan ones.
-
-### Should I manually install these mods?
-
-This guide recommends the use of **Mod Organizer 2** for installing mods. The **Setup** guide will explain in detail why, and how to make the best of this mod manager.
-
-### Why isn't (particular mod) included in the guide?
-
-There can be many reasons for this, but I'll start with the most important: Morrowind++ consists of mods I personally play with. Because of this, I feel comfortable recommending them (i.e. listing them here). No matter how good a mod may be, if I personally don't use it, it won't be featured in Morrowind++.
-
-As to what makes me not use a mod:
-
-- The mod, I feel, isn't worth the time that goes into installing it. When your modding guide consists of 100+ mods, trying to keep it short is key.
-- The mod stands out too much from the vanilla game.
-- The mod conflicts with many mods present in the guide, or overhauls aspects of the game that make it incompatible with many other mods. This and the above comment is why I tend to stay away from overhauls.
-- The mod is very performance intensive.
-
-### Is this guide compatible with OpenMW?
-
-No. Many mods in this guide rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW. That said, many individual mods will be compatible. But I can't point these out for you.
-
-### Is this guide compatible with Morrowind Rebirth?
-
-No. This guide changes many aspects of the game which will be incompatible with Morrowind Rebirth. That said, many individual mods will be compatible. But I can't point these out for you.
-
-### Is this guide compatible with Tamriel Rebuilt?
-
-Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods suggested here, such as visual or gameplay improvements.
 
 ## MY SETUP
 
