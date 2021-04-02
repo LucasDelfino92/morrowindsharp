@@ -64,12 +64,12 @@ The Morrowind Code Patch directly patches bugs in the Morrowind program (Morrowi
 
 - Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder.
 
-[**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+[**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
 
-Beta update for the Morrowind Code Patch.
+Repository for the Beta update for the Morrowind Code Patch.
 
 - Place the contents of the **MCP beta** update file in your Morrowind **Root** folder, and overwrite when prompted.
-- This will update the Morrowind Code Patch to version 2.5b4.
+- This will update the Morrowind Code Patch to version **2.5b4**.
 
 ### Setup
 
