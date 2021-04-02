@@ -139,6 +139,12 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 
+[**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?)  
+Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
+
+[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232)  
+Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
+
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
@@ -156,10 +162,12 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
+- In the BAIN installer, check the following options:
+  - [X] 00 Core
+  - [X] 01 Atlas Textures
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
-Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
@@ -170,154 +178,184 @@ Pluginless replacer version of the 8 base khajiit heads.
 
 ## HD UI
 
-- [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?) by hardek  
+[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?)  
 High resolution replacer for the Daedric font used in scrolls. 
-  - Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
-- [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
+- Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
+
+[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
-  - Install **Better Dialogue Font** only.
-- [**Chocolate UI**](https://www.nexusmods.com/morrowind/mods/43076/) by Innicin  
+- Install **Better Dialogue Font** only.
+
+[**Chocolate UI**](https://www.nexusmods.com/morrowind/mods/43076/)  
 Modernizes the user interface.
   - Note that this mod includes **Better Dialogue Font**. However, because this mod is not a straight improvement over the vanilla UI (since it changes the aesthetic) I'm still listing Better Dialogue Font above should you wish to skip installing this mod.
-- [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?) by Alfred Khamidullin and Comrade Raven  
-Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.
-- [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?) by Petethegoat  
+
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
+Replaces most of original book arts with hi-res images redrawn from scratch.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-  - Install **Pete's Journal and Scroll** only.
-    - In the BAIN installer, tick **01 Journal and Scroll - 2K** only.
-- [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by Phobos  
+- Install **Pete's Journal and Scroll** only.
+  - In the BAIN installer, tick **01 Journal and Scroll - 2K** only.
+
+[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
-  - Install **Title Screen Reworked (Widescreen)** only (assuming you enabled *Skip opening movie* in MGE XE).
-- [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163) by NZdawghaus  
+- Install the **Title Screen Reworked (Widescreen)** main file (if you disabled **Skip opening movie** in MGE XE, also install the **Logo Video Intro Reworked (Widescreen)** main file).
+
+[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-- [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001) by Tixen  
+
+[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
 Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
-  - Place the loose .tga files in **Data Files\Splash**.
+- Place the loose .tga files in **Data Files\Splash**.
 
 ## UI
 
-- [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-- [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+
+[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
-- [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
+
+[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)  
 Restores the description tooltip to the vanilla class selection menu.
-- [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+
+[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)  
 Adds clock to UI that displays either game world time or real time (depending on settings).
-- [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136) by mesafoo  
+
+[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
-- [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
+
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
-  - Install **MWSE Version** only.
-- [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?) by Petethegoat  
+- Install **MWSE Version** only.
+
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?)  
 Adds a continue button to the main menu to instantly load your most recent save.
-- [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21  
+
+[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-- [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) by Virnetch  
+
+[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-- [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade  
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
 Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-- [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?) by hardek  
+
+[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?)  
 Adds a confirmation popup when you click on New Game in the main menu.
-- [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
+
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
-- [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?) by abot  
+
+[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-  - Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
-- [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?) by abot  
+- Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
+
+[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?)  
 Adds several new options for the journal and quest pages.
-- [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot  
+
+[**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
 Automatically switches between the local and world map depending on user configuration.
-  - Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
-- [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969) by abot  
+- Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
+
+[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969)  
 Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
-- [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
+
+[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
 ## Hotkeys
 
-- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
+[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
-- [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
+
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
-- [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976) by abot  
+
+[**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976)  
 Adds hotkeys for journal Quests and Topics.
-- [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-- [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
+
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
-- [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
 Exit any menu by right clicking (or whatever your menu key is mapped to).
-- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-- [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
+
+[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)  
 Lets you open or close any book or scroll in the game.
-  - In the BAIN installer, tick **00 Core** and **01 Closed Book Icons** only.
-- [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?) by Remiros, Greatness7, and NullCascade  
+- In the BAIN installer, tick **00 Core** and **01 Closed Book Icons** only.
+
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
 # VISUALS MODULE
 
 ## Environment
 
-- [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?) by Melchior Dahrk  
+[**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271) by multiple  
+
+[**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)  
 Reduces the water splash from **Better Waterfalls** to a more reasonable size.
-- [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
+
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-  - In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
-- [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255) by EnvyDeveloper  
+- In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
+
+[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-- [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?) by Melchior Dahrk  
-Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
-- [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?) by Atrayonis
+
+[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
-  - In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
-- [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros, vtastek, and Hrnchamd  
+- In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
+
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
-  - Install **Remiros' Groundcover** only.
-    - In the BAIN installer, tick **00 Core** and **04b Thicker Grass** only.
-  - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
-- [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril21  
+- Install **Remiros' Groundcover** only.
+  - In the BAIN installer, tick **00 Core** and **04b Thicker Grass** only.
+- Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
+
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
-  - In the BAIN installer, tick **00 Core** and **01 Original Color** only.
-- [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z) by Slartibartfast  
+- In the BAIN installer, tick **00 Core** and **01 Original Color** only.
+
+[**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-  - Place the **x** folder in **Data Files\Meshes**.
+- Place the **x** folder in **Data Files\Meshes**.
 
 ## Equipment and Items
 
-- [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100) by Arukinn  
-Replaces all the books, bookpages and scrolls.
-  - I recommend hiding all textures beginning with **Tx_book_pages_**, as they tend to display Christian iconography unfit for Morrowind.
-- [**Bloodmoon Hide Replacer BHR**](https://www.nexusmods.com/morrowind/mods/21725?) by Alaisiagae  
-Mesh and texture replacer for the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-- [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572) by Kahkahra  
+[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-- [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232) by Quorn and Alaisiagae  
-Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
-- [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/) by Daemonjax  
+
+[**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/)  
 Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
-  - Install **Improved Nordic Iron Helm 1.0-alternate** only.
-- [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?) by R-Zero  
+- Install **Improved Nordic Iron Helm 1.0-alternate** only.
+
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626) by Melchior Dahrk  
-Model replacer for all of the vanilla books.
-  - In the BAIN installer, tick **00 Core** only.
-  - Also install [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) Melchior's Magnificent Manuscripts Patch. 
-    - In the BAIN installer, tick **03 Melchior's Magnificent Manuscripts** only. Rename the mod to **Switchable Scriptures - Melchior's Magnificent Manuscripts Patch**.
-- [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
+
+[**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939)  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
-- [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556) by Alaisiagae  
+
+[**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556)  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
-- [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by TES3 Community
+
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-  - Install **WeaponSheathing 1.6-MWSE** only.
-  - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim. The bows will better line up with the sheathing animation.
-  - Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
-    - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
-- [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281) by Alaisiagae  
+- Install **WeaponSheathing 1.6-MWSE** only.
+- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim. The bows will better line up with the sheathing animation.
+- Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
+  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
+
+[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
 ## NPCs and Creatures
