@@ -81,16 +81,9 @@ When installing all mods in this guide, as well as the recommended shaders, my f
 
 System | My Specs
 ------------ | -------------
-Operation System | Windows 8.1 Pro 64-bit
+Operative System | Windows 8.1 Pro 64-bit
 CPU | Intel Core i5 4440
 RAM | 8GB
 Graphics | 1GB ATI AMD Radeon HD 7700 Series
 HDD | 1TB
 Resolution | 1080p
-
-- OS: Windows 8.1 Pro 64-bit
-- CPU: Intel Core i5 4440
-- RAM: 8GB
-- Graphics: 1GB ATI AMD Radeon HD 7700 Series
-- HDD: 1TB
-- Playing the game on 1080p, borderless fullscreen.
