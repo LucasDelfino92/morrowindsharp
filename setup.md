@@ -21,7 +21,7 @@
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 
-#### Installation
+## Installation
 
 The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
