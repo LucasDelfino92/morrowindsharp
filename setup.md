@@ -25,11 +25,9 @@
 
 The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
-```
-Users have reported issues with Mod Organizer 2 when using the Steam version of the game, which is why the Steam release is not supported by this guide.
+> Users have reported issues with Mod Organizer 2 when using the Steam version of the game, which is why the Steam release is not supported by this guide.
 
-OpenMW, an open source recreation of Morrowind, is strictly incompatible with this guide.
-```
+> OpenMW, an open source recreation of Morrowind, is strictly incompatible with this guide.
 
 You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on. 
 An example of a safe location is **C:\Games\Morrowind**.
@@ -48,9 +46,7 @@ C:\Games\Morrowind Mods
 
 where you will keep your tools and mods' archives. Whenever you download a mod for installation, I suggest you keep the archive here, should you need to reinstall it.
 
-```
-Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
-```
+> Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
 
 ### Cleaning up your GOG installation
 
@@ -205,8 +201,8 @@ Max Snowflakes=1500
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
 - Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Profiles.png) button.
-- Check *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure *Automatic Archive Invalidation* is unchecked.
-- With the **Default** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
+- Check **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure **Automatic Archive Invalidation** is unchecked.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**.
 - Click the **Morrowind++** profile and click **Select**. This will close the window.
 
 **Morrowind++** will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
@@ -214,8 +210,6 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 ## Tools
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
-
-> I won't cover all tools made available over the years, just the ones the guide relies on.
 
 [**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
 Used to see the structure of mods and detect conflicts.
@@ -241,7 +235,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
-- In the *Start In* field, select your Morrowind **Root** folder (C:\Games\Morrowind).
+- In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
 - Click **Apply**, and repeat the process for the remaining tools.
 
 ### Setting up Wrye Mash in Mod Organizer 2
