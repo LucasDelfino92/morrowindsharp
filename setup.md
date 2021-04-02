@@ -189,22 +189,19 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 
 > I won't cover all tools made available over the years, just the ones the guide relies on.
 
-[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)
-
+[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
 Used to see the structure of mods and detect conflicts.
 
 - Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
-
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
 - Extract the contents of the file in **Morrowind Mods\TES3Merge**.
 
-[**TESAME**](http://mw.modhistory.com/download-95-15443)
-
+[**TESAME**](http://mw.modhistory.com/download-95-15443)  
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
 
 - Extract the contents of the file in **Morrowind Mods\TESAME**.
@@ -234,8 +231,7 @@ Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https:/
 
 One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to install our first mod.
 
-[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)
-
+[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks.
 
 - Click the **Download** button to start the download.
