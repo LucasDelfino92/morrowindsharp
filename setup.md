@@ -399,21 +399,22 @@ Now that the shaders have been installed in Mod Organizer 2, it's time to activa
 
 **Graphics tab**
 
-The **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
+- Under **Renderer**, make sure **Enable shaders** is checked.
+- Click **Shader setup...**
+- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
+- The shader combination that works the best for me, and which I personally recommend, is the following.
 
-- Click **Shader setup...**.
-- On the **Set active shaders** window, click on **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them. 
+```
+SSAO HQ
+Underwater Effects
+Underwater Interior Effects
+Sunshafts
+EdgeAA
+specialprocess
+deband_fogawarev2
+```
+
 - Click **Save** before exiting.
-
-The shader combination that works the best for me, and which I personally recommend, is the following:
-
-- SSAO HQ
-- Underwater Effects
-- Underwater Interior Effects
-- Sunshafts
-- EdgeAA
-- specialprocess
-- deband_fogawarev2
 
 **Distant Land tab**
 
