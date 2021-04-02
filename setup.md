@@ -344,8 +344,6 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 **Distant Land tab**
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Distant%20Land%20Tab.png)
-
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
@@ -362,13 +360,15 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Distant%20Land%20Tab.png)
+
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
 You must also modify your *Weather Settings* in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier.
 
-- Click *Weather Settings*.
-- Set the *Fog range factor* of all weathers to **1,000**.
-- Click *Save*.
+- Click **Weather Settings**.
+- Set the **Fog range factor** of all weathers to **1,000**.
+- Click **Save**.
 
 **In-game tab**
 
