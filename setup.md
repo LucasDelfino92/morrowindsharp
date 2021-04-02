@@ -423,5 +423,11 @@ We need to modify our **Weather Settings** to account for the **16 Lights Shader
 - Set the **Fog range factor** of all weathers to **1,000**.
 - Click **Save**.
 
+This finishes the configuration of MGE XE.
+
+## Where to from now?
+
+
+
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
