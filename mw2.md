@@ -186,10 +186,6 @@ High resolution replacer for the Daedric font used in scrolls.
 High resolution replacer for the Magic Cards font, used in most of the user interface.
 - Install **Better Dialogue Font** only.
 
-[**Chocolate UI**](https://www.nexusmods.com/morrowind/mods/43076/)  
-Modernizes the user interface.
-  - Note that this mod includes **Better Dialogue Font**. However, because this mod is not a straight improvement over the vanilla UI (since it changes the aesthetic) I'm still listing Better Dialogue Font above should you wish to skip installing this mod.
-
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
 
