@@ -21,50 +21,67 @@
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 
-## INSTALLATION
+## Installation
 
-The Morrowind we will be modding is the Game of the Year Edition [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). It includes the two main expansions, Tribunal and Bloodmoon, and all official Bethesda add-ons.
+The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
-Install Morrowind and all modding tools outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). This will save you headaches later on. I suggest having the following folders:
+> While I'm aware Morrowind: Game of the Year Edition is also for sale at Steam, I've heard numerous reports of Mod Organizer 2, the mod manager this guide was designed with in mind, not working nicely with it.
 
-- C:\Games\Morrowind, where Morrowind will be installed. This will be referred to from now on as your **Morrowind root folder**.
+> OpenMW, an open source recreation of Morrowind, is strictly incompatible with this guide.
+
+You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on. 
+An example of a safe location is **C:\Games\Morrowind**.
+
+For the purpose of this guide, we will be using the following folder paths:
+
+- C:\Games\Morrowind, where Morrowind will be installed. This will be referred to from now on as your Morrowind **Root** folder. This folder contains the game's executable (**Morrowind.exe**), the game's launcher (**Morrowind Launcher.exe**), the game's .ini file (**Morrowind.ini**), and the **Data Files** folder, where all game assets and plugins are found.
 - C:\Games\Morrowind Mods, where you will keep your mods' archives.
-- C:\Games\Morrowind Mods\Tools, where Morrowind tools will be installed.
+- C:\Games\Morrowind Mods\Tools, where you will install your Morrowind tools.
 
-Your **Morrowind root folder** contains the game’s executable (Morrowind.exe), the game’s launcher (Morrowind Launcher.exe) and the game’s .ini file (Morrowind.ini). Certain mods require you to modify values from the .ini, but those are in the minority.
+> Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
 
-One thing many Morrowind players who bought their game through online stores such as GOG or Steam are not aware of is that the game originally shipped with a map detailing most of the major locations. In a game where no quest markers are available, this is particularly useful information. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
+### Cleaning up your GOG installation
 
-### CLEANING UP YOUR GOG INSTALLATION
-
-The Game of the Year Edition available from GOG (which this guide assumes you are using) contains plenty of unnecessary files. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSAs themselves, which leads to unnecessary file bloat.
-
-In addition, Bethesda released a number of official plugins for Morrowind, which already come with the Morrowind: Game of the Year Edition available from GOG. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins). Because of their lackluster quality and even poorer implementation, this guide recommends you not to play with them.
-
-To clean up your GOG installation of Morrowind, delete the following files from your **Morrowind\Data Files** folder:
+To clean up your GOG installation of Morrowind of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
 - All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
 
-Overall, this will free about 700 MBs in your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
+> The Morrowind Game of the Year Edition available from GOG contains plenty of unnecessary files, unlike the Steam version. This is because the game's BSAs have been uncompressed and their files shipped alongside the BSA files themselves, which leads to unnecessary file bloat.
+
+> Bethesda released a number of official plugins for Morrowind, included in the Game of the Year Edition. However, their quality and implementation leads a lot to be desired. Because of this, I suggest you do not use them. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
+
+This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
 
-## MORROWIND CODE PATCH
+## Morrowind Code Patch
 
-The Morrowind Code Patch patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays with vanilla Morrowind. Unlike mods, the Morrowind Code Patch requires specific install instructions, and can't be installed using a mod manager. Installing the Morrowind Code Patch is the first step to get Morrowind in working order.
+### Installation
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
-- Extract the contents of the **Morrowind Code Patch** main file to your Morrowind root directory, so that Morrowind Code Patch.exe and the mcpatch folder are in the same folder as Morrowind.exe.
-- Now download the **MCP beta** update file from [**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files).
-- Extract the contents of **MCP beta** to your Morrowind root directory, and overwrite when prompted. This will update the Morrowind Code Patch to version 2.5b4.
-- Execute the Morrowind Code Patch.exe as an administrator.
-- The amount of options available can be overwhelming. My recommendation is to install or skip patches as per [**this handy Google Sheets document**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
-- Once you finish installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your Morrowind folder. Do not delete it, as it is a backup of your pre-patched executable.
+The Morrowind Code Patch directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
 
-## TOOLS
+- Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder.
+
+[**Morrowind Code Patch Update**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+
+Beta update for the Morrowind Code Patch.
+
+- Place the contents of the **MCP beta** update file in your Morrowind **Root** folder, and overwrite when prompted.
+- This will update the Morrowind Code Patch to version 2.5b4.
+
+### Setup
+
+- In your Morrowind **Root** folder, execute **Morrowind Code Patch.exe** as an Administrator.
+- The amount of options available can be overwhelming. My recommendation is to select or skip patches as per [**this handy Google Sheets document**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
+- Once you've finished your patch selection, click on **Apply chosen patches**. You can now close the application.
+
+> After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
+
+## Tools
 
 Many tools have been made available to Morrowind over the years. This section will provide you with a basic guide to install the most useful tools.
 
