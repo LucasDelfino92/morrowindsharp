@@ -69,7 +69,8 @@ The Morrowind Code Patch directly patches bugs in the Morrowind program (Morrowi
 Repository for the Beta update for the Morrowind Code Patch.
 
 - Place the contents of the **MCP beta** update file in your Morrowind **Root** folder, and overwrite when prompted.
-- This will update the Morrowind Code Patch to version **2.5b4**.
+
+> This will update the Morrowind Code Patch to version **2.5b4**.
 
 ### Setup
 
