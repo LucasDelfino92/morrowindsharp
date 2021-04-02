@@ -319,9 +319,10 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
-- Check **Allow yes to all load errors**.
-
-> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
+- Under **Options**, check **Disable MGE in-game**.
+- Under **Morrowind engine settings**:
+  - Check **Allow screenshots**.
+  - Check **Allow yes to all load errors**.
 
 ### Configuring MGE XE for enhanced graphics
 
@@ -373,7 +374,15 @@ You must also modify your *Weather Settings* in the **Distant Land** tab to acco
 - Set the *Fog range factor* of all weathers to **1,000**.
 - Click *Save*.
 
+**In-game tab**
 
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
+
+- Under **Morrowind engine settings**:
+  - Check **Allow screenshots**.
+  - Check **Allow yes to all load errors**.
+
+> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
 
 [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
 
