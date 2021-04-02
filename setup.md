@@ -375,25 +375,23 @@ MGE XE receives constant support from the dedicated modding community, generally
 
 Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
 
-[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file)  
-Improved water shader.
-
-[**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file)  
-Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-
-[**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file)  
-Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-
-[**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file)  
-Improves the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
-
-> If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
-
-[**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file)  
+[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
 Reduces light seams.
 - This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
 
 > Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
+
+[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
+Improved water shader.
+
+[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
+Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+
+[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
+Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+
+[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
+Overhauls the game's lighting.
 
 Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
 
@@ -427,8 +425,6 @@ We need to modify our **Weather Settings** to account for the **16 Lights Shader
 This finishes the configuration of MGE XE.
 
 ## Onto Morrowind++
-
-
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
