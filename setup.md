@@ -373,7 +373,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
-The following shaders will be manually installed through Mod Organizer 2.
+Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
 
 [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file)  
 Improved water shader.
