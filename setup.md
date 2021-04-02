@@ -35,8 +35,7 @@ An example of a safe location is **C:\Games\Morrowind**.
 For the purpose of this guide, we will be using the following folder paths:
 
 - C:\Games\Morrowind, where Morrowind will be installed. This will be referred to from now on as your Morrowind **Root** folder. This folder contains the game's executable (**Morrowind.exe**), the game's launcher (**Morrowind Launcher.exe**), the game's .ini file (**Morrowind.ini**), and the **Data Files** folder, where all game assets and plugins are found.
-- C:\Games\Morrowind Mods, where you will keep your mods' archives. Whenever you download a mod for installation, I suggest you keep the archive here, should you need to reinstall it.
-- C:\Games\Morrowind Mods\Tools, where you will install your Morrowind tools.
+- C:\Games\Morrowind Mods, where you will keep your tools and mods' archives. Whenever you download a mod for installation, I suggest you keep the archive here, should you need to reinstall it.
 
 > Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
 
@@ -185,7 +184,7 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 
 Used to see the structure of mods and detect conflicts.
 
-- Extract the contents of the file in **Morrowind Mods\Tools\TES3View**. 
+- Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
 > The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
 
@@ -193,13 +192,13 @@ Used to see the structure of mods and detect conflicts.
 
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
-- Extract the contents of the file in **Morrowind Mods\Tools\TES3Merge**.
+- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
 
-- Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
+- Extract the contents of the file in **Morrowind Mods\TESAME**.
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
