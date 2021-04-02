@@ -1,6 +1,6 @@
 # MORROWIND++: A Morrowind Modding Guide
 
-## CONTACT INFO
+## Contact info
 
 You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
 
@@ -8,15 +8,13 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 - Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
-## DESCRIPTION
+## Description
 
 **Morrowind++** is the result of five years of playing Morrowind, looking up modding guides, installing mods, troubleshooting them, and engaging with other users (modders and end users alike). It's a modding guide that aims to enhance Morrowind across the board, based on the following pillars:
 
 - Performance and stability: with the exception of the optional MGE XE shaders, your game should perform better than vanilla, and crash considerably less. I can report less than a couple of crashes in hundreds of gameplay hours.
 - Faithfulness: mods suggested here will not turn Morrowind into an unrecognizable game. Unique gameplay elements and Morrowind's distinctive aesthetic won't be sacrificed in favor of "modernity". Everything that is suggested will simply improve on what's already there, blending in seamlessly with the vanilla game.
 - Compatibility: mod conflicts will be kept to a minimum in order to ensure all of them work as intended.
-
-## THE GUIDE
 
 **Morrowind++** is divided in three sections:
 
@@ -30,7 +28,7 @@ All mods present in Morrowind++ will have a brief description on what they do, a
 
 At the end of Morrowind++ you will find the install order and load order of the mods present in the guide. Following this order is very important to ensure mods work as intended.
 
-## FAQ
+## Frequently asked questions
 
 ### Is this guide compatible with OpenMW?
 
@@ -60,7 +58,7 @@ Setting up the game tools (**Setup**) is a very boring process: you are installi
 
 Bottomline is, it will take you far less time to install **Morrowind++** than setting up most other Morrowind guides, bar the most spartan ones.
 
-## MY SETUP
+## My setup
 
 When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
 
