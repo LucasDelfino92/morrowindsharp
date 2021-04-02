@@ -149,7 +149,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 Mod Organizer 2 has a feature called **Profiles**, which let you quickly change from one mod setup to another.
 
-- Click on the **Configure profiles** icon.
+- Click on **Configure profiles** ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Profiles.png).
 - Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
 - With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
 - With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
