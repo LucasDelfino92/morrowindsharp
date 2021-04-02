@@ -309,7 +309,7 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
 - Under **Display**:
-  - Select your resolution and refresh rate. Morrowind's maximum natively-supported resolution is 1600 × 1200, and does not support any aspect ratios other than 4:3. Recommended resolutions for a vanilla experience would be **1280 x 960** (4:3) and **1024 x 768** (4:3).
+  - Select your resolution and refresh rate. Morrowind's maximum natively-supported resolution is 1600 × 1200, and does not support any aspect ratios other than 4:3. Recommended resolutions for a vanilla experience would be **1280 x 960** (4:3), **1024 x 768** (4:3), and **640 x 480** (4:3), the last one being the resolution of in-game videos.
   - If you decide to go fullscreen, uncheck **Windowed mode**.
   - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
   - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
