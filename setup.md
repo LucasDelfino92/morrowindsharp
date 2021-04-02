@@ -38,7 +38,7 @@ For the purpose of this guide, we will be using the following folder paths:
 - C:\Games\Morrowind Mods, where you will keep your mods' archives.
 - C:\Games\Morrowind Mods\Tools, where you will install your Morrowind tools.
 
-> Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can download a JPG copy of the map from here.**](https://www.mediafire.com/view/fspx84p8ngg3eur/Morrowind_Game_of_the_Year_Map.jpg/file) If anyone has a higher resolution copy of the map, please send me a link so I can host it here.
+> Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
 
 ### Cleaning up your GOG installation
 
@@ -57,8 +57,6 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
 
 ## Morrowind Code Patch
-
-### Installation
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
