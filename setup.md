@@ -75,7 +75,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 ### Setup
 
 - In your Morrowind **Root** folder, execute **Morrowind Code Patch.exe** as an Administrator.
-- The amount of options available can be overwhelming. My recommendation is to select or skip patches as per [**this handy Google Sheets document**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
+- The Morrowind Code Patch will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Once you've finished your patch selection, click on **Apply chosen patches**. You can now close the application.
 
 > After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
