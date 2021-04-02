@@ -430,7 +430,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 > Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
-## Onto Morrowind++
+# Onto Morrowind++
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
