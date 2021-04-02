@@ -414,7 +414,7 @@ specialprocess
 deband_fogawarev2
 ```
 
-- Click **Save** before exiting.
+- Click **Save** after setting up your shader chain.
 
 **Distant Land tab**
 
