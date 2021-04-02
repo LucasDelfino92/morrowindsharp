@@ -2,7 +2,7 @@
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-## INDEX
+# INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
   - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
@@ -21,7 +21,7 @@
   - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
   - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
 
-## Installation
+# Installation
 
 The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
@@ -48,7 +48,7 @@ where you will keep your tools and mods' archives. Whenever you download a mod f
 
 > Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
 
-### Cleaning up your GOG installation
+## Cleaning up your GOG installation
 
 To clean up your GOG installation of Morrowind of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
 
@@ -64,7 +64,7 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
 
-## Morrowind Code Patch
+# Morrowind Code Patch
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
 
@@ -80,7 +80,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > This will update the Morrowind Code Patch to version **2.5b4**.
 
-### Setup
+## Setup
 
 - In your Morrowind **Root** folder, execute **Morrowind Code Patch.exe** as an Administrator.
 - The Morrowind Code Patch will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
@@ -88,7 +88,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
 
-## Wrye Mash
+# Wrye Mash
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
@@ -100,7 +100,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Click **Next >** until Wrye Mash has finished installing.
 - Uncheck **Launch Wrye Mash 2019 x64** and click **Finish**.
 
-### Setup
+## Setup
 
 - Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy** and click **OK** to to start the configuration wizard.
 - Click **Next>**. The wizard will now ask you to fill the following entries:
@@ -113,7 +113,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 >
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
-### tes3cmd
+## tes3cmd
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
@@ -122,7 +122,7 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
-## Mod Organizer 2
+# Mod Organizer 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
@@ -133,10 +133,7 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 - Download and run the **Mod Organizer 2** main file.
 - Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
 - Select **C:\Games\Morrowind Mods\MO2** as the destination location and click **Next >** until Mod Organizer 2 is installed.
-- Click **Finish**. This will launch Mod Organizer 2's initial setup.
-
-### Initial setup
-
+- Click **Finish**. This will launch Mod Organizer 2.
 - Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
 - You will be asked to select a game to manage. Click **Browse...** and select **C:\Games\Morrowind**.
 - You will be asked to select a folder where data will be stored. Select **C:\Games\Morrowind Mods\MO2**.
@@ -145,8 +142,6 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 > If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
 
-### Setup
-
 Before continuing to the next step, close Mod Organizer 2.
 
 - Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**.
@@ -154,7 +149,11 @@ Before continuing to the next step, close Mod Organizer 2.
 - Click **Accept** to close this window.
 - Run ModOrganizer.exe.
 
+## Configuration
+
 Mod Organizer 2 will now have launched. Here's some important things you should know.
+
+### Adjusting mod and load order
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**. So far, it should read as follows:
 
@@ -207,46 +206,6 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 **Morrowind++** will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
-## Tools
-
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
-
-[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
-Used to see the structure of mods and detect conflicts.
-
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
-
-> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
-Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
-
-[**TESAME**](http://mw.modhistory.com/download-95-15443)  
-Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
-
-### Setting up tools in Mod Organizer 2
-
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
-- In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
-- Click **Apply**, and repeat the process for the remaining tools.
-
-### Setting up Wrye Mash in Mod Organizer 2
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply* and then **OK**.
-
-> Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
-
 ### Installing Nexus mods with Mod Organizer 2
 
 Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Nexus accounts can be free or Premium (paid). This guide assumes you are a free user.
@@ -287,7 +246,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Name it **MGE XE** and click **OK**.
 - Click and drag the separator under both expansions.
 
-## MGE XE
+# MGE XE
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
@@ -301,7 +260,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Make a .zip out of the **Data Files** folder, and rename the .zip to **MGE XE Data Files**.
 - Manually install this mod in Mod Organizer 2.
 
-### Updating MWSE
+## Updating MWSE
 
 MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so that the newest Lua mods work straight away.
 
@@ -310,16 +269,16 @@ MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so 
 
 > Updating MWSE is recommended when you first install MGE XE, when you first get to playing Morrowind, and whenever you install mods that require MWSE. Bear in mind you don't need to repeat this process for each MWSE mod you install; just make sure you run the .exe after you are done installing MWSE mods.
 
-### Launching MGE XE through Mod Organizer 2
+## Launching MGE XE through Mod Organizer 2
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-### Configuring MGE XE
+## Configuring MGE XE
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
 
-**Graphics tab**
+### Graphics tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
@@ -332,7 +291,7 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
   - (Optional) Check **Display FPS** to see your framerate in-game.
   - (Optional) Set **FPS Limiter** to a reasonable framerate for increase consistency. I personally set it to **60**.
 
-**In-game tab**
+### In-game tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
@@ -345,7 +304,7 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 >
 > To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
 
-**Distant Land tab**
+### Distant Land tab
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
@@ -369,9 +328,11 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to interiors only by clicking on the dropdown menu.
 
-### Installing and configuring shaders
+# Shaders
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
+
+## Installing shaders in Mod Organizer 2
 
 Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
 
@@ -393,9 +354,14 @@ Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings
 [**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
 Overhauls the game's lighting.
 
+## Configuring shaders in MGE XE
+
 Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
 
-**Graphics tab**
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
+- Click **Run** to run the executable.
+
+### Graphics tab
 
 - Under **Renderer**, make sure **Enable shaders** is checked.
 - Click **Shader setup...**
@@ -414,7 +380,7 @@ deband_fogawarev2
 
 - Click **Save** after setting up your shader chain.
 
-**Distant Land tab**
+### Distant Land tab
 
 We need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
 
@@ -423,6 +389,46 @@ We need to modify our **Weather Settings** to account for the **16 Lights Shader
 - Click **Save**.
 
 This finishes the configuration of MGE XE.
+
+# Tools
+
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
+
+[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
+Used to see the structure of mods and detect conflicts.
+
+- Extract the contents of the file in **Morrowind Mods\TES3View**. 
+
+> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
+Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+
+- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
+
+[**TESAME**](http://mw.modhistory.com/download-95-15443)  
+Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+
+- Extract the contents of the file in **Morrowind Mods\TESAME**.
+
+## Setting up tools in Mod Organizer 2
+
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
+- In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
+- Click **Apply**, and repeat the process for the remaining tools.
+
+## Setting up Wrye Mash in Mod Organizer 2
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
+- Click **Apply* and then **OK**.
+
+> Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
 ## Onto Morrowind++
 
