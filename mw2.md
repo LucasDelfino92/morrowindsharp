@@ -68,7 +68,7 @@ The best unofficial fan patch for Morrowind.
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)  
 Includes fixes for all of the Official Plugins.
 - Install **UMOPP 3.1.0** only.
-- Hide all plugins except *bcsounds.ESP* and *master_index.ESP*
+- Hide all plugins except **bcsounds.ESP** and **master_index.ESP**
 
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks and stones.
@@ -82,12 +82,25 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 03 MGE XE Addon
   - [ ] 04 Weapon Sheathing Patch
   - [X] 05 Chuzei Fix
-- Hide **meshes\f\furn_web10.nif**. This mesh causes a certain cobweb to lose transparency at a distance when using Intelligent Textures (present in this guide).
+- Hide **meshes\f\furn_web10.nif** and **meshes\a\a_bonemold_chuzei_helmet.nif**.
+
+> The former mesh causes a transparency bug when used alongside Intelligent Textures. The latter prevents a bug where the Chuzei Helmet appears as a floating object in the world.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-- In the BAIN installer, tick **00 Core** only.
-- Hide **meshes\x\ex_imp_plat_01.nif**. This mesh is buggy and can cause problems when traveling from Raven Rock to Fort Frostmoth using the boat.
+- In the BAIN installer, check the following options:
+  - [X] 00 Core
+  - [ ] 10 Glow in the Dahrk Patch
+  - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
+  - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+  - [ ] 20 BC Mushrooms - Smoothed
+  - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+  - [ ] 30 Redware - Smoothed
+  - [ ] 40 Urns - Smoothed
+  - [ ] 50 Wood Poles - Hi-Res Texture
+- Hide **meshes\x\ex_imp_plat_01.nif**.
+
+> This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
@@ -98,7 +111,7 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
 - Install **Glowing Flames** only.
-- Hide *Glowing Flames - TrueLightsAndDarkness Tweaks.ESP*
+- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -114,20 +127,25 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 
 ## Non-purist fixes
 
-- [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by Petethegoat  
+[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-- [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
+
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720) by half11  
+
+[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot  
+
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-- [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?) by half11  
+
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-  - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-    - NPC **hecerinde**
-  - This omits the restoration of Hecerinde's Secret Master tools.
-- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
+- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+> NPC **hecerinde**
+- This omits the restoration of Hecerinde's Secret Master tools.
+
+[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ## HD textures
