@@ -347,7 +347,7 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 ### Installing and configuring shaders
 
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
 The following shaders will be manually installed through Mod Organizer 2.
 
@@ -365,12 +365,11 @@ Improves the game's lighting, and adds effects such as barrel distortion and chr
 
 > If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
 
-There's an additional shader that requires special attention:
-
 [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file)  
 Reduces light seams.
+- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
 
-A prerequisite for this patch is the [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z). Extract the contents of the file and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the shader file.
+> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
 
 **Graphics tab**
 
@@ -388,7 +387,6 @@ The shader combination that works the best for me, and which I personally recomm
 - EdgeAA
 - specialprocess
 - deband_fogawarev2
-
 
 **Distant Land tab**
 
