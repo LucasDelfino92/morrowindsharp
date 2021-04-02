@@ -65,4 +65,4 @@ CPU | Intel Core i5 4440
 RAM | 8GB
 Graphics | 1GB ATI AMD Radeon HD 7700 Series
 HDD | 1TB
-Resolution | 1080p
+Monitor | Samsung 24'' 1080p @ 60Hz
