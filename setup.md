@@ -1,8 +1,6 @@
-# SETUP
-
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# INDEX
+# SETUP INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
   - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
