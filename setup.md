@@ -300,6 +300,8 @@ MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
+There are two sections up ahead to choose from: "vanilla" graphics, and "enhanced" graphics. For simplicity's sake, the enhanced graphics section includes the information present in the vanilla graphics section.
+
 ### Configuring MGE XE for vanilla graphics
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
@@ -325,26 +327,20 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 ### Configuring MGE XE for enhanced graphics
 
+MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
+
 **Graphics tab**
 
-- I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
-- (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
-- (Optional) Check **Display FPS** to see your framerate in-game.
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
-All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
-
-- In the **Graphics** tab, click *Shader setup...*.
-- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
-
-The shader combination that works the best for me, and which I personally recommend, is the following:
-
-- SSAO HQ
-- Underwater Effects
-- Underwater Interior Effects
-- Sunshafts
-- EdgeAA
-- specialprocess
-- deband_fogawarev2
+- Under **Display**:
+  - Select your resolution and refresh rate.
+  - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
+  - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
+- Under **Renderer**:
+  - Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
+  - (Optional) Check **Display FPS** to see your framerate in-game.
+  - (Optional) Set **FPS Limiter** to a reasonable framerate for increase consistency. I personally set it to **60**.
 
 **Distant Land tab**
 
@@ -355,19 +351,16 @@ This tab lets you generate distant land, which in other words means you will see
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
 
 - Click **Distant land generator wizard**.
-- On the **Distant Land Setup Wizard**, click *Select all*. This will activate all the plugins in your load order, meaning they will be used for generating distant land.
-- Click *Continue*. This will open the **Distant Land Generation** window.
-  - **Automatic setup everything** will generate Distant Land for you.
-  - **Distant Land configuration setup...** will let you modify the Distant Land generation parameters. This is especially useful for those who want to lower the stress on their computers, or push their rigs to the max. If this is your first time generating distant land, the wizard will automatically proceed with this option.
-- In the **Land Textures** tab, simply click *Create Land Textures*.
-- In the **Land Meshes** tab, select *Ultra High* from the *World mesh detail* dropdown menu. Click *Create Land Meshes*.
+- On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
+- Click **Continue**. This will open the **Distant Land Generation** window.
+- In the **Land Textures** tab, simply click **Create Land Textures**.
+- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
 - In the **Statics** tab:
-  - Enable *Include reflective water in interiors*.
-  - Disable *Use lists of statics overriding parameters set above*.
-  - Click *Create Statics*.
-- Once the statics have been created, simply click **Finish**.
+  - Check **Include reflective water in interiors**.
+  - Click **Create Statics**.
+- Once the statics have been created, click **Finish**.
 
-> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. While not every mod modifies statics to the point of needing to regenerate them, it doesn't hurt to do so. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window.
+> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
@@ -393,7 +386,7 @@ This is an additional, beta patch for MGE XE that reduces light seams.
 
 - Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
 
-### Installing shaders
+### Installing and configuring shaders
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
 
@@ -411,6 +404,21 @@ Anti-Aliasing shader that provides even better results than the standard MGE XE 
 - [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
 Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
   - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
+
+The *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
+
+- In the **Graphics** tab, click *Shader setup...*.
+- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
+
+The shader combination that works the best for me, and which I personally recommend, is the following:
+
+- SSAO HQ
+- Underwater Effects
+- Underwater Interior Effects
+- Sunshafts
+- EdgeAA
+- specialprocess
+- deband_fogawarev2
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
