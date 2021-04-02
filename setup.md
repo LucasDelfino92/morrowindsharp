@@ -425,7 +425,7 @@ We need to modify our **Weather Settings** to account for the **16 Lights Shader
 
 This finishes the configuration of MGE XE.
 
-## Where to from now?
+## Onto Morrowind++
 
 
 
