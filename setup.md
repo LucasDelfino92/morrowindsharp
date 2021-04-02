@@ -35,7 +35,7 @@ An example of a safe location is **C:\Games\Morrowind**.
 For the purpose of this guide, we will be using the following folder paths:
 
 - C:\Games\Morrowind, where Morrowind will be installed. This will be referred to from now on as your Morrowind **Root** folder. This folder contains the game's executable (**Morrowind.exe**), the game's launcher (**Morrowind Launcher.exe**), the game's .ini file (**Morrowind.ini**), and the **Data Files** folder, where all game assets and plugins are found.
-- C:\Games\Morrowind Mods, where you will keep your mods' archives.
+- C:\Games\Morrowind Mods, where you will keep your mods' archives. Whenever you download a mod for installation, I suggest you keep the archive here, should you need to reinstall it.
 - C:\Games\Morrowind Mods\Tools, where you will install your Morrowind tools.
 
 > Morrowind originally shipped with a map detailing most of the major locations, and the game was designed with the map being available to players in mind. [**You can see this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
