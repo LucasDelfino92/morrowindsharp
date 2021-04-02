@@ -25,7 +25,7 @@
 
 The Morrowind we will be modding is the Game of the Year Edition, [**available for purchase at gog.com**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE). This version includes the two main expansions (Tribunal and Bloodmoon) and all official Bethesda add-ons.
 
-> While I'm aware Morrowind: Game of the Year Edition is also for sale at Steam, I've heard numerous reports of Mod Organizer 2, the mod manager this guide was designed with in mind, not working nicely with it.
+> Users have reported issues with Mod Organizer 2 when using the Steam version of the game, which is why the Steam release is not supported by this guide.
 
 > OpenMW, an open source recreation of Morrowind, is strictly incompatible with this guide.
 
