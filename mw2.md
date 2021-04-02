@@ -142,23 +142,26 @@ Automatically synchronizes linked doors locked/unlocked state on activate, lock/
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
-> NPC **hecerinde**
-- This omits the restoration of Hecerinde's Secret Master tools.
+  - NPC **hecerinde**
+
+> This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 ## HD textures
 
-- [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-  - In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
-- [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+- In the BAIN installer, tick **00 Core** and **01 Atlas Textures**.
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
 Addresses numerous mesh issues with the vanilla head meshes, leading to much better looking faces overall.
-  - Install **kart_facelift_meshes** and **kart_facelift_textures** only.
-- [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
+- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
+
+[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
 Pluginless replacer version of the 8 base khajiit heads.
-  - Install **Pluginless Khajiit Head Pack - Whiskers Version** only.
+- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
 
 # UI AND HOTKEYS MODULE
 
