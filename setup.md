@@ -345,12 +345,6 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 > To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
 
-[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
-
-This is an additional, beta patch for MGE XE that reduces light seams.
-
-- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
-
 ### Installing and configuring shaders
 
 MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
@@ -359,6 +353,7 @@ The following shaders will be installed through Mod Organizer 2, like virtually 
 
 - [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
   - This is a required install. Without it, you will encounter issues in your game.
+  - A prerequisite for this patch is the [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z). Extract the contents of the file and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the shader file.
 - [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
 Reworked version of the MGE XE standard water shader.
   - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
