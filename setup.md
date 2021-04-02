@@ -165,17 +165,17 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
 
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
-- Use CTRL+F to input the bolded names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
+- Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
 ```
-**[Weather Rain]**  
-Rain Diameter=1200  
-Max Raindrops=1500  
-**[Weather Thunderstorm]**  
-Rain Diameter=1200  
-Max Raindrops=3000  
-**[Weather Snow]**  
-Snow Diameter=1600  
+[Weather Rain]
+Rain Diameter=1200
+Max Raindrops=1500
+[Weather Thunderstorm]
+Rain Diameter=1200
+Max Raindrops=3000
+[Weather Snow]
+Snow Diameter=1600
 Max Snowflakes=1500
 ```
 
