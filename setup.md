@@ -103,13 +103,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 > We will be using Mod Organizer 2 to install our mods, meaning the **Mods Installers directory** is redundant to us. However, it is a required step to install Wrye Mash.
 
-> Mlox is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
-
-
-
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
-
-> Though many tools have been made available over the years, we will be installing the ones we need for this guide.
+> **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
 ## Mod Organizer 2
 
@@ -172,6 +166,10 @@ Now that we've done all preliminary adjustments, we can set up our profiles. Pro
 On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ## Tools
+
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
+
+> Though many tools have been made available over the years, we will be installing the ones we need for this guide.
 
 [**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)
 
