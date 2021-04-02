@@ -110,7 +110,6 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
-- Install **Glowing Flames** only.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?)  
