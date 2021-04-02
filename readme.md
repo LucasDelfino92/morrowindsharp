@@ -4,9 +4,9 @@
 
 You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
 
-- Nexus Mods user: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
-- Reddit user: [Sigourn](https://www.reddit.com/user/Sigourn)
-- RPG Codex user: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
+- Nexus Mods: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
+- Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
+- RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
 ## Description
 
