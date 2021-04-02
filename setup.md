@@ -303,7 +303,8 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
 - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
 - I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
-- Check **Enable shaders** under **Renderer** if you want to enable post-processing shaders. We will configure these later.
+- (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
+- (Optional) Check **Display FPS** to see your framerate in-game.
 
 **Distant Land tab**
 
