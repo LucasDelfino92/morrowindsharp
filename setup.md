@@ -308,12 +308,11 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
-- Under **Display**, select your correct resolution and refresh rate.
-- Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
-- **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
-- I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
-- (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
-- (Optional) Check **Display FPS** to see your framerate in-game.
+- Under **Display**:
+  - Select your resolution and refresh rate. Morrowind's maximum natively-supported resolution is 1600 × 1200, and does not support any aspect ratios other than 4:3.
+  - If you decide to go fullscreen, uncheck **Windowed mode**.
+  - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
+  - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
 
 **In-game tab**
 
@@ -327,6 +326,10 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
 ### Configuring MGE XE for enhanced graphics
 
 **Graphics tab**
+
+- I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
+- (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
+- (Optional) Check **Display FPS** to see your framerate in-game.
 
 All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
 
