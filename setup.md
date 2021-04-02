@@ -145,35 +145,33 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
-### Setting up Profiles
-
-Mod Organizer 2 has a feature called **Profiles**, which let you quickly change from one mod setup to another.
-
-- Click on **Configure profiles** ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Profiles.png).
-- Enable *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure Automatic Archive Invalidation is disabled.
-- With the **Default** profile selected, click *Rename*. Type in **Vanilla** and click *OK*.
-- With the **Vanilla** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
-- Close this window.
-
-On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
-
 ### Adjusting Morrowind.ini
 
-Earlier we installed the Morrowind Code Patch. One of its patches, **Rain/snow collision**, requires a few .ini edits to work properly.
+One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
 
-- Run **ModOrganizer.exe**. 
-- Click on the **Tools** icon, which resembles a jigsaw puzzle, and click **INI Editor**.
-- On the morrowind.ini that just opened, adjust the following values. Use CTRL+F to input the bolded names and find them easily. Note that the **Weather Snow** section may be found much further down below than the others.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
+- Use CTRL+F to input the bolded names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
   - **[Weather Rain]**
-  - Rain Diameter=600 -> Increase the value to **1200**
-  - Max Raindrops=450 -> Increase the value to **1500**
+  - Rain Diameter=1200
+  - Max Raindrops=1500
   - **[Weather Thunderstorm]**
-  - Rain Diameter=600 -> Increase the value to **1200**
-  - Max Raindrops=650 -> Increase the value to **3000**
+  - Rain Diameter=1200
+  - Max Raindrops=3000
   - **[Weather Snow]**
-  - Snow Diameter=800 -> Increase the value to **1600**
-  - Max Snowflakes=750 -> Increase the value to **1500**
+  - Snow Diameter=1600
+  - Max Snowflakes=1500
 - Click **Save** and close the window.
+
+### Setting up Profiles
+
+Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
+
+- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Profiles.png) button.
+- Check *Use profile-specific Game INI files* and *Use profile-specific Save Games*. Make sure *Automatic Archive Invalidation* is unchecked.
+- With the **Default** profile selected, click *Copy*. Type in **Morrowind++** and click *OK*.
+- Click the **Morrowind++** profile and click **Select**. This will close the window.
+
+**Morrowind++** will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ## Tools
 
@@ -208,7 +206,7 @@ Used to clean plugins by automatically deleting identical-to-master records (rec
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download tes3cmd.exe.
 - Place tes3cmd.exe in Morrowind's **Data Files** folder.
 
-### Setup in Mod Organizer 2
+### Setting up tools in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, and **TESAME**.
 
