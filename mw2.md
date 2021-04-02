@@ -66,7 +66,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 The best unofficial fan patch for Morrowind.
 
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)  
-Includes fixes for all of the Official Plugins.
+Patch compilation for all official plugins.
 - Install **UMOPP 3.1.0** only.
 - Hide all plugins except **bcsounds.ESP** and **master_index.ESP**
 
