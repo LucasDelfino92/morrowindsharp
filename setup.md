@@ -415,7 +415,9 @@ The shader combination that works the best for me, and which I personally recomm
 - specialprocess
 - deband_fogawarev2
 
-You must also modify your **Weather Settings** in the **Distant Land** tab to account for the **16 Lights Shaders Alpha** pack we installed earlier.
+**Distant Land tab**
+
+We need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
 
 - Click **Weather Settings**.
 - Set the **Fog range factor** of all weathers to **1,000**.
