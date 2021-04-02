@@ -213,7 +213,7 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
-- Click on the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
 - In the *Start In* field, select your Morrowind **Root** folder (C:\Games\Morrowind).
@@ -221,7 +221,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 ### Setting up Wrye Mash in Mod Organizer 2
 
-- Click on the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply* and then **OK**.
@@ -232,12 +232,17 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Mod Organizer 2 is associated with Nexus links, meaning you can download mods using Mod Organizer 2. However, there are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you download the file and install it manually with Mod Organizer 2.
 
-We will be installing our first file shortly, but first you need to know how to install a mod through Mod Organizer 2.
+One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to install our first mod.
 
-- Click on the **Install a new mod from an archive** icon, which resembles a hard drive. 
-- Select the file you want to install.
-- MO2 will prompt you to give the installed mod a name. Click **OK**.
-- Your mod will appear on the left window. To enable it, tick the box to its left. If the mod includes plugins, these will appear ticked on the right window as well.
+[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)
+
+Fixes UV mapping on rocks.
+
+- Click the **Download** button to start the download.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
+- Navigate to the folder where the downloaded file is stored and double click on it.
+- MO2 will prompt you to give the installed mod a name. I suggest renaming it to **Correct UV Rocks**. Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
 
 ### Creating separators in Mod Organizer 2
 
