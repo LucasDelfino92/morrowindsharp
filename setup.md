@@ -288,42 +288,32 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 ### Launching MGE XE
 
-Once you have installed the shaders, we can finally run and configure MGE XE through Mod Organizer 2.
-
-- Launch Mod Organizer 2.
-- From the dropdown menu to the left of the **Run** button, select **MGE XE**. 
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
+
+### Configuring MGE XE
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. But in practice, users will only focus on the Graphics, Distant Land, and In-Game tabs.
 
-### Graphics tab
+**Graphics tab**
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
-All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
+- Under **Display**, select your correct resolution and refresh rate.
+- Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
+- **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
+- I recommend setting your **FPS Limiter** to a more reasonable framerate to increase consistency. I personally set it to **60**.
+- Check **Enable shaders** under **Renderer** if you want to enable post-processing shaders. We will configure these later.
 
-- In the **Graphics** tab, click *Shader setup...*.
-- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
-
-The shader combination that works the best for me, and which I personally recommend, is the following:
-
-- SSAO HQ
-- Underwater Effects
-- Underwater Interior Effects
-- Sunshafts
-- EdgeAA
-- specialprocess
-- deband_fogawarev2
-
-### Distant Land tab
+**Distant Land tab**
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Distant%20Land%20Tab.png)
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it it really boils down to personal taste. Most important of all, Distant Land can really hurt your FPS, especially when used alongside shaders (the more land you see, the more land shaders have to take into consideration).
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
-The first thing you will notice about this tab is that all options minus **Use Distant Land** and **Distant land generator wizard** are disabled. We need to generate distant land first for these options to become available.
+All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
 
-- Click *Distant land generator wizard*.
+- Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click *Select all*. This will activate all the plugins in your load order, meaning they will be used for generating distant land.
 - Click *Continue*. This will open the **Distant Land Generation** window.
   - **Automatic setup everything** will generate Distant Land for you.
@@ -346,7 +336,7 @@ You must also modify your *Weather Settings* in the **Distant Land** tab to acco
 - Set the *Fog range factor* of all weathers to **1,000**.
 - Click *Save*.
 
-### In-game tab
+**In-game tab**
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
@@ -361,14 +351,20 @@ The default settings on this tab are pretty good, but there are a handful more y
 
 
 
+All features in this page are self-explaining, but the *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
 
+- In the **Graphics** tab, click *Shader setup...*.
+- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
 
+The shader combination that works the best for me, and which I personally recommend, is the following:
 
-
-
-
-
-
+- SSAO HQ
+- Underwater Effects
+- Underwater Interior Effects
+- Sunshafts
+- EdgeAA
+- specialprocess
+- deband_fogawarev2
 
 [**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
 
