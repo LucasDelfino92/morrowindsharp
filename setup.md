@@ -286,7 +286,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Make a .zip out of the **Data Files** folder, and rename the .zip to **MGE XE Data Files**.
 - Manually install this mod in Mod Organizer 2.
 
-### Launching MGE XE
+### Launching MGE XE through Mod Organizer 2
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
