@@ -60,7 +60,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 # CORE MODULE
 
-## Bug fixes and optimization
+## Patches
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 The best unofficial fan patch for Morrowind.
@@ -69,6 +69,8 @@ The best unofficial fan patch for Morrowind.
 Includes fixes for all of the Official Plugins.
 - Install **UMOPP 3.1.0** only.
 - Hide all plugins except **bcsounds.ESP** and **master_index.ESP**
+
+## Mesh fixes and optimization
 
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks and stones.
@@ -112,22 +114,24 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+## MWSE fixes
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
 ## Non-purist fixes
-
-[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -135,15 +139,15 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
   - NPC **hecerinde**
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
+
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?)  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
