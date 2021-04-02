@@ -179,7 +179,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
 
-> Though many tools have been made available over the years, we will be installing the ones we need for this guide.
+> I won't cover all tools made available over the years, just the ones the guide relies on.
 
 [**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)
 
