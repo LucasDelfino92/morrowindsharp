@@ -315,32 +315,7 @@ MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-There are two sections up ahead to choose from: "vanilla" graphics, and "enhanced" graphics. For simplicity's sake, the enhanced graphics section includes the information present in the vanilla graphics section.
-
-### Configuring MGE XE for vanilla graphics
-
-MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
-
-**Graphics tab**
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
-
-- Under **Display**:
-  - Select your resolution and refresh rate. Morrowind's maximum natively-supported resolution is 1600 × 1200, and does not support any aspect ratios other than 4:3. Recommended resolutions for a vanilla experience would be **1280 x 960** (4:3), **1024 x 768** (4:3), and **640 x 480** (4:3), the last one being the resolution of in-game videos.
-  - If you decide to go fullscreen, uncheck **Windowed mode**.
-  - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
-  - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing. 
-
-**In-game tab**
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
-
-- Under **Options**, check **Disable MGE in-game**.
-- Under **Morrowind engine settings**:
-  - Check **Allow screenshots**.
-  - Check **Allow yes to all load errors**.
-
-### Configuring MGE XE for enhanced graphics
+### Configuring MGE XE
 
 MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
 
@@ -356,6 +331,62 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
   - Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
   - (Optional) Check **Display FPS** to see your framerate in-game.
   - (Optional) Set **FPS Limiter** to a reasonable framerate for increase consistency. I personally set it to **60**.
+
+**In-game tab**
+
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
+
+- Under **Morrowind engine settings**:
+  - Check **Allow yes to all load errors**.
+
+> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
+
+> If you have no interest whatsoever in MGE XE's enhanced graphics options, like Distant Land and Shaders, you can check **Disable MGE in-game**. Feel free to skip the remainder of the **Setup** guide, as we will be configuring those next.
+
+> To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
+
+[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
+
+This is an additional, beta patch for MGE XE that reduces light seams.
+
+- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
+
+### Installing and configuring shaders
+
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
+
+The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
+
+- [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
+  - This is a required install. Without it, you will encounter issues in your game.
+- [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
+Reworked version of the MGE XE standard water shader.
+  - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
+- [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
+Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+- [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
+Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
+- [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
+Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
+  - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
+
+**Graphics tab**
+
+The **Enable shaders** option under **Renderer** is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
+
+- In the **Graphics** tab, click *Shader setup...*.
+- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
+
+The shader combination that works the best for me, and which I personally recommend, is the following:
+
+- SSAO HQ
+- Underwater Effects
+- Underwater Interior Effects
+- Sunshafts
+- EdgeAA
+- specialprocess
+- deband_fogawarev2
+
 
 **Distant Land tab**
 
@@ -386,56 +417,6 @@ You must also modify your **Weather Settings** in the **Distant Land** tab to ac
 - Click **Weather Settings**.
 - Set the **Fog range factor** of all weathers to **1,000**.
 - Click **Save**.
-
-**In-game tab**
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
-
-- Under **Morrowind engine settings**:
-  - Check **Allow screenshots**.
-  - Check **Allow yes to all load errors**.
-
-> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
-
-[**MGE XE 0.11.6-PPL-beta**](https://cdn.discordapp.com/attachments/381217735306248192/589588302072381468/MGE_XE_0.11.6-PPL-beta.7z) by Hrnchamd  
-
-This is an additional, beta patch for MGE XE that reduces light seams.
-
-- Extract the contents of the file, and paste the **d3d8.dll** into your Morrowind root directory, overwriting when prompted. You don't need the other files.
-
-### Installing and configuring shaders
-
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. For the purpose of this guide, I'll refer you to the ones I personally use. Please note that shaders tend to be performance intensive. If your machine has considerably better specs than mine (listed in the home page) then you should be able to play just fine.
-
-The following shaders will be installed through Mod Organizer 2, like virtually all Morrowind mods.
-
-- [**MGE XE Shader - 16 Lights Shaders Alpha**](http://www.mediafire.com/file/g3tjlsyapgsi0og/MGE+XE+Shader+-+16+Lights+Shaders+Alpha.zip/file) by Hrnchamd  
-  - This is a required install. Without it, you will encounter issues in your game.
-- [**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](http://www.mediafire.com/file/3mzec4pbb5qg0nn/MGE+XE+Shader+-+Enhanced+Water+Shader+2.1+Green-Blue.zip/file) by Krokantor  
-Reworked version of the MGE XE standard water shader.
-  - Though this shader includes vastly improved water effects, I'm personally not fond of the overly blue water, and prefer to play without it.
-- [**MGE XE Shader - Deband_Fogaware v2**](http://www.mediafire.com/file/3vtfd24m97hc77z/MGE+XE+Shader+-+Deband_Fogaware+v2.zip/file) by Hrnchamd and vtastek  
-Shader that improves on the look of the game's fog by getting rid of [banding](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-- [**MGE XE Shader - EdgeAA**](http://www.mediafire.com/file/31jsqmbidyzo6k7/MGE+XE+Shader+-+EdgeAA.zip/file) ported by vtastek  
-Anti-Aliasing shader that provides even better results than the standard MGE XE anti-aliasing. Use this shader and the in-built MGE XE AA settings at the same time for best results.
-- [**MGE XE Shader - specialprocess**](http://www.mediafire.com/file/sc8rquccu1au0vw/MGE+XE+Shader+-+specialprocess.zip/file) by vtastek  
-Shader that dramatically improves on the game's lighting, and adds effects such as barrel distortion and chromatic aberration.
-  - If you don't want chromatic aberration, download the [**No Chromatic Aberration**](https://cdn.discordapp.com/attachments/705627823104327680/792821592395612270/MGE_XE_Shader_-_Specialprocess_No_Chromatic_Aberration_August_11th_2020.zip) version instead.
-
-The *Enable shaders* option under *Renderer* is of particular note. When enabling shaders, tons of new visual toys will be available for you to play with in *Shader setup...*. There you can activate the different shaders integrated into MGE XE (all of which are really cool to be honest), though these come at the cost of performance, which can be significant depending on your computer build.
-
-- In the **Graphics** tab, click *Shader setup...*.
-- On the **Set active shaders** window, click on *Modding >>>*. Double clicking on the *Available shaders* makes them *Active shaders*, meaning the game will run them. Make sure you click *Save* before exiting!
-
-The shader combination that works the best for me, and which I personally recommend, is the following:
-
-- SSAO HQ
-- Underwater Effects
-- Underwater Interior Effects
-- Sunshafts
-- EdgeAA
-- specialprocess
-- deband_fogawarev2
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
 [To Morrowind++ >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind)
