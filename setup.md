@@ -225,19 +225,29 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 > Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
-### Installing Nexus mods in Mod Organizer 2
+### Installing Nexus mods with Mod Organizer 2
 
-Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Mod Organizer 2 is associated with Nexus links, meaning you can download mods using Mod Organizer 2.
+Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Nexus accounts can be free or Premium (paid). This guide assumes you are a free user.
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-- Unofficial fan patch for Morrowind, regularly maintained.
+Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
 
-### Manually installing mods in Mod Organizer 2
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
+Unofficial fan patch for Morrowind, regularly maintained.
 
-There are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you download the file and install it manually with Mod Organizer 2. One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to install our first mod.
+- Click **Mod manager download** under the **Patch for Purists** main file.
+- Click **Slow download**.
+- In Mod Organizer 2, click on the **Downloads** tab.
+- Right click on the downloaded file, and click **Install**.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+- Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
+
+### Installing other mods in Mod Organizer 2
+
+There are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you to download the file and add it manually to Mod Organizer 2. One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to showcase this process.
 
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
-- Fixes UV mapping on rocks.
+Fixes UV mapping on rocks.
 
 - Click the **Download** button to start the download.
 - In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
@@ -245,18 +255,13 @@ There are a number of mods hosted in other pages (such as [**Morrowind Modding H
 - MO2 will prompt you to give the installed mod a name. I suggest renaming it to **Correct UV Rocks**. Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
-### Creating separators in Mod Organizer 2
+### Creating a separator in Mod Organizer 2
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separator for the upcoming **MGE XE** section.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create a separator for the upcoming **MGE XE** section.
 
-- Right click on the empty space on the mod order window, below *Overwrite*, and click **Create Separator**.
+- Right click on the empty space on the left pane, below *Overwrite*, and click **Create Separator**.
 - Name it **MGE XE** and click **OK**.
-
-This will create a separator which you can move up and down in the left window, but for the sake of this guide keep it below the Morrowind expansions, like so:
-
-- DLC: Tribunal
-- DLC: Bloodmoon
-- **MGE XE**
+- Click and drag the separator under both expansions.
 
 ## MGE XE
 
