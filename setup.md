@@ -115,11 +115,11 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 ## Mod Organizer 2
 
+[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 
 > Nexus Mod Manager and Vortex are two popular mods managers, however, they have many issues of their own and you should avoid them.
-
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 - Download and run the **Mod Organizer 2** main file.
 - Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
@@ -225,14 +225,19 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 > Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
-### Installing mods in Mod Organizer 2
+### Installing Nexus mods in Mod Organizer 2
 
-Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Mod Organizer 2 is associated with Nexus links, meaning you can download mods using Mod Organizer 2. However, there are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you download the file and install it manually with Mod Organizer 2.
+Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Mod Organizer 2 is associated with Nexus links, meaning you can download mods using Mod Organizer 2.
 
-One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to install our first mod.
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+- Unofficial fan patch for Morrowind, regularly maintained.
+
+### Manually installing mods in Mod Organizer 2
+
+There are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you download the file and install it manually with Mod Organizer 2. One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to install our first mod.
 
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
-Fixes UV mapping on rocks.
+- Fixes UV mapping on rocks.
 
 - Click the **Download** button to start the download.
 - In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
