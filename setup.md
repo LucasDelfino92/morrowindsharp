@@ -276,7 +276,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. It also supports MWSE 2.1 beta, included as part of the installer, so that the newest Lua mods work straight away.
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features.
 
 > Make sure you close Mod Organizer 2 before continuing. Many users have reported issues in the past because Mod Organizer 2 wouldn't register MGE XE until it was closed and launched again.
 
@@ -285,6 +285,15 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Return to the previously omitted **Data Files** folder, and delete the **XE Sky Variations.esp**.
 - Make a .zip out of the **Data Files** folder, and rename the .zip to **MGE XE Data Files**.
 - Manually install this mod in Mod Organizer 2.
+
+### Updating MWSE
+
+MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so that the newest Lua mods work straight away.
+
+- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
+- A window will open and close shortly after, having updated MWSE to the latest version.
+
+> Updating MWSE is recommended when you first install MGE XE, when you first get to playing Morrowind, and whenever you install mods that require MWSE. Bear in mind you don't need to repeat this process for each MWSE mod you install; just make sure you run the .exe after you are done installing MWSE mods.
 
 ### Launching MGE XE through Mod Organizer 2
 
