@@ -167,6 +167,7 @@ One of the patches we installed with the Morrowind Code Patch, **Rain/snow colli
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
 - Use CTRL+F to input the bolded names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
+```
 **[Weather Rain]**  
 Rain Diameter=1200  
 Max Raindrops=1500  
@@ -176,6 +177,7 @@ Max Raindrops=3000
 **[Weather Snow]**  
 Snow Diameter=1600  
 Max Snowflakes=1500
+```
 
 - Click **Save** and close the window.
 
