@@ -75,12 +75,13 @@ Fixes UV mapping on rocks and stones.
 
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
 Greatly improves performance and fixes some mesh errors.
-- In the BAIN installer, tick the following options only:
-  - **00 Core**
-  - **01 Fixed Vanilla Textures**
-  - **02 Lake Fjalding Anti-Suck**
-  - **03 MGE XE Addon**
-  - **05 Chuzei Fix**
+- In the BAIN installer, check the following options:
+  - [X] 00 Core
+  - [X] 01 Fixed Vanilla Textures
+  - [X] 02 Lake Fjalding Anti-Suck
+  - [X] 03 MGE XE Addon
+  - [ ] 04 Weapon Sheathing Patch
+  - [X] 05 Chuzei Fix
 - Hide **meshes\f\furn_web10.nif**. This mesh causes a certain cobweb to lose transparency at a distance when using Intelligent Textures (present in this guide).
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
