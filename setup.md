@@ -80,51 +80,36 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
 
-## Tools
+## Wrye Mash
+
+[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
+
+Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
+
+- Download and run the **Wrye Mash 2019 x64 - Installer** main file.
+- Tick **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
+- Select **C:\Games\Morrowind** as the destination location and click **Next >**. When Wrye Mash tells you the folder already exists, click **Yes** to install.
+- Click **Next >** until Wrye Mash has finished installing.
+- Untick **Launch Wrye Mash 2019 x64** and click **Finish**.
+
+### Setup
+
+- Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy** and click **OK** to to start the configuration wizard.
+- Click **Next>**. The wizard will now ask you to fill the following entries:
+   - **Morrowind directory**: select your Morrowind **Root** folder (C:\Games\Morrowind). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
+   - **Mods Installers directory**: select your Morrowind mods folder (C:\Games\Morrowind Mods).
+- Click **Next>** and then click **Finish**.
+- Wrye Mash x64 should now launch. Close the program.
+
+> We will be using Mod Organizer 2 to install our mods, meaning the **Mods Installers directory** is redundant to us. However, it is a required step to install Wrye Mash.
+
+> Mlox is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
+
+
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
 
 > Though many tools have been made available over the years, we will be installing the ones we need for this guide.
-
-[**TES3View**](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
-
-This tool is used to see the structure of mods, allowing you to see conflicts between them and thus letting you decide how to solve said conflicts.
-
-- Extract the contents of the file in **Morrowind Mods\Tools\TES3View**. 
-
-> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
-
-This tool is used for solving conflicts between plugins, forwarding conflicting records into a single merged plugin to combine non-conflicting edits.
-
-- Extract the contents of the file in **Morrowind Mods\Tools\TES3Merge**.
-
-[**TESAME**](http://mw.modhistory.com/download-95-15443)
-
-This tool is used for solving conflicts between plugins and also cleaning them, by deleting conflicting or dirty records (identical duplicates of the game's original records that may have been unintended by the mod author).
-
-- Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
-
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
-
-This tool is used for cleaning plugins, deleting dirty records (identical duplicates of the game's original records that may have been unintended by the mod author), fixing unnecessary information present in cell edits, and also to generate a multipatch (which most importantly fixes conflicting leveled list entries).
-
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download tes3cmd.exe.
-- Place tes3cmd.exe in Morrowind's **Data Files** folder.
-
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
-
-This tool is used for repairing and updating saves, updating the masters of mods you may install, and using tes3cmd to clean plugins and generate a multipatch.
-
-- Download the **Wrye Mash 2019 - x64 - manual installation archive** main file.
-- Extract the contents of the file, rename the **Mopy** folder to **WryeMash**, and place the folder in **Morrowind Mods\Tools**. We don't need the other files included in the archive.
-- Run **mash64.exe** found in **Morrowind Mods\Tools\WryeMash**. This will launch the Wrye Mash 2019 Configuration Wizard.
-- Click **Next>**. The Wizard will ask you to fill the following paths:
-   - **Morrowind directory**: select your Morrowind root folder (for instance, C:\Games\Morrowind). You should get a message saying that the morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (for instance, C:\Games\Morrowind Mods). We don't really care about this path because we will be using Mod Organizer 2 to install our mods, but it's a good idea to give WryeMash a proper path anyhow.
-   - **Mlox directory (Optional)**: we won't be using Mlox, so leave this path empty.
-- With the corresponding paths filled, click **Next>**. In the next screen, click **Finish**. Wrye Mash x64 should now launch. Simply close the window.
 
 ## MOD ORGANIZER 2
 
@@ -186,7 +171,36 @@ Now that we've done all preliminary adjustments, we can set up our profiles. Pro
 
 On the *Profile* dropdown menu below the ID card icon, select **Morrowind++**. This will be the profile we will be modding, and you can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
-### SETTING UP TOOLS IN MOD ORGANIZER 2
+## Tools
+
+[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)
+
+Used to see the structure of mods and detect conflicts.
+
+- Extract the contents of the file in **Morrowind Mods\Tools\TES3View**. 
+
+> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
+Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+
+- Extract the contents of the file in **Morrowind Mods\Tools\TES3Merge**.
+
+[**TESAME**](http://mw.modhistory.com/download-95-15443)
+
+Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+
+- Extract the contents of the file in **Morrowind Mods\Tools\TESAME**.
+
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
+
+Used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**.
+
+- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download tes3cmd.exe.
+- Place tes3cmd.exe in Morrowind's **Data Files** folder.
+
+### Setup in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, and **TESAME**.
 
@@ -203,7 +217,7 @@ Follow these steps for **Wrye Mash**.
 - Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind Mods\Tools\WryeMash) and double click on it.
 - Click *Apply* and then *OK*.
 
-### INSTALLING MODS IN MOD ORGANIZER 2
+### Installing mods in Mod Organizer 2
 
 We will be installing our first file shortly, but first you need to know how to install a mod through Mod Organizer 2.
 
@@ -212,7 +226,7 @@ We will be installing our first file shortly, but first you need to know how to 
 - MO2 will prompt you to give the installed mod a name. Click **OK**.
 - Your mod will appear on the left window. To enable it, tick the box to its left. If the mod includes plugins, these will appear ticked on the right window as well.
 
-### CREATING SEPARATORS IN MOD ORGANIZER 2
+### Creating separators in Mod Organizer 2
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create our first separator for the upcoming **MGE XE** section.
 
