@@ -104,6 +104,15 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
+### tes3cmd
+
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
+
+tes3cmd is a tool used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**. When needed, we will run it through Wrye Mash.
+
+- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
+- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
+
 ## Mod Organizer 2
 
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
@@ -200,31 +209,28 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 
 - Extract the contents of the file in **Morrowind Mods\TESAME**.
 
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
-
-Used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**.
-
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download tes3cmd.exe.
-- Place tes3cmd.exe in Morrowind's **Data Files** folder.
-
 ### Setting up tools in Mod Organizer 2
 
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. Repeat these steps for each of the following tools: **TES3View**, **TES3Merge**, and **TESAME**.
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
-- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
-- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
-- Navigate to the location of the tool you want to install and double click its .exe file.
-- In the *Start In* field, select your Morrowind root folder (for instance, C:\Games\Morrowind).
-- Click *Apply* and then *OK*.
+- Click on the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
+- In the *Start In* field, select your Morrowind **Root** folder (C:\Games\Morrowind).
+- Click **Apply**, and repeat the process for the remaining tools.
 
-Follow these steps for **Wrye Mash**.
+### Setting up Wrye Mash in Mod Organizer 2
 
-- Click on the **Configure the executables that can be started through Mod Organizer** icon, which resembles gears.
-- In the *Modify Executables* window, click *Add an executable* (blue plus icon) and select *Add from file...*.
-- Navigate to the location of mash64.exe (for instance, C:\Games\Morrowind Mods\Tools\WryeMash) and double click on it.
-- Click *Apply* and then *OK*.
+- Click on the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
+- Click **Apply* and then **OK**.
+
+> Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
 ### Installing mods in Mod Organizer 2
+
+Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Mod Organizer 2 is associated with Nexus links, meaning you can download mods using Mod Organizer 2. However, there are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you download the file and install it manually with Mod Organizer 2.
 
 We will be installing our first file shortly, but first you need to know how to install a mod through Mod Organizer 2.
 
