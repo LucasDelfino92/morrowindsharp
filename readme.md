@@ -44,7 +44,7 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 ### How many plugins and mods are there?
 
-Morrowind++ consists of roughly 70 mods and 20 new plugins. You can always pick and choose what you'd like to install if this sounds too daunting to you. Very, very few mods depend on others to work as intended. Those that do are clearly pointed out in the guide. Working on this mod list, it was very important for me to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
+Morrowind++ consists of roughly 70 mods and 20 new plugins. I tried to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
 ### How much space do I need to install these mods?
 
@@ -52,11 +52,7 @@ Roughly 4GB. This accounts for installed (that is, uncompressed) mods and also t
 
 ### How much time will it take me to install all mods?
 
-It depends!
-
-Setting up the game tools (**Setup**) is a very boring process: you are installing stuff you will need in the future, but not any fun mods. **Morrowind++** is a long guide, but thankfully you can simply focus on the **Core** and **Gameplay** modules if you want to jump into the game as soon as possible, with **Yet Another Guard Diversity** (under Visuals) being the *only* other mod you should install before beginning a new playthrough. The entirety of this process should last you no longer than an hour and a half, allowing you to enjoy Morrowind and install the other mods in the guide when you feel like it.
-
-Bottomline is, it will take you far less time to install **Morrowind++** than setting up most other Morrowind guides, bar the most spartan ones.
+Depends on how quick and thorough you are about it. I guarantee it will take you far less time than to to set up most other Morrowind guides, bar the most spartan ones.
 
 ## My setup
 
