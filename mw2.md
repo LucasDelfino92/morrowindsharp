@@ -178,7 +178,7 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?)  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 
-[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Imperial Steel Cuirass With Belt**](https://drive.google.com/file/d/1U2HKZV900iKuTQSOTv29ezVv5-FHMISB/view?usp=sharing)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
@@ -344,40 +344,55 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [ ] 01 Vanilla Resolution Textures
+  - [ ] 02 Tamriel Rebuilt Water
 
 [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)  
-Reduces the water splash from **Better Waterfalls** to a more reasonable size.
+Reduces the water splash from **Better Waterfalls** to a more reasonable size, removes the blue light from interior canton waterfalls, and removes the clipping splashes from said waterfalls.
 
 [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-- Check the following options in the BAIN installer:
+- Check the following options in the BAIN installer: 
   - [X] 00 Core
+  - [ ] 01 Animated Replacer - Original Color
   - [X] 02 Animated Replacer - Greener Color
+  - [ ] 03 Standalone - Lougian's Meshes Fixed
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
-- In the BAIN installer, tick **00 Core** and **01 Vvardenfell only** only.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [X] 01 Vvardenfell only
+  - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
 
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
-- Install **Remiros' Groundcover** only.
-- Check the following options in the BAIN installer:
+- Install the **Remiros' Groundcover** main file.
+- Check the following options in the BAIN installer: 
   - [X] 00 Core
+  - [ ] 01 TR Plugins
+  - [ ] 02 TR Preview Plugins
+  - [ ] Vanilla Resolution Textures
+  - [ ] 04a No Mushrooms
   - [X] 04b Thicker Grass
-- Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
+  - [ ] 05a Legend of Chemua
+  - [ ] 05b Legend of Chemua Moved
+- Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://drive.google.com/file/d/1BjqJ_xvfcSZxoU0pTYA5IASes6SqyHxs/view?usp=sharing), which solves a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
-- Check the following options in the BAIN installer:
+- Check the following options in the BAIN installer: 
   - [X] 00 Core
   - [X] 01 Original Color
+  - [ ] 02 Blue Color
 
-[**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z)  
+[**Well Diversified**](https://drive.google.com/file/d/1oaUZlOrcQl7T-xq1TjpGunoOOBPj2d6O/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-- Place the **x** folder in **Data Files\Meshes**.
 
 ## Equipment and Items
 
@@ -400,9 +415,16 @@ Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install the **WeaponSheathing 1.6-MWSE** main file.
-- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim. The bows will better line up with the sheathing animation.
+- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
 - Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
-  - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
+  - Check the following options in the BAIN installer:
+   - [ ] 00 Core
+   - [ ] 01 Fixed Vanilla Textures
+   - [ ] 02 Lake Fjalding Anti-Suck
+   - [ ] 03 MGE XE Addon
+   - [X] 04 Weapon Sheathing Patch
+   - [ ] 05 Chuzei Fix
+  - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
