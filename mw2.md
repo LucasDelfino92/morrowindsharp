@@ -224,6 +224,8 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -408,6 +410,8 @@ Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
 
 [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939)  
 Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
@@ -418,8 +422,11 @@ Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install the **WeaponSheathing 1.6-MWSE** main file.
+  - Right-click on **Data Files**.
+  - Click **Set as data files directory**.
 - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
-- Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
+- Also install the **Morrowind Optimization Patch Weapon Sheathing Patch**.
+  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
   - Check the following options in the BAIN installer:
     - [ ] 00 Core
     - [ ] 01 Fixed Vanilla Textures
@@ -427,12 +434,14 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 03 MGE XE Addon
     - [X] 04 Weapon Sheathing Patch
     - [ ] 05 Chuzei Fix
-  - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
+  - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
+
+> Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-## NPCs and Creatures
+## Creatures and NPCs
 
 [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)  
 Adds a simple script to make Vivec properly loop his idle animation.
@@ -446,8 +455,10 @@ Gives the base golden saint the feminine walk animation instead of the default m
 [**Incarnates Overhauled**](https://drive.google.com/file/d/1PPaEen7-lzlHW4e2hPLpI0h-FHydCEcJ/view?usp=sharing)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
 
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11, SkoomaPro, and Danke  
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
+
+> Note that guards added by mods will require a patch for unique guards.
 
 ## VFX
 
@@ -456,40 +467,71 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes windows glow in the dark.
-- In the FOMOD installer, install the following options:
-  - Interior Sunrays.
-  - Nord Glass Windows.
-  - Raven Rock Glass Windows.
-  - Hi-Res Window Texture Replacer.
-- Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
-  - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+- Check the following options in the FOMOD installer:
+  - [X] Interior Sunrays
+  - [X] Nord Glass Windows
+  - [X] Raven Rock Glass Windows
+  - [ ] Dark Molag Mar
+  - [X] Hi-Res Window Texture Replacer
+  - [ ] Windoors Patch
+  - [ ] Include Tel Uvirith
+  - [ ] Exclude Tel Uvirith
+  - [X] None
+- Also install the **Project Atlas Glow in the Dahrk Patch**.
+  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 10 Glow in the Dahrk Patch
+    - [X] 10 Glow in the Dahrk Patch - Interior Sunrays
+    - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+    - [ ] 20 BC Mushrooms - Smoothed
+    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+    - [ ] 30 Redware - Smoothed
+    - [ ] 40 Urns - Smoothed
+    - [ ] 50 Wood Poles - Hi-Res Texture
+  - Rename the mod to **Project Atlas Glow in the Dahrk Patch**.  This will install the patch as a separate mod.
+
+> Note that new window meshes added by mods will require a patch for glowing windows.
 
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Replaces the vanilla mist effect.
-  - In the BAIN installer, tick **01 vanilla mist replacer** only.
-  - The complete mod is incompatible with **Bitter Coast Scum Replacer**.
+- Check the following options in the BAIN installer:
+  - [ ] 00 Core
+  - [X] 01 Vanilla Mist Replacer
+  - [ ] Scumpatibility
+
+> Note that the complete mod is incompatible with **Bitter Coast Scum Replacer**.
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-- Install **Mist Retexture** only.
+- Install the **Mist Retexture** main file.
 
 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913)  
 Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
-- In the BAIN installer, tick **00 Core** and **02 R-Zero's Textures** only.
-- This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Vanilla-Friendly Textures
+  - [X] 02 R-Zero's Textures
+  - [ ] 03 SpaceDevo's Textures
+  - [ ] 04 Qwertyquit's Textures 
+
+> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
 
 [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?)  
 Removes the annoying sparkle effects from Shield.
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- In the BAIN installer, tick **faint** only.
+- Check the following options in the BAIN installer:
+  - [ ] fade
+  - [X] faint
+  - [ ] static
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
-To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
+Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
 
 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709)  
 Makes in-world soul gems that are filled appear as enchanted items.
@@ -501,7 +543,23 @@ Replaces rain with a more heavy rain look.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/)  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-- Also install the [**No Level Design Lighting Preview Patch**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file), which solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced. Make sure you only install this mod for version 1.1 of Let There Be Darkness.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/).
+- Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
+```
+local function initialized()
+	event.register("cellChanged", checkPlayerCell)
+	--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})
+	editLights()
+	mwse.log("[Let There Be Darkness] initialized")
+	if (config.debugMode == true) then
+		tes3.messageBox("[Let There Be Darkness] initialized")
+	end
+end
+```
+- Save your changes.
+
+> This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
 
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
