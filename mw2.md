@@ -46,14 +46,34 @@ Unlike Morrowind++ (which Morrowind# is an extension and a slight rework of), th
 
 ## Basic modding tips
 
-A crash course to Morrowind and Bethesda modding in general is:
+### Don't uninstall mods mid-playthrough
 
-- Don't uninstall mods mid-playthrough, and if you do, keep a pre-uninstallation savefile as a backup in case things go wrong.
-- Read the description of every mod you install. Descriptions usually list requirements, compatibility issues, and known issues in a mod. This not only prevents future issues (or assures you they are "normal" or "expected"), but it also helps you decide beforehand whether a mod is worth the trouble.
-- File structure matters when installing a mod. The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-- Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the Tamriel Rebuilt project, which is not part of this guide. BSA files need to be registered in your Morrowind.ini file for the game to properly load the assets; failing to do so results in a well known problem of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c). This particular guide, however, features no mods with BSA files.
+A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
 
-> If you ever install a mod that requires you to edit your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
+### Always keep backup saves
+
+Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
+Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+
+### Read the descriptions, even if you don't follow them
+
+Mod descriptions exist for a reason, and not just for the author to flex their writing skills (and bad sense of humor, in many cases). Descriptions tend to list things such as:
+
+- Requirements: mods or utilities a given mod needs to work as intended.
+- Compatibility issues: known conflicts with other mods, whether general or specific.
+- Known issues: bugs or unintended behavior.
+
+Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
+
+### File structure matters
+
+The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
+
+### BSAs and Morrowind.ini
+
+ome mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenom of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
+
+> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
 
 ## Mod Organizer 2 tips
 
