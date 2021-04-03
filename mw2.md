@@ -695,6 +695,9 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642)  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 
+[**Projectiles Reintegrated**](https://drive.google.com/file/d/1r2lJtaK3jFsAYRer-kM_XkazGr23abqQ/view?usp=sharing)  
+Increases the availability of projectiles purchasable from vendors.
+
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
@@ -714,12 +717,21 @@ Takes into account the distance to target when calculating the hit chance for ra
 
 [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-- Hide **Putting Power in Willpower - Absorbonach.ESP**
+- Expand the **2.0** folder.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+- Uncheck **Putting Power in Willpower - Absorbonach.ESP**
+
+> This disables the showcase feature where Atronachs regenerate health from elemental attacks matching their element which, for all intents and purposes, is just a gimmick that occupies one .esp slot (as they are immune to their own elements in the vanilla game either way).
 
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626)  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## New mechanics
+## Mechanics
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+- Hide all plugins except **Area Effect Projectiles Integrated.ESP**
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
 Restores the possibility of contracting blight diseases while out in a blight storm.
@@ -735,16 +747,6 @@ Adds in lock-bashing from Daggerfall.
 
 [**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
-
-## Equipment
-
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except *Area Effect Projectiles Integrated.ESP*
-
-[**Projectiles Reintegrated**](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)  
-Increases the availability of projectiles all over Vvardenfell, by modifying vanilla containers shared by NPCs and those specific to certain NPCs as well, in addition to adding containers of its own when more specific changes were required.
-- Install the **Vanilla Version** only.
 
 ## Balance
 
