@@ -444,8 +444,8 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size, r
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
-  - [ ] 01 Animated Replacer - Original Color
-  - [X] 02 Animated Replacer - Greener Color
+  - [X] 01 Animated Replacer - Original Color
+  - [ ] 02 Animated Replacer - Greener Color
   - [ ] 03 Standalone - Lougian's Meshes Fixed
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
@@ -1333,7 +1333,7 @@ I | Opens Topics menu | Hot Quests
 K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
-B | Opens/closes books and scrolls | Switchtable Scriptures
+B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
 
 # Credits
@@ -1361,4 +1361,4 @@ For reference, here is a list of known mods in the guide that tend to have compa
   - Recommendation: use TES3View to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
+[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
