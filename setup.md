@@ -236,6 +236,8 @@ Fixes UV mapping on rocks.
 - MO2 will prompt you to give the installed mod a name. I suggest renaming it to **Correct UV Rocks**. Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
+> Unfortunately some Nexus mods block the **Mod manager download** option. In that case, you will have to use the **Manual download** option, and install the mods manually as shown in this section.
+
 ### Creating a separator in Mod Organizer 2
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create a separator for the upcoming **MGE XE** section.
