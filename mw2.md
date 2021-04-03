@@ -181,7 +181,7 @@ Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filterin
 [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?)  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 
-[**Imperial Steel Cuirass With Belt**](https://drive.google.com/file/d/1U2HKZV900iKuTQSOTv29ezVv5-FHMISB/view?usp=sharing)  
+[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
@@ -724,7 +724,7 @@ Increases the availability of projectiles all over Vvardenfell, by modifying van
 
 > Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
 [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?)  
