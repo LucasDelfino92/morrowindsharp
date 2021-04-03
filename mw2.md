@@ -73,9 +73,9 @@ Whenever you encounter this scenario, just do as I've shown above.
 
 In this case, the mod contains loose files, and you will have to create a folder to drop them in.
 
-Right-clicking on <data files> and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
+Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
 
-- Right-click on <data files>.
+- Right-click on **data files**.
 - Click **Create directory...**.
 - Enter the name of the folder you want to create, and click **OK**.
 - The message will tell you the content of data files looks valid.
