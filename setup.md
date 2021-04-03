@@ -54,18 +54,22 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
 
+## Installing DirectX Runtime Libraries
+
+One of the tools we will be installing, **MGE XE**, requires DirectX 9.0c June 2010. This update won't conflict with DirectX 10 and on, so you can safely install it.
+
+[**DirectX End-User Runtimes (June 2010)**](https://www.microsoft.com/en-us/download/details.aspx?id=8109)  
+Required Runtimes for MGE XE.
+- Install instructions can be found on the page.
+
 # Morrowind Code Patch
 
-[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
-
-The Morrowind Code Patch directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
-
+[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
+Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
 - Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder.
 
-[**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
-
+[**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
 Repository for the Beta update for the Morrowind Code Patch.
-
 - Place the contents of the **MCP beta** update file in your Morrowind **Root** folder, and overwrite when prompted.
 
 > This will update the Morrowind Code Patch to version **2.5b4**.
@@ -80,8 +84,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 # Wrye Mash
 
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
-
+[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 
 - Download and run the **Wrye Mash 2019 x64 - Installer** main file.
@@ -105,8 +108,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 ## tes3cmd
 
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
-
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
 tes3cmd is a tool used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**. When needed, we will run it through Wrye Mash.
 
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
@@ -114,8 +116,7 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 # Mod Organizer 2
 
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
-
+[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 
 > Nexus Mod Manager and Vortex are two popular mods managers, however, they have many issues of their own and you should avoid them.
@@ -240,8 +241,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 # MGE XE
 
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
-
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features.
 
 > Make sure you close Mod Organizer 2 before continuing. Many users have reported issues in the past because Mod Organizer 2 wouldn't register MGE XE until it was closed and launched again.
