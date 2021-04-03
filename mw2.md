@@ -486,8 +486,10 @@ Adds a simple script to make Vivec properly loop his idle animation.
   - [X] 00Vanilla
   - [ ] 01VersusVivec
 
-[**Golden Saint Feminine Walk**](https://drive.google.com/file/d/1niRvShrucu5MKq2mOMha9_fQVNv7XMSp/view?usp=sharing)  
+[**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?)  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
+- Create a **r** folder and move **XGolden Saint.kf** and **XGolden Saint.nif** inside.
+- Create a **meshes** folder and move the **r** folder inside.
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
@@ -1297,7 +1299,8 @@ C | Equips light sources | Torch Hotkey
 I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
 
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
-- R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
+- R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) and [**Flies**](https://www.nexusmods.com/morrowind/mods/43481), which were edited to fix issues with the mods.
+- ProfArmitage, for providing the fix to **Flies'** underwater flies bug.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624), which was edited to include ingredient consumption restrictions.
 - Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which was edited for compatibility with **Ownership Overhaul**.
 - BTB and Necrolesian, for [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?), which was edited to remove Morrowind Advanced's creature stat buffs.
