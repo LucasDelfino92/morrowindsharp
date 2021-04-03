@@ -4,6 +4,7 @@
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
   - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
+  - [Installing DirectX Runtime libraries](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-directx-runtime-libraries)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
