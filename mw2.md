@@ -189,7 +189,8 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+- [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- Delete the following record:
   - NPC **hecerinde**
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
@@ -1094,10 +1095,10 @@ The plugins from **Remiros' Groundcover** should only be enabled when generating
 
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
-- Run WryeMash in MO2.
+- Run Wrye Mash in MO2 (**mash64**).
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an *Update Masters* window will appear. Click *Yes*. 
-- Once the window has closed, click on the *Save* button further below the same panel.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
 
 ## Plugin cleaning
 
@@ -1105,42 +1106,42 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 For the purpose of this guide, we will only clean the plugins we know are dirty.
 
-- Run WryeMash in MO2.
-- In the **Mods** tab, right click on each of the following plugins and click *Clean with tes3cmd*. After the process is over, close the window.
+- Run Wrye Mash in MO2 (**mash64**).
+- In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
   - Divayth Fyr Puzzle Fixed.ESP
 
 ## Conflict resolution
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
-- Run WryeMash in MO2.
-- In the **Mods** tab, click *Misc* on the header and go to **TES3cmd** -> **Create MultiPatch**.
-- tes3cmd will now generate the multipatch. After the process is over, close the window. **multipatch.esp** will now be present at the end of your load order. Make sure you activate it.
+- Run Wrye Mash in MO2 (**mash64**).
+- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
+- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
+- **multipatch.esp** will now be present at the end of your load order.
 
 **TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in MO2. Once it's finished, press any key to exit.
-- **Merged Objects.ESP** will now be present at the end of your load order. Make sure you activate it.
+- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-Last but not least, Merged Objects.ESP makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit.
+**Merged Objects.ESP** makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit. We will have to delete these unintended changes from our Merged Objects plugin.
 
-- In [**TESAME**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame), delete the following records: 
+- [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- Delete the following records: 
   - Weapon **iron spider dagger**
   - Weapon **imperial netch blade**
   - Weapon **Stormkiss**
 - This omits the unintended changes made by Merged Objects to these weapons.
-
-With this, our conflict solving is over and done with.
 
 ## Running Distant Land
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
 - Run MGE XE in MO2.
-- In the **Distant Land** tab, click *Distant land generator wizard*.
-- Click *Select all*, and then *Continue*.
-- Click *Run above steps using saved / default settings*.
-- Once the statics have been created, simply click *Finish*.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**, and click **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Click **Finish** when the process is over.
 
 ## Closing commments
 
@@ -1158,82 +1159,101 @@ Broadly speaking, these are the steps you should follow whenever you install new
 
 Launch Morrowind and make the following adjustments.
 
-- Under the **Options** menu, go to the *Video* tab.
-- The *Gamma Correction* slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the *Real-time Shadows* slider all the way to the left, disabling them. These shadows look pretty bad, are glitchy, and not worth the performance hit.
+- Under the **Options** menu, go to the **Video** tab.
+- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
-The following mods require additional configuration through the in-game **Mod Configuration** menu.
+## Mod configuration
 
-**abot's Smart Journal**
-- Set *Add a prefix in order to group quest names?* to 0. This will remove the lag when opening the quest page without this option set to 0.
-- Disable every option below *Sort quests list by quest name?*. These options are mostly useful to troubleshoot mods. 
+The following mods need to be configured using the in-game **Mod Configuration** menu.
 
-**abot's Tooltip**
-- Disable *Show item Value/Weight Ratio in tooltip*.
+### abot's Smart Journal
 
-**Clock Block**
-- Set *Clock position* to Bottom.
-- Set *Clock type* to Game time.
+- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
+- Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
 
-**Continue**
-- (Optional) Enable *Hide Credits Button* and *Hide New Game Button (In Game)*.
+### abot's Tooltip
 
-**Controlled Consumption**
-- Set *Current consumption module* to Vanilla NPC Style (Necro Edit).
+- Disable **Show item Value/Weight Ratio in tooltip**.
 
-**Dynamic Timescale**  
+### Clock Block
+
+- Set **Clock position** to Bottom.
+- Set **Clock type** to Game time.
+
+### Continue
+
+- Enable **Hide Credits Button**.
+
+### Controlled Consumption
+
+- Set **Current consumption module** to Vanilla NPC Style (Necro Edit).
+
+### Dynamic Timescale
+
 Cell Settings
-- Set *Wilderness timescale* to 60. This will slow down the timescale when in wilderness cells by 50%. In my opinion, the default value is way too high.
+- Set **Wilderness timescale** to 60. This will slow down the timescale when in wilderness cells by 50%. In my opinion, the default value is way too high.
 
-**Essential Indicators**  
+### Essential Indicators
+
 General Settings
-- Disable *Essential Item Indicator*.
-- Disable *Essential NPC Indicator*.
-- Disable *Quest-Giver NPC Indicator*.
-- Disable *Quest-Giver Faction Sensibility*.
+- Disable **Essential Item Indicator**.
+- Disable **Essential NPC Indicator**.
+- Disable **Quest-Giver NPC Indicator**.
+- Disable **Quest-Giver Faction Sensibility**.
 
 Crosshair Settings  
-- Set *Crosshair Scale* to 80%.
-- Set *Sneaking Crosshair Scale* to 80%.
+- Set **Crosshair Scale** to 80%.
+- Set **Sneaking Crosshair Scale** to 80%.
 
-**HardTrade**
-- Disable *Limit player stats to 100 when trading*.
+### HardTrade
 
-**Let There Be Darkness - Lua Lighting Overhaul**  
+- Disable **Limit player stats to 100 when trading**.
+
+### Let There Be Darkness - Lua Lighting Overhaul
+
 General and Cell Settings
-- Set *Cell lighting value overrides* to NONE.
-- If you've installed the specialprocess shader in **Setup**, set all three *Ambient color adjustments* to 75.
+- Set **Cell lighting value overrides** to NONE.
+- If you've installed the **specialprocess** shader in **Setup**, set all three **Ambient color adjustments** to 75.
 
 Light Settings  
-- Disable *Use TLaD overrides for radius and color of light sources?*.
+- Disable **Use TLaD overrides for radius and color of light sources?**.
 
-**Limited Leaping**
-- Set *Cooldown between jumps* to 1.
-- Set *Minimum fatigue to jump* to 20. This matches the fatigue drain for jumping when using BTB's Game Improvements.
+### Limited Leaping
 
-**Putting Power in Willpower**
-- Enable *Allow negative Resist Bonus*.
+- Set **Cooldown between jumps** to 1.
+- Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using BTB's Game Improvements.
 
-**Security Enhanced**
-- Disable *Enable Lockpick Auto-Equip On Locked Object Activation*.
-- Disable *Enable Probe Auto-Equip On Trapped Object Activation*.
+### Putting Power in Willpower
 
-**UI Expansion**  
-Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after running the game again.
+- Enable **Allow negative Resist Bonus**.
 
-- Set *Auto-select search bar* to None. I found this option to be particularly annoying as I would accidentally press one of my movement keys after opening the menu, and suddenly one of my search bars would be filtered.
-- (Optional) Set *Use verbose buttons instead of icons for inventory filtering?* to No.
-- (Optional) Set *Use search bars?* to No.
+### Security Enhanced
+
+- Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
+- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
+
+### UI Expansion
+
+Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after launching the game again.
+
+- Set **Auto-select search bar** to None.
+- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
+- (Optional) Set **Use search bars?** to No.
 
 ## Mod keybindings
 
-The mods installed in this guide and configured as mentioned above will use the following keys:
+The mods installed in this guide and configured as mentioned above will use the following keys.
 
-- **Hot Quests**: **U** key for Quests, **I** key for Topics.
-- **Kill Command**: **K** key to order attacks.
-- **Security Enhanced**: **L** key to equip lockpicks, **P** key to equip probes.
-- **Scriptable Scriptures**: **B** key to switch between open and closed scriptures.
-- **Torch Hotkey**: **C** key to equip light sources.
+Key | Function | Added by
+------------ | ------------- | -------------
+U | Opens Quests menu | Hot Quests
+I | Opens Topics menu | Hot Quests
+K | Orders followesr to attack the current target | Kill Command
+L | Equips lockpicks | Security Enhanced
+P | Equips probes | Security Enhanced
+B | Opens/closes books and scrolls | Switchtable Scriptures
+C | Equips light sources | Torch Hotkey
 
 # Credits
 
