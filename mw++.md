@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
 
-## MORROWIND++ INDEX
+# MORROWIND++ INDEX
 
 Version 1.1 (April 3rd)
 
@@ -23,7 +23,7 @@ Version 1.1 (April 3rd)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
 
-## CHANGELOG
+# Changelog
 
 <details>
   <summary>v1.1 (April 3rd)</summary>
