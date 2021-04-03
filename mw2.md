@@ -200,6 +200,14 @@ Restores previously unused Silt Strider animation - it was present in the model,
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+## Expansion implementation
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
 ## HD textures
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
@@ -215,14 +223,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
 Pluginless replacer version of the 8 base khajiit heads.
 - Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
-
-## Expansion implementation
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 # UI AND HOTKEYS MODULE
 
@@ -760,7 +760,7 @@ Provides a configurable restriction on the amount of potions and ingredients the
 
 [**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?)  
 Increases the penalties for crime.
-- Hide all plugins except *EcoAdjCrime (Necro Edit).ESP*
+- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**
 
 [**HardTrade**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file)  
 Eliminates trade exploits by overhauling the bartering mechanics.
@@ -772,14 +772,14 @@ Puts optional restrictions on jumping, including a cooldown and/or minimum fatig
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)  
-Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
+Removes "Diseased", "Blighted", and similar adjectives from creature names.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- Hide/disable *Ownership Overhaul.ESP*
+- Hide **Ownership Overhaul.ESP**
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -788,7 +788,7 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 Modifies critical strike coefficient depending on the weapon you use.
 
 [**Morrowind Anti-Cheese**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/)  
-Fixes the biggest exploits and balance issues in the game.
+Fixes some the biggest exploits and balance issues in the game.
 
 [**BTB's Game Improvements - Necro Edit**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/)  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
@@ -810,9 +810,9 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ## Morrowind Code Patch
 
-We have installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific instructions to work as intended, which is why we will be reinstalling the MCP.
+We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
 
-Please note that you don't need to reinstall all options from scratch: the Morrowind Code Patch **remembers your previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
+Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
 - (Game mechanics) Healthy appetite
   - Eating ingredients always succeeds, giving its first effect and skill advancement. **BTB's Game Improvements** removes the skill gain for consuming ingredients, and **Controlled Consumption (MMC Edit)** prevents you from spamming their consumption for overpowered effects.
@@ -830,180 +830,171 @@ The installation order dictates the priority a given mod's assets have over the 
 <details>
 <summary>Install order</summary>
 
-- DLC: Tribunal
-- DLC: Bloodmoon
-- MGE XE Data Files
-- MGE XE Shader - 16 Lights Shaders Alpha
-- MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
-- MGE XE Shader - Deband Fogaware v2
-- MGE XE Shader - EdgeAA
-- MGE XE Shader - Specialprocess
-- Patch for Purists
-- Unofficial Morrowind Official Plugins Patched
-- Correct UV Rocks
-- Morrowind Optimization Patch
-- Project Atlas
-- Creature VFX Restoration
-- Fix Those Bastard Rope Fences
-- Glowing Flames
-- Silt Strider Animation Restored
-- Expeditious Exit
-- Quest Skill Reward Fix
-- Skill Increase GMST Fix
-- Immersive Run Fix
-- Divayth Fyr Puzzle Fixed
-- Dubdilla Location Fix
-- Loading Doors Lock Tune
-- Services Restored
-- The Publicans
-- Intelligent Textures
-- Facelift (Meshes)
-- Facelift (Textures)
-- Pluginless Khajiit Head Pack - Whiskers Version
-- Better Daedric Font
-- Better Dialogue Font
-- Comrade Raven's Book Arts Replacer
-- Pete's Scroll 2018 ...in 2020
-- Title Screen Reworked
-- Widescreen Splash Additions
-- Widescreen Splash Replacer
-- Better Questlist
-- Book Worm
-- Class Description Tooltip
-- Clock Block
-- Companion Health Bars MWSE Lua Script
-- Consistent Keys - MWSE Version
-- Continue
-- Essential Indicators
-- HUD Weapon Charge
-- Memory Monitor
-- New Game Confirmation
-- Shrine Tooltips
-- Smart Ammo
-- Smart Journal
-- Smart Map
-- MWSEabotlib
-- Tooltip
-- UI Expansion
-- Book Pickup
-- Hotkeys Extended
-- Hot Quests
-- Kill Command
-- Quick Equip
-- Right Click Menu Exit
-- Security Enhanced
-- Switchable Scriptures
-- Torch Hotkey
-- Better Waterfalls
-- Waterfalls Tweaks
-- Bitter Coast Scum Replacer
-- Distant Mournhold
-- Hidden Imperial Door Fix
-- Near Vanilla Road Sign Replacer
-- Remiros' Groundcover
-- Remiros' Groundcover Shaders - Landbias Fix
-- Vivec Palace Water Replacer
-- Well Diversified
-- Arukinns Better Books and Scrolls
-- Bloodmoon Hide Replacer
-- Complete Armor Joints
-- Imperial Steel Cuirass With Belt
-- Improved Nordic Iron Helm (Alternate)
-- Improved Thrown Weapon Projectiles
-- Melchior's Magnificent Manupscripts
-- Switchable Scriptures - Melchior's Magnificent Manuscripts Patch
-- No Orcish Clown Shoes
-- Soldier Belts Fix
-- Weapon Sheathing
-- Weapon Sheathing - Bow Position Edit
-- Morrowind Optimization Patch - Weapon Sheathing Patch
-- Wolf Helmet Replacer
-- Buoyant Lord Vivec
-- Golden Saint Feminine Walk
-- Incarnates Overhauled
-- Yet Another Guard Diversity - Regular
-- Flies
-- Flies Fix
-- Glow in the Dahrk
-- Project Atlas - Glow in the Dahrk Patch
-- Mistify
-- Mist Retexture
-- MWSE Blood Diversity
-- No Shield Sparkle
-- Subtle Magic Glow
-- Subtle Smoke
-- The Dream is the Door
-- Visually Filled Soul Gems
-- Apel's Rain Replacer
-- Let There Be Darkness - Lua Lighting Overhaul
-- Let There Be Darkness (No Level Design Lighting Preview Patch)
-- Light Decay
-- Transporter Lights
-- Weather Adjuster
-- Heartthrum
-- No Female Nord Screeching
-- Outdoor Banners With Sound
-- Sheep-no-More
-- Shut the Fuck up Cliff Racers
-- Silent Asssassins
-- Sound Spell Sound Effect
-- Water Sounds
-- Early Transport to Mournhold
-- Expansion Delay
-- FMI - #NotAllDunmer
-- Great Service
-- Greetings for No Lore
-- Idle Talk
-- Its a Deal
-- LDM - Context Matters
-- Outfit Greetings Tweaked
-- Adamantium Ore Fix
-- Bed Buddies
-- Better Propylon Teleport Script
-- Diligent Defenders
-- Easy Escort
-- Gondolier Destinations
-- Graphic Herbalism MWSE
-- Graphic Herbalism - Patches and Replacers
-- Graphic Herbalism Lighting
-- MWSE Hide the Skooma
-- Pluginless and Adjustable Lower First Person Sneak
-- Temples With Shrines
-- Wading in Water MW
-- Class-Conscious Character Progression
-- Cost Based Enchant Skill Progression
-- Hold Your Breath
-- Magicka Based Skill Progression
-- Marksman Rebalanced
-- Putting Power In Willpower
-- Wings of Will - Willpower Based Levitation Speed
-- Blighted Blight
-- Brutal Backstabbing
-- Dynamic Timescale
-- Lua Lockbashing
-- Lucky Strike - A Critical Hit Mod (MMC Edit)
-- Religions Elaborated (No Quest Changes)
-- Supply Chests
-- Area Effect Projectiles Integrated
-- Projectiles Reintegrated (Vanilla Version)
-- Controlled Consumption (MMC Edit)
-- Economy Adjuster Adjustments
-- HardTrade (Sigourn Edit)
-- Limited Leaping
-- Nimble Armor
-- No Disease Labels
-- No Rest Without Beds
-- No Taunting
-- Ownership Overhaul
-- Realistic Movement Speeds
-- Sneaky Strike
-- Soulless Creatures
-- Morrowind Anti-Cheese - Ownership Overhaul Compatible
-- BTB's Game Improvements - Necro Edit (Morrowind#)
-- Balanced Passive Races and Birthsigns
-- Beware the Sixth House (Sixth House Overhaul)
-- Tribunal Rebalance
-- Bloodmoon Rebalance
+```
+DLC: Tribunal
+DLC: Bloodmoon
+MGE XE Data Files
+MGE XE Shader - 16 Lights Shaders Alpha
+MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
+Patch for Purists
+Unofficial Morrowind Official Plugins Patched
+Correct UV Rocks
+Morrowind Optimization Patch
+Project Atlas
+Creature VFX Restoration
+Fix Those Bastard Rope Fences
+Glowing Flames
+Expeditious Exit
+Immersive Run Fix
+Loading Doors Lock Tune
+Quest Skill Reward Fix
+Skill Increase GMST Fix
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+FMI - #NotAllDunmer
+Hidden Imperial Door Fix
+Imperial Steel Cuirass With Belt
+LDM - Context Matters
+Services Restored
+Silt Strider Animation Restored
+The Publicans
+Expansion Delay
+Early Transport to Mournhold
+Intelligent Textures
+Facelift Meshes
+Facelift Textures
+Pluginless Khajiit Head Pack - Whiskers Version
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Additions
+Widescreen Splash Replacer
+Better Questlist
+Book Worm
+Class Description Tooltip
+Clock Block
+Companion Health Bars MWSE Lua Script
+Consistent Keys - MWSE Version
+Continue
+Essential Indicators
+HUD Weapon Charge
+Memory Monitor
+New Game Confirmation
+Shrine Tooltips
+Smart Ammo
+Smart Journal
+Smart Map
+MWSEabotlib
+Tooltip
+UI Expansion
+Book Pickup
+Hotkeys Extended
+Hot Quests
+Kill Command
+Quick Equip
+Right Click Menu Exit
+Security Enhanced
+Switchable Scriptures
+Torch Hotkey
+Better Waterfalls
+Waterfalls Tweaks
+Bitter Coast Scum Replacer
+Distant Mournhold
+Near Vanilla Road Sign Replacer
+Remiros' Groundcover
+Remiros' Groundcover Shaders - Landbias Fix
+Vivec Palace Water Replacer
+Well Diversified
+Complete Armor Joints
+Improved Nordic Iron Helm (Alternate)
+Improved Thrown Weapon Projectiles
+No Orcish Clown Shoes
+Soldier Belts Fix
+Weapon Sheathing
+Weapon Sheathing - Bow Position Edit
+Morrowind Optimization Patch Weapon Sheathing Patch
+Wolf Helmet Replacer
+Buoyant Lord Vivec
+Golden Saint Feminine Walk
+Incarnates Overhauled
+Yet Another Guard Diversity - Regular
+Flies
+Glow in the Dahrk
+Project Atlas Glow in the Dahrk Patch
+Mistify
+Mist Retexture
+MWSE Blood Diversity
+No Shield Sparkle
+Subtle Magic Glow
+Subtle Smoke
+The Dream is the Door
+Visually Filled Soul Gems
+Apel's Rain Replacer
+Let There Be Darkness - Lua Lighting Overhaul
+Light Decay
+Transporter Lights
+Weather Adjuster
+Heartthrum
+No Female Nord Screeching
+Outdoor Banners With Sound
+Sheep-no-More
+Shut the Fuck up Cliff Racers
+Silent Asssassins
+Sound Spell Sound Effect
+Water Sounds
+Great Service
+Idle Talk
+Its a Deal
+Outfit Greetings Tweaked
+Adamantium Ore Fix
+Bed Buddies
+Better Propylon Teleport Script
+Diligent Defenders
+Easy Escort
+Gondolier Destinations
+Graphic Herbalism MWSE
+Graphic Herbalism - Patches and Replacers
+Graphic Herbalism Lighting
+MWSE Hide the Skooma
+Pluginless and Adjustable Lower First Person Sneak
+Projectiles Reintegrated (Vanilla Version)
+Wading in Water MW
+Cost Based Enchant Skill Progression
+Hold Your Breath
+Magicka Based Skill Progression
+Marksman Rebalanced
+Putting Power In Willpower
+Wings of Will - Willpower Based Levitation Speed
+Area Effect Projectiles Integrated
+Blighted Blight
+Brutal Backstabbing
+Dynamic Timescale
+Lua Lockbashing
+Lucky Strike - A Critical Hit Mod (MMC Edit)
+Class-Conscious Character Progression
+Controlled Consumption
+Economy Adjuster Adjustments
+HardTrade
+Limited Leaping
+Nimble Armor
+No Disease Labels
+No Rest Without Beds
+Ownership Overhaul
+Realistic Movement Speeds
+Sneaky Strike
+Morrowind Anti-Cheese
+BTB's Game Improvements - Necro Edit
+Balanced Passive Races and Birthsigns
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
+```
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
@@ -1011,72 +1002,69 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 <details>
 <summary>Load order</summary>
 
-- Morrowind.esm
-- Tribunal.esm
-- Bloodmoon.esm
-- Patch for Purists.esm
-- Ownership Overhaul.esm
-- Patch for Purists - Book Typos.ESP
-- Patch for Purists - Semi-Purist Fixes.ESP
-- bcsounds.ESP
-- master_index.ESP
-- Lake Fjalding Anti-Suck.ESP
-- chuzei_helm_no_neck.ESP
-- Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-- Silt Strider Animation Restored.ESP
-- Divayth Fyr Puzzle Fixed.ESP
-- Dubdilla Location Fix.ESP
-- Services Restored.ESP
-- The Publicans.ESP
-- Better_Typography_Bookarts_Fix.ESP
-- Waterfalls Tweaks.ESP
-- Mournhold LOD.ESP
-- NearVanillaRoadSigns.ESP
-- Well Diversified.ESP
-- Complete Armor Joints.ESP
-- Buoyant Lord Vivec.ESP
-- Incarnates Overhauled.ESP
-- Yet Another Guard Diversity - Regular.ESP
-- Flies.ESP
-- GITD_WL_RR_Interiors.ESP
-- The Dream is the Door.ESP
-- RFD_Heartthrum.ESP
-- Outdoor Banners With Sound.ESP
-- Silent Assassins.ESP
-- SoundSpellSoundEffect.ESP
-- Early Transport to Mournhold.ESP
-- Expansion Delay.ESP
-- FMI_#NotAllDunmer.ESP
-- Great Service.ESP
-- Greetings for No Lore.ESP
-- Idle Talk.ESP
-- Its a deal.ESP
-- LDM - Context Matters.ESP
-- outfit greetings tweaked.ESP
-- Adamantium Ore Fix.ESP
-- Better Propylon Teleport Warp-Master Index.ESP
-- PB_GondolierDestinations.ESP
-- Temples With Shrines.ESP
-- Religions Elaborated.ESP
-- Supply Chests.ESP
-- Area Effect Projectiles Integrated.ESP
-- Projectiles Reintegrated.ESP
-- EcoAdjCrime (Necro Edit).ESP
-- Morrowind Anti-Cheese.ESP
-- BTB's Game Improvements (Necro Edit).ESP
-- SoldierBeltsFix.ESP
-- Balanced Passive Races and Birthsigns.ESP
-- Beware the Sixth House.ESP
-- tribunal rebalance.ESP
-- Bloodmoon Rebalance.ESP
-- **Rem_AC.ESP**
-- **Rem_AI.ESP**
-- **Rem_AL.ESP**
-- **Rem_BC.ESP**
-- **Rem_GL.ESP**
-- **Rem_Solstheim.ESP**
-- **Rem_WG.ESP**
-
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+Patch for Purists.esm
+Ownership Overhaul.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+bcsounds.ESP
+master_index.ESP
+Lake Fjalding Anti-Suck.ESP
+chuzei_helm_no_neck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+FMI_#NotAllDunmer.ESP
+LDM - Context Matters.ESP
+Silt Strider Animation Restored.ESP
+Services Restored.ESP
+The Publicans.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+Better_Typography_Bookarts_Fix.ESP
+Waterfalls Tweaks.ESP
+Mournhold LOD.ESP
+NearVanillaRoadSigns.ESP
+Well Diversified.ESP
+Complete Armor Joints.ESP
+Buoyant Lord Vivec.ESP
+Incarnates Overhauled.ESP
+Yet Another Guard Diversity - Regular.ESP
+Flies.ESP
+GITD_WL_RR_Interiors.ESP
+The Dream is the Door.ESP
+RFD_Heartthrum.ESP
+Outdoor Banners With Sound.ESP
+Silent Assassins.ESP
+SoundSpellSoundEffect.ESP
+Great Service.ESP
+Idle Talk.ESP
+Its a deal.ESP
+outfit greetings tweaked.ESP
+Adamantium Ore Fix.ESP
+Better Propylon Teleport Warp-Master Index.ESP
+PB_GondolierDestinations.ESP
+Area Effect Projectiles Integrated.ESP
+Projectiles Reintegrated.ESP
+EcoAdjCrime (Necro Edit).ESP
+Morrowind Anti-Cheese.ESP
+BTB's Game Improvements (Necro Edit).ESP
+SoldierBeltsFix.ESP
+Balanced Passive Races and Birthsigns.ESP
+Beware the Sixth House.ESP
+tribunal rebalance.ESP
+Bloodmoon Rebalance.ESP
+Rem_AC.ESP
+Rem_AI.ESP
+Rem_AL.ESP
+Rem_BC.ESP
+Rem_GL.ESP
+Rem_Solstheim.ESP
+Rem_WG.ESP
+```
 The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
