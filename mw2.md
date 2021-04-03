@@ -53,9 +53,9 @@ A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expe
 Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
 Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
 
-### Read the descriptions, even if you don't follow them
+### Read the descriptions
 
-Mod descriptions exist for a reason, and not just for the author to flex their writing skills (and bad sense of humor, in many cases). Descriptions tend to list things such as:
+Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
 
 - Requirements: mods or utilities a given mod needs to work as intended.
 - Compatibility issues: known conflicts with other mods, whether general or specific.
