@@ -19,7 +19,7 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 **Morrowind++** is divided in three sections:
 
 - [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index), which explains how to get the game running, set up the tools and mod manager we'll be using to mod Morrowind. It's in its own section since it is quite draining.
-- [**Morrowind++**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind), which contains the mods we will be actually installing. This is a beginner-friendly guide that keeps the game's aesthetic and gameplay nearly intact.
+- [**Morrowind++**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index), which contains the mods we will be actually installing. This is a beginner-friendly guide that keeps the game's aesthetic and gameplay nearly intact.
 - [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools), which contains instructions to use the tools installed in **Setup**, and which you will referred to from **Morrowind++** only when necessary. Feel free to browse this on your own, however.
 
 The **Morrowind++** page is divided into a series of modules, all of which can be installed independently from one another. The **Core** module contains bug fixes, high resolution textures using AI upscaling, and a couple of mods addressing the implementation of expansions to iron out the Morrowind experience. It's a good recommendation for anyone looking to play Morrowind for the first time.
