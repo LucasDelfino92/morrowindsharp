@@ -46,9 +46,45 @@ Unlike Morrowind++ (which Morrowind# is an extension and a slight rework of), th
 
 ## Mod Organizer 2 tips
 
+### Repackaging mods
+
+There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
+
+> **The content of data files does not look valid.**
+
+In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
+
+- Repackage the mod yourself and install it through Mod Organizer 2.
+- Repackage the mod yourself *in* Mod Organizer 2.
+
+The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
+
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData1.png)
+
+In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
+
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, just do as I've shown above.
+
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData2.png)
+
+In this case, the mod contains loose files, and you will have to create a folder to drop them in.
+
+Right-clicking on <data files> and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
+
+- Right-click on <data files>.
+- Click **Create directory...**.
+- Enter the name of the folder you want to create, and click **OK**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
+
 ### Hiding files
 
-**Mod Organizer 2** lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
+Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
 
 - To hide a plugin, right click on your installed mod and click **Information...**.
 - On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
@@ -180,11 +216,11 @@ Pluginless replacer version of the 8 base khajiit heads.
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?)  
 High resolution replacer for the Daedric font used in scrolls. 
-- Place **daedric_font.fnt** and **daedric_font_obw.tex** in **Data Files\Fonts**.
+- Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
-- Install **Better Dialogue Font** only.
+- Install the **Better Dialogue Font** main file.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
