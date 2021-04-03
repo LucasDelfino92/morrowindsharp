@@ -175,11 +175,17 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+
 [**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?)  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 
 [**Imperial Steel Cuirass With Belt**](https://drive.google.com/file/d/1U2HKZV900iKuTQSOTv29ezVv5-FHMISB/view?usp=sharing)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
+
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
@@ -209,6 +215,14 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
 Pluginless replacer version of the 8 base khajiit heads.
 - Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
+
+## Expansion implementation
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 # UI AND HOTKEYS MODULE
 
@@ -576,6 +590,8 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 
 # AUDIO MODULE
 
+## SFX
+
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 
@@ -600,29 +616,16 @@ With this plugin the player can hear an actual noise when he's under the effects
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
 Simulates water sounds when colliding with generic fake animated water meshes.
 
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
-
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
-Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+## Dialogue
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)  
-Replaces the three standard No Lore greetings with over sixty new ones.
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
