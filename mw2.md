@@ -401,7 +401,7 @@ Adds groundcover to almost all regions.
 - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://drive.google.com/file/d/1BjqJ_xvfcSZxoU0pTYA5IASes6SqyHxs/view?usp=sharing), which addresses landbias issues.
 - Uncheck all Rem_ .esps in the load order.
 
-> This is an incredbily problematic mod for people to install in spite of how clear the instructions given are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
+> This is an incredibly problematic mod for new users to install in spite of how clear the given instructions are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
