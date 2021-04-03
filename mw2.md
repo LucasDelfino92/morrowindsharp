@@ -1084,7 +1084,6 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
 - Run WryeMash in MO2.
 - In the **Mods** tab, right click on each of the following plugins and click *Clean with tes3cmd*. After the process is over, close the window.
   - Divayth Fyr Puzzle Fixed.ESP
-  - Religions Elaborated.ESP
 
 ## Conflict resolution
 
@@ -1219,7 +1218,6 @@ I want to thank the following mod authors for their original mods which have bee
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860/), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
 - R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765), which was edited to fix some issues with the mod.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624), which was edited to include ingredient consumption restrictions.
-- Archimag, for [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368), which was edited to remove the investing feature and unwanted GMST changes for compatibility with other mods.
 - Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305), which was edited for compatibility with **Ownership Overhaul**.
 - BTB and Necrolesian, for [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?), which was edited to remove Morrowind Advanced's creature stat buffs.
 
