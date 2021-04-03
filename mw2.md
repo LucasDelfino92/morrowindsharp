@@ -421,12 +421,12 @@ Equipped weapons will be shown on the character's hip or back. This new function
 - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
 - Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
   - Check the following options in the BAIN installer:
-   - [ ] 00 Core
-   - [ ] 01 Fixed Vanilla Textures
-   - [ ] 02 Lake Fjalding Anti-Suck
-   - [ ] 03 MGE XE Addon
-   - [X] 04 Weapon Sheathing Patch
-   - [ ] 05 Chuzei Fix
+    - [ ] 00 Core
+    - [ ] 01 Fixed Vanilla Textures
+    - [ ] 02 Lake Fjalding Anti-Suck
+    - [ ] 03 MGE XE Addon
+    - [X] 04 Weapon Sheathing Patch
+    - [ ] 05 Chuzei Fix
   - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
@@ -437,7 +437,8 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)  
 Adds a simple script to make Vivec properly loop his idle animation.
 - Check the following options in the BAIN installer:
-  - [X] 00vanilla
+  - [X] 00Vanilla
+  - [ ] 01VersusVivec
 
 [**Golden Saint Feminine Walk**](https://drive.google.com/file/d/1niRvShrucu5MKq2mOMha9_fQVNv7XMSp/view?usp=sharing)  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
@@ -455,53 +456,65 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes windows glow in the dark.
-  - In the FOMOD installer, install the following options:
-    - Interior Sunrays.
-    - Nord Glass Windows.
-    - Raven Rock Glass Windows.
-    - Hi-Res Window Texture Replacer.
-  - Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
-    - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
-- [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+- In the FOMOD installer, install the following options:
+  - Interior Sunrays.
+  - Nord Glass Windows.
+  - Raven Rock Glass Windows.
+  - Hi-Res Window Texture Replacer.
+- Also install the [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) Glow in the Dahrk Patch.
+  - In the BAIN installer, tick **10 Glow in the Dahrk Patch - Interior Sunrays** only. Rename the mod to **Project Atlas - Glow in the Dahrk Patch**.
+
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Replaces the vanilla mist effect.
   - In the BAIN installer, tick **01 vanilla mist replacer** only.
   - The complete mod is incompatible with **Bitter Coast Scum Replacer**.
-- [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322) by Remiros  
+
+[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-  - Install **Mist Retexture** only.
-- [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril21  
+- Install **Mist Retexture** only.
+
+[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913)  
 Provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.
-  - In the BAIN installer, tick **00 Core** and **02 R-Zero's Textures** only.
-  - This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
-- [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?) by jiopi  
+- In the BAIN installer, tick **00 Core** and **02 R-Zero's Textures** only.
+- This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page.
+
+[**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?)  
 Removes the annoying sparkle effects from Shield.
-- [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?) by atteSmythe  
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-  - In the BAIN installer, tick **faint** only.
-- [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341) by wazabear  
+- In the BAIN installer, tick **faint** only.
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
-- [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
-- [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
+
+[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709)  
 Makes in-world soul gems that are filled appear as enchanted items.
 
 ## Weather and Lighting
 
-- [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) by Apel and HedgeHog-12  
+[**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555)  
 Replaces rain with a more heavy rain look.
-- [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
+
+[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/)  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
-  - Also install the [**No Level Design Lighting Preview Patch**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file), which solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced. Make sure you only install this mod for version 1.1 of Let There Be Darkness.
-- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+- Also install the [**No Level Design Lighting Preview Patch**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file), which solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced. Make sure you only install this mod for version 1.1 of Let There Be Darkness.
+
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) by Eq  
+
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
-- [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
+
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-  - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
-  - Also install [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/1fqz9ovi69chkgp/Weather+Adjuster+-+Morrowind+++Preset+v2.1.zip/file). Personal preset for darker nights and less horrible fog.
-    - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
-    - [**Comparison here.**](https://imgsli.com/MTUwMjI)
+- This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
+- Also install [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/1fqz9ovi69chkgp/Weather+Adjuster+-+Morrowind+++Preset+v2.1.zip/file). Personal preset for darker nights and less horrible fog.
+  - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
+  - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
 # AUDIO MODULE
 
