@@ -48,7 +48,7 @@ Morrowind++ consists of roughly 70 mods and 20 new plugins. I tried to keep the 
 
 ### How much space do I need to install these mods?
 
-Roughly 4GB. This accounts for installed (that is, uncompressed) mods and also their original installation files, which I recommend keeping just in case you need to reinstall them.
+Roughly 4GB, of which **Intelligent Textures** accounts for 75% the size of. And I really recommend you install Intelligent Textures.
 
 ### How much time will it take me to install all mods?
 
