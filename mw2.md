@@ -418,17 +418,10 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/)  
-Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
-- Install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
-
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
-
-[**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939)  
-Mesh replacer that reduces the dimensions and spikiness of Orcish Boots.
 
 [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556)  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
@@ -943,9 +936,7 @@ Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
 Well Diversified
 Complete Armor Joints
-Improved Nordic Iron Helm (Alternate)
 Improved Thrown Weapon Projectiles
-No Orcish Clown Shoes
 Soldier Belts Fix
 Weapon Sheathing
 Weapon Sheathing - Bow Position Edit
