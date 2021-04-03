@@ -1249,7 +1249,7 @@ Key | Function | Added by
 ------------ | ------------- | -------------
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
-K | Orders followesr to attack the current target | Kill Command
+K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchtable Scriptures
