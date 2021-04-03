@@ -178,7 +178,7 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
 
-[**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?)  
+[**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?tab=files)  
 Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 
 [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
@@ -187,7 +187,7 @@ Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?)  
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
 - Delete the following record:
@@ -369,7 +369,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)  
 Reduces the water splash from **Better Waterfalls** to a more reasonable size, removes the blue light from interior canton waterfalls, and removes the clipping splashes from said waterfalls.
 
-[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
@@ -404,7 +404,7 @@ Adds groundcover to almost all regions.
 
 > This is an incredibly problematic mod for new users to install in spite of how clear the given instructions are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
 
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the water in the Palace of Vivec's canals.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
@@ -460,7 +460,7 @@ Adds a simple script to make Vivec properly loop his idle animation.
 [**Golden Saint Feminine Walk**](https://drive.google.com/file/d/1niRvShrucu5MKq2mOMha9_fQVNv7XMSp/view?usp=sharing)  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
 
-[**Incarnates Overhauled**](https://drive.google.com/file/d/1PPaEen7-lzlHW4e2hPLpI0h-FHydCEcJ/view?usp=sharing)  
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
@@ -589,7 +589,7 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
@@ -630,7 +630,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 ## Quality of life improvements
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?)  
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632)  
@@ -646,7 +646,7 @@ When the player or the player's companions are attacked, any companions will lau
 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?)  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
-[**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306)  
+[**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306?tab=files)  
 Each gondolier in Vivec will get you to all gondolier ports in Vivec.
 
 [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
@@ -720,7 +720,7 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 - Click **Set as data files directory**.
 - Uncheck **Putting Power in Willpower - Absorbonach.ESP**
 
-> This disables the showcase feature where Atronachs regenerate health from elemental attacks matching their element which, for all intents and purposes, is just a gimmick that occupies one .esp slot (as they are immune to their own elements in the vanilla game either way).
+> This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
 
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626)  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
@@ -835,7 +835,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 # Finishing touches
 
-## Morrowind Code Patch
+## Additional Morrowind Code Patch patches
 
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
 
@@ -848,7 +848,7 @@ Game mechanics | Attribute uncap | Allows levelling of the eight main attributes
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
 Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **BTB's Game Improvements** requires this patch for its weapon resistance changes to work as intended.
 
-## Mod order and load order
+## Final mod order and load order
 
 The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -858,24 +858,26 @@ The installation order dictates the priority a given mod's assets have over the 
 ```
 DLC: Tribunal
 DLC: Bloodmoon
+==========MGE XE==========
 MGE XE Data Files
 MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - Specialprocess
+==========CORE==========
 Patch for Purists
 Unofficial Morrowind Official Plugins Patched
 Correct UV Rocks
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
-Fix Those Bastard Rope Fences
+Rope Fence Fix
 Glowing Flames
 Expeditious Exit
-Immersive Run Fix
 Loading Doors Lock Tune
 Quest Skill Reward Fix
+Run Fix
 Skill Increase GMST Fix
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
@@ -892,6 +894,7 @@ Intelligent Textures
 Facelift Meshes
 Facelift Textures
 Pluginless Khajiit Head Pack - Whiskers Version
+==========UI AND HOTKEYS==========
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -927,6 +930,7 @@ Right Click Menu Exit
 Security Enhanced
 Switchable Scriptures
 Torch Hotkey
+==========VISUALS==========
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
@@ -963,6 +967,7 @@ Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 Transporter Lights
 Weather Adjuster
+==========AUDIO==========
 Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
@@ -975,6 +980,7 @@ Great Service
 Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
+==========GAMEPLAY==========
 Adamantium Ore Fix
 Bed Buddies
 Better Propylon Teleport Script
@@ -984,6 +990,7 @@ Gondolier Destinations
 Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
 Graphic Herbalism Lighting
+Improved Temple Experience
 MWSE Hide the Skooma
 Pluginless and Adjustable Lower First Person Sneak
 Projectiles Reintegrated (Vanilla Version)
@@ -994,7 +1001,7 @@ Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
 Wings of Will - Willpower Based Levitation Speed
-Area Effect Projectiles Integrated
+Area Effect Arrows Integrated
 Blighted Blight
 Brutal Backstabbing
 Dynamic Timescale
@@ -1042,8 +1049,8 @@ Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 FMI_#NotAllDunmer.ESP
 LDM - Context Matters.ESP
-Silt Strider Animation Restored.ESP
 Services Restored.ESP
+Silt Strider Animation Restored.ESP
 The Publicans.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
@@ -1070,8 +1077,9 @@ outfit greetings tweaked.ESP
 Adamantium Ore Fix.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
-Area Effect Projectiles Integrated.ESP
+Improved Temple Experience.ESP
 Projectiles Reintegrated.ESP
+Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
 BTB's Game Improvements (Necro Edit).ESP
@@ -1100,7 +1108,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 
-## Plugin cleaning
+## Cleaning our plugins
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
 
@@ -1133,7 +1141,7 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
   - Weapon **Stormkiss**
 - This omits the unintended changes made by Merged Objects to these weapons.
 
-## Running Distant Land
+## Re-running Distant Land
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
