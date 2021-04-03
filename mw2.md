@@ -113,7 +113,7 @@ Fixes UV mapping on rocks and stones.
 
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
 Greatly improves performance and fixes some mesh errors.
-- In the BAIN installer, check the following options:
+- Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Fixed Vanilla Textures
   - [X] 02 Lake Fjalding Anti-Suck
@@ -126,7 +126,7 @@ Greatly improves performance and fixes some mesh errors.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-- In the BAIN installer, check the following options:
+- Check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 10 Glow in the Dahrk Patch
   - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
@@ -198,7 +198,7 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- In the BAIN installer, check the following options:
+- Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Atlas Textures
 
@@ -228,7 +228,7 @@ Replaces most of original book arts with hi-res images redrawn from scratch.
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
 - Install the **Pete's Journal and Scroll** optional file.
-- In the BAIN installer, check the following options:
+- Check the following options in the BAIN installer:
   - [ ] 01 Journal and Scroll - 1K
   - [X] 01 Journal and Scroll - 2K
   - [ ] 01 Journal and Scroll - 4K
@@ -264,7 +264,7 @@ Adds health bars for your companions and summoned creatures to the Morrowind HUD
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
-- Install **MWSE Version** only.
+- Install the **Consistent Keys - MWSE Version** main file.
 
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?)  
 Adds a continue button to the main menu to instantly load your most recent save.
@@ -286,14 +286,15 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-- Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?)  
 Adds several new options for the journal and quest pages.
 
 [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634)  
 Automatically switches between the local and world map depending on user configuration.
-- Requires [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717) by abot.
+
+[**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
+Updated **abot\lib.lua** common file used by some of abot's mods, which we've installed above ("Smart" series).
 
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969)  
 Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
@@ -326,7 +327,13 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 
 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)  
 Lets you open or close any book or scroll in the game.
-- In the BAIN installer, tick **00 Core** and **01 Closed Book Icons** only.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Closed Book Icons
+  - [ ] 02 MD books + Illy's Dirty Books
+  - [ ] 03 Melchior's Magnificent Manuscripts
+  - [ ] 04 MD books + RR pages & scrolls
+  - [ ] 05 STA Guide-to Replacer
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
@@ -343,7 +350,9 @@ Reduces the water splash from **Better Waterfalls** to a more reasonable size.
 
 [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-- In the BAIN installer, tick **00 Core** and **02 Animated Replacer - Greener Color** only.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 02 Animated Replacer - Greener Color
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -355,12 +364,16 @@ Makes road signs legible. Uses low resolution vanilla-friendly textures.
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
 - Install **Remiros' Groundcover** only.
-  - In the BAIN installer, tick **00 Core** and **04b Thicker Grass** only.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 04b Thicker Grass
 - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://cdn.discordapp.com/attachments/381217735306248192/769808563296010300/Remiros_Groundcover_Shaders__Landbias_Fix.7z), which will solve a very ugly problem with grass pop up if you have installed the shaders on the **Setup** page.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
-- In the BAIN installer, tick **00 Core** and **01 Original Color** only.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Original Color
 
 [**Well Diversified**](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABIH_hMYjbqmZCPBnyu4NPqa?dl=0&preview=Well+Diversified.7z)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
@@ -373,7 +386,7 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 
 [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/)  
 Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
-- Install **Improved Nordic Iron Helm 1.0-alternate** only.
+- Install the **Improved Nordic Iron Helm 1.0-alternate** main file.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
@@ -386,7 +399,7 @@ Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Install **WeaponSheathing 1.6-MWSE** only.
+- Install the **WeaponSheathing 1.6-MWSE** main file.
 - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?) by Kyim. The bows will better line up with the sheathing animation.
 - Also install the [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?) Weapon Sheathing Patch.
   - In the BAIN installer, tick **04 Weapon Sheathing Patch** only. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**.
@@ -396,9 +409,10 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 ## NPCs and Creatures
 
-- [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
+[**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312)  
 Adds a simple script to make Vivec properly loop his idle animation.
-  - In the BAIN installer, tick **00vanilla** only.
+- Check the following options in the BAIN installer:
+  - [X] 00vanilla
 - [**Golden Saint Feminine Walk**](https://www.nexusmods.com/morrowind/mods/42703?) by dopey fish  
 Gives the base golden saint the feminine walk animation instead of the default male walk animation.
   - Place **XGolden Saint.kf** and **XGolden Saint.nif** in **Data Files\Meshes\r**.
