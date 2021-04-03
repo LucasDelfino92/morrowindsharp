@@ -5,19 +5,11 @@
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
   - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
-- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
+- [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-  - [Adjusting the INI](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#adjusting-the-ini)
-  - [Profiles](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#profiles)
-  - [Setting up tools in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setting-up-tools-in-mod-organizer-2)
-  - [Installing mods in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mods-in-mod-organizer-2)
-  - [Creating separators in Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#creating-separators-in-mod-organizer-2)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
-  - [Installing shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-shaders)
-  - [Launching MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#launching-mge-xe)
-  - [Graphics tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#graphics-tab)
-  - [Distant Land tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab)
-  - [In-game tab](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-tab)
+- [Shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#shaders)
+- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
 
 # Installation
 
