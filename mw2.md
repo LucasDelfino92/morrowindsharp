@@ -687,7 +687,11 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - [ ] 22 Kelp Replacer for MC or STA
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864), which makes picking a glowing plant also remove the glow-light.
 
-> You got that right, 22 fucking patches. You only need one, thankfully.
+[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
+Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.
+- Check the following options in the BAIN installer: 
+  - [ ] 00 Beautiful Cities - RR Ghostgate Version
+  - [X] 00 Vanilla Ghostgate
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -758,12 +762,38 @@ An MWSE leveling mod that implements most features of Galsiah's Character Develo
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
-[**Economy Adjuster Adjustments (Crime Module)**](https://www.nexusmods.com/morrowind/mods/47130?)  
+[**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130?)  
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**
 
 [**HardTrade**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file)  
 Eliminates trade exploits by overhauling the bartering mechanics.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\HardTrade\main.lua** using a text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/).
+- Comment out both **tes3.findGMST** lines and the **event.register("uiActivated", onPersuationMenu, {filter = "MenuPersuasion"})** line using "--", like so:
+```
+local function initialized(e)
+--tes3.findGMST("fBargainOfferMulti").value = -10		tes3.findGMST("fSpellMakingValueMult").value = 10		tes3.findGMST("fEnchantmentValueMult").value = 100
+--tes3.findGMST("fBribe10Mod").value = 20				tes3.findGMST("fBribe100Mod").value = 50				tes3.findGMST("fBribe1000Mod").value = 100
+event.register("calcBarterPrice", onCalcBarterPrice)
+event.register("calcTrainingPrice", onCalcPrice)
+event.register("calcSpellPrice", onCalcPrice)
+event.register("calcTravelPrice", onCalcPrice)
+event.register("calcRepairPrice", onCalcPrice)
+--event.register("filterInventory", onFilterInventory)
+--event.register("uiActivated", onPersuationMenu, {filter = "MenuPersuasion"})
+event.register("uiActivated", onBarterMenu, {filter = "MenuBarter"})
+--event.register("uiActivated", onInventory, {filter = "MenuInventory"})
+--event.register("menuEnter", onMenuEnter)
+event.register("loaded", onLoaded)
+end
+event.register("initialized", initialized)
+```
+- Save your changes.
+
+> By commenting out the two tes3.findGMST lines you will actually be commenting out *six* GMST edits, because of the way the code was written.
+
+> This solves a compatibility issue with mods that alter these GMSTs (such as **BTB's Game Improvements**), and disables the Investing feature.
 
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299)  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
@@ -791,8 +821,11 @@ Modifies critical strike coefficient depending on the weapon you use.
 Fixes some the biggest exploits and balance issues in the game.
 
 [**BTB's Game Improvements - Necro Edit**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/)  
-Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions.
-- In the BAIN installer, tick **00 BTBGI Necro Edit (Morrowind#)** only.
+Modified version of BTB's Game Improvements by Necrolesian, with many changes and additions. Additional edits by me to remove some infuriating and/or unnecessary changes.
+- Check the following options in the BAIN installer:
+  - [X] 00 BTBGI Necro Edit
+  - [ ] 01 BTBGI Necro Edit + Hunter's Mark Patch
+  - [ ] 02 BTBGI Necro Edit + MDMD - Creatures Patch
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
