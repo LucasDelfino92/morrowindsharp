@@ -881,7 +881,7 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 
 ## Final mod order and load order
 
-The installation order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
+The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
 <details>
 <summary>Install order</summary>
@@ -1184,13 +1184,13 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 
 ## Closing commments
 
-Broadly speaking, these are the steps you should follow whenever you install new mods.
+Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
 
-- Get a reliable install order and load order working.
-- Synchronize mod masters.
-- Clean dirty plugins.
-- Solve conflicts.
-- Generate Distant Land to account for mods that may modify the worldspace.
+1. Get a reliable mod order and load order working.
+2. Synchronize mod masters to avoid in-game warnings.
+3. Clean dirty plugins.
+4. Solve conflicts.
+5. Re-run Distant Land.
 
 # In-game configuration
 
