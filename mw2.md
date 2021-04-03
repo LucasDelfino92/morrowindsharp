@@ -50,6 +50,27 @@
 
 # Changelog
 
+
+<details>
+  <summary>v2.4.1</summary>
+
+- Vast formatting changes.
+- Added Improved Temple Experience.
+- Removed Chocolate UI.
+- Removed Arukkins Better Books and Scrolls.
+- Removed Bloodmoon Hide Replacer.
+- Removed Improved Nordic Iron Helm Mesh.
+- Removed Melchior's Magnificent Manuscripts.
+- Removed No Clownish Orc Shoes.
+- Removed Greetings for No Lore.
+- Removed Temples with Shrines.
+- Removed Religions Elaborated.
+- Removed Supply Chests.
+- Removed No Taunting.
+- Removed Soulless Creatures.
+- Probably other removals I'm forgetting about.
+</details>
+
 <details>
   <summary>v2.4.0.1</summary>
 
