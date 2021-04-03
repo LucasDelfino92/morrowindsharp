@@ -1,5 +1,5 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup)
+[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
 
 # MORROWIND# INDEX
 
