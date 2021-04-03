@@ -698,12 +698,9 @@ Lowers the position of the first person camera when sneaking/crouching, making i
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-## Leveling/Attributes/Skills tweaks
+## Tweaks
 
-[**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110)  
-An MWSE leveling mod that implements most features of Galsiah's Character Development. I strongly recommend you read the mod's page.
-
-[**Cost Based Enchant Progression**](https://www.mediafire.com/file/udrqcrzrz9uatxz/Cost_Based_Enchant_Skill_Progression_v1.0.zip/file)  
+[**Cost Based Enchant Progression**](https://drive.google.com/file/d/1CWMmoPLJp1Dl_ZSablSTQ57RyKLUunDF/view?usp=sharing)  
 Enchant skill advances based on the cost of the enchantment cast, calculated as if it was a spell.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
@@ -736,7 +733,7 @@ Changes how quickly time passes in-game depending on where you are and what you'
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544)  
 Adds in lock-bashing from Daggerfall.
 
-[**Lucky Strike - A Critical Hit Mod**](https://cdn.discordapp.com/attachments/218457935846703104/803328785436115004/Lucky_Strike_-_A_Critical_Hit_Mod_v1.0_MMC_Edit.zip)  
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 ## Equipment
@@ -752,6 +749,9 @@ Increases the availability of projectiles all over Vvardenfell, by modifying van
 ## Balance
 
 > Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
+
+[**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110)  
+An MWSE leveling mod that implements most features of Galsiah's Character Development. I strongly recommend you read the mod's page.
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
