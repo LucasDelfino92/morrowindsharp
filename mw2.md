@@ -615,6 +615,8 @@ With this plugin the player can hear an actual noise when he's under the effects
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
 Simulates water sounds when colliding with generic fake animated water meshes.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
 
 ## Dialogue
 
@@ -655,10 +657,37 @@ Each gondolier in Vivec will get you to all gondolier ports in Vivec.
 
 [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-- In the BAIN installer, tick **00 Core + Vanilla Meshes** only.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core + Vanilla Meshes
+  - [ ] 01 Optional - Smoothed Meshes
 - Also install **GH Patches and Replacers**.
-  - In the BAIN installer, tick **10 Atlas - Vanilla BC Mushrooms** only.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Correct UV Ore + README
+    - [ ] 01 Pherim's Replacers
+    - [ ] 02 Pherim Reflection Mapped
+    - [ ] 03 Pherim Pulsing Kwama
+    - [ ] 04 Pherim Pulsing Kwama Reflect
+    - [ ] 05 Vurt's Chokeweed & Roobrush
+    - [ ] 06 Less Epic Plants
+    - [ ] 07 Slightly Less Epic Plants
+    - [ ] 08 Glowing Bitter Coast
+    - [ ] 09 Glowing Bitter Coast Smoothed
+    - [X] 10 Atlas - Vanilla BC Mushrooms
+    - [ ] 11 Atlas - Glowing Bitter Coast Patch
+    - [ ] 12 Atlas - Smoothed BC Mushrooms
+    - [ ] 13 Atlas - Smoothed Glowmap Patch
+    - [ ] 14 Remiros shelf fungus
+    - [ ] 15 Apel's Azura's Coast
+    - [ ] 16 Apel's Mucksponge Bumpmapped
+    - [ ] 17 Trama Bumpmapped
+    - [ ] 18 Ascadian Isles Plants
+    - [ ] 19 Glass Glowset ores
+    - [ ] 20 Vanilla Meshes for MC or STA
+    - [ ] 21 Cave Plant Replacer for MC
+    - [ ] 22 Kelp Replacer for MC or STA
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864), which makes picking a glowing plant also remove the glow-light.
+
+> You got that right, 22 fucking patches. You only need one, thankfully.
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
