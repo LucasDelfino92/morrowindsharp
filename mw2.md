@@ -404,7 +404,7 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 
 [**Improved Nordic Iron Helm**](https://www.nexusmods.com/morrowind/mods/43816/)  
 Mesh replacer for the Nordic Iron Helm mesh that adjusts its proportions.
-- Install the **Improved Nordic Iron Helm 1.0-alternate** main file.
+- Install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
