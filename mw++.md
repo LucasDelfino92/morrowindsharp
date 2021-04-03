@@ -601,8 +601,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 # Finishing touches
 
-## Install order and load order
-
 ## Final mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
