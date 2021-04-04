@@ -251,11 +251,11 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   - [X] 00 Core
   - [X] 01 Atlas Textures
 
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617) by kartoffels  
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
-[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
+[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110)  
 Pluginless replacer version of the 8 base khajiit heads.
 - Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
 
