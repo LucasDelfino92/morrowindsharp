@@ -106,7 +106,7 @@ The file structure is how files are organized for the game to read these files a
 
 ome mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenom of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
+> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
 ## Mod Organizer 2 tips
 
@@ -123,7 +123,7 @@ In lieu of mod authors not fixing their mods themselves, there are two ways to f
 
 The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
 
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData1.png)
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_FixingData1.png)
 
 In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
@@ -133,7 +133,7 @@ In this case, the mod contains a **Data Files** folder and a loose **.txt** file
 
 Whenever you encounter this scenario, just do as I've shown above.
 
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData2.png)
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_FixingData2.png)
 
 In this case, the mod contains loose files, and you will have to create a folder to drop them in.
 
