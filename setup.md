@@ -168,7 +168,7 @@ Bloodmoon.esm
 
 One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
 
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
 - Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
 ```
@@ -191,7 +191,7 @@ Max Snowflakes=1500
 
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
-- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Profiles.png) button.
+- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Profiles.png) button.
 - Check **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure **Automatic Archive Invalidation** is unchecked.
 - With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**.
 - Click the **Morrowind++** profile and click **Select**. This will close the window.
@@ -225,7 +225,7 @@ There are a number of mods hosted in other pages (such as [**Morrowind Modding H
 Fixes UV mapping on rocks.
 
 - Click the **Download** button to start the download.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
 - MO2 will prompt you to give the installed mod a name. I suggest renaming it to **Correct UV Rocks**. Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
@@ -408,16 +408,16 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
 - Click **Apply**, and repeat the process for the remaining tools.
 
 ## Setting up Wrye Mash in Mod Organizer 2
 
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply* and then **OK**.
 
