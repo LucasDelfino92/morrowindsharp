@@ -13,8 +13,8 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 Morrowind++ is a modular modding guide for The Elder Scrolls III: Morrowind, which aims to enhance Morrowind across the board. This guide is based on the following core pillars:
 
 - Stability: following this guide, your game should rarely (if ever) crash.
-- Fidelity: mods suggested in this game should blend in seamlessly with vanilla Morrowind.
 - Compatibility: mod conflicts will be kept to a minimum in order to ensure all mods work as intended.
+- Fidelity: mods suggested in this game should blend in seamlessly with vanilla Morrowind.
 
 All mods present in Morrowind++ are 100% optional. However, you are encouraged to follow through with the guide until you are finished with the **Core** module, which contains all patches and fixes required to enjoy Morrowind to its fullest.
 
