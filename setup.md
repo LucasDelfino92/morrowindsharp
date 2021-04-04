@@ -6,8 +6,7 @@
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-- [CORE module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
-- [Shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#shaders)
+- [Core Module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
 
 # Requirements
 
