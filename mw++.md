@@ -423,7 +423,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
-## NPCS
+## NPCs
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
