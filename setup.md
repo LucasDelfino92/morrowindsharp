@@ -233,7 +233,7 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
 
 - Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
 - MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
 - Click **OK**.
