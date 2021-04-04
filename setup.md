@@ -3,14 +3,11 @@
 # SETUP INDEX
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
-  - [Cleaning up your GOG installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#cleaning-up-your-gog-installation)
-  - [Installing DirectX Runtime libraries](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-directx-runtime-libraries)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
+- [CORE module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
 - [Shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#shaders)
-- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#tools)
-- [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#wrye-mash)
 
 # Requirements
 
@@ -405,10 +402,10 @@ Now that we've installed our mods, it's time to configure MGE XE.
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
 **Options**:
-- [ ] Disable MGE in-game. Only recommended for vanilla graphics purists. This disables all advanced graphics settings, including MGE XE's water shader.
+- Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
 
 **Morrowind engine settings**:
-- [ ] High detail actor shadows (buggy). These shadows are more detailed than the vanilla shadows, but both suffer frmo the same problem: they are buggy, not particularly pretty, and can be taxing on your framerate.
+- Checking **High detail actor shadows (buggy)** will enable more detailed shadows, but (as the name says) they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ### Graphics tab
 
