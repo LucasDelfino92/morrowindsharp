@@ -421,6 +421,30 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
+## Shaders
+
+Because of their performance-intensive nature, all shaders listed here are entirely optional. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
+
+Install these shaders with Mod Organizer 2, like any other mod.
+
+[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
+Reduces light seams.
+- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
+
+> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
+
+[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
+Improved water shader.
+
+[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
+Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+
+[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
+Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+
+[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
+Overhauls the game's lighting.
+
 ## Configuring MGE XE
 
 Now that we've installed our mods, it's time to configure MGE XE.
@@ -458,6 +482,20 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
+**Shader setup...**:
+- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
+- The shader combination that works the best for me, and which I personally recommend, is the following.
+```
+SSAO HQ
+Underwater Effects
+Underwater Interior Effects
+Sunshafts
+EdgeAA
+specialprocess
+deband_fogawarev2
+```
+- Click **Save** after setting up your shader chain.
+
 ### Distant Land tab
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
@@ -482,59 +520,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only** by clicking on the dropdown menu.
 
-# Shaders
-
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
-
-## Installing shaders in Mod Organizer 2
-
-Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
-
-[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
-Reduces light seams.
-- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
-
-> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
-
-[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
-Improved water shader.
-
-[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
-Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-
-[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
-Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-
-[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
-Overhauls the game's lighting.
-
-## Configuring shaders in MGE XE
-
-Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
-
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
-- Click **Run** to run the executable.
-
-### Graphics tab
-
-- Under **Renderer**, make sure **Enable shaders** is checked.
-- Click **Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- The shader combination that works the best for me, and which I personally recommend, is the following.
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-EdgeAA
-specialprocess
-deband_fogawarev2
-```
-- Click **Save** after setting up your shader chain.
-
-### Distant Land tab
-
-We need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
+We also need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
 
 - Click **Weather Settings**.
 - Set the **Fog range factor** of all weathers to **1,000**.
