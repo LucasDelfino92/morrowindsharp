@@ -177,7 +177,10 @@ Max Snowflakes=1500
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
 - Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Profiles.png) button.
-- Check **Use profile-specific Game INI files** and **Use profile-specific Save Games**. Make sure **Automatic Archive Invalidation** is unchecked.
+- Check the following options:
+  - [X] Use profile-specific Game INI files.
+  - [X] Use profile-specific Save Games.
+  - [ ] Automatic Archive Invalidation.
 - With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**.
 - Click the **Morrowind++** profile and click **Select**. This will close the window.
 
