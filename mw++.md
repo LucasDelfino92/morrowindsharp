@@ -6,10 +6,7 @@
 Version 1.1 (April 3rd)
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
-- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
-  - [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
-  - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#modding-tips)
-  - [The Overwrite folder](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#the-overwrite-folder)
+- [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
@@ -71,9 +68,7 @@ Version 1.1 (April 3rd)
   - Sheep-no-More moved from Continuity to Audio.
 </details>
 
-# Introduction
-
-## Following the Setup guide
+# Following the Setup guide
 
 The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
