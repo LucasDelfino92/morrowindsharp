@@ -77,150 +77,7 @@ Version 1.1 (April 3rd)
 
 The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
-## Basic modding tips
-
-### Don't uninstall mods mid-playthrough
-
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
-
-### Always keep backup saves
-
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
-
-### Read the descriptions
-
-Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### BSAs and Morrowind.ini
-
-ome mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenom of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
-
-> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
-
-## Mod Organizer 2 tips
-
-### Repackaging mods
-
-There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
-
-> **The content of data files does not look valid.**
-
-In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
-
-- Repackage the mod yourself and install it through Mod Organizer 2.
-- Repackage the mod yourself *in* Mod Organizer 2.
-
-The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
-
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData1.png)
-
-In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
-
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
-- The message will tell you the content of data files looks valid.
-
-Whenever you encounter this scenario, just do as I've shown above.
-
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData2.png)
-
-In this case, the mod contains loose files, and you will have to create a folder to drop them in.
-
-Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
-
-- Right-click on **data files**.
-- Click **Create directory...**.
-- Enter the name of the folder you want to create, and click **OK**.
-- The message will tell you the content of data files looks valid.
-
-Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
-
-### Hiding files
-
-Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
-
-- To hide a plugin, right click on your installed mod and click **Information...**.
-- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
-- Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
-### The Overwrite folder
-
-The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
-
 # CORE MODULE
-
-## Patches
-
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
-The best unofficial fan patch for Morrowind.
-
-## Mesh fixes and optimization
-
-[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
-Fixes UV mapping on rocks and stones.
-
-[**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
-Greatly improves performance and fixes some mesh errors.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Fixed Vanilla Textures
-  - [X] 02 Lake Fjalding Anti-Suck
-  - [X] 03 MGE XE Addon
-  - [ ] 04 Weapon Sheathing Patch
-  - [X] 05 Chuzei Fix
-- Hide **meshes\f\furn_web10.nif** and **meshes\a\a_bonemold_chuzei_helmet.nif**.
-
-> The former mesh causes a transparency bug when used alongside Intelligent Textures. The latter prevents a bug where the Chuzei Helmet appears as a floating object in the world.
-
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [ ] 10 Glow in the Dahrk Patch
-  - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
-  - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
-  - [ ] 20 BC Mushrooms - Smoothed
-  - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
-  - [ ] 30 Redware - Smoothed
-  - [ ] 40 Urns - Smoothed
-  - [ ] 50 Wood Poles - Hi-Res Texture
-- Hide **meshes\x\ex_imp_plat_01.nif**.
-
-> This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
-
-> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
-
-[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
-Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
-
-[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
-Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
-
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
-Flames are now glow mapped and/or properly illuminated.
-- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
-
-## MWSE fixes
-
-[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
-Forces the game to instantly close on exit.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
-Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
 ## Non-purist fixes
 
@@ -235,62 +92,7 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-## Expansion implementation
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-## HD textures
-
-[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Atlas Textures
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
-
-[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110)  
-Pluginless replacer version of the 8 base khajiit heads.
-- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
-
 # UI AND HOTKEYS MODULE
-
-## HD UI
-
-[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?)  
-High resolution replacer for the Daedric font used in scrolls. 
-- Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
-
-[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
-High resolution replacer for the Magic Cards font, used in most of the user interface.
-- Install the **Better Dialogue Font** main file.
-
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
-Replaces most of original book arts with hi-res images redrawn from scratch.
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
-
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
-- Check the following options in the BAIN installer:
-  - [ ] 01 Journal and Scroll - 1K
-  - [X] 01 Journal and Scroll - 2K
-  - [ ] 01 Journal and Scroll - 4K
-  - [ ] 02 Daedric Alphabet Scroll
-
-[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
-HD recreation of the Title and Logo Intro, in widescreen.
-- Install the **Title Screen Reworked (Widescreen)** main file (if you disabled **Skip opening movie** in MGE XE, also install the **Logo Video Intro Reworked (Widescreen)** main file).
-
-[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)  
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
 ## UI
 
@@ -424,6 +226,10 @@ Equipped weapons will be shown on the character's hip or back. This new function
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
 ## NPCs
+
+[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110)  
+Pluginless replacer version of the base khajiit heads.
+- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
