@@ -180,6 +180,39 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 **Morrowind++** will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
+#  Basic modding tips
+
+### Don't uninstall mods mid-playthrough
+
+A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+
+### Always keep backup saves
+
+Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
+Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+
+### Read the descriptions
+
+Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
+
+- Requirements: mods or utilities a given mod needs to work as intended.
+- Compatibility issues: known conflicts with other mods, whether general or specific.
+- Known issues: bugs or unintended behavior.
+
+Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
+
+### File structure matters
+
+The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
+
+### BSAs and Morrowind.ini
+
+ome mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenom of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
+
+> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
+
+# Mod Organizer 2 tips
+
 ### Installing Nexus mods with Mod Organizer 2
 
 Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Nexus accounts can be free or Premium (paid). This guide assumes you are a free user.
@@ -214,13 +247,144 @@ Fixes UV mapping on rocks.
 
 > Unfortunately some Nexus mods block the **Mod manager download** option. In that case, you will have to use the **Manual download** option, and install the mods manually as shown in this section.
 
-### Creating a separator in Mod Organizer 2
+### Repackaging mods
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. We will create a separator for the upcoming **MGE XE** section.
+There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-- Right click on the empty space on the left pane, below *Overwrite*, and click **Create Separator**.
-- Name it **MGE XE** and click **OK**.
-- Click and drag the separator under both expansions.
+> **The content of data files does not look valid.**
+
+In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
+
+- Repackage the mod yourself and install it through Mod Organizer 2.
+- Repackage the mod yourself *in* Mod Organizer 2.
+
+The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
+
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData1.png)
+
+In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
+
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, just do as I've shown above.
+
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_FixingData2.png)
+
+In this case, the mod contains loose files, and you will have to create a folder to drop them in.
+
+Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
+
+- Right-click on **data files**.
+- Click **Create directory...**.
+- Enter the name of the folder you want to create, and click **OK**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
+
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
+
+- To hide a plugin, right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+
+### Creating a separator
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
+
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
+
+### The Overwrite folder
+
+The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
+
+# CORE MODULE
+
+## Patches
+
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
+The best unofficial fan patch for Morrowind.
+
+## Mesh fixes and optimization
+
+[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
+Fixes UV mapping on rocks and stones.
+
+[**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
+Greatly improves performance and fixes some mesh errors.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Fixed Vanilla Textures
+  - [X] 02 Lake Fjalding Anti-Suck
+  - [X] 03 MGE XE Addon
+  - [ ] 04 Weapon Sheathing Patch
+  - [X] 05 Chuzei Fix
+- Hide **meshes\f\furn_web10.nif** and **meshes\a\a_bonemold_chuzei_helmet.nif**.
+
+> The former mesh causes a transparency bug when used alongside Intelligent Textures. The latter prevents a bug where the Chuzei Helmet appears as a floating object in the world.
+
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 10 Glow in the Dahrk Patch
+  - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
+  - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+  - [ ] 20 BC Mushrooms - Smoothed
+  - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+  - [ ] 30 Redware - Smoothed
+  - [ ] 40 Urns - Smoothed
+  - [ ] 50 Wood Poles - Hi-Res Texture
+- Hide **meshes\x\ex_imp_plat_01.nif**.
+
+> This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
+
+> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
+
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
+Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
+
+[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
+Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
+
+[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
+Flames are now glow mapped and/or properly illuminated.
+- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
+
+## MWSE fixes
+
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
+Forces the game to instantly close on exit.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
+Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
+Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
+
+## Expansion implementation
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
+## HD textures
+
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Atlas Textures
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
 ## Launching MGE XE through Mod Organizer 2
 
@@ -280,140 +444,6 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
 > Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to interiors only by clicking on the dropdown menu.
-
-# Shaders
-
-MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
-
-## Installing shaders in Mod Organizer 2
-
-Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
-
-[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
-Reduces light seams.
-- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
-
-> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
-
-[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
-Improved water shader.
-
-[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
-Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-
-[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
-Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-
-[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
-Overhauls the game's lighting.
-
-## Configuring shaders in MGE XE
-
-Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
-
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
-- Click **Run** to run the executable.
-
-### Graphics tab
-
-- Under **Renderer**, make sure **Enable shaders** is checked.
-- Click **Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- The shader combination that works the best for me, and which I personally recommend, is the following.
-
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-EdgeAA
-specialprocess
-deband_fogawarev2
-```
-
-- Click **Save** after setting up your shader chain.
-
-### Distant Land tab
-
-We need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
-
-- Click **Weather Settings**.
-- Set the **Fog range factor** of all weathers to **1,000**.
-- Click **Save**.
-
-This finishes the configuration of MGE XE.
-
-# Tools
-
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
-
-[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
-Used to see the structure of mods and detect conflicts.
-
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
-
-> The version I'm hosting on MediaFire can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
-Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
-
-[**TESAME**](http://mw.modhistory.com/download-95-15443)  
-Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
-
-## Setting up tools in Mod Organizer 2
-
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
-- In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
-- Click **Apply**, and repeat the process for the remaining tools.
-
-# Wrye Mash
-
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
-Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
-
-- Download and run the **Wrye Mash 2019 x64 - Installer** main file.
-- Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
-- Select **C:\Games\Morrowind** as the destination location and click **Next >**. When Wrye Mash tells you the folder already exists, click **Yes** to install.
-- Click **Next >** until Wrye Mash has finished installing.
-- Uncheck **Launch Wrye Mash 2019 x64** and click **Finish**.
-
-## Setup
-
-- Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy** and click **OK** to to start the configuration wizard.
-- Click **Next>**. The wizard will now ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (C:\Games\Morrowind). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (C:\Games\Morrowind Mods).
-- Click **Next>** and then click **Finish**.
-- Wrye Mash x64 will now launch. Close the program.
-
-> We will be using Mod Organizer 2 to install our mods, meaning the **Mods Installers directory** is redundant to us. However, it is a required step to install Wrye Mash.
->
-> **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
-
-## tes3cmd
-
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
-tes3cmd is a tool used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**. When needed, we will run it through Wrye Mash.
-
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
-
-## Setting up Wrye Mash in Mod Organizer 2
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply* and then **OK**.
-
-> Unlike the other tools, Wrye Mah doesn't require additional info in the *Start In* field.
 
 # Onto Morrowind++
 
