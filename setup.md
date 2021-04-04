@@ -40,7 +40,7 @@ C:\Games\Morrowind Mods\
 ```
 ## Cleaning up your GOG installation
 
-To clean up your GOG installation of Morrowind of unnecessary files, delete the following from your **Morrowind\Data Files\** folder:
+To clean up your GOG installation of Morrowind of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
@@ -56,7 +56,7 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
-- Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder (**C:\Games\Morrowind\**).
+- Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
 
 [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
 Repository for the Beta update for the Morrowind Code Patch.
@@ -79,7 +79,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 - Manually download the **MGE XE Installer** main file.
 - Run the **MGE XE Installer.exe**.
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind\**).
+- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
 - Head over to your Morrowind **Data Files** folder, and delete the **XE Sky Variations.esp**.
 
@@ -89,7 +89,7 @@ MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so 
 
 When you first install MGE XE, it will automatically download the latest MWSE update. In the future, you will have to update MWSE yourself. Doing this is simple.
 
-- Run **MWSE-Update.exe** in **C:\Games\Morrowind\**.
+- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
 - A window will open and close shortly after, having updated MWSE to the latest version.
 
 > Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
