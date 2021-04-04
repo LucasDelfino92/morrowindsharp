@@ -75,7 +75,7 @@ Version 1.1 (April 3rd)
 
 ## Following the Setup guide
 
-The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup) page. Please abstain from using this guide until you've correctly set up Morrowind.
+The guide presented here assumes you have already followed the installation instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind.
 
 ## Basic modding tips
 
