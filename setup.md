@@ -402,42 +402,28 @@ Now that we've installed our mods, it's time to configure MGE XE.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
-Here are the options you should look out for, with recommended settings.
+Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
 **Options**:
-- [ ] Disable MGE in-game. Only recommended for vanilla graphics purists.
-- [ ] Disable MWSE support.
-- [X] Skip opening movie.
-- [ ] Daggerfall combat controls.
-- [ ] Crosshair autohide.
-- [X] Responsive menu caching.
+- [ ] Disable MGE in-game. Only recommended for vanilla graphics purists. This disables all advanced graphics settings, including MGE XE's water shader.
 
 **Morrowind engine settings**:
-- [X] Allow yes to all load errors.
-- [ ] High detail actor shadows (buggy).
-- [ ] Show subtitles.
-- [ ] Show FPS
-- [X] Allow screenshots.
-- [X] Thread loading.
-- [ ] Disable audio.
-- [X] Hit fader.
+- [ ] High detail actor shadows (buggy). These shadows are more detailed than the vanilla shadows, but both suffer frmo the same problem: they are buggy, not particularly pretty, and can be taxing on your framerate.
 
 ### Graphics tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
+Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
+
 **Display**:
-- Select your resolution and refresh rate.
-- [X] Windowed mode.
-- [X] Borderless window.
+- You should select your resolution and refresh rate.
 - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
 - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
 
-**Renderer** (note that for these options to appear, the option to disable MGE in-game *must not* be checked):
-- [X] Enable shaders. If you find your computer struggles at maintaining a decent framerate, you may want to disable shaders.
-- [ ] Display FPS.
+**Renderer**:
+- If you find your computer struggles at maintaining a decent framerate, you may want to uncheck **Enable shaders**.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
-- [X] Auto FOV.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
 ### Distant Land tab
