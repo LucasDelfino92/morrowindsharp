@@ -364,15 +364,7 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-## Expansion implementation
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-## HD textures
+## Enhanced textures
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -383,6 +375,14 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
+
+## Expansion implementation
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ## Configuring MGE XE
 
@@ -397,37 +397,43 @@ Now that we've installed our mods, it's time to configure MGE XE.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
-Check the following options, and leave the rest unchecked.
+Here are the options you should look out for, with recommended settings.
 
-- Under **Options**:
-  - [X] Disable MGE in-game.
-  - [X] Skip opening movie.
-  - 
-- Under **Morrowind engine settings**:
-  - [X] **Allow yes to all load errors**.
+**Options**:
+- [ ] Disable MGE in-game. Only recommended for vanilla graphics purists.
+- [ ] Disable MWSE support.
+- [X] Skip opening movie.
+- [ ] Daggerfall combat controls.
+- [ ] Crosshair autohide.
+- [X] Responsive menu caching.
 
-> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
-
-> To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
+**Morrowind engine settings**:
+- [X] Allow yes to all load errors.
+- [ ] High detail actor shadows (buggy).
+- [ ] Show subtitles.
+- [ ] Show FPS
+- [X] Allow screenshots.
+- [X] Thread loading.
+- [ ] Disable audio.
+- [X] Hit fader.
 
 ### Graphics tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
 
-- Under **Display**:
-  - Select your resolution and refresh rate.
-  - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
-  - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
-- Under **Renderer**:
-  - (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
-  - (Optional) Check **Display FPS** to see your framerate in-game.
-  - (Optional) Set **FPS Limiter** to a reasonable framerate for increase consistency. I personally set it to **60**.
+**Display**:
+- Select your resolution and refresh rate.
+- [X] Windowed mode.
+- [X] Borderless window.
+- Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
+- **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
 
-
-
-## Configuring MGE XE for enhanced visuals
-
-
+**Renderer** (note that for these options to appear, the option to disable MGE in-game *must not* be checked):
+- [X] Enable shaders. If you find your computer struggles at maintaining a decent framerate, you may want to disable shaders.
+- [ ] Display FPS.
+- Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
+- [X] Auto FOV.
+- Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
 ### Distant Land tab
 
@@ -451,7 +457,65 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
-> Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to interiors only by clicking on the dropdown menu.
+> Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only** by clicking on the dropdown menu.
+
+# Shaders
+
+MGE XE receives constant support from the dedicated modding community, generally in the form of new and better shaders. Please note that shaders tend to be performance intensive, particularly the **specialprocess** and **16 Lights Shaders Alpha** shaders. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
+
+## Installing shaders in Mod Organizer 2
+
+Manually install the following shaders with Mod Organizer 2. Note that all of them are optional.
+
+[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
+Reduces light seams.
+- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
+
+> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
+
+[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
+Improved water shader.
+
+[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
+Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+
+[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
+Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+
+[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
+Overhauls the game's lighting.
+
+## Configuring shaders in MGE XE
+
+Now that the shaders have been installed in Mod Organizer 2, it's time to activate them in MGE XE.
+
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
+- Click **Run** to run the executable.
+
+### Graphics tab
+
+- Under **Renderer**, make sure **Enable shaders** is checked.
+- Click **Shader setup...**
+- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
+- The shader combination that works the best for me, and which I personally recommend, is the following.
+```
+SSAO HQ
+Underwater Effects
+Underwater Interior Effects
+Sunshafts
+EdgeAA
+specialprocess
+deband_fogawarev2
+```
+- Click **Save** after setting up your shader chain.
+
+### Distant Land tab
+
+We need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
+
+- Click **Weather Settings**.
+- Set the **Fog range factor** of all weathers to **1,000**.
+- Click **Save**.
 
 # Onto Morrowind++
 
