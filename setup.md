@@ -181,10 +181,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**.
-- Click the **Morrowind++** profile and click **Select**. This will close the window.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**. Close the window.
+- On the **Profile** tab, select the **Morrowind++** profile.
 
-**Morrowind++** will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
+Morrowind++ will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 #  Basic modding tips
 
