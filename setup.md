@@ -17,6 +17,7 @@
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
   - Installation instructions are found on the next section. 
 - [**DirectX End-User Runtimes (June 2010)**](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+- A [**Nexus**](https://users.nexusmods.com/register) account. This guide assumes you are using a Free account, so no need to pay for Premium.
 - A file archiver. I recommend [**7-Zip**](https://www.7-zip.org/).
 - A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
 
@@ -215,37 +216,36 @@ ome mods come with BSA files. These contain data files for the mod. The most pop
 
 ### Installing Nexus mods with Mod Organizer 2
 
-Most of the mods installed in Morrowind++ are hosted on [**Nexus Mods**](https://www.nexusmods.com/morrowind), for which you will require a Nexus account. Nexus accounts can be free or Premium (paid). This guide assumes you are a free user.
-
 Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
-Unofficial fan patch for Morrowind, regularly maintained.
-
-- Click **Mod manager download** under the **Patch for Purists** main file.
+- Click **Mod manager download** under the file you want to download.
 - Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab.
-- Right click on the downloaded file, and click **Install**.
+- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- Right-click the downloaded file, and click **Install**.
 - MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
 - Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
-> IMPORTANT: whenever you are asked to install a mod from Nexus, always install the main files. If there are multiple main files present, you will be told which one you need to install. Ignore Updates and Optional files unless told to install them explicitly.
+> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
 
 ### Manually installing mods in Mod Organizer 2
 
-There are a number of mods hosted in other pages (such as [**Morrowind Modding History**](https://mw.modhistory.com/) and **Google Drive**) which will require you to download the file and add it manually to Mod Organizer 2. One of the fixes we will be installing in the guide is not hosted in Nexus Mods, which gives us an excellent opportunity to showcase this process.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
 
-[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
-Fixes UV mapping on rocks.
-
-- Click the **Download** button to start the download.
+- Download your file.
 - In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
-- MO2 will prompt you to give the installed mod a name. I suggest renaming it to **Correct UV Rocks**. Click **OK**.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+- Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
-> Unfortunately some Nexus mods block the **Mod manager download** option. In that case, you will have to use the **Manual download** option, and install the mods manually as shown in this section.
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
+
+- To hide a plugin, right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
 ### Repackaging mods
 
@@ -283,14 +283,6 @@ Right-clicking on **data files** and clicking **Create directory...** will let y
 
 Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
 
-### Hiding files
-
-Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
-
-- To hide a plugin, right click on your installed mod and click **Information...**.
-- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
-- Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
 ### Creating a separator
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
@@ -302,7 +294,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
 
-# CORE MODULE
+# CORE Module
 
 ## Patches
 
