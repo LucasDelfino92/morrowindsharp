@@ -57,11 +57,13 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
-- Place the contents of the **Morrowind Code Patch** main file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- Manually download the **Morrowind Code Patch** main file.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
 
 [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
 Repository for the Beta update for the Morrowind Code Patch.
-- Place the contents of the **MCP beta** update file in your Morrowind **Root** folder, and overwrite when prompted.
+- Manually download the **MCP beta** update file.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
 > This will update the Morrowind Code Patch to version **2.5b4**.
 
