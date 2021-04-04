@@ -211,6 +211,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 > This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
 
+> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
+
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
 
