@@ -352,8 +352,14 @@ Flames are now glow mapped and/or properly illuminated.
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
@@ -378,14 +384,31 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
-## Launching MGE XE through Mod Organizer 2
+## Configuring MGE XE
+
+Now that we've installed our mods, it's time to configure MGE XE.
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-## Configuring MGE XE
+> Always remember to run MGE XE through Mod Organizer 2 to detect the virtual files folder.
 
-MGE XE consists of five tabs, all of which have plenty of configurable options. For this section, we will only focus on the Graphics and In-game tabs.
+### In-game tab
+
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
+
+Check the following options, and leave the rest unchecked.
+
+- Under **Options**:
+  - [X] Disable MGE in-game.
+  - [X] Skip opening movie.
+  - 
+- Under **Morrowind engine settings**:
+  - [X] **Allow yes to all load errors**.
+
+> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
+
+> To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
 
 ### Graphics tab
 
@@ -396,22 +419,15 @@ MGE XE consists of five tabs, all of which have plenty of configurable options. 
   - Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
   - **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
 - Under **Renderer**:
-  - Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
+  - (Optional) Check **Enable shaders** under **Renderer** to enable post-processing shaders. We will configure these later.
   - (Optional) Check **Display FPS** to see your framerate in-game.
   - (Optional) Set **FPS Limiter** to a reasonable framerate for increase consistency. I personally set it to **60**.
 
-### In-game tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
-- Under **Morrowind engine settings**:
-  - Check **Allow yes to all load errors**.
+## Configuring MGE XE for enhanced visuals
 
-> You may be tempted to check **High detail actor shadows**, but Morrowind shadows are buggy and this feature will tank your FPS hard.
->
-> If you have no interest whatsoever in MGE XE's enhanced graphics options, like Distant Land and Shaders, you can check **Disable MGE in-game**. Feel free to skip the remainder of the **Setup** guide, as we will be configuring those next.
->
-> To take in-game screenshots with MGE disabled, you will have to check **Allow screenshots**.
+
 
 ### Distant Land tab
 
