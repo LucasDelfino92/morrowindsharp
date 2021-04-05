@@ -398,7 +398,7 @@ Replaces rain with a more heavy rain look.
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/)  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/).
+- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
 - Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
 ```
 local function initialized()
@@ -609,7 +609,7 @@ Increases the penalties for crime.
 [**HardTrade**](https://www.mediafire.com/file/uuxqwctl9dxddax/HardTrade_v2.6_%2528Sigourn_Edit%2529.zip/file)  
 Eliminates trade exploits by overhauling the bartering mechanics.
 - Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\HardTrade\main.lua** using a text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/).
+- Open **MWSE\mods\HardTrade\main.lua** using a text editor.
 - Comment out both **tes3.findGMST** lines and the **event.register("uiActivated", onPersuationMenu, {filter = "MenuPersuasion"})** line using "--", like so:
 ```
 local function initialized(e)
