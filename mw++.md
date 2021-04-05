@@ -72,7 +72,7 @@ Version 1.1 (April 3rd)
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
-# TOOLS MODULE
+# Tools
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues.
 
