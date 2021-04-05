@@ -619,7 +619,10 @@ We are just about done here. It's time to finally run Morrowind.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
-# Onto Morrowind++ Part 2
+With that out of the way, you have two options:
+
+- You click **New** - the guide ends, you wake up in the prison ship and play Morrowind however you want to play it.
+- You click **Exit** - you stay in the guide, and I show you how deep the rabbit-hole goes.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [To Morrowind++ Part 2 >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
