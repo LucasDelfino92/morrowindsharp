@@ -1,5 +1,5 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
+[<< Back to Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
 
 # MORROWIND++ PART 2
 
@@ -70,7 +70,7 @@
 
 # Disclaimer
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
+The guide presented here assumes you have already followed all instructions found in the [**Morrowind++ Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
 # Tools
 
@@ -724,4 +724,4 @@ For reference, here is a list of known mods in the guide that tend to have compa
   - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
+[<< Back to Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
