@@ -531,9 +531,15 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 **Options**:
 - Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
+- Uncheck **Responsive menu caching** if you have SLI or Crossfire, as they cause slowdown with this feature.
 
 **Morrowind engine settings**:
 - Checking **High detail actor shadows (buggy)** will enable more detailed shadows, but (as the name says) they are buggy and can be very taxing on your framerate. I don't recommend them.
+
+### Config tab
+
+**Information**:
+- Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
 
 ### Graphics tab
 
@@ -543,11 +549,11 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 **Display**:
 - You should select your resolution and refresh rate.
-- Higher **Antialiasing** and **Anisotropic filtering** settings make your game look better, at the cost of framerate. I personally set these to **16x**.
-- **VSync** will considerably reduce your framerate, but I recommend setting it to **On** to prevent screen-tearing.
+- Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
+- Turn **VSync** on to prevent screen-tearing.
 
 **Renderer**:
-- If you find your computer struggles at maintaining a decent framerate, you may want to uncheck **Enable shaders**.
+- Check **Enable shaders**.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
@@ -564,6 +570,8 @@ specialprocess
 deband_fogawarev2
 ```
 - Click **Save** after setting up your shader chain.
+
+> Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
 
 ### Distant Land tab
 
@@ -587,7 +595,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them. Bear in mind I'm really keen on the foggy aesthetic of vanilla Morrowind, hence the reduced draw distance compared to most Morrowind screenshots and videos you will find on the Internet.
 
-> Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only** by clicking on the dropdown menu.
+> Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
 We also need to modify our **Weather Settings** to account for the **16 Lights Shaders Alpha** shader we installed earlier.
 
