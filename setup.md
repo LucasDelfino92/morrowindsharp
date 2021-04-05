@@ -624,5 +624,5 @@ With that out of the way, you have two options:
 - You click **New** - the guide ends, you wake up in the prison ship and play Morrowind however you want to play it.
 - You click **Exit** - you stay in the guide, and I show you how deep the rabbit-hole goes.
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[To Morrowind++ Part 2 >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
+[To Morrowind++ Part 2 >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
