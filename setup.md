@@ -11,6 +11,7 @@
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
 - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-shaders)
 - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
+- [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
 - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
 
 # Requirements
@@ -579,7 +580,7 @@ Now that we've installed our mods, it's time to configure MGE XE.
 
 > Always remember to run MGE XE through Mod Organizer 2 to detect the virtual files folder.
 
-### In-game tab
+## In-game tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
@@ -592,12 +593,12 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 **Morrowind engine settings**:
 - You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
-### Config tab
+## Config tab
 
 **Information**:
 - Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
 
-### Graphics tab
+## Graphics tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE_Graphics.png)
 
@@ -629,7 +630,7 @@ deband_fogawarev2
 
 > Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
 
-### Distant Land tab
+## Distant Land tab
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
