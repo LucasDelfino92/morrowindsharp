@@ -1,6 +1,6 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
 
-# SETUP INDEX
+# MORROWIND++ PART 1
 
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
