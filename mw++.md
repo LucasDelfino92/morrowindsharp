@@ -3,11 +3,9 @@
 
 # MORROWIND++ PART 2
 
-Version 1.1 (April 3rd)
-
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
-- [Following the setup guide](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#following-the-setup-guide)
-- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module)
+- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
+- [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module-extended)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
