@@ -1,6 +1,6 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 
-# MORROWIND# INDEX
+# MORROWIND++ Part 2.4.1
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#introduction)
