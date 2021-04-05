@@ -18,6 +18,7 @@
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#re-running-distant-land)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
+- [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#compatibility)
 
 # Changelog
 
