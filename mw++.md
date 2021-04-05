@@ -279,7 +279,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
 - Install the **WeaponSheathing 1.6-MWSE** main file.
   - Right-click on **Data Files**.
   - Click **Set as data files directory**.
-- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?tab=files), which tweaks bows so that they line up better with the sheathing animation.
 - Also install the **Morrowind Optimization Patch Weapon Sheathing Patch**.
   - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
   - Check the following options in the BAIN installer:
@@ -290,6 +289,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [X] 04 Weapon Sheathing Patch
     - [ ] 05 Chuzei Fix
   - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
+- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?tab=files), which tweaks bows so that they line up better with the sheathing animation.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
@@ -549,8 +549,8 @@ Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
-Weapon Sheathing - Bow Position Edit
 Morrowind Optimization Patch Weapon Sheathing Patch
+Weapon Sheathing - Bow Position Edit
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
 Glow in the Dahrk
@@ -564,7 +564,6 @@ Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 Weather Adjuster
 ==========AUDIO==========
-No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 Great Service
@@ -596,16 +595,14 @@ Bloodmoon.esm
 Patch for Purists.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
-bcsounds.ESP
-master_index.ESP
-Lake Fjalding Anti-Suck.ESP
 chuzei_helm_no_neck.ESP
+Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Services Restored.ESP
-The Publicans.ESP
+Better_Typography_Bookarts_Fix.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
-Better_Typography_Bookarts_Fix.ESP
+Services Restored.ESP
+The Publicans.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
 Yet Another Guard Diversity - Regular.ESP
