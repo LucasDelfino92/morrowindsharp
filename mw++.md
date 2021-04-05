@@ -110,11 +110,10 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 - Download and run the **Wrye Mash 2019 x64 - Installer** main file.
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck the option and click **Finish**.
+- When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
 
 ### Initial setup
 
-- Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy**.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
    - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
