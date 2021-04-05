@@ -25,7 +25,7 @@
 
 > Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
 
-> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://drive.google.com/file/d/1AfWxr5VTugQOWpJTth0V7l8CkFI4_RVF/view)
+> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
 # Installation
 
