@@ -632,6 +632,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
+- Repeat this process for each of the faulty plugins.
 
 ## Conflict resolution
 
