@@ -131,6 +131,8 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply** and then **OK**.
 
+> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
+
 ## tes3cmd
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
