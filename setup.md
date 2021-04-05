@@ -444,6 +444,72 @@ Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings
 [**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
 Overhauls the game's lighting.
 
+## Current mod order and load order
+
+The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
+
+<details>
+<summary>Install order</summary>
+
+```
+DLC: Tribunal
+DLC: Bloodmoon
+==========CORE==========
+Patch for Purists
+Correct UV Rocks
+Morrowind Optimization Patch
+Project Atlas
+Creature VFX Restoration
+Rope Fence Fix
+Glowing Flames
+Expeditious Exit
+Loading Doors Lock Tune
+Quest Skill Reward Fix
+Run Fix
+Skill Increase GMST Fix
+Intelligent Textures
+Facelift Meshes
+Facelift Textures
+Expansion Delay
+Early Transport to Mournhold
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Replacer
+Widescreen Splash Additions
+==========MGE XE Shaders==========
+MGE XE Shader - 16 Lights Shaders Alpha
+MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
+```
+</details>
+
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
+
+<details>
+<summary>Load order</summary>
+
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+Patch for Purists.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+chuzei_helm_no_neck.ESP
+Lake Fjalding Anti-Suck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+Better_Typography_Bookarts_Fix.ESP
+```
+</details>
+
 ## Configuring MGE XE
 
 Now that we've installed our mods, it's time to configure MGE XE.
