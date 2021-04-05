@@ -9,6 +9,7 @@
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
+- [In-game configuration](- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration))
 
 # Requirements
 
@@ -602,6 +603,21 @@ We also need to modify our **Weather Settings** to account for the **16 Lights S
 - Click **Weather Settings**.
 - Set the **Fog range factor** of all weathers to **1,000**.
 - Click **Save**.
+
+# In-game configuration
+
+## General adjustments
+
+We are just about done here. It's time to finally run Morrowind.
+
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
+- Click **Run** to run the executable.
+
+> Always remember to run Morrowind through Mod Organizer 2 to detect the virtual files folder.
+
+- Once the game has finished loading, click **Options** and click the **Video** tab.
+- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
 # Onto Morrowind++ Part 2
 
