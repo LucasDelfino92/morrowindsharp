@@ -6,6 +6,7 @@
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
+- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
 
 # Requirements
@@ -182,7 +183,9 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind++ will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
-#  Basic modding tips
+# Modding tips
+
+## General
 
 ### Don't uninstall mods mid-playthrough
 
@@ -213,7 +216,7 @@ ome mods come with BSA files. These contain data files for the mod. The most pop
 
 > Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
-# Mod Organizer 2 tips
+## Mod Organizer 2
 
 ### Installing Nexus mods with Mod Organizer 2
 
