@@ -20,8 +20,8 @@ All mods present in Morrowind++ are 100% optional. However, you are encouraged t
 
 Morrowind++ is divided in two sections:
 
-- [**Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/core.md#core-index), where I walk you through to getting the game and our mod manager running, as well as the necessary patches and fixes to enjoy a stable and (nearly) bug-free experience. If you are new to Morrowind, you will definitely want to try out the game like this first.
-- [**Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index), which contains all non-purist mods that expand on the vanilla game by addressing user interface, visuals, audio, and gameplay improvements. This section is intended for people who have already experienced Morrowind.
+- [**Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1), where I walk you through to getting the game and our mod manager running, as well as the necessary patches and fixes to enjoy a stable and (nearly) bug-free experience. If you are new to Morrowind, you will definitely want to try out the game like this first.
+- [**Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2), which contains all non-purist mods that expand on the vanilla game by addressing user interface, visuals, audio, and gameplay improvements. This section is intended for people who have already experienced Morrowind.
 
 All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropiate mod order and load order, can be found in these pages.
 
