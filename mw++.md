@@ -4,7 +4,7 @@
 # MORROWIND++ PART 2
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
-- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#introduction)
+- [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#disclaimer)
 - [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module-extended)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
@@ -66,7 +66,7 @@
   - Sheep-no-More moved from Continuity to Audio.
 </details>
 
-# Introduction
+# Disclaimer
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
