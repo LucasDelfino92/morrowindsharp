@@ -9,7 +9,7 @@
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
-- [In-game configuration](- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration))
+- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
 
 # Requirements
 
