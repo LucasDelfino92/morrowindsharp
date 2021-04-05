@@ -565,9 +565,9 @@ Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Better_Typography_Bookarts_Fix.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
-Better_Typography_Bookarts_Fix.ESP
 ```
 </details>
 
