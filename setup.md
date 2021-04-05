@@ -1,4 +1,4 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
 
 # MORROWIND++ PART 1
 
@@ -597,5 +597,5 @@ We also need to modify our **Weather Settings** to account for the **16 Lights S
 
 # Onto Morrowind++ Part 2
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [To Morrowind++ Part 2 >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
