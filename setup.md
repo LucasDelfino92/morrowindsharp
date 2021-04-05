@@ -534,7 +534,7 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 - Uncheck **Responsive menu caching** if you have SLI or Crossfire, as they cause slowdown with this feature.
 
 **Morrowind engine settings**:
-- Checking **High detail actor shadows (buggy)** will enable more detailed shadows, but (as the name says) they are buggy and can be very taxing on your framerate. I don't recommend them.
+- You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ### Config tab
 
@@ -543,7 +543,7 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Graphics%20Tab.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE_Graphics.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
