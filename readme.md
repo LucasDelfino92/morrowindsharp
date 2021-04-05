@@ -44,6 +44,8 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 Morrowind++ consists of roughly 70 mods and 20 new plugins. I tried to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
+The extended Morrowind++ (**Part 2.x**) takes the number to roughly 160 mods and 60 new plugins.
+
 ### How much space do I need to install these mods?
 
 Roughly 4.5GB, of which **Intelligent Textures** accounts for 75% the size of. And I *really* recommend you install Intelligent Textures.
