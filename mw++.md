@@ -359,7 +359,7 @@ Replaces rain with a more heavy rain look.
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/)  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/).
+- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
 - Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
 ```
 local function initialized()
@@ -481,13 +481,6 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========MGE XE==========
-MGE XE Data Files
-MGE XE Shader - 16 Lights Shaders Alpha
-MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
-MGE XE Shader - Deband Fogaware v2
-MGE XE Shader - EdgeAA
-MGE XE Shader - Specialprocess
 ==========CORE==========
 Patch for Purists
 Correct UV Rocks
@@ -497,17 +490,15 @@ Creature VFX Restoration
 Rope Fence Fix
 Glowing Flames
 Expeditious Exit
+Loading Doors Lock Tune
 Quest Skill Reward Fix
+Run Fix
 Skill Increase GMST Fix
-Services Restored
-The Publicans
-Expansion Delay
-Early Transport to Mournhold
 Intelligent Textures
 Facelift Meshes
 Facelift Textures
-Pluginless Khajiit Head Pack - Whiskers Version
-==========UI AND HOTKEYS==========
+Expansion Delay
+Early Transport to Mournhold
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -515,6 +506,17 @@ Pete's Scroll 2018 ...in 2020
 Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Replacer
+Widescreen Splash Additions
+==========MGE XE Shaders==========
+MGE XE Shader - 16 Lights Shaders Alpha
+MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
+==========CORE EXTENDED==========
+Services Restored
+The Publicans
+==========UI AND HOTKEYS==========
 Better Questlist
 Continue
 HUD Weapon Charge
@@ -543,6 +545,7 @@ Improved Thrown Weapon Projectiles
 Weapon Sheathing
 Weapon Sheathing - Bow Position Edit
 Morrowind Optimization Patch Weapon Sheathing Patch
+Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
