@@ -2,6 +2,7 @@
 
 # MORROWIND++ PART 1
 
+- [Requirements](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#requirements)
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
