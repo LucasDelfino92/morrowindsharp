@@ -9,7 +9,7 @@
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
-- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-shaders)
+- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
 - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
 - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
 - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
@@ -428,7 +428,7 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-# MGE shaders
+# MGE XE shaders
 
 ## Foreword
 
