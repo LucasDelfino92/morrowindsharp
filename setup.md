@@ -586,16 +586,16 @@ Now that we've installed our mods, it's time to configure MGE XE.
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
-**Options**:
+**Options**
 - Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
 - Uncheck **Responsive menu caching** if you have SLI or Crossfire, as they cause slowdown with this feature.
 
-**Morrowind engine settings**:
+**Morrowind engine settings**
 - You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ## Config tab
 
-**Information**:
+**Information**
 - Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
 
 ## Graphics tab
@@ -604,17 +604,17 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
-**Display**:
+**Display**
 - You should select your resolution and refresh rate.
 - Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
 - Turn **VSync** on to prevent screen-tearing.
 
-**Renderer**:
+**Renderer**
 - Check **Enable shaders**.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
-**Shader setup...**:
+**Shader setup...**
 - On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
 - The shader combination that works the best for me, and which I personally recommend, is the following.
 ```
