@@ -18,7 +18,6 @@
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#re-running-distant-land)
   - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#closing-commments)
 - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
-  - [General adjustments](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#general-adjustments)
   - [Mod configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#compatibility)
@@ -668,14 +667,6 @@ Broadly speaking, these are the steps you should follow whenever you install new
 5. Re-run Distant Land.
 
 # In-game configuration
-
-## General adjustments
-
-Launch Morrowind and make the following adjustments.
-
-- Under the **Options** menu, go to the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
 ## Mod configuration
 
