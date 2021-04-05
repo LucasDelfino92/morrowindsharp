@@ -9,6 +9,8 @@
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 - [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
+- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-shaders)
+- [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
 - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
 
 # Requirements
@@ -425,59 +427,59 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-## Shaders
+# MGE shaders
 
-### Foreword
+## Foreword
 
 Because of their performance-intensive nature, all shaders listed here are entirely optional. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
-### Specialprocess comparison
+## Specialprocess comparison
 
 One of the shaders we will be installing overhauls the game's lighting. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with the **specialprocess** shader.
 
-**Vanilla exterior**
+### Vanilla exterior
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind_Exterior.jpg)
 
-**specialprocess exterior**
+### specialprocess exterior
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Specialprocess_Exterior.jpg)
 
-**Vanilla interior**
+### Vanilla interior
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind_Interior.jpg)
 
-**specialprocess interior**
+### specialprocess interior
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Specialprocess_Interior.jpg)
 
-### Water shaders comparison
+## Water shaders comparison
 
 Two of the shaders recommended in the following section modify MGE XE's water shader. As such, you will have to choose which one do you like most. To aid you in choosing one, I've taken the following screenshots.
 
-**Standard MGE XE**
+### Standard MGE XE
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Standard%20MGE%20XE_Clear.jpg)
 
-**16 Lights Shader**
+### 16 Lights Shader
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/16%20Lights%20Shader_Clear.jpg)
 
-**Enhanced Water**
+### Enhanced Water
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Enhanced%20Water%20Shader_Clear.jpg)
 
-### Water level shader comparison
+## Water level shader comparison
 
-**Enhanced Water**
+### Enhanced Water
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Enhanced%20Water%20Shader_Underwater.jpg)
 
-**Standard MGE XE and 16 Lights Shader**
+### Standard MGE XE and 16 Lights Shader
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Other%20Shaders_Underwater.jpg)
 
-### Installation
+## Installation
 
 Install these shaders with Mod Organizer 2, like any other mod.
 
@@ -502,7 +504,7 @@ Improved water shader.
 Overhauls the game's lighting.
 - (Optional) Skip installing this shader if you prefer the vanilla Morrowind lighting.
 
-## Current mod order and load order
+# Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -568,7 +570,7 @@ Better_Typography_Bookarts_Fix.ESP
 ```
 </details>
 
-## Configuring MGE XE
+# Configuring MGE XE
 
 Now that we've installed our mods, it's time to configure MGE XE.
 
