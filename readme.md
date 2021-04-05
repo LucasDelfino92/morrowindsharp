@@ -10,23 +10,20 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 ## Description
 
-**Morrowind++** is the result of five years of playing Morrowind, looking up modding guides, installing mods, troubleshooting them, and engaging with other users (modders and end users alike). It's a modding guide that aims to enhance Morrowind across the board, based on the following pillars:
+Morrowind++ is a modular modding guide for The Elder Scrolls III: Morrowind, which aims to enhance Morrowind across the board. This guide is based on the following core pillars:
 
-- Performance and stability: with the exception of the optional MGE XE shaders, your game should perform better than vanilla, and crash considerably less. I can report less than a couple of crashes in hundreds of gameplay hours.
-- Faithfulness: mods suggested here will not turn Morrowind into an unrecognizable game. Unique gameplay elements and Morrowind's distinctive aesthetic won't be sacrificed in favor of "modernity". Everything that is suggested will simply improve on what's already there, blending in seamlessly with the vanilla game.
-- Compatibility: mod conflicts will be kept to a minimum in order to ensure all of them work as intended.
+- Stability: following this guide, your game should rarely (if ever) crash.
+- Compatibility: mod conflicts will be kept to a minimum in order to ensure all mods work as intended.
+- Fidelity: mods suggested in this game should blend in seamlessly with vanilla Morrowind.
 
-**Morrowind++** is divided in three sections:
+All mods present in Morrowind++ are 100% optional. However, you are encouraged to follow through with the guide until you are finished with the **Core** module, which contains all patches and fixes required to enjoy Morrowind to its fullest.
 
-- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index), which explains how to get the game running, set up the tools and mod manager we'll be using to mod Morrowind. It's in its own section since it is quite draining.
-- [**Morrowind++**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index), which contains the mods we will be actually installing. This is a beginner-friendly guide that keeps the game's aesthetic and gameplay nearly intact.
-- [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools-index), which contains instructions to use the tools installed in **Setup**, and which you will referred to from **Morrowind++** only when necessary. Feel free to browse this on your own, however.
+Morrowind++ is divided in two sections:
 
-The **Morrowind++** page is divided into a series of modules, all of which can be installed independently from one another. The **Core** module contains bug fixes, high resolution textures using AI upscaling, and a couple of mods addressing the implementation of expansions to iron out the Morrowind experience. It's a good recommendation for anyone looking to play Morrowind for the first time.
+- [**Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/core.md#core-index), where I walk you through to getting the game and our mod manager running, as well as the necessary patches and fixes to enjoy a stable and (nearly) bug-free experience. If you are new to Morrowind, you will definitely want to try out the game like this first.
+- [**Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index), which contains all non-purist mods that expand on the vanilla game by addressing user interface, visuals, audio, and gameplay improvements. This section is intended for people who have already experienced Morrowind.
 
-All mods present in Morrowind++ will have a brief description on what they do, as well as the appropiate link to their mod pages (almost always on Nexus, rarely on Morrowind Modding History, and under very specific circumstances on Google Drive or my personal MediaFire folder).
-
-At the end of Morrowind++ you will find the install order and load order of the mods present in the guide. Following this order is very important to ensure mods work as intended.
+All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropiate mod order and load order, can be found in these pages.
 
 ## Frequently asked questions
 
