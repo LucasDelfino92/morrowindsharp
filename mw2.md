@@ -1,29 +1,14 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
 
 # MORROWIND# INDEX
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
-- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#core-module)
-  - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#patches)
-  - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#non-purist-fixes)
+- [Introduction](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#introduction)
+- [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#core-module-extended)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#ui-and-hotkeys-module)
-  - [UI](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#ui)
-  - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#hotkeys)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#visuals-module)
-  - [Environment](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#environment)
-  - [Equipment](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#equipment)
-  - [Creatures and NPCs](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#creatures-and-npcs)
-  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#vfx)
-  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#weather-and-lighting)
 - [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#audio-module)
-  - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#sfx)
-  - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#dialogue) 
 - [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#gameplay-module)
-  - [Quality of life improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#quality-of-life-improvements)
-  - [Tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#tweaks)
-  - [Mechanics](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mechanics)
-  - [Balance](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#balance)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Additional Morrowind Code Patch patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.mdd#additional-morrowind-code-patch-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#final-mod-order-and-load-order)
@@ -1149,4 +1134,3 @@ For reference, here is a list of known mods in the guide that tend to have compa
   - Recommendation: use TES3View to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
