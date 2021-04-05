@@ -16,7 +16,10 @@
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#synchronizing-mod-masters)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#conflict-resolution)
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#re-running-distant-land)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
+  - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#closing-commments)
+- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
+  - [General adjustments](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#general-adjustments)
+  - [Mod configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-configuration)
   - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#compatibility)
 
