@@ -98,8 +98,8 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside C:\Games\Morrowind Mods) and double click its .exe file.
-- In the **Start In** field, select your Morrowind **Root** folder (C:\Games\Morrowind).
+- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
+- In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
 ## Wrye Mash
@@ -107,22 +107,20 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 - Download and run the **Wrye Mash 2019 x64 - Installer** main file.
-- Check **I accept the agreement** and click **Next >** until you are prompted to choose an installation directory.
-- Select **C:\Games\Morrowind** as the destination location and click **Next >**. When Wrye Mash tells you the folder already exists, click **Yes** to install.
-- Click **Next >** until Wrye Mash has finished installing.
-- Uncheck **Launch Wrye Mash 2019 x64** and click **Finish**.
+- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- When installation has finished, uncheck the option and click **Finish**.
 
 ### Initial setup
 
-- Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy** and click **OK** to to start the configuration wizard.
-- Click **Next>**. The wizard will now ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (C:\Games\Morrowind). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (C:\Games\Morrowind Mods).
-- Click **Next>** and then click **Finish**.
+- Run the **mash64.exe** found in **C:\Games\Morrowind\Mopy**.
+- Eventually the installation wizard will ask you to fill the following entries:
+   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
+   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
+- Click **Next** and then click **Finish**.
 - Wrye Mash x64 will now launch. Close the program.
 
 > The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, it is a required step to install Wrye Mash.
->
+
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
 ### Registering Wrye Mash in Mod Organizer 2
@@ -130,7 +128,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply* and then **OK**.
+- Click **Apply** and then **OK**.
 
 ## tes3cmd
 
