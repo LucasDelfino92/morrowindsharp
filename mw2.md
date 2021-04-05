@@ -704,13 +704,6 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========MGE XE==========
-MGE XE Data Files
-MGE XE Shader - 16 Lights Shaders Alpha
-MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
-MGE XE Shader - Deband Fogaware v2
-MGE XE Shader - EdgeAA
-MGE XE Shader - Specialprocess
 ==========CORE==========
 Patch for Purists
 Unofficial Morrowind Official Plugins Patched
@@ -725,6 +718,26 @@ Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
+Intelligent Textures
+Facelift Meshes
+Facelift Textures
+Expansion Delay
+Early Transport to Mournhold
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Additions
+Widescreen Splash Replacer
+==========MGE XE==========
+MGE XE Shader - 16 Lights Shaders Alpha
+MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
+==========CORE EXTENDED==========
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 FMI - #NotAllDunmer
@@ -734,21 +747,7 @@ LDM - Context Matters
 Services Restored
 Silt Strider Animation Restored
 The Publicans
-Expansion Delay
-Early Transport to Mournhold
-Intelligent Textures
-Facelift Meshes
-Facelift Textures
-Pluginless Khajiit Head Pack - Whiskers Version
 ==========UI AND HOTKEYS==========
-Better Daedric Font
-Better Dialogue Font
-Comrade Raven's Book Arts Replacer
-Pete's Scroll 2018 ...in 2020
-Logo Intro Video Reworked
-Title Screen Reworked
-Widescreen Splash Additions
-Widescreen Splash Replacer
 Better Questlist
 Book Worm
 Class Description Tooltip
@@ -796,6 +795,7 @@ Wolf Helmet Replacer
 Buoyant Lord Vivec
 Golden Saint Feminine Walk
 Incarnates Overhauled
+Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
 Flies
 Glow in the Dahrk
@@ -886,11 +886,14 @@ Patch for Purists.esm
 Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
-bcsounds.ESP
-master_index.ESP
 Lake Fjalding Anti-Suck.ESP
 chuzei_helm_no_neck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+Better_Typography_Bookarts_Fix.ESP
+bcsounds.ESP
+master_index.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 FMI_#NotAllDunmer.ESP
@@ -898,9 +901,6 @@ LDM - Context Matters.ESP
 Services Restored.ESP
 Silt Strider Animation Restored.ESP
 The Publicans.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 Mournhold LOD.ESP
 NearVanillaRoadSigns.ESP
