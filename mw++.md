@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index)
 
-# MORROWIND++ INDEX
+# MORROWIND++ PART 2
 
 Version 1.1 (April 3rd)
 
