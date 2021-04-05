@@ -332,7 +332,7 @@ Makes windows glow in the dark.
   - [ ] Exclude Tel Uvirith
   - [X] None
 - Also install the **Project Atlas Glow in the Dahrk Patch**.
-  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
+  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
   - Check the following options in the BAIN installer:
     - [ ] 00 Core
     - [ ] 10 Glow in the Dahrk Patch
