@@ -5,6 +5,7 @@
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#disclaimer)
+- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tools)
 - [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module-extended)
 - [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
 - [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
