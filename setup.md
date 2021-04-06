@@ -475,27 +475,26 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========Morrowind++ Part 1==========
-==========Patches==========
+======================================Patches
 Patch for Purists
-==========Mesh fixes and optimization==========
+======================================Mesh fixes and optimization
 Correct UV Rocks
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Rope Fence Fix
 Glowing Flames
-==========MWSE fixes==========
+======================================MWSE fixes
 Expeditious Exit
 Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
-==========Enhanced textures==========
+======================================Enhanced textures
 Intelligent Textures
 Facelift Meshes
 Facelift Textures
-==========Enhanced user interface==========
+======================================Enhanced user interface
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -504,10 +503,10 @@ Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
-==========Expansion implementation==========
+======================================Expansion implementation
 Expansion Delay
 Early Transport to Mournhold
-==========MGE XE Shaders==========
+======================================MGE XE shaders
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
