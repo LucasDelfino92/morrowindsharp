@@ -24,7 +24,7 @@ Morrowind++ is divided in three sections:
 
 - [**Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1), where I walk you through to getting the game and our mod manager running, as well as the necessary patches and fixes to enjoy a stable and (nearly) bug-free experience. If you are new to Morrowind, you will definitely want to try out the game like this first.
 - [**Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2), which contains all non-purist mods that expand on the vanilla game by addressing user interface, visuals, audio, and gameplay improvements. This section is intended for people who have already experienced Morrowind.
-- [**Part 2.x**](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x-1), which is an extended version of **Part 2**, and includes even more mods, with a heavy emphasis on gameplay overhauls. This section is intended for very experienced Morrowind players, and should be used instead of **Part 2**.
+- [**Part 2.x**](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x), which is an extended version of **Part 2**, and includes even more mods, with a heavy emphasis on gameplay overhauls. This section is intended for very experienced Morrowind players, and should be used instead of **Part 2**.
 
 All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropiate mod order and load order, can be found in these pages.
 
