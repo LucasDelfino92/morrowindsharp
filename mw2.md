@@ -737,7 +737,6 @@ Early Transport to Mournhold
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
-MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
 MGE XE Shader - Specialprocess
 ==========CORE EXTENDED==========
 Divayth Fyr Puzzle Fixed
