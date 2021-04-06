@@ -434,9 +434,9 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 Because of their performance-intensive nature, all shaders listed here are entirely optional. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
-## Specialprocess comparison
+## Lighting comparison
 
-One of the shaders we will be installing overhauls the game's lighting. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with the **specialprocess** shader.
+The **specialprocess** shader we will be installing overhauls the game's lighting. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with this shader.
 
 ### Vanilla exterior
 
@@ -454,31 +454,17 @@ One of the shaders we will be installing overhauls the game's lighting. However,
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Specialprocess_Interior.jpg)
 
-## Water shaders comparison
+## Water comparison
 
-Two of the shaders recommended in the following section modify MGE XE's water shader. As such, you will have to choose which one do you like most. To aid you in choosing one, I've taken the following screenshots.
+The **16 Lights Shader** we will be installing touches, among many things, the water shader. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with this shader.
 
-### Standard MGE XE
+### Standard MGE XE water
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Standard%20MGE%20XE_Clear.jpg)
 
 ### 16 Lights Shader
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/16%20Lights%20Shader_Clear.jpg)
-
-### Enhanced Water
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Enhanced%20Water%20Shader_Clear.jpg)
-
-## Water level shader comparison
-
-### Enhanced Water
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Enhanced%20Water%20Shader_Underwater.jpg)
-
-### Standard MGE XE and 16 Lights Shader
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Other%20Shaders_Underwater.jpg)
 
 ## Installation
 
@@ -496,10 +482,6 @@ Reduces light seams.
 - (Optional) Hide **shaders\XE Water.fx** if you prefer the **Standard MGE XE** water shader.
 
 > Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
-
-[**MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue**](https://drive.google.com/file/d/1TodJSrn37ioRqtW0oBl-4MJIqXzOLb8P/view?usp=sharing)  
-Improved water shader.
-- (Optional) Skip installing this shader if you prefer the **Standard MGE XE** or the **16 Lights Shaders* water shaders.
 
 [**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
 Overhauls the game's lighting.
@@ -545,7 +527,6 @@ Early Transport to Mournhold
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
-MGE XE Shader - Enhanced Water Shader 2.1 Green-Blue
 MGE XE Shader - Specialprocess
 ```
 </details>
