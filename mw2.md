@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
 
-# MORROWIND++ PART 2.4.1
+# MORROWIND++ PART 2.4.2
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
@@ -25,6 +25,14 @@
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
 # Changelog
+
+<details>
+  <summary>v2.4.2</summary>
+
+- Moved Adamantium Ore Fix to Non-purist fixes.
+- Moved Sheep-no-more to Non-purist fixes.
+- Moved Wading in Water to Tweaks.
+- Mod order is now separated by sub-categories instead of by the more general categories.
 
 <details>
   <summary>v2.4.1</summary>
@@ -68,6 +76,9 @@ Patch compilation for all official plugins.
 
 ## Non-purist fixes
 
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155?tab=files)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 
@@ -94,6 +105,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
 
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
+Removes the sheep sounds from Morrowind.
+
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
@@ -102,7 +116,7 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 # UI AND HOTKEYS MODULE
 
-## UI
+## User interface
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
@@ -441,9 +455,6 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
-Removes the sheep sounds from Morrowind.
-
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 
@@ -474,10 +485,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 # GAMEPLAY MODULE
 
-## Quality of life improvements
-
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+## QOL improvements
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -542,9 +550,6 @@ Lowers the position of the first person camera when sneaking/crouching, making i
 [**Projectiles Reintegrated**](https://drive.google.com/file/d/1r2lJtaK3jFsAYRer-kM_XkazGr23abqQ/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
 
-[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
-
 ## Tweaks
 
 [**Cost Based Enchant Progression**](https://drive.google.com/file/d/1CWMmoPLJp1Dl_ZSablSTQ57RyKLUunDF/view?usp=sharing)  
@@ -567,6 +572,9 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 - Uncheck **Putting Power in Willpower - Absorbonach.ESP**
 
 > This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
+
+[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
@@ -738,7 +746,8 @@ MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
-==========CORE EXTENDED==========
+==========NON-PURIST FIXES==========
+Adamantium Ore Fix
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 FMI - #NotAllDunmer
@@ -746,9 +755,10 @@ Hidden Imperial Door Fix
 Imperial Steel Cuirass With Belt
 LDM - Context Matters
 Services Restored
+Sheep-no-More
 Silt Strider Animation Restored
 The Publicans
-==========UI AND HOTKEYS==========
+==========USER INTERFACE==========
 Better Questlist
 Book Worm
 Class Description Tooltip
@@ -767,6 +777,7 @@ Smart Map
 MWSEabotlib
 Tooltip
 UI Expansion
+==========HOTKEYS==========
 Book Pickup
 Hotkeys Extended
 Hot Quests
@@ -776,7 +787,7 @@ Right Click Menu Exit
 Security Enhanced
 Switchable Scriptures
 Torch Hotkey
-==========VISUALS==========
+==========ENVIRONMENT==========
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
@@ -786,6 +797,7 @@ Remiros' Groundcover
 Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
 Well Diversified
+==========EQUIPMENT==========
 Complete Armor Joints
 Improved Thrown Weapon Projectiles
 Soldier Belts Fix
@@ -793,11 +805,13 @@ Weapon Sheathing
 Weapon Sheathing - Bow Position Edit
 Morrowind Optimization Patch Weapon Sheathing Patch
 Wolf Helmet Replacer
+==========CREATURES AND NPCS==========
 Buoyant Lord Vivec
 Golden Saint Feminine Walk
 Incarnates Overhauled
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
+==========VFX==========
 Flies
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
@@ -809,26 +823,26 @@ Subtle Magic Glow
 Subtle Smoke
 The Dream is the Door
 Visually Filled Soul Gems
+==========WEATHER AND LIGHTING==========
 Apel's Rain Replacer
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 Transporter Lights
 Weather Adjuster
-==========AUDIO==========
+==========SFX==========
 Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
-Sheep-no-More
 Shut the Fuck up Cliff Racers
 Silent Asssassins
 Sound Spell Sound Effect
 Water Sounds
+==========DIALOGUE==========
 Great Service
 Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
-==========GAMEPLAY==========
-Adamantium Ore Fix
+==========QOL IMPROVEMENTS==========
 Bed Buddies
 Better Propylon Teleport Script
 Diligent Defenders
@@ -841,19 +855,22 @@ Improved Temple Experience
 MWSE Hide the Skooma
 Pluginless and Adjustable Lower First Person Sneak
 Projectiles Reintegrated (Vanilla Version)
-Wading in Water MW
+==========TWEAKS==========
 Cost Based Enchant Skill Progression
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
+Wading in Water MW
 Wings of Will - Willpower Based Levitation Speed
+==========MECHANICS==========
 Area Effect Arrows Integrated
 Blighted Blight
 Brutal Backstabbing
 Dynamic Timescale
 Lua Lockbashing
 Lucky Strike - A Critical Hit Mod (MMC Edit)
+==========BALANCE==========
 Class-Conscious Character Progression
 Controlled Consumption
 Economy Adjuster Adjustments
@@ -895,6 +912,7 @@ Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 bcsounds.ESP
 master_index.ESP
+Adamantium Ore Fix.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 FMI_#NotAllDunmer.ESP
@@ -921,7 +939,6 @@ Great Service.ESP
 Idle Talk.ESP
 Its a deal.ESP
 outfit greetings tweaked.ESP
-Adamantium Ore Fix.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
