@@ -33,6 +33,7 @@
 - Moved Sheep-no-more to Non-purist fixes.
 - Moved Wading in Water to Tweaks.
 - Mod order is now separated by sub-categories instead of by the more general categories.
+</details>
 
 <details>
   <summary>v2.4.1</summary>
