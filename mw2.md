@@ -5,11 +5,22 @@
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
-- [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#core-module-extended)
-- [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#ui-and-hotkeys-module)
-- [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#visuals-module)
-- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#audio-module)
-- [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#gameplay-module)
+- [Morrowind++ Part 2.x]()
+  - [Patches]()
+  - [Non-purist fixes]()
+  - [User interface]()
+  - [Hotkeys]()
+  - [Environment visuals]()
+  - [Equipment visuals]()
+  - [Creature and NPC visuals]()
+  - [VFX]()
+  - [Weather and lighting]()
+  - [SFX]()
+  - [Dialogue]()
+  - [Gameplay QOL improvements]()
+  - [Gameplay tweaks]()
+  - [Game mechanics]()
+  - [Game balance]()
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Additional Morrowind Code Patch patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.mdd#additional-morrowind-code-patch-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#final-mod-order-and-load-order)
@@ -18,9 +29,8 @@
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#conflict-resolution)
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#re-running-distant-land)
   - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#closing-commments)
-- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
-  - [Mod configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-configuration)
-  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#in-game-configuration)
+- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#mod-keybindings)
 - [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#credits)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#compatibility)
 
@@ -64,11 +74,11 @@
 
 # Disclaimer
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page, as well as those found in the [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/update/mw++.md#tools) section of the Morrowind++ page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
+The guide presented here assumes you have already followed all instructions found in the [**Morrowind++ Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1) page, as well as those found in the [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/update/mw++.md#tools) section of the **Morrowind++ Part 2** page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
 Those of you who plan to follow this guide are advised to start a new game from scratch if you wish to install the Balance section.
 
-# CORE MODULE EXTENDED
+# MORROWIND++ PART 2.x
 
 ## Patches
 
@@ -116,8 +126,6 @@ Restores previously unused Silt Strider animation - it was present in the model,
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-# UI AND HOTKEYS MODULE
 
 ## User interface
 
@@ -212,9 +220,7 @@ Lets you open or close any book or scroll in the game.
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-# VISUALS MODULE
-
-## Environment
+## Environment visuals
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?tab=files)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -271,7 +277,7 @@ Replaces the water in the Palace of Vivec's canals.
 [**Well Diversified**](https://drive.google.com/file/d/1oaUZlOrcQl7T-xq1TjpGunoOOBPj2d6O/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 
-## Equipment
+## Equipment visuals
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -306,7 +312,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281?tab=files)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-## Creatures and NPCs
+## Creatures and NPCs visuals
 
 [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files)  
 Adds a simple script to make Vivec properly loop his idle animation.
@@ -407,7 +413,7 @@ Makes the entrance to the Cavern of the Incarnate visible only during the magica
 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
 Makes in-world soul gems that are filled appear as enchanted items.
 
-## Weather and Lighting
+## Weather and lighting
 
 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
 Replaces rain with a more heavy rain look.
@@ -444,8 +450,6 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 - Also install [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/1fqz9ovi69chkgp/Weather+Adjuster+-+Morrowind+++Preset+v2.1.zip/file). Personal preset for darker nights and less horrible fog.
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
-
-# AUDIO MODULE
 
 ## SFX
 
@@ -486,9 +490,7 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
-# GAMEPLAY MODULE
-
-## QOL improvements
+## Gameplay QOL improvements
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -553,7 +555,7 @@ Lowers the position of the first person camera when sneaking/crouching, making i
 [**Projectiles Reintegrated**](https://drive.google.com/file/d/1r2lJtaK3jFsAYRer-kM_XkazGr23abqQ/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
 
-## Tweaks
+## Gameplay tweaks
 
 [**Cost Based Enchant Progression**](https://drive.google.com/file/d/1CWMmoPLJp1Dl_ZSablSTQ57RyKLUunDF/view?usp=sharing)  
 Enchant skill advances based on the cost of the enchantment cast, calculated as if it was a spell.
@@ -582,7 +584,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-## Mechanics
+## Game mechanics
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -603,7 +605,7 @@ Adds in lock-bashing from Daggerfall.
 [**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
-## Balance
+## Game balance
 
 > Abandon all lore-friendliness, ye who enter here. *Some* of these mods contradict established lore and in-game information in their quest to rebalance the game.
 
@@ -717,23 +719,27 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========CORE==========
+======================================Patches
 Patch for Purists
 Unofficial Morrowind Official Plugins Patched
+======================================Mesh fixes and optimization
 Correct UV Rocks
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Rope Fence Fix
 Glowing Flames
+======================================MWSE fixes
 Expeditious Exit
 Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
+======================================Enhanced textures
 Intelligent Textures
 Facelift Meshes
 Facelift Textures
+======================================Enhanced user interface
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -742,14 +748,15 @@ Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Additions
 Widescreen Splash Replacer
+======================================Expansion implementation
 Expansion Delay
 Early Transport to Mournhold
-==========MGE XE==========
+======================================MGE XE Shaders
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
-==========NON-PURIST FIXES==========
+======================================Non-purist fixes
 Adamantium Ore Fix
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
@@ -761,7 +768,7 @@ Services Restored
 Sheep-no-More
 Silt Strider Animation Restored
 The Publicans
-==========USER INTERFACE==========
+======================================User interface
 Better Questlist
 Book Worm
 Class Description Tooltip
@@ -780,7 +787,7 @@ Smart Map
 MWSEabotlib
 Tooltip
 UI Expansion
-==========HOTKEYS==========
+======================================Hotkeys
 Book Pickup
 Hotkeys Extended
 Hot Quests
@@ -790,7 +797,7 @@ Right Click Menu Exit
 Security Enhanced
 Switchable Scriptures
 Torch Hotkey
-==========ENVIRONMENT==========
+======================================Environment visuals
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
@@ -800,7 +807,7 @@ Remiros' Groundcover
 Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
 Well Diversified
-==========EQUIPMENT==========
+======================================Equipment visuals
 Complete Armor Joints
 Improved Thrown Weapon Projectiles
 Soldier Belts Fix
@@ -808,13 +815,13 @@ Weapon Sheathing
 Weapon Sheathing - Bow Position Edit
 Morrowind Optimization Patch Weapon Sheathing Patch
 Wolf Helmet Replacer
-==========CREATURES AND NPCS==========
+======================================Creature and NPC visuals
 Buoyant Lord Vivec
 Golden Saint Feminine Walk
 Incarnates Overhauled
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
-==========VFX==========
+======================================VFX
 Flies
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
@@ -826,13 +833,13 @@ Subtle Magic Glow
 Subtle Smoke
 The Dream is the Door
 Visually Filled Soul Gems
-==========WEATHER AND LIGHTING==========
+======================================Weather and lighting
 Apel's Rain Replacer
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 Transporter Lights
 Weather Adjuster
-==========SFX==========
+======================================SFX
 Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
@@ -840,12 +847,12 @@ Shut the Fuck up Cliff Racers
 Silent Asssassins
 Sound Spell Sound Effect
 Water Sounds
-==========DIALOGUE==========
+======================================Dialogue
 Great Service
 Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
-==========QOL IMPROVEMENTS==========
+======================================Gameplay QOL improvements
 Bed Buddies
 Better Propylon Teleport Script
 Diligent Defenders
@@ -857,23 +864,23 @@ Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
 Pluginless and Adjustable Lower First Person Sneak
-Projectiles Reintegrated (Vanilla Version)
-==========TWEAKS==========
+Projectiles Reintegrated
+======================================Gameplay tweaks
 Cost Based Enchant Skill Progression
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
 Wading in Water MW
-Wings of Will - Willpower Based Levitation Speed
-==========MECHANICS==========
+Wings of Will
+======================================Game mechanics
 Area Effect Arrows Integrated
 Blighted Blight
 Brutal Backstabbing
 Dynamic Timescale
 Lua Lockbashing
-Lucky Strike - A Critical Hit Mod (MMC Edit)
-==========BALANCE==========
+Lucky Strike - A Critical Hit Mod
+======================================Game balance
 Class-Conscious Character Progression
 Controlled Consumption
 Economy Adjuster Adjustments
@@ -1028,9 +1035,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 4. Solve conflicts.
 5. Re-run Distant Land.
 
-# In-game configuration
-
-## Mod configuration
+## In-game configuration
 
 The following mods need to be configured using the in-game **Mod Configuration** menu.
 
