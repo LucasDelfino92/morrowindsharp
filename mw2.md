@@ -369,7 +369,7 @@ Provides a variety of new configurable blood types for the creatures of Morrowin
   - [ ] 03 SpaceDevo's Textures
   - [ ] 04 Qwertyquit's Textures 
 
-> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/mw2_update/MO_ini.png) button.
+> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
 [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?tab=files)  
 Removes the annoying sparkle effects from Shield.
