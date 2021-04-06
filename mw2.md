@@ -63,7 +63,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?tab=files)  
 Patch compilation for all official plugins.
-- Install **UMOPP 3.1.0** only.
+- Install the **UMOPP 3.1.0** main file.
 - Hide all plugins except **bcsounds.ESP** and **master_index.ESP**
 
 ## Non-purist fixes
