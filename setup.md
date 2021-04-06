@@ -10,11 +10,19 @@
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
-- [Core module](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
-- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
-- [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
-- [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
-- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
+- [Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
+  - [Patches]()
+  - [Mesh fixes and optimization]()
+  - [MWSE fixes]()
+  - [Enhanced textures]()
+  - [High definition UI]()
+  - [Expansion implementation]()
+  - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
+- [Finishing touches]
+  - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
+  - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
+- [Now what's next?]()
 
 # Requirements
 
@@ -305,7 +313,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
 
-# CORE MODULE
+# MORROWIND++ PART 1
 
 ## Patches
 
@@ -387,7 +395,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
-## High definition UI
+## Enhanced user interface
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?)  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -430,47 +438,11 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-# MGE XE shaders
+## MGE XE shaders
 
-## Foreword
+Because of their performance-intensive nature, all shaders listed here are **entirely optional**. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
-Because of their performance-intensive nature, all shaders listed here are entirely optional. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
-
-## Lighting comparison
-
-The **specialprocess** shader we will be installing overhauls the game's lighting. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with this shader.
-
-### Vanilla exterior
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind_Exterior.jpg)
-
-### specialprocess exterior
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Specialprocess_Exterior.jpg)
-
-### Vanilla interior
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind_Interior.jpg)
-
-### specialprocess interior
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Specialprocess_Interior.jpg)
-
-## Water comparison
-
-The **16 Lights Shader** we will be installing touches, among many things, the water shader. However, the changes may not be for everyone. To help you decide, I've taken the following screenshots comparing vanilla Morrowind with this shader.
-
-### Standard MGE XE water
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Standard%20MGE%20XE_Clear.jpg)
-
-### 16 Lights Shader
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/16%20Lights%20Shader_Clear.jpg)
-
-## Installation
-
-Install these shaders with Mod Organizer 2, like any other mod.
+These shaders are installed through Mod Organizer 2, like most mods.
 
 [**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
 Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
@@ -481,15 +453,19 @@ Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings
 [**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
 Reduces light seams.
 - This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
+- [**Water comparison**](https://imgsli.com/NDg3MTE)
 - (Optional) Hide **shaders\XE Water.fx** if you prefer the **Standard MGE XE** water shader.
 
 > Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
 
 [**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
 Overhauls the game's lighting.
-- (Optional) Skip installing this shader if you prefer the vanilla Morrowind lighting.
+- [**Exterior comparison**](https://imgsli.com/NDg3MDk)
+- [**Interior comparison**](https://imgsli.com/NDg3MTA)
 
-# Mod order and load order
+# Finishing touches
+
+## Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -499,22 +475,27 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========CORE==========
+==========Morrowind++ Part 1==========
+==========Patches==========
 Patch for Purists
+==========Mesh fixes and optimization==========
 Correct UV Rocks
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Rope Fence Fix
 Glowing Flames
+==========MWSE fixes==========
 Expeditious Exit
 Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
+==========Enhanced textures==========
 Intelligent Textures
 Facelift Meshes
 Facelift Textures
+==========Enhanced user interface==========
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -523,6 +504,7 @@ Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
+==========Expansion implementation==========
 Expansion Delay
 Early Transport to Mournhold
 ==========MGE XE Shaders==========
@@ -554,7 +536,7 @@ Early Transport to Mournhold.ESP
 ```
 </details>
 
-# Configuring MGE XE
+## Configuring MGE XE
 
 Now that we've installed our mods, it's time to configure MGE XE.
 
@@ -563,7 +545,7 @@ Now that we've installed our mods, it's time to configure MGE XE.
 
 > Always remember to run MGE XE through Mod Organizer 2 to detect the virtual files folder.
 
-## In-game tab
+### In-game tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
 
@@ -576,12 +558,12 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 **Morrowind engine settings**
 - You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
-## Config tab
+### Config tab
 
 **Information**
 - Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
 
-## Graphics tab
+### Graphics tab
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE_Graphics.png)
 
@@ -613,7 +595,7 @@ deband_fogawarev2
 
 > Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
 
-## Distant Land tab
+### Distant Land tab
 
 This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
@@ -647,9 +629,7 @@ We also need to modify our **Weather Settings** to account for the **16 Lights S
 
 > If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 2,0 and End 4,0.
 
-# In-game configuration
-
-## General adjustments
+## In-game configuration
 
 We are just about done here. It's time to finally run Morrowind.
 
@@ -662,7 +642,9 @@ We are just about done here. It's time to finally run Morrowind.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
-With that out of the way, you have two options:
+# Now that's next?
+
+Now that you've reached the end of Morrowind++ Part 1, you have two options:
 
 - You click **New** - the guide ends, you wake up in the prison ship and play Morrowind however you want to play it.
 - You click **Exit** - you stay in the guide, and I show you how deep the rabbit-hole goes.
