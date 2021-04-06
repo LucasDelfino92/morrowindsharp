@@ -78,7 +78,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 Those of you who plan to follow this guide are advised to start a new game from scratch if you wish to install the Balance section.
 
-# MORROWIND++ PART 2.x
+# Morrowind++ Part 2.x
 
 ## Patches
 
