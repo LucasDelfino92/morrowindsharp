@@ -5,22 +5,22 @@
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
-- [Morrowind++ Part 2.x]()
-  - [Patches]()
-  - [Non-purist fixes]()
-  - [User interface]()
-  - [Hotkeys]()
-  - [Environment visuals]()
-  - [Equipment visuals]()
-  - [Creature and NPC visuals]()
-  - [VFX]()
-  - [Weather and lighting]()
-  - [SFX]()
-  - [Dialogue]()
-  - [Gameplay QOL improvements]()
-  - [Gameplay tweaks]()
-  - [Game mechanics]()
-  - [Game balance]()
+- [Morrowind++ Part 2.x](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x-1)
+  - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#patches)
+  - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#non-purist-fixes)
+  - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#user-interface)
+  - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#hotkeys)
+  - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#environment-visuals)
+  - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#equipment-visuals)
+  - [Creature and NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#creature-and-npc-visuals)
+  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#vfx)
+  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#weather-and-lighting)
+  - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#sfx)
+  - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#dialogue)
+  - [Gameplay QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#gameplay-qol-improvements)
+  - [Gameplay tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#gameplay-tweaks)
+  - [Game mechanics](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#game-mechanics)
+  - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#game-balance)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#finishing-touches)
   - [Additional Morrowind Code Patch patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.mdd#additional-morrowind-code-patch-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#final-mod-order-and-load-order)
@@ -312,7 +312,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281?tab=files)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-## Creatures and NPCs visuals
+## Creature and NPC visuals
 
 [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files)  
 Adds a simple script to make Vivec properly loop his idle animation.
