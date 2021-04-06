@@ -645,7 +645,7 @@ We also need to modify our **Weather Settings** to account for the **16 Lights S
 
 > These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots.
 
-> If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 4,0, and cranking up the **Above Water Fog** settings to Start 2,0 and End 4,0.
+> If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 2,0 and End 4,0.
 
 # In-game configuration
 
