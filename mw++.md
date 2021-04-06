@@ -9,7 +9,7 @@
   - [TES3View, TES3Merge, TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tes3view-tes3merge-tesame)
   - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#wrye-mash)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tes3cmd)
-- [Morrowind++ Part 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
+- [Morrowind++ Part 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2-1)
   - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#non-purist-fixes)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#hotkeys)
