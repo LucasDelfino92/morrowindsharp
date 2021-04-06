@@ -66,6 +66,8 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#setup-index) page, as well as those found in the [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/update/mw++.md#tools) section of the Morrowind++ page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
+Those of you who plan to follow this guide are advised to start a new game from scratch if you wish to install the Balance section.
+
 # CORE MODULE EXTENDED
 
 ## Patches
