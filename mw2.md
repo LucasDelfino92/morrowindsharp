@@ -1112,7 +1112,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
-## Mod keybindings
+# Mod keybindings
 
 The mods installed in this guide and configured as mentioned above will use the following keys.
 
