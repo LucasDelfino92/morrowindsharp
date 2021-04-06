@@ -28,6 +28,19 @@
 # Changelog
 
 <details>
+  <summary>v1.2 (April 6th)</summary>
+  
+- Added Adamantium Ore Fix (Non-purist fixes).
+- Added Divayth Fyr Puzzle Fixed (Non-purist fixes).
+- Added Dubdilla Location Fix (Non-purist fixes).
+- Added Imperial Steel Cuirass With Belt (Non-purist fixes).
+- Added Transporter Lights (Weather and lighting).
+- Added Gondolier Destinations (QOL improvements).
+- Moved Sheep-no-more to Non-purist fixes.
+- Mod order is now separated by sub-categories instead of by the more general categories.
+</details>
+
+<details>
   <summary>v1.1 (April 3rd)</summary>
   
 - Formatting changes.
@@ -149,6 +162,18 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 ## Non-purist fixes
 
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155?tab=files)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+
+[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720?tab=files)  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+
+[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
+
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
@@ -157,12 +182,15 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
 
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
+Removes the sheep sounds from Morrowind.
+
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 # UI AND HOTKEYS MODULE
 
-## UI
+## User interface
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
@@ -385,6 +413,9 @@ end
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
@@ -412,13 +443,16 @@ NPCs will not shout at you as often when you walk by. They will still greet you,
 
 # GAMEPLAY MODULE
 
-## Quality of life improvements
+## QOL improvements
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?tab=files)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 
 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?tab=files)  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+
+[**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306?tab=files)  
+Each gondolier in Vivec will get you to all gondolier ports in Vivec.
 
 [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599?tab=files)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
@@ -518,10 +552,15 @@ MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
-==========CORE EXTENDED==========
+==========NON-PURIST FIXES==========
+Adamantium Ore Fix
+Divayth Fyr Puzzle Fixe
+Dubdilla Location Fix
+Imperial Steel Cuirass With Belt
 Services Restored
+Sheep-no-More
 The Publicans
-==========UI AND HOTKEYS==========
+==========USER INTERFACE==========
 Better Questlist
 Continue
 HUD Weapon Charge
@@ -532,13 +571,14 @@ Smart Journal
 Smart Map
 MWSEabotlib
 UI Expansion
+==========HOTKEYS==========
 Book Pickup
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
 Torch Hotkey
-==========VISUALS==========
+==========ENVIRONMENT==========
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
@@ -546,36 +586,43 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
+==========EQUIPMENT==========
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
+==========NPCs==========
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
+==========VFX==========
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
 Mistify
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
+==========WEATHER AND LIGHTING==========
 Apel's Rain Replacer
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
+Transporter Lights
 Weather Adjuster
-==========AUDIO==========
-Sheep-no-More
+==========SFX==========
 Shut the Fuck up Cliff Racers
+==========DIALOGUE==========
 Great Service
 Greet Distance Reducer
-==========GAMEPLAY==========
+==========QOL IMPROVEMENTS==========
 Diligent Defenders
 Easy Escort
+Gondolier Destinations
 Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
 Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
 Pluginless and Adjustable Lower First Person Sneak
+==========BALANCE==========
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -600,6 +647,9 @@ Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Better_Typography_Bookarts_Fix.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
 Services Restored.ESP
 The Publicans.ESP
 Waterfalls Tweaks.ESP
@@ -608,6 +658,7 @@ Yet Another Guard Diversity - Regular.ESP
 GITD_WL_RR_Interiors.ESP
 Great Service.ESP
 hw_GreetDistanceReducer.ESP
+PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
