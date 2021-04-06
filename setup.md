@@ -10,19 +10,19 @@
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
-- [Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#core-module)
-  - [Patches]()
-  - [Mesh fixes and optimization]()
-  - [MWSE fixes]()
-  - [Enhanced textures]()
-  - [High definition UI]()
-  - [Expansion implementation]()
+- [Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1-1)
+  - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#patches)
+  - [Mesh fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mesh-fixes-and-optimization)
+  - [MWSE fixes](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mwse-fixes)
+  - [Enhanced textures](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#enhanced-textures)
+  - [Enhanced user interface](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#enhanced-user-interface)
+  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#expansion-implementation)
   - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
-- [Finishing touches]
+- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
   - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
   - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
-- [Now what's next?]()
+- [Now what's next?](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#now-thats-next)
 
 # Requirements
 
