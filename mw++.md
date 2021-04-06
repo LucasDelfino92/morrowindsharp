@@ -9,20 +9,27 @@
   - [TES3View, TES3Merge, TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tes3view-tes3merge-tesame)
   - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#wrye-mash)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tes3cmd)
-- [Core module extended](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#core-module-extended)
-- [UI and Hotkeys module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#ui-and-hotkeys-module)
-- [Visuals module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#visuals-module)
-- [Audio module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#audio-module)
-- [Gameplay module](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-module)
+- [Morrowind++ Part 2](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
+  - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#non-purist-fixes)
+  - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#user-interface)
+  - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#hotkeys)
+  - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#environment-visuals)
+  - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#equipment-visuals)
+  - [NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#npc-visuals)
+  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#vfx)
+  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#weather-and-lighting)
+  - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#sfx)
+  - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#dialogue)
+  - [Gameplay QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#gameplay-qol-improvements)
+  - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#game-balance)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#finishing-touches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#final-mod-order-and-load-order)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#synchronizing-mod-masters)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#conflict-resolution)
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#re-running-distant-land)
   - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#closing-commments)
-- [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
-  - [Mod configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-configuration)
-  - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#in-game-configuration)
+- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#mod-keybindings)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#compatibility)
 
 # Changelog
@@ -158,7 +165,7 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 > Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash (which we have already registered).
 
-# CORE MODULE EXTENDED
+# Morrowind++ Part 2
 
 ## Non-purist fixes
 
@@ -187,8 +194,6 @@ Removes the sheep sounds from Morrowind.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-# UI AND HOTKEYS MODULE
 
 ## User interface
 
@@ -242,9 +247,7 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-# VISUALS MODULE
-
-## Environment
+## Environment visuals
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?tab=files)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -295,7 +298,7 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 01 Original Color
   - [ ] 02 Blue Color
 
-## Equipment
+## Equipment visuals
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?tab=files)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
@@ -321,7 +324,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
-## NPCs
+## NPC visuals
 
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
 Pluginless replacer version of the base khajiit heads.
@@ -423,8 +426,6 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
   - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-# AUDIO MODULE
-
 ## SFX
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
@@ -441,9 +442,7 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 [**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994?tab=files)  
 NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
 
-# GAMEPLAY MODULE
-
-## QOL improvements
+## Gameplay QOL improvements
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?tab=files)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -498,7 +497,7 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642?tab=files)  
 Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 
-## Balance
+## Game balance
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036?tab=files)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
@@ -521,22 +520,26 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-==========CORE==========
+======================================Patches
 Patch for Purists
+======================================Mesh fixes and optimization
 Correct UV Rocks
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Rope Fence Fix
 Glowing Flames
+======================================MWSE fixes
 Expeditious Exit
 Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
+======================================Enhanced textures
 Intelligent Textures
 Facelift Meshes
 Facelift Textures
+======================================Enhanced user interface
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -545,14 +548,15 @@ Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
+======================================Expansion implementation
 Expansion Delay
 Early Transport to Mournhold
-==========MGE XE Shaders==========
+======================================MGE XE shaders
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
-==========NON-PURIST FIXES==========
+======================================Non-purist fixes
 Adamantium Ore Fix
 Divayth Fyr Puzzle Fixe
 Dubdilla Location Fix
@@ -560,7 +564,7 @@ Imperial Steel Cuirass With Belt
 Services Restored
 Sheep-no-More
 The Publicans
-==========USER INTERFACE==========
+======================================User interface
 Better Questlist
 Continue
 HUD Weapon Charge
@@ -571,14 +575,14 @@ Smart Journal
 Smart Map
 MWSEabotlib
 UI Expansion
-==========HOTKEYS==========
+======================================Hotkeys
 Book Pickup
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
 Torch Hotkey
-==========ENVIRONMENT==========
+======================================Environment visuals
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
@@ -586,33 +590,33 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
-==========EQUIPMENT==========
+======================================Equipment visuals
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
-==========NPCs==========
+======================================NPC visuals
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
-==========VFX==========
+======================================VFX
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
 Mistify
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
-==========WEATHER AND LIGHTING==========
+======================================Weather and lighting
 Apel's Rain Replacer
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 Transporter Lights
 Weather Adjuster
-==========SFX==========
+======================================SFX
 Shut the Fuck up Cliff Racers
-==========DIALOGUE==========
+======================================Dialogue
 Great Service
 Greet Distance Reducer
-==========QOL IMPROVEMENTS==========
+======================================Gameplay QOL improvements
 Diligent Defenders
 Easy Escort
 Gondolier Destinations
@@ -622,7 +626,7 @@ Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
 Pluginless and Adjustable Lower First Person Sneak
-==========BALANCE==========
+======================================Game balance
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -718,9 +722,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 4. Solve conflicts.
 5. Re-run Distant Land.
 
-# In-game configuration
-
-## Mod configuration
+## In-game configuration
 
 The following mods need to be configured using the in-game **Mod Configuration** menu.
 
@@ -750,7 +752,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
-## Mod keybindings
+# Mod keybindings
 
 The mods installed in this guide and configured as mentioned above will use the following keys.
 
