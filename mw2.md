@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
 
-# MORROWIND++ PART 2.4.2
+# MORROWIND++ PART 2.x
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
