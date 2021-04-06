@@ -1,5 +1,7 @@
 # MORROWIND++: A Morrowind Modding Guide
 
+![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Banner.jpg)
+
 ## Contact info
 
 You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
