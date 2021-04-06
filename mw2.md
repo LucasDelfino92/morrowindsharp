@@ -1026,7 +1026,6 @@ The following mods need to be configured using the in-game **Mod Configuration**
 
 ### Clock Block
 
-- Set **Clock position** to Bottom.
 - Set **Clock type** to Game time.
 
 ### Continue
