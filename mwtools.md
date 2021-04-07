@@ -21,26 +21,26 @@ We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You sho
 
 ## tes3cmd
 
-- Run Wrye Mash in Mod Organizer (**mash64**).
-- In the **Mods** tab, click on the **Settings** header and click **Lock Times**. The following step will potentially scramble your load order if you don't activate this option first.
-- Now, click on the **Misc** header and go to **TES3cmd** -> **Fixit (all active)**.
-- tes3cmd will now clean your dirty plugins and also generate a **multipatch.esp**. This command will take some time to complete, so be patient. After it's over, you can close the window. **multipatch.esp** will now be present at the end of your load order.
-- In the **Mods** tab, click **Settings** on the header and click **Lock Times**. This will deactivate this option, since you don't need it anymore.
+There are two ways to clean plugins using tes3cmd. We will look at both of them.
 
-Because tes3cmd will clean dirty records (records identical to those present in the vanilla game), it's possible mods that intentionally add duplicate-to-master records will have said records removed. In Morrowind++, only one such mod exists: **Patch for Purists**.
+### Individual cleaning
 
-- Once you are done with the above steps, make sure to reinstall **Patch for Purists** to revert the changes made to it by the **Fixit** command.
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, right-click on the plugin you want to clean and click **Clean with tes3cmd**. After the process is over, close the window.
 
-Whenever you reinstall one of the plugins cleaned by tes3cmd, you will have to clean it again. If you decide to install your own mods, you should also clean them using tes3cmd. This does not mean you have to repeat the entirety of the process, however.
+### Mass cleaning
 
-- Run Wrye Mash in Mod Organizer.
-- In the **Mods** tab, right click the plugin you want to clean and click **Clean with tes3cmd**.
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, use SHIFT+left click to select the plugins you want to clean.
+- Right-click on any of the highlighted plugins, and click **Clean with tes3cmd**. After the process is over, close the window.
 
-If dirty, tes3cmd will clean this individual plugin.
+There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) records edits. In Morrowind++, only one such mod exists: **Patch for Purists**. Should you accidentally clean one of the plugins from Patch for Purists, reinstall the mod.
+
+> Note that if you reinstall a mod with a dirty plugin, its plugin will be dirty again. You will have to repeat the cleaning process for this specific plugin.
 
 ## TESAME
 
-- Run TESAME in MO2.
+- Run TESAME in Mod Organizer 2.
 - Go to **Mods -> Open ..**
 - Browse for your **Morrowind\Data Files** folder, and select the plugin you want to modify.
 - Right click on the records you want to delete (alternatively, press spacebar with the record selected) and the records will turn black.
@@ -62,7 +62,7 @@ To fix this, we have to synchronize our save's plugins to our current load order
 
 ## Wrye Mash
 
-- Run Wrye Mash in Mod Organizer 2 (**mash64**).
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
 - Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
@@ -77,7 +77,7 @@ Whenever you uninstall or modify plugins in an on-going save, it is a good pract
 
 ## Wrye Mash
 
-- Run Wrye Mash in Mod Organizer 2 (**mash64**).
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves.
 - Right click on any save, and click on **Repair All**. Wrye Mash will repair your savefile.
 - You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
