@@ -112,7 +112,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
 - Delete the following record:
   - NPC **hecerinde**
 
@@ -979,7 +979,7 @@ The plugins from **Remiros' Groundcover** should only be enabled when generating
 
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
-- Run Wrye Mash in MO2 (**mash64**).
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
@@ -991,7 +991,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 For the purpose of this guide, we will only clean the plugins we know are dirty.
 
-- Run Wrye Mash in MO2 (**mash64**).
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
   - Divayth Fyr Puzzle Fixed.ESP
 
@@ -999,19 +999,19 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
-- Run Wrye Mash in MO2 (**mash64**).
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
 - tes3cmd will now generate the multipatch. After the process is over, click **OK**.
 - **multipatch.esp** will now be present at the end of your load order.
 
 **TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
 
-- Run TES3Merge in MO2. Once it's finished, press any key to exit.
+- Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
 **Merged Objects.ESP** makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit. We will have to delete these unintended changes from our Merged Objects plugin.
 
-- [**Run TESAME in MO2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
 - Delete the following records: 
   - Weapon **iron spider dagger**
   - Weapon **imperial netch blade**
@@ -1022,7 +1022,7 @@ For the purpose of this guide, we will only clean the plugins we know are dirty.
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
-- Run MGE XE in MO2.
+- Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
 - Click **Select all**, and click **Continue**.
 - Click **Run above steps using saved / default settings**.
