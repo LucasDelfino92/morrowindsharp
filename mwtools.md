@@ -1,12 +1,17 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index)
+[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
 
 # TOOLS INDEX
 
 - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
+  - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
+  - [TESAME](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame)
 - [Updating saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#updating-saves)
+  - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash)
 - [Repairing saves](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#repairing-saves)
+  - [Wrye Mash](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#wrye-mash-1)
 - [Checking for conflicts](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#checking-for-conflicts)
+  - [TES3View](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view)
 
 # Cleaning plugins
 
@@ -55,6 +60,8 @@ When uninstalling or modifying plugins in an on-going save, Morrowind will greet
 
 To fix this, we have to synchronize our save's plugins to our current load order.
 
+## Wrye Mash
+
 - Run Wrye Mash in Mod Organizer 2 (**mash64**).
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
@@ -67,6 +74,8 @@ Repeat this process for each of your faulty saves.
 # Repairing saves
 
 Whenever you uninstall or modify plugins in an on-going save, it is a good practice to repair it using Wrye Mash. Wrye Mash may not fully repair it, but it is certainly better than nothing.
+
+## Wrye Mash
 
 - Run Wrye Mash in Mod Organizer 2 (**mash64**).
 - In the **Saves** tab, you will see a list with all your saves.
@@ -90,4 +99,4 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 While you will never be asked to use this tool when following **Morrowind++**, it pays to get used to it when installing mods on your own.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-index)
+[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
