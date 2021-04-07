@@ -55,9 +55,9 @@ The edited plugin will have overwritten the existing plugin.
 # Updating saves
 
 When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
-
-> The currently selected master files and plugins do not match the ones used by this save game. Errors may occur during load or game play. Do you wish to continue?
-
+```
+The currently selected master files and plugins do not match the ones used by this save game. Errors may occur during load or game play. Do you wish to continue?
+```
 To fix this, we have to synchronize our save's plugins to our current load order.
 
 ## Wrye Mash
