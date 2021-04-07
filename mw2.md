@@ -1142,7 +1142,7 @@ I want to thank the following mod authors for their original mods which have bee
 
 # Compatibility
 
-Morrowind# is a big guide and touches on many aspects of the game. Though this guide is presented "as is", it doesn't mean you can't install other mods on top; only that you should think twice about what you are installing.
+Morrowind++ v2.x is a big guide and touches on many aspects of the game. Though this guide is presented "as is", it doesn't mean you can't install other mods on top; only that you should think twice about what you are installing.
 
 For reference, here is a list of known mods in the guide that tend to have compatibility issues with other mods.
 
