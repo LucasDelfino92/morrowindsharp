@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
 
-# TOOLS INDEX
+# TOOLS
 
 - [Cleaning plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#cleaning-plugins)
   - [tes3cmd](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd)
