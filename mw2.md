@@ -987,9 +987,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ## Cleaning our plugins
 
-**tes3cmd** lets us clean all active plugins in our load order, either individually or in bulk. The latter process has the unfortunate side effect of reverting the author entry of the plugins to "tes3cmd multipatch", in addition to cleaning mods that shouldn't be cleaned (in the case of this guide, Patch for Purists). The bulk process also takes quite a while. For more information on how to clean plugins in bulk, [**check the Tools section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
-
-For the purpose of this guide, we will only clean the plugins we know are dirty.
+**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
