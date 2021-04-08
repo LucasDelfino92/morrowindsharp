@@ -37,6 +37,14 @@
 # Changelog
 
 <details>
+  <summary>v2.4.3</summary>
+
+- Added The Midnight Oil (Weather and lighting).
+- Added Graphic Herbalism - Ash Yam Collision Switch (Gameplay QOL improvements).
+- Added Balanced Passive Races and Birthsigns Fix (Game balance).
+</details>
+
+<details>
   <summary>v2.4.2</summary>
 
 - Moved Adamantium Ore Fix to Non-purist fixes.
@@ -441,6 +449,9 @@ end
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) by Merlord  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
@@ -539,6 +550,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - [ ] 21 Cave Plant Replacer for MC
     - [ ] 22 Kelp Replacer for MC or STA
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864?tab=files), which makes picking a glowing plant also remove the glow-light.
+- Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373?tab=files)  
 Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.
@@ -684,6 +696,7 @@ Modified version of BTB's Game Improvements by Necrolesian, with many changes an
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
+- Also install [**Balanced Passive Races and Birthsigns Fix**](https://drive.google.com/file/d/1216oco82e5Psc8fbQvuKue4_JHugGBKP/view?usp=sharing), which fixes a bug with one of the Wood Elf's racial abilities not working.
 
 > Note that, unless you install **Nimble Armor**, there's a good chance you will come across NPCs not donning their armor in favor of their higher Unarmored skill when using this mod in tandem with **BTB's Game Improvements**.
 
@@ -839,6 +852,7 @@ Visually Filled Soul Gems
 Apel's Rain Replacer
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
+The Midnight Oil
 Transporter Lights
 Weather Adjuster
 ======================================SFX
@@ -862,6 +876,7 @@ Easy Escort
 Gondolier Destinations
 Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
+Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
@@ -897,6 +912,7 @@ Sneaky Strike
 Morrowind Anti-Cheese
 BTB's Game Improvements - Necro Edit
 Balanced Passive Races and Birthsigns
+Balanced Passive Races and Birthsigns Fix
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -943,6 +959,7 @@ Yet Another Guard Diversity - Regular.ESP
 Flies.ESP
 GITD_WL_RR_Interiors.ESP
 The Dream is the Door.ESP
+TheMidnightOil.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 Silent Assassins.ESP
@@ -961,6 +978,7 @@ Morrowind Anti-Cheese.ESP
 BTB's Game Improvements (Necro Edit).ESP
 SoldierBeltsFix.ESP
 Balanced Passive Races and Birthsigns.ESP
+Balanced Passive Races and Birthsigns Fix.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
