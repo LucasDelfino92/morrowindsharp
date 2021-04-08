@@ -452,6 +452,8 @@ The radius of a handheld light will gradually diminish and eventually go out whe
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) by Merlord  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 
+> There's a known bug where turned off light sources that emit sound, such as braziers and torches, will continue to emit sound.
+
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
