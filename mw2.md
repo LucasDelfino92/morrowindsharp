@@ -37,6 +37,12 @@
 # Changelog
 
 <details>
+  <summary>v2.4.3.1</summary>
+
+- Removed Balanced Passive Races and Birthsigns Fix (Game balance). As it turns out, the "fix" is just temporary and needs to be reapplied in subsequent play sessions.
+</details>
+
+<details>
   <summary>v2.4.3</summary>
 
 - Added The Midnight Oil (Weather and lighting).
@@ -698,7 +704,6 @@ Modified version of BTB's Game Improvements by Necrolesian, with many changes an
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-- Also install [**Balanced Passive Races and Birthsigns Fix**](https://drive.google.com/file/d/1216oco82e5Psc8fbQvuKue4_JHugGBKP/view?usp=sharing), which fixes a bug with one of the Wood Elf's racial abilities not working.
 
 > Note that, unless you install **Nimble Armor**, there's a good chance you will come across NPCs not donning their armor in favor of their higher Unarmored skill when using this mod in tandem with **BTB's Game Improvements**.
 
@@ -914,7 +919,6 @@ Sneaky Strike
 Morrowind Anti-Cheese
 BTB's Game Improvements - Necro Edit
 Balanced Passive Races and Birthsigns
-Balanced Passive Races and Birthsigns Fix
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -980,7 +984,6 @@ Morrowind Anti-Cheese.ESP
 BTB's Game Improvements (Necro Edit).ESP
 SoldierBeltsFix.ESP
 Balanced Passive Races and Birthsigns.ESP
-Balanced Passive Races and Birthsigns Fix.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
