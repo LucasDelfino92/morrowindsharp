@@ -35,6 +35,12 @@
 # Changelog
 
 <details>
+  <summary>v1.2.1 (April 8th)</summary>
+  
+- Added Graphic Herbalism - Ash Yam Collision Switch (Gameplay QOL improvements).
+</details>
+
+<details>
   <summary>v1.2 (April 6th)</summary>
   
 - Added Adamantium Ore Fix (Non-purist fixes).
@@ -484,6 +490,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - [ ] 21 Cave Plant Replacer for MC
     - [ ] 22 Kelp Replacer for MC or STA
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864?tab=files), which makes picking a glowing plant also remove the glow-light.
+- Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373?tab=files)  
 Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.
@@ -622,6 +629,7 @@ Easy Escort
 Gondolier Destinations
 Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
+Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
