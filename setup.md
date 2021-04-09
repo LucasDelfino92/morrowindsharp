@@ -641,6 +641,8 @@ We are just about done here. It's time to finally run Morrowind.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
+> If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+
 # Now that's next?
 
 Now that you've reached the end of Morrowind++ Part 1, you have two options:
