@@ -437,7 +437,6 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-- This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
 - Also install [**Weather Adjuster Morrowind++ Preset**](https://drive.google.com/file/d/1mL3MSOTTQQpS3pSvNyTNrPB3t-lPe2ZR/view?usp=sharing). Personal preset for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
