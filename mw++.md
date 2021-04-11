@@ -35,6 +35,16 @@
 # Changelog
 
 <details>
+  <summary>v1.2.2 (April 10th)</summary>
+  
+- Added GMST Menu (Gameplay QOL improvements).
+- Added GMST Menu MW++ Preset (Gameplay QOL improvements).
+- Removed Pluginless and Adjustable Lower First Person Sneak (Gameplay QOL improvements). Replaced with GMST Menu.
+- Removed Greet Distance Reducer (Dialogue). Replaced with GMST Menu.
+- Updated Weather Adjuster Preset instructions, as it is no longer installed by merging it with MO2's overwrite folder. Instead, it is installed like any other mod.
+</details>
+
+<details>
   <summary>v1.2.1 (April 8th)</summary>
   
 - Added Graphic Herbalism - Ash Yam Collision Switch (Gameplay QOL improvements).
@@ -428,8 +438,7 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 - This mod lets you adjust many variables about Morrowind's weather. Read the description to learn how to do this. The reason I recommend it (aside because of how great the mod is) is that users can share their presets: the mod on its own will not change the appearance of the game until you configure it so.
-- Also install [**Weather Adjuster - Morrowind++ Preset**](https://www.mediafire.com/file/1fqz9ovi69chkgp/Weather+Adjuster+-+Morrowind+++Preset+v2.1.zip/file). Personal preset for darker nights and less horrible fog.
-  - This mod has to be installed manually. Unpack the file and merge the **overwrite** folder with your Mod Organizer 2 **overwrite** folder, found inside the **Mod Organizer 2** folder. The contents of the folder should like so: **Mod Organizer 2\overwrite\MWSE\config\Weather Adjuster.json**.
+- Also install [**Weather Adjuster Morrowind++ Preset**](https://drive.google.com/file/d/1mL3MSOTTQQpS3pSvNyTNrPB3t-lPe2ZR/view?usp=sharing). Personal preset for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
 ## SFX
@@ -445,9 +454,6 @@ Drastically reduces the frequency of idle Cliff Racer screeches, by editing the 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
-[**GreetDistanceReducer**](https://www.nexusmods.com/morrowind/mods/43994?tab=files)  
-NPCs will not shout at you as often when you walk by. They will still greet you, though, you just have to be a bit closer.
-
 ## Gameplay QOL improvements
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?tab=files)  
@@ -455,6 +461,12 @@ When the player or the player's companions are attacked, any companions will lau
 
 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712?tab=files)  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+
+[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428?tab=files)  
+Lets you edit every GMST in the game, in-game.
+- Also install [**GMST Menu MW++ Preset**](https://drive.google.com/file/d/1gIzVDLfM74z_FmRwp0PRr-Y5YFfLYHl0/view?usp=sharing), which tweaks the following GMSTs:
+  - iGreetDistanceMultiplier: NPCs will be much less likely to speak to you when passing by.
+  - i1stPersonSneakDelta: lowers camera view while sneaking.
 
 [**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306?tab=files)  
 Each gondolier in Vivec will get you to all gondolier ports in Vivec.
@@ -500,9 +512,6 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-
-[**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642?tab=files)  
-Lowers the position of the first person camera when sneaking/crouching, making it easier to tell if you are sneaking. Adjustable on the fly.
 
 ## Game balance
 
@@ -622,10 +631,11 @@ Weather Adjuster
 Shut the Fuck up Cliff Racers
 ======================================Dialogue
 Great Service
-Greet Distance Reducer
 ======================================Gameplay QOL improvements
 Diligent Defenders
 Easy Escort
+GMST Menu
+GMST Menu MW++ Preset
 Gondolier Destinations
 Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
@@ -633,7 +643,6 @@ Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Improved Temple Experience
 MWSE Hide the Skooma
-Pluginless and Adjustable Lower First Person Sneak
 ======================================Game balance
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
@@ -669,7 +678,6 @@ NearVanillaRoadSigns.ESP
 Yet Another Guard Diversity - Regular.ESP
 GITD_WL_RR_Interiors.ESP
 Great Service.ESP
-hw_GreetDistanceReducer.ESP
 PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
 Beware the Sixth House.ESP
