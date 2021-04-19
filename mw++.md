@@ -539,10 +539,10 @@ DLC: Bloodmoon
 Patch for Purists
 ======================================Mesh fixes and optimization
 Correct UV Rocks
+Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
-Rope Fence Fix
 Glowing Flames
 ======================================MWSE fixes
 Expeditious Exit
