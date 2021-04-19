@@ -37,6 +37,12 @@
 # Changelog
 
 <details>
+  <summary>v2.4.3.3 (April 18th)</summary>
+
+- Removed Hidden Imperial Door Fix (Non-purist fixes). Not necessary with Morrowind Optimization Patch v11.
+</details>
+
+<details>
   <summary>v2.4.3.2 (April 10th)</summary>
 
 - Added GMST Menu (Gameplay QOL improvements).
@@ -124,9 +130,6 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files)  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
-
-[**Hidden Imperial Door Fix**](https://www.nexusmods.com/morrowind/mods/43528?tab=files)  
-Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
 
 [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
@@ -755,10 +758,10 @@ Patch for Purists
 Unofficial Morrowind Official Plugins Patched
 ======================================Mesh fixes and optimization
 Correct UV Rocks
+Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
-Rope Fence Fix
 Glowing Flames
 ======================================MWSE fixes
 Expeditious Exit
@@ -792,7 +795,6 @@ Adamantium Ore Fix
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 FMI - #NotAllDunmer
-Hidden Imperial Door Fix
 Imperial Steel Cuirass With Belt
 LDM - Context Matters
 Services Restored
