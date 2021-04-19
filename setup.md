@@ -325,6 +325,9 @@ The best unofficial fan patch for Morrowind.
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks and stones.
 
+[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
+Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
+
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
 Greatly improves performance and fixes some mesh errors.
 - Check the following options in the BAIN installer:
@@ -355,9 +358,6 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
-
-[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
-Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
@@ -460,6 +460,16 @@ Overhauls the game's lighting.
 - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
 - [**Interior comparison**](https://imgsli.com/NDg3MTA)
 
+## MGE XE distant static overrides
+
+As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
+
+This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
+
+[**abot Distant Static Overrides - Necro Edit**](https://drive.google.com/file/d/17G2uTaOjDJ9gUBwwIKZRtfvNWY5bZMXK/view?usp=sharing)  
+abot's custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape. Edited by Necrolesian to remove support for non-vanilla content.
+- Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
+
 # Finishing touches
 
 ## Mod order and load order
@@ -476,10 +486,10 @@ DLC: Bloodmoon
 Patch for Purists
 ======================================Mesh fixes and optimization
 Correct UV Rocks
+Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
-Rope Fence Fix
 Glowing Flames
 ======================================MWSE fixes
 Expeditious Exit
@@ -604,6 +614,11 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
 - In the **Statics** tab:
   - Check **Include reflective water in interiors**.
+  - Check **Use lists of statics overriding parameters set above**.
+  - Click **Edit list**.
+    - Click **Add**.
+    - Navigate to your **Morrowind\mge3** folder, and double-click **necro_distant_statics_override.ovr**.
+    - Click **Save**.
   - Click **Create Statics**.
 - Once the statics have been created, click **Finish**.
 
