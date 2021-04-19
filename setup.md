@@ -334,9 +334,6 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 03 MGE XE Addon
   - [ ] 04 Weapon Sheathing Patch
   - [X] 05 Chuzei Fix
-- Hide **meshes\f\furn_web10.nif** and **meshes\a\a_bonemold_chuzei_helmet.nif**.
-
-> The former mesh causes a transparency bug when used alongside Intelligent Textures. The latter prevents a bug where the Chuzei Helmet appears as a floating object in the world.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
