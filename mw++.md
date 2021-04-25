@@ -295,11 +295,11 @@ Adds groundcover to almost all regions.
 - Install the **Remiros' Groundcover** main file.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
-  - [ ] 01 TR Plugins
-  - [ ] 02 TR Preview Plugins
-  - [ ] Vanilla Resolution Textures
-  - [ ] 04a No Mushrooms
-  - [X] 04b Thicker Grass
+  - [ ] 01a No Mushrooms
+  - [X] 01b Thicker Grass
+  - [ ] 02 Vanilla Resolution Textures
+  - [ ] 03 TR Plugins
+  - [ ] 04 TR Preview Plugins
   - [ ] 05a Legend of Chemua
   - [ ] 05b Legend of Chemua Moved
 - Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://drive.google.com/file/d/1BjqJ_xvfcSZxoU0pTYA5IASes6SqyHxs/view?usp=sharing), which addresses landbias issues.
