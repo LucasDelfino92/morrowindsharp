@@ -442,9 +442,6 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 
 ## SFX
 
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
-Removes the sheep sounds from Morrowind.
-
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
 
