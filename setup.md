@@ -446,14 +446,6 @@ Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipe
 [**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
 Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
 
-[**MGE XE Shader - 16 Lights Shaders Alpha**](https://drive.google.com/file/d/1VLawLmOROLXeacr3pre4566-wva3V4DW/view?usp=sharing)  
-Reduces light seams.
-- This shader requires the MGE XE 0.11.6 PPL beta [**d3d8.dll**](https://drive.google.com/file/d/1-yQP7zRJw-2XHSAnb1pTUEWUegNMAvQA/view?usp=sharing). Place this file in your Morrowind **Root** directory, overwriting when prompted.
-- [**Water comparison**](https://imgsli.com/NDg3MTE)
-- (Optional) Hide **shaders\XE Water.fx** if you prefer the **Standard MGE XE** water shader.
-
-> Note that if you decide to uninstall this shader, you will run into a visual bug where cells may appear to be bright pink. To fix this, reinstall the original [**d3d8.dll**](https://drive.google.com/file/d/1o9fbEmQ5IbGXG4RPHcT9PtlwAUuAWyD0/view?usp=sharing) from MGE XE 0.11.6.
-
 [**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
 Overhauls the game's lighting.
 - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
@@ -515,7 +507,6 @@ Early Transport to Mournhold
 ======================================MGE XE shaders
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
-MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
 ```
 </details>
