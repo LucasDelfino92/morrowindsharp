@@ -289,7 +289,6 @@ Adds groundcover to almost all regions.
   - [ ] 04 TR Preview Plugins
   - [ ] 05a Legend of Chemua
   - [ ] 05b Legend of Chemua Moved
-- Also install [**Remiros' Groundcover Shaders - Landbias Fix**](https://drive.google.com/file/d/1BjqJ_xvfcSZxoU0pTYA5IASes6SqyHxs/view?usp=sharing), which addresses landbias issues.
 - Uncheck all Rem_ .esps in the load order.
 
 > This is an incredibly problematic mod for new users to install in spite of how clear the given instructions are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
@@ -788,7 +787,6 @@ Early Transport to Mournhold
 ======================================MGE XE Shaders
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
-MGE XE Shader - 16 Lights Shaders Alpha
 MGE XE Shader - Specialprocess
 ======================================Non-purist fixes
 Adamantium Ore Fix
@@ -837,7 +835,6 @@ Bitter Coast Scum Replacer
 Distant Mournhold
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
-Remiros' Groundcover Shaders - Landbias Fix
 Vivec Palace Water Replacer
 Well Diversified
 ======================================Equipment visuals
