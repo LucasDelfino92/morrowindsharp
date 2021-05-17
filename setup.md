@@ -28,7 +28,6 @@
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
   - Installation instructions are found on the next section. 
-- [**DirectX End-User Runtimes (June 2010)**](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - A [**Nexus**](https://users.nexusmods.com/register) account. This guide assumes you are using a Free account, so no need to pay for Premium.
 - A file archiver. I recommend [**7-Zip**](https://www.7-zip.org/).
 - A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
@@ -77,7 +76,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 - Manually download the **MCP beta** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update the Morrowind Code Patch to version **2.5b4**.
+> This will update the Morrowind Code Patch to version **2.5b11**.
 
 ## Setup
 
