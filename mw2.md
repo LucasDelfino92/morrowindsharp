@@ -500,8 +500,6 @@ With this plugin the player can hear an actual noise when he's under the effects
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
 Simulates water sounds when colliding with generic fake animated water meshes.
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
 
 ## Dialogue
 
