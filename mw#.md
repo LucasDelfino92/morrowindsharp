@@ -207,7 +207,7 @@ Makes the Madstone of the Ahemmusa align with its in game description so that th
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?) by half11  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294?) by R-Zero  
-Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit. An optional plugin sets summoned daedra's souls to zero, making them impossible to soultrap.
+Makes the Scourge artifact behave more like its description in the game books - now it kills summoned daedra in one hit. An optional plugin sets summoned daedra's souls to zero, making them impossible to soultrap.
   - Hide *TrueScourge.ESP*
 - [**Wizard Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) by Endify  
 Adds in a Wizards Staff to high ranking members of the Mages Guild.
@@ -273,7 +273,7 @@ Adds several new options for the journal and quest pages.
 Automatically switches between the local and world map depending on user configuration.
   - Also install [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717).
 - [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969) by abot  
-Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
+Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
 - [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?) by NullCascade  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -414,7 +414,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 ### Weather and Lighting
 
 - [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912/) by Greatness7, Merlord, OperatorJack, Petethegoat, and RedFurryDemon  
-Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 - [**Let There Be Darkness v1.1 (No Level Design Lighting Preview Patch)**](https://www.mediafire.com/file/5vidcblah6g4tcy/Let+There+Be+Darkness+(No+Level+Design+Lighting+Preview+Patch).zip/file) by Sigourn  
 Solves a compatibility issue with mods that use the **L** as a hotkey, such as Security Enhanced (present in this guide). Make sure you only install this mod for version 1.1 of Let There Be Darkness: it will likely not be compatible with older or newer versions.
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
@@ -451,7 +451,7 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 - [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 - [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
 - [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?) by R-Zero  
 Makes Miner class NPCs cough.
 - [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
@@ -551,7 +551,7 @@ Prevents the player from resting unless they activate a bed.
 - [**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
 Disables the "taunt" option in the persuasion menu. This does not break the Temple quest where you have to taunt Anhaedra, because that's done with a normal dialogue topic, not through the persuasion menu.
 - [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
-Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 Overhauls the repair mechanic so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear can be damaged to a configurable condition (optional).
   - Hide *Realistic_Repair_Optional.ESP*
@@ -610,7 +610,7 @@ This section contains specific instructions for the (re)installation of the Morr
 ### Patches
 
 - [**Morrowind# Patches**](https://www.mediafire.com/file/yi197dsgrlceled/Morrowind#+Patches+v1.1.zip/file) by Sigourn  
-BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropiate patch:
+BAIN-ready installer which contains patches for the following mods. Should you have installed the mods they patch, make sure to install the appropriate patch:
   - 00 Hunter's Mark + Patch for Purists Patch
   - 01 Hunter's Mark + Area Effect Projectiles Integrated Patch
   - 03 BTBGI + Realistic Repair Add-on Patch
