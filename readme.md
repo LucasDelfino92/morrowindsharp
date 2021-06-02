@@ -26,7 +26,7 @@ Morrowind++ is divided in three sections:
 - [**Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2), which contains all non-purist mods that expand on the vanilla game by addressing user interface, visuals, audio, and gameplay improvements. This section is intended for people who have already experienced Morrowind.
 - [**Part 2.x**](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x), which is an extended version of **Part 2**, and includes even more mods, with a heavy emphasis on gameplay overhauls. This section is intended for very experienced Morrowind players, and should be used instead of **Part 2**.
 
-All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropiate mod order and load order, can be found in these pages.
+All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropriate mod order and load order, can be found in these pages.
 
 ## Frequently asked questions
 
@@ -54,7 +54,7 @@ Roughly 4.5GB, of which **Intelligent Textures** accounts for 75% the size of. A
 
 ### How much time will it take me to install all mods?
 
-Depends on how quick and thorough you are about it. I guarantee it will take you far less time than to to set up most other Morrowind guides, bar the most spartan ones.
+Depends on how quick and thorough you are about it. I guarantee it will take you far less time than to set up most other Morrowind guides, bar the most spartan ones.
 
 ## My setup
 

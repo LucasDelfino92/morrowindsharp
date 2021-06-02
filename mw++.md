@@ -99,7 +99,7 @@
 <details>
   <summary>v1.0 (January 4th)</summary>
 
-- Simplifcation of installation instructions.
+- Simplification of installation instructions.
 - Deleted **Continuity** module, and redistributed mods accordingly.
 - The following mods have changed categories:
   - Services Restored moved from Continuity to Core (Non-purist fixes9.
@@ -409,7 +409,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 Replaces rain with a more heavy rain look.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912?tab=files)  
-Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
 - Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
 - Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
@@ -442,7 +442,7 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 ## SFX
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
 
 ## Dialogue
 
@@ -500,7 +500,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373?tab=files)  
-Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.
+Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almsivi Intervention to Vos, Suran, Maar Gan and Ghostgate.
 - Check the following options in the BAIN installer: 
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
@@ -643,7 +643,7 @@ Bloodmoon Rebalance
 ```
 </details>
 
-The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
 <summary>Load order</summary>
@@ -721,7 +721,7 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-## Closing commments
+## Closing comments
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
 

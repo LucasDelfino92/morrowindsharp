@@ -206,7 +206,7 @@ Automatically switches between the local and world map depending on user configu
 Updated **abot\lib.lua** common file used by some of abot's mods, which we've installed above ("Smart" series).
 
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
-Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill and mod source may also be enabled from the MCM control panel.
+Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -445,7 +445,7 @@ Makes in-world soul gems that are filled appear as enchanted items.
 Replaces rain with a more heavy rain look.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912?tab=files)  
-Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
 - Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
 - Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
@@ -490,7 +490,7 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
 
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
 Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
@@ -573,7 +573,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373?tab=files)  
-Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.
+Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almsivi Intervention to Vos, Suran, Maar Gan and Ghostgate.
 - Check the following options in the BAIN installer: 
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
@@ -641,7 +641,7 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110?tab=files)  
 An MWSE leveling mod that implements most features of Galsiah's Character Development.
 
-> Class-Conscious Character Progression is a very complicated mod which you should get acquaintanced with by reading the mod's page.
+> Class-Conscious Character Progression is a very complicated mod which you should get acquainted with by reading the mod's page.
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
@@ -696,7 +696,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - Hide **Ownership Overhaul.ESP**
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
-Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
@@ -874,7 +874,7 @@ Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
 Shut the Fuck up Cliff Racers
-Silent Asssassins
+Silent Assassins
 Sound Spell Sound Effect
 Water Sounds
 ======================================Dialogue
@@ -933,7 +933,7 @@ Bloodmoon Rebalance
 ```
 </details>
 
-The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overriden as intended.
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
 <summary>Load order</summary>
@@ -1038,7 +1038,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-**Merged Objects.ESP** makes a handufl of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit. We will have to delete these unintended changes from our Merged Objects plugin.
+**Merged Objects.ESP** makes a handful of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit. We will have to delete these unintended changes from our Merged Objects plugin.
 
 - [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
 - Delete the following records: 
@@ -1057,7 +1057,7 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-## Closing commments
+## Closing comments
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
 
