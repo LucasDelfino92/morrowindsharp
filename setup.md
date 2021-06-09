@@ -78,7 +78,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 - Manually download the **MCP beta** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update the Morrowind Code Patch to version **2.5b11**.
+> This will update the Morrowind Code Patch to version **2.5beta14**.
 
 ## Setup
 
@@ -94,7 +94,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features.
 
 - Manually download the **MGE XE Installer** main file.
-- Run the **MGE XE Installer.exe**.
+- Extract the contents of the file and run the **MGE XE Installer.exe**.
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
 - Head over to your Morrowind **Data Files** folder, and delete the **XE Sky Variations.esp**.
