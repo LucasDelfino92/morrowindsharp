@@ -128,7 +128,7 @@ With Mod Organizer 2 installed, we now need to configurate it.
 
 ### Administrator privileges
 
-- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**.
+- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
 - In the **Compatibility** tab, check **Run this program as an administrator** and click **Apply**.
 - Click **Accept** to close this window.
 
