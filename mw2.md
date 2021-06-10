@@ -37,6 +37,12 @@
 # Changelog
 
 <details>
+  <summary>v2.4.3.4 (June 10th)</summary>
+
+- Removed Cost Based Enchant Progression (Gameplay tweaks). Will be unnecessary with a future tweak that removes skill gain from using enchanted items.
+</details>
+
+<details>
   <summary>v2.4.3.3 (April 18th)</summary>
 
 - Removed Hidden Imperial Door Fix (Non-purist fixes). Not necessary with Morrowind Optimization Patch v11.
@@ -586,9 +592,6 @@ Increases the availability of projectiles purchasable from vendors.
 
 ## Gameplay tweaks
 
-[**Cost Based Enchant Progression**](https://drive.google.com/file/d/1CWMmoPLJp1Dl_ZSablSTQ57RyKLUunDF/view?usp=sharing)  
-Enchant skill advances based on the cost of the enchantment cast, calculated as if it was a spell.
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 
@@ -898,7 +901,6 @@ Improved Temple Experience
 MWSE Hide the Skooma
 Projectiles Reintegrated
 ======================================Gameplay tweaks
-Cost Based Enchant Skill Progression
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
