@@ -35,6 +35,17 @@
 # Changelog
 
 <details>
+  <summary>v1.2.3 (June 12th)</summary>
+  
+- Added Propylon Index Renamer (User interface).
+- Added Soulgem Renamer (User interface).
+- Added No Thank You (User interface).
+- Added I Lava Good Mesh Replacer (Environment visuals).
+- Added Weapon Sheathing Additions (Equipment visuals).
+- Added Just Drop It (Gameplay QOL improvements).
+</details>
+
+<details>
   <summary>v1.2.2 (April 10th)</summary>
   
 - Added GMST Menu (Gameplay QOL improvements).
@@ -225,6 +236,15 @@ Adds a fillbar that shows the currently equipped weapon's charge under the weapo
 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
 Adds a confirmation popup when you click on New Game in the main menu.
 
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
+Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
+
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275?tab=files)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
@@ -283,6 +303,13 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - [ ] 02 Animated Replacer - Greener Color
   - [ ] 03 Standalone - Lougian's Meshes Fixed
 
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
+Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [ ] 01 Vurt's Lava Patch
+  - [ ] 02 Tamriel_Data Patch
+
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
 - Check the following options in the BAIN installer: 
@@ -336,6 +363,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 05 Chuzei Fix
   - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
 - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?tab=files), which tweaks bows so that they line up better with the sheathing animation.
+- Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files), which adds sheaths to weapons not covered by Weapon Sheathing.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
@@ -505,6 +533,9 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
 
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557?tab=files)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
@@ -579,6 +610,9 @@ Better Questlist
 Continue
 HUD Weapon Charge
 New Game Confirmation
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
 Shrine Tooltips
 Smart Ammo
 Smart Journal
@@ -596,6 +630,7 @@ Torch Hotkey
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
+I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Vivec Palace Water Replacer
@@ -604,6 +639,7 @@ Improved Thrown Weapon Projectiles
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
 ======================================NPC visuals
 Pluginless Khajiit Head Pack - Whiskers Version
 Yet Another Guard Diversity - Regular
@@ -635,6 +671,7 @@ Graphic Herbalism - Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Improved Temple Experience
+Just Drop It
 MWSE Hide the Skooma
 ======================================Game balance
 Beware the Sixth House (Sixth House Overhaul)
