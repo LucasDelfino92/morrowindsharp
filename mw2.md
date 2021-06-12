@@ -37,6 +37,24 @@
 # Changelog
 
 <details>
+  <summary>v2.4.4 (June 12th)</summary>
+- Added Thrown Projectiles Revamped (Non-purist fixes).
+- Added Propylon Index Renamer (User interface).
+- Added Soulgem Renamer (User interface).
+- Added No Thank You (User interface).
+- Added I Lava Good Mesh Replacer (Environment visuals).
+- Added Weapon Sheathing Additions (Equipment visuals).
+- Added Actually Unlimited Skeleton Key (Gameplay QOL improvements).
+- Added Just Drop It (Gameplay QOL improvements).
+- Added Fortify MAX (Gameplay tweaks).
+- Added Stealth Improved (Gameplay tweaks).
+- Added Armor Rating (Game balance).
+- Added Dungeons Rest (Game balance).
+- Added Taunt Fail Penalty (Game balance).
+- Added Properly Balanced Creeper and Mudcrab (Game balance).
+</details>
+
+<details>
   <summary>v2.4.3.4 (June 10th)</summary>
 
 - Removed Cost Based Enchant Progression (Gameplay tweaks). Will be unnecessary with a future tweak that removes skill gain from using enchanted items.
@@ -160,6 +178,9 @@ Restores previously unused Silt Strider animation - it was present in the model,
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
+Corrects thrown projectiles inflicting twice their listed damage. 
+
 ## User interface
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
@@ -195,6 +216,15 @@ Provides an in-game HUD element as the game approaches critical memory limits. A
 
 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
 Adds a confirmation popup when you click on New Game in the main menu.
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
+Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
+
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275?tab=files)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
@@ -276,6 +306,13 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
+Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [ ] 01 Vurt's Lava Patch
+  - [ ] 02 Tamriel_Data Patch
+
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
 - Check the following options in the BAIN installer: 
@@ -338,6 +375,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 05 Chuzei Fix
   - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
 - Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
+- Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files), which adds sheaths to weapons not covered by Weapon Sheathing.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
@@ -523,6 +561,9 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 ## Gameplay QOL improvements
 
+[**Actually Unlimited Skeleton Key**](https://www.nexusmods.com/morrowind/mods/47972?tab=files)  
+Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
+
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 
@@ -584,6 +625,9 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
 
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557?tab=files)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
@@ -591,6 +635,9 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 Increases the availability of projectiles purchasable from vendors.
 
 ## Gameplay tweaks
+
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825?tab=files)  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
@@ -609,6 +656,9 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 - Uncheck **Putting Power in Willpower - Absorbonach.ESP**
 
 > This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
+
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
@@ -646,8 +696,14 @@ An MWSE leveling mod that implements most features of Galsiah's Character Develo
 
 > Class-Conscious Character Progression is a very complicated mod which you should get acquainted with by reading the mod's page.
 
+[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715?tab=files)  
+Modifies armor rating calculation to lower the gap between low and high armor skills.
+
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130?tab=files)  
 Increases the penalties for crime.
@@ -704,15 +760,21 @@ Modifies movement speeds when strafing or backpedaling so that they are more rea
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
 
+[**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168?tab=files)  
+Failing a Taunt will now negate previous successful taunts, reducing that character's will to fight.
+
 [**Morrowind Anti-Cheese**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/)  
 Fixes some the biggest exploits and balance issues in the game.
 
-[**BTB's Game Improvements - Necro Edit**](https://mw.moddinghall.com/file/40-btbs-game-improvements-necro-edit-sigourn-edit/)  
-Modified version of BTB's Game Improvements by Necrolesian, with many changes and additions. Additional edits by me to remove some infuriating and/or unnecessary changes.
-- Check the following options in the BAIN installer:
-  - [X] 00 BTBGI Necro Edit
-  - [ ] 01 BTBGI Necro Edit + Hunter's Mark Patch
-  - [ ] 02 BTBGI Necro Edit + MDMD - Creatures Patch
+[**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690?tab=files)  
+Gives proper barter AI to Mudcrab and Creeper, so that they will not buy items at full price.
+
+[**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129?tab=files)  
+Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions. 
+- Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).esp**
+- Also install [**BTBGI Necro Edit Add-on**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing), which includes custom tweaks to certain aspects of the mod.
+
+> Note that **BTBGI Necro Edit Add-on**'s Readme contains a number of edits that have to be done to the main plugin, using TESAME.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -800,6 +862,7 @@ Services Restored
 Sheep-no-More
 Silt Strider Animation Restored
 The Publicans
+Thrown Projectiles Revamped
 ======================================User interface
 Better Questlist
 Book Worm
@@ -812,6 +875,9 @@ Essential Indicators
 HUD Weapon Charge
 Memory Monitor
 New Game Confirmation
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
 Shrine Tooltips
 Smart Ammo
 Smart Journal
@@ -834,6 +900,7 @@ Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
 Distant Mournhold
+I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Vivec Palace Water Replacer
@@ -843,8 +910,9 @@ Complete Armor Joints
 Improved Thrown Weapon Projectiles
 Soldier Belts Fix
 Weapon Sheathing
-Weapon Sheathing - Bow Position Edit
 Morrowind Optimization Patch Weapon Sheathing Patch
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
 Wolf Helmet Replacer
 ======================================Creature and NPC visuals
 Buoyant Lord Vivec
@@ -886,6 +954,7 @@ Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
 ======================================Gameplay QOL improvements
+Actually Unlimited Skeleton Key
 Bed Buddies
 Better Propylon Teleport Script
 Diligent Defenders
@@ -898,13 +967,16 @@ Graphic Herbalism - Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Improved Temple Experience
+Just Drop It
 MWSE Hide the Skooma
 Projectiles Reintegrated
 ======================================Gameplay tweaks
+Fortify MAX
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
+Stealth Improved
 Wading in Water MW
 Wings of Will
 ======================================Game mechanics
@@ -916,7 +988,9 @@ Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
 ======================================Game balance
 Class-Conscious Character Progression
+Armor Rating
 Controlled Consumption
+Dungeons Rest
 Economy Adjuster Adjustments
 HardTrade
 Limited Leaping
@@ -926,8 +1000,11 @@ No Rest Without Beds
 Ownership Overhaul
 Realistic Movement Speeds
 Sneaky Strike
+Taunt Fail Penalty
 Morrowind Anti-Cheese
+Properly Balanced Creeper and Mudcrab
 BTB's Game Improvements - Necro Edit
+BTBGI Necro Edit Add-on
 Balanced Passive Races and Birthsigns
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
@@ -987,11 +1064,18 @@ outfit greetings tweaked.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
+No Thank You.ESP
 Projectiles Reintegrated.ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
-BTB's Game Improvements (Necro Edit).ESP
+Properly balanced Creeper and Mudcrab.ESP
+BTB's Game Improvements (Necro Edit - No RAB).ESP
+BTBGI Apparatus Tweaks.ESP
+BTBGI Glass Tweaks.ESP
+BTBGI Creature Tweaks.ESP
+BTBGI Daedric Tweaks.ESP
+BTBGI Settings Tweaks.ESP
 SoldierBeltsFix.ESP
 Balanced Passive Races and Birthsigns.ESP
 Beware the Sixth House.ESP
@@ -1138,6 +1222,11 @@ Light Settings
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
+### Stealth Improved
+
+- Disable **Experimental Enablel light-based Stealth**.
+- Disable **Show Light Bar**.
+
 ### UI Expansion
 
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after launching the game again.
@@ -1169,7 +1258,6 @@ I want to thank the following mod authors for their original mods which have bee
 - ProfArmitage, for providing the fix to **Flies'** underwater flies bug.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624?), which was edited to include ingredient consumption restrictions.
 - Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305?), which was edited for compatibility with **Ownership Overhaul**.
-- BTB and Necrolesian, for [**BTB's Game Improvements - Necro Edit v2.0**](https://www.nexusmods.com/morrowind/mods/47129?), which was edited to remove Morrowind Advanced's creature stat buffs.
 
 # Compatibility
 
