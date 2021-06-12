@@ -38,6 +38,7 @@
 
 <details>
   <summary>v2.4.4 (June 12th)</summary>
+
 - Added Thrown Projectiles Revamped (Non-purist fixes).
 - Added Propylon Index Renamer (User interface).
 - Added Soulgem Renamer (User interface).
