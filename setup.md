@@ -124,8 +124,6 @@ When you first install MGE XE, it will automatically download the latest MWSE up
 
 ## Configuration
 
-With Mod Organizer 2 installed, we now need to configurate it.
-
 ### Administrator privileges
 
 - Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
