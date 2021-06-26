@@ -242,6 +242,10 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502?tab=files)  
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands...", and yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker.
 
+[**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
+Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
+- This mod has a missing master that we will correct at the end of the guide.
+
 [**True Giant Bull Netch**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
 Makes the Giant Bull Netch larger.
 - Install the **True Giant Bull Netch** optional file.
@@ -318,6 +322,13 @@ Updated **abot\lib.lua** common file used by some of abot's mods, which we've in
 
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
 Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
+
+[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
+Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
+
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
+Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+- Also install the **Tamrielic Lore Exclusions** optional file.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
