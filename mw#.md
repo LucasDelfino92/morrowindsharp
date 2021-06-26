@@ -78,6 +78,11 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
 
+## MWSE fixes
+
+[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
+Corrects thrown projectiles inflicting twice their listed damage. 
+
 ## Uniformity
 
 [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
@@ -202,6 +207,14 @@ Adds the missing village of Ald Redaynia to the game. Redaynia Village is a smal
 
 > An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
 
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- Delete the following record:
+  - NPC **hecerinde**
+
+> This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
+
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
 Updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary. 
 
@@ -242,28 +255,6 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302?tab=files)  
 To become a Wizard in the Mages Guild you need to get your hands on a Wizards Staff. This mod adds a staff to members of rank Wizard or higher.
-
-## Non-purist fixes
-
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-
-[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
-Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
-- Delete the following record:
-  - NPC **hecerinde**
-
-> This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
-Corrects thrown projectiles inflicting twice their listed damage. 
 
 ## User interface
 
@@ -435,6 +426,9 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
+[**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
+
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?tab=files)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - Right-click on **Data Files**.
@@ -480,6 +474,9 @@ Changes the armor and clothes of some of the ghosts, so that now an ashlander we
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
 Pluginless replacer version of the base khajiit heads.
 - Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
+
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894?tab=files)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
@@ -634,8 +631,8 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 ## Gameplay QOL improvements
 
-[**Actually Unlimited Skeleton Key**](https://www.nexusmods.com/morrowind/mods/47972?tab=files)  
-Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
