@@ -173,6 +173,9 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341?tab=files)  
 Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
 
+[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708?tab=files)  
+Adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu. 
+
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458?tab=files)  
 Exit any menu by right clicking (or whatever your menu key is mapped to).
 
@@ -1388,11 +1391,11 @@ Siege at Firemoth.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Better_Typography_Bookarts_Fix.ESP
+No Thank You.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Expansions Integrated (Sigourn Edit).ESP
-Better_Typography_Bookarts_Fix.ESP
-No Thank You.ESP
 ActualBigHead.ESP
 Ashlanders Herd.ESP
 Clean Blighted_Kwama_Workers.ESP
