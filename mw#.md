@@ -9,10 +9,10 @@
   - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
   - [Mesh fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mesh-fixes-and-optimization)
   - [MWSE fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mwse-fixes)
-  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#expansion-implementation)
-  - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#hotkeys)
+  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#expansion-implementation)
+  - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
   - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#environment-visuals)
   - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#equipment-visuals)
   - [Creature and NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creature-and-npc-visuals)
@@ -54,6 +54,15 @@ Those of you who plan to follow this guide are advised to start a new game from 
 
 # Morrowind#
 
+## MGE XE shaders
+
+[**Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
+Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
+- Check the following options in the BAIN installer:
+  - [X] 00 - Green-Blue
+  - [ ] 01 - Blue
+  - [ ] 02 - Green
+
 ## Patches
 
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?tab=files)  
@@ -73,6 +82,115 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
 Corrects thrown projectiles inflicting twice their listed damage. 
+
+## User interface
+
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
+Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+
+[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851?tab=files)  
+Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
+
+[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527?tab=files)  
+Restores the description tooltip to the vanilla class selection menu.
+
+[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?tab=files)  
+Adds clock to UI that displays either game world time or real time (depending on settings).
+
+[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
+Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
+
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954?tab=files)  
+Renames keys so they'll have a consistent naming scheme.
+- Install the **Consistent Keys - MWSE Version** main file.
+
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
+Adds a continue button to the main menu to instantly load your most recent save.
+
+[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267?tab=files)  
+Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
+
+[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962?tab=files)  
+Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696?tab=files)  
+Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
+
+[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
+Adds a confirmation popup when you click on New Game in the main menu.
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
+Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
+
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275?tab=files)  
+Adds tooltips with the effect's name to shrines when hovering over the different options.
+
+[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?tab=files)  
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+
+[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?tab=files)  
+Adds several new options for the journal and quest pages.
+
+[**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634?tab=files)  
+Automatically switches between the local and world map depending on user configuration.
+
+[**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717?tab=files)  
+Updated **abot\lib.lua** common file used by some of abot's mods, which we've installed above ("Smart" series).
+
+[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
+Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
+
+[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
+Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
+
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
+Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+- Also install the **Tamrielic Lore Exclusions** optional file.
+
+[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
+Expands UI functionality with searching, filtering, and more visual feedback.
+
+## Hotkeys
+
+[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625?tab=files)  
+Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
+
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055?tab=files)  
+Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
+
+[**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976?tab=files)  
+Adds hotkeys for journal Quests and Topics.
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723?tab=files)  
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341?tab=files)  
+Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
+
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458?tab=files)  
+Exit any menu by right clicking (or whatever your menu key is mapped to).
+
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038?tab=files)  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680?tab=files)  
+Lets you open or close any book or scroll in the game.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Closed Book Icons
+  - [ ] 02 MD books + Illy's Dirty Books
+  - [ ] 03 Melchior's Magnificent Manuscripts
+  - [ ] 04 MD books + RR pages & scrolls
+  - [ ] 05 STA Guide-to Replacer
+
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
+Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
 ## Expansion implementation
 
@@ -263,115 +381,6 @@ Makes in-world soul gems that are filled appear as enchanted items.
 
 [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302?tab=files)  
 To become a Wizard in the Mages Guild you need to get your hands on a Wizards Staff. This mod adds a staff to members of rank Wizard or higher.
-
-## User interface
-
-[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
-Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
-
-[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851?tab=files)  
-Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
-
-[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527?tab=files)  
-Restores the description tooltip to the vanilla class selection menu.
-
-[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?tab=files)  
-Adds clock to UI that displays either game world time or real time (depending on settings).
-
-[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
-Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
-
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954?tab=files)  
-Renames keys so they'll have a consistent naming scheme.
-- Install the **Consistent Keys - MWSE Version** main file.
-
-[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
-Adds a continue button to the main menu to instantly load your most recent save.
-
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267?tab=files)  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-
-[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962?tab=files)  
-Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696?tab=files)  
-Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
-[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
-Adds a confirmation popup when you click on New Game in the main menu.
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
-Renames propylon indexes so they'll group together in the inventory.
-
-[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
-Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275?tab=files)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383?tab=files)  
-Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?tab=files)  
-Adds several new options for the journal and quest pages.
-
-[**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634?tab=files)  
-Automatically switches between the local and world map depending on user configuration.
-
-[**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717?tab=files)  
-Updated **abot\lib.lua** common file used by some of abot's mods, which we've installed above ("Smart" series).
-
-[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
-Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
-
-[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
-Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
-
-[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
-Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
-- Also install the **Tamrielic Lore Exclusions** optional file.
-
-[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
-Expands UI functionality with searching, filtering, and more visual feedback.
-
-## Hotkeys
-
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625?tab=files)  
-Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
-
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055?tab=files)  
-Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
-
-[**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976?tab=files)  
-Adds hotkeys for journal Quests and Topics.
-
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723?tab=files)  
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341?tab=files)  
-Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
-
-[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458?tab=files)  
-Exit any menu by right clicking (or whatever your menu key is mapped to).
-
-[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038?tab=files)  
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680?tab=files)  
-Lets you open or close any book or scroll in the game.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Closed Book Icons
-  - [ ] 02 MD books + Illy's Dirty Books
-  - [ ] 03 Melchior's Magnificent Manuscripts
-  - [ ] 04 MD books + RR pages & scrolls
-  - [ ] 05 STA Guide-to Replacer
-
-[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
-Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
 ## Environment visuals
 
@@ -1096,6 +1105,7 @@ DLC: Bloodmoon
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - Specialprocess
+MGE XE Shader - Krokantor's Enhanced Water Shader Updated
 Patch for Purists
 Unofficial Morrowind Official Plugins Patched
 Correct UV Mudcrabs
@@ -1111,6 +1121,51 @@ Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
 Thrown Projectiles Revamped
+Intelligent Textures
+Facelift Meshes
+Facelift Textures
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Additions
+Widescreen Splash Replacer
+Better Questlist
+Book Worm
+Class Description Tooltip
+Clock Block
+Companion Health Bars MWSE Lua Script
+Consistent Keys - MWSE Version
+Continue
+Essential Indicators
+HUD Weapon Charge
+Memory Monitor
+New Game Confirmation
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
+Shrine Tooltips
+Smart Ammo
+Smart Journal
+Smart Map
+MWSEabotlib
+Tooltip
+Tamrielic Lore Tooltips
+Tooltips Complete
+Tamrielic Lore Exclusions
+UI Expansion
+Book Pickup
+Hotkeys Extended
+Hot Quests
+Kill Command
+Quick Equip
+Quick Loadouts
+Right Click Menu Exit
+Security Enhanced
+Switchable Scriptures
+Torch Hotkey
 Expansion Delay
 Early Transport to Mournhold
 Expansions Integrated (Sigourn Edit)
@@ -1167,50 +1222,6 @@ True Giant Bull Netch
 True Scourge
 Visually Filled Soul Gems
 Wizards Staff for Wizards
-Better Daedric Font
-Better Dialogue Font
-Comrade Raven's Book Arts Replacer
-Pete's Scroll 2018 ...in 2020
-Logo Intro Video Reworked
-Title Screen Reworked
-Widescreen Splash Additions
-Widescreen Splash Replacer
-Better Questlist
-Book Worm
-Class Description Tooltip
-Clock Block
-Companion Health Bars MWSE Lua Script
-Consistent Keys - MWSE Version
-Continue
-Essential Indicators
-HUD Weapon Charge
-Memory Monitor
-New Game Confirmation
-Propylon Index Renamer
-Soulgem Renamer
-No Thank You
-Shrine Tooltips
-Smart Ammo
-Smart Journal
-Smart Map
-MWSEabotlib
-Tooltip
-Tamrielic Lore Tooltips
-Tooltips Complete
-Tamrielic Lore Exclusions
-UI Expansion
-Book Pickup
-Hotkeys Extended
-Hot Quests
-Kill Command
-Quick Equip
-Right Click Menu Exit
-Security Enhanced
-Switchable Scriptures
-Torch Hotkey
-Intelligent Textures
-Facelift Meshes
-Facelift Textures
 Ashmire Replacer
 Better Waterfalls
 Waterfalls Tweaks
@@ -1380,6 +1391,8 @@ Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Expansions Integrated (Sigourn Edit).ESP
+Better_Typography_Bookarts_Fix.ESP
+No Thank You.ESP
 ActualBigHead.ESP
 Ashlanders Herd.ESP
 Clean Blighted_Kwama_Workers.ESP
@@ -1425,8 +1438,6 @@ Trackless Grazeland.ESP
 GiantNetch.ESP
 TrueScourge.ESP
 Clean_wizardsstaffforwizards.ESP
-Better_Typography_Bookarts_Fix.ESP
-No Thank You.ESP
 Waterfalls Tweaks.ESP
 Mournhold LOD.ESP
 NearVanillaRoadSigns.ESP
