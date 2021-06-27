@@ -1386,6 +1386,30 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ## Conflict resolution
 
+There are a number of records we have to remove from certain plugins to increase compatibility between them. To do this, you will have to [**run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+
+Delete the following records from the following plugins:
+
+- **FMI_Misc.ESP**, for compatibility with **LDM - Context Matters**:
+  - All Topic and Info/Responce records.
+- **Morrowind Anti-Cheese.ESP**, for compatibility with **Properly Balanced Creeper and Mudcrab**:
+  - Creature mudcrab_unique
+  - Creature scamp_creeper
+- **BTB's Game Improvements (Necro Edit - No RAB)**, for compatibility with **Properly Balanced Creeper and Mudcrab** and the **BTBGI Add-on**:
+  - Cell Balmora, Eastern Guard Tower
+  - Cell Caldera, Guild of Mages
+  - Cell Ghostgate, Tower of Dusk Lower Level
+  - Cell Suran, Goldyn Belaram: Pawnbroker
+  - Cell Vivec, Lucretinaus Olcinius: Trader
+  - Cell Vivec, Telvanni Enchanter
+  - Cell Mournhold, Armory
+  - Container dwrv_chest00_arenara2
+  - Container dwrv_chest00_kjeld2
+  - Container chest_tomb_gladroon2
+  - Creature scamp_creeper
+  - Creature mudcrab_unique
+  - NPC tuveso beleth
+
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
