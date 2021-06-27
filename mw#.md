@@ -228,6 +228,9 @@ Removes the sheep sounds from Morrowind.
 [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files)  
 The player will no longer be able to speak to NPCs when under the Silence spell.
 
+[**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
+
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
 Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
@@ -573,8 +576,34 @@ Model replacer for book and scroll models.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 01 Book Jackets Patch
+- Also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
+  - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
+  - Check the following option in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 01 Closed Book Icons
+    - [ ] 02 MD books + Illy's Dirty Books
+    - [X] 03 Melchior's Magnificent Manuscripts
+    - [ ] 04 MD books + RR pages & scrolls
+    - [ ] 05 STA Guide-to Replacer
+  - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
+
+[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
+Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
+- Install the **Gold coins** main file.
 
 ## VFX
+
+[**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files)  
+Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
+
+[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816?tab=files)  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core - Vertical System
+  - [X] 01 Enlightened Flames
+
+[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711?tab=files)  
+Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
 [**Flies**](https://drive.google.com/file/d/1MsRxCAOooJdifoAoJRfqzMfnkOyk2TO4/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
@@ -607,6 +636,19 @@ Makes windows glow in the dark.
 
 > Note that new window meshes added by mods will require a patch for glowing windows.
 
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
+Adds a heat haze shader with region and weather conditions selectable in-game. The effect gets faster, stronger and closer when near lava pools.
+
+> This shader must be registered in MGE XE's shader chain for it to work.
+
+[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903?tab=files)  
+Uses a previously unused keg droplet texture to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 MWSE Version
+  - [ ] 01 Non-MWSE Version
+  - [ ] 02 Smoothed
+
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112?tab=files)  
 Replaces the vanilla mist effect.
 - Check the following options in the BAIN installer:
@@ -634,6 +676,27 @@ Provides a variety of new configurable blood types for the creatures of Morrowin
 [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?tab=files)  
 Removes the annoying sparkle effects from Shield.
 
+[**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
+Adds falling spores particle effects to the iconic emperor parasol mushrooms. This version patches Melchior Dahrk's meshes with Project Atlas' performance meshes.
+- Check the following option in the BAIN installer:
+  - [X] 00 Project Atlas
+  - [ ] 00 SWG's Replacer
+  - [ ] 00 Telvanni Bump Maps Replacer
+  - [ ] 00 Vanilla - Smoothed
+
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
+Adds visible projectiles on anything they hit.
+
+> Note that this mod, as ambitious as it is, has its flaws. Read the short FAQ in the mod's page to know which they are.
+
+[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339?tab=files)  
+Replaces corprus meat models with animated, twitching ones.
+
+[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?tab=files)  
+Adds recurring earthquakes to certain volcanically active regions of Vvardenfell.
+
+> This shader must be registered in MGE XE's shader chain for it to work.
+
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?tab=files)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - Check the following options in the BAIN installer:
@@ -644,10 +707,20 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341?tab=files)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
+[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?tab=files)  
+Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Default Dust
+  - [X] 01 Denser Dust
+
 ## Weather and lighting
 
 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
 Replaces rain with a more heavy rain look.
+
+[**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/?tab=files)  
+Adds a more realistic sunglare.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912?tab=files)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -685,6 +758,9 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 
 ## SFX
 
+[**Distant Thunder**]()  
+
+
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?tab=files)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 
@@ -696,9 +772,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
-
-[**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
-Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
 
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300?tab=files)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
