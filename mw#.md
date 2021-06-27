@@ -197,7 +197,7 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 ## Expansion implementation
 
-[**Expansions Integrated (Sigourn Edit**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+[**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
 
 ## Uniformity
