@@ -83,6 +83,11 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
 Corrects thrown projectiles inflicting twice their listed damage. 
 
+## Expansion implementation
+
+[**Expansions Integrated (Sigourn Edit**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
+
 ## Uniformity
 
 [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
@@ -758,8 +763,18 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 
 ## SFX
 
-[**Distant Thunder**]()  
+[**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471?tab=files)  
+Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
+- Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
 
+> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
+
+[**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826?tab=files)  
+Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Fire Sound Replacer
+  - [ ] 02 SHS Patch
 
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?tab=files)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
@@ -776,6 +791,12 @@ Drastically reduces the frequency of idle Cliff Racer screeches, by editing the 
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300?tab=files)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
 
+[**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?tab=files)  
+Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+
+[**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?tab=files)  
+Makes all NPCs of Miner class periodically cough.
+
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
 Simulates water sounds when colliding with generic fake animated water meshes.
 
@@ -783,6 +804,9 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
+Replaces the three standard No Lore greetings with over sixty new ones.
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
