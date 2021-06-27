@@ -443,6 +443,9 @@ Replaces all the lava meshes in the vanilla game. Removes alpha blending from la
   - [ ] 01 Vurt's Lava Patch
   - [ ] 02 Tamriel_Data Patch
 
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
+
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
 - Check the following options in the BAIN installer: 
@@ -1241,6 +1244,7 @@ Distant Mournhold
 Glowing Bitter Coast
 Project Atlas Glowing Bitter Coast Patch
 I Lava Good Mesh Replacer
+Know Thy Ancestors
 Near Vanilla Road Sign Replacer
 Nordic Chest Replacer
 Remiros' Groundcover
@@ -1452,6 +1456,7 @@ TrueScourge.ESP
 Clean_wizardsstaffforwizards.ESP
 Waterfalls Tweaks.ESP
 Mournhold LOD.ESP
+Know Thy Ancestors.ESP
 NearVanillaRoadSigns.ESP
 Nordic Chest Replacer.ESP
 Well Diversified.ESP
