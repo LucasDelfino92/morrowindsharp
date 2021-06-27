@@ -6,6 +6,7 @@
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
 - [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-1)
+  - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mge-xe-shaders)
   - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
   - [Mesh fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mesh-fixes-and-optimization)
   - [MWSE fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mwse-fixes)
@@ -48,7 +49,7 @@ SO many mods have been added that you may as well start a new game from scratch,
 
 # Disclaimer
 
-The guide presented here assumes you have already followed all instructions found in the [**Morrowind++ Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1) page, as well as those found in the [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/update/mw++.md#tools) section of the **Morrowind++ Part 2** page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
+The guide presented here assumes you have already followed all instructions found in the [**Morrowind++ Part 1**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1) page to setup the Morrowind Code Patch, MGE XE, and Mod Organizer 2, as well as those found in the [**Morrowind++ Part 2**](https://github.com/Sigourn/morrowind-improved/blob/update/mw++.md) page to setup TES3View, TES3Merge, TESAME, WryeMash, and tes3cmd. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools and mods.
 
 Those of you who plan to follow this guide are advised to start a new game from scratch if you wish to install the Balance section.
 
@@ -56,7 +57,18 @@ Those of you who plan to follow this guide are advised to start a new game from 
 
 ## MGE XE shaders
 
-[**Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
+[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
+Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+
+[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
+Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+
+[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
+Overhauls the game's lighting.
+- [**Exterior comparison**](https://imgsli.com/NDg3MDk)
+- [**Interior comparison**](https://imgsli.com/NDg3MTA)
+
+[**MGE XE Shader - Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
 Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
 - Check the following options in the BAIN installer:
   - [X] 00 - Green-Blue
@@ -65,12 +77,56 @@ Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE 
 
 ## Patches
 
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
+The best unofficial fan patch for Morrowind.
+
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?tab=files)  
 Patch compilation for all official plugins.
 - Install the **UMOPP 3.1.0** main file.
 - Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, *master_index.ESP*, and *Siege at Firemoth.ESP*.
 
 ## Mesh fixes and optimization
+
+[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
+Fixes UV mapping on rocks and stones.
+
+[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
+Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
+
+[**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384?)  
+Greatly improves performance and fixes some mesh errors.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Fixed Vanilla Textures
+  - [X] 02 Lake Fjalding Anti-Suck
+  - [X] 03 MGE XE Addon
+  - [ ] 04 Weapon Sheathing Patch
+  - [X] 05 Chuzei Fix
+
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 10 Glow in the Dahrk Patch
+  - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
+  - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+  - [ ] 20 BC Mushrooms - Smoothed
+  - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+  - [ ] 30 Redware - Smoothed
+  - [ ] 40 Urns - Smoothed
+  - [ ] 50 Wood Poles - Hi-Res Texture
+- Hide **meshes\x\ex_imp_plat_01.nif**.
+
+> This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
+
+> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
+
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194?)  
+Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
+
+[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
+Flames are now glow mapped and/or properly illuminated.
+- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130?tab=files)  
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
@@ -80,10 +136,60 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 
 ## MWSE fixes
 
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
+Forces the game to instantly close on exit.
+
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
+Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
+Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
+
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
 Corrects thrown projectiles inflicting twice their listed damage. 
 
 ## User interface
+
+[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540?)  
+High resolution replacer for the Daedric font used in scrolls. 
+- Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
+
+[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
+High resolution replacer for the Magic Cards font, used in most of the user interface.
+- Install the **Better Dialogue Font** main file.
+
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
+Replaces most of original book arts with hi-res images redrawn from scratch.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+- Install the **Pete's Journal and Scroll** optional file.
+- Check the following options in the BAIN installer:
+  - [ ] 01 Journal and Scroll - 1K
+  - [X] 01 Journal and Scroll - 2K
+  - [ ] 01 Journal and Scroll - 4K
+  - [ ] 02 Daedric Alphabet Scroll
+
+[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+HD recreation of the Title and Logo Intro, in widescreen.
+- Install the **Logo Video Intro Reworked (Widescreen)** and the **Title Screen Reworked (Widescreen)** main files.
+
+[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)  
+Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
+
+[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
+Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
+- Create a **Splash** folder and move the **.tga** files inside.
+
+## User interface enhanced
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
@@ -199,6 +305,12 @@ Lets you open or close any book or scroll in the game.
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
 ## Expansion implementation
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
@@ -391,6 +503,14 @@ Makes in-world soul gems that are filled appear as enchanted items.
 [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302?tab=files)  
 To become a Wizard in the Mages Guild you need to get your hands on a Wizards Staff. This mod adds a staff to members of rank Wizard or higher.
 
+## HD textures
+
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Atlas Textures
+
 ## Environment visuals
 
 [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
@@ -552,6 +672,10 @@ Adds a simple script to make Vivec properly loop his idle animation.
 - Check the following options in the BAIN installer:
   - [X] 00Vanilla
   - [ ] 01VersusVivec
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
 Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
