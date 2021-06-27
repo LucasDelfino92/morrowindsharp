@@ -173,6 +173,10 @@ Gives the base golden saint the feminine walk animation instead of the default m
 [**Have You Seen The Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116?tab=files)  
 Gives the unique Muffin item an unique muffin mesh.
 
+[**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855?tab=files)  
+Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
+- Hide *Hopesfire Torch.ESP*.
+
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
 
@@ -372,6 +376,12 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 ## Environment visuals
 
+[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
+- Check the following option in the BAIN installer: 
+  - [ ] 00 Flowing Mire
+  - [X] 01 Still Mire
+
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?tab=files)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - Check the following options in the BAIN installer: 
@@ -392,6 +402,22 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+
+[**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946?tab=files)  
+Luminous Russula, Violet Coprinus, and Draggle-Tail will now glow and improve the atmosphere of the Bitter Coast. Ingredients also glow.
+- Also install the **Project Atlas Glowing Bitter Coast Patch**.
+  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 10 Glow in the Dahrk Patch
+    - [ ] 10 Glow in the Dahrk Patch - Interior Sunrays
+    - [X] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+    - [ ] 20 BC Mushrooms - Smoothed
+    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+    - [ ] 30 Redware - Smoothed
+    - [ ] 40 Urns - Smoothed
+    - [ ] 50 Wood Poles - Hi-Res Texture
+  - Rename the mod to **Project Atlas Glowing Bitter Coast Patch**. This will install the patch as a separate mod.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
 Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -423,6 +449,14 @@ Adds groundcover to almost all regions.
 
 > This is an incredibly problematic mod for new users to install in spite of how clear the given instructions are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
 
+[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
+Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
+- Install the **Remiros Groundcover** main file.
+- Hide *Rem_GL.esp.*
+- Uncheck *Rem_GL_Trackless_GL.esp*.
+
+> Using Trackless Grazeland, we no longer want Remiros' original grass plugin. Instead, we will be using the one from this mod. Make sure you do not remove this plugin from your load order, however. Simply disable it, as we will enable it on distant land generation only.
+
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the water in the Palace of Vivec's canals.
 - Check the following options in the BAIN installer: 
@@ -441,13 +475,29 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
 
+[**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816?tab=files)  
+Makes the Nordic Iron Helm look less goofy.
+- Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
+
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?tab=files)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
 
+[**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939?tab=files)  
+Adjusts the dimensions and spikiness of the Orcish boots so they look less goofy.
+
+[**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745?tab=files)  
+Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
+
 [**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?tab=files)  
 Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+
+[**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353?tab=files)  
+Changes the position from where Spears and Staffs are held. Now they are held closer to the end.
+- Expand the **Spear and Staff* folder.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -480,8 +530,14 @@ Adds a simple script to make Vivec properly loop his idle animation.
   - [X] 00Vanilla
   - [ ] 01VersusVivec
 
+[**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
+Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
+
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
+
+[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Adds glow maps from PeterBitt's Luminous Atronachs to Rotat's Creature VFX Restoration models.
 
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
 Pluginless replacer version of the base khajiit heads.
@@ -489,6 +545,13 @@ Pluginless replacer version of the base khajiit heads.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+
+[**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files)  
+Replaces the Silt Strider model with one inspired by vanilla fan art, which gives the Silt Strider a more adequate look for a transportation creature.
+- Check the following options in the BAIN installer:
+  - [ ] H8 standard
+  - [X] H8 vanilla - High res textures
+  - [ ] H8 vanilla - vanilla textures
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894?tab=files)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
