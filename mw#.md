@@ -345,6 +345,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
 Removes the sheep sounds from Morrowind.
 
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+
 [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files)  
 The player will no longer be able to speak to NPCs when under the Silence spell.
 
@@ -1217,6 +1220,7 @@ Plunder the Dungeon
 Redaynia Village OR Redaynia Restored
 Services Restored
 Sheep-no-More
+Shrine of Azura
 Silence
 Silent Assassins
 Sixth House Smugglers
@@ -1434,6 +1438,7 @@ Old Blue Fin.ESP
 Clean Plunder the Dungeon.ESP
 Redaynia Village.ESP OR Redaynia Restored.ESP
 Services Restored.ESP
+ShrineOfAzura.ESP
 Silence.ESP
 Silent Assassins.ESP
 Clean Sixth House Smugglers.ESP
