@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
 
-# MORROWIND++ PART 2.x
+# MORROWIND#
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
@@ -37,22 +37,9 @@
 # Changelog
 
 <details>
-  <summary>v2.4.4 (June 12th)</summary>
+  <summary>v2.5 (June 26th)</summary>
 
-- Added Thrown Projectiles Revamped (Non-purist fixes).
-- Added Propylon Index Renamer (User interface).
-- Added Soulgem Renamer (User interface).
-- Added No Thank You (User interface).
-- Added I Lava Good Mesh Replacer (Environment visuals).
-- Added Weapon Sheathing Additions (Equipment visuals).
-- Added Actually Unlimited Skeleton Key (Gameplay QOL improvements).
-- Added Just Drop It (Gameplay QOL improvements).
-- Added Fortify MAX (Gameplay tweaks).
-- Added Stealth Improved (Gameplay tweaks).
-- Added Armor Rating (Game balance).
-- Added Dungeons Rest (Game balance).
-- Added Taunt Fail Penalty (Game balance).
-- Added Properly Balanced Creeper and Mudcrab (Game balance).
+SO many mods have been added that you may as well start a new game from scratch, honestly.
 </details>
 
 # Disclaimer
