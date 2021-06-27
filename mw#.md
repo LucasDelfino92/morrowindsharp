@@ -5,7 +5,7 @@
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
-- [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-part-2x-1)
+- [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-1)
   - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
   - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
