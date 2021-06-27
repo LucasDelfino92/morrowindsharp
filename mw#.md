@@ -1089,27 +1089,80 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-======================================Patches
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
 Patch for Purists
 Unofficial Morrowind Official Plugins Patched
-======================================Mesh fixes and optimization
+Correct UV Mudcrabs
 Correct UV Rocks
 Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Glowing Flames
-======================================MWSE fixes
 Expeditious Exit
 Loading Doors Lock Tune
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
-======================================Enhanced textures
-Intelligent Textures
-Facelift Meshes
-Facelift Textures
-======================================Enhanced user interface
+Thrown Projectiles Revamped
+Expansion Delay
+Early Transport to Mournhold
+Expansions Integrated (Sigourn Edit)
+Actual Big Head
+Ashlanders Herd
+Blighted Blight
+Blighted Mine Means Blighted Workers
+Blight Is Coming
+Creeping Blight
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
+Dwemer Soul Gems
+FMBP - Michael Michael Michael
+FMI - Alice's Package
+FMI - Athyn and Shardie
+FMI - Caius Big Package
+FMI - Current Councilors
+FMI - Hospitality Papers Expanded
+FMI - HulStop
+FMI - Misc
+FMI - Grave Dust
+FMI - NotAllDunmer
+FMI - Note from the Archcanon Fix
+FMI - Sane Ordinators
+FMI - Service Refusal and Contraband
+FMI - The Role They Were to Play
+FMI - Unique Lore Friendly Cave Rats
+Golden Saint Feminine Walk
+Guarskin Drum Replacer
+Have You Seen the Muffin Mod
+Hopesfire Glow
+Inscribed Maar Gan Rock
+King's Oath Fix
+LDM - Context Matters
+Lord's Mail and Morningstars
+Lore Friendly Iron Warhammer
+More Redoran Mater Helms
+NPC Faction Affiliation Corrector
+Old Blue Fin
+Plunder the Dungeon
+Redaynia Village OR Redaynia Restored
+Services Restored
+Sheep-no-More
+Silence
+Silent Assassins
+Sixth House Smugglers
+Telvanni Staff for the Telvanni Staff
+The Dream is the Door
+The Madstone
+The Publicans
+Trackless Grazeland
+True Giant Bull Netch
+True Scourge
+Visually Filled Soul Gems
+Wizards Staff for Wizards
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -1118,26 +1171,6 @@ Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Additions
 Widescreen Splash Replacer
-======================================Expansion implementation
-Expansion Delay
-Early Transport to Mournhold
-======================================MGE XE Shaders
-MGE XE Shader - Deband Fogaware v2
-MGE XE Shader - EdgeAA
-MGE XE Shader - Specialprocess
-======================================Non-purist fixes
-Adamantium Ore Fix
-Divayth Fyr Puzzle Fixed
-Dubdilla Location Fix
-FMI - #NotAllDunmer
-Imperial Steel Cuirass With Belt
-LDM - Context Matters
-Services Restored
-Sheep-no-More
-Silt Strider Animation Restored
-The Publicans
-Thrown Projectiles Revamped
-======================================User interface
 Better Questlist
 Book Worm
 Class Description Tooltip
@@ -1158,8 +1191,10 @@ Smart Journal
 Smart Map
 MWSEabotlib
 Tooltip
+Tamrielic Lore Tooltips
+Tooltips Complete
+Tamrielic Lore Exclusions
 UI Expansion
-======================================Hotkeys
 Book Pickup
 Hotkeys Extended
 Hot Quests
@@ -1169,68 +1204,95 @@ Right Click Menu Exit
 Security Enhanced
 Switchable Scriptures
 Torch Hotkey
-======================================Environment visuals
+Intelligent Textures
+Facelift Meshes
+Facelift Textures
+Ashmire Replacer
 Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
 Distant Mournhold
+Glowing Bitter Coast
+Project Atlas Glowing Bitter Coast Patch
 I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
+Nordic Chest Replacer
 Remiros' Groundcover
+Grass for Trackless Grazeland
 Vivec Palace Water Replacer
 Well Diversified
-======================================Equipment visuals
 Complete Armor Joints
+Imperial Steel Cuirass With Belt
+Improved Nordic Iron Helm Alternate
 Improved Thrown Weapon Projectiles
+No Orcish Clown Shoes
+One-handed Adamantium Axe
 Soldier Belts Fix
+Spear-Staff Fix
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
 Wolf Helmet Replacer
-======================================Creature and NPC visuals
 Buoyant Lord Vivec
-Golden Saint Feminine Walk
+Glowing Atronachs
 Incarnates Overhauled
+Luminous VFX Atronachs
 Pluginless Khajiit Head Pack - Whiskers Version
+Silt Strider Animation Restored
+Silt Strider Redone
 Yet Another Guard Diversity - Regular
-======================================VFX
-Flies
+Arukinns Better Books and Scrolls
+Melchior's Magnificent Manuscripts
+Switchable Scriptures Melchior's Magnificent Manuscripts Patch
+Simple Golden Gold
+Elemental Effects
+Enlightened Flames
+Fallen Ash
+Flies	
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
+Heat Haze
+Keg Drip
 Mistify
 Mist Retexture
 MWSE Blood Diversity
 No Shield Sparkle
+Perfectly Proficient Parasol Particles Performance Patch
+Pincushion
+R-Zero's Throbbing Meat - A Corprus Meat Replacer
+Shattered Stones - An Earthquake Mod
 Subtle Magic Glow
 Subtle Smoke
-The Dream is the Door
-Visually Filled Soul Gems
-======================================Weather and lighting
+Unto Dust
 Apel's Rain Replacer
+Here Comes The Sun... glare
 Let There Be Darkness - Lua Lighting Overhaul
 Light Decay
 The Midnight Oil
 Transporter Lights
 Weather Adjuster
 Weather Adjuster MW++ Preset
-======================================SFX
+Distant Thunder
+Haunted Barrows
 Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
 Shut the Fuck up Cliff Racers
-Silent Assassins
 Sound Spell Sound Effect
+Sounds of Souls
+Tunnel Cough
 Water Sounds
-======================================Dialogue
 Great Service
+Greetings for No Lore
 Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
-======================================Gameplay QOL improvements
-Actually Unlimited Skeleton Key
+Adamantium Ore Fix
+Always There Spell Breaker
 Bed Buddies
 Better Propylon Teleport Script
+Character Creation Name Generator
 Diligent Defenders
 Easy Escort
 GMST Menu
@@ -1240,11 +1302,14 @@ Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
+Thickle-Lo - The Succulent Hackle-Lo Mod
 Improved Temple Experience
 Just Drop It
 MWSE Hide the Skooma
+No Auto Vanity Camera
 Projectiles Reintegrated
-======================================Gameplay tweaks
+Quick Char (Timescale6 Edit)
+Randomised Chargen
 Fortify MAX
 Hold Your Breath
 Magicka Based Skill Progression
@@ -1253,14 +1318,13 @@ Putting Power In Willpower
 Stealth Improved
 Wading in Water MW
 Wings of Will
-======================================Game mechanics
 Area Effect Arrows Integrated
-Blighted Blight
 Brutal Backstabbing
+Drop Light
 Dynamic Timescale
 Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
-======================================Game balance
+Merlord's Starting Equipment
 Class-Conscious Character Progression
 Armor Rating
 Controlled Consumption
@@ -1268,18 +1332,21 @@ Dungeons Rest
 Economy Adjuster Adjustments
 HardTrade
 Limited Leaping
+Limited Resting Waiting and Regen
 Nimble Armor
 No Disease Labels
-No Rest Without Beds
 Ownership Overhaul
 Realistic Movement Speeds
 Sneaky Strike
+Soulless Creatures
 Taunt Fail Penalty
 Morrowind Anti-Cheese
 Properly Balanced Creeper and Mudcrab
 BTB's Game Improvements - Necro Edit
 BTBGI Necro Edit Add-on
 Balanced Passive Races and Birthsigns
+Helm of Tohan BTBGI Patch
+Siege at Firemoth Weapon Gimp
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -1300,13 +1367,17 @@ Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 bcsounds.ESP
+EBQ_Artifact.ESP
 master_index.ESP
+Siege at Firemoth.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Better_Typography_Bookarts_Fix.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
+Expansions Integrated (Sigourn Edit).ESP
+ActualBigHead.ESP
+Better_Typography_Bookarts_Fix.ESP
 Adamantium Ore Fix.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
