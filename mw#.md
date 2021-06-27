@@ -936,6 +936,9 @@ An alternative version of the official plugin Area Effect Arrows that distribute
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
 
+[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694?tab=files)  
+Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
+
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 
@@ -944,6 +947,9 @@ Adds in lock-bashing from Daggerfall.
 
 [**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
+
+[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
+Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 
 ## Game balance
 
