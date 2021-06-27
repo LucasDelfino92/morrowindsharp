@@ -222,9 +222,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
 
-[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
-Updates Severa Magia's hideout to look and feel more like a Dark Brotherhood sanctuary. 
-
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
 Removes the sheep sounds from Morrowind.
 
