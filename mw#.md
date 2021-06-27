@@ -1376,13 +1376,19 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
 
+> The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
+
 ## Cleaning our plugins
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
+  - ActualBigHead.ESP
   - Divayth Fyr Puzzle Fixed.ESP
+  - GiantNetch.ESP
+  - Nordic Chest Replacer.ESP
+  - Always there Spell Breaker.ESP
 
 ## Conflict resolution
 
