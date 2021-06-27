@@ -5,9 +5,9 @@
 
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#disclaimer)
-- [Morrowind++ Part 2.x](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x-1)
+- [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#morrowind-part-2x-1)
   - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#patches)
-  - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#non-purist-fixes)
+  - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#uniformity)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#hotkeys)
   - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw2.md#environment-visuals)
@@ -1377,52 +1377,101 @@ Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Expansions Integrated (Sigourn Edit).ESP
 ActualBigHead.ESP
-Better_Typography_Bookarts_Fix.ESP
-Adamantium Ore Fix.ESP
+Ashlanders Herd.ESP
+Clean Blighted_Kwama_Workers.ESP
+Blight Is Coming.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
+Dwemer Weapons and Stalhrim Armor.ESP
+dwemer_soulgems.esp
+FMI - Alice's Package.ESP
+FMI_Athyn_And_Shardie.ESP
+FMI_CaiusBigPackage.ESP
+FMI_Current_Councilors.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_HulStop 1.6.ESP
+FMI_Misc.ESP
+FMI_GraveDust.ESP
 FMI_#NotAllDunmer.ESP
-LDM - Context Matters.ESP
+Note from the Archcanon Fix.ESP
+FMI_SaneOrdinators.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Unique_CaveRats.ESP
+guarskin_drum_replacer.ESP
+Have You Seen the Muffin Mod.ESP
+Hopesfire Torch (+ brighter trueflame).ESP
+Inscribed Maar Gan Rock.ESP
+KingsOathFix.ESP
+LDM - Context Matters 1.5.ESP
+Lord's Mail and Morningstars.ESP
+More Redoran Master Helms.ESP
+NPC Faction Affiliation Corrector (Maximalistic).ESP
+Old Blue Fin.ESP
+Clean Plunder the Dungeon.ESP
+Redaynia Village.ESP OR Redaynia Restored.ESP
 Services Restored.ESP
-Silt Strider Animation Restored.ESP
+Silence.ESP
+Silent Assassins.ESP
+Clean Sixth House Smugglers.ESP
+Telvanni Staff for the Telvanni Staff.ESP
+The Dream is the Door.ESP
+The Madstone.ESP
 The Publicans.ESP
+Trackless Grazeland.ESP
+GiantNetch.ESP
+TrueScourge.ESP
+Clean_wizardsstaffforwizards.ESP
+Better_Typography_Bookarts_Fix.ESP
+No Thank You.ESP
 Waterfalls Tweaks.ESP
 Mournhold LOD.ESP
 NearVanillaRoadSigns.ESP
+Nordic Chest Replacer.ESP
 Well Diversified.ESP
 Complete Armor Joints.ESP
+Adamantium Axe 1H.ESP
 Buoyant Lord Vivec.ESP
+Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
+Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
 Flies.ESP
 GITD_WL_RR_Interiors.ESP
-The Dream is the Door.ESP
+Keg Drip.ESP
+Shattered Stones - An Earthquake Mod.ESP
 TheMidnightOil.ESP
+Distant Thunder (No Scripts).ESP
+Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
-Silent Assassins.ESP
 SoundSpellSoundEffect.ESP
+Tunnel Cough.ESP
 Great Service.ESP
+Greetings for No Lore.ESP
 Idle Talk.ESP
 Its a deal.ESP
 outfit greetings tweaked.ESP
+Adamantium Ore Fix.ESP
+Always there Spell Breaker.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
-No Thank You.ESP
 Projectiles Reintegrated.ESP
+Quick Char (Necro Edit).ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
 Properly balanced Creeper and Mudcrab.ESP
 BTB's Game Improvements (Necro Edit - No RAB).ESP
+SoldierBeltsFix.ESP
 BTBGI Apparatus Tweaks.ESP
 BTBGI Glass Tweaks.ESP
 BTBGI Creature Tweaks.ESP
 BTBGI Daedric Tweaks.ESP
 BTBGI Settings Tweaks.ESP
-SoldierBeltsFix.ESP
 Balanced Passive Races and Birthsigns.ESP
+Helm of Tohan BTBGI Patch.ESP
+Siege at Firemoth Weapon Gimp.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
@@ -1430,11 +1479,11 @@ Rem_AC.ESP
 Rem_AI.ESP
 Rem_AL.ESP
 Rem_BC.ESP
-Rem_GL.ESP
+Rem_GL_Trackless_GL.ESP
 Rem_Solstheim.ESP
 Rem_WG.ESP
 ```
-The plugins from **Remiros' Groundcover** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
+The plugins from **Remiros' Groundcover** and **Grass for Trackless Grazeland** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
 </details>
 
 ## Synchronizing mod masters
