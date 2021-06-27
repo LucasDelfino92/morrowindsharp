@@ -793,14 +793,14 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## Dialogue
 
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
 Replaces the three standard No Lore greetings with over sixty new ones.
-
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968?tab=files)  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
@@ -1287,9 +1287,9 @@ Sound Spell Sound Effect
 Sounds of Souls
 Tunnel Cough
 Water Sounds
+Idle Talk
 Great Service
 Greetings for No Lore
-Idle Talk
 Its a Deal
 Outfit Greetings Tweaked
 Adamantium Ore Fix
@@ -1450,9 +1450,9 @@ RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
 Tunnel Cough.ESP
+Idle Talk.ESP
 Great Service.ESP
 Greetings for No Lore.ESP
-Idle Talk.ESP
 Its a deal.ESP
 outfit greetings tweaked.ESP
 Adamantium Ore Fix.ESP
