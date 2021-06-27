@@ -1005,6 +1005,9 @@ event.register("initialized", initialized)
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 
+[**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191?tab=files)  
+Limits conditions under which player can rest, wait and regenerate health.
+
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251?tab=files)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 
@@ -1024,6 +1027,9 @@ Modifies movement speeds when strafing or backpedaling so that they are more rea
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
 
+[**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215?tab=files)  
+Prevents souls of summoned creatures from being trapped.
+
 [**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168?tab=files)  
 Failing a Taunt will now negate previous successful taunts, reducing that character's will to fight.
 
@@ -1038,12 +1044,16 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).esp**
 - Also install [**BTBGI Necro Edit Add-on**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing), which includes custom tweaks to certain aspects of the mod.
 
-> Note that **BTBGI Necro Edit Add-on**'s Readme contains a number of edits that have to be done to the main plugin, using TESAME.
-
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 
 > Note that, unless you install **Nimble Armor**, there's a good chance you will come across NPCs not donning their armor in favor of their higher Unarmored skill when using this mod in tandem with **BTB's Game Improvements**.
+
+[**Helm of Tohan BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/47152?tab=files)  
+Edits the stats of the unique Helm of Tohan from the official plugin to be in line with BTB's Game Improvements - Necro Edit.
+
+[**Siege at Firemoth Weapon Gimp**](https://www.nexusmods.com/morrowind/mods/47730?tab=files)  
+Replaces two high-end weapons held by the followers in the official plugin Siege at Firemoth with less powerful weapons.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036?tab=files)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
