@@ -170,6 +170,9 @@ Gives the base golden saint the feminine walk animation instead of the default m
 - Create a **r** folder and move **XGolden Saint.kf** and **XGolden Saint.nif** inside.
 - Create a **meshes** folder and move the **r** folder inside.
 
+[**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?tab=files)
+Gives the guarskin drum a unique model.
+
 [**Have You Seen The Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116?tab=files)  
 Gives the unique Muffin item an unique muffin mesh.
 
@@ -433,6 +436,9 @@ Makes road signs legible. Uses low resolution vanilla-friendly textures.
   - [X] 01 Vvardenfell only
   - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
 
+[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
+Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
+
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733?tab=files)  
 Adds groundcover to almost all regions.
 - Install the **Remiros' Groundcover** main file.
@@ -557,6 +563,19 @@ Replaces the Silt Strider model with one inspired by vanilla fan art, which give
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
 > Note that guards added by mods will require a patch for unique guards.
+
+## Item visuals
+
+[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
+Replaces all the bookcovers, bookpages and scrolls.
+
+> Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
+
+[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?tab=files)  
+Model replacer for book and scroll models.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Book Jackets Patch
 
 ## VFX
 
