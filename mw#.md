@@ -158,6 +158,9 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 ## Hotkeys
 
+[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?tab=files)  
+Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
+
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625?tab=files)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 
@@ -1159,6 +1162,7 @@ Tamrielic Lore Tooltips
 Tooltips Complete
 Tamrielic Lore Exclusions
 UI Expansion
+Better Buoyancy
 Book Pickup
 Hotkeys Extended
 Hot Quests
