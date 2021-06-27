@@ -809,12 +809,18 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
+[**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?tab=files)  
+Allows the player to find the Spell Breaker unique shield without having to start the quest to obtain it.
+
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
 - Hide **Better Propylon Teleport Warp.ESP**
+
+[**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files)  
+UI overhaul allowing the player to generate a random name for their character at the start of the game.
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717?tab=files)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -846,10 +852,10 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - [ ] 05 Vurt's Chokeweed & Roobrush
     - [ ] 06 Less Epic Plants
     - [ ] 07 Slightly Less Epic Plants
-    - [ ] 08 Glowing Bitter Coast
+    - [X] 08 Glowing Bitter Coast
     - [ ] 09 Glowing Bitter Coast Smoothed
-    - [X] 10 Atlas - Vanilla BC Mushrooms
-    - [ ] 11 Atlas - Glowing Bitter Coast Patch
+    - [ ] 10 Atlas - Vanilla BC Mushrooms
+    - [X] 11 Atlas - Glowing Bitter Coast Patch
     - [ ] 12 Atlas - Smoothed BC Mushrooms
     - [ ] 13 Atlas - Smoothed Glowmap Patch
     - [ ] 14 Remiros shelf fungus
@@ -876,8 +882,18 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+[**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933?tab=files)  
+Disables automatic switching to vanity camera due to inactivity. Does not prevent manually enabling vanity camera.
+
 [**Projectiles Reintegrated**](https://drive.google.com/file/d/1r2lJtaK3jFsAYRer-kM_XkazGr23abqQ/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
+
+[**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706?tab=files)  
+Gives you the option of speeding through the character generation process, and slows down the flow of time in-game.
+- Hide *Quick Char(Necro Timescale6 Edit).ESP*.
+
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915?tab=files)  
+Adds buttons to randomise your race, appearance, class, and birthsign.
 
 ## Gameplay tweaks
 
