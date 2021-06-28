@@ -42,6 +42,12 @@
 # Changelog
 
 <details>
+  <summary>v2.5.1 Hotfix (June 27th)</summary>
+
+- Moved Comrade Raven's Book Arts Replacer and Pete's Scroll 2018 ...in 2020 from User interface to Visuals, not only because it makes more sense, but also because it fixes an oversight where Intelligent Textures would overwrite the later mod's textures.
+</details>
+
+<details>
   <summary>v2.5.1 (June 27th)</summary>
 
 - Added Corsair's Steam Centurions (Uniformity).
@@ -171,20 +177,6 @@ High resolution replacer for the Daedric font used in scrolls.
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
 - Install the **Better Dialogue Font** main file.
-
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
-Replaces most of original book arts with hi-res images redrawn from scratch.
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
-
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
-- Check the following options in the BAIN installer:
-  - [ ] 01 Journal and Scroll - 1K
-  - [X] 01 Journal and Scroll - 2K
-  - [ ] 01 Journal and Scroll - 4K
-  - [ ] 02 Daedric Alphabet Scroll
 
 [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
@@ -731,6 +723,11 @@ Replaces all the bookcovers, bookpages and scrolls.
 
 > Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
 
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
+Replaces most of original book arts with hi-res images redrawn from scratch.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+
 [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?tab=files)  
 Model replacer for book and scroll models.
 - Check the following options in the BAIN installer:
@@ -746,6 +743,15 @@ Model replacer for book and scroll models.
     - [ ] 04 MD books + RR pages & scrolls
     - [ ] 05 STA Guide-to Replacer
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+- Install the **Pete's Journal and Scroll** optional file.
+- Check the following options in the BAIN installer:
+  - [ ] 01 Journal and Scroll - 1K
+  - [X] 01 Journal and Scroll - 2K
+  - [ ] 01 Journal and Scroll - 4K
+  - [ ] 02 Daedric Alphabet Scroll
 
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
@@ -1281,8 +1287,6 @@ Facelift Meshes
 Facelift Textures
 Better Daedric Font
 Better Dialogue Font
-Comrade Raven's Book Arts Replacer
-Pete's Scroll 2018 ...in 2020
 Logo Intro Video Reworked
 Title Screen Reworked
 Widescreen Splash Additions
@@ -1419,7 +1423,9 @@ Silt Strider Animation Restored
 Silt Strider Redone
 Yet Another Guard Diversity - Regular
 Arukinns Better Books and Scrolls
+Comrade Raven's Book Arts Replacer
 Melchior's Magnificent Manuscripts
+Pete's Scroll 2018 ...in 2020
 Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 Simple Golden Gold
 Elemental Effects
@@ -1549,7 +1555,6 @@ Siege at Firemoth.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Better_Typography_Bookarts_Fix.ESP
 No Thank You.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
@@ -1615,6 +1620,7 @@ Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
+Better_Typography_Bookarts_Fix.ESP
 Flies.ESP
 GITD_WL_RR_Interiors.ESP
 Keg Drip.ESP
