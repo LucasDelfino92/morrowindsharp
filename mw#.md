@@ -42,6 +42,14 @@
 # Changelog
 
 <details>
+  <summary>v2.5.1 (June 27th)</summary>
+
+- Added Corsair's Steam Centurions (Uniformity).
+- Added Corsair's Valuable Scrap Metal (Uniformity).
+- Added Severa Magia DB Fix (Uniformity).
+</details>
+
+<details>
   <summary>v2.5 (June 26th)</summary>
 
 SO many mods have been added that you may as well start a new game from scratch, honestly.
@@ -333,6 +341,14 @@ If a mine is blighted, the Kwama Worker standing outside of it will now be bligh
 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
 As per in-game dialogue, Corprus Beasts will now have a chance to spawn during blight storms.
 
+[**Corsair's Steam Centurions**](https://drive.google.com/file/d/1cPdeU3_3Rc_N1XdigDUmHQSVdNvZ_ypx/view?usp=sharing)  
+Buffs Steam Centurions and gives them a weakness to frost, based off the in-game book *Ruins of Kemel-Ze*.
+
+[**Corsair's Valuable Scrap Metal**](https://drive.google.com/file/d/1qG_cV3mazni1Kaq1669yHG47hm0t93aG/view?usp=sharing)  
+Makes scrap metal far more valuable, based off in-game information.
+
+> One of the mods we will be installing later, Morrowind Anti-Cheese, balances this mod by making Scrap Metal rarer to come across.
+
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 - Install the **Creeping Blight - MWSE Version** main file.
@@ -453,6 +469,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - NPC **hecerinde**
 
 > This omits the restoration of Hecerinde's Secret Master tools, for consistency with the rest of the Secret Master tools unavailable in the game.
+
+[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
+Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
 Removes the sheep sounds from Morrowind.
@@ -1311,6 +1330,8 @@ Ashlanders Herd
 Blighted Blight
 Blighted Mine Means Blighted Workers
 Blight Is Coming
+Corsair's Steam Centurions
+Corsair's Valuable Scrap Metal
 Creeping Blight
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
@@ -1346,6 +1367,7 @@ Old Blue Fin
 Plunder the Dungeon
 Redaynia Village OR Redaynia Restored
 Services Restored
+Severa Magia DB Fix
 Sheep-no-More
 Shrine of Azura
 Silence
@@ -1536,6 +1558,7 @@ ActualBigHead.ESP
 Ashlanders Herd.ESP
 Clean Blighted_Kwama_Workers.ESP
 Blight Is Coming.ESP
+Corsair_SteamCenturion.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 Dwemer Weapons and Stalhrim Armor.ESP
@@ -1566,6 +1589,7 @@ Old Blue Fin.ESP
 Clean Plunder the Dungeon.ESP
 Redaynia Village.ESP OR Redaynia Restored.ESP
 Services Restored.ESP
+Clean_Severa Magia Fix.ESP
 ShrineOfAzura.ESP
 Silence.ESP
 Silent Assassins.ESP
@@ -1619,6 +1643,7 @@ EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
 Properly balanced Creeper and Mudcrab.ESP
 BTB's Game Improvements (Necro Edit - No RAB).ESP
+Corsair_ScrapMetal.ESP
 SoldierBeltsFix.ESP
 BTBGI Apparatus Tweaks.ESP
 BTBGI Glass Tweaks.ESP
@@ -1674,6 +1699,8 @@ Delete the following records from the following plugins:
 
 - **FMI_Misc.ESP**, for compatibility with **LDM - Context Matters**:
   - All Topic and Info/Responce records.
+- **Severa Magia DB Fix**, for compatibility with **Expansions Integrated**:
+  - NPC severa magia
 - **Morrowind Anti-Cheese.ESP**, for compatibility with **Properly Balanced Creeper and Mudcrab**:
   - Creature mudcrab_unique
   - Creature scamp_creeper
@@ -1834,6 +1861,7 @@ C | Equips light sources | Torch Hotkey
 I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
 
 - Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860?), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
+- Corsair83, for [**Corsair's MW Inconsistencies**](https://www.nexusmods.com/morrowind/mods/45245/?), which was edited and split off into two separate mods, editing Steam Centurions and Scrap Metal respectively. 
 - R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765?) and [**Flies**](https://www.nexusmods.com/morrowind/mods/43481?), which were edited to fix issues with the mods.
 - ProfArmitage, for providing the fix to **Flies'** underwater flies bug.
 - NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624?), which was edited to include ingredient consumption restrictions.
