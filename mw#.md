@@ -42,6 +42,13 @@
 # Changelog
 
 <details>
+  <summary>v2.5.1.1 (June 28th)</summary>
+
+- Removed grass plugins from the load order as it could confuse users into thinking these plugins should be enabled.
+- Added multipatch.ESP and Merged Objects.ESP to the load order, with a notice explaining they will be generated shortly after.
+</details>
+
+<details>
   <summary>v2.5.1 Hotfix (June 27th)</summary>
 
 - Moved Comrade Raven's Book Arts Replacer and Pete's Scroll 2018 ...in 2020 from User interface to Visuals, not only because it makes more sense, but also because it fixes an oversight where Intelligent Textures would overwrite the later mod's textures.
@@ -1662,15 +1669,13 @@ Siege at Firemoth Weapon Gimp.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
-Rem_AC.ESP
-Rem_AI.ESP
-Rem_AL.ESP
-Rem_BC.ESP
-Rem_GL_Trackless_GL.ESP
-Rem_Solstheim.ESP
-Rem_WG.ESP
+multipatch.ESP
+Merged Objects.ESP
 ```
-The plugins from **Remiros' Groundcover** and **Grass for Trackless Grazeland** should only be enabled when generating Distant Land in MGE XE, and disabled when playing the game.
+
+> We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
+
+> You will notice the plugins from **Remiros' Groundcover** and **Grass for Trackless Grazeland** are absent from the finished load order. This is because these plugins shouldn't be enabled when playing the game. Rather, they should only be enabled when generating Distant Land in MGE XE.
 </details>
 
 ## Synchronizing mod masters
