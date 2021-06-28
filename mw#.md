@@ -104,7 +104,7 @@ The best unofficial fan patch for Morrowind.
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?tab=files)  
 Patch compilation for all official plugins.
 - Install the **UMOPP 3.1.0** main file.
-- Hide all plugins except *bcsounds.ESP*, *EBQ_Artifact.ESP*, *master_index.ESP*, and *Siege at Firemoth.ESP*.
+- Hide all plugins except **bcsounds.ESP**, **EBQ_Artifact.ESP**, **master_index.ESP**, and **Siege at Firemoth.ESP**.
 
 ## Mesh fixes and optimization
 
@@ -417,7 +417,7 @@ Gives the base golden saint the feminine walk animation instead of the default m
 - Create a **r** folder and move **XGolden Saint.kf** and **XGolden Saint.nif** inside.
 - Create a **meshes** folder and move the **r** folder inside.
 
-[**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?tab=files)
+[**Guarskin Drum Replacer**](https://www.nexusmods.com/morrowind/mods/37539?tab=files)  
 Gives the guarskin drum a unique model.
 
 [**Have You Seen The Muffin Mod**](https://www.nexusmods.com/morrowind/mods/46116?tab=files)  
@@ -425,7 +425,7 @@ Gives the unique Muffin item an unique muffin mesh.
 
 [**Hopesfire Glow**](https://www.nexusmods.com/morrowind/mods/45855?tab=files)  
 Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
-- Hide *Hopesfire Torch.ESP*.
+- Hide **Hopesfire Torch.ESP**.
 
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
@@ -447,7 +447,7 @@ The game implies that many Redoran councilors have a Redoran Master Helm, but in
 
 [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743?tab=files)
 Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
-- Hide/disable *NPC Faction Affiliation Corrector (Minimalistic).ESP*.
+- Hide **NPC Faction Affiliation Corrector (Minimalistic).ESP**.
 
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503?tab=files)  
 The Old Blue Fin unique creature is now larger, has a blue fin, and no eyes (as many old fishes lack).
@@ -513,7 +513,7 @@ Makes the Giant Bull Netch larger.
 
 [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294?tab=files)  
 Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit.
-- Hide/disable *TrueScourge_zerosouls.ESP*.
+- Hide **TrueScourge_zerosouls.ESP**.
 
 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
 Makes in-world soul gems that are filled appear as enchanted items.
@@ -613,8 +613,8 @@ Adds groundcover to almost all regions.
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
 - Install the **Remiros Groundcover** main file.
-- Hide *Rem_GL.esp.*
-- Uncheck *Rem_GL_Trackless_GL.esp*.
+- Hide **Rem_GL.esp**.
+- Uncheck **Rem_GL_Trackless_GL.esp**.
 
 > Using Trackless Grazeland, we no longer want Remiros' original grass plugin. Instead, we will be using the one from this mod. Make sure you do not remove this plugin from your load order, however. Simply disable it, as we will enable it on distant land generation only.
 
@@ -998,7 +998,7 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Atte
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
-- Hide **Better Propylon Teleport Warp.ESP**
+- Hide **Better Propylon Teleport Warp.ESP**.
 
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
@@ -1071,7 +1071,7 @@ Increases the availability of projectiles purchasable from vendors.
 
 [**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706?tab=files)  
 Gives you the option of speeding through the character generation process, and slows down the flow of time in-game.
-- Hide *Quick Char(Necro Timescale6 Edit).ESP*.
+- Hide **Quick Char(Necro Timescale6 Edit).ESP**.
 
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915?tab=files)  
 Adds buttons to randomise your race, appearance, class, and birthsign.
@@ -1112,7 +1112,7 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except **Area Effect Projectiles Integrated.ESP**
+- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
@@ -1152,7 +1152,7 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130?tab=files)  
 Increases the penalties for crime.
-- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**
+- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
 
 [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368?tab=files)  
 Eliminates trade exploits by overhauling the bartering mechanics.
@@ -1200,7 +1200,7 @@ Prevents the player from resting unless they activate a bed.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- Hide **Ownership Overhaul.ESP**
+- Hide **Ownership Overhaul.ESP**.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -1222,7 +1222,7 @@ Gives proper barter AI to Mudcrab and Creeper, so that they will not buy items a
 
 [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129?tab=files)  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions. 
-- Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).esp**
+- Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
 - Also install [**BTBGI Necro Edit Add-on**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing), which includes custom tweaks to certain aspects of the mod.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
