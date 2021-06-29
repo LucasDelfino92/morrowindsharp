@@ -623,7 +623,9 @@ Adds groundcover to almost all regions.
 - Created a folder named **Grass**, and move the seven plugins inside.
 - If you installed **Trackless Grazeland** earlier, delete **Rem_GL.esp**.
 
-> This step is necessary to avoid problems many users seem to be having following instructions with grass mods.
+> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
@@ -631,7 +633,9 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 - Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
 - Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
 
-> This step is necessary to avoid problems many users seem to be having following instructions with grass mods.
+> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the water in the Palace of Vivec's canals.
