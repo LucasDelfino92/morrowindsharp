@@ -1786,6 +1786,8 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
+> Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland.
+
 ## Closing comments
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
