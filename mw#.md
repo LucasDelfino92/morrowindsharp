@@ -42,6 +42,16 @@
 # Changelog
 
 <details>
+  <summary>v2.5.1.2 (June 29th)</summary>
+
+- Reworked grass instructions for Distant Land generation. This should (hopefully) minimize errors in the future.
+- Added FMI - Belladonna - Unique and Deadly (Uniformity).
+- Added 3D Vines Vanilla Mushroom Trees (Visuals).
+- Removed Perfectly Proficient Parasol Particles Performance Patch (Visuals). This mod is already included in 3D Vines Vanilla Mushroom Trees.
+- Added Accidental Theft Protection (Gameplay QOL).
+</details>
+
+<details>
   <summary>v2.5.1.1 (June 28th)</summary>
 
 - Removed grass plugins from the load order as it could confuse users into thinking these plugins should be enabled.
@@ -377,6 +387,9 @@ Addresses a number of inconsistencies in the game, especifically:
 [**FMI - Athyn and Shardie**](https://www.nexusmods.com/morrowind/mods/47322?tab=files)  
 Makes Athyn Sarethi and Shardie's appearances more closely match what is inferred from the in-game book "The Hope of the Redoran".
 
+[**FMI - Belladonna - Unique and Deadly**](https://www.nexusmods.com/morrowind/mods/47046?tab=files)  
+Ripened Belladonna now looks black as midnight on a moonless night.
+
 [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580?tab=files)  
 Makes the Package for Caius Cosades an actual package instead of a note.
 
@@ -606,17 +619,19 @@ Adds groundcover to almost all regions.
   - [ ] 04 TR Preview Plugins
   - [ ] 05a Legend of Chemua
   - [ ] 05b Legend of Chemua Moved
-- Uncheck all Rem_ .esps in the load order.
+- Right-click your installed Remiros' Groundcover file in the left pane, and click **Open in Explorer**.
+- Created a folder named **Grass**, and move the seven plugins inside.
+- If you installed **Trackless Grazeland** earlier, delete **Rem_GL.esp**.
 
-> This is an incredibly problematic mod for new users to install in spite of how clear the given instructions are. If you ever encounter issues with grass, read, *read*, and *re-read* the instructions in the mod's page.
+> This step is necessary to avoid problems many users seem to be having following instructions with grass mods.
 
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
 - Install the **Remiros Groundcover** main file.
-- Hide **Rem_GL.esp**.
-- Uncheck **Rem_GL_Trackless_GL.esp**.
+- Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
+- Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
 
-> Using Trackless Grazeland, we no longer want Remiros' original grass plugin. Instead, we will be using the one from this mod. Make sure you do not remove this plugin from your load order, however. Simply disable it, as we will enable it on distant land generation only.
+> This step is necessary to avoid problems many users seem to be having following instructions with grass mods.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the water in the Palace of Vivec's canals.
@@ -766,6 +781,9 @@ Turns the vanilla green coins into golden coins. A fortunate side effect is that
 
 ## VFX
 
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
+Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
+
 [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files)  
 Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
 
@@ -848,14 +866,6 @@ Provides a variety of new configurable blood types for the creatures of Morrowin
 
 [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?tab=files)  
 Removes the annoying sparkle effects from Shield.
-
-[**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
-Adds falling spores particle effects to the iconic emperor parasol mushrooms. This version patches Melchior Dahrk's meshes with Project Atlas' performance meshes.
-- Check the following option in the BAIN installer:
-  - [X] 00 Project Atlas
-  - [ ] 00 SWG's Replacer
-  - [ ] 00 Telvanni Bump Maps Replacer
-  - [ ] 00 Vanilla - Smoothed
 
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
 Adds visible projectiles on anything they hit.
@@ -986,6 +996,9 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
 ## Gameplay QOL improvements
+
+[**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264?tab=files)  
+Prevents you from stealing items or opening owned containers unless you are sneaking. Items/containers can be blacklisted in the MCM.
 
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
@@ -1351,6 +1364,7 @@ Dwemer Soul Gems
 FMBP - Michael Michael Michael
 FMI - Alice's Package
 FMI - Athyn and Shardie
+FMI - Belladonna - Unique Rippened Belladona
 FMI - Caius Big Package
 FMI - Current Councilors
 FMI - Hospitality Papers Expanded
@@ -1435,6 +1449,7 @@ Melchior's Magnificent Manuscripts
 Pete's Scroll 2018 ...in 2020
 Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 Simple Golden Gold
+3D Vines Vanilla Mushroom Trees
 Elemental Effects
 Enlightened Flames
 Fallen Ash
@@ -1447,7 +1462,6 @@ Mistify
 Mist Retexture
 MWSE Blood Diversity
 No Shield Sparkle
-Perfectly Proficient Parasol Particles Performance Patch
 Pincushion
 R-Zero's Throbbing Meat - A Corprus Meat Replacer
 Shattered Stones - An Earthquake Mod
@@ -1477,6 +1491,7 @@ Great Service
 Greetings for No Lore
 Its a Deal
 Outfit Greetings Tweaked
+Accidental Theft Protection
 Adamantium Ore Fix
 Always There Spell Breaker
 Bed Buddies
@@ -1577,6 +1592,7 @@ Dwemer Weapons and Stalhrim Armor.ESP
 dwemer_soulgems.esp
 FMI - Alice's Package.ESP
 FMI_Athyn_And_Shardie.ESP
+Unique_Rippened_Belladonna.ESP
 FMI_CaiusBigPackage.ESP
 FMI_Current_Councilors.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
@@ -1674,8 +1690,6 @@ Merged Objects.ESP
 ```
 
 > We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
-
-> You will notice the plugins from **Remiros' Groundcover** and **Grass for Trackless Grazeland** are absent from the finished load order. This is because these plugins shouldn't be enabled when playing the game. Rather, they should only be enabled when generating Distant Land in MGE XE.
 </details>
 
 ## Synchronizing mod masters
@@ -1757,7 +1771,18 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
-- Click **Select all**, and click **Continue**.
+- Click **Use current load order**. This will select your active plugins for distant land generation.
+- Click **Plugin directories...**
+- Click **Add**. Select your **Morrowind\Data Files\Grass** folder.
+- Seven grass plugins should have appeared at the bottom of your load order. Check all of them.
+  - [X] Rem_AC.esp
+  - [X] Rem_AI.esp
+  - [X] Rem_AL.esp
+  - [X] Rem_BC.esp
+  - [X] Rem_GL_Trackless_GL.esp
+  - [X] Rem_Solstheim.esp
+  - [X] Rem_WG.esp
+- Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
