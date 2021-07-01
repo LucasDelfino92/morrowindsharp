@@ -42,6 +42,18 @@
 # Changelog
 
 <details>
+  <summary>v2.5.1.3 (July 1st)</summary>
+
+- Updated Weather Adjuster Preset (Visuals). The scattering has been adjusted to work better with the specialprocess shader and MGE XE 0.13.0+. [**You can still get the older version from here.**](https://drive.google.com/file/d/1mL3MSOTTQQpS3pSvNyTNrPB3t-lPe2ZR/view?usp=sharing)
+- Added Eclipse of the Crescent Blade (Uniformity).
+- Added Dark Female Imperial Steel Cuirass (Visuals).
+- Added Store Entrance Chimes (SFX).
+- Added Vegtabills Threads of the Websppiner (Gameplay QOL).
+- Added Morag Tong Writ Fix (Gameplay tweaks).
+- Added Reactive Resistance (Game balance).
+</details>
+
+<details>
   <summary>v2.5.1.2 (June 29th)</summary>
 
 - Reworked grass instructions for Distant Land generation. This should (hopefully) minimize errors in the future.
@@ -374,6 +386,10 @@ Renames Dwarven weapons and Ice armor to Dwemer and Stalhrim respectively.
 [**Dwemer Soul Gems**](https://www.nexusmods.com/morrowind/mods/42472?tab=files)  
 Dwemer Centurions drop soul gems like they do in Skyrim.
 
+[**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194?tab=files)  
+Because the Daedric Crescent is supposed to be illegal in the Empire, guards of the Imperial Legion will attack you if they see you carrying it.
+- Only install the **Eclipse of the Crescent Blade - With SpaceDevo's Dialogue** main file.
+
 [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598?tab=files)  
 Fixes Michael Mack's misreadings of the word "Dunmer", pronounced in-game as "Dumb-ner".
 
@@ -651,6 +667,9 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
+[**Dark Female Imperial Steel Cuirass**](https://drive.google.com/file/d/1Khfl_iHOhQJZ2JSXS6Q7OVp_LhzTmjHJ/view?usp=sharing)  
+Texture replacer that turns the pink Imperial Steel Cuirass into a dark shade of brown/black, to blend in better with the Imperial Steel armor set.
 
 [**Imperial Steel Cuirass With Belt**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Mesh replacer that adds the missing belt to the male Imperial Steel Cuirass.
@@ -940,7 +959,7 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-- Also install [**Weather Adjuster Morrowind++ Preset**](https://drive.google.com/file/d/1mL3MSOTTQQpS3pSvNyTNrPB3t-lPe2ZR/view?usp=sharing). Personal preset for darker nights and less horrible fog.
+- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1sncgztkRJoS0zJNBFwO-pCC7ve0cfVdf/view?usp=sharing). Personal preset for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
 ## SFX
@@ -975,6 +994,9 @@ With this plugin the player can hear an actual noise when he's under the effects
 
 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?tab=files)  
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+
+[**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586?tab=files)  
+Adds entrance bell chimes with sound effects to Imperial town tradehouses and taverns.
 
 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?tab=files)  
 Makes all NPCs of Miner class periodically cough.
@@ -1080,6 +1102,9 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+[**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788?tab=files)  
+Overhauls Morag Tong writs by adding plenty of quality of life features, and also adds punishments and rewards for completing your missions, depending on whether you were caught.
+
 [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933?tab=files)  
 Disables automatic switching to vanity camera due to inactivity. Does not prevent manually enabling vanity camera.
 
@@ -1092,6 +1117,10 @@ Gives you the option of speeding through the character generation process, and s
 
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915?tab=files)  
 Adds buttons to randomise your race, appearance, class, and birthsign.
+
+[**Vegtabills Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893?tab=files)  
+Aims to give players what they need to figure out the locations of the Sanguine items without going on random killing sprees or exiting the game to search wikis and forums for answers. Existing topics have been more fleshed-out and completely new topics have been added.
+- Hide all plugins minus **veg-TotW-books.ESP**.
 
 ## Gameplay tweaks
 
@@ -1218,6 +1247,9 @@ Prevents the player from resting unless they activate a bed.
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - Hide **Ownership Overhaul.ESP**.
+
+[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files)  
+Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -1365,6 +1397,7 @@ Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
 Dwemer Soul Gems
+Eclipse of the Crescent Blade
 FMBP - Michael Michael Michael
 FMI - Alice's Package
 FMI - Athyn and Shardie
@@ -1427,6 +1460,7 @@ Grass for Trackless Grazeland
 Vivec Palace Water Replacer
 Well Diversified
 Complete Armor Joints
+Dark Female Imperial Steel Cuirass
 Imperial Steel Cuirass With Belt
 Improved Nordic Iron Helm Alternate
 Improved Thrown Weapon Projectiles
@@ -1479,7 +1513,7 @@ Light Decay
 The Midnight Oil
 Transporter Lights
 Weather Adjuster
-Weather Adjuster MW++ Preset
+Weather Adjuster Preset
 Distant Thunder
 Haunted Barrows
 Heartthrum
@@ -1488,6 +1522,7 @@ Outdoor Banners With Sound
 Shut the Fuck up Cliff Racers
 Sound Spell Sound Effect
 Sounds of Souls
+Store Entrance Chimes
 Tunnel Cough
 Water Sounds
 Idle Talk
@@ -1513,11 +1548,13 @@ Graphic Herbalism Lighting
 Thickle-Lo - The Succulent Hackle-Lo Mod
 Improved Temple Experience
 Just Drop It
+Morag Tong Writ Fix
 MWSE Hide the Skooma
 No Auto Vanity Camera
 Projectiles Reintegrated
 Quick Char (Timescale6 Edit)
 Randomised Chargen
+Vegtabills Threads of the Webspinner
 Fortify MAX
 Hold Your Breath
 Magicka Based Skill Progression
@@ -1544,6 +1581,7 @@ Limited Resting Waiting and Regen
 Nimble Armor
 No Disease Labels
 Ownership Overhaul
+Reactive Resistance
 Realistic Movement Speeds
 Sneaky Strike
 Soulless Creatures
@@ -1593,7 +1631,8 @@ Corsair_SteamCenturion.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 Dwemer Weapons and Stalhrim Armor.ESP
-dwemer_soulgems.esp
+dwemer_soulgems.ESP
+Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
 FMI - Alice's Package.ESP
 FMI_Athyn_And_Shardie.ESP
 Unique_Rippened_Belladonna.ESP
@@ -1658,6 +1697,7 @@ Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
+Store Entrance Chimes - Alt Ver.ESP
 Tunnel Cough.ESP
 Idle Talk.ESP
 Great Service.ESP
@@ -1669,8 +1709,10 @@ Always there Spell Breaker.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
 Improved Temple Experience.ESP
+MoragTongWritFix.ESP
 Projectiles Reintegrated.ESP
 Quick Char (Necro Edit).ESP
+veg-TotW-books.ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
