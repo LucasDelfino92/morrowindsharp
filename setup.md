@@ -419,7 +419,7 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 HD recreation of the Title and Logo Intro, in widescreen.
 - Install the **Logo Video Intro Reworked (Widescreen)** and the **Title Screen Reworked (Widescreen)** main files.
 
-[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/47163)  
+[**Widescreen Splash Replacer**](https://drive.google.com/file/d/17-30nzCCIb_ytqZzST17u7_2-RuMkp8j/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
