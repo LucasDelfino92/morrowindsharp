@@ -423,7 +423,7 @@ HD recreation of the Title and Logo Intro, in widescreen.
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
-Adds the three missing Bethesda splash screens not covered by NZdawghaus' mod in widescreen resolution.
+Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
 
 ## Expansion implementation
