@@ -904,6 +904,33 @@ Luminous Russula, Violet Coprinus, and Draggle-Tail will now glow and improve th
     - [ ] 40 Urns - Smoothed
     - [ ] 50 Wood Poles - Hi-Res Texture
   - Rename the mod to **Project Atlas Glowing Bitter Coast Patch**. This will install the patch as a separate mod.
+- Also install **GH Patches and Replacers Glowing Bitter Coast Patch**.
+  - Right-click your installed GH Patches and Replacers file in the left pane, and click **Reinstall Mod**.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Correct UV Ore + README
+    - [ ] 01 Pherim's Replacers
+    - [ ] 02 Pherim Reflection Mapped
+    - [ ] 03 Pherim Pulsing Kwama
+    - [ ] 04 Pherim Pulsing Kwama Reflect
+    - [ ] 05 Vurt's Chokeweed & Roobrush
+    - [ ] 06 Less Epic Plants
+    - [ ] 07 Slightly Less Epic Plants
+    - [X] 08 Glowing Bitter Coast
+    - [ ] 09 Glowing Bitter Coast Smoothed
+    - [ ] 10 Atlas - Vanilla BC Mushrooms
+    - [X] 11 Atlas - Glowing Bitter Coast Patch
+    - [ ] 12 Atlas - Smoothed BC Mushrooms
+    - [ ] 13 Atlas - Smoothed Glowmap Patch
+    - [ ] 14 Remiros shelf fungus
+    - [ ] 15 Apel's Azura's Coast
+    - [ ] 16 Apel's Mucksponge Bumpmapped
+    - [ ] 17 Trama Bumpmapped
+    - [ ] 18 Ascadian Isles Plants
+    - [ ] 19 Glass Glowset ores
+    - [ ] 20 Vanilla Meshes for MC or STA
+    - [ ] 21 Cave Plant Replacer for MC
+    - [ ] 22 Kelp Replacer for MC or STA
+  - Rename the mod to **GH Patches and Replacers Glowing Bitter Coast Patch**. This will install the patch as a separate mod.
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
