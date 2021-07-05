@@ -14,19 +14,18 @@
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#hotkeys)
   - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#expansion-implementation)
-  - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
-  - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#environment-visuals)
-  - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#equipment-visuals)
-  - [Creature and NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creature-and-npc-visuals)
-  - [Item visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#item-visuals)
-  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#vfx)
-  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#weather-and-lighting)
-  - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#sfx)
-  - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
   - [Gameplay QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-qol-improvements)
-  - [Gameplay tweaks](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-tweaks)
   - [Game mechanics](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#game-mechanics)
   - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#game-balance)
+  - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#environment-visuals)
+  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#weather-and-lighting)
+  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#vfx)
+  - [Creature and NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creature-and-npc-visuals)
+  - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#equipment-visuals)
+  - [Item visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#item-visuals)
+  - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#sfx)
+  - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
+  - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
   - [Additional Morrowind Code Patch patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.mdd#additional-morrowind-code-patch-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
@@ -815,12 +814,6 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 ### Environment
 
-[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
-- Check the following option in the BAIN installer: 
-  - [ ] 00 Flowing Mire
-  - [X] 01 Still Mire
-
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?tab=files)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - Check the following options in the BAIN installer: 
@@ -838,6 +831,60 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - [X] 01 Animated Replacer - Original Color
   - [ ] 02 Animated Replacer - Greener Color
   - [ ] 03 Standalone - Lougian's Meshes Fixed
+
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
+Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [ ] 01 Vurt's Lava Patch
+  - [ ] 02 Tamriel_Data Patch
+
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
+
+[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
+Makes road signs legible. Uses low resolution vanilla-friendly textures.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [X] 01 Vvardenfell only
+  - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
+
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733?tab=files)  
+Adds groundcover to almost all regions.
+- Install the **Remiros' Groundcover** main file.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [ ] 01a No Mushrooms
+  - [X] 01b Thicker Grass
+  - [ ] 02 Vanilla Resolution Textures
+  - [ ] 03 TR Plugins
+  - [ ] 04 TR Preview Plugins
+  - [ ] 05a Legend of Chemua
+  - [ ] 05b Legend of Chemua Moved
+- Right-click your installed Remiros' Groundcover file in the left pane, and click **Open in Explorer**.
+- Created a folder named **Grass**, and move the seven plugins inside.
+
+> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
+
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the water in the Palace of Vivec's canals.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [X] 01 Original Color
+  - [ ] 02 Blue Color
+
+### Optional environment mods
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
+- Check the following option in the BAIN installer: 
+  - [ ] 00 Flowing Mire
+  - [X] 01 Still Mire
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -858,202 +905,62 @@ Luminous Russula, Violet Coprinus, and Draggle-Tail will now glow and improve th
     - [ ] 50 Wood Poles - Hi-Res Texture
   - Rename the mod to **Project Atlas Glowing Bitter Coast Patch**. This will install the patch as a separate mod.
 
-[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
-Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [ ] 01 Vurt's Lava Patch
-  - [ ] 02 Tamriel_Data Patch
-
-[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
-Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
-
-[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
-Makes road signs legible. Uses low resolution vanilla-friendly textures.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Vvardenfell only
-  - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
-
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
-[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733?tab=files)  
-Adds groundcover to almost all regions.
-- Install the **Remiros' Groundcover** main file.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [ ] 01a No Mushrooms
-  - [X] 01b Thicker Grass
-  - [ ] 02 Vanilla Resolution Textures
-  - [ ] 03 TR Plugins
-  - [ ] 04 TR Preview Plugins
-  - [ ] 05a Legend of Chemua
-  - [ ] 05b Legend of Chemua Moved
-- Right-click your installed Remiros' Groundcover file in the left pane, and click **Open in Explorer**.
-- Created a folder named **Grass**, and move the seven plugins inside.
-- If you installed **Trackless Grazeland** earlier, delete **Rem_GL.esp**.
-
-> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
-
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
-
-[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
-Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
-- Install the **Remiros Groundcover** main file.
-- Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
-- Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
-
-> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
-
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
-
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the water in the Palace of Vivec's canals.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Original Color
-  - [ ] 02 Blue Color
-
 [**Well Diversified**](https://drive.google.com/file/d/1oaUZlOrcQl7T-xq1TjpGunoOOBPj2d6O/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+</details>
 
-### Equipment
+### Weather and lighting
 
-[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+[**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
+Replaces rain with a more heavy rain look.
 
-[**Dark Female Imperial Steel Cuirass**](https://drive.google.com/file/d/1Khfl_iHOhQJZ2JSXS6Q7OVp_LhzTmjHJ/view?usp=sharing)  
-Texture replacer that turns the pink Imperial Steel Cuirass into a dark shade of brown/black, to blend in better with the Imperial Steel armor set.
+[**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/?tab=files)  
+Adds a more realistic sunglare.
 
-[**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816?tab=files)  
-Makes the Nordic Iron Helm look less goofy.
-- Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
+[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912?tab=files)  
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
+- Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
+```
+local function initialized()
+	event.register("cellChanged", checkPlayerCell)
+	--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})
+	editLights()
+	mwse.log("[Let There Be Darkness] initialized")
+	if (config.debugMode == true) then
+		tes3.messageBox("[Let There Be Darkness] initialized")
+	end
+end
+```
+- Save your changes.
 
-[**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939?tab=files)  
-Adjusts the dimensions and spikiness of the Orcish boots so they look less goofy.
+> This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
 
-[**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745?tab=files)  
-Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
-[**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?tab=files)  
-Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
+Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
+- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1sncgztkRJoS0zJNBFwO-pCC7ve0cfVdf/view?usp=sharing). Personal preset for darker nights and less horrible fog.
+  - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-[**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353?tab=files)  
-Changes the position from where Spears and Staffs are held. Now they are held closer to the end.
-- Expand the **Spear and Staff* folder.
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
+### Optional lighting mods
 
-[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
-Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Install the **WeaponSheathing 1.6-MWSE** main file.
-  - Right-click on **Data Files**.
-  - Click **Set as data files directory**.
-- Also install the **Morrowind Optimization Patch Weapon Sheathing Patch**.
-  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
-  - Check the following options in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 01 Fixed Vanilla Textures
-    - [ ] 02 Lake Fjalding Anti-Suck
-    - [ ] 03 MGE XE Addon
-    - [X] 04 Weapon Sheathing Patch
-    - [ ] 05 Chuzei Fix
-  - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
-- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
-- Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files), which adds sheaths to weapons not covered by Weapon Sheathing.
+<details>
+	<summary>Click to expand</summary>
 
-> Note that new weapon meshes added by mods will require a patch for weapon sheaths.
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281?tab=files)  
-Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
-
-### Creature and NPCs
-
-[**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files)  
-Adds a simple script to make Vivec properly loop his idle animation.
-- Check the following options in the BAIN installer:
-  - [X] 00Vanilla
-  - [ ] 01VersusVivec
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
-
-[**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
-Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
-
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
-Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
-
-[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Adds glow maps from PeterBitt's Luminous Atronachs to Rotat's Creature VFX Restoration models.
-
-[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
-Pluginless replacer version of the base khajiit heads.
-- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files)  
-Replaces the Silt Strider model with one inspired by vanilla fan art, which gives the Silt Strider a more adequate look for a transportation creature.
-- Check the following options in the BAIN installer:
-  - [ ] H8 standard
-  - [X] H8 vanilla - High res textures
-  - [ ] H8 vanilla - vanilla textures
-
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894?tab=files)  
-Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
-
-> Note that guards added by mods will require a patch for unique guards.
-
-### Items
-
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
-Replaces all the bookcovers, bookpages and scrolls.
-
-> Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
-
-[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?tab=files)  
-Model replacer for book and scroll models.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [ ] 01 Book Jackets Patch
-- Also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
-  - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
-  - Check the following option in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 01 Closed Book Icons
-    - [ ] 02 MD books + Illy's Dirty Books
-    - [X] 03 Melchior's Magnificent Manuscripts
-    - [ ] 04 MD books + RR pages & scrolls
-    - [ ] 05 STA Guide-to Replacer
-  - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
-
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install the **Gold coins** main file.
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) by Merlord  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+</details>
 
 ### VFX
-
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
-Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
-
-[**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files)  
-Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
-
-[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816?tab=files)  
-Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core - Vertical System
-  - [X] 01 Enlightened Flames
-
-[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711?tab=files)  
-Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
-
-[**Flies**](https://drive.google.com/file/d/1MsRxCAOooJdifoAoJRfqzMfnkOyk2TO4/view?usp=sharing)  
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886?tab=files)  
 Makes windows glow in the dark.
@@ -1082,6 +989,40 @@ Makes windows glow in the dark.
   - Rename the mod to **Project Atlas Glow in the Dahrk Patch**.  This will install the patch as a separate mod.
 
 > Note that new window meshes added by mods will require a patch for glowing windows.
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?tab=files)  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- Check the following options in the BAIN installer:
+  - [ ] fade
+  - [X] faint
+  - [ ] static
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341?tab=files)  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
+</details>
+
+### Optional VFX mods
+
+<details>
+	<summary>Click to expand</summary>
+
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
+Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
+
+[**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files)  
+Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
+
+[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816?tab=files)  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core - Vertical System
+  - [X] 01 Enlightened Flames
+
+[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711?tab=files)  
+Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
+
+[**Flies**](https://drive.google.com/file/d/1MsRxCAOooJdifoAoJRfqzMfnkOyk2TO4/view?usp=sharing)  
+Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
 Adds a heat haze shader with region and weather conditions selectable in-game. The effect gets faster, stronger and closer when near lava pools.
@@ -1136,66 +1077,152 @@ Adds recurring earthquakes to certain volcanically active regions of Vvardenfell
 
 > This shader must be registered in MGE XE's shader chain for it to work.
 
-[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?tab=files)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- Check the following options in the BAIN installer:
-  - [ ] fade
-  - [X] faint
-  - [ ] static
-
-[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341?tab=files)  
-Makes it so many smoke effects are much more laid back and easier on the eyes.
-
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?tab=files)  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 01 Default Dust
   - [X] 01 Denser Dust
+</details>
 
-### Weather and lighting
+### Creature and NPCs
 
-[**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
-Replaces rain with a more heavy rain look.
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
 
-[**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/?tab=files)  
-Adds a more realistic sunglare.
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894?tab=files)  
+Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
-[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912?tab=files)  
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
-- Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
-```
-local function initialized()
-	event.register("cellChanged", checkPlayerCell)
-	--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})
-	editLights()
-	mwse.log("[Let There Be Darkness] initialized")
-	if (config.debugMode == true) then
-		tes3.messageBox("[Let There Be Darkness] initialized")
-	end
-end
-```
-- Save your changes.
+> Note that guards added by mods will require a patch for unique guards.
 
-> This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
+### Optional creature and NPC visual mods
 
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+<details>
+	<summary>Click to expand</summary>
 
-[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) by Merlord  
-Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+[**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files)  
+Adds a simple script to make Vivec properly loop his idle animation.
+- Check the following options in the BAIN installer:
+  - [X] 00Vanilla
+  - [ ] 01VersusVivec
 
-[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+[**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
+Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
 
-[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
-Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1sncgztkRJoS0zJNBFwO-pCC7ve0cfVdf/view?usp=sharing). Personal preset for darker nights and less horrible fog.
-  - [**Comparison here.**](https://imgsli.com/MTUwMjI)
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
+
+[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Adds glow maps from PeterBitt's Luminous Atronachs to Rotat's Creature VFX Restoration models.
+
+[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
+Pluginless replacer version of the base khajiit heads.
+- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
+
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+
+[**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files)  
+Replaces the Silt Strider model with one inspired by vanilla fan art, which gives the Silt Strider a more adequate look for a transportation creature.
+- Check the following options in the BAIN installer:
+  - [ ] H8 standard
+  - [X] H8 vanilla - High res textures
+  - [ ] H8 vanilla - vanilla textures
+</details>
+
+### Equipment
+
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
+Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+- Install the **WeaponSheathing 1.6-MWSE** main file.
+  - Right-click on **Data Files**.
+  - Click **Set as data files directory**.
+- Also install the **Morrowind Optimization Patch Weapon Sheathing Patch**.
+  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 01 Fixed Vanilla Textures
+    - [ ] 02 Lake Fjalding Anti-Suck
+    - [ ] 03 MGE XE Addon
+    - [X] 04 Weapon Sheathing Patch
+    - [ ] 05 Chuzei Fix
+  - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
+- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
+- Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files), which adds sheaths to weapons not covered by Weapon Sheathing.
+
+> Note that new weapon meshes added by mods will require a patch for weapon sheaths.
+
+### Optional equipment visual mods
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
+[**Dark Female Imperial Steel Cuirass**](https://drive.google.com/file/d/1Khfl_iHOhQJZ2JSXS6Q7OVp_LhzTmjHJ/view?usp=sharing)  
+Texture replacer that turns the pink Imperial Steel Cuirass into a dark shade of brown/black, to blend in better with the Imperial Steel armor set.
+
+[**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816?tab=files)  
+Makes the Nordic Iron Helm look less goofy.
+- Only install the **Improved Nordic Iron Helm 1.0-alternate** optional file.
+
+[**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939?tab=files)  
+Adjusts the dimensions and spikiness of the Orcish boots so they look less goofy.
+
+[**One-handed Adamantium Axe**](https://www.nexusmods.com/morrowind/mods/45745?tab=files)  
+Sets the Adamantium Axe to be a one-handed weapon, and adjusts its damage and speed accordingly.
+
+[**Soldier Belts Fix**](https://www.nexusmods.com/morrowind/mods/25556?tab=files)  
+Gives the Templar, Imperial, and Indoril Belts unique meshes and icons.
+
+[**Spear-Staff Fix**](https://www.nexusmods.com/morrowind/mods/43353?tab=files)  
+Changes the position from where Spears and Staffs are held. Now they are held closer to the end.
+- Expand the **Spear and Staff* folder.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+
+[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281?tab=files)  
+Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
+</details>
+
+### Items
+
+[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
+Replaces all the bookcovers, bookpages and scrolls.
+
+> Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
+
+[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626?tab=files)  
+Model replacer for book and scroll models.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Book Jackets Patch
+- Also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
+  - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
+  - Check the following option in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 01 Closed Book Icons
+    - [ ] 02 MD books + Illy's Dirty Books
+    - [X] 03 Melchior's Magnificent Manuscripts
+    - [ ] 04 MD books + RR pages & scrolls
+    - [ ] 05 STA Guide-to Replacer
+  - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
+
+[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
+Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
+- Install the **Gold coins** main file.
 
 ## SFX
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
+
+### Optional SFX mods
+
+<details>
+	<summary>Click to expand</summary>
 
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471?tab=files)  
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
@@ -1219,9 +1246,6 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 
-[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
-
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300?tab=files)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
 
@@ -1236,6 +1260,7 @@ Makes all NPCs of Miner class periodically cough.
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
 Simulates water sounds when colliding with generic fake animated water meshes.
+</details>
 
 ## Dialogue
 
@@ -1425,6 +1450,17 @@ Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelan
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
 
 > This mod has a missing master that we will correct at the end of the guide.
+
+[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
+Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
+- Install the **Remiros Groundcover** main file.
+- Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
+- Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
+- Delete **Rem_GL.esp** from **Remiros' Groundcover**.
+
+> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**True Giant Bull Netch**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
 Makes the Giant Bull Netch larger.
