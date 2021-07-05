@@ -1291,11 +1291,16 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 ## Dialogue
 
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+### Optional dialogue mods
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
 Replaces the three standard No Lore greetings with over sixty new ones.
@@ -1305,6 +1310,7 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+</details>
 
 ## Uniformity
 
