@@ -8,21 +8,10 @@
 - [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-1)
   - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mge-xe-shaders)
   - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
-  - [Mesh fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mesh-fixes-and-optimization)
-  - [MWSE fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mwse-fixes)
-  - [Non-purist fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#non-purist-fixes)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#hotkeys)
-  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#expansion-implementation)
-  - [Gameplay QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay-qol-improvements)
-  - [Game mechanics](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#game-mechanics)
-  - [Game balance](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#game-balance)
-  - [Environment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#environment-visuals)
-  - [Weather and lighting](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#weather-and-lighting)
-  - [VFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#vfx)
-  - [Creature and NPC visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#creature-and-npc-visuals)
-  - [Equipment visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#equipment-visuals)
-  - [Item visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#item-visuals)
+  - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay)
+  - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
   - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#sfx)
   - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
   - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
@@ -444,7 +433,9 @@ Lets you open or close any book or scroll in the game.
   - [ ] 05 STA Guide-to Replacer
 </details>
 
-# EXPANSION IMPLEMENTATION
+# GAMEPLAY
+
+## EXPANSION IMPLEMENTATION
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
@@ -460,8 +451,6 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Integrates (much of) the content of the Tribunal and Bloodmoon expansions within the rest of the game world. Many items from the expansions, which could previously be found only in Mournhold or Solstheim, can now be found throughout Vvardenfell.
 </details>
-
-# GAMEPLAY
 
 ## QUALITY OF LIFE IMPROVEMENTS
 
