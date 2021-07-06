@@ -11,20 +11,12 @@ Last updated: July 5th, 2021
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
-- [Morrowind++ Part 1](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1-1)
-  - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#patches)
-  - [Mesh fixes and optimization](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mesh-fixes-and-optimization)
-  - [MWSE fixes](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mwse-fixes)
-  - [Enhanced textures](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#enhanced-textures)
-  - [Enhanced user interface](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#enhanced-user-interface)
-  - [Expansion implementation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#expansion-implementation)
-  - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
+- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
   - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
   - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
-- [Now what's next?](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#now-thats-next)
+- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
 
 # Requirements
 
@@ -196,41 +188,6 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 - On the **Profile** tab, select the **Morrowind++** profile.
 
 Morrowind++ will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
-
-# Modding tips
-
-## General
-
-### Don't uninstall mods mid-playthrough
-
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
-
-### Always keep backup saves
-
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
-
-### Read the descriptions
-
-Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### BSAs and Morrowind.ini
-
-Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
-
-> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
-
-## Mod Organizer 2
 
 ### Installing Nexus mods with Mod Organizer 2
 
@@ -449,6 +406,39 @@ We are just about done here. It's time to finally run Morrowind.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
 > If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+
+# Modding tips
+
+## General
+
+### Don't uninstall mods mid-playthrough
+
+A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+
+### Always keep backup saves
+
+Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
+Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+
+### Read the descriptions
+
+Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
+
+- Requirements: mods or utilities a given mod needs to work as intended.
+- Compatibility issues: known conflicts with other mods, whether general or specific.
+- Known issues: bugs or unintended behavior.
+
+Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
+
+### File structure matters
+
+The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
+
+### BSAs and Morrowind.ini
+
+Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
+
+> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
 [To Morrowind# >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
