@@ -15,7 +15,7 @@
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
 - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
-  - [Additional Morrowind Code Patch patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.mdd#additional-morrowind-code-patch-patches)
+  - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
   - [Cleaning our plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-our-plugins)
