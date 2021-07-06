@@ -286,6 +286,19 @@ Overhauls the game's lighting.
 - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
 - [**Interior comparison**](https://imgsli.com/NDg3MTA)
 
+### Optional shaders
+
+<details>
+	<summary>Click to expand</summary>
+
+[**MGE XE Shader - Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
+Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
+- Check the following options in the BAIN installer:
+  - [X] 00 - Green-Blue
+  - [ ] 01 - Blue
+  - [ ] 02 - Green
+</details>
+
 ## MGE XE distant static overrides
 
 As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
