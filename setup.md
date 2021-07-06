@@ -299,6 +299,8 @@ Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE 
   - [ ] 02 - Green
 </details>
 
+# Finishing touches
+
 ## MGE XE distant static overrides
 
 As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
@@ -309,11 +311,7 @@ This is where **distant static overrides** come into play: we can tell MGE XE to
 abot's custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape. Edited by Necrolesian to remove support for non-vanilla content.
 - Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
 
-# Finishing touches
-
 ## Configuring MGE XE
-
-Now that we've installed our tools and shaders, it's time to configure MGE XE.
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
