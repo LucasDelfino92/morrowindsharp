@@ -1311,7 +1311,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 # UNIFORMITY
 
-[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)  
 Despite what dialogue says, there are no ashlander Guar and Shalk herds in the game. This mod provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers. 
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
