@@ -1311,15 +1311,69 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 # UNIFORMITY
 
-[**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
-Gives Big Head a big head.
-- Install the **Actual Big Head** main file.
-
 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)
 Despite what dialogue says, there are no ashlander Guar and Shalk herds in the game. This mod provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers. 
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
 Restores the possibility of contracting blight diseases while out in a blight storm. As per in-game dialogue, you can now actually catch blight from blight storms.
+
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
+Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
+
+[**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
+Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
+
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
+Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
+
+[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
+Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
+- Install the **Redaynia Village - Regular Version** main file.
+
+> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+
+[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
+Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
+
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
+Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
+
+[**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
+Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
+
+> This mod has a missing master that we will correct at the end of the guide.
+
+[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
+Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
+- Install the **Remiros Groundcover** main file.
+- Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
+- Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
+- Delete **Rem_GL.esp** from **Remiros' Groundcover**.
+
+> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
+
+[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
+Makes in-world soul gems that are filled appear as enchanted items.
+
+### Optional uniformity mods
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
+Gives Big Head a big head.
+- Install the **Actual Big Head** main file.
 
 [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920?tab=files)  
 If a mine is blighted, the Kwama Worker standing outside of it will now be blighted as well.
@@ -1371,9 +1425,6 @@ Makes the Package for Caius Cosades an actual package instead of a note.
 [**FMI - Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342?tab=files)  
 After you have won your dual with Bolvyn Venim, Athyn Sarethi will no longer mention him as a current councilor, or refer to Bolvyn as though he is still alive during the quest “Ondres Nerano's Slanders”.
 
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
-Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
-
 [**FMI - HulStop.**](https://www.nexusmods.com/morrowind/mods/47121?tab=files)  
 Stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong Council Club, so long as the Camonna Tong thugs are still hanging around.
 
@@ -1389,9 +1440,6 @@ Fixes typos and grammatical errors in "Note from the Archcanon", including creat
  
 [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381?tab=files)  
 Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
 
 [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411?tab=files)  
 Changes the intro cinematic from "he" to "they", to refer to the player character.
@@ -1415,14 +1463,8 @@ Gives the unique Muffin item an unique muffin mesh.
 Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
 - Hide **Hopesfire Torch.ESP**.
 
-[**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
-Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
-
 [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284?tab=files)
 This mod adds a King's Oath to each of Helseth's personal guards in his throne room, to match with what in-game dialogues and journal entries suggest regarding exceptional members of the Royal Guard wielding King's Oath blades.
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Lord's Mail and Morningstars**](https://www.nexusmods.com/morrowind/mods/49878?tab=files)  
 Fixes two inconsistencies in the game: one concerning the enchantment of Lord's Mail and another concerning the lack of morningstars in the game, by renaming certain maces to morningstars.
@@ -1440,20 +1482,8 @@ Adds NPCs into factions, that are not in a faction, but realistically should be,
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503?tab=files)  
 The Old Blue Fin unique creature is now larger, has a blue fin, and no eyes (as many old fishes lack).
 
-[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
-Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
-
-[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
-Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
-- Install the **Redaynia Village - Regular Version** main file.
-
-> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
-
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
 Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
-
-[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
 
 [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files)  
 The player will no longer be able to speak to NPCs when under the Silence spell.
@@ -1461,36 +1491,14 @@ The player will no longer be able to speak to NPCs when under the Silence spell.
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
 Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
 
-[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
-Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
-
 [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869?tab=files)  
 Adds a Silver Staff of Peace, a Telvanni Mouth's symbol of office, to all Telvanni Mouths.
-
-[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
-Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
 
 [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653?tab=files)  
 Makes the Madstone of the Ahemmusa align with its in game description so that the enchantment also affects the player and they will now hear the whispers of the ancestors when they use it.
 
 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502?tab=files)  
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands...", and yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker.
-
-[**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
-Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
-
-> This mod has a missing master that we will correct at the end of the guide.
-
-[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857?tab=files)  
-Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
-- Install the **Remiros Groundcover** main file.
-- Right-click your installed Grass for Trackless Grazeland file in the left pane, and click **Open in Explorer**.
-- Created a folder named **Grass**, and move **Rem_GL_Trackless_GL** inside.
-- Delete **Rem_GL.esp** from **Remiros' Groundcover**.
-
-> This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
-
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**True Giant Bull Netch**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
 Makes the Giant Bull Netch larger.
@@ -1500,11 +1508,9 @@ Makes the Giant Bull Netch larger.
 Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit.
 - Hide **TrueScourge_zerosouls.ESP**.
 
-[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
-Makes in-world soul gems that are filled appear as enchanted items.
-
 [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302?tab=files)  
 To become a Wizard in the Mages Guild you need to get your hands on a Wizards Staff. This mod adds a staff to members of rank Wizard or higher.
+</details>
 
 # FINISHING TOUCHES
 
