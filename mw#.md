@@ -34,8 +34,8 @@
 	<summary>v2.6 (July 5th)</summary>
 
 - This is a complete overhaul of Morrowind#, where both Morrowind++ Part 1 and Morrowind++ Part 2 have been merged into one guide, and Morrowind Part 2.x and Morrowind# additional mods have been brought over as additional "optional" mods. This way everything will be contained in just one page.
-- Split Bitter Coast Sounds, Master Index, and Helm of Tohan official plugins into the Visuals, Gameplay, and Content sections.
-- Removed Unofficial Morrowind Official Plugins Patched, and with it, Siege at Firemoth.
+- Split the Bitter Coast Sounds and Master Index official plugins into the Visuals and Gameplay sections.
+- Removed Unofficial Morrowind Official Plugins Patched, and with it, Helm of Tohan and Siege at Firemoth. Glorified quest mods have no place in this guide when there are so many better (and also compatible) quest mods out there.
 - Moved Memory Monitor to MWSE fixes.
 - Moved Just Drop It to MWSE fixes.
 - Moved Adamantium Ore Fix to Non-purist fixes.
@@ -454,10 +454,6 @@ Integrates (much of) the content of the Tribunal and Bloodmoon expansions within
 
 ## QUALITY OF LIFE IMPROVEMENTS
 
-[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
-The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
-- Hide **Better Propylon Teleport Warp.ESP**.
-
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 
@@ -511,6 +507,13 @@ Automatically harvests herbs, instead of opening the container interface. Picked
     - [ ] 22 Kelp Replacer for MC or STA
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864?tab=files), which makes picking a glowing plant also remove the glow-light.
 - Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
+
+[**Master Index UMOPP**](https://drive.google.com/file/d/1QSXFWyHttjeUaXUQsB1DHbIbiceptBzd/view?usp=sharing)  
+Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Completing the quest will earn you the Master Propylon Index, which allows for easier transport via the propylon chamber system. Original plugin by Bethesda, with additional fixes by PikachunoTM.
+
+[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
+The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
+- Hide **Better Propylon Teleport Warp.ESP**.
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -1027,6 +1030,9 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
 Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
 
+[**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
+Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
+	
 [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files)  
 Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
 
@@ -1592,7 +1598,6 @@ Switchable Scriptures
 Expansion Delay
 Early Transport to Mournhold
 Expansions Integrated (Sigourn Edit)
-Better Propylon Teleport Script
 Better Questlist
 Diligent Defenders
 Easy Escort
@@ -1604,6 +1609,8 @@ Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
+Master Index UMOPP
+Better Propylon Teleport Script
 MWSE Hide the Skooma
 New Game Confirmation
 Consistent Keys - MWSE Version
@@ -1663,7 +1670,6 @@ Properly Balanced Creeper and Mudcrab
 BTB's Game Improvements - Necro Edit
 BTBGI Necro Edit Add-on
 Balanced Passive Races and Birthsigns
-Helm of Tohan BTBGI Patch
 Better Daedric Font
 Better Dialogue Font
 Comrade Raven's Book Arts Replacer
@@ -1701,6 +1707,7 @@ Project Atlas Glow in the Dahrk Patch
 Subtle Magic Glow
 Subtle Smoke
 3D Vines Vanilla Mushroom Trees
+Bitter Coast Sounds
 Elemental Effects
 Enlightened Flames
 Fallen Ash
@@ -1841,8 +1848,9 @@ The Publicans.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Expansions Integrated (Sigourn Edit).ESP
-Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
 No Thank You.ESP
 Always there Spell Breaker.ESP
 MoragTongWritFix.ESP
@@ -1860,7 +1868,6 @@ BTBGI Creature Tweaks.ESP
 BTBGI Daedric Tweaks.ESP
 BTBGI Settings Tweaks.ESP
 Balanced Passive Races and Birthsigns.ESP
-Helm of Tohan BTBGI Patch.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
@@ -1873,6 +1880,7 @@ Nordic Chest Replacer.ESP
 Well Diversified.ESP
 TheMidnightOil.ESP
 GITD_WL_RR_Interiors.ESP
+bcsounds.ESP
 Flies.ESP
 Keg Drip.ESP
 Shattered Stones - An Earthquake Mod.ESP
