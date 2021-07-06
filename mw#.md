@@ -1207,6 +1207,15 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 ## ITEMS
 
+[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
+Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
+- Install the **Gold coins** main file.
+
+### Optional item visuals
+
+<details>
+	<summary>Click to expand</summary>
+
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
 Replaces all the bookcovers, bookpages and scrolls.
 
@@ -1217,7 +1226,7 @@ Model replacer for book and scroll models.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 01 Book Jackets Patch
-- Also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
+- If you installed Switchable Scriptures earlier, also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
   - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
   - Check the following option in the BAIN installer:
     - [ ] 00 Core
@@ -1227,10 +1236,7 @@ Model replacer for book and scroll models.
     - [ ] 04 MD books + RR pages & scrolls
     - [ ] 05 STA Guide-to Replacer
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
-
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install the **Gold coins** main file.
+</details>
 
 # SFX
 
