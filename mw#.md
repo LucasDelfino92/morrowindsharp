@@ -1,5 +1,5 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Initial Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
+[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup)
 
 # MORROWIND#
 
@@ -114,7 +114,7 @@ SO many mods have been added that you may as well start a new game from scratch,
 
 # DISCLAIMER
 
-The guide presented here assumes you have already followed all instructions found in the [**Morrowind Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
+The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
 # TOOLS
 
@@ -2187,4 +2187,4 @@ For reference, here is a list of known mods in the guide that tend to have compa
   - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Initial Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-part-1)
+[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup)
