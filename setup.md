@@ -11,7 +11,7 @@ Last updated: July 5th, 2021
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-- [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-shaders)
+- [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mge-xe-shaders)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
   - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
   - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
@@ -269,7 +269,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
 
-## MGE XE shaders
+## Installing MGE XE shaders
 
 Because of their performance-intensive nature, all shaders listed here are **entirely optional**. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
 
@@ -408,8 +408,6 @@ We are just about done here. It's time to finally run Morrowind.
 > If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
 # Modding tips
-
-## General
 
 ### Don't uninstall mods mid-playthrough
 
