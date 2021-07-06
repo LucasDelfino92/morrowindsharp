@@ -165,15 +165,6 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
-### Registering Wrye Mash in Mod Organizer 2
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply** and then **OK**.
-
-> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
-
 ## tes3cmd
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
@@ -182,6 +173,15 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
 > Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash (which we have already registered).
+
+### Registering Wrye Mash in Mod Organizer 2
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
+- Click **Apply** and then **OK**.
+
+> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
 # BUG FIXES
 
