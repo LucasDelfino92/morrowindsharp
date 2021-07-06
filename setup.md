@@ -13,7 +13,6 @@ Last updated: July 5th, 2021
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mge-xe-shaders)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
-  - [Mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-order-and-load-order)
   - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
 - [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
