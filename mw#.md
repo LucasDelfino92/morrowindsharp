@@ -32,7 +32,7 @@
 <details>
 	<summary>v2.6 (July 5th)</summary>
 
-- This is a complete overhaul of Morrowind#, where both Morrowind++ Part 1 and Morrowind++ Part 2 have been merged into one guide, and Morrowind Part 2.x and Morrowind# additional mods have been brought over as additional "optional" mods. This way everything will be contained in just one page.
+- This is a complete overhaul of Morrowind#, where both Morrowind++ Part 1 and Morrowind++ Part 2 have been merged into one guide, and Morrowind Part 2.x and Morrowind# additional mods have been brought over as additional "optional" mods. This way everything will be contained in just one page. In addition, "Part 1" (now Setup) will consist just of the Morrowind Code Patch, MGE XE, shaders, and Mod Organizer 2 installation instructions and setup.
 - Split the Bitter Coast Sounds and Master Index official plugins into the Visuals and Gameplay sections.
 - Removed Unofficial Morrowind Official Plugins Patched, and with it, Helm of Tohan and Siege at Firemoth. Glorified quest mods have no place in this guide when there are so many better (and also compatible) quest mods out there.
 - Moved Memory Monitor to MWSE fixes.
