@@ -152,9 +152,6 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Download and run the **Wrye Mash 2019 x64 - Installer** main file.
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
-
-### Initial setup
-
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
    - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
@@ -165,7 +162,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 > **Mlox** is a tool to analyze and sort your plugin order. However, you will be following the plugin order recommended by the guide, and thus we don't need to install it.
 
-## tes3cmd
+### tes3cmd
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
 tes3cmd is a tool used to clean plugins by automatically deleting identical-to-master records (records that are identical to the original records, but which may override intended changes by other mods) and to solve a number of conflicts/issues using a plugin, **multipatch.esp**. When needed, we will run it through Wrye Mash.
