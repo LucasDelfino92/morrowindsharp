@@ -448,5 +448,5 @@ Some mods come with BSA files. These contain data files for the mod. The most po
 
 > Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
-[To Morrowind# >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)  
+[To Morrowind# >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
