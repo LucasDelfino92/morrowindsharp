@@ -1205,7 +1205,7 @@ Changes the position from where Spears and Staffs are held. Now they are held cl
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 </details>
 
-### ITEMS
+## ITEMS
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
 Replaces all the bookcovers, bookpages and scrolls.
