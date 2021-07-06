@@ -6,7 +6,6 @@
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
 - [Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind-1)
-  - [MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mge-xe-shaders)
   - [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#bug-fixes)
   - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
   - [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#hotkeys)
@@ -183,32 +182,6 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
 > Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash (which we have already registered).
-
-# MGE XE SHADERS
-
-[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
-Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-
-[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
-Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-
-[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
-Overhauls the game's lighting.
-- [**Exterior comparison**](https://imgsli.com/NDg3MDk)
-- [**Interior comparison**](https://imgsli.com/NDg3MTA)
-
-### Optional shaders
-
-<details>
-	<summary>Click to expand</summary>
-
-[**MGE XE Shader - Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
-Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Green-Blue
-  - [ ] 01 - Blue
-  - [ ] 02 - Green
-</details>
 
 # BUG FIXES
 
