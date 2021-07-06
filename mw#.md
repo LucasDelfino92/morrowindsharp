@@ -1542,40 +1542,71 @@ MGE XE Shader - EdgeAA
 MGE XE Shader - Specialprocess
 MGE XE Shader - Krokantor's Enhanced Water Shader Updated
 Patch for Purists
-Unofficial Morrowind Official Plugins Patched
-Correct UV Mudcrabs
 Correct UV Rocks
 Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
 Glowing Flames
+Correct UV Mudcrabs
 Expeditious Exit
+Just Drop It
 Loading Doors Lock Tune
+Memory Monitor
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
+Adamantium Ore Fix
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+Fortify MAX
+Improved Temple Experience
+Improved Thrown Weapon Projectiles
+Services Restored
+The Publicans
+Imperial Steel Cuirass With Belt
+Sheep-no-More
 Thrown Projectiles Revamped
-Intelligent Textures
-Facelift Meshes
-Facelift Textures
-Better Daedric Font
-Better Dialogue Font
-Logo Intro Video Reworked
-Title Screen Reworked
-Widescreen Splash Additions
-Widescreen Splash Replacer
-Better Questlist
+Companion Health Bars MWSE Lua Script
+Continue	
+HUD Weapon Charge	
+UI Expansion
 Book Worm
 Class Description Tooltip
 Clock Block
-Companion Health Bars MWSE Lua Script
-Consistent Keys - MWSE Version
-Continue
+Tooltip
+Tamrielic Lore Tooltips
+Tooltips Complete
+Tamrielic Lore Exclusions
+Hotkeys Extended
+Hot Quests
+Quick Equip
+Right Click Menu Exit
+Security Enhanced
+Torch Hotkey
+Better Buoyancy
+Book Pickup
+Kill Command
+Quick Loadouts
+Switchable Scriptures
+Expansion Delay
+Early Transport to Mournhold
+Expansions Integrated (Sigourn Edit)
+Better Propylon Teleport Script
+Better Questlist
+Diligent Defenders
+Easy Escort
 Essential Indicators
-HUD Weapon Charge
-Memory Monitor
+GMST Menu
+GMST Menu MW++ Preset
+Gondolier Destinations
+Graphic Herbalism MWSE
+Graphic Herbalism - Patches and Replacers
+Graphic Herbalism - Ash Yam Collision Switch
+Graphic Herbalism Lighting
+MWSE Hide the Skooma
 New Game Confirmation
+Consistent Keys - MWSE Version
 Propylon Index Renamer
 Soulgem Renamer
 No Thank You
@@ -1584,210 +1615,33 @@ Smart Ammo
 Smart Journal
 Smart Map
 MWSEabotlib
-Tooltip
-Tamrielic Lore Tooltips
-Tooltips Complete
-Tamrielic Lore Exclusions
-UI Expansion
-Better Buoyancy
-Book Pickup
-Hotkeys Extended
-Hot Quests
-Kill Command
-Quick Equip
-Quick Loadouts
-Right Click Menu Exit
-Security Enhanced
-Switchable Scriptures
-Torch Hotkey
-Expansion Delay
-Early Transport to Mournhold
-Expansions Integrated (Sigourn Edit)
-Actual Big Head
-Ashlanders Herd
-Blighted Blight
-Blighted Mine Means Blighted Workers
-Blight Is Coming
-Corsair's Steam Centurions
-Corsair's Valuable Scrap Metal
-Creeping Blight
-Divayth Fyr Puzzle Fixed
-Dubdilla Location Fix
-Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
-Dwemer Soul Gems
-Eclipse of the Crescent Blade
-FMBP - Michael Michael Michael
-FMI - Alice's Package
-FMI - Athyn and Shardie
-FMI - Belladonna - Unique Rippened Belladona
-FMI - Caius Big Package
-FMI - Current Councilors
-FMI - Hospitality Papers Expanded
-FMI - HulStop
-FMI - Misc
-FMI - Grave Dust
-FMI - NotAllDunmer
-FMI - Note from the Archcanon Fix
-FMI - Sane Ordinators
-FMI - Service Refusal and Contraband
-FMI - The Role They Were to Play
-FMI - Unique Lore Friendly Cave Rats
-Golden Saint Feminine Walk
-Guarskin Drum Replacer
-Have You Seen the Muffin Mod
-Hopesfire Glow
-Inscribed Maar Gan Rock
-King's Oath Fix
-LDM - Context Matters
-Lord's Mail and Morningstars
-Lore Friendly Iron Warhammer
-More Redoran Mater Helms
-NPC Faction Affiliation Corrector
-Old Blue Fin
-Plunder the Dungeon
-Redaynia Village OR Redaynia Restored
-Services Restored
-Severa Magia DB Fix
-Sheep-no-More
-Shrine of Azura
-Silence
-Silent Assassins
-Sixth House Smugglers
-Telvanni Staff for the Telvanni Staff
-The Dream is the Door
-The Madstone
-The Publicans
-Trackless Grazeland
-True Giant Bull Netch
-True Scourge
-Visually Filled Soul Gems
-Wizards Staff for Wizards
-Ashmire Replacer
-Better Waterfalls
-Waterfalls Tweaks
-Bitter Coast Scum Replacer
-Distant Mournhold
-Glowing Bitter Coast
-Project Atlas Glowing Bitter Coast Patch
-I Lava Good Mesh Replacer
-Know Thy Ancestors
-Near Vanilla Road Sign Replacer
-Nordic Chest Replacer
-Remiros' Groundcover
-Grass for Trackless Grazeland
-Vivec Palace Water Replacer
-Well Diversified
-Complete Armor Joints
-Dark Female Imperial Steel Cuirass
-Imperial Steel Cuirass With Belt
-Improved Nordic Iron Helm Alternate
-Improved Thrown Weapon Projectiles
-No Orcish Clown Shoes
-One-handed Adamantium Axe
-Soldier Belts Fix
-Spear-Staff Fix
-Weapon Sheathing
-Morrowind Optimization Patch Weapon Sheathing Patch
-Weapon Sheathing - Bow Position Edit
-Weapon Sheathing Additions
-Wolf Helmet Replacer
-Buoyant Lord Vivec
-Glowing Atronachs
-Incarnates Overhauled
-Luminous VFX Atronachs
-Pluginless Khajiit Head Pack - Whiskers Version
-Silt Strider Animation Restored
-Silt Strider Redone
-Yet Another Guard Diversity - Regular
-Arukinns Better Books and Scrolls
-Comrade Raven's Book Arts Replacer
-Melchior's Magnificent Manuscripts
-Pete's Scroll 2018 ...in 2020
-Switchable Scriptures Melchior's Magnificent Manuscripts Patch
-Simple Golden Gold
-3D Vines Vanilla Mushroom Trees
-Elemental Effects
-Enlightened Flames
-Fallen Ash
-Flies	
-Glow in the Dahrk
-Project Atlas Glow in the Dahrk Patch
-Heat Haze
-Keg Drip
-Mistify
-Mist Retexture
-MWSE Blood Diversity
-No Shield Sparkle
-Pincushion
-R-Zero's Throbbing Meat - A Corprus Meat Replacer
-Shattered Stones - An Earthquake Mod
-Subtle Magic Glow
-Subtle Smoke
-Unto Dust
-Apel's Rain Replacer
-Here Comes The Sun... glare
-Let There Be Darkness - Lua Lighting Overhaul
-Light Decay
-The Midnight Oil
-Transporter Lights
-Weather Adjuster
-Weather Adjuster Preset
-Distant Thunder
-Haunted Barrows
-Heartthrum
-No Female Nord Screeching
-Outdoor Banners With Sound
-Shut the Fuck up Cliff Racers
-Sound Spell Sound Effect
-Sounds of Souls
-Store Entrance Chimes
-Tunnel Cough
-Water Sounds
-Idle Talk
-Great Service
-Greetings for No Lore
-Its a Deal
-Outfit Greetings Tweaked
 Accidental Theft Protection
-Adamantium Ore Fix
 Always There Spell Breaker
 Bed Buddies
-Better Propylon Teleport Script
 Character Creation Name Generator
-Diligent Defenders
-Easy Escort
-GMST Menu
-GMST Menu MW++ Preset
-Gondolier Destinations
-Graphic Herbalism MWSE
-Graphic Herbalism - Patches and Replacers
-Graphic Herbalism - Ash Yam Collision Switch
-Graphic Herbalism Lighting
-Thickle-Lo - The Succulent Hackle-Lo Mod
-Improved Temple Experience
-Just Drop It
 Morag Tong Writ Fix
-MWSE Hide the Skooma
 No Auto Vanity Camera
 Projectiles Reintegrated
 Quick Char (Timescale6 Edit)
 Randomised Chargen
 Vegtabills Threads of the Webspinner
-Fortify MAX
+Area Effect Arrows Integrated
+Brutal Backstabbing
 Hold Your Breath
+Lua Lockbashing
+Lucky Strike - A Critical Hit Mod
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
 Stealth Improved
-Wading in Water MW
 Wings of Will
-Area Effect Arrows Integrated
-Brutal Backstabbing
 Drop Light
 Dynamic Timescale
-Lua Lockbashing
-Lucky Strike - A Critical Hit Mod
 Merlord's Starting Equipment
+Wading in Water MW
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
 Class-Conscious Character Progression
 Armor Rating
 Controlled Consumption
@@ -1810,10 +1664,155 @@ BTB's Game Improvements - Necro Edit
 BTBGI Necro Edit Add-on
 Balanced Passive Races and Birthsigns
 Helm of Tohan BTBGI Patch
-Siege at Firemoth Weapon Gimp
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Additions
+Widescreen Splash Replacer
+Intelligent Textures
+Better Waterfalls
+Waterfalls Tweaks
+Bitter Coast Scum Replacer
+I Lava Good Mesh Replacer
+Know Thy Ancestors
+Near Vanilla Road Sign Replacer
+Remiros' Groundcover
+Vivec Palace Water Replacer
+Ashmire Replacer
+Distant Mournhold
+Glowing Bitter Coast
+Project Atlas Glowing Bitter Coast Patch
+Graphic Herbalism - Patches and Replacers - Glowing Bitter Coast Patch
+Nordic Chest Replacer
+Well Diversified
+Apel's Rain Replacer
+Here Comes The Sun... glare
+Let There Be Darkness - Lua Lighting Overhaul
+Transporter Lights
+Weather Adjuster
+Weather Adjuster Preset
+Light Decay
+The Midnight Oil
+Glow in the Dahrk
+Project Atlas Glow in the Dahrk Patch
+Subtle Magic Glow
+Subtle Smoke
+3D Vines Vanilla Mushroom Trees
+Elemental Effects
+Enlightened Flames
+Fallen Ash
+Flies	
+Heat Haze
+Keg Drip
+Mistify
+Mist Retexture
+MWSE Blood Diversity
+No Shield Sparkle
+Pincushion
+R-Zero's Throbbing Meat - A Corprus Meat Replacer
+Shattered Stones - An Earthquake Mod
+Unto Dust
+Facelift Meshes
+Facelift Textures
+Yet Another Guard Diversity - Regular
+Buoyant Lord Vivec
+Glowing Atronachs
+Incarnates Overhauled
+Luminous VFX Atronachs
+Pluginless Khajiit Head Pack - Whiskers Version
+Silt Strider Animation Restored
+Silt Strider Redone
+Weapon Sheathing
+Morrowind Optimization Patch Weapon Sheathing Patch
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
+Complete Armor Joints
+Dark Female Imperial Steel Cuirass
+Improved Nordic Iron Helm Alternate
+No Orcish Clown Shoes
+One-handed Adamantium Axe
+Soldier Belts Fix
+Spear-Staff Fix
+Wolf Helmet Replacer
+Simple Golden Gold
+Arukinns Better Books and Scrolls
+Melchior's Magnificent Manuscripts
+Switchable Scriptures Melchior's Magnificent Manuscripts Patch
+Shut the Fuck up Cliff Racers
+Distant Thunder
+Haunted Barrows
+Heartthrum
+No Female Nord Screeching
+Outdoor Banners With Sound
+Sound Spell Sound Effect
+Sounds of Souls
+Store Entrance Chimes
+Tunnel Cough
+Water Sounds
+Great Service
+Greetings for No Lore
+Idle Talk
+Its a Deal
+Outfit Greetings Tweaked
+Ashlanders Herd
+Blighted Blight
+FMI - Hospitality Papers Expanded
+FMI - Service Refusal and Contraband
+Inscribed Maar Gan Rock
+LDM - Context Matters
+Plunder the Dungeon
+Redaynia Village OR Redaynia Restored
+Shrine of Azura
+Sixth House Smugglers
+The Dream is the Door
+Trackless Grazeland
+Grass for Trackless Grazeland
+Visually Filled Soul Gems
+Actual Big Head
+Blighted Mine Means Blighted Workers
+Blight Is Coming
+Corsair's Steam Centurions
+Corsair's Valuable Scrap Metal
+Creeping Blight
+Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
+Dwemer Soul Gems
+Eclipse of the Crescent Blade
+FMBP - Michael Michael Michael
+FMI - Alice's Package
+FMI - Athyn and Shardie
+FMI - Belladonna - Unique Rippened Belladona
+FMI - Caius Big Package
+FMI - Current Councilors
+FMI - HulStop
+FMI - Misc
+FMI - Grave Dust
+FMI - NotAllDunmer
+FMI - Note from the Archcanon Fix
+FMI - Sane Ordinators
+FMI - The Role They Were to Play
+FMI - Unique Lore Friendly Cave Rats
+Golden Saint Feminine Walk
+Guarskin Drum Replacer
+Have You Seen the Muffin Mod
+Hopesfire Glow
+King's Oath Fix
+Lord's Mail and Morningstars
+Lore Friendly Iron Warhammer
+More Redoran Master Helms
+NPC Faction Affiliation Corrector
+Old Blue Fin
+Severa Magia DB Fix
+Silence
+Silent Assassins
+Telvanni Staff for the Telvanni Staff
+The Madstone
+Thickle-Lo - The Succulent Hackle-Lo Mod
+True Giant Bull Netch
+True Scourge
+Wizards Staff for Wizards
 ```
 </details>
 
@@ -1830,103 +1829,22 @@ Patch for Purists.esm
 Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
-bcsounds.ESP
-EBQ_Artifact.ESP
-master_index.ESP
-Siege at Firemoth.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-No Thank You.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Improved Temple Experience.ESP
+Services Restored.ESP
+The Publicans.ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Expansions Integrated (Sigourn Edit).ESP
-ActualBigHead.ESP
-Ashlanders Herd.ESP
-Clean Blighted_Kwama_Workers.ESP
-Blight Is Coming.ESP
-Corsair_SteamCenturion.ESP
-Divayth Fyr Puzzle Fixed.ESP
-Dubdilla Location Fix.ESP
-Dwemer Weapons and Stalhrim Armor.ESP
-dwemer_soulgems.ESP
-Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
-FMI - Alice's Package.ESP
-FMI_Athyn_And_Shardie.ESP
-Unique_Rippened_Belladonna.ESP
-FMI_CaiusBigPackage.ESP
-FMI_Current_Councilors.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-FMI_HulStop 1.6.ESP
-FMI_Misc.ESP
-FMI_GraveDust.ESP
-FMI_#NotAllDunmer.ESP
-Note from the Archcanon Fix.ESP
-FMI_SaneOrdinators.ESP
-FMI_ServiceRefusal_Contraband.ESP
-Unique_CaveRats.ESP
-guarskin_drum_replacer.ESP
-Have You Seen the Muffin Mod.ESP
-Hopesfire Torch (+ brighter trueflame).ESP
-Inscribed Maar Gan Rock.ESP
-KingsOathFix.ESP
-LDM - Context Matters 1.5.ESP
-Lord's Mail and Morningstars.ESP
-More Redoran Master Helms.ESP
-NPC Faction Affiliation Corrector (Maximalistic).ESP
-Old Blue Fin.ESP
-Clean Plunder the Dungeon.ESP
-Redaynia Village.ESP OR Redaynia Restored.ESP
-Services Restored.ESP
-Clean_Severa Magia Fix.ESP
-ShrineOfAzura.ESP
-Silence.ESP
-Silent Assassins.ESP
-Clean Sixth House Smugglers.ESP
-Telvanni Staff for the Telvanni Staff.ESP
-The Dream is the Door.ESP
-The Madstone.ESP
-The Publicans.ESP
-Trackless Grazeland.ESP
-GiantNetch.ESP
-TrueScourge.ESP
-Clean_wizardsstaffforwizards.ESP
-Waterfalls Tweaks.ESP
-Mournhold LOD.ESP
-Know Thy Ancestors.ESP
-NearVanillaRoadSigns.ESP
-Nordic Chest Replacer.ESP
-Well Diversified.ESP
-Complete Armor Joints.ESP
-Adamantium Axe 1H.ESP
-Buoyant Lord Vivec.ESP
-Glowing Atronachs.ESP
-Incarnates Overhauled.ESP
-Silt Strider Animation Restored.ESP
-Yet Another Guard Diversity - Regular.ESP
-Better_Typography_Bookarts_Fix.ESP
-Flies.ESP
-GITD_WL_RR_Interiors.ESP
-Keg Drip.ESP
-Shattered Stones - An Earthquake Mod.ESP
-TheMidnightOil.ESP
-Distant Thunder (No Scripts).ESP
-Haunted Barrows.ESP
-RFD_Heartthrum.ESP
-Outdoor Banners With Sound.ESP
-SoundSpellSoundEffect.ESP
-Store Entrance Chimes - Alt Ver.ESP
-Tunnel Cough.ESP
-Idle Talk.ESP
-Great Service.ESP
-Greetings for No Lore.ESP
-Its a deal.ESP
-outfit greetings tweaked.ESP
-Adamantium Ore Fix.ESP
-Always there Spell Breaker.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 PB_GondolierDestinations.ESP
-Improved Temple Experience.ESP
+No Thank You.ESP
+Always there Spell Breaker.ESP
 MoragTongWritFix.ESP
 Projectiles Reintegrated.ESP
 Quick Char (Necro Edit).ESP
@@ -1936,8 +1854,6 @@ EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese.ESP
 Properly balanced Creeper and Mudcrab.ESP
 BTB's Game Improvements (Necro Edit - No RAB).ESP
-Corsair_ScrapMetal.ESP
-SoldierBeltsFix.ESP
 BTBGI Apparatus Tweaks.ESP
 BTBGI Glass Tweaks.ESP
 BTBGI Creature Tweaks.ESP
@@ -1945,10 +1861,88 @@ BTBGI Daedric Tweaks.ESP
 BTBGI Settings Tweaks.ESP
 Balanced Passive Races and Birthsigns.ESP
 Helm of Tohan BTBGI Patch.ESP
-Siege at Firemoth Weapon Gimp.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
+Better_Typography_Bookarts_Fix.ESP
+Waterfalls Tweaks.ESP
+Know Thy Ancestors.ESP
+NearVanillaRoadSigns.ESP
+Mournhold LOD.ESP
+Nordic Chest Replacer.ESP
+Well Diversified.ESP
+TheMidnightOil.ESP
+GITD_WL_RR_Interiors.ESP
+Flies.ESP
+Keg Drip.ESP
+Shattered Stones - An Earthquake Mod.ESP
+Yet Another Guard Diversity - Regular.ESP
+Buoyant Lord Vivec.ESP
+Glowing Atronachs.ESP
+Incarnates Overhauled.ESP
+Silt Strider Animation Restored.ESP
+Complete Armor Joints.ESP
+Adamantium Axe 1H.ESP
+SoldierBeltsFix.ESP
+Distant Thunder (No Scripts).ESP
+Haunted Barrows.ESP
+RFD_Heartthrum.ESP
+Outdoor Banners With Sound.ESP
+SoundSpellSoundEffect.ESP
+Store Entrance Chimes - Alt Ver.ESP
+Tunnel Cough.ESP
+Great Service.ESP
+Greetings for No Lore.ESP
+Idle Talk.ESP
+Its a deal.ESP
+outfit greetings tweaked.ESP
+Ashlanders Herd.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Inscribed Maar Gan Rock.ESP
+LDM - Context Matters 1.5.ESP
+Clean Plunder the Dungeon.ESP
+Redaynia Village.ESP OR Redaynia Restored.ESP
+ShrineOfAzura.ESP
+Clean Sixth House Smugglers.ESP
+The Dream is the Door.ESP
+Trackless Grazeland.ESP
+ActualBigHead.ESP
+Clean Blighted_Kwama_Workers.ESP
+Blight Is Coming.ESP
+Corsair_ScrapMetal.ESP
+Corsair_SteamCenturion.ESP
+Dwemer Weapons and Stalhrim Armor.ESP
+dwemer_soulgems.ESP
+Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
+FMI - Alice's Package.ESP
+FMI_Athyn_And_Shardie.ESP
+Unique_Rippened_Belladonna.ESP
+FMI_CaiusBigPackage.ESP
+FMI_Current_Councilors.ESP
+FMI_HulStop 1.6.ESP
+FMI_Misc.ESP
+FMI_GraveDust.ESP
+FMI_#NotAllDunmer.ESP
+Note from the Archcanon Fix.ESP
+FMI_SaneOrdinators.ESP
+Unique_CaveRats.ESP
+guarskin_drum_replacer.ESP
+Have You Seen the Muffin Mod.ESP
+Hopesfire Torch (+ brighter trueflame).ESP
+KingsOathFix.ESP
+Lord's Mail and Morningstars.ESP
+More Redoran Master Helms.ESP
+NPC Faction Affiliation Corrector (Maximalistic).ESP
+Old Blue Fin.ESP
+Clean_Severa Magia Fix.ESP
+Silence.ESP
+Silent Assassins.ESP
+Telvanni Staff for the Telvanni Staff.ESP
+The Madstone.ESP
+GiantNetch.ESP
+TrueScourge.ESP
+Clean_wizardsstaffforwizards.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
@@ -1986,14 +1980,10 @@ There are a number of records we have to remove from certain plugins to increase
 
 Delete the following records from the following plugins:
 
-- **FMI_Misc.ESP**, for compatibility with **LDM - Context Matters**:
-  - All Topic and Info/Responce records.
-- **Severa Magia DB Fix**, for compatibility with **Expansions Integrated**:
-  - NPC severa magia
 - **Morrowind Anti-Cheese.ESP**, for compatibility with **Properly Balanced Creeper and Mudcrab**:
   - Creature mudcrab_unique
   - Creature scamp_creeper
-- **BTB's Game Improvements (Necro Edit - No RAB)**, for compatibility with **Properly Balanced Creeper and Mudcrab** and the **BTBGI Add-on**:
+- **BTB's Game Improvements (Necro Edit - No RAB).ESP**, for compatibility with **Properly Balanced Creeper and Mudcrab** and the **BTBGI Add-on**:
   - Cell Balmora, Eastern Guard Tower
   - Cell Caldera, Guild of Mages
   - Cell Ghostgate, Tower of Dusk Lower Level
@@ -2007,6 +1997,12 @@ Delete the following records from the following plugins:
   - Creature scamp_creeper
   - Creature mudcrab_unique
   - NPC tuveso beleth
+- **FMI_Misc.ESP**, for compatibility with **LDM - Context Matters**:
+  - All Topic and Info/Responce records.
+- **Lord's Mail and Morningstars.ESP**, for compatibility with **BTB's Game Improvements (Necro Edit)**:
+  - Enchanting lord's praise
+- **Severa Magia DB Fix**, for compatibility with **Expansions Integrated**:
+  - NPC severa magia
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
