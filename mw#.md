@@ -29,6 +29,13 @@
 
 # CHANGELOG
 
+
+<details>
+  <summary>v2.6.1 (July 8th)</summary>
+
+- Added a separate "minimalistic" install and load order for those installing only the non-optional mods.
+</details>
+
 <details>
 	<summary>v2.6 (July 5th)</summary>
 
@@ -1507,8 +1514,201 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
+
 <details>
-<summary>Install order</summary>
+<summary>Minimalistic install order</summary>
+
+```
+DLC: Tribunal
+DLC: Bloodmoon
+MGE XE Shader - Deband Fogaware v2
+MGE XE Shader - EdgeAA
+MGE XE Shader - Specialprocess
+MGE XE Shader - Krokantor's Enhanced Water Shader Updated
+Patch for Purists
+Correct UV Rocks
+Rope Fence Fix
+Morrowind Optimization Patch
+Project Atlas
+Creature VFX Restoration
+Glowing Flames
+Expeditious Exit
+Just Drop It
+Loading Doors Lock Tune
+Memory Monitor
+Quest Skill Reward Fix
+Run Fix
+Skill Increase GMST Fix
+Adamantium Ore Fix
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+Fortify MAX
+Improved Temple Experience
+Improved Thrown Weapon Projectiles
+Services Restored
+The Publicans
+Companion Health Bars MWSE Lua Script
+Continue	
+HUD Weapon Charge	
+UI Expansion
+Hotkeys Extended
+Hot Quests
+Quick Equip
+Right Click Menu Exit
+Security Enhanced
+Torch Hotkey
+Expansion Delay
+Early Transport to Mournhold
+Better Questlist
+Diligent Defenders
+Easy Escort
+Essential Indicators
+GMST Menu
+GMST Menu MW++ Preset
+Gondolier Destinations
+Graphic Herbalism MWSE
+Graphic Herbalism - Patches and Replacers
+Graphic Herbalism - Ash Yam Collision Switch
+Graphic Herbalism Lighting
+Master Index UMOPP
+Better Propylon Teleport Script
+MWSE Hide the Skooma
+New Game Confirmation
+Consistent Keys - MWSE Version
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
+Shrine Tooltips
+Smart Ammo
+Smart Journal
+Smart Map
+MWSEabotlib
+Area Effect Arrows Integrated
+Brutal Backstabbing
+Hold Your Breath
+Lua Lockbashing
+Lucky Strike - A Critical Hit Mod
+Magicka Based Skill Progression
+Marksman Rebalanced
+Putting Power In Willpower
+Stealth Improved
+Wings of Will
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video Reworked
+Title Screen Reworked
+Widescreen Splash Additions
+Widescreen Splash Replacer
+Intelligent Textures
+Better Waterfalls
+Waterfalls Tweaks
+Bitter Coast Scum Replacer
+I Lava Good Mesh Replacer
+Know Thy Ancestors
+Near Vanilla Road Sign Replacer
+Remiros' Groundcover
+Vivec Palace Water Replacer
+Apel's Rain Replacer
+Here Comes The Sun... glare
+Let There Be Darkness - Lua Lighting Overhaul
+Transporter Lights
+Weather Adjuster
+Weather Adjuster Preset
+Glow in the Dahrk
+Project Atlas Glow in the Dahrk Patch
+Subtle Magic Glow
+Subtle Smoke
+Facelift Meshes
+Facelift Textures
+Yet Another Guard Diversity - Regular
+Weapon Sheathing
+Morrowind Optimization Patch Weapon Sheathing Patch
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
+Arukinns Better Books and Scrolls
+Melchior's Magnificent Manuscripts
+Switchable Scriptures Melchior's Magnificent Manuscripts Patch
+Shut the Fuck up Cliff Racers
+Great Service
+Ashlanders Herd
+Blighted Blight
+FMI - Hospitality Papers Expanded
+FMI - Service Refusal and Contraband
+Inscribed Maar Gan Rock
+LDM - Context Matters
+Plunder the Dungeon
+Redaynia Village OR Redaynia Restored
+Shrine of Azura
+Sixth House Smugglers
+The Dream is the Door
+Trackless Grazeland
+Grass for Trackless Grazeland
+Visually Filled Soul Gems
+```
+</details>
+
+The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
+
+<details>
+<summary>Minimalistic load order</summary>
+
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+Patch for Purists.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+chuzei_helm_no_neck.ESP
+Lake Fjalding Anti-Suck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Improved Temple Experience.ESP
+Services Restored.ESP
+The Publicans.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+PB_GondolierDestinations.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
+No Thank You.ESP
+Beware the Sixth House.ESP
+tribunal rebalance.ESP
+Bloodmoon Rebalance.ESP
+Better_Typography_Bookarts_Fix.ESP
+Waterfalls Tweaks.ESP
+Know Thy Ancestors.ESP
+NearVanillaRoadSigns.ESP
+GITD_WL_RR_Interiors.ESP
+Yet Another Guard Diversity - Regular.ESP
+Great Service.ESP
+Ashlanders Herd.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Inscribed Maar Gan Rock.ESP
+LDM - Context Matters 1.5.ESP
+Clean Plunder the Dungeon.ESP
+Redaynia Village.ESP OR Redaynia Restored.ESP
+ShrineOfAzura.ESP
+Clean Sixth House Smugglers.ESP
+The Dream is the Door.ESP
+Trackless Grazeland.ESP
+multipatch.ESP
+Merged Objects.ESP
+```
+
+> We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
+</details>
+
+<details>
+<summary>Maximalist install order</summary>
 
 ```
 DLC: Tribunal
@@ -1796,7 +1996,7 @@ Wizards Staff for Wizards
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Load order</summary>
+<summary>Maximalist load order</summary>
 
 ```
 Morrowind.esm
