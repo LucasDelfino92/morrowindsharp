@@ -1516,7 +1516,7 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 
 
 <details>
-<summary>Minimalistic mod order</summary>
+<summary>Minimalist mod order</summary>
 
 ```
 DLC: Tribunal
@@ -1653,7 +1653,7 @@ Visually Filled Soul Gems
 </details>
 
 <details>
-<summary>Maximalist install order</summary>
+<summary>Maximalist mod order</summary>
 
 ```
 DLC: Tribunal
@@ -1941,7 +1941,7 @@ Wizards Staff for Wizards
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Minimalistic load order</summary>
+<summary>Minimalist load order</summary>
 
 ```
 Morrowind.esm
