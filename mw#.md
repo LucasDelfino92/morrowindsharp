@@ -1516,7 +1516,7 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 
 
 <details>
-<summary>Minimalistic install order</summary>
+<summary>Minimalistic mod order</summary>
 
 ```
 DLC: Tribunal
@@ -1650,61 +1650,6 @@ Trackless Grazeland
 Grass for Trackless Grazeland
 Visually Filled Soul Gems
 ```
-</details>
-
-The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
-
-<details>
-<summary>Minimalistic load order</summary>
-
-```
-Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
-Patch for Purists.esm
-Patch for Purists - Book Typos.ESP
-Patch for Purists - Semi-Purist Fixes.ESP
-chuzei_helm_no_neck.ESP
-Lake Fjalding Anti-Suck.ESP
-Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
-Dubdilla Location Fix.ESP
-Improved Temple Experience.ESP
-Services Restored.ESP
-The Publicans.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-PB_GondolierDestinations.ESP
-master_index.ESP
-Better Propylon Teleport Warp-Master Index.ESP
-No Thank You.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
-Better_Typography_Bookarts_Fix.ESP
-Waterfalls Tweaks.ESP
-Know Thy Ancestors.ESP
-NearVanillaRoadSigns.ESP
-GITD_WL_RR_Interiors.ESP
-Yet Another Guard Diversity - Regular.ESP
-Great Service.ESP
-Ashlanders Herd.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-FMI_ServiceRefusal_Contraband.ESP
-Inscribed Maar Gan Rock.ESP
-LDM - Context Matters 1.5.ESP
-Clean Plunder the Dungeon.ESP
-Redaynia Village.ESP OR Redaynia Restored.ESP
-ShrineOfAzura.ESP
-Clean Sixth House Smugglers.ESP
-The Dream is the Door.ESP
-Trackless Grazeland.ESP
-multipatch.ESP
-Merged Objects.ESP
-```
-
-> We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
 <details>
@@ -1994,6 +1939,59 @@ Wizards Staff for Wizards
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
+
+<details>
+<summary>Minimalistic load order</summary>
+
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+Patch for Purists.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+chuzei_helm_no_neck.ESP
+Lake Fjalding Anti-Suck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Improved Temple Experience.ESP
+Services Restored.ESP
+The Publicans.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+PB_GondolierDestinations.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
+No Thank You.ESP
+Beware the Sixth House.ESP
+tribunal rebalance.ESP
+Bloodmoon Rebalance.ESP
+Better_Typography_Bookarts_Fix.ESP
+Waterfalls Tweaks.ESP
+Know Thy Ancestors.ESP
+NearVanillaRoadSigns.ESP
+GITD_WL_RR_Interiors.ESP
+Yet Another Guard Diversity - Regular.ESP
+Great Service.ESP
+Ashlanders Herd.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Inscribed Maar Gan Rock.ESP
+LDM - Context Matters 1.5.ESP
+Clean Plunder the Dungeon.ESP
+Redaynia Village.ESP OR Redaynia Restored.ESP
+ShrineOfAzura.ESP
+Clean Sixth House Smugglers.ESP
+The Dream is the Door.ESP
+Trackless Grazeland.ESP
+multipatch.ESP
+Merged Objects.ESP
+```
+
+> We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
+</details>
 
 <details>
 <summary>Maximalist load order</summary>
