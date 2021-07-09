@@ -29,6 +29,20 @@
 
 # CHANGELOG
 
+<details>
+  <summary>v2.6.1.1 (July 9th)</summary>
+
+- Moved the following mods into the Other category of their respective categories. Some introduce fairly radical game mechanics or tweak large aspects of the game that may be confusing when trying to crossreference with a guide. The rest I felt weren't "must have" enough to guarantee their inclusion in the basic list.
+  - Brutal Backstabbing
+  - Lucky Strike
+  - Lua Lockbashing
+  - Ashlanders Herd
+  - FMI - Service Refusal and Contraband
+  - Inscribed Maar Gan Rock
+  - Redaynia Village
+  - Shrine of Azura
+  - Sixth House Smugglers
+</details>
 
 <details>
   <summary>v2.6.1 (July 8th)</summary>
@@ -237,7 +251,7 @@ Restores visual effects on creatures. Most creature particle effects weren't dis
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
-### Optional mesh fixes
+### Other mesh fixes
 
 <details>
 	<summary>Click to expand</summary>
@@ -308,7 +322,7 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-### Optional non-purist fixes
+### Other non-purist fixes
 
 <details>
 	<summary>Click to expand</summary>
@@ -337,7 +351,7 @@ Adds a fillbar that shows the currently equipped weapon's charge under the weapo
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-### Optional UI mods
+### Other UI mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -382,7 +396,7 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-### Optional hotkey mods
+### Other hotkey mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -420,7 +434,7 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
-### Optional expansion implementation mods
+### Other expansion implementation mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -526,7 +540,7 @@ Automatically switches between the local and world map depending on user configu
 [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717?tab=files)  
 Updated **abot\lib.lua** common file used by some of abot's mods, which we've installed above ("Smart" series).
 
-### Optional quality of life improvements
+### Other quality of life improvements
 
 <details>
 	<summary>Click to expand</summary>
@@ -570,17 +584,8 @@ Aims to give players what they need to figure out the locations of the Sanguine 
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
-Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
-
-[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
-Adds in lock-bashing from Daggerfall.
-
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
-Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330?tab=files)  
 Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
@@ -603,16 +608,25 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 
-### Optional game mechanics
+### Other game mechanics mods
 
 <details>
 	<summary>Click to expand</summary>
+
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
+Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
 
 [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694?tab=files)  
 Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
 
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
+
+[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
+Adds in lock-bashing from Daggerfall.
+
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
+Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
@@ -632,7 +646,7 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714?tab=files)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
-### Optional game balance and difficulty mods
+### Other game balance and difficulty mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -846,7 +860,7 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 01 Original Color
   - [ ] 02 Blue Color
 
-### Optional environment visuals
+### Other environment visuals
 
 <details>
 	<summary>Click to expand</summary>
@@ -946,7 +960,7 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 - Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1sncgztkRJoS0zJNBFwO-pCC7ve0cfVdf/view?usp=sharing). Personal preset for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
-### Optional lighting visuals
+### Other lighting visuals
 
 <details>
 	<summary>Click to expand</summary>
@@ -999,7 +1013,7 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 </details>
 
-## Optional VFX
+## Other VFX mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -1097,7 +1111,7 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 
 > Note that guards added by mods will require a patch for unique guards.
 
-### Optional creature and NPC visuals
+### Other creature and NPC visuals
 
 <details>
 	<summary>Click to expand</summary>
@@ -1154,7 +1168,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
-### Optional equipment visuals
+### Other equipment visuals
 
 <details>
 	<summary>Click to expand</summary>
@@ -1194,7 +1208,7 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
 - Install the **Gold coins** main file.
 
-### Optional item visuals
+### Other item visuals
 
 <details>
 	<summary>Click to expand</summary>
@@ -1226,7 +1240,7 @@ Model replacer for book and scroll models.
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
 
-### Optional SFX
+### Other SFX mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -1274,7 +1288,7 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
-### Optional dialogue mods
+### Other dialogue mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -1294,38 +1308,17 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 # UNIFORMITY
 
-[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)  
-Despite what dialogue says, there are no ashlander Guar and Shalk herds in the game. This mod provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers. 
-
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
 Restores the possibility of contracting blight diseases while out in a blight storm. As per in-game dialogue, you can now actually catch blight from blight storms.
 
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
-
-[**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
-Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
-
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
 Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
-
-[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
-Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
-- Install the **Redaynia Village - Regular Version** main file.
-
-> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
-
-[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
-
-[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
-Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
@@ -1357,6 +1350,9 @@ Makes in-world soul gems that are filled appear as enchanted items.
 [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042?tab=files)  
 Gives Big Head a big head.
 - Install the **Actual Big Head** main file.
+
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)  
+Despite what dialogue says, there are no ashlander Guar and Shalk herds in the game. This mod provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers. 
 
 [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920?tab=files)  
 If a mine is blighted, the Kwama Worker standing outside of it will now be blighted as well.
@@ -1424,6 +1420,9 @@ Fixes typos and grammatical errors in "Note from the Archcanon", including creat
 [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381?tab=files)  
 Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
+
 [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411?tab=files)  
 Changes the intro cinematic from "he" to "they", to refer to the player character.
 
@@ -1446,6 +1445,9 @@ Gives the unique Muffin item an unique muffin mesh.
 Allows Hopesfire to act as a torch when drawn, illuminating the particle effects on the blade and casting ambient lighting around the player just like Trueflame does.
 - Hide **Hopesfire Torch.ESP**.
 
+[**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426?tab=files)  
+Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
+
 [**King's Oath Fix**](https://www.nexusmods.com/morrowind/mods/43284?tab=files)
 This mod adds a King's Oath to each of Helseth's personal guards in his throne room, to match with what in-game dialogues and journal entries suggest regarding exceptional members of the Royal Guard wielding King's Oath blades.
 
@@ -1465,14 +1467,26 @@ Adds NPCs into factions, that are not in a faction, but realistically should be,
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503?tab=files)  
 The Old Blue Fin unique creature is now larger, has a blue fin, and no eyes (as many old fishes lack).
 
+[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
+Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
+- Install the **Redaynia Village - Regular Version** main file.
+
+> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
+
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
 Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
 
 [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files)  
 The player will no longer be able to speak to NPCs when under the Silence spell.
 
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
 Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
+
+[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
+Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869?tab=files)  
 Adds a Silver Staff of Peace, a Telvanni Mouth's symbol of office, to all Telvanni Mouths.
@@ -1584,10 +1598,7 @@ Smart Journal
 Smart Map
 MWSEabotlib
 Area Effect Arrows Integrated
-Brutal Backstabbing
 Hold Your Breath
-Lua Lockbashing
-Lucky Strike - A Critical Hit Mod
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
@@ -1635,16 +1646,10 @@ Melchior's Magnificent Manuscripts
 Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 Shut the Fuck up Cliff Racers
 Great Service
-Ashlanders Herd
 Blighted Blight
 FMI - Hospitality Papers Expanded
-FMI - Service Refusal and Contraband
-Inscribed Maar Gan Rock
 LDM - Context Matters
 Plunder the Dungeon
-Redaynia Village OR Redaynia Restored
-Shrine of Azura
-Sixth House Smugglers
 The Dream is the Door
 Trackless Grazeland
 Grass for Trackless Grazeland
@@ -1975,15 +1980,9 @@ NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 Yet Another Guard Diversity - Regular.ESP
 Great Service.ESP
-Ashlanders Herd.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
-FMI_ServiceRefusal_Contraband.ESP
-Inscribed Maar Gan Rock.ESP
 LDM - Context Matters 1.5.ESP
 Clean Plunder the Dungeon.ESP
-Redaynia Village.ESP OR Redaynia Restored.ESP
-ShrineOfAzura.ESP
-Clean Sixth House Smugglers.ESP
 The Dream is the Door.ESP
 Trackless Grazeland.ESP
 multipatch.ESP
