@@ -36,6 +36,8 @@
   - Brutal Backstabbing
   - Lucky Strike
   - Lua Lockbashing
+  - Area Effect Arrows Integrated
+  - Know Thy Ancestors
   - Ashlanders Herd
   - FMI - Service Refusal and Contraband
   - Inscribed Maar Gan Rock
@@ -580,10 +582,6 @@ Aims to give players what they need to figure out the locations of the Sanguine 
 
 ## GAME MECHANICS
 
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water. Uses MWSE.
 
@@ -612,6 +610,10 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 <details>
 	<summary>Click to expand</summary>
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!
@@ -824,9 +826,6 @@ Replaces all the lava meshes in the vanilla game. Removes alpha blending from la
   - [ ] 01 Vurt's Lava Patch
   - [ ] 02 Tamriel_Data Patch
 
-[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
-Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
-
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
 - Check the following options in the BAIN installer: 
@@ -916,6 +915,9 @@ Luminous Russula, Violet Coprinus, and Draggle-Tail will now glow and improve th
     - [ ] 21 Cave Plant Replacer for MC
     - [ ] 22 Kelp Replacer for MC or STA
   - Rename the mod to **GH Patches and Replacers Glowing Bitter Coast Patch**. This will install the patch as a separate mod.
+
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
@@ -1597,7 +1599,6 @@ Smart Ammo
 Smart Journal
 Smart Map
 MWSEabotlib
-Area Effect Arrows Integrated
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
@@ -1620,7 +1621,6 @@ Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
 I Lava Good Mesh Replacer
-Know Thy Ancestors
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Vivec Palace Water Replacer
@@ -1752,13 +1752,13 @@ Projectiles Reintegrated
 Quick Char (Timescale6 Edit)
 Randomised Chargen
 Vegtabills Threads of the Webspinner
-Area Effect Arrows Integrated
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
 Putting Power In Willpower
 Stealth Improved
 Wings of Will
+Area Effect Arrows Integrated
 Brutal Backstabbing
 Drop Light
 Dynamic Timescale
@@ -1803,7 +1803,6 @@ Better Waterfalls
 Waterfalls Tweaks
 Bitter Coast Scum Replacer
 I Lava Good Mesh Replacer
-Know Thy Ancestors
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Vivec Palace Water Replacer
@@ -1812,6 +1811,7 @@ Distant Mournhold
 Glowing Bitter Coast
 Project Atlas Glowing Bitter Coast Patch
 Graphic Herbalism - Patches and Replacers - Glowing Bitter Coast Patch
+Know Thy Ancestors
 Nordic Chest Replacer
 Well Diversified
 Apel's Rain Replacer
@@ -1976,7 +1976,6 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-Know Thy Ancestors.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 Yet Another Guard Diversity - Regular.ESP
@@ -2041,9 +2040,9 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-Know Thy Ancestors.ESP
 NearVanillaRoadSigns.ESP
 Mournhold LOD.ESP
+Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
 Well Diversified.ESP
 TheMidnightOil.ESP
