@@ -30,6 +30,12 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.1.1 Hotfix (July 9th)</summary>
+
+- Removed Helm of Tohan BTBGI Patch, which I forgot to remove earlier.
+</details>
+
+<details>
   <summary>v2.6.1.1 (July 9th)</summary>
 
 - Moved the following mods into the Other category of their respective categories. Some introduce fairly radical game mechanics or tweak large aspects of the game that may be confusing when trying to crossreference with a guide. The rest I felt weren't "must have" enough to guarantee their inclusion in the basic list.
@@ -750,8 +756,6 @@ Rebalance of races and birthsigns, based on BTB's Game Improvements, with perman
 
 > Note that, unless you install **Nimble Armor**, there's a good chance you will come across NPCs not donning their armor in favor of their higher Unarmored skill when using this mod in tandem with **BTB's Game Improvements**.
 
-[**Helm of Tohan BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/47152?tab=files)  
-Edits the stats of the unique Helm of Tohan from the official plugin to be in line with BTB's Game Improvements - Necro Edit.
 </details>
 
 # VISUALS
@@ -1886,7 +1890,6 @@ Its a Deal
 Outfit Greetings Tweaked
 Blighted Blight
 FMI - Hospitality Papers Expanded
-
 LDM - Context Matters
 Plunder the Dungeon
 The Dream is the Door
