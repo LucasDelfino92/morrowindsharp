@@ -30,6 +30,13 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.1.1 Hotfix 2 (July 12th)</summary>
+
+- Fixed link to 3D Vines Vanilla Mushroom Trees, which pointed to Perfectly Proficient Parasol Particles Performance Patch.
+- Moved Glow in the Dahrk to the Weather and lighting section.
+</details>
+
+<details>
   <summary>v2.6.1.1 Hotfix (July 9th)</summary>
 
 - Removed Helm of Tohan BTBGI Patch, which I forgot to remove earlier.
@@ -935,6 +942,34 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
 Replaces rain with a more heavy rain look.
 
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886?tab=files)  
+Makes windows glow in the dark.
+- Check the following options in the FOMOD installer:
+  - [X] Interior Sunrays
+  - [X] Nord Glass Windows
+  - [X] Raven Rock Glass Windows
+  - [ ] Dark Molag Mar
+  - [X] Hi-Res Window Texture Replacer
+  - [ ] Windoors Patch
+  - [ ] Include Tel Uvirith
+  - [ ] Exclude Tel Uvirith
+  - [X] None
+- Also install the **Project Atlas Glow in the Dahrk Patch**.
+  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
+  - Check the following options in the BAIN installer:
+    - [ ] 00 Core
+    - [ ] 10 Glow in the Dahrk Patch
+    - [X] 10 Glow in the Dahrk Patch - Interior Sunrays
+    - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+    - [ ] 20 BC Mushrooms - Smoothed
+    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+    - [ ] 30 Redware - Smoothed
+    - [ ] 40 Urns - Smoothed
+    - [ ] 50 Wood Poles - Hi-Res Texture
+  - Rename the mod to **Project Atlas Glow in the Dahrk Patch**.  This will install the patch as a separate mod.
+
+> Note that new window meshes added by mods will require a patch for glowing windows.
+
 [**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/?tab=files)  
 Adds a more realistic sunglare.
 
@@ -980,34 +1015,6 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 
 ## VFX
 
-[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886?tab=files)  
-Makes windows glow in the dark.
-- Check the following options in the FOMOD installer:
-  - [X] Interior Sunrays
-  - [X] Nord Glass Windows
-  - [X] Raven Rock Glass Windows
-  - [ ] Dark Molag Mar
-  - [X] Hi-Res Window Texture Replacer
-  - [ ] Windoors Patch
-  - [ ] Include Tel Uvirith
-  - [ ] Exclude Tel Uvirith
-  - [X] None
-- Also install the **Project Atlas Glow in the Dahrk Patch**.
-  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
-  - Check the following options in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 10 Glow in the Dahrk Patch
-    - [X] 10 Glow in the Dahrk Patch - Interior Sunrays
-    - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
-    - [ ] 20 BC Mushrooms - Smoothed
-    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
-    - [ ] 30 Redware - Smoothed
-    - [ ] 40 Urns - Smoothed
-    - [ ] 50 Wood Poles - Hi-Res Texture
-  - Rename the mod to **Project Atlas Glow in the Dahrk Patch**.  This will install the patch as a separate mod.
-
-> Note that new window meshes added by mods will require a patch for glowing windows.
-
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?tab=files)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - Check the following options in the BAIN installer:
@@ -1024,7 +1031,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 <details>
 	<summary>Click to expand</summary>
 
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48923?tab=files)  
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
 Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
 
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
@@ -1629,13 +1636,13 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Vivec Palace Water Replacer
 Apel's Rain Replacer
+Glow in the Dahrk
+Project Atlas Glow in the Dahrk Patch
 Here Comes The Sun... glare
 Let There Be Darkness - Lua Lighting Overhaul
 Transporter Lights
 Weather Adjuster
 Weather Adjuster Preset
-Glow in the Dahrk
-Project Atlas Glow in the Dahrk Patch
 Subtle Magic Glow
 Subtle Smoke
 Facelift Meshes
@@ -1819,6 +1826,8 @@ Know Thy Ancestors
 Nordic Chest Replacer
 Well Diversified
 Apel's Rain Replacer
+Glow in the Dahrk
+Project Atlas Glow in the Dahrk Patch
 Here Comes The Sun... glare
 Let There Be Darkness - Lua Lighting Overhaul
 Transporter Lights
@@ -1826,8 +1835,6 @@ Weather Adjuster
 Weather Adjuster Preset
 Light Decay
 The Midnight Oil
-Glow in the Dahrk
-Project Atlas Glow in the Dahrk Patch
 Subtle Magic Glow
 Subtle Smoke
 3D Vines Vanilla Mushroom Trees
@@ -2048,8 +2055,8 @@ Mournhold LOD.ESP
 Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
 Well Diversified.ESP
-TheMidnightOil.ESP
 GITD_WL_RR_Interiors.ESP
+TheMidnightOil.ESP
 bcsounds.ESP
 Flies.ESP
 Keg Drip.ESP
