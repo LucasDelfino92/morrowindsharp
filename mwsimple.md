@@ -155,9 +155,6 @@ Forces the game to instantly close on exit.
 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825?tab=files)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557?tab=files)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 
@@ -300,6 +297,9 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 - Check the following options in the BAIN installer: 
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
+
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557?tab=files)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723?tab=files)  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
@@ -724,7 +724,6 @@ Dubdilla Location Fix
 Glowing Flames
 Expeditious Exit
 Fortify MAX
-Just Drop It
 Loading Doors Lock Tune
 Memory Monitor
 Quest Skill Reward Fix
@@ -759,6 +758,7 @@ Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hotkeys Extended
 Improved Temple Experience
+Just Drop It
 Kill Command
 Master Index UMOPP
 Better Propylon Teleport Script
