@@ -401,6 +401,9 @@ Takes into account the distance to target when calculating the hit chance for ra
 Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
 - Hide **NPC Faction Affiliation Corrector (Minimalistic).ESP**.
 
+[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
+Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
+
 [**Projectiles Reintegrated**](https://drive.google.com/file/d/1r2lJtaK3jFsAYRer-kM_XkazGr23abqQ/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
 
@@ -508,6 +511,9 @@ Replaces all the lava meshes in the vanilla game. Removes alpha blending from la
   - [X] 00 Core
   - [ ] 01 Vurt's Lava Patch
   - [ ] 02 Tamriel_Data Patch
+
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/?tab=files)  
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.
 
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
 Makes road signs legible. Uses low resolution vanilla-friendly textures.
@@ -644,8 +650,14 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 </details>
 
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
+Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
+
 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
 Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
+
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -693,6 +705,9 @@ Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf 
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+[**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?tab=files)  
+Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
 Removes the sheep sounds from Morrowind.
@@ -790,6 +805,7 @@ Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
 NPC Faction Affiliation Corrector
+Plunder the Dungeon
 Projectiles Reintegrated
 Putting Power In Willpower
 Services Restored
@@ -816,6 +832,7 @@ Better Waterfalls
 Waterfalls Tweaks
 Distant Mournhold
 I Lava Good Mesh Replacer
+Know Thy Ancestors
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Trackless Grazeland
@@ -833,7 +850,9 @@ Mistify
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
+The Dream is the Door
 Glowing Atronachs
+Incarnates Overhauled
 Silt Strider Animation Restored
 Yet Another Guard Diversity - Regular
 Dark Female Imperial Steel Cuirass
@@ -845,6 +864,7 @@ Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
 Wolf Helmet Replacer
 Great Service
+Heartthrum
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 ```
