@@ -30,6 +30,12 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.1.1 Hotfix 3 (July 13th)</summary>
+
+- Removed No Rest Without Beds, which I had forgotten to remove.
+</details>
+
+<details>
   <summary>v2.6.1.1 Hotfix 2 (July 12th)</summary>
 
 - Fixed link to 3D Vines Vanilla Mushroom Trees, which pointed to Perfectly Proficient Parasol Particles Performance Patch.
@@ -39,7 +45,7 @@
 <details>
   <summary>v2.6.1.1 Hotfix (July 9th)</summary>
 
-- Removed Helm of Tohan BTBGI Patch, which I forgot to remove earlier.
+- Removed Helm of Tohan BTBGI Patch, which I had forgotten to remove.
 </details>
 
 <details>
@@ -724,9 +730,6 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
 Removes "Diseased", "Blighted", and similar adjectives from creature names.
-
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724?tab=files)  
-Prevents the player from resting unless they activate a bed.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
