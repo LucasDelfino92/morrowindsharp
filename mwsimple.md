@@ -3,25 +3,25 @@
 
 # SIMPLE MORROWIND
 
-- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
-- [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
-- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools)
-- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#bug-fixes)
-- [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
-- [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay)
-- [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
-- [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#sfx)
-- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
-  - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
-  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
-  - [Cleaning our plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-our-plugins)
-  - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#conflict-resolution)
-  - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land)
-  - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#closing-commments)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
-- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
-- [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#credits)
-- [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#compatibility)
+- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#changelog)
+- [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#disclaimer)
+- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#tools)
+- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#bug-fixes)
+- [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#user-interface)
+- [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#gameplay)
+- [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#visuals)
+- [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#sfx)
+- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#finishing-touches)
+  - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#final-mod-order-and-load-order)
+  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#synchronizing-mod-masters)
+  - [Cleaning our plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#cleaning-our-plugins)
+  - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#conflict-resolution)
+  - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#re-running-distant-land)
+  - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#closing-commments)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#in-game-configuration)
+- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#mod-keybindings)
+- [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#credits)
+- [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#compatibility)
 
 # CHANGELOG
 
@@ -720,55 +720,36 @@ Rope Fence Fix
 Morrowind Optimization Patch
 Project Atlas
 Creature VFX Restoration
+Dubdilla Location Fix
 Glowing Flames
-Correct UV Mudcrabs
 Expeditious Exit
+Fortify MAX
 Just Drop It
 Loading Doors Lock Tune
 Memory Monitor
 Quest Skill Reward Fix
 Run Fix
 Skill Increase GMST Fix
-Adamantium Ore Fix
-Divayth Fyr Puzzle Fixed
-Dubdilla Location Fix
-Fortify MAX
-Improved Temple Experience
-Improved Thrown Weapon Projectiles
-Services Restored
-The Publicans
-Imperial Steel Cuirass With Belt
-Sheep-no-More
 Thrown Projectiles Revamped
+Better Daedric Font
+Better Dialogue Font
+Comrade Raven's Book Arts Replacer
+Pete's Scroll 2018 ...in 2020
+Logo Intro Video and Title Screen Reworked
+Widescreen Splash Replacer
+Widescreen Splash Additions
 Companion Health Bars MWSE Lua Script
-Continue	
-HUD Weapon Charge	
+Continue
+HUD Weapon Charge
 UI Expansion
-Book Worm
-Class Description Tooltip
-Clock Block
-Tooltip
-Tamrielic Lore Tooltips
-Tooltips Complete
-Tamrielic Lore Exclusions
-Hotkeys Extended
-Hot Quests
-Quick Equip
-Right Click Menu Exit
-Security Enhanced
-Torch Hotkey
+Adamantium Ore Fix
+Bed Buddies
 Better Buoyancy
-Book Pickup
-Kill Command
-Quick Loadouts
-Switchable Scriptures
-Expansion Delay
-Early Transport to Mournhold
-Expansions Integrated (Sigourn Edit)
 Better Questlist
+Book Pickup
+Consistent Keys - MWSE Version
 Diligent Defenders
 Easy Escort
-Essential Indicators
 GMST Menu
 GMST Menu MW++ Preset
 Gondolier Destinations
@@ -776,91 +757,68 @@ Graphic Herbalism MWSE
 Graphic Herbalism - Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
+Hotkeys Extended
+Improved Temple Experience
+Kill Command
 Master Index UMOPP
 Better Propylon Teleport Script
 MWSE Hide the Skooma
 New Game Confirmation
-Consistent Keys - MWSE Version
-Propylon Index Renamer
-Soulgem Renamer
 No Thank You
+Propylon Index Renamer
+Quick Equip
+Right Click Menu Exit
+Security Enhanced
 Shrine Tooltips
 Smart Ammo
 Smart Journal
 Smart Map
 MWSEabotlib
-Accidental Theft Protection
-Always There Spell Breaker
-Bed Buddies
-Character Creation Name Generator
-Morag Tong Writ Fix
-No Auto Vanity Camera
-Projectiles Reintegrated
-Quick Char (Timescale6 Edit)
-Randomised Chargen
-Vegtabills Threads of the Webspinner
+Soulgem Renamer
+Switchable Scriptures
+The Publicans
+Torch Hotkey
+Blighted Blight
+Blighted Mine Means Blighted Workers
+Divayth Fyr Puzzle Fixed
+Drop Light
+Dynamic Timescale
+Expansion Delay
 Hold Your Breath
 Magicka Based Skill Progression
 Marksman Rebalanced
+NPC Faction Affiliation Corrector
+Projectiles Reintegrated
 Putting Power In Willpower
+Services Restored
 Stealth Improved
 Wings of Will
-Area Effect Arrows Integrated
-Brutal Backstabbing
-Drop Light
-Dynamic Timescale
-Lua Lockbashing
-Lucky Strike - A Critical Hit Mod
-Merlord's Starting Equipment
-Wading in Water MW
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
-Class-Conscious Character Progression
 Armor Rating
 Controlled Consumption
 Dungeons Rest
-Economy Adjuster Adjustments
-HardTrade
-Limited Leaping
+Harder Barter
 Limited Resting Waiting and Regen
-Nimble Armor
-No Disease Labels
-Ownership Overhaul
-Reactive Resistance
 Realistic Movement Speeds
 Sneaky Strike
-Soulless Creatures
 Taunt Fail Penalty
+Ownership Overhaul
 Morrowind Anti-Cheese
+Valuable Scrap Metal
 Properly Balanced Creeper and Mudcrab
-BTB's Game Improvements - Necro Edit
-BTBGI Necro Edit Add-on
-Balanced Passive Races and Birthsigns
-Better Daedric Font
-Better Dialogue Font
-Comrade Raven's Book Arts Replacer
-Pete's Scroll 2018 ...in 2020
-Logo Intro Video Reworked
-Title Screen Reworked
-Widescreen Splash Additions
-Widescreen Splash Replacer
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
 Intelligent Textures
+Facelift
 Better Waterfalls
 Waterfalls Tweaks
-Bitter Coast Scum Replacer
+Distant Mournhold
 I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
+Trackless Grazeland
+Grass for Trackless Grazeland
 Vivec Palace Water Replacer
-Ashmire Replacer
-Distant Mournhold
-Glowing Bitter Coast
-Project Atlas Glowing Bitter Coast Patch
-Graphic Herbalism - Patches and Replacers - Glowing Bitter Coast Patch
-Know Thy Ancestors
-Nordic Chest Replacer
-Well Diversified
 Apel's Rain Replacer
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
@@ -869,124 +827,24 @@ Let There Be Darkness - Lua Lighting Overhaul
 Transporter Lights
 Weather Adjuster
 Weather Adjuster Preset
-Light Decay
-The Midnight Oil
-Subtle Magic Glow
-Subtle Smoke
-3D Vines Vanilla Mushroom Trees
-Bitter Coast Sounds
-Elemental Effects
-Enlightened Flames
-Fallen Ash
-Flies	
-Heat Haze
-Keg Drip
 Mistify
 Mist Retexture
-MWSE Blood Diversity
-No Shield Sparkle
-Pincushion
-R-Zero's Throbbing Meat - A Corprus Meat Replacer
-Shattered Stones - An Earthquake Mod
-Unto Dust
-Facelift Meshes
-Facelift Textures
-Yet Another Guard Diversity - Regular
-Buoyant Lord Vivec
+Subtle Magic Glow
+Subtle Smoke
 Glowing Atronachs
-Incarnates Overhauled
-Luminous VFX Atronachs
-Pluginless Khajiit Head Pack - Whiskers Version
 Silt Strider Animation Restored
-Silt Strider Redone
+Yet Another Guard Diversity - Regular
+Dark Female Imperial Steel Cuirass
+Imperial Steel Cuirass With Belt
+Improved Thrown Weapon Projectiles
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
-Complete Armor Joints
-Dark Female Imperial Steel Cuirass
-Improved Nordic Iron Helm Alternate
-No Orcish Clown Shoes
-One-handed Adamantium Axe
-Soldier Belts Fix
-Spear-Staff Fix
 Wolf Helmet Replacer
-Simple Golden Gold
-Arukinns Better Books and Scrolls
-Melchior's Magnificent Manuscripts
-Switchable Scriptures Melchior's Magnificent Manuscripts Patch
-Shut the Fuck up Cliff Racers
-Distant Thunder
-Haunted Barrows
-Heartthrum
-No Female Nord Screeching
-Outdoor Banners With Sound
-Sound Spell Sound Effect
-Sounds of Souls
-Store Entrance Chimes
-Tunnel Cough
-Water Sounds
 Great Service
-Greetings for No Lore
-Idle Talk
-Its a Deal
-Outfit Greetings Tweaked
-Blighted Blight
-FMI - Hospitality Papers Expanded
-LDM - Context Matters
-Plunder the Dungeon
-The Dream is the Door
-Trackless Grazeland
-Grass for Trackless Grazeland
-Visually Filled Soul Gems
-Actual Big Head
-Ashlanders Herd
-Blighted Mine Means Blighted Workers
-Blight Is Coming
-Corsair's Steam Centurions
-Corsair's Valuable Scrap Metal
-Creeping Blight
-Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
-Dwemer Soul Gems
-Eclipse of the Crescent Blade
-FMBP - Michael Michael Michael
-FMI - Alice's Package
-FMI - Athyn and Shardie
-FMI - Belladonna - Unique Rippened Belladona
-FMI - Caius Big Package
-FMI - Current Councilors
-FMI - HulStop
-FMI - Misc
-FMI - Grave Dust
-FMI - NotAllDunmer
-FMI - Note from the Archcanon Fix
-FMI - Sane Ordinators
-FMI - Service Refusal and Contraband
-FMI - The Role They Were to Play
-FMI - Unique Lore Friendly Cave Rats
-Golden Saint Feminine Walk
-Guarskin Drum Replacer
-Have You Seen the Muffin Mod
-Hopesfire Glow
-Inscribed Maar Gan Rock
-King's Oath Fix
-Lord's Mail and Morningstars
-Lore Friendly Iron Warhammer
-More Redoran Master Helms
-NPC Faction Affiliation Corrector
-Old Blue Fin
-Redaynia Village OR Redaynia Restored
-Severa Magia DB Fix
-Shrine of Azura
-Silence
-Silent Assassins
-Sixth House Smugglers
-Telvanni Staff for the Telvanni Staff
-The Madstone
-Thickle-Lo - The Succulent Hackle-Lo Mod
-True Giant Bull Netch
-True Scourge
-Wizards Staff for Wizards
+Sheep-no-More
+Shut the Fuck up Cliff Racers
 ```
 </details>
 
@@ -1005,119 +863,42 @@ Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
-Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
-Improved Temple Experience.ESP
-Services Restored.ESP
-The Publicans.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-Expansions Integrated (Sigourn Edit).ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Better_Typography_Bookarts_Fix.ESP
+Adamantium Ore Fix.ESP
 PB_GondolierDestinations.ESP
+Improved Temple Experience.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 No Thank You.ESP
-Always there Spell Breaker.ESP
-MoragTongWritFix.ESP
+The Publicans.ESP
+Clean Blighted_Kwama_Workers.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Expansion Delay.ESP
+NPC Faction Affiliation Corrector (Maximalistic).ESP
+Clean Plunder the Dungeon.ESP
 Projectiles Reintegrated.ESP
-Quick Char (Necro Edit).ESP
-veg-TotW-books.ESP
-Area Effect Projectiles Integrated.ESP
-EcoAdjCrime (Necro Edit).ESP
+Services Restored.ESP
 Morrowind Anti-Cheese.ESP
+Corsair_ScrapMetal.ESP
 Properly balanced Creeper and Mudcrab.ESP
-BTB's Game Improvements (Necro Edit - No RAB).ESP
-BTBGI Apparatus Tweaks.ESP
-BTBGI Glass Tweaks.ESP
-BTBGI Creature Tweaks.ESP
-BTBGI Daedric Tweaks.ESP
-BTBGI Settings Tweaks.ESP
-Balanced Passive Races and Birthsigns.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
-Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-NearVanillaRoadSigns.ESP
 Mournhold LOD.ESP
 Know Thy Ancestors.ESP
-Nordic Chest Replacer.ESP
-Well Diversified.ESP
+NearVanillaRoadSigns.ESP
+Trackless Grazeland.ESP
 GITD_WL_RR_Interiors.ESP
-TheMidnightOil.ESP
-bcsounds.ESP
-Flies.ESP
-Keg Drip.ESP
-Shattered Stones - An Earthquake Mod.ESP
-Yet Another Guard Diversity - Regular.ESP
-Buoyant Lord Vivec.ESP
+The Dream is the Door.ESP
 Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
 Silt Strider Animation Restored.ESP
-Complete Armor Joints.ESP
-Adamantium Axe 1H.ESP
-SoldierBeltsFix.ESP
-Distant Thunder (No Scripts).ESP
-Haunted Barrows.ESP
-RFD_Heartthrum.ESP
-Outdoor Banners With Sound.ESP
-SoundSpellSoundEffect.ESP
-Store Entrance Chimes - Alt Ver.ESP
-Tunnel Cough.ESP
+Yet Another Guard Diversity - Regular.ESP
 Great Service.ESP
-Greetings for No Lore.ESP
-Idle Talk.ESP
-Its a deal.ESP
-outfit greetings tweaked.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-LDM - Context Matters 1.5.ESP
-Clean Plunder the Dungeon.ESP
-The Dream is the Door.ESP
-Trackless Grazeland.ESP
-ActualBigHead.ESP
-Ashlanders Herd.ESP
-Clean Blighted_Kwama_Workers.ESP
-Blight Is Coming.ESP
-Corsair_ScrapMetal.ESP
-Corsair_SteamCenturion.ESP
-Dwemer Weapons and Stalhrim Armor.ESP
-dwemer_soulgems.ESP
-Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
-FMI - Alice's Package.ESP
-FMI_Athyn_And_Shardie.ESP
-Unique_Rippened_Belladonna.ESP
-FMI_CaiusBigPackage.ESP
-FMI_Current_Councilors.ESP
-FMI_HulStop 1.6.ESP
-FMI_Misc.ESP
-FMI_GraveDust.ESP
-FMI_#NotAllDunmer.ESP
-Note from the Archcanon Fix.ESP
-FMI_SaneOrdinators.ESP
-FMI_ServiceRefusal_Contraband.ESP
-Unique_CaveRats.ESP
-guarskin_drum_replacer.ESP
-Have You Seen the Muffin Mod.ESP
-Hopesfire Torch (+ brighter trueflame).ESP
-Inscribed Maar Gan Rock.ESP
-KingsOathFix.ESP
-Lord's Mail and Morningstars.ESP
-More Redoran Master Helms.ESP
-NPC Faction Affiliation Corrector (Maximalistic).ESP
-Old Blue Fin.ESP
-Redaynia Village.ESP OR Redaynia Restored.ESP
-Clean_Severa Magia Fix.ESP
-ShrineOfAzura.ESP
-Silence.ESP
-Silent Assassins.ESP
-Clean Sixth House Smugglers.ESP
-Telvanni Staff for the Telvanni Staff.ESP
-The Madstone.ESP
-GiantNetch.ESP
-TrueScourge.ESP
-Clean_wizardsstaffforwizards.ESP
+RFD_Heartthrum.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
