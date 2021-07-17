@@ -380,9 +380,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Morrowind Anti-Cheese**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/)  
 Fixes some the biggest exploits and balance issues in the game.
 
-[**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690?tab=files)  
-Gives proper barter AI to Mudcrab and Creeper, so that they will not buy items at full price.
-
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036?tab=files)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
 
@@ -680,7 +677,6 @@ Realistic Movement Speeds
 Sneaky Strike
 Ownership Overhaul
 Morrowind Anti-Cheese
-Properly Balanced Creeper and Mudcrab
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -746,7 +742,6 @@ No Thank You.ESP
 The Publicans.ESP
 Expansion Delay.ESP
 Morrowind Anti-Cheese.ESP
-Properly balanced Creeper and Mudcrab.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
@@ -776,23 +771,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 > The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
 
-## CLEANING OUR PLUGINS
-
-**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
-  - NO PLUGINS HERE.
-
 ## CONFLICT RESOLUTION
-
-There are a number of records we have to remove from certain plugins to increase compatibility between them. To do this, you will have to [**run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
-
-Delete the following records from the following plugins:
-
-- **Morrowind Anti-Cheese.ESP**, for compatibility with **Properly Balanced Creeper and Mudcrab**:
-  - Creature mudcrab_unique
-  - Creature scamp_creeper
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
