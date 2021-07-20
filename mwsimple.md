@@ -10,7 +10,6 @@
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#user-interface)
 - [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#qol-improvements)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#gameplay)
-- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#overhauls)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#visuals)
 - [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#sfx)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#finishing-touches)
