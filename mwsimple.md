@@ -10,8 +10,8 @@
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#user-interface)
 - [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#qol-improvements)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#gameplay)
+- [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#audio)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#visuals)
-- [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#sfx)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#finishing-touches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#final-mod-order-and-load-order)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mwsimple.md#synchronizing-mod-masters)
@@ -377,6 +377,17 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714?tab=files)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
+# AUDIO
+
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
+Removes the sheep sounds from Morrowind.
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
+
 # VISUALS
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
@@ -546,17 +557,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
-# SFX
-
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
-Removes the sheep sounds from Morrowind.
-
-[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
-
 # FINISHING TOUCHES
 
 ## FINAL MOD ORDER AND LOAD ORDER
@@ -640,6 +640,9 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
+Great Service
+Sheep-no-More
+Shut the Fuck up Cliff Racers
 Intelligent Textures
 Facelift
 Better Waterfalls
@@ -665,9 +668,6 @@ Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
-Great Service
-Sheep-no-More
-Shut the Fuck up Cliff Racers
 ```
 </details>
 
@@ -700,11 +700,11 @@ Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
+Great Service.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 Yet Another Guard Diversity - Regular.ESP
-Great Service.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
