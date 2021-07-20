@@ -139,6 +139,7 @@ Reorganize it to read as follows using drag and drop.
 ```
 DLC: Tribunal
 DLC: Bloodmoon
+Unmanaged: XE Sky Variations
 ```
 Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
@@ -147,6 +148,7 @@ Reorganize it to read as follows using drag and drop.
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
+XE Sky Variations.esp
 ```
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
