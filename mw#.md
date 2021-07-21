@@ -30,6 +30,14 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.1.2 (July 21st)</summary>
+
+- Updated Morrowind Anti-Cheese with Scrap Metal value tweak (20 to 200) and forwarded additional Patch for Purists fixes.
+- Removed Accidental Theft Protection. It caused confusion among users, and I admit it was more annoying than helpful.
+- Removed Valuable Scrap Metal. I incorporated the value tweak to Morrowind Anti-Cheese instead (which is the reason why that mod was ever present to begin with).
+</details>
+
+<details>
   <summary>v2.6.1.1 Hotfix 3 (July 13th)</summary>
 
 - Removed No Rest Without Beds, which I had forgotten to remove.
@@ -566,9 +574,6 @@ Updated **abot\lib.lua** common file used by some of abot's mods, which we've in
 <details>
 	<summary>Click to expand</summary>
 
-[**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264?tab=files)  
-Prevents you from stealing items or opening owned containers unless you are sneaking. Items/containers can be blacklisted in the MCM.
-
 [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?tab=files)  
 Allows the player to find the Spell Breaker unique shield without having to start the quest to obtain it.
 
@@ -750,7 +755,7 @@ Prevents souls of summoned creatures from being trapped.
 [**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168?tab=files)  
 Failing a Taunt will now negate previous successful taunts, reducing that character's will to fight.
 
-[**Morrowind Anti-Cheese**](https://mw.moddinghall.com/file/45-morrowind-anti-cheese-v12-ownership-overhaul-compatible/)  
+[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1RuFtmB0EyIWpJQWA3oX0AhJtZOSeXJUZ/view?usp=sharing)  
 Fixes some the biggest exploits and balance issues in the game.
 
 [**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690?tab=files)  
@@ -1379,11 +1384,6 @@ As per in-game dialogue, Corprus Beasts will now have a chance to spawn during b
 [**Corsair's Steam Centurions**](https://drive.google.com/file/d/1cPdeU3_3Rc_N1XdigDUmHQSVdNvZ_ypx/view?usp=sharing)  
 Buffs Steam Centurions and gives them a weakness to frost, based off the in-game book *Ruins of Kemel-Ze*.
 
-[**Corsair's Valuable Scrap Metal**](https://drive.google.com/file/d/1qG_cV3mazni1Kaq1669yHG47hm0t93aG/view?usp=sharing)  
-Makes scrap metal far more valuable, based off in-game information.
-
-> One of the mods we will be installing later, Morrowind Anti-Cheese, balances this mod by making Scrap Metal rarer to come across.
-
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 - Install the **Creeping Blight - MWSE Version** main file.
@@ -1756,7 +1756,6 @@ Smart Ammo
 Smart Journal
 Smart Map
 MWSEabotlib
-Accidental Theft Protection
 Always There Spell Breaker
 Bed Buddies
 Character Creation Name Generator
@@ -1911,7 +1910,6 @@ Ashlanders Herd
 Blighted Mine Means Blighted Workers
 Blight Is Coming
 Corsair's Steam Centurions
-Corsair's Valuable Scrap Metal
 Creeping Blight
 Dwarven Weapons to Dwemer and Ice Armor to Stalhrim
 Dwemer Soul Gems
