@@ -541,6 +541,8 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
 Adds a confirmation popup when you click on New Game in the main menu.
 
+> Note that this mod is incompatible with Chargen Revamped - Expanded Lands.
+
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954?tab=files)  
 Renames keys so they'll have a consistent naming scheme.
 - Install the **Consistent Keys - MWSE Version** main file.
