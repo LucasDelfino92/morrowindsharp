@@ -162,12 +162,6 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
 Corrects thrown projectiles inflicting twice their listed damage. 
 
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720?tab=files)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696?tab=files)  
-Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
 # USER INTERFACE
 
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
@@ -189,36 +183,28 @@ Replaces the default splash screens with better quality widescreen versions (16:
 Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
 
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
-Replaces most of original book arts with hi-res images redrawn from scratch.
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
-
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
-- Check the following options in the BAIN installer:
-  - [ ] 01 Journal and Scroll - 1K
-  - [X] 01 Journal and Scroll - 2K
-  - [ ] 01 Journal and Scroll - 4K
-  - [ ] 02 Daedric Alphabet Scroll
-
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
+
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?tab=files)  
+Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 
-[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
-Adds a continue button to the main menu to instantly load your most recent save.
-
 [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
 Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
 
-# QOL IMPROVEMENTS
+[**Opponent Fatigue Indicator**](https://www.nexusmods.com/morrowind/mods/50060?tab=files)  
+Adds a fatigue bar that indicates the fatigue percentage of your opponent. The bar will appear whenever you strike a foe in hand-to-hand.
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
+Adds a continue button to the main menu to instantly load your most recent save.
+
+[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
+Adds a confirmation popup when you click on New Game in the main menu.
+
+# QOL IMPROVEMENTS
 
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625?tab=files)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
@@ -277,24 +263,11 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
 
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723?tab=files)  
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715?tab=files)  
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-
-[**Master Index UMOPP**](https://drive.google.com/file/d/1QSXFWyHttjeUaXUQsB1DHbIbiceptBzd/view?usp=sharing)  
-Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Completing the quest will earn you the Master Propylon Index, which allows for easier transport via the propylon chamber system. Original plugin by Bethesda, with additional fixes by PikachunoTM.
-
-[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
-The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
-- Hide **Better Propylon Teleport Warp.ESP**.
-
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
-[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693?tab=files)  
-Adds a confirmation popup when you click on New Game in the main menu.
+[**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801?tab=files)  
+Player companions can't damage the player, the player can't damage companions, and companions can't damage each other.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
@@ -325,23 +298,8 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 # GAMEPLAY
 
-[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715?tab=files)  
-Modifies armor rating calculation to lower the gap between low and high armor skills.
-
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-
-[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
-Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
-
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724?tab=files)  
-Prevents the player from resting unless they activate a bed.
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715?tab=files)  
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
 [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742?tab=files)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
@@ -352,30 +310,14 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 
 > This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
 
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
 
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- Hide **Ownership Overhaul.ESP**.
-
-[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1RuFtmB0EyIWpJQWA3oX0AhJtZOSeXJUZ/view?usp=sharing)  
-Fixes some the biggest exploits and balance issues in the game.
-
-[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036?tab=files)  
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
-
-[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713?tab=files)  
-Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714?tab=files)  
-Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
 # AUDIO
 
@@ -399,6 +341,20 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
+
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
+Replaces most of original book arts with hi-res images redrawn from scratch.
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+- Install the **Pete's Journal and Scroll** optional file.
+- Check the following options in the BAIN installer:
+  - [ ] 01 Journal and Scroll - 1K
+  - [X] 01 Journal and Scroll - 2K
+  - [ ] 01 Journal and Scroll - 4K
+  - [ ] 02 Daedric Alphabet Scroll
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424?tab=files)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -552,7 +508,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [X] 04 Weapon Sheathing Patch
     - [ ] 05 Chuzei Fix
   - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch**. This will install the patch as a separate mod.
-- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?), which tweaks bows so that they line up better with the sheathing animation.
 - Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files), which adds sheaths to weapons not covered by Weapon Sheathing.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
