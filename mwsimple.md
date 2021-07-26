@@ -399,13 +399,6 @@ Adds groundcover to almost all regions.
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the water in the Palace of Vivec's canals.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Original Color
-  - [ ] 02 Blue Color
-
 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
 Replaces rain with a more heavy rain look.
 
