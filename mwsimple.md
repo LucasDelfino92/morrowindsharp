@@ -298,6 +298,9 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 # GAMEPLAY
 
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715?tab=files)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
@@ -310,14 +313,19 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 
 > This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
 
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Restores Cinia Urtius, the master trainer for Medium Armor, into the game.
+
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+# OVERHAULS
+
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
+Overhauls the pickpocket mechanics.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+Overhauls the stealth mechanics.
 
 # AUDIO
 
