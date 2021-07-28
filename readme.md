@@ -45,7 +45,7 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-Depending on how far you wish to go, we are talking 260 mods and 123 plugins, with the recommended (a.k.a. "essential") mods being 75 for a total of 23 plugins.
+There are 75 recommended (a.k.a. "essential") mods, totalling 23 plugins. For people who love to mod their games, there are a total of 260 mods and 123 plugins.
 
 ### How much space do I need to install these mods?
 
