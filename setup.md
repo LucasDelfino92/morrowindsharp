@@ -7,7 +7,7 @@
 - [Requirements](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#requirements)
 - [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
-- [MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe)
+- [MGE XE and MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-and-mwse)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
 - [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mge-xe-shaders)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
@@ -77,7 +77,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
 
-# MGE XE
+# MGE XE and MWSE
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features.
@@ -87,9 +87,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
 
-## Updating MWSE
-
-MGE XE supports MWSE and the latest MWSE 2.1 beta, included in the download, so that the newest Lua mods work straight away.
+MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 When you first install MGE XE, it will automatically download the latest MWSE update. In the future, you will have to update MWSE yourself. Doing this is simple.
 
