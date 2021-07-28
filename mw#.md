@@ -1882,32 +1882,18 @@ Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
-Dubdilla Location Fix.ESP
+Better Propylon Teleport Warp.ESP
 Improved Temple Experience.ESP
-Services Restored.ESP
+No Thank You.ESP
 The Publicans.ESP
 Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-PB_GondolierDestinations.ESP
-master_index.ESP
-Better Propylon Teleport Warp-Master Index.ESP
-No Thank You.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
+Services Restored.ESP
+Great Service.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 Yet Another Guard Diversity - Regular.ESP
-Great Service.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-LDM - Context Matters 1.5.ESP
-Clean Plunder the Dungeon.ESP
-The Dream is the Door.ESP
-Trackless Grazeland.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
@@ -1929,28 +1915,42 @@ Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
-Improved Temple Experience.ESP
-Services Restored.ESP
-The Publicans.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-Expansions Integrated (Sigourn Edit).ESP
-PB_GondolierDestinations.ESP
+LDM - Context Matters 1.5.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
+Improved Temple Experience.ESP
 No Thank You.ESP
-Always there Spell Breaker.ESP
-MoragTongWritFix.ESP
-Projectiles Reintegrated.ESP
+The Publicans.ESP
+PB_GondolierDestinations.ESP
 Quick Char (Necro Edit).ESP
-veg-TotW-books.ESP
+Expansion Delay.ESP
+Services Restored.ESP
+Adamantium Ore Fix.ESP
+Always there Spell Breaker.ESP
 Area Effect Projectiles Integrated.ESP
+Clean Blighted_Kwama_Workers.ESP
+Blight Is Coming.ESP
+Corsair_SteamCenturion.ESP
+Divayth Fyr Puzzle Fixed.ESP
+dwemer_soulgems.ESP
+Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_SaneOrdinators.ESP
+MoragTongWritFix.ESP
+Clean Plunder the Dungeon.ESP
+Projectiles Reintegrated.ESP
+Clean Sixth House Smugglers.ESP
+The Madstone.ESP
+TrueScourge.ESP
+veg-TotW-books.ESP
+Early Transport to Mournhold.ESP
+Expansions Integrated (Sigourn Edit).ESP
 EcoAdjCrime (Necro Edit).ESP
+FMI_ServiceRefusal_Contraband.ESP
 Morrowind Anti-Cheese.ESP
 Properly balanced Creeper and Mudcrab.ESP
+TheMidnightOil.ESP
 BTB's Game Improvements (Necro Edit - No RAB).ESP
 BTBGI Apparatus Tweaks.ESP
 BTBGI Glass Tweaks.ESP
@@ -1961,20 +1961,35 @@ Balanced Passive Races and Birthsigns.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
+Great Service.ESP
+Distant Thunder (No Scripts).ESP
+FMI_#NotAllDunmer.ESP
+Haunted Barrows.ESP
+RFD_Heartthrum.ESP
+Idle Talk.ESP
+Its a deal.ESP
+Outdoor Banners With Sound.ESP
+SoundSpellSoundEffect.ESP
+Store Entrance Chimes - Alt Ver.ESP
+Tunnel Cough.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
+GITD_WL_RR_Interiors.ESP
+Yet Another Guard Diversity - Regular.ESP
 Mournhold LOD.ESP
+Inscribed Maar Gan Rock.ESP
 Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
+Clean_Severa Magia Fix.ESP
+Trackless Grazeland.ESP
 Well Diversified.ESP
-GITD_WL_RR_Interiors.ESP
-TheMidnightOil.ESP
 bcsounds.ESP
 Flies.ESP
 Keg Drip.ESP
 Shattered Stones - An Earthquake Mod.ESP
-Yet Another Guard Diversity - Regular.ESP
+The Dream is the Door.ESP
+Ashlanders Herd.ESP
 Buoyant Lord Vivec.ESP
 Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
@@ -1982,32 +1997,12 @@ Silt Strider Animation Restored.ESP
 Complete Armor Joints.ESP
 Adamantium Axe 1H.ESP
 SoldierBeltsFix.ESP
-Distant Thunder (No Scripts).ESP
-Haunted Barrows.ESP
-RFD_Heartthrum.ESP
-Outdoor Banners With Sound.ESP
-SoundSpellSoundEffect.ESP
-Store Entrance Chimes - Alt Ver.ESP
-Tunnel Cough.ESP
-Great Service.ESP
 Greetings for No Lore.ESP
-Idle Talk.ESP
-Its a deal.ESP
 outfit greetings tweaked.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-LDM - Context Matters 1.5.ESP
-Clean Plunder the Dungeon.ESP
-The Dream is the Door.ESP
-Trackless Grazeland.ESP
+Redaynia Village.ESP OR Redaynia Restored.ESP
+ShrineOfAzura.ESP
 ActualBigHead.ESP
-Ashlanders Herd.ESP
-Clean Blighted_Kwama_Workers.ESP
-Blight Is Coming.ESP
-Corsair_ScrapMetal.ESP
-Corsair_SteamCenturion.ESP
 Dwemer Weapons and Stalhrim Armor.ESP
-dwemer_soulgems.ESP
-Eclipse of the Crescent Blade - SpaceDevos Dialogue.ESP
 FMI - Alice's Package.ESP
 FMI_Athyn_And_Shardie.ESP
 Unique_Rippened_Belladonna.ESP
@@ -2016,30 +2011,20 @@ FMI_Current_Councilors.ESP
 FMI_HulStop 1.6.ESP
 FMI_Misc.ESP
 FMI_GraveDust.ESP
-FMI_#NotAllDunmer.ESP
 Note from the Archcanon Fix.ESP
-FMI_SaneOrdinators.ESP
-FMI_ServiceRefusal_Contraband.ESP
 Unique_CaveRats.ESP
 guarskin_drum_replacer.ESP
 Have You Seen the Muffin Mod.ESP
 Hopesfire Torch (+ brighter trueflame).ESP
-Inscribed Maar Gan Rock.ESP
 KingsOathFix.ESP
 Lord's Mail and Morningstars.ESP
 More Redoran Master Helms.ESP
 NPC Faction Affiliation Corrector (Maximalistic).ESP
 Old Blue Fin.ESP
-Redaynia Village.ESP OR Redaynia Restored.ESP
-Clean_Severa Magia Fix.ESP
-ShrineOfAzura.ESP
 Silence.ESP
 Silent Assassins.ESP
-Clean Sixth House Smugglers.ESP
 Telvanni Staff for the Telvanni Staff.ESP
-The Madstone.ESP
 GiantNetch.ESP
-TrueScourge.ESP
 Clean_wizardsstaffforwizards.ESP
 multipatch.ESP
 Merged Objects.ESP
