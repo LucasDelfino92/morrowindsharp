@@ -43,7 +43,7 @@ C:\Games\Morrowind Mods
 ```
 ## Cleaning up your GOG installation
 
-To clean up your GOG installation of Morrowind of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
+To clean up your GOG installation of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
