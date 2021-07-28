@@ -37,6 +37,7 @@
 - Removed Imperial Steel Cuirass With Belt and Dark Female Imperial Steel Cuirass.
 - Added Imperial Steel Cuirass Tweaks, which merges the above mods.
 - Updated mod order.
+- Updated load order.
 </details>
 
 <details>
