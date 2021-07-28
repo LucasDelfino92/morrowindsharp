@@ -885,18 +885,6 @@ Makes all NPCs of Miner class periodically cough.
 Simulates water sounds when colliding with generic fake animated water meshes.
 </details>
 
-# DIALOGUE
-
-<details>
-	<summary>Click to expand</summary>
-
-[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
-Replaces the three standard No Lore greetings with over sixty new ones.
-
-[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-</details>
-
 # VISUALS
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
@@ -1353,6 +1341,20 @@ Model replacer for book and scroll models.
     - [ ] 04 MD books + RR pages & scrolls
     - [ ] 05 STA Guide-to Replacer
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
+</details>
+
+# DIALOGUE
+
+These mods add or tweak existing dialogue, not to a degree I consider particularly essential or significant, but which many users seem to enjoy nonetheless. As such, they have all been deemed optional.
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
+Replaces the three standard No Lore greetings with over sixty new ones.
+
+[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 </details>
 
 # TOWNS AND DUNGEONS
