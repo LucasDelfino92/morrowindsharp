@@ -1871,7 +1871,7 @@ Wizard Staff for Wizards
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Minimalist load order</summary>
+<summary>Minimalist load order (23 plugins)</summary>
 
 ```
 Morrowind.esm
@@ -1903,7 +1903,7 @@ Merged Objects.ESP
 </details>
 
 <details>
-<summary>Maximalist load order</summary>
+<summary>Maximalist load order (123 plugins)</summary>
 
 ```
 Morrowind.esm
