@@ -35,11 +35,11 @@ Your Morrowind **Root** folder is where Morrowind will be installed, and where t
 
 For the purpose of this guide, this will be our **Root** folder and where you should install Morrowind:
 ```
-C:\Games\Morrowind\
+C:\Games\Morrowind
 ```
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 ```
-C:\Games\Morrowind Mods\
+C:\Games\Morrowind Mods
 ```
 ## Cleaning up your GOG installation
 
