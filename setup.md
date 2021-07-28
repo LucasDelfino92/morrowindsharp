@@ -184,10 +184,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Morrowind++** profile.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind#** and click **OK**. Close the window.
+- On the **Profile** tab, select the **Morrowind#** profile.
 
-Morrowind++ will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
+Morrowind# will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
 
 ### Installing Nexus mods with Mod Organizer 2
 
@@ -437,7 +437,7 @@ The file structure is how files are organized for the game to read these files a
 
 Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-> Morrowind++ features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
+> Morrowind# features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
 [To Morrowind# >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
