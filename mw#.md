@@ -723,6 +723,8 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 # OVERHAULS
 
+These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, which merits a thorough read at their respective pages.
+
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
@@ -750,6 +752,8 @@ Increases the penalties for crime.
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
+
+> Note that because of the changes this mod implements into the game, it is recommended to not use **MWSE Hide the Skooma** in conjunction with this mod.
 
 [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368?tab=files)  
 Eliminates trade exploits by overhauling the bartering mechanics.
