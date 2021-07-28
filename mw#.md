@@ -421,6 +421,8 @@ Tooltips Complete provides helpful and lore-friendly flavour texts for nearly ev
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
 - Hide **Better Propylon Teleport Warp-Master Index.ESP**.
 
+> Note that if you are playing with the official **Master Index** add-on, you should use the other ESP instead.
+
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625?tab=files)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 
