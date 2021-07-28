@@ -303,17 +303,17 @@ Corrects thrown projectiles inflicting twice their listed damage.
 <details>
 	<summary>Click to expand</summary>
 
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
-Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
-
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720?tab=files)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
+Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
+Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130?tab=files)  
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
