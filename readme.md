@@ -18,14 +18,12 @@ Morrowind# is a modular modding guide for The Elder Scrolls III: Morrowind, whic
 - Compatibility: mod conflicts will be kept to a minimum in order to ensure all mods work as intended.
 - Fidelity: mods suggested in this game should blend in seamlessly with vanilla Morrowind.
 
-All mods present in Morrowind# are 100% optional. Though obvious
-
 Morrowind# is divided in two sections:
 
 - [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup), where I walk you through to getting the necessary patches, tools and utilities, as well as our mod manager running.
-- [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind), which is the bulk of the guide and the guide proper. Many mods are recommended by default, while others are listed under "optional" spoilers, and are intended for players wanting more mods overall.
+- [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind), which is the bulk of the guide, and where we will be installing our mods proper. Many mods are recommended by default, while many others are listed under "optional" spoilers, and are intended for players wanting a more comprehensive installation. Even so, all mods present in this guide are entirely optional.
 
-All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropriate mod order and load order, can be found in these pages.
+All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropriate mod order and load order, can be found in their respective pages.
 
 ## Frequently asked questions
 
@@ -43,9 +41,9 @@ Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt c
 
 ### How many plugins and mods are there?
 
-I tried to keep the amount of mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
+I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-Depending on how far you wish to go, we are talking roughly 260 mods and 130 plugins here. But that's only if you want to install every single mod there is.
+Depending on how far you wish to go, we are talking roughly 260 mods and 130 plugins, with the "recommended" mods being half the size of the total amount.
 
 ### How much space do I need to install these mods?
 
