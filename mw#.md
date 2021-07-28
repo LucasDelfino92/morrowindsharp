@@ -1071,7 +1071,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files)  
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-### Other visuals
+### Other visual mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -1351,6 +1351,8 @@ Model replacer for book and scroll models.
 
 # TOWNS AND DUNGEONS
 
+These mods add entirely new places into the game or repurpose existing places. As such, they have all been deemed optional.
+
 <details>
 	<summary>Click to expand</summary>
 
@@ -1365,6 +1367,8 @@ Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a prie
 </details>
 
 # UNIFORMITY
+
+These mods consist of a variety of small and medium-sized tweaks in the name of in-game consistency, none of which I consider particularly essential or significant, but which many users seem to enjoy nonetheless. As such, they have all been deemed optional.
 
 <details>
 	<summary>Click to expand</summary>
