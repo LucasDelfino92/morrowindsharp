@@ -41,6 +41,10 @@ No. This guide changes many aspects of the game which will be incompatible with 
 
 Though compatibility with Tamriel Rebuilt itself is very good, Tamriel Rebuilt content will not benefit from the improvements made by many of the mods suggested here, such as visual or gameplay improvements.
 
+### Is this guide compatible with (mod)?
+
+I can't say for sure. I can only give an opinion, but at the end of the day there's no substitute for reading the description of the mod and checking for compatibility in TES3View. Same goes for questions regarding mod order and load order. The less mods you install from the guide, the better the chances any mod you install will be compatible with it.
+
 ### How many plugins and mods are there?
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
