@@ -582,12 +582,12 @@ Allows the player to find the exact amount of Adamantium Ore needed to craft Bol
 [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?tab=files)  
 Allows the player to find the Spell Breaker unique shield without having to start the quest to obtain it.
 
-[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715?tab=files)  
-Modifies armor rating calculation to lower the gap between low and high armor skills.
-
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
+
+[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715?tab=files)  
+Modifies armor rating calculation to lower the gap between low and high armor skills.
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
