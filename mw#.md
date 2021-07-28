@@ -1556,7 +1556,7 @@ DLC: Bloodmoon
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - Specialprocess
-MGE XE Shader - Krokantor's Enhanced Water Shader Updated
+Pixel Shader Style Water for MGE XE
 Patch for Purists
 Correct UV Rocks
 Rope Fence Fix
@@ -1682,7 +1682,7 @@ DLC: Bloodmoon
 MGE XE Shader - Deband Fogaware v2
 MGE XE Shader - EdgeAA
 MGE XE Shader - Specialprocess
-MGE XE Shader - Krokantor's Enhanced Water Shader Updated
+Pixel Shader Style Water for MGE XE
 Patch for Purists
 Correct UV Rocks
 Rope Fence Fix
