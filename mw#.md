@@ -6,12 +6,13 @@
 - [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools)
-- [Bug fixes](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#bug-fixes)
+- [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
-- [Hotkeys](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#hotkeys)
+- [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#qol-improvements)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay)
+- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#overhauls)
+- [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
-- [SFX](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#sfx)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
 - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
@@ -28,6 +29,12 @@
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#compatibility)
 
 # CHANGELOG
+
+<details>
+  <summary>v2.6.2 (July 28th)</summary>
+
+- Moved an assload of mods around categories, collapsing some which didn't make sense.
+</details>
 
 <details>
   <summary>v2.6.1.2 (July 21st)</summary>
