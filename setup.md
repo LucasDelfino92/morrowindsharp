@@ -2,8 +2,6 @@
 
 # MORROWIND SETUP
 
-Last updated: July 28th, 2021
-
 ![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Banner_Setup.jpg)
 
 - [Requirements](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#requirements)
