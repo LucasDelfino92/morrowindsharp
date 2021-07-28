@@ -14,6 +14,7 @@
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio)
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
+- [Towns and dungeons](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#towns-and-dungeons)
 - [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
   - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
@@ -29,6 +30,13 @@
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#compatibility)
 
 # CHANGELOG
+
+<details>
+  <summary>v2.6.2.1 (July 28th)</summary>
+
+- Removed Imperial Steel Cuirass With Belt and Dark Female Imperial Steel Cuirass.
+- Added Imperial Steel Cuirass Tweaks, which merges the above mods.
+</details>
 
 <details>
   <summary>v2.6.2 (July 28th)</summary>
@@ -628,8 +636,15 @@ Dwemer Centurions drop soul gems like they do in Skyrim.
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 
+[**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194?tab=files)  
+Because the Daedric Crescent is supposed to be illegal in the Empire, guards of the Imperial Legion will attack you if they see you carrying it.
+- Only install the **Eclipse of the Crescent Blade - With SpaceDevo's Dialogue** main file.
+
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
+
+[**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381?tab=files)  
+Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water.
@@ -678,6 +693,9 @@ Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gai
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
+Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215?tab=files)  
 Prevents souls of summoned creatures from being trapped.
@@ -729,6 +747,9 @@ Integrates (much of) the content of the Tribunal and Bloodmoon expansions within
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130?tab=files)  
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
 
 [**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368?tab=files)  
 Eliminates trade exploits by overhauling the bartering mechanics.
@@ -816,6 +837,9 @@ Adds a randomized bit of lead time to thunderclaps after lightning strikes for a
 - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
 
 > This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
+
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files)  
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
 
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826?tab=files)  
 Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
@@ -1081,6 +1105,9 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
+[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
+Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
+
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
 
@@ -1230,6 +1257,9 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
 Makes in-world soul gems that are filled appear as enchanted items.
 
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)  
+Adds ashlander Guar and Shalk herds in the game, as per in-game dialogue. The domesticated Guar and Shalk are painted with tribal identifiers.
+
 [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files)  
 Adds a simple script to make Vivec properly loop his idle animation.
 - Check the following options in the BAIN installer:
@@ -1262,8 +1292,11 @@ Replaces the Silt Strider model with one inspired by vanilla fan art, which give
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Dark Female Imperial Steel Cuirass**](https://drive.google.com/file/d/1Khfl_iHOhQJZ2JSXS6Q7OVp_LhzTmjHJ/view?usp=sharing)  
-Texture replacer that turns the pink Imperial Steel Cuirass into a dark shade of brown/black, to blend in better with the Imperial Steel armor set.
+[**Imperial Steel Cuirass Tweaks**](https://drive.google.com/file/d/14ccRwZjf56eretklOm6fJxZN_ZtpIM7g/view?usp=sharing)  
+Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
+- Check the following options in the BAIN installer:
+  - [X] 00 Male Belt
+  - [X] 01 Female Dark Cuirass
 
 [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816?tab=files)  
 Makes the Nordic Iron Helm look less goofy.
@@ -1316,6 +1349,21 @@ Model replacer for book and scroll models.
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
 </details>
 
+# TOWNS AND DUNGEONS
+
+<details>
+	<summary>Click to expand</summary>
+
+[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
+Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
+- Install the **Redaynia Village - Regular Version** main file.
+
+> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+</details>
+
 # UNIFORMITY
 
 <details>
@@ -1325,15 +1373,8 @@ Model replacer for book and scroll models.
 Gives Big Head a big head.
 - Install the **Actual Big Head** main file.
 
-[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files)  
-Despite what dialogue says, there are no ashlander Guar and Shalk herds in the game. This mod provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers. 
-
 [**Dwarven Weapons to Dwemer and Ice Armor to Stalhrim**](https://www.nexusmods.com/morrowind/mods/45429?tab=files)  
 Renames Dwarven weapons and Ice armor to Dwemer and Stalhrim respectively.
-
-[**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194?tab=files)  
-Because the Daedric Crescent is supposed to be illegal in the Empire, guards of the Imperial Legion will attack you if they see you carrying it.
-- Only install the **Eclipse of the Crescent Blade - With SpaceDevo's Dialogue** main file.
 
 [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598?tab=files)  
 Fixes Michael Mack's misreadings of the word "Dunmer", pronounced in-game as "Dumb-ner".
@@ -1364,17 +1405,8 @@ Stops Hul the Argonian from wandering upstairs outside the Balmora Camonna Tong 
 Fixes a handful of small inconsistencies between lore and what is found in-game. 
 - Install both main files.
 
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files)  
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
 [**FMI - Note from the Archcanon Fix**](https://www.nexusmods.com/morrowind/mods/45778?tab=files)  
 Fixes typos and grammatical errors in "Note from the Archcanon", including creating correct gender version for female player characters.
- 
-[**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381?tab=files)  
-Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
-
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
 
 [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411?tab=files)  
 Changes the intro cinematic from "he" to "they", to refer to the player character.
@@ -1417,26 +1449,11 @@ Adds NPCs into factions, that are not in a faction, but realistically should be,
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503?tab=files)  
 The Old Blue Fin unique creature is now larger, has a blue fin, and no eyes (as many old fishes lack).
 
-[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
-Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
-- Install the **Redaynia Village - Regular Version** main file.
-
-> An impressive restoration of Redaynia Village that is slightly less vanilla-friendly is [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646?tab=files), also compatible with this guide.
-
-[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
-Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
-
-[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278?tab=files)  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
-
 [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files)  
 The player will no longer be able to speak to NPCs when under the Silence spell.
 
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
 Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
-
-[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files)  
-Adds Sixth House smugglers to some smuggler caves, and a non-journal quest to hunt them all down.
 
 [**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869?tab=files)  
 Adds a Silver Staff of Peace, a Telvanni Mouth's symbol of office, to all Telvanni Mouths.
