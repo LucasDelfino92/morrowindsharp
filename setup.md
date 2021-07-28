@@ -286,18 +286,8 @@ Overhauls the game's lighting.
 - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
 - [**Interior comparison**](https://imgsli.com/NDg3MTA)
 
-### Optional shaders
-
-<details>
-	<summary>Click to expand</summary>
-
-[**MGE XE Shader - Krokantor's Enhanced Water Shader Updated**](https://www.nexusmods.com/morrowind/mods/49964?tab=files)  
-Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Green-Blue
-  - [ ] 01 - Blue
-  - [ ] 02 - Green
-</details>
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution. 
 
 # Finishing touches
 
