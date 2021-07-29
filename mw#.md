@@ -32,6 +32,12 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.2.2 (July 29th)</summary>
+
+- Added a note to Title Screen Reworked to advise users to skip the Logo Intro Video main file.
+</details>
+
+<details>
   <summary>v2.6.2.1 (July 28th)</summary>
 
 - Removed Imperial Steel Cuirass With Belt and Dark Female Imperial Steel Cuirass.
@@ -345,9 +351,11 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 High resolution replacer for the Daedric font used in scrolls. 
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
-[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+[**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
-- Install the **Logo Video Intro Reworked (Widescreen)** and the **Title Screen Reworked (Widescreen)** main files.
+- Install the **Title Screen Reworked (Widescreen)** main file.
+
+> In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the **Logo Video Intro Reworked (Widescreen)** main file.
 
 [**Widescreen Splash Replacer**](https://drive.google.com/file/d/17-30nzCCIb_ytqZzST17u7_2-RuMkp8j/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
@@ -1527,7 +1535,7 @@ Run Fix
 Thrown Projectiles Revamped
 Better Dialogue Font
 Better Daedric Font
-Title Screen and Logo Intro Video Reworked
+Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
 UI Expansion
@@ -1623,7 +1631,7 @@ Correct UV Mudcrabs
 Memory Monitor
 Better Dialogue Font
 Better Daedric Font
-Title Screen and Logo Intro Video Reworked
+Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
 UI Expansion
