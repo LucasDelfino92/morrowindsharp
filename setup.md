@@ -274,16 +274,14 @@ Because of their performance-intensive nature, all shaders listed here are **ent
 
 These shaders are installed through Mod Organizer 2, like most mods.
 
-[**MGE XE Shader - Deband_Fogaware v2**](https://drive.google.com/file/d/1Z9VBtfQqaHIALh0G0j-FjmT4IIbHIYIG/view?usp=sharing)  
-Improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-
-[**MGE XE Shader - EdgeAA**](https://drive.google.com/file/d/14Ug2fbP6prjM9u5h1NhGUu6LHI5iO7Lk/view?usp=sharing)  
-Improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-
-[**MGE XE Shader - specialprocess**](https://drive.google.com/file/d/1OR6Nk9n4kwQVDzFhSRFbQNqKMkHGvYoI/view?usp=sharing)  
-Overhauls the game's lighting.
-- [**Exterior comparison**](https://imgsli.com/NDg3MDk)
-- [**Interior comparison**](https://imgsli.com/NDg3MTA)
+[**MGE XE Shader Pack**](https://drive.google.com/file/d/1g-pQsjk22I70lbfDhgr2XrK0C-xdx8fY/view?usp=sharing)  
+Includes the following shaders, which you can select using a BAIN installer.
+- Check the following options in the BAIN installer: 
+  - [X] 00 deband_fogaware v2: improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+  - [X] 01 EdgeAA: improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+  - [X] 02 specialprocess: overhauls the game's lighting.
+    - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
+    - [**Interior comparison**](https://imgsli.com/NDg3MTA)
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution. 
