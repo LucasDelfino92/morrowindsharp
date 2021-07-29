@@ -186,7 +186,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 - With the **Default** profile selected, click **Copy**. Type in **Morrowind#** and click **OK**. Close the window.
 - On the **Profile** tab, select the **Morrowind#** profile.
 
-Morrowind# will be the profile we'll be modding. You can always revert to the **Vanilla** profile to quickly deactivate all installed mods.
+Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Installing Nexus mods with Mod Organizer 2
 
@@ -196,7 +196,7 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 - Click **Slow download**.
 - In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
 - Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Patch for Purists 4.0.2").
 - Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
