@@ -35,6 +35,7 @@
   <summary>v2.6.2.2 (July 29th)</summary>
 
 - Added a note to Title Screen Reworked to advise users to skip the Logo Intro Video main file.
+- Added Signposts Retextured, an alternative to Near Vanilla Road Sign Replacer.
 </details>
 
 <details>
@@ -948,6 +949,8 @@ Makes road signs legible. Uses low resolution vanilla-friendly textures.
   - [X] 01 Vvardenfell only
   - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
 
+> A high resolution road sign replacer that is slightly less vanilla-friendly is [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?tab=files), also compatible with this guide.
+
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733?tab=files)  
 Adds groundcover to almost all regions.
 - Install the **Remiros' Groundcover** main file.
@@ -1580,7 +1583,7 @@ Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
 I Lava Good Mesh Replacer
-Near Vanilla Road Sign Replacer
+Near Vanilla Road Sign Replacer OR Signposts Retextured
 Remiros' Groundcover
 Apel's Rain Replacer
 Glow in the Dahrk
@@ -1771,7 +1774,7 @@ Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
 I Lava Good Mesh Replacer
-Near Vanilla Road Sign Replacer
+Near Vanilla Road Sign Replacer OR Signposts Retextured
 Remiros' Groundcover
 Apel's Rain Replacer
 Glow in the Dahrk
@@ -1901,7 +1904,7 @@ Services Restored.ESP
 Great Service.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-NearVanillaRoadSigns.ESP
+NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
@@ -1985,7 +1988,7 @@ Store Entrance Chimes - Alt Ver.ESP
 Tunnel Cough.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-NearVanillaRoadSigns.ESP
+NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
