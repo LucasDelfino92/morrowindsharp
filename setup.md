@@ -105,7 +105,7 @@ When you first install MGE XE, it will automatically download the latest MWSE up
 
 - Manually download the **Mod Organizer 2** main file.
 - Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Morrowind Mods folder, and create a MO2 folder inside (**C:\Games\Morrowind Mods\MO2**).
+- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
 ## Configuration
