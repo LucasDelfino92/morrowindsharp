@@ -1036,6 +1036,9 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 </details>
 
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894?tab=files)  
 Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
 
@@ -1274,9 +1277,6 @@ Adds glow maps from PeterBitt's Luminous Atronachs to Rotat's Creature VFX Resto
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
 Pluginless replacer version of the base khajiit heads.
 - Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
 [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files)  
 Replaces the Silt Strider model with one inspired by vanilla fan art, which gives the Silt Strider a more adequate look for a transportation creature.
@@ -1584,6 +1584,7 @@ Weather Adjuster
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
+Silt Strider Animation Restored
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
@@ -1774,6 +1775,7 @@ Weather Adjuster
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
+Silt Strider Animation Restored
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
@@ -1816,7 +1818,6 @@ Glowing Atronachs 1.01
 Incarnates Overhauled
 Luminous VFX Atronachs
 Pluginless Khajiit Head Pack
-Silt Strider Animation Restored
 Silt Strider Redone
 Complete Armor Joints
 Imperial Steel Cuirass Tweaks
@@ -1894,6 +1895,7 @@ Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
+Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
 multipatch.ESP
 Merged Objects.ESP
@@ -1977,6 +1979,7 @@ Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
+Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
 Mournhold LOD.ESP
 Inscribed Maar Gan Rock.ESP
@@ -1994,7 +1997,6 @@ Ashlanders Herd.ESP
 Buoyant Lord Vivec.ESP
 Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
-Silt Strider Animation Restored.ESP
 Complete Armor Joints.ESP
 Adamantium Axe 1H.ESP
 SoldierBeltsFix.ESP
