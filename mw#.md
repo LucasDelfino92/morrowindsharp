@@ -8,7 +8,7 @@
 - [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools)
 - [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
 - [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
-- [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#qol-improvements)
+- [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#quality-of-life-improvements)
 - [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay)
 - [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#overhauls)
 - [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio)
