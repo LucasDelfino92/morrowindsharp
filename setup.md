@@ -275,7 +275,7 @@ Because of their performance-intensive nature, all shaders listed here are **ent
 These shaders are installed through Mod Organizer 2, like most mods.
 
 [**MGE XE Shader Pack**](https://drive.google.com/file/d/1g-pQsjk22I70lbfDhgr2XrK0C-xdx8fY/view?usp=sharing)  
-Includes the following shaders, which you can select using a BAIN installer.
+A compilation of a handful of community-made shaders.
 - Check the following options in the BAIN installer: 
   - [X] 00 deband_fogaware v2: improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
   - [X] 01 EdgeAA: improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
