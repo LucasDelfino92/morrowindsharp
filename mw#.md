@@ -32,6 +32,18 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.3 (July 31st)</summary>
+
+- Added Opponent Fatigue Indicator (User Interface).
+- Added No More Friendly Fire (QOL Improvements).
+- Added Pickpocket (Overhauls).
+- Added Harder Barter (Overhauls).
+- Removed Gondolier Destinations (QOL Improvements). I'm not listing a mod that lets you travel to any town from any Silt Strider port, and I'd say that's more of a quality of life improvement than being able to freely travel between Vivec cantons...
+- Removed Armor Rating (Gameplay). As much as I'm behind the changes to the armor rating formula, the truth is you can't just make such a big change to the game's armor mechanics without expecting some massive (early game enemies being far more forgiving, late game enemies hitting much harder, armor rating skills not feeling as important) downsides.
+- Removed HardTrade (Overhauls). Harder Barter does more with less in my opinion, plus it has the advantage that in-game gold and gold rewards become far more valuable (instead of losing their value altogether like they do in HardTrade).
+</details>
+
+<details>
   <summary>v2.6.2.2 (July 29th)</summary>
 
 - Added a note to Title Screen Reworked to advise users to skip the Logo Intro Video main file.
@@ -374,6 +386,9 @@ Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a
 [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
 Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
 
+[**Opponent Fatigue Indicator - MWSE LUA Edition**](https://www.nexusmods.com/morrowind/mods/50060?tab=files)  
+Adds a fatigue indicator to opponents when dealing fatigue damage in combat.
+
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
@@ -390,21 +405,22 @@ Adds a confirmation popup when you click on New Game in the main menu.
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851?tab=files)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 
-[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527?tab=files)  
-Restores the description tooltip to the vanilla class selection menu.
+[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
+Displays skills taught by Skillbooks.
+
+[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
+Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
+
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
+Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+
+> If you installed **Tamrielic Lore Tooltips**, also install the **Tamrielic Lore Exclusions** optional file.
 
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?tab=files)  
 Adds clock to UI that displays either game world time or real time (depending on settings).
-
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954?tab=files)  
-Renames keys so they'll have a consistent naming scheme.
-- Install the **Consistent Keys - MWSE Version** main file.
 	
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962?tab=files)  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
-Renames propylon indexes so they'll group together in the inventory.
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492?tab=files)  
 Adds several new options for the journal and quest pages.
@@ -412,18 +428,18 @@ Adds several new options for the journal and quest pages.
 [**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634?tab=files)  
 Automatically switches between the local and world map depending on user configuration.
 
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954?tab=files)  
+Renames keys so they'll have a consistent naming scheme.
+- Install the **Consistent Keys - MWSE Version** main file.
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941?tab=files)  
+Renames propylon indexes so they'll group together in the inventory.
+
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
 Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
 
-[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
-Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of skills taught by Skillbooks and mod source may also be enabled from the MCM control panel.
-
-[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
-Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
-
-[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
-Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
-- Also install the **Tamrielic Lore Exclusions** optional file.
+[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527?tab=files)  
+Restores the description tooltip to the vanilla class selection menu.
 </details>
 
 # QUALITY OF LIFE IMPROVEMENTS
@@ -494,11 +510,17 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+[**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801?tab=files)  
+Stops friendly fire: player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Optionally stops combat from occurring between friendly actors.
+
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681?tab=files)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341?tab=files)  
 Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
+
+[**QuickLoot**](https://www.nexusmods.com/morrowind/mods/46283?tab=files)  
+Adds a Fallout 4-style real-time loot menu to Morrowind.
 
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458?tab=files)  
 Exit any menu by right clicking (or whatever your menu key is mapped to).
@@ -533,9 +555,6 @@ Adds new controls for swimming and levitating. Use the jump key to float upwards
 
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267?tab=files)  
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-
-[**Gondolier Destinations**](https://www.nexusmods.com/morrowind/mods/42306?tab=files)  
-Each gondolier in Vivec will get you to all gondolier ports in Vivec.
 
 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976?tab=files)  
 Adds hotkeys for journal Quests and Topics.
@@ -606,9 +625,6 @@ Allows the player to find the Spell Breaker unique shield without having to star
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
-[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715?tab=files)  
-Modifies armor rating calculation to lower the gap between low and high armor skills.
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -738,6 +754,9 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, which merits a thorough read at their respective pages.
 
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
@@ -768,34 +787,8 @@ Fixes lore to gameplay inconsistencies pertaining to contraband items and servic
 
 > Note that because of the changes this mod implements into the game, it is recommended to not use **MWSE Hide the Skooma** in conjunction with this mod.
 
-[**HardTrade**](https://www.nexusmods.com/morrowind/mods/47368?tab=files)  
-Eliminates trade exploits by overhauling the bartering mechanics.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\HardTrade\main.lua** using a text editor.
-- Comment out both **tes3.findGMST** lines and the **event.register("uiActivated", onPersuationMenu, {filter = "MenuPersuasion"})** line using "--", like so:
-```
-local function initialized(e)
---tes3.findGMST("fBargainOfferMulti").value = -10		tes3.findGMST("fSpellMakingValueMult").value = 10		tes3.findGMST("fEnchantmentValueMult").value = 100
---tes3.findGMST("fBribe10Mod").value = 20				tes3.findGMST("fBribe100Mod").value = 50				tes3.findGMST("fBribe1000Mod").value = 100
-event.register("calcBarterPrice", onCalcBarterPrice)
-event.register("calcTrainingPrice", onCalcPrice)
-event.register("calcSpellPrice", onCalcPrice)
-event.register("calcTravelPrice", onCalcPrice)
-event.register("calcRepairPrice", onCalcPrice)
---event.register("filterInventory", onFilterInventory)
---event.register("uiActivated", onPersuationMenu, {filter = "MenuPersuasion"})
-event.register("uiActivated", onBarterMenu, {filter = "MenuBarter"})
---event.register("uiActivated", onInventory, {filter = "MenuInventory"})
---event.register("menuEnter", onMenuEnter)
-event.register("loaded", onLoaded)
-end
-event.register("initialized", initialized)
-```
-- Save your changes.
-
-> By commenting out the two tes3.findGMST lines you will actually be commenting out *six* GMST edits, because of the way the code was written.
-
-> This solves a compatibility issue with mods that alter these GMSTs (such as **BTB's Game Improvements**), and disables the Investing feature.
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files)  
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251?tab=files)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
@@ -1544,6 +1537,7 @@ Widescreen Splash Additions
 UI Expansion
 Better Questlist
 Companion Health Bars
+Opponent Fatigue Indicator - MWSE LUA Edition
 Continue
 New Game Confirmation
 Better Propylon Teleport Script
@@ -1557,8 +1551,10 @@ Graphic Herbalism Lighting
 Hotkeys Extended
 Improved Temple Experience
 MWSE Hide the Skooma
+No More Friendly Fire
 No Thank You
 Quick Equip
+QuickLoot
 Right Click Menu Exit
 Security Enhanced
 Shrine Tooltips
@@ -1571,6 +1567,7 @@ Marksman Rebalanced
 Putting Power in Willpower
 Services Restored
 Sneaky Strike
+Pickpocket
 Stealth Improved
 Great Service
 Sheep-no-More
@@ -1640,20 +1637,21 @@ Widescreen Splash Additions
 UI Expansion
 Better Questlist
 Companion Health Bars
+Opponent Fatigue Indicator - MWSE LUA Edition
 Continue
 New Game Confirmation
 Book Worm
-Class Description Tooltip
-Clock Block
-Consistent Keys
-HUD Weapon Charge
-Propylon Index Renamer
-Smart Journal
-Smart Map
-Soulgem Renamer
 Tooltip
 Tamrielic Lore Tooltips
 Tooltips Complete
+Clock Block
+HUD Weapon Charge
+Smart Journal
+Smart Map
+Consistent Keys
+Propylon Index Renamer
+Soulgem Renamer
+Class Description Tooltip
 Better Propylon Teleport Script
 Book Pickup
 Diligent Defenders
@@ -1664,8 +1662,10 @@ Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hotkeys Extended
 Improved Temple Experience
+No More Friendly Fire
 No Thank You
 Quick Equip
+QuickLoot
 Right Click Menu Exit
 Security Enhanced
 Shrine Tooltips
@@ -1675,7 +1675,6 @@ The Publicans
 Torch Hotkey
 Better Buoyancy
 Essential Indicators
-Gondolier Destinations
 Hot Quests
 Kill Command
 No Auto Vanity Camera
@@ -1690,7 +1689,6 @@ Sneaky Strike
 Adamantium Ore Fix
 Always There Spell Breaker
 Area Effect Projectiles Integrated
-Armor Rating
 Bed Buddies
 Blighted Blight
 Blighted Mine Means Blighted Workers
@@ -1731,6 +1729,7 @@ True Scourge
 Vegtabills Threads of the Webspinner
 Wading in Water MW
 Wings of Will
+Pickpocket
 Stealth Improved
 Class-Conscious Character Progression (CCCP)
 Creeping Blight
@@ -1738,7 +1737,7 @@ Early Transport to Mournhold
 Expansions Integrated (Sigourn Edit)
 Economy Adjuster Adjustments (Crime Module)
 FMI - Service Refusal and Contraband
-HardTrade
+Harder Barter
 Nimble Armor
 Morrowind Anti-Cheese - Ownership Overhaul Compatible
 Ownership Overhaul
@@ -1936,7 +1935,6 @@ Better Propylon Teleport Warp-Master Index.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
 The Publicans.ESP
-PB_GondolierDestinations.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Services Restored.ESP
@@ -2196,10 +2194,6 @@ General Settings
 Crosshair Settings  
 - Set **Crosshair Scale** to 80%.
 - Set **Sneaking Crosshair Scale** to 80%.
-
-### HardTrade
-
-- Disable **Limit player stats to 100 when trading**.
 
 ### Let There Be Darkness - Lua Lighting Overhaul
 
