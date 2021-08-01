@@ -36,7 +36,9 @@
 
 - Added Opponent Fatigue Indicator (User Interface).
 - Added No More Friendly Fire (QOL Improvements).
+- Added QuickLoot (QOL Improvements).
 - Added Pickpocket (Overhauls).
+- Added Stealth Improved (Overhauls).
 - Added Harder Barter (Overhauls).
 - Removed Gondolier Destinations (QOL Improvements). I'm not listing a mod that lets you travel to any town from any Silt Strider port, and I'd say that's more of a quality of life improvement than being able to freely travel between Vivec cantons...
 - Removed Armor Rating (Gameplay). As much as I'm behind the changes to the armor rating formula, the truth is you can't just make such a big change to the game's armor mechanics without expecting some massive (early game enemies being far more forgiving, late game enemies hitting much harder, armor rating skills not feeling as important) downsides.
