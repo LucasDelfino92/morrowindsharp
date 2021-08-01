@@ -32,6 +32,15 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.6.3.1 (August 1st)</summary>
+
+- Added Consistent Enchanting (Patches).
+- Added Alchemical Knowledge (User Interface).
+- Added Useful Bound Armor (Gameplay).
+- Added Dark Brotherhood Headquarters (Visuals).
+</details>
+
+<details>
   <summary>v2.6.3 (July 31st)</summary>
 
 - Added Opponent Fatigue Indicator (User Interface).
@@ -340,6 +349,9 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029?tab=files)  
+Carries over unique item information, such as condition and script data when enchanting items.
+
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
@@ -381,6 +393,9 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
+
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036?tab=files)  
+Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
@@ -612,6 +627,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317?tab=files)  
 Modifies critical strike coefficient depending on the weapon you use.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829?tab=files)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 ### Other gameplay mods
 
@@ -1098,6 +1116,9 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - [ ] 02 Animated Replacer - Greener Color
   - [ ] 03 Standalone - Lougian's Meshes Fixed
 
+[**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files)  
+Redecorates the Dark Brotherhood's hideout in Mournhold so that it no longer looks like it is inhabited by some sorts of lowlife. Also replaces the respawning generic assassins with unique named ones.
+
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -1537,6 +1558,7 @@ Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
 UI Expansion
+Alchemical Knowledge
 Better Questlist
 Companion Health Bars
 Opponent Fatigue Indicator - MWSE LUA Edition
@@ -1569,6 +1591,7 @@ Marksman Rebalanced
 Putting Power in Willpower
 Services Restored
 Sneaky Strike
+Useful Bound Armor
 Pickpocket
 Stealth Improved
 Great Service
@@ -1627,6 +1650,7 @@ Run Fix
 Thrown Projectiles Revamped
 Dubdilla Location Fix
 LDM - Context Matters
+Consistent Enchanting
 Quest Skill Reward Fix
 Skill Increase GMST Fix
 Correct UV Mudcrabs
@@ -1637,6 +1661,7 @@ Title Screen Reworked
 Widescreen Splash Replacer
 Widescreen Splash Additions
 UI Expansion
+Alchemical Knowledge
 Better Questlist
 Companion Health Bars
 Opponent Fatigue Indicator - MWSE LUA Edition
@@ -1688,6 +1713,7 @@ Marksman Rebalanced
 Putting Power in Willpower
 Services Restored
 Sneaky Strike
+Useful Bound Armor
 Adamantium Ore Fix
 Always There Spell Breaker
 Area Effect Projectiles Integrated
@@ -1796,6 +1822,7 @@ Weapon Sheathing Additions
 3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
 Bitter Coast Scum Replacer
+Dark Brotherhood Headquarters
 Distant Mournhold
 Inscribed Maar Gan Rock
 Know Thy Ancestors
@@ -1992,6 +2019,7 @@ NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
+DBHQ.ESP
 Mournhold LOD.ESP
 Inscribed Maar Gan Rock.ESP
 Know Thy Ancestors.ESP
@@ -2065,11 +2093,12 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
-  - ActualBigHead.ESP
-  - Divayth Fyr Puzzle Fixed.ESP
-  - GiantNetch.ESP
-  - Nordic Chest Replacer.ESP
   - Always there Spell Breaker.ESP
+  - Divayth Fyr Puzzle Fixed.ESP
+  - DBHQ.ESP
+  - Nordic Chest Replacer.ESP
+  - ActualBigHead.ESP
+  - GiantNetch.ESP
 
 ## CONFLICT RESOLUTION
 
