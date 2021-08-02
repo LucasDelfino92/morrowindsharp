@@ -2244,6 +2244,10 @@ Light Settings
 
 - Enable **Allow negative Resist Bonus**.
 
+### Quick Loot
+
+- Disable **Show quickloot menu on plant / organic containers**.
+
 ### Security Enhanced
 
 - Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
@@ -2268,6 +2272,8 @@ The mods installed in this guide and configured as mentioned above will use the 
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+Z | Take single item | QuickLoot
+X | Take all items | QuickLoot
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
 K | Orders followers to attack the current target | Kill Command
