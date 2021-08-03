@@ -2237,7 +2237,7 @@ Light Settings
 
 ### Limited Leaping
 
-- Set **Cooldown between jumps** to 1.
+- Set **Cooldown between jumps** to 0.
 - Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using BTB's Game Improvements.
 
 ### Putting Power in Willpower
