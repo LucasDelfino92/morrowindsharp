@@ -2248,21 +2248,16 @@ Light Settings
 
 - Disable **Show quickloot menu on plant / organic containers**.
 
-### Security Enhanced
-
-- Disable **Enable Lockpick Auto-Equip On Locked Object Activation**.
-- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
-
 ### Stealth Improved
 
-- Disable **Experimental Enablel light-based Stealth**.
+- Disable **Experimental Enable light-based Stealth**.
 - Disable **Show Light Bar**.
 
 ### UI Expansion
 
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after launching the game again.
 
-- Set **Auto-select search bar** to None.
+- Set **Change map mode on cell change?** to Off.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
