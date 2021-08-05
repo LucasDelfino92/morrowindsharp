@@ -1687,7 +1687,7 @@ Merged Objects.ESP
 </details>
 
 <details>
-<summary>Maximalist load order (123 plugins)</summary>
+<summary>Maximalist load order (75 plugins)</summary>
 
 ```
 Morrowind.esm
