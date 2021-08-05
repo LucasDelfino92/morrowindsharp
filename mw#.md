@@ -39,7 +39,6 @@
 - Added [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files) (Overhauls) (optional).
 - Moved [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) from Overhauls (optional) to Visuals (the visual aspect being the reason it is included in the guide, as opposed to its gameplay features).
 - Moved [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files) from Visuals to Visuals (optional).
-- Moved [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743?tab=files) to Gameplay (optional).
 - Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing).
 
 The following mods have been removed from the guide. In virtually all of these cases, it's because I think they didn't warrant their inclusion. I don't consider them to be as "essential" as many other mods present here.
@@ -50,6 +49,7 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Corsair's Steam Centurions**](https://drive.google.com/file/d/1cPdeU3_3Rc_N1XdigDUmHQSVdNvZ_ypx/view?usp=sharing) (Gameplay).
 - Removed [**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194?tab=files) (Gameplay).
 - Removed [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381?tab=files) (Gameplay).
+- Removed [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330?tab=files) (Gameplay).
 - Removed [**Master Index UMOPP**](https://drive.google.com/file/d/1QSXFWyHttjeUaXUQsB1DHbIbiceptBzd/view?usp=sharing) (Gameplay).
 - Removed [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788?tab=files) (Gameplay).
 - Removed [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915?tab=files) (Gameplay).
@@ -100,6 +100,7 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Lord's Mail and Morningstars**](https://www.nexusmods.com/morrowind/mods/49878?tab=files) (Uniformity).
 - Removed [**Lore-Friendly Iron Warhammer**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (Uniformity).
 - Removed [**More Redoran Master Helms**](https://www.nexusmods.com/morrowind/mods/47600?tab=files) (Uniformity).
+- Removed [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743?tab=files) (Uniformity).
 - Removed [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503?tab=files) (Uniformity).
 - Removed [**Silence**](https://www.nexusmods.com/morrowind/mods/37921?tab=files) (Uniformity).
 - Removed [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files) (Uniformity).
@@ -771,18 +772,11 @@ Adds in lock-bashing from Daggerfall.
 [**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
-[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330?tab=files)  
-Spellcasting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
-
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
 Removes "Diseased", "Blighted", and similar adjectives from creature names.
-
-[**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743?tab=files)
-Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
-- Hide **NPC Faction Affiliation Corrector (Minimalistic).ESP**.
 
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
 Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
@@ -1546,10 +1540,8 @@ Limited Leaping
 Limited Resting Waiting and Regen
 Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
-Magicka Based Skill Progression
 Merlord's Starting Equipment
 No Disease Labels
-NPC Faction Affiliation Corrector
 Plunder the Dungeon
 Projectiles Reintegrated
 Realistic Movement Speeds
@@ -1725,7 +1717,6 @@ Blight Is Coming.ESP
 Divayth Fyr Puzzle Fixed.ESP
 dwemer_soulgems.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
-NPC Faction Affiliation Corrector (Maximalistic).ESP
 Clean Plunder the Dungeon.ESP
 Projectiles Reintegrated.ESP
 veg-TotW-books.ESP
