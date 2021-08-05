@@ -62,6 +62,7 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232?tab=files) (Overhauls).
 - Removed [**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690?tab=files) (Overhauls).
 - Removed [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968?tab=files) (Audio).
+- Removed [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586?tab=files) (Audio).
 - Removed [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?tab=files) (Audio).
 - Removed [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files) (Visuals).
 - Removed [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816?tab=files) (Visuals).
@@ -930,9 +931,6 @@ With this plugin the player can hear an actual noise when he's under the effects
 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?tab=files)  
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
 
-[**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586?tab=files)  
-Adds entrance bell chimes with sound effects to Imperial town tradehouses and taverns.
-
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
 Simulates water sounds when colliding with generic fake animated water meshes.
 </details>
@@ -1064,6 +1062,9 @@ end
 - Save your changes.
 
 > This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
+
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files)  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
@@ -1580,7 +1581,6 @@ No Female Nord Screeching
 Outdoor Banners With Sound
 Sound Spell Sound Effect
 Sounds of Souls
-Store Entrance Chimes
 Water Sounds
 Intelligent Textures
 Facelift
@@ -1738,7 +1738,6 @@ RFD_Heartthrum.ESP
 Idle Talk.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
-Store Entrance Chimes - Alt Ver.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
