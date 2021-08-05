@@ -38,6 +38,7 @@
 - Added [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461?tab=files) (Overhauls) (optional).
 - Added [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files) (Overhauls) (optional).
 - Moved [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) from Overhauls (optional) to Visuals (the visual aspect being the reason it is included in the guide, as opposed to its gameplay features).
+- Moved [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files) from Patches (optional) to Dialogue.
 - Moved [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files) from Audio (optional) to Dialogue (optional).
 - Moved [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files) from Audio (optional) to Dialogue (optional).
 - Moved Dialogue after Audio.
@@ -430,9 +431,6 @@ Corrects thrown projectiles inflicting twice their listed damage.
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720?tab=files)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029?tab=files)  
 Carries over unique item information, such as condition and script data when enchanting items.
@@ -936,7 +934,8 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 
 # DIALOGUE
 
-None of these mods are considered "essential".
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 <details>
 	<summary>Click to expand</summary>
@@ -1409,6 +1408,7 @@ Stealth Improved
 Great Service
 Sheep-no-More
 Shut the Fuck up Cliff Racers
+LDM - Context Matters
 Intelligent Textures
 Facelift
 Comrade Raven's Book Arts Replacer
@@ -1461,7 +1461,6 @@ Loading Doors Lock Tune
 Run Fix
 Thrown Projectiles Revamped
 Dubdilla Location Fix
-LDM - Context Matters
 Consistent Enchanting
 Quest Skill Reward Fix
 Skill Increase GMST Fix
@@ -1585,6 +1584,7 @@ Outdoor Banners With Sound
 Sound Spell Sound Effect
 Sounds of Souls
 Water Sounds
+LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
 Idle Talk
@@ -1678,6 +1678,7 @@ The Publicans.ESP
 Expansion Delay.ESP
 Services Restored.ESP
 Great Service.ESP
+LDM - Context Matters 1.5.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
@@ -1706,7 +1707,6 @@ chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Dubdilla Location Fix.ESP
-LDM - Context Matters 1.5.ESP
 Better Propylon Teleport Warp.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
@@ -1741,6 +1741,7 @@ Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
+LDM - Context Matters 1.5.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
 Idle Talk.ESP
