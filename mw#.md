@@ -42,6 +42,9 @@
 - Moved [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files) from Visuals to Visuals (optional).
 - Moved [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743?tab=files) to Gameplay (optional).
 - Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing).
+
+The following mods have been removed from the guide. In virtually all of these cases, it's because I think they didn't warrant their inclusion. I don't consider them to be as "essential" as many other mods present here.
+	
 - Removed [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files) (User Interface).
 - Removed [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files) (User Interface).
 - Removed [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933?tab=files) (QOL Improvements).
