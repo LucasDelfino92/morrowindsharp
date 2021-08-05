@@ -31,6 +31,23 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.7.1 (August 5th Follow-up)</summary>
+
+- Moved [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) from Gameplay to Overhauls (optional) (it's basically a companion mod to FMI - Service Refusal and Contraband).
+- Removed [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) (User Interface).
+- Removed [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) (Gameplay).
+- Removed [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) (Audio) (sorry Null).
+- Removed [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) (Audio).
+- Removed [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) (Visuals).
+- Removed [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) (Visuals).
+- Removed [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals).
+- Removed [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) (Visuals).
+- Removed [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?) (Visuals).
+- Removed [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) (Visuals).
+- Removed [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) (Visuals).
+</details>
+
+<details>
   <summary>v2.7 (August 5th)</summary>
 
 - Added [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971?tab=files) (Gameplay) (optional).
@@ -530,9 +547,6 @@ Renames propylon indexes so they'll group together in the inventory.
 
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
 Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
-
-[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527?tab=files)  
-Restores the description tooltip to the vanilla class selection menu.
 </details>
 
 # QUALITY OF LIFE IMPROVEMENTS
@@ -723,9 +737,6 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Atte
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
 Restores the possibility of contracting blight diseases while out in a blight storm. As per in-game dialogue, you can now actually catch blight from blight storms.
 
-[**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920?tab=files)  
-If a mine is blighted, the Kwama Worker standing outside of it will now be blighted as well.
-
 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
 As per in-game dialogue, Corprus Beasts will now have a chance to spawn during blight storms.
 
@@ -755,9 +766,6 @@ Dwemer Centurions drop soul gems like they do in Skyrim.
 
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
-
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
-Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water.
@@ -831,6 +839,9 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130?tab=files)  
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107?tab=files)  
+Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
@@ -922,12 +933,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300?tab=files)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
-
-[**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?tab=files)  
-Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
-
-[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
-Simulates water sounds when colliding with generic fake animated water meshes.
 </details>
 
 # DIALOGUE
@@ -1118,6 +1123,11 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
 
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
+Adds visible projectiles on anything they hit.
+
+> Note that this mod, as ambitious as it is, has its flaws. Read the mod's description for a more thorough explanation.
+
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install the **WeaponSheathing 1.6-MWSE** main file.
@@ -1146,12 +1156,6 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
 Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
-
-[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
-- Check the following option in the BAIN installer: 
-  - [ ] 00 Flowing Mire
-  - [X] 01 Still Mire
 
 [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
@@ -1205,45 +1209,8 @@ Adds ambient noise and dragonflies all over the Bitter Coast region. Original pl
 [**Flies**](https://drive.google.com/file/d/1MsRxCAOooJdifoAoJRfqzMfnkOyk2TO4/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
-[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
-Adds a heat haze shader with region and weather conditions selectable in-game. The effect gets faster, stronger and closer when near lava pools.
-
-> This shader must be registered in MGE XE's shader chain for it to work.
-
-[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112?tab=files)  
-Replaces the vanilla mist effect.
-- Check the following options in the BAIN installer:
-  - [ ] 00 Core
-  - [X] 01 Vanilla Mist Replacer
-  - [ ] Scumpatibility
-
-> Note that the complete mod is incompatible with **Bitter Coast Scum Replacer**.
-
-[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
-Adds visible projectiles on anything they hit.
-
-> Note that this mod, as ambitious as it is, has its flaws. Read the short FAQ in the mod's page to know which they are.
-
-[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339?tab=files)  
-Replaces corprus meat models with animated, twitching ones.
-
-[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?tab=files)  
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell.
-
-> This shader must be registered in MGE XE's shader chain for it to work.
-
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
-
-[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?tab=files)  
-Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [ ] 01 Default Dust
-  - [X] 01 Denser Dust
-
-[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709?tab=files)  
-Makes in-world soul gems that are filled appear as enchanted items.
 
 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
 Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
@@ -1273,10 +1240,6 @@ Tweaks bows so that they line up better with the sheathing animation.
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281?tab=files)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install the **Gold coins** main file.
-
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100?tab=files)  
 Replaces all the bookcovers, bookpages and scrolls.
 
@@ -1297,11 +1260,13 @@ Model replacer for book and scroll models.
     - [ ] 04 MD books + RR pages & scrolls
     - [ ] 05 STA Guide-to Replacer
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
+
+[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124?tab=files)  
+Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
+- Install the **Gold coins** main file.
 </details>
 
 # TOWNS AND DUNGEONS
-
-None of these mods are considered "essential".
 
 <details>
 	<summary>Click to expand</summary>
@@ -1488,7 +1453,6 @@ Smart Map
 Consistent Keys
 Propylon Index Renamer
 Soulgem Renamer
-Class Description Tooltip
 Better Propylon Teleport Script
 Book Pickup
 Diligent Defenders
@@ -1528,7 +1492,6 @@ Always There Spell Breaker
 Area Effect Projectiles Integrated
 Bed Buddies
 Blighted Blight
-Blighted Mine Means Blighted Workers
 Blight Is Coming
 Borrowed Time
 Brutal Backstabbing
@@ -1539,7 +1502,6 @@ Drop Light
 Dungeons Rest
 Dwemer Soul Gems
 Dynamic Timescale
-FMI - Hospitality Papers Expanded
 Hold Your Breath
 Light Decay
 Limited Leaping
@@ -1560,6 +1522,7 @@ Class-Conscious Character Progression (CCCP)
 Creeping Blight
 Early Transport to Mournhold
 Economy Adjuster Adjustments (Crime Module)
+FMI - Hospitality Papers Expanded
 FMI - Service Refusal and Contraband
 Harder Barter
 Nimble Armor
@@ -1582,8 +1545,6 @@ Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
 Sound Spell Sound Effect
-Sounds of Souls
-Water Sounds
 Great Service
 LDM - Context Matters
 FMI - NotAllDunmer
@@ -1613,11 +1574,11 @@ Subtle Magic Glow
 Subtle Smoke
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
+Pincushion
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing Additions
 3D Vines Vanilla Mushroom Trees
-Ashmire Replacer
 Bitter Coast Scum Replacer
 Distant Mournhold
 Inscribed Maar Gan Rock
@@ -1629,14 +1590,7 @@ Vivec Palace Water Replacer
 Well Diversified
 Bitter Coast Sounds (UMOPP)
 Flies
-Heat Haze
-Mistify
-Pincushion
-R-Zero's Throbbing Meat - a Corprus Meat Replacer
-Shattered Stones - An Earthquake Mod
 The Dream is the Door
-Unto Dust
-Visually Filled Soul Gems
 Glowing Atronachs 1.01
 Incarnates Overhauled
 Pluginless Khajiit Head Pack
@@ -1718,16 +1672,15 @@ Services Restored.ESP
 Adamantium Ore Fix.ESP
 Always there Spell Breaker.ESP
 Area Effect Projectiles Integrated.ESP
-Clean Blighted_Kwama_Workers.ESP
 Blight Is Coming.ESP
 Divayth Fyr Puzzle Fixed.ESP
 dwemer_soulgems.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
 Clean Plunder the Dungeon.ESP
 Projectiles Reintegrated.ESP
 veg-TotW-books.ESP
 Early Transport to Mournhold.ESP
 EcoAdjCrime (Necro Edit).ESP
+Hospitality_Papers_Expanded_v2.7.ESP
 FMI_ServiceRefusal_Contraband.ESP
 Morrowind Anti-Cheese.ESP
 Realistic_Repair_Add-on.ESP
@@ -1761,7 +1714,6 @@ Trackless Grazeland.ESP
 Well Diversified.ESP
 bcsounds.ESP
 Flies.ESP
-Shattered Stones - An Earthquake Mod.ESP
 The Dream is the Door.ESP
 Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
