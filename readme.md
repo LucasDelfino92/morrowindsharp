@@ -49,7 +49,7 @@ I can't say for sure. I can only give an opinion, but at the end of the day ther
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-There are 75 recommended (a.k.a. "essential") mods, totalling 23 plugins. For people who love to mod their games, there are a total of 210 mods and 75 plugins.
+There are roughly 85 recommended (a.k.a. "essential") mods, totalling 25 plugins. For people who love to mod their games, there are a total of 210 mods and 75 plugins.
 
 ### How much space do I need to install these mods?
 
