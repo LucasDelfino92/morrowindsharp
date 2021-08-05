@@ -38,6 +38,9 @@
 - Added [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461?tab=files) (Overhauls) (optional).
 - Added [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files) (Overhauls) (optional).
 - Moved [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) from Overhauls (optional) to Visuals (the visual aspect being the reason it is included in the guide, as opposed to its gameplay features).
+- Moved [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files) from Audio (optional) to Dialogue (optional).
+- Moved [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files) from Audio (optional) to Dialogue (optional).
+- Moved Dialogue after Audio.
 - Moved [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files) from Visuals to Visuals (optional).
 - Moved [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files) from Visuals to Towns and Dungeons.
 - Moved [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files) from Visuals to Towns and Dungeons.
@@ -905,9 +908,6 @@ Adds a randomized bit of lead time to thunderclaps after lightning strikes for a
 
 > This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
 
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files)  
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826?tab=files)  
 Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
 - Check the following options in the BAIN installer:
@@ -917,9 +917,6 @@ Gives Nordic barrows on Solstheim their own sound effect. You will hear some dee
 
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178?tab=files)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
-
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
@@ -935,6 +932,26 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
 Simulates water sounds when colliding with generic fake animated water meshes.
+</details>
+
+# DIALOGUE
+
+None of these mods are considered "essential".
+
+<details>
+	<summary>Click to expand</summary>
+
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files)  
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
+
+[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
+Replaces the three standard No Lore greetings with over sixty new ones.
+
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
+[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 </details>
 
 # VISUALS
@@ -1282,23 +1299,9 @@ Model replacer for book and scroll models.
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
 </details>
 
-# DIALOGUE
-
-These mods add or tweak existing dialogue, not to a degree I consider particularly essential or significant, but which many users seem to enjoy nonetheless. As such, they have all been deemed optional.
-
-<details>
-	<summary>Click to expand</summary>
-
-[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
-Replaces the three standard No Lore greetings with over sixty new ones.
-
-[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-</details>
-
 # TOWNS AND DUNGEONS
 
-These mods add entirely new places into the game or repurpose existing places. As such, they have all been deemed optional.
+None of these mods are considered "essential".
 
 <details>
 	<summary>Click to expand</summary>
@@ -1575,15 +1578,17 @@ Great Service
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 Distant Thunder
-FMI - NotAllDunmer
 Haunted Barrows
 Heartthrum
-Idle Talk
 No Female Nord Screeching
 Outdoor Banners With Sound
 Sound Spell Sound Effect
 Sounds of Souls
 Water Sounds
+FMI - NotAllDunmer
+Greetings for No Lore
+Idle Talk
+Outfit Greetings Tweaked
 Intelligent Textures
 Facelift
 Comrade Raven's Book Arts Replacer
@@ -1643,8 +1648,6 @@ Arukinns Better Books and Scrolls
 Melchior's Magnificent Manuscripts
 Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 Simple Golden Gold
-Greetings for No Lore
-Outfit Greetings Tweaked
 Dark Brotherhood Headquarters
 Severa Magia DB Fix
 Redaynia Village
@@ -1734,12 +1737,14 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Great Service.ESP
 Distant Thunder (No Scripts).ESP
-FMI_#NotAllDunmer.ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
-Idle Talk.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
+FMI_#NotAllDunmer.ESP
+Greetings for No Lore.ESP
+Idle Talk.ESP
+outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
@@ -1760,8 +1765,6 @@ Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
 Silt Strider Animation Restored.ESP
 Complete Armor Joints.ESP
-Greetings for No Lore.ESP
-outfit greetings tweaked.ESP
 DBHQ.ESP
 Clean_Severa Magia Fix.ESP
 Redaynia Village.ESP OR Redaynia Restored.ESP
