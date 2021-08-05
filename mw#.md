@@ -1949,6 +1949,8 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
+Shift+Left Click | Equips/unequips item in inventory | Quick Equip
+Shift+Left Click | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CREDITS
 
