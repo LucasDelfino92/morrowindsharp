@@ -39,6 +39,8 @@
 - Added [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files) (Overhauls) (optional).
 - Moved [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) from Overhauls (optional) to Visuals (the visual aspect being the reason it is included in the guide, as opposed to its gameplay features).
 - Moved [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files) from Visuals to Visuals (optional).
+- Moved [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files) from Visuals to Towns and Dungeons.
+- Moved [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files) from Visuals to Towns and Dungeons.
 - Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing).
 
 The following mods have been removed from the guide. In virtually all of these cases, it's because I think they didn't warrant their inclusion. I don't consider them to be as "essential" as many other mods present here.
@@ -1142,9 +1144,6 @@ Replaces the scum found throughout the Bitter Coast using the animation method a
   - [ ] 02 Animated Replacer - Greener Color
   - [ ] 03 Standalone - Lougian's Meshes Fixed
 
-[**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files)  
-Redecorates the Dark Brotherhood's hideout in Mournhold so that it no longer looks like it is inhabited by some sorts of lowlife. Also replaces the respawning generic assassins with unique named ones.
-
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -1156,9 +1155,6 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
-
-[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
-Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
@@ -1306,6 +1302,12 @@ These mods add entirely new places into the game or repurpose existing places. A
 
 <details>
 	<summary>Click to expand</summary>
+
+[**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files)  
+Redecorates the Dark Brotherhood's hideout in Mournhold so that it no longer looks like it is inhabited by some sorts of lowlife. Also replaces the respawning generic assassins with unique named ones.
+
+[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files)  
+Overhauls the ruins of Ald Sotha so that it resembles a hideout worthy of the Dark Brotherhood.
 
 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935?tab=files)  
 Adds the missing village of Ald Redaynia to the game. Redaynia Village is a small fishing town just below it's namesake, Ald Redaynia. Transport is available from Khuul and Dagon Fel.
@@ -1611,12 +1613,10 @@ Weapon Sheathing Additions
 3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
 Bitter Coast Scum Replacer
-Dark Brotherhood Headquarters
 Distant Mournhold
 Inscribed Maar Gan Rock
 Know Thy Ancestors
 Nordic Chest Replacer
-Severa Magia DB Fix
 Trackless Grazeland
 Grass for Trackless Grazeland
 Vivec Palace Water Replacer
@@ -1645,6 +1645,8 @@ Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 Simple Golden Gold
 Greetings for No Lore
 Outfit Greetings Tweaked
+Dark Brotherhood Headquarters
+Severa Magia DB Fix
 Redaynia Village
 Redaynia Restored
 Shrine of Azura
@@ -1744,12 +1746,10 @@ NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 Yet Another Guard Diversity - Regular.ESP
-DBHQ.ESP
 Mournhold LOD.ESP
 Inscribed Maar Gan Rock.ESP
 Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
-Clean_Severa Magia Fix.ESP
 Trackless Grazeland.ESP
 Well Diversified.ESP
 bcsounds.ESP
@@ -1762,6 +1762,8 @@ Silt Strider Animation Restored.ESP
 Complete Armor Joints.ESP
 Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
+DBHQ.ESP
+Clean_Severa Magia Fix.ESP
 Redaynia Village.ESP OR Redaynia Restored.ESP
 ShrineOfAzura.ESP
 multipatch.ESP
