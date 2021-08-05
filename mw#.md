@@ -39,6 +39,7 @@
 - Added [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files) (Overhauls) (optional).
 - Moved [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293?tab=files) from Overhauls (optional) to Visuals (the visual aspect being the reason it is included in the guide, as opposed to its gameplay features).
 - Moved [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files) from Patches (optional) to Dialogue.
+- Moved [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files) from Audio to Dialogue.
 - Moved [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569?tab=files) from Audio (optional) to Dialogue (optional).
 - Moved [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files) from Audio (optional) to Dialogue (optional).
 - Moved Dialogue after Audio.
@@ -886,9 +887,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 # AUDIO
 
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168?tab=files)  
 Removes the sheep sounds from Morrowind.	
 
@@ -933,6 +931,9 @@ Simulates water sounds when colliding with generic fake animated water meshes.
 </details>
 
 # DIALOGUE
+
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
@@ -1405,9 +1406,9 @@ Sneaky Strike
 Useful Bound Armor
 Pickpocket
 Stealth Improved
-Great Service
 Sheep-no-More
 Shut the Fuck up Cliff Racers
+Great Service
 LDM - Context Matters
 Intelligent Textures
 Facelift
@@ -1573,7 +1574,6 @@ Balanced Passive Races and Birthsigns
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
-Great Service
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 Distant Thunder
@@ -1584,6 +1584,7 @@ Outdoor Banners With Sound
 Sound Spell Sound Effect
 Sounds of Souls
 Water Sounds
+Great Service
 LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
@@ -1735,12 +1736,12 @@ Balanced Passive Races and Birthsigns.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
-Great Service.ESP
 Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 SoundSpellSoundEffect.ESP
+Great Service.ESP
 LDM - Context Matters 1.5.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
