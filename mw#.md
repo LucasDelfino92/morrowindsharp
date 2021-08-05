@@ -46,7 +46,7 @@
 - Moved [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files) from Visuals to Visuals (optional).
 - Moved [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022?tab=files) from Visuals to Towns and Dungeons.
 - Moved [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647?tab=files) from Visuals to Towns and Dungeons.
-- Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1iHihHxVBWbgBqu-a54BhoVgzUF3YdIli/view?usp=sharing).
+- Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1O54qx23S7KT5KYLZyJGFw_WGLmOs1N7-/view?usp=sharing). Now a merged replacer ESP is offered.
 
 The following mods have been removed from the guide. In virtually all of these cases, it's because I think they didn't warrant their inclusion. I don't consider them to be as "essential" as many other mods present here.
 	
