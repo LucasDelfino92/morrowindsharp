@@ -15,7 +15,6 @@
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
 - [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
 - [Towns and dungeons](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#towns-and-dungeons)
-- [Uniformity](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#uniformity)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
   - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
