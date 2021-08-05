@@ -860,6 +860,14 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271?tab=files)  
 Reduces the water splash from **Better Waterfalls** to a more reasonable size, removes the blue light from interior canton waterfalls, and removes the clipping splashes from said waterfalls.
 
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [X] 01 Animated Replacer - Original Color
+  - [ ] 02 Animated Replacer - Greener Color
+  - [ ] 03 Standalone - Lougian's Meshes Fixed
+
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605?tab=files)  
 Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - Check the following options in the BAIN installer: 
@@ -1016,17 +1024,6 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 <details>
 	<summary>Click to expand</summary>
 
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
-Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
-
-[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Animated Replacer - Original Color
-  - [ ] 02 Animated Replacer - Greener Color
-  - [ ] 03 Standalone - Lougian's Meshes Fixed
-
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -1064,6 +1061,9 @@ Replaces the water in the Palace of Vivec's canals.
 
 [**Well Diversified**](https://drive.google.com/file/d/12BBB0Sc_c_C3taYi3PN5i4lta2YV4-sG/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
+Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
 
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
