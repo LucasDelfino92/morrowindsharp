@@ -725,7 +725,7 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions. 
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
 
-[**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1O54qx23S7KT5KYLZyJGFw_WGLmOs1N7-/view?usp=sharing)  
+[**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1fVgaW3QtIQeNhbXo8ErFYlFCm6jlt5QN/view?usp=sharing)  
 Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a single ESP replacer or as a set of add-ons to be used alongside the original mod.
 - Check the following options in the BAIN installer:
   - [X] 00 Replacer ESP
