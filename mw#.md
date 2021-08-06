@@ -304,8 +304,6 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609?tab=files)  
 Corrects thrown projectiles inflicting twice their listed damage. 
 
-### Other patches
-
 <details>
 	<summary>Click to expand</summary>
 
@@ -376,8 +374,6 @@ Adds a continue button to the main menu to instantly load your most recent save.
 Adds a confirmation popup when you click on New Game in the main menu.
 
 > Note that this mod is incompatible with Chargen Revamped - Expanded Lands (this mod is not present in the guide).
-
-### Other UI mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -512,8 +508,6 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
-### Other quality of life improvements
-
 <details>
 	<summary>Click to expand</summary>
 
@@ -577,8 +571,6 @@ Modifies critical strike coefficient depending on the weapon you use.
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829?tab=files)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
-### Other gameplay mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -683,8 +675,6 @@ Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time me
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-### Other overhauls
-
 <details>
 	<summary>Click to expand</summary>
 
@@ -765,8 +755,6 @@ Removes the sheep sounds from Morrowind.
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588?tab=files)  
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
-
-### Other audio mods
 
 <details>
 	<summary>Click to expand</summary>
@@ -1018,8 +1006,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616?tab=files)  
 Adds sheaths to weapons not covered by Weapon Sheathing.
-
-### Other visual mods
 
 <details>
 	<summary>Click to expand</summary>
