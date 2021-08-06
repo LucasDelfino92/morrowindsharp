@@ -361,10 +361,10 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272?tab=files)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 
-[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
+[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136?tab=files)  
 Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
 
-[**Opponent Fatigue Indicator - MWSE LUA Edition**](https://www.nexusmods.com/morrowind/mods/50060?tab=files)  
+[**Opponent Fatigue Indicator**](https://www.nexusmods.com/morrowind/mods/50060?tab=files)  
 Adds a fatigue indicator to opponents when dealing fatigue damage in combat.
 
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952?tab=files)  
@@ -404,7 +404,7 @@ Renames keys so they'll have a consistent naming scheme.
 Renames propylon indexes so they'll group together in the inventory.
 
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861?tab=files)  
-Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
+Renames soulgems so they'll group together in the inventory.
 </details>
 
 # QUALITY OF LIFE IMPROVEMENTS
@@ -461,6 +461,9 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - Also install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154?tab=files), which fixes a collision bug with harvested Ash Yams.
 - Also install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864?tab=files), which makes picking a glowing plant also remove the glow-light.
 
+[**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055?tab=files)  
 Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
 
@@ -469,9 +472,6 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 - Check the following options in the BAIN installer: 
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
-
-[**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454?tab=files)  
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
 [**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801?tab=files)  
 Stops friendly fire: player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Optionally stops combat from occurring between friendly actors.
@@ -679,7 +679,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 	<summary>Click to expand</summary>
 
 [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110?tab=files)  
-An MWSE leveling mod that implements most features of Galsiah's Character Development.
+A leveling mod that implements most features of Galsiah's Character Development.
 	
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
@@ -697,8 +697,6 @@ Implements and expands on the game's hinted at but missing mechanic of Hospitali
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
-
-> Note that because of the changes this mod implements into the game, it is recommended to not use **MWSE Hide the Skooma** in conjunction with this mod.
 
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
@@ -1186,7 +1184,7 @@ UI Expansion
 Alchemical Knowledge
 Better Questlist
 Companion Health Bars
-Opponent Fatigue Indicator - MWSE LUA Edition
+Opponent Fatigue Indicator
 Continue
 New Game Confirmation
 Better Propylon Teleport Script
@@ -1197,9 +1195,9 @@ GMST Menu
 Graphic Herbalism MWSE
 Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
+Hide the Skooma
 Hotkeys Extended
 Improved Temple Experience
-MWSE Hide the Skooma
 No More Friendly Fire
 No Thank You
 Quick Equip
