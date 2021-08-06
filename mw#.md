@@ -31,6 +31,16 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.7.1.1 (August 6th)</summary>
+
+- Moved [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) from Gameplay to QOL Improvements.
+- Moved [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files) from Gameplay to User Interface.
+- Added [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files) (Overhauls).
+- Removed [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?tab=files) (Gameplay).
+- Removed [**Vegtabills Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893?tab=files) (Gameplay).
+</details>
+
+<details>
   <summary>v2.7.1 (August 5th Follow-up)</summary>
 
 - Moved [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) from Gameplay to Overhauls (optional) (it's basically a companion mod to FMI - Service Refusal and Contraband).
@@ -384,6 +394,9 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
 Displays skills taught by Skillbooks.
 
+[**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files)  
+UI overhaul allowing the player to generate a random name for their character at the start of the game.
+
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?tab=files)  
 Adds clock to UI that displays either game world time or real time (depending on settings).
 	
@@ -408,6 +421,9 @@ Renames soulgems so they'll group together in the inventory.
 </details>
 
 # QUALITY OF LIFE IMPROVEMENTS
+
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364?tab=files)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
@@ -575,12 +591,6 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 <details>
 	<summary>Click to expand</summary>
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-
-[**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648?tab=files)  
-Allows the player to find the Spell Breaker unique shield without having to start the quest to obtain it.
-
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
@@ -599,9 +609,6 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
-
-[**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files)  
-UI overhaul allowing the player to generate a random name for their character at the start of the game.
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
@@ -654,10 +661,6 @@ Increases the availability of projectiles purchasable from vendors.
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
-[**Vegtabills Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893?tab=files)  
-Aims to give players what they need to figure out the locations of the Sanguine items without going on random killing sprees or exiting the game to search wikis and forums for answers. Existing topics have been more fleshed-out and completely new topics have been added.
-- Hide all plugins minus **veg-TotW-books.ESP**.
-
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
@@ -667,7 +670,7 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 
 # OVERHAULS
 
-These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, which merits a thorough read at their respective pages.
+These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game.
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -710,6 +713,9 @@ Fixes some the biggest exploits and balance issues in the game.
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - Hide **Ownership Overhaul.ESP**.
+
+[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files)  
+Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673?tab=files)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
@@ -1292,6 +1298,7 @@ Continue
 New Game Confirmation
 Book Worm
 Tooltip
+Character Creation Name Generator
 Clock Block
 HUD Weapon Charge
 Smart Journal
@@ -1299,6 +1306,7 @@ Smart Map
 Consistent Keys
 Propylon Index Renamer
 Soulgem Renamer
+Adamantium Ore Fix
 Better Propylon Teleport Script
 Book Pickup
 Diligent Defenders
@@ -1333,15 +1341,12 @@ Putting Power in Willpower
 Services Restored
 Sneaky Strike
 Useful Bound Armor
-Adamantium Ore Fix
-Always There Spell Breaker
 Area Effect Projectiles Integrated
 Bed Buddies
 Blighted Blight
 Blight Is Coming
 Borrowed Time
 Brutal Backstabbing
-Character Creation Name Generator
 Controlled Consumption
 Divayth Fyr Puzzle Fixed
 Drop Light
@@ -1359,7 +1364,6 @@ No Disease Labels
 Plunder the Dungeon
 Projectiles Reintegrated
 Realistic Movement Speeds
-Vegtabills Threads of the Webspinner
 Wading in Water MW
 Wings of Will
 Pickpocket
@@ -1374,6 +1378,7 @@ Harder Barter
 Nimble Armor
 Morrowind Anti-Cheese
 Ownership Overhaul
+Reactive Resistance
 Realistic Repair
 Realistic Repair Add-on
 Silver Tongue
@@ -1508,6 +1513,7 @@ chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Dubdilla Location Fix.ESP
+Adamantium Ore Fix.ESP
 Better Propylon Teleport Warp.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
@@ -1515,15 +1521,12 @@ The Publicans.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Services Restored.ESP
-Adamantium Ore Fix.ESP
-Always there Spell Breaker.ESP
 Area Effect Projectiles Integrated.ESP
 Blight Is Coming.ESP
 Divayth Fyr Puzzle Fixed.ESP
 dwemer_soulgems.ESP
 Clean Plunder the Dungeon.ESP
 Projectiles Reintegrated.ESP
-veg-TotW-books.ESP
 Early Transport to Mournhold.ESP
 EcoAdjCrime (Necro Edit).ESP
 Hospitality_Papers_Expanded_v2.7.ESP
@@ -1594,7 +1597,6 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
-  - Always there Spell Breaker.ESP
   - Divayth Fyr Puzzle Fixed.ESP
   - DBHQ.ESP
   - Nordic Chest Replacer.ESP
