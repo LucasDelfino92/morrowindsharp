@@ -597,10 +597,10 @@ An alternative version of the official plugin Area Effect Arrows that distribute
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
-Restores the possibility of contracting blight diseases while out in a blight storm. As per in-game dialogue, you can now actually catch blight from blight storms.
+Restores the possibility of contracting blight diseases while out in a blight storm.
 
 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
-As per in-game dialogue, Corprus Beasts will now have a chance to spawn during blight storms.
+Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
 
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971?tab=files)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
