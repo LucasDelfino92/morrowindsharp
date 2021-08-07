@@ -622,7 +622,7 @@ Causes certain lights to be dropped when the player equips a two handed weapon o
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Dwemer Soul Gems**](https://www.nexusmods.com/morrowind/mods/42472?tab=files)  
+[**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing)  
 Dwemer Centurions drop soul gems like they do in Skyrim.
 
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
