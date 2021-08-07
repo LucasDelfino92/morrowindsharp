@@ -1465,7 +1465,7 @@ Shrine of Azura
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Minimalist load order (23 plugins)</summary>
+<summary>Minimalist load order (24 plugins)</summary>
 
 ```
 Morrowind.esm
@@ -1499,7 +1499,7 @@ Merged Objects.ESP
 </details>
 
 <details>
-<summary>Maximalist load order (75 plugins)</summary>
+<summary>Maximalist load order (72 plugins)</summary>
 
 ```
 Morrowind.esm
