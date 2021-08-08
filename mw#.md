@@ -1707,7 +1707,7 @@ The mods installed in this guide and configured as mentioned above will use the 
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Z | Take single item in quick loot menu | QuickLoot
+Z | Open standard loot menu | QuickLoot
 X | Take all items in quick loot menu | QuickLoot
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
