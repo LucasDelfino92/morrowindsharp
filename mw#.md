@@ -1756,6 +1756,7 @@ B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
+Alt+Left Click | Move entire stack | Morrowind Code Patch
 Shift+E | Equips/unequips item in inventory | Quick Equip
 Shift+E | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Activates/deactivates placed/static light sources | The Midnight Oil
