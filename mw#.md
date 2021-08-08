@@ -145,45 +145,6 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302?tab=files) (Uniformity).
 </details>
 
-<details>
-  <summary>v2.6.3.1 (August 1st)</summary>
-
-- Added Consistent Enchanting (Patches).
-- Added Alchemical Knowledge (User Interface).
-- Added Useful Bound Armor (Gameplay).
-- Added Dark Brotherhood Headquarters (Visuals).
-</details>
-
-<details>
-  <summary>v2.6.3 (July 31st)</summary>
-
-- Added Opponent Fatigue Indicator (User Interface).
-- Added No More Friendly Fire (QOL Improvements).
-- Added QuickLoot (QOL Improvements).
-- Added Pickpocket (Overhauls).
-- Added Stealth Improved (Overhauls).
-- Added Harder Barter (Overhauls).
-- Removed Gondolier Destinations (QOL Improvements). I'm not listing a mod that lets you travel to any town from any Silt Strider port, and I'd say that's more of a quality of life improvement than being able to freely travel between Vivec cantons...
-- Removed Armor Rating (Gameplay). As much as I'm behind the changes to the armor rating formula, the truth is you can't just make such a big change to the game's armor mechanics without expecting some massive (early game enemies being far more forgiving, late game enemies hitting much harder, armor rating skills not feeling as important) downsides.
-- Removed HardTrade (Overhauls). Harder Barter does more with less in my opinion, plus it has the advantage that in-game gold and gold rewards become far more valuable (instead of losing their value altogether like they do in HardTrade).
-</details>
-
-<details>
-  <summary>v2.6.2.2 (July 29th)</summary>
-
-- Added a note to Title Screen Reworked to advise users to skip the Logo Intro Video main file.
-- Added Signposts Retextured, an alternative to Near Vanilla Road Sign Replacer.
-</details>
-
-<details>
-  <summary>v2.6.2.1 (July 28th)</summary>
-
-- Removed Imperial Steel Cuirass With Belt and Dark Female Imperial Steel Cuirass.
-- Added Imperial Steel Cuirass Tweaks, which merges the above mods.
-- Updated mod order.
-- Updated load order.
-</details>
-
 # DISCLAIMER
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
