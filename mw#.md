@@ -1315,6 +1315,7 @@ GMST Menu
 Graphic Herbalism MWSE
 Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
+Hide the Skooma
 Hotkeys Extended
 Improved Temple Experience
 No More Friendly Fire
