@@ -59,6 +59,10 @@ Roughly 5.5GB, of which **Intelligent Textures** accounts for 65% the size of. A
 
 Depends on how quick and thorough you are about it. I guarantee it will take you far less time than to set up most other Morrowind guides, bar the most spartan ones.
 
+### How often is the guide updated?
+
+*Very* often. Those who have been followed this guide's progress for a good while already know that mods can (and *will*) be removed if my opinion changes about them. Likewise, they can be added back if I feel they added an extra to the game it's hard to play without.
+
 ## My setup
 
 When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
