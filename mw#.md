@@ -50,6 +50,7 @@
 - Added Nords Shut Your Windows (Visuals).
 - Added Watch the Skies (Visuals).
 - Added Ashmire Replacer (Visuals).
+- Updated Harder Barter (Overhauls).
 - Moved Divayth Fyr Puzzle Fixed to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
 - Moved the following mods from Gameplay to Overhauls:
   - Bed Buddies.
@@ -682,8 +683,10 @@ Implements and expands on the game's hinted at but missing mechanic of Hospitali
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456?tab=files)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
 
-[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files)  
+[**Harder Barter**](https://drive.google.com/file/d/1uKuRcF3lGuWGh0JCPQ668vuyjyAGonFI/view?usp=sharing)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
+
+> This is an edit of [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files) which fixes a bug with the price calculation while also being more forgiving.
 
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
@@ -774,6 +777,22 @@ Drastically reduces the frequency of idle Cliff Racer screeches, by editing the 
 
 <details>
 	<summary>Click to expand</summary>
+
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255?tab=files)  
+Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
+- Also download the **AURA 3.0 - replacer** optional file.
+
+[**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312?tab=files)  
+Customizable music overhaul which adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
+- Only install the **Better Music System Redone v1.4** main file.
+- Check the following options in the BAIN installer:
+  - [X] 00 Assets - REQUIRED
+  - [X] 01 Regular ESP - Use ONE ESP
+  - [ ] 02 No Vanilla No Battle Music ESP - Use ONE ESP
+- After installation, drag the contents of Morrowind/Music/Explore and Morrowind/Music/Battle to Morrowind/Music. Rename your Morrowind/Music/Explore and Morrowind/Music/Battle folders (for example, to ExploreORIGINAL and BattleORIGINAL). You should now have a total of 15 .mp3 files in your Morrowind/Music folder.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654?tab=files)  
+Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
 
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471?tab=files)  
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
