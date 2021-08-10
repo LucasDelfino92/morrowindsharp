@@ -806,9 +806,11 @@ Customizable music overhaul which adds new music tracks, area-specific ambiance,
   - [X] 01 Regular ESP - Use ONE ESP
   - [ ] 02 No Vanilla No Battle Music ESP - Use ONE ESP
 - After installation, drag the contents of Morrowind/Music/Explore and Morrowind/Music/Battle to Morrowind/Music. Rename your Morrowind/Music/Explore and Morrowind/Music/Battle folders (for example, to ExploreORIGINAL and BattleORIGINAL). You should now have a total of 15 .mp3 files in your Morrowind/Music folder.
+- Set the **Master** and **Effects** volumes to maximum in Audio.
 
 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654?tab=files)  
 Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
+- Set the **Footsteps** volume to minimum in Audio.
 
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471?tab=files)  
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
