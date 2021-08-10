@@ -31,6 +31,12 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.7.5 (August 10th)</summary>
+
+- 
+</details>
+
+<details>
   <summary>v2.7.1.1 (August 6th)</summary>
 
 - Moved [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?tab=files) from Gameplay to QOL Improvements.
@@ -277,6 +283,9 @@ Corrects thrown projectiles inflicting twice their listed damage.
 
 <details>
 	<summary>Click to expand</summary>
+
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155?tab=files)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720?tab=files)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
@@ -573,9 +582,6 @@ Introduces a backstabbing mechanic - do more damage when stabbing an enemy from 
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155?tab=files)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 
 [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694?tab=files)  
 Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
@@ -1239,6 +1245,7 @@ Fortify MAX
 Loading Doors Lock Tune
 Run Fix
 Thrown Projectiles Revamped
+Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 Consistent Enchanting
 Quest Skill Reward Fix
@@ -1259,6 +1266,8 @@ Continue
 New Game Confirmation
 Book Worm
 Tooltip
+Tamrielic Lore Tooltips
+Tooltips Complete
 Character Creation Name Generator
 Clock Block
 HUD Weapon Charge
@@ -1303,40 +1312,41 @@ Putting Power in Willpower
 Services Restored
 Sneaky Strike
 Useful Bound Armor
+Borrowed Time
+Hold Your Breath
+Wings of Will
+Drop Light
+Light Decay
+No Disease Labels
+Limited Leaping
+Realistic Movement Speeds
+Wading in Water MW
+Projectiles Reintegrated
 Area Effect Projectiles Integrated
-Bed Buddies
+Dwemer Soul Gems
+Plunder the Dungeon
 Blighted Blight
 Blight Is Coming
-Borrowed Time
+Creeping Blight
+Bed Buddies
 Brutal Backstabbing
-Controlled Consumption
-Divayth Fyr Puzzle Fixed
-Drop Light
-Dungeons Rest
-Dwemer Soul Gems
-Dynamic Timescale
-Hold Your Breath
-Light Decay
-Limited Leaping
-Limited Resting Waiting and Regen
+Distraction
 Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
 Merlord's Starting Equipment
-No Disease Labels
-Plunder the Dungeon
-Projectiles Reintegrated
-Realistic Movement Speeds
-Wading in Water MW
-Wings of Will
 Pickpocket
 Stealth Improved
 Class-Conscious Character Progression (CCCP)
-Creeping Blight
+Class Skill Limit
+Controlled Consumption
+Dungeons Rest
 Early Transport to Mournhold
 Economy Adjuster Adjustments (Crime Module)
 FMI - Hospitality Papers Expanded
 FMI - Service Refusal and Contraband
 Harder Barter
+Dynamic Timescale
+Limited Resting Waiting and Regen
 Nimble Armor
 Morrowind Anti-Cheese
 Ownership Overhaul
@@ -1352,20 +1362,33 @@ Tribunal Rebalance
 Bloodmoon Rebalance
 Sheep-no-More
 Shut the Fuck up Cliff Racers
+AURA
+Better Music System Redone
+Character Sound Overhaul
 Distant Thunder
 Haunted Barrows
 Heartthrum
 No Female Nord Screeching
 Outdoor Banners With Sound
+Quieter Doors and Spells
+Silent Assassins
 Sound Spell Sound Effect
+Spell Sounds Enhanced
+Store Entrance Chimes
+Tunnel Cough
+Water Sounds
 Great Service
+Idle Talk
 LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
-Idle Talk
 Outfit Greetings Tweaked
 Intelligent Textures
+Familiar Faces
+Familiar Faces - Knife-ears
+Vanilla-flavoured Hair
 Facelift
+Pluginless Khajiit Head Pack
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
 Just Drop It
@@ -1377,10 +1400,12 @@ Remiros' Groundcover
 Apel's Rain Replacer
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
+Nords Shut Your Windows
 Here Comes The Sun... Glare
 Let There Be Darkness
 The Midnight Oil
 Transporter Lights
+Watch the Skies
 Weather Adjuster
 Mist Retexture
 Subtle Magic Glow
@@ -1392,6 +1417,7 @@ Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing Additions
 3D Vines Vanilla Mushroom Trees
+Ashmire Replacer
 Bitter Coast Scum Replacer
 Distant Mournhold
 Inscribed Maar Gan Rock
@@ -1403,10 +1429,14 @@ Vivec Palace Water Replacer
 Well Diversified
 Bitter Coast Sounds (UMOPP)
 Flies
+Heat Haze
+Shattered Stones - An Earthquake Mod
 The Dream is the Door
+Throbbing Meat - A Corprus Meat Replacer
+Unto Dust
 Glowing Atronachs 1.01
+Luminous VFX Atronachs
 Incarnates Overhauled
-Pluginless Khajiit Head Pack
 Silt Strider Animation Restored
 Complete Armor Joints
 Imperial Steel Cuirass Tweaks
