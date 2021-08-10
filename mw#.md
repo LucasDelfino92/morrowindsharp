@@ -712,7 +712,7 @@ Changes how quickly time passes in-game depending on where you are and what you'
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
 Adds in lock-bashing from Daggerfall.
 
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1vLvromgcj9tqAWxfMLF-cQj_PhJpSAWb/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
@@ -724,7 +724,7 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
 Removes "Diseased", "Blighted", and similar adjectives from creature names.
 
-[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1RuFtmB0EyIWpJQWA3oX0AhJtZOSeXJUZ/view?usp=sharing)  
+[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1r4J6WxGIyDE3Ti2isEDMCPtOQqir6R33/view?usp=sharing)  
 Fixes some the biggest exploits and balance issues in the game.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
@@ -1030,7 +1030,7 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1sncgztkRJoS0zJNBFwO-pCC7ve0cfVdf/view?usp=sharing). Personal preset for darker nights and less horrible fog.
+- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1rmsf5HoPoYURXwFVXaTxxETeJGht6Ptp/view?usp=sharing). Personal preset for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322?tab=files)  
@@ -1131,7 +1131,7 @@ Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
-[**Flies**](https://drive.google.com/file/d/1MsRxCAOooJdifoAoJRfqzMfnkOyk2TO4/view?usp=sharing)  
+[**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
