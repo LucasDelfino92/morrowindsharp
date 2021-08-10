@@ -33,6 +33,7 @@
 <details>
   <summary>v2.7.5 (August 10th)</summary>
 
+- Added XE Sky Variations.ESP to the plugin load orders.
 - Added Tamrielic Lore Tooltips and Tooltips Complete to User Interface (the MCM lets you disable the tooltips you are not interested in, which is useful to remove redundant tooltips and those some mods in this setup may tweak, rendering them incorrect).
 - Added Class Skill Limit (Overhauls).
 - Added Distraction (Overhauls).
@@ -1628,6 +1629,7 @@ Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
+XE Sky Variations.ESP
 Yet Another Guard Diversity - Regular.ESP
 multipatch.ESP
 Merged Objects.ESP
@@ -1696,6 +1698,7 @@ Waterfalls Tweaks.ESP
 NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
+XE Sky Variations.ESP
 Yet Another Guard Diversity - Regular.ESP
 Mournhold LOD.ESP
 Inscribed Maar Gan Rock.ESP
