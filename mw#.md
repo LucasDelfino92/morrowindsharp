@@ -31,7 +31,9 @@
 # CHANGELOG
 
 <details>
-  <summary>v2.7.5 (August 10th)</summary>
+  <summary>v2.7.2 (August 10th)</summary>
+
+This update is compatible with an existing playthrough.
 
 - Added XE Sky Variations.ESP to the plugin load orders.
 - Added Tamrielic Lore Tooltips and Tooltips Complete to User Interface (the MCM lets you disable the tooltips you are not interested in, which is useful to remove redundant tooltips and those some mods in this setup may tweak, rendering them incorrect).
