@@ -33,9 +33,17 @@
 <details>
   <summary>v2.7.5 (August 10th)</summary>
 
-- Moved Divayth Fyr Puzzle Fixed from Gameplay to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
+- Moved Divayth Fyr Puzzle Fixed to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
+- Moved Bed Buddies to Overhauls.
+- Moved Blighted Blight to Overhauls.
+- Moved Blight Is Coming to Overhauls.
+- Moved Creeping Blight to Overhauls.
+- Moved Brutal Backstabbing to Overhauls.
+- Moved Lua Lockbashing to Overhauls.
+- Moved Lucky Strike - A Critical Hit Mod to Overhauls.
 - Added Tamrielic Lore Tooltips and Tooltips Complete to User Interface (the MCM lets you disable the tooltips you are not interested in, which is useful to remove redundant tooltips and those some mods in this setup may tweak, rendering them incorrect).
-- 
+- Added Distraction to Overhauls.
+- Removed Dwemer Soul Gems.
 </details>
 
 <details>
@@ -575,7 +583,7 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water.
-	
+
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
@@ -588,46 +596,8 @@ The radius of a handheld light will gradually diminish and eventually go out whe
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-[**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
-Increases the availability of projectiles purchasable from vendors.
-
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
-[**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing)  
-Dwemer Centurions drop soul gems like they do in Skyrim.
-
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
-Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
-
-[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
-Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-
-[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
-Restores the possibility of contracting blight diseases while out in a blight storm.
-
-[**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
-Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
-
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-- Install the **Creeping Blight - MWSE Version** main file.
-
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
-Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
-
-[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680?tab=files)  
-Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them.
-
-[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
-Adds in lock-bashing from Daggerfall.
-
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
-Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
-
-[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
-Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
+Adds a unique reward and new dialogue acknowledging your completion of the unmarked quest to plunder Divayth Fyr's dungeon.
 </details>
 
 # OVERHAULS
@@ -649,8 +619,27 @@ A leveling mod that implements most features of Galsiah's Character Development.
 [**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989?tab=files)  
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
 
+[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
+Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.	
+
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631?tab=files)  
+Restores the possibility of contracting blight diseases while out in a blight storm.
+
+[**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
+Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
+
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+- Install the **Creeping Blight - MWSE Version** main file.
+
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
+Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
+
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+
+[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680?tab=files)  
+Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -680,6 +669,15 @@ Limits conditions under which player can rest, wait and regenerate health.
 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 
+[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
+Adds in lock-bashing from Daggerfall.
+
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1cCTSSobqnd1W7kHD3e5RvUAsOpqr9K6v/view?usp=sharing)  
+Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
+
+[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
+Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
+
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251?tab=files)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 
@@ -692,6 +690,13 @@ Fixes some the biggest exploits and balance issues in the game.
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - Hide **Ownership Overhaul.ESP**.
+
+[**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
+Increases the availability of projectiles purchasable from vendors.
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
@@ -1332,40 +1337,39 @@ Hold Your Breath
 Wings of Will
 Drop Light
 Light Decay
-No Disease Labels
-Limited Leaping
-Realistic Movement Speeds
 Wading in Water MW
-Projectiles Reintegrated
-Area Effect Projectiles Integrated
-Dwemer Soul Gems
 Plunder the Dungeon
-Blighted Blight
-Blight Is Coming
-Creeping Blight
-Bed Buddies
-Brutal Backstabbing
-Distraction
-Lua Lockbashing
-Lucky Strike - A Critical Hit Mod
-Merlord's Starting Equipment
 Pickpocket
 Stealth Improved
 Class-Conscious Character Progression (CCCP)
 Class Skill Limit
+Bed Buddies
+Blighted Blight
+Blight Is Coming
+Creeping Blight
+Brutal Backstabbing
 Controlled Consumption
+Distraction
 Dungeons Rest
 Early Transport to Mournhold
 Economy Adjuster Adjustments (Crime Module)
 FMI - Hospitality Papers Expanded
 FMI - Service Refusal and Contraband
 Harder Barter
-Dynamic Timescale
+Limited Leaping
 Limited Resting Waiting and Regen
-Nimble Armor
+Dynamic Timescale
+Lua Lockbashing
+Lucky Strike - A Critical Hit Mod
+Merlord's Starting Equipment
 Morrowind Anti-Cheese
+Nimble Armor
+No Disease Labels
 Ownership Overhaul
+Projectiles Reintegrated
+Area Effect Projectiles Integrated
 Reactive Resistance
+Realistic Movement Speeds
 Realistic Repair
 Realistic Repair Add-on
 Silver Tongue
@@ -1529,9 +1533,6 @@ The Publicans.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Services Restored.ESP
-Projectiles Reintegrated.ESP
-Area Effect Projectiles Integrated.ESP
-dwemer_soulgems.ESP
 Clean Plunder the Dungeon.ESP
 Blight Is Coming.ESP
 Early Transport to Mournhold.ESP
@@ -1539,6 +1540,8 @@ EcoAdjCrime (Necro Edit).ESP
 Hospitality_Papers_Expanded_v2.7.ESP
 FMI_ServiceRefusal_Contraband.ESP
 Morrowind Anti-Cheese.ESP
+Projectiles Reintegrated.ESP
+Area Effect Projectiles Integrated.ESP
 Realistic_Repair_Add-on.ESP
 BTB's Game Improvements (Necro Edit - No RAB).ESP
 Balanced Passive Races and Birthsigns.ESP
