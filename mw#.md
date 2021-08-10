@@ -1846,9 +1846,8 @@ General Settings
 - Disable **Quest-Giver NPC Indicator**.
 - Disable **Quest-Giver Faction Sensibility**.
 
-Crosshair Settings  
-- Set **Crosshair Scale** to 80%.
-- Set **Sneaking Crosshair Scale** to 80%.
+Crosshair Settings
+- Set **Crosshair Options** to ReverendKnots' Oblivion-Style. 
 
 ### Limited Leaping
 
@@ -1866,22 +1865,36 @@ Crosshair Settings
 
 - Disable **Show quickloot menu on plant / organic containers**.
 
+> This solves a conflict with **Graphic Herbalism**.
+
 ### Stealth Improved
 
 - Disable **Experimental Enable light-based Stealth**.
 - Disable **Show Light Bar**.
 
+> This disables the somewhat buggy experimental light-based stealth.
+
+### Tooltips Complete
+
+- Disable **Show Key Tooltips**.
+- Disable **Show Potion Tooltips**.
+- Disable **Show Scroll Tooltips**.
+
+> This disables the key tooltips which can be spoilery, as well as potion and scroll tooltips that may be rendered incorrect from the use of mods such as BTB's Game Improvements.
+
 ### UI Expansion
 
 Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after launching the game again.
 
-- Set **Change map mode on cell change?** to Off.
+- Disable **Change map mode on cell change?**.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
 ### Weather Adjuster
 
 - Set **Disable sky texture changes** to On.
+
+> This solves a conflict with **Watch the Skies**.
 
 # MOD KEYBINDINGS
 
