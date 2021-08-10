@@ -33,6 +33,7 @@
 <details>
   <summary>v2.7.5 (August 10th)</summary>
 
+- Moved Divayth Fyr Puzzle Fixed from Gameplay to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
 - 
 </details>
 
@@ -1504,6 +1505,7 @@ Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
 Adamantium Ore Fix.ESP
 Better Propylon Teleport Warp.ESP
@@ -1513,12 +1515,11 @@ The Publicans.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Services Restored.ESP
+Projectiles Reintegrated.ESP
 Area Effect Projectiles Integrated.ESP
-Blight Is Coming.ESP
-Divayth Fyr Puzzle Fixed.ESP
 dwemer_soulgems.ESP
 Clean Plunder the Dungeon.ESP
-Projectiles Reintegrated.ESP
+Blight Is Coming.ESP
 Early Transport to Mournhold.ESP
 EcoAdjCrime (Necro Edit).ESP
 Hospitality_Papers_Expanded_v2.7.ESP
@@ -1530,16 +1531,21 @@ Balanced Passive Races and Birthsigns.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
+Better Music System Redone.ESP
 Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
+Quieter Doors and Spells.ESP
+Silent Assassins.ESP
 SoundSpellSoundEffect.ESP
+Store Entrance Chimes - Alt Ver.ESP
+Tunnel Cough.ESP
 Great Service.ESP
+Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
-Idle Talk.ESP
 outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
@@ -1555,6 +1561,7 @@ Trackless Grazeland.ESP
 Well Diversified.ESP
 bcsounds.ESP
 Flies.ESP
+Shattered Stones - An Earthquake Mod.ESP
 The Dream is the Door.ESP
 Glowing Atronachs.ESP
 Incarnates Overhauled.ESP
