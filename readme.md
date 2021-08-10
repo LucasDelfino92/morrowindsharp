@@ -53,7 +53,7 @@ There are roughly 90 recommended (a.k.a. "essential") mods, totalling 25 plugins
 
 ### How much space do I need to install these mods?
 
-Roughly 5.5GB, of which **Intelligent Textures** accounts for 65% the size of. And I *really* recommend you install Intelligent Textures.
+Roughly 10GB, of which **Intelligent Textures** and **AURA** account the majority of. The former is recommended for any new player to the game.
 
 ### How much time will it take me to install all mods?
 
