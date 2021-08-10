@@ -34,6 +34,7 @@
   <summary>v2.7.5 (August 10th)</summary>
 
 - Moved Divayth Fyr Puzzle Fixed from Gameplay to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
+- Added Tamrielic Lore Tooltips and Tooltips Complete to User Interface (the MCM lets you disable the tooltips you are not interested in, which is useful to remove redundant tooltips and those some mods in this setup may tweak, rendering them incorrect).
 - 
 </details>
 
@@ -365,6 +366,13 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969?tab=files)  
 Displays skills taught by Skillbooks.
 
+[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files)  
+Adds excerpts from Yagrum Bagarn's book Tamrielic Lore to each respective artifact. 
+
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files)  
+Adds helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+- Also install the **Tamrielic Lore Exclusions** optional file.
+
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189?tab=files)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
 
@@ -562,9 +570,36 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 <details>
 	<summary>Click to expand</summary>
 
+[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971?tab=files)  
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
+Endurance determines how long you can hold your breath under water.
+	
+[**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
+Levitation speed is now based on Willpower attribute instead of Speed.
+
+[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694?tab=files)  
+Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
+
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+
+[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
+Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
+
+[**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
+Increases the availability of projectiles purchasable from vendors.
+
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
+
+[**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing)  
+Dwemer Centurions drop soul gems like they do in Skyrim.
+
+[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
+Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
 
 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632?tab=files)  
 Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
@@ -575,38 +610,15 @@ Restores the possibility of contracting blight diseases while out in a blight st
 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649?tab=files)  
 Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
 
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971?tab=files)  
-Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+- Install the **Creeping Blight - MWSE Version** main file.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890?tab=files)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-
-[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694?tab=files)  
-Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
-
-[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
-Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-[**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing)  
-Dwemer Centurions drop soul gems like they do in Skyrim.
-
-[**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
-Changes how quickly time passes in-game depending on where you are and what you're doing.
-
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
-Endurance determines how long you can hold your breath under water.
-
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671?tab=files)  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-
-[**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
-Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
-
-[**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191?tab=files)  
-Limits conditions under which player can rest, wait and regenerate health.
+[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680?tab=files)  
+Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them.
 
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
 Adds in lock-bashing from Daggerfall.
@@ -616,29 +628,11 @@ Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL).
-
-[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
-Removes "Diseased", "Blighted", and similar adjectives from creature names.
-
-[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
-Despite what in-game dialogue suggests, no one acknowledges your deed if you successfully plunder Divayth Fyr's dungeon. Plundering the Dungeon at Tel Fyr will be a real quest now, with a unique reward and some new dialogue that acknowledges your success.
-
-[**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
-Increases the availability of projectiles purchasable from vendors.
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
-
-[**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
-Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same.
 </details>
 
 # OVERHAULS
 
-These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game.
+These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game (most importantly, by raising the game's difficulty).
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -651,10 +645,15 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110?tab=files)  
 A leveling mod that implements most features of Galsiah's Character Development.
-	
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904?tab=files)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-- Install the **Creeping Blight - MWSE Version** main file.
+
+[**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989?tab=files)  
+Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
+
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699?tab=files)  
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
@@ -672,8 +671,20 @@ Fixes lore to gameplay inconsistencies pertaining to contraband items and servic
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
 
+[**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
+Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
+
+[**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191?tab=files)  
+Limits conditions under which player can rest, wait and regenerate health.
+
+[**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287?tab=files)  
+Changes how quickly time passes in-game depending on where you are and what you're doing.
+
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251?tab=files)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
+
+[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
+Removes "Diseased", "Blighted", and similar adjectives from creature names.
 
 [**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1RuFtmB0EyIWpJQWA3oX0AhJtZOSeXJUZ/view?usp=sharing)  
 Fixes some the biggest exploits and balance issues in the game.
@@ -684,6 +695,9 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248?tab=files)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673?tab=files)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
