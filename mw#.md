@@ -465,7 +465,7 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428?tab=files)  
 Lets you edit every GMST in the game, in-game.
-- Also install this [**GMST Menu Preset**](https://drive.google.com/file/d/1gIzVDLfM74z_FmRwp0PRr-Y5YFfLYHl0/view?usp=sharing), which tweaks the following GMSTs:
+- Also install this [**GMST Menu Preset**](https://drive.google.com/file/d/16wQlRH1dtJFyUiPwYqizeQHQF_33qoUC/view?usp=sharing), which tweaks the following GMSTs:
   - iGreetDistanceMultiplier: NPCs will be much less likely to speak to you when passing by.
   - i1stPersonSneakDelta: lowers camera view while sneaking.
 
