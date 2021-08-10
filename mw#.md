@@ -1748,6 +1748,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
   - Divayth Fyr Puzzle Fixed.ESP
   - DBHQ.ESP
   - Nordic Chest Replacer.ESP
+  - TheMidnightOil.ESP
 
 ## CONFLICT RESOLUTION
 
