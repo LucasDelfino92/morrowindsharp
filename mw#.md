@@ -41,11 +41,12 @@
   - Brutal Backstabbing.
   - Controlled Consumption.
   - Dungeons Rest.
-  - Lua Lockbashing.
-  - Lucky Strike - A Critical Hit Mod.
   - Limited Leaping.
   - Limited Resting Waiting and Regen.
   - Dynamic Timescale.
+  - Lua Lockbashing.
+  - Lucky Strike - A Critical Hit Mod.
+  - Merlord's Starting Equipment.
   - No Disease Labels.
   - Projectiles Reintegrated.
   - Area Effect Projectiles Integrated.
