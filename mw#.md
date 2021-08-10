@@ -34,16 +34,26 @@
   <summary>v2.7.5 (August 10th)</summary>
 
 - Moved Divayth Fyr Puzzle Fixed to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
-- Moved Bed Buddies to Overhauls.
-- Moved Blighted Blight to Overhauls.
-- Moved Blight Is Coming to Overhauls.
-- Moved Creeping Blight to Overhauls.
-- Moved Brutal Backstabbing to Overhauls.
-- Moved Lua Lockbashing to Overhauls.
-- Moved Lucky Strike - A Critical Hit Mod to Overhauls.
+- Moved the following mods from Gameplay to Overhauls:
+  - Bed Buddies.
+  - Blighted Blight.
+  - Blight Is Coming.
+  - Brutal Backstabbing.
+  - Controlled Consumption.
+  - Dungeons Rest.
+  - Lua Lockbashing.
+  - Lucky Strike - A Critical Hit Mod.
+  - Limited Leaping.
+  - Limited Resting Waiting and Regen.
+  - Dynamic Timescale.
+  - No Disease Labels.
+  - Projectiles Reintegrated.
+  - Area Effect Projectiles Integrated.
+  - Realistic Movement Speeds.
 - Added Tamrielic Lore Tooltips and Tooltips Complete to User Interface (the MCM lets you disable the tooltips you are not interested in, which is useful to remove redundant tooltips and those some mods in this setup may tweak, rendering them incorrect).
-- Added Distraction to Overhauls.
-- Removed Dwemer Soul Gems.
+- Added Class Skill Limit (Overhauls).
+- Added Distraction (Overhauls).
+- Removed Dwemer Soul Gems (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
 </details>
 
 <details>
