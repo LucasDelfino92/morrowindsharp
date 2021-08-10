@@ -50,7 +50,16 @@
 - Added Nords Shut Your Windows (Visuals).
 - Added Watch the Skies (Visuals).
 - Added Ashmire Replacer (Visuals).
+- Added Heat Haze (Visuals).
+- Added Shattered Stones - An Earthquake Mod (Visuals).
+- Added Throbbing Meat - A Corprus Meat Replacer (Visuals).
+- Added Unto Dust (Visuals).
+- Added Luminous VFX Atronachs (Visuals).
 - Updated Harder Barter (Overhauls).
+- Updated Weather Adjuster Preset (Visuals).
+- Updated Quick Equip configuration instructions.
+- Updated Limited Leaping configuration instructions.
+- Updated Keybindings with Dynamic Timescale.
 - Moved Divayth Fyr Puzzle Fixed to Patches (the mod essentially "fixes" an in-game unmarked quest; Plunder the Dungeon remains in Gameplay since it *expands* the quest).
 - Moved the following mods from Gameplay to Overhauls:
   - Bed Buddies.
@@ -69,6 +78,8 @@
   - Projectiles Reintegrated.
   - Area Effect Projectiles Integrated.
   - Realistic Movement Speeds.
+- Moved Idle Talk to the mainline Audio section.
+- Removed Let There Be Darkness configuration instructions.
 - Removed Dwemer Soul Gems (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
 </details>
 
@@ -816,14 +827,35 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 
+[**Quieter Doors and Spells**](https://drive.google.com/file/d/1TSek3dmg1moOs9ogxvMbewnK4fLIcBZK/view?usp=sharing)  
+Reduces the volume of doors and spells.
+
+[**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
+Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
+
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300?tab=files)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
+
+[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338?tab=files)  
+Vanilla-friendly replacer of each vanilla spell sound.
+
+[**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586?tab=files)  
+Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
+
+[**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?tab=files)  
+Makes Miner class NPCs cough.
+
+[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794?tab=files)  
+Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
 </details>
 
 # DIALOGUE
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?tab=files)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273?tab=files)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
@@ -837,9 +869,6 @@ Improves idle dialogue filtering so that not all Dunmer refer to themselves as s
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063?tab=files)  
 Replaces the three standard No Lore greetings with over sixty new ones.
 
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948?tab=files)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066?tab=files)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 </details>
@@ -852,9 +881,21 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   - [X] 00 Core
   - [X] 01 Atlas Textures
 
+[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093?tab=files)  
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+[**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to the Breton hair meshes from **Familiar Faces** to reflect their half-elven heritage.
+
+> An alternative to **Familiar Faces**'s hair meshes is [**Vanilla-flavoured Hair**](https://www.nexusmods.com/morrowind/mods/49910?tab=files).	These already include [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files).
+
+> An alternative to **Familiar Faces**'s Khajiit head meshes is [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files).
+
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
+
+> I personally prefer **Facelift**'s face meshes to those of **Familiar Faces**. However, **Familiar Faces** also covers hair meshes. If you want to keep **Familiar Faces**'s head meshes, you can simply install the **kart_facelift_textures** main file instead.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
@@ -1101,10 +1142,6 @@ Adds lights to the three types of Atronach so that they glow and light up their 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
 
-[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files)  
-Pluginless replacer version of the base khajiit heads.
-- Install the **Pluginless Khajiit Head Pack - Whiskers Version** main file.
-
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
@@ -1257,6 +1294,7 @@ Stealth Improved
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 Great Service
+Idle Talk
 LDM - Context Matters
 Intelligent Textures
 Facelift
@@ -1448,10 +1486,8 @@ Greetings for No Lore
 Outfit Greetings Tweaked
 Intelligent Textures
 Familiar Faces
-Familiar Faces - Knife-ears
-Vanilla-flavoured Hair
+Familiar Faces - Knife-Ears
 Facelift
-Pluginless Khajiit Head Pack
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
 Just Drop It
@@ -1520,7 +1556,7 @@ Shrine of Azura
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Minimalist load order (24 plugins)</summary>
+<summary>Minimalist load order</summary>
 
 ```
 Morrowind.esm
@@ -1539,6 +1575,7 @@ The Publicans.ESP
 Expansion Delay.ESP
 Services Restored.ESP
 Great Service.ESP
+Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
@@ -1554,7 +1591,7 @@ Merged Objects.ESP
 </details>
 
 <details>
-<summary>Maximalist load order (72 plugins)</summary>
+<summary>Maximalist load order</summary>
 
 ```
 Morrowind.esm
@@ -1759,18 +1796,9 @@ Crosshair Settings
 - Set **Crosshair Scale** to 80%.
 - Set **Sneaking Crosshair Scale** to 80%.
 
-### Let There Be Darkness - Lua Lighting Overhaul
-
-General and Cell Settings
-- Set **Cell lighting value overrides** to NONE.
-- If you've installed the **specialprocess** shader in **Setup**, set all three **Ambient color adjustments** to 75.
-
-Light Settings  
-- Disable **Use TLaD overrides for radius and color of light sources?**.
-
 ### Limited Leaping
 
-- Set **Cooldown between jumps** to 0.
+- Set **Cooldown between jumps** to 1.
 - Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using BTB's Game Improvements.
 
 ### Putting Power in Willpower
