@@ -82,6 +82,7 @@
 - Removed Let There Be Darkness configuration instructions.
 - Removed [**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing) (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
 - Removed [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?) (replaced by Familiar Faces).
+- Removed [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files) (replaced with Watch the Skies).
 </details>
 
 <details>
@@ -968,9 +969,6 @@ Adds groundcover to almost all regions.
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
 
-[**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files)  
-Replaces rain with a more heavy rain look.
-
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886?tab=files)  
 Makes windows glow in the dark.
 - Check the following options in the FOMOD installer:
@@ -998,6 +996,14 @@ Makes windows glow in the dark.
   - Rename the mod to **Project Atlas Glow in the Dahrk Patch**.  This will install the patch as a separate mod.
 
 > Note that new window meshes added by mods will require a patch for glowing windows.
+
+[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087?tab=files)  
+Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Vanilla style
+  - [ ] 02 Interior sunrays
+  - [X] 03 Vanilla style sunrays
 
 [**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/?tab=files)  
 Adds a more realistic sunglare.
@@ -1027,6 +1033,19 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050?tab=files)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+
+[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636?tab=files)  
+Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
+- Check the following options in the BAIN installer:
+  - [X] 00 Lua core
+  - [ ] 01 Textures 1k
+  - [X] 01 Textures 2k
+  - [ ] 02 Weather Adjuster replacer
+  - [ ] 03 Weather Adjuster config
+  - [ ] 04 Rain mesh replacer - regular
+  - [X] 04 Rain mesh replacer - wild
+  - [ ] 05 IT Vanilla sky texture replacer 1k
+  - [X] 05 IT Vanilla sky texture replacer 2k
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -1128,17 +1147,44 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
 Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
 
+[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
+- Check the following options in the BAIN installer: 
+  - [ ] 00 Flowing Mire
+  - [X] 01 Still Mire
+
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
+Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
+- This shader needs to be added to the end of the shader chain in MGE XE.
+
+[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?tab=files)  
+Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
+- This shader needs to be added to the end of the shader chain in MGE XE.
+
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
 
+[**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339?tab=files)  
+Replaces corprus meat models with animated, twitching ones ones.
+	
+[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?tab=files)  
+Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+- Check the following options in the BAIN installer: 
+  - [ ] 00 Core
+  - [X] 01 Default Dust
+  - [ ] 01 Denser Dust
+
 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473?tab=files)  
 Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
+
+[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible.
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
@@ -1497,7 +1543,6 @@ Waterfalls Tweaks
 I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer OR Signposts Retextured
 Remiros' Groundcover
-Apel's Rain Replacer
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
 Nords Shut Your Windows
