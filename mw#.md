@@ -80,7 +80,8 @@
   - Realistic Movement Speeds.
 - Moved Idle Talk to the mainline Audio section.
 - Removed Let There Be Darkness configuration instructions.
-- Removed Dwemer Soul Gems (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
+- Removed [**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing) (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
+- Removed [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?) (replaced by Familiar Faces).
 </details>
 
 <details>
