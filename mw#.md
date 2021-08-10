@@ -1858,9 +1858,7 @@ Crosshair Settings
 - Enable **Allow negative Resist Bonus**.
 
 ### Quick Equip
-- Set **Assign Keybind for Equipping Items** to E.
-
-- Disable **Show quickloot menu on plant / organic containers**.
+- Set **Assign Keybind for Equipping Items** to Q.
 
 ### Quick Loot
 
@@ -1879,6 +1877,10 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
 
+### Weather Adjuster
+
+- Set **Disable sky texture changes** to On.
+
 # MOD KEYBINDINGS
 
 The mods installed in this guide and configured as mentioned above will use the following keys.
@@ -1887,6 +1889,7 @@ Key | Function | Added by
 ------------ | ------------- | -------------
 Z | Open standard loot menu | QuickLoot
 X | Take all items in quick loot menu | QuickLoot
+Y | Fast forward time | Dynamic Timescale
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
 K | Orders followers to attack the current target | Kill Command
@@ -1894,11 +1897,12 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
+Ctrl+Y | Turbo fast forward time | Dynamic Timescale
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Shift+E | Equips/unequips item in inventory | Quick Equip
-Shift+E | Use potion/ingredient in inventory | Quick Equip
+Shift+Q | Equips/unequips item in inventory | Quick Equip
+Shift+Q | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CREDITS
