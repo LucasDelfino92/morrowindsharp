@@ -798,6 +798,8 @@ Drastically reduces the frequency of idle Cliff Racer screeches, by editing the 
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 - Also download the **AURA 3.0 - replacer** optional file.
 
+> On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
+
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312?tab=files)  
 Customizable music overhaul which adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
 - Only install the **Better Music System Redone v1.4** main file.
