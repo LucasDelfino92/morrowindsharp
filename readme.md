@@ -20,7 +20,7 @@ I don't have a Patreon, so don't let yourself be fooled!
 
 What *is* Morrowind#?
 
-A modular modding guide for The Elder Scrolls III: Morrowind. It's been in the work for a handful of years already, when I first decided I wanted to keep a track of what mods I liked to play with, and how to install the most problematic of them.
+A modular modding guide for The Elder Scrolls III: Morrowind. It's been in the works for a handful of years already, when I first decided I wanted to keep a track of what mods I liked to play with, and how to install the most problematic of them.
 
 Over time, I realized I wanted to share my setup with others. This in turn lead to me expanding the guide to account for more detailed instructions, in hopes that those less familiar with the game and modding in general wouldn't have such hard times setting up the mods that make up this guide.
 
