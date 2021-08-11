@@ -364,9 +364,10 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
 - Click **Continue**. This will open the **Distant Land Generation** window.
-- In the **Land Textures** tab, simply click **Create Land Textures**.
+- In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
 - In the **Statics** tab:
+  - Set **Minimum Static Size** to 100.
   - Check **Include reflective water in interiors**.
   - Check **Use lists of statics overriding parameters set above**.
   - Click **Edit list**.
