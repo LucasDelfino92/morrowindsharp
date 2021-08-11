@@ -12,6 +12,8 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
+I don't have a Patreon, so don't let yourself be fooled!
+
 ## About
 
 > To play Morrowind# is to play Morrowind the way *I* want to play it.
