@@ -105,13 +105,7 @@ This update is compatible with an existing playthrough.
 - Removed [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) (User Interface).
 - Removed [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) (Gameplay).
 - Removed [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) (Audio) (sorry Null).
-- Removed [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) (Audio).
-- Removed [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) (Visuals).
-- Removed [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) (Visuals).
 - Removed [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals).
-- Removed [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) (Visuals).
-- Removed [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?) (Visuals).
-- Removed [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) (Visuals).
 - Removed [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) (Visuals).
 </details>
 
@@ -134,9 +128,7 @@ This update is compatible with an existing playthrough.
 - Updated [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1O54qx23S7KT5KYLZyJGFw_WGLmOs1N7-/view?usp=sharing). Now a merged replacer ESP is offered.
 
 The following mods have been removed from the guide. In virtually all of these cases, it's because I think they didn't warrant their inclusion. I don't consider them to be as "essential" as many other mods present here.
-	
-- Removed [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954?tab=files) (User Interface).
-- Removed [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842?tab=files) (User Interface).
+
 - Removed [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933?tab=files) (QOL Improvements).
 - Removed [**Corsair's Steam Centurions**](https://drive.google.com/file/d/1cPdeU3_3Rc_N1XdigDUmHQSVdNvZ_ypx/view?usp=sharing) (Gameplay).
 - Removed [**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194?tab=files) (Gameplay).
@@ -145,7 +137,6 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Master Index UMOPP**](https://drive.google.com/file/d/1QSXFWyHttjeUaXUQsB1DHbIbiceptBzd/view?usp=sharing) (Gameplay).
 - Removed [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788?tab=files) (Gameplay).
 - Removed [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915?tab=files) (Gameplay).
-- Removed [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373?tab=files) (Gameplay).
 - Removed [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602?tab=files) (Gameplay).
 - Removed [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215?tab=files) (Gameplay).
 - Removed [**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168?tab=files) (Gameplay).
@@ -154,8 +145,6 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232?tab=files) (Overhauls).
 - Removed [**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690?tab=files) (Overhauls).
 - Removed [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968?tab=files) (Audio).
-- Removed [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586?tab=files) (Audio).
-- Removed [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603?tab=files) (Audio).
 - Removed [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799?tab=files) (Visuals).
 - Removed [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816?tab=files) (Visuals).
 - Removed [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711?tab=files) (Visuals).
@@ -165,7 +154,6 @@ The following mods have been removed from the guide. In virtually all of these c
 - Removed [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989?tab=files) (Visuals).
 - Removed [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720?tab=files) (Visuals).
 - Removed [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312?tab=files) (Visuals).
-- Removed [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291?tab=files) (Visuals).
 - Removed [**Silt Strider Redone**](https://www.nexusmods.com/morrowind/mods/49023?tab=files) (Visuals).
 - Removed [**Improved Nordic Iron Helm Mesh**](https://www.nexusmods.com/morrowind/mods/43816?tab=files) (Visuals).
 - Removed [**No Orcish Clown Shoes**](https://www.nexusmods.com/morrowind/mods/45939?tab=files) (Visuals).
