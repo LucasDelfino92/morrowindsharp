@@ -12,6 +12,12 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
+# Acknowledgments
+
+I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
+
+- **Tythesly** (August 11th, 2021)
+
 ## About
 
 > To play Morrowind# is to play Morrowind the way *I* want to play it.
