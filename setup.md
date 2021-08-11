@@ -307,7 +307,7 @@ abot's custom distant static overrides, which accounts for different stages of t
 
 ### In-game tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/In-game%20Tab.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20In-game%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -325,7 +325,7 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE_Graphics.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20Graphics%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -379,7 +379,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/mgexe0135.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
