@@ -936,15 +936,6 @@ Replaces all the lava meshes in the vanilla game. Removes alpha blending from la
   - [ ] 01 Vurt's Lava Patch
   - [ ] 02 Tamriel_Data Patch
 
-[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files)  
-Makes road signs legible. Uses low resolution vanilla-friendly textures.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Vvardenfell only
-  - [ ] 02 Vvardenfell, Morrowind, and Cyrodiil
-
-> A high resolution road sign replacer that is slightly less vanilla-friendly is [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?tab=files), also compatible with this guide.
-
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733?tab=files)  
 Adds groundcover to almost all regions.
 - Install the **Remiros' Groundcover** main file.
@@ -963,6 +954,12 @@ Adds groundcover to almost all regions.
 > This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
+
+[**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?tab=files)  
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+- Only install the **Signposts Retextured 1-2** main file.
+
+> A vanilla-faithful but low-resolution signpost replacer is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957?tab=files), also compatible with this guide.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886?tab=files)  
 Makes windows glow in the dark.
@@ -1346,7 +1343,7 @@ Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
 I Lava Good Mesh Replacer
-Near Vanilla Road Sign Replacer OR Signposts Retextured
+Signposts Retextured OR Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Apel's Rain Replacer
 Glow in the Dahrk
@@ -1536,7 +1533,7 @@ Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
 I Lava Good Mesh Replacer
-Near Vanilla Road Sign Replacer OR Signposts Retextured
+Signposts Retextured OR Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
@@ -1620,7 +1617,7 @@ Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
+PB_SignpostsRetextured.ESP OR NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 XE Sky Variations.ESP
@@ -1689,7 +1686,7 @@ Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-NearVanillaRoadSigns.ESP OR PB_SignpostsRetextured.ESP
+PB_SignpostsRetextured.ESP OR NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 XE Sky Variations.ESP
