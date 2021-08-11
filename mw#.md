@@ -25,6 +25,7 @@
   - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#closing-commments)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
 - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
+- [Acknowledgements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#acknowledgements)
 - [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#credits)
 - [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#compatibility)
 
@@ -1906,6 +1907,12 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Q | Equips/unequips item in inventory | Quick Equip
 Shift+Q | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Activates/deactivates placed/static light sources | The Midnight Oil
+
+# ACKNOWLEDGEMENTS
+
+I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
+
+- **Tythesly** (August 11th, 2021)
 
 # CREDITS
 
