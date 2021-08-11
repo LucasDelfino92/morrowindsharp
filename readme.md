@@ -12,20 +12,40 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
-## Description
+## About
 
-Morrowind# is a modular modding guide for The Elder Scrolls III: Morrowind, which aims to enhance Morrowind across the board. This guide is based on the following core pillars:
+> To play Morrowind# is to play Morrowind the way *I* want to play it.
 
-- Stability: following this guide, your game should rarely (if ever) crash.
-- Compatibility: mod conflicts will be kept to a minimum in order to ensure all mods work as intended.
-- Fidelity: mods suggested in this game should blend in seamlessly with vanilla Morrowind.
+What *is* Morrowind#?
 
-Morrowind# is divided in two sections:
+A modular modding guide for The Elder Scrolls III: Morrowind. It's been in the work for a handful of years already, when I first decided I wanted to keep a track of what mods I liked to play with, and how to install the most problematic of them.
 
-- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup), where I walk you through to getting the necessary patches, tools and utilities, as well as our mod manager running.
-- [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind), which is the bulk of the guide, and where we will be installing our mods proper. Many mods are recommended by default, while many others are listed under "optional" spoilers, and are intended for players wanting a more comprehensive installation. Even so, all mods present in this guide are entirely optional.
+Over time, I realized I wanted to share my setup with others. This in turn lead to me expanding the guide to account for more detailed instructions, in hopes that those less familiar with the game and modding in general wouldn't have such hard times setting up the mods that make up this guide.
 
-All information needed to follow these guides, like where mods are found, how to download them, what to look out for, and the appropriate mod order and load order, can be found in their respective pages.
+Because I like to think of myself as someone organized, the guide is split in two parts:
+
+- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup), where I walk you through to getting the necessary patches, tools and utilities, as well as our mod manager up and running.
+- [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind), which is the bulk of the guide, and where we will be installing our mods proper.
+
+Why is this the case? Because **Setup** should be useful to anyone looking to play Morrowind, hence why I don't consider it to be part of **Morrowind#**, which is what makes this guide *mine* as opposed to someone else's. In essence, to play Morrowind# is to play Morrowind the way *I* want to play it.
+
+However, Morrowind# is not for everyone. I split the guide into a number of standard modules, mostly for organization, but also because it helps keep compatibility issues in check (mods that alter the user interface are more likely to conflict with mods that alter the user interface; mods that modify visuals are more likely to conflict with mods that modify visuals, etc.).
+
+On top of that, each module has a selection of E for Everyone mods. These are just great mods that make Morrowind that much more enjoyable in 2021, without demanding a considerable amount of time to setup them up compared to, say, if you wanted to install the entirety of the mods present in Morrowind# (*a lot* for the average Joe, not that many for modding enthusiasts).
+
+I like to mod my games with the following in mind:
+
+- I don't want crashes.
+- I don't want bugs.
+- I want my mods to blend in, be them gameplay, audio, or visual mods. The last thing I want is for a mod to stick out like a sore thumb.
+- I want my mods to be compatible with each other.
+
+Because of this, the are a handful of mods you won't see in this guide:
+
+- Big overhauls, be them towns, quests, or gameplay overhauls.
+- Visual mods along the lines of texture and mesh replacers. Morrowind is an old game, and I find the best way to make it look good is to slap MGE XE and shaders on top, as well as a selection of tasteful visual mods that enhance what's already there. These mods tend to make up the bulk of most modding guides for any given Bethesda game. Here, not so much.
+
+What I offer you is my idea of Morrowind. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you can take the time to read them.
 
 ## Frequently asked questions
 
