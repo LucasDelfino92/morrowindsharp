@@ -12,7 +12,9 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
-I don't have a Patreon, so don't let yourself be fooled!
+I've been asked many times if I have a Patreon. The truth is I don't want to be put in a position where I feel obligated to answer to others. The moment I don't feel like maintaining it anymore, but feel obligated to deliver anyway, is the moment where the guide will start to lose its quality. Neither you nor me want that to happen.
+
+That you use and enjoy this guide is all that I need. However, if you feel like I deserve some compensation for this guide, I'm always open to be given a game as a gift from my [GOG Wishlist](https://www.gog.com/u/Lucas9/wishlist)! I'll add your name to the guide for everyone to see.
 
 ## About
 
