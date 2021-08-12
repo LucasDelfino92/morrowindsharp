@@ -32,6 +32,20 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.7.2.1 (August 12th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Added [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files) (Visuals).
+- Updated Putting Power in Willpower 2 installation instructions. Added editing instructions to fix a bug that prevented NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
+- Updated Pickpocket with [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing) (Overhauls). Fixes a bug that could cause crashing. You still need to install the original mod.
+- Updated Stealth Fix installation instructions. Added editing instructions to fix a bug that prevents the NPC Sneak Bonus slider from working.
+- Updated [**Lucky Strike**](https://drive.google.com/file/d/1lnC_GsHdxW6XmIgT_yP2Hx8Ilccifdhi/view?usp=sharing) (Overhauls). Fixed a bug that didn't contemplate non-weapon attacks, which lead to errors in the MWSE.log. The user can select whether critical attacks now apply to all attacks, or just to weapon-based attacks. The version number has been reverted to 1.0 to reflect the fact this is a personal edit of the official 1.0 release of the mod.
+- Updated Character Sound Overhaul installation instructions. Added editing instructions to remove an unnecessary debug log which convoluted the MWSE.log.
+- Updated Facelift installation instructions. Removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
+- Updated Unto Dust's BAIN instructions. The user additionally needs to check the 00 Core option.
+
+<details>
   <summary>v2.7.2 (August 10th)</summary>
 
 This update is compatible with an existing playthrough.
@@ -83,7 +97,7 @@ This update is compatible with an existing playthrough.
   - Area Effect Projectiles Integrated.
   - Realistic Movement Speeds.
 - Moved Idle Talk to the mainline Audio section.
-- Removed Let There Be Darkness configuration instructions.
+- Removed Let There Be Darkness configuration instructions. To revert the settings to default, you should delete the **MO2/overwrite/MWS/config/Let There Be Darkness.json** file.
 - Removed [**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing) (feel free to reinstall it if you want to make soul gems more accessible; otherwise it's not really needed).
 - Removed [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?) (replaced by Familiar Faces).
 - Removed [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555?tab=files) (replaced with Watch the Skies).
@@ -589,9 +603,15 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
 - Uncheck **Putting Power in Willpower - Absorbonach.ESP**
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE/mods/r0/will/main.lua** using a text editor.
+- Change line 110 from **if ( resistChance > roll ) then** to **if ( (resistBonus * 35) > roll ) then**.
+- Save your changes.
 
-> This disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
+> Hiding the ESP disables the gimmicky feature where Atronachs regenerate health from elemental attacks matching their element (they are immune to their own elements in the vanilla game either way).
 
+> The edit fixes a bug which prevented NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
+	
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
@@ -637,9 +657,16 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+- Also install [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing) (Overhauls). Fixes a bug that could cause crashing.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\stealth\mcm.lua** using a text editor.
+- Change line 212 from **id = "npcSneakMultiplier",** to **id = "npcSneakBonus",**.
+- Save your changes.
+
+> This fixes a bug that prevents the NPC Sneak Bonus slider from working.
 
 <details>
 	<summary>Click to expand</summary>
@@ -703,10 +730,13 @@ Limits conditions under which player can rest, wait and regenerate health.
 Changes how quickly time passes in-game depending on where you are and what you're doing.
 
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
-Adds in lock-bashing from Daggerfall.
+Adds in lock-bashing, allowing you to break open locks with physical attacks.
 
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1vLvromgcj9tqAWxfMLF-cQj_PhJpSAWb/view?usp=sharing)  
-Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1lnC_GsHdxW6XmIgT_yP2Hx8Ilccifdhi/view?usp=sharing)  
+Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
+- Check the following option in the BAIN installer:
+  - [ ] 00 Standard
+  - [X] 00 Complete
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
@@ -802,6 +832,12 @@ Customizable music overhaul which adds new music tracks, area-specific ambiance,
 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654?tab=files)  
 Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
 - Set the **Footsteps** volume to minimum in Audio.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\Character Sound Overhaul\main.lua** using a text editor.
+- Change line 390 from **mwse.log("HEALTH DAMAGE")** to **--mwse.log("HEALTH DAMAGE")**.
+- Save your changes.
+
+> This removes an unnecessary debug log which convoluted the MWSE.log.
 
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471?tab=files)  
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
@@ -873,6 +909,9 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 # VISUALS
 
+[**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files)  
+Detailed rock meshes based off Correct UV Rocks.
+
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Check the following options in the BAIN installer:
@@ -891,9 +930,9 @@ Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) 
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Install the **kart_facelift_meshes** and **kart_facelift_textures** main files.
+- Only install the **kart_facelift_meshes** main file.
 
-> I personally prefer **Facelift**'s face meshes to those of **Familiar Faces**. However, **Familiar Faces** also covers hair meshes. If you want to keep **Familiar Faces**'s head meshes, you can simply install the **kart_facelift_textures** main file instead.
+> I personally prefer **Facelift**'s face meshes to those of **Familiar Faces**, but because **Familiar Faces** also covers hair meshes we want to install both mods.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
@@ -1005,18 +1044,7 @@ Adds a more realistic sunglare.
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
 - Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
-- Comment out the **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** using "--", like so:
-```
-local function initialized()
-	event.register("cellChanged", checkPlayerCell)
-	--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})
-	editLights()
-	mwse.log("[Let There Be Darkness] initialized")
-	if (config.debugMode == true) then
-		tes3.messageBox("[Let There Be Darkness] initialized")
-	end
-end
-```
+- Change line 415 from **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** to **--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})**.
 - Save your changes.
 
 > This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
@@ -1169,7 +1197,7 @@ Replaces corprus meat models with animated, twitching ones ones.
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435?tab=files)  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 - Check the following options in the BAIN installer: 
-  - [ ] 00 Core
+  - [X] 00 Core
   - [X] 01 Default Dust
   - [ ] 01 Denser Dust
 
@@ -1330,12 +1358,14 @@ Services Restored
 Sneaky Strike
 Useful Bound Armor
 Pickpocket
+Pickpocket Fix
 Stealth Improved
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 Great Service
 Idle Talk
 LDM - Context Matters
+WIP Detailed Correct UV Rocks
 Intelligent Textures
 Facelift
 Comrade Raven's Book Arts Replacer
@@ -1462,6 +1492,7 @@ Light Decay
 Wading in Water MW
 Plunder the Dungeon
 Pickpocket
+Pickpocket Fix
 Stealth Improved
 Class-Conscious Character Progression (CCCP)
 Class Skill Limit
@@ -1524,6 +1555,7 @@ LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
 Outfit Greetings Tweaked
+WIP Detailed Correct UV Rocks
 Intelligent Textures
 Familiar Faces
 Familiar Faces - Knife-Ears
