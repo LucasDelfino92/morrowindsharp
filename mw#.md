@@ -44,6 +44,7 @@ This update is compatible with an existing playthrough.
 - Updated Character Sound Overhaul installation instructions. Added editing instructions to remove an unnecessary debug log which convoluted the MWSE.log.
 - Updated Facelift installation instructions. Removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
 - Updated Unto Dust's BAIN instructions. The user additionally needs to check the 00 Core option.
+</details>
 
 <details>
   <summary>v2.7.2 (August 10th)</summary>
