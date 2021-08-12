@@ -549,7 +549,7 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717?tab=files)  
 Updated **abot\lib.lua** common file used by some of abot's mods.
 
-> If you've installed any of abot's Smart Journal, Smart Map, or Smart Ammo mods, you must install this file and allow it to overwrite the rest of them.
+> If you've installed any of abot's Smart Journal, Smart Map, or Smart Ammo mods, you must install this file and load it after those, allowing it to override their outdated lib.lua file.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410?tab=files)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
