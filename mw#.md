@@ -1800,19 +1800,19 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Use current load order**. This will select your active plugins for distant land generation.
 - Click **Plugin directories...**
 - Click **Add**. Select your **Morrowind\Data Files\Grass** folder.
-- Seven grass plugins should have appeared at the bottom of your load order. Check all of them.
+- Seven grass plugins should have appeared in your load order. Check all of them.
   - [X] Rem_AC.esp
   - [X] Rem_AI.esp
   - [X] Rem_AL.esp
   - [X] Rem_BC.esp
-  - [X] Rem_GL_Trackless_GL.esp
+  - [X] Rem_GL.esp (users of the extended guide should have Rem_GL_Trackless_GL.esp instead)
   - [X] Rem_Solstheim.esp
   - [X] Rem_WG.esp
 - Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-> Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland.
+> Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland, if following the extended guide.
 
 ## CLOSING COMMENTS
 
