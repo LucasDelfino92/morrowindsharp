@@ -926,11 +926,9 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 [**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093?tab=files)  
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+- Also install [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files), which includes [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to reflect the half-elven heritage of Bretons.
 
-[**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to the Breton hair meshes from **Familiar Faces** to reflect their half-elven heritage.
-
-> An alternative to **Familiar Faces**'s hair meshes is [**Vanilla-flavoured Hair**](https://www.nexusmods.com/morrowind/mods/49910?tab=files).	These already include [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files).
+> An alternative to **Familiar Faces**'s hair meshes is [**Vanilla-flavoured Hair**](https://www.nexusmods.com/morrowind/mods/49910?tab=files).	These already include **Knife-Ears**.
 
 > An alternative to **Familiar Faces**'s Khajiit head meshes is [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files).
 
