@@ -359,7 +359,7 @@ Fixes several engine bugs related to GMSTs used when raising skills via NPC trai
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Expand the **Correct Mudcrab** and **Regular** folders.
 - Right-click on **Data Files**.
-- Click **Set as data files directory**.
+- Click **Set as data files directory** and click **OK**.
 
 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696?tab=files)  
 Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
@@ -603,7 +603,10 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 - Expand the **2.0** folder.
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
-- Uncheck **Putting Power in Willpower - Absorbonach.ESP**
+- Uncheck **Putting Power in Willpower - Absorbonach.ESP** and click **OK**.
+
+There's an additional step we need to take.
+
 - Right-click on the installed file and click **Open in Explorer**.
 - Open **MWSE/mods/r0/will/main.lua** using a text editor.
 - Change line 110 from **if ( resistChance > roll ) then** to **if ( (resistBonus * 35) > roll ) then**.
@@ -647,6 +650,8 @@ The radius of a handheld light will gradually diminish and eventually go out whe
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783?tab=files)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
 
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977?tab=files)  
 Adds a unique reward and new dialogue acknowledging your completion of the unmarked quest to plunder Divayth Fyr's dungeon.
@@ -938,7 +943,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
 - Right-click on **Data Files**.
-- Click **Set as data files directory**.
+- Click **Set as data files directory** and click **OK**.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863/?)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -1097,7 +1102,7 @@ Replaces the generic, copy-pasted guards of Morrowind with different variations.
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763?tab=files)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - Right-click on **Data Files**.
-- Click **Set as data files directory**.
+- Click **Set as data files directory** and click **OK**.
 
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
 Adds visible projectiles on anything they hit.
@@ -1108,7 +1113,7 @@ Adds visible projectiles on anything they hit.
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install the **WeaponSheathing 1.6-MWSE** main file.
   - Right-click on **Data Files**.
-  - Click **Set as data files directory**.
+  - Click **Set as data files directory** and click **OK**.
 - Also install the **Morrowind Optimization Patch Weapon Sheathing Patch**.
   - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
   - Check the following options in the BAIN installer:
