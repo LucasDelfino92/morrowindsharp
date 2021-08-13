@@ -1841,6 +1841,8 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 
 ## IN-GAME CONFIGURATION
 
+> This section includes mods from the extended guide.
+
 The following mods need to be configured using the in-game **Mod Configuration** menu.
 
 ### abot's Smart Journal
@@ -1929,7 +1931,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 # MOD KEYBINDINGS
 
-The mods installed in this guide and configured as mentioned above will use the following keys.
+> This section includes mods from the extended guide.
 
 Key | Function | Added by
 ------------ | ------------- | -------------
