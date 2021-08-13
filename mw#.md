@@ -16,13 +16,13 @@
 - [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
 - [Towns and dungeons](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#towns-and-dungeons)
 - [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
-  - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
   - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
   - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
   - [Cleaning our plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-our-plugins)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#conflict-resolution)
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land)
   - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#closing-commments)
+  - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
   - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
 - [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
 - [Acknowledgments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#acknowledgments)
@@ -1281,19 +1281,6 @@ Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a prie
 
 # FINISHING TOUCHES
 
-## ADDITIONAL MCP PATCHES
-
-We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
-
-Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
-
-Category | Patch | Description
------------- | ------------- | -------------
-Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **BTB's Game Improvements** removes the skill gain for consuming ingredients, and **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
-Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
-Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
-Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **BTB's Game Improvements** requires this patch for its weapon resistance changes to work as intended.
-
 ## FINAL MOD ORDER AND LOAD ORDER
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
@@ -1767,6 +1754,8 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ## CLEANING OUR PLUGINS
 
+> This section includes plugins from the extended guide.
+
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
@@ -1790,7 +1779,9 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-**Merged Objects.ESP** makes a handful of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using BTBGI Necro Edit. We will have to delete these unintended changes from our Merged Objects plugin.
+> The following instructions apply to followers of the extended guide.
+
+**Merged Objects.ESP** makes a handful of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using **BTBGI Necro Edit**. We will have to delete these unintended changes from our Merged Objects plugin.
 
 - [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
 - Delete the following records: 
@@ -1798,6 +1789,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
   - Weapon **imperial netch blade**
   - Weapon **Stormkiss**
 - This omits the unintended changes made by Merged Objects to these weapons.
+</details>
 
 ## RE-RUNNING DISTANT LAND
 
@@ -1831,6 +1823,21 @@ Broadly speaking, these are the steps you should follow whenever you install new
 3. Clean dirty plugins.
 4. Solve conflicts.
 5. Re-run Distant Land.
+
+## ADDITIONAL MCP PATCHES
+
+> This section is exclusively for followers of the extended guide.
+	
+We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
+
+Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
+
+Category | Patch | Description
+------------ | ------------- | -------------
+Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **BTB's Game Improvements** removes the skill gain for consuming ingredients, and **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
+Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
+Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
+Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **BTB's Game Improvements** requires this patch for its weapon resistance changes to work as intended.
 
 ## IN-GAME CONFIGURATION
 
