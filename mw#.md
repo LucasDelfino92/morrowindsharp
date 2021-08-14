@@ -32,6 +32,14 @@
 # CHANGELOG
 
 <details>
+  <summary>v2.7.2.1 Hotfix (August 13th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Updated [**Lucky Strike**](https://drive.google.com/file/d/1Py5bPSHdH3nnhnFAOMldw8ZlOyTLKJWU/view?usp=sharing) (Overhauls). Fixed a bug in the Complete version (missing end to close the function).
+</details>
+
+<details>
   <summary>v2.7.2.1 (August 12th)</summary>
 
 This update is compatible with an existing playthrough.
@@ -738,7 +746,7 @@ Changes how quickly time passes in-game depending on where you are and what you'
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544?tab=files)  
 Adds in lock-bashing, allowing you to break open locks with physical attacks.
 
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1lnC_GsHdxW6XmIgT_yP2Hx8Ilccifdhi/view?usp=sharing)  
+[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1Py5bPSHdH3nnhnFAOMldw8ZlOyTLKJWU/view?usp=sharing)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
 - Check the following option in the BAIN installer:
   - [ ] 00 Standard
