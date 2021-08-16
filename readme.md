@@ -1,6 +1,6 @@
 # MORROWIND#: A Morrowind Modding Guide
 
-Last updated: August 10th, 2021
+Last updated: August 15th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Banner.jpg)
 
@@ -93,7 +93,7 @@ Depends on how quick and thorough you are about it. I guarantee it will take you
 
 Believe it or not, I've been asked this enough times for me to make it a FAQ. The truth is I don't want to be put in a position where I feel obligated to answer to others. The moment I don't feel like maintaining my guide anymore is the moment where quality will start to drop if I keep updating it out of an obligation to others. Neither you nor me want that to happen. That you enjoy this guide is all I need.
 
-However, if you *feel* like I deserve some compensation for this guide, I'm always open to be given a game as a gift from my [GOG Wishlist](https://www.gog.com/u/Lucas9/wishlist)! Sadly, we (Argentina) are charged a hefty extra for spending money on foreign products, which means buying games is far more expensive than it should be. If you buy me a game, I'll add your name to the guide for everyone to see.
+However, if you *feel* like I deserve some compensation for this guide, I'm always open to be given a game as a gift from my [GOG Wishlist](https://www.gog.com/u/Lucas9/wishlist)! Sadly, we (Argentina) are charged a hefty extra for spending money on foreign products, which means buying games is far more expensive than it should be (about 60% more expensive). If you buy me a game, I'll add your name to the guide for everyone to see.
 
 ## My setup
 
