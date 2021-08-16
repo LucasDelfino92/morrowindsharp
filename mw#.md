@@ -1339,9 +1339,7 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-MGE XE Shader - Deband Fogaware v2
-MGE XE Shader - EdgeAA
-MGE XE Shader - Specialprocess
+MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
 Correct UV Rocks
@@ -1438,9 +1436,7 @@ Weapon Sheathing Additions
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-MGE XE Shader - Deband Fogaware v2
-MGE XE Shader - EdgeAA
-MGE XE Shader - Specialprocess
+MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
 Correct UV Rocks
