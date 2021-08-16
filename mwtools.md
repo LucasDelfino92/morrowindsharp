@@ -17,7 +17,7 @@
 
 Nearing the end of **Morrowind#** you may or may not find a section of [**plugins that that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-our-plugins), and you will be redirected here.
 
-We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools) **Tools** section. If not, go back and install them.
+We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Morrowind# [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools) section. If not, go back and install them.
 
 ## tes3cmd
 
