@@ -1,5 +1,5 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
+[<< Back to Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
 
 # TOOLS
 
@@ -17,7 +17,7 @@
 
 Nearing the end of Morrowind++ you may or may not find a section of [**plugins that that require cleaning**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#cleaning-our-plugins), and you will be redirected here.
 
-We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the [**Morrowind++ Part 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tools) guide. If not, go back and install them.
+We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#tools). If not, go back and install them.
 
 ## tes3cmd
 
@@ -97,7 +97,7 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when launching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-While you will never be asked to use this tool when following **Morrowind++**, it pays to get used to it when installing mods on your own.
+While you will never be asked to use this tool when following **Morrowind#**, it pays to get used to it when installing mods on your own.
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind++](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
+[<< Back to Morrowind#](https://github.com/Sigourn/morrowind-improved/blob/master/mw++.md#morrowind-part-2)
