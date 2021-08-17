@@ -7,7 +7,7 @@
 - [Disclaimer](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#disclaimer)
 - [Tools](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#tools)
 - [Modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#modding-tips)
-- [Mod Organizer 2 modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mod-organizer-2-modding-tips)
+- [Mod Organizer 2 tips](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mod-organizer-2-tips)
 - [MGE XE Shaders](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mge-xe-shaders)
 - [Patches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#patches)
 - [User interface](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#user-interface)
