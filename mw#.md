@@ -1995,7 +1995,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 - Set **Disable sky texture changes** to On.
 
-> This solves a conflict with **Watch the Skies**.
+> These instructions are exclusively for users of **Watch the Skies**.
 
 # MOD KEYBINDINGS
 
