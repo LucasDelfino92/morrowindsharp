@@ -49,6 +49,7 @@ This update is compatible with an existing playthrough.
   - Removed **DBHQ.ESP** from the list of plugins that require cleaning (**Dark Brotherhood Headquarters** is no longer part of the guide).
 - ⚠️ **In-game configuration**:
   - Removed **QuickLoot** instructions (no longer part of the guide).
+  - Removed **Weather Adjuster** instructions (applied by default with the **Weather Adjuster Preset**).
   - Added **Security Enhanced** instructions (for users of **Locks and Traps Detection**).
 - ⚠️ **Mod keybindings**:
   - Removed **QuickLoot** keybindings (no longer part of the guide).
@@ -94,7 +95,7 @@ This update is compatible with an existing playthrough.
 - ⚠️ **Stealth Improved** (Overhauls): added editing instructions to fix a bug that prevents the NPC Sneak Bonus slider from working.
 - ⚠️ [**Lucky Strike**](https://drive.google.com/file/d/1lnC_GsHdxW6XmIgT_yP2Hx8Ilccifdhi/view?usp=sharing) (Overhauls): fixed a bug that didn't contemplate non-weapon attacks, which lead to errors in the MWSE.log. The user can select whether critical attacks now apply to all attacks, or just to weapon-based attacks. The version number has been reverted to 1.0 to reflect the fact this is a personal edit of the official 1.0 release of the mod.
 - ⚠️ **Character Sound Overhaul** (Audio): added editing instructions to remove an unnecessary debug log which convoluted the MWSE.log.
-- ⚠️ **Facelift (Visuals): removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
+- ⚠️ **Facelift** (Visuals): removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
 - ⚠️ **Unto Dust** (Visuals): also check the 00 Core in the BAIN instructions.
 </details>
 
@@ -1990,12 +1991,6 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - Disable **Change map mode on cell change?**.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
-
-### Weather Adjuster
-
-- Set **Disable sky texture changes** to On.
-
-> These instructions are exclusively for users of **Watch the Skies**.
 
 # MOD KEYBINDINGS
 
