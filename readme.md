@@ -50,6 +50,7 @@ Because of this, the are a handful of mods you won't see in this guide:
 
 - Big overhauls, be them towns, quests, or gameplay overhauls.
 - Visual mods along the lines of texture and mesh replacers. Morrowind is an old game, and I find the best way to make it look good is to slap MGE XE and shaders on top, as well as a selection of tasteful visual mods that enhance what's already there. These mods tend to make up the bulk of most modding guides for any given Bethesda game. Here, not so much.
+- Mods that add new equipment. Integration into the base game is everything, so I chose to leave these out just to avoid headaches.
 
 What I offer you is my idea of Morrowind. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you can take the time to read them.
 
