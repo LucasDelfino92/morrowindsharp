@@ -45,6 +45,13 @@ This update is compatible with an existing playthrough.
 - ⚠️ **Final mod order and load order**:
   - Updated mod order and load order for a number of mods to match guide placement (**Bitter Coast Scum Replacer**, **3D Vines Vanilla Mushroom Trees**, **Ashmire Replacer**).
   - Added missing mods to the mod order (**GMST Menu Preset**, **Graphic Herbalism MWSE Patches and Replacers**, **AURA Replacer**, **Weather Adjuster Preset**).
+- ⚠️ **Cleaning our plugins**:
+  - Removed **DBHQ.ESP** from the list of plugins that require cleaning (**Dark Brotherhood Headquarters** is no longer part of the guide).
+- ⚠️ **In-game configuration**:
+  - Removed **QuickLoot** instructions (no longer part of the guide).
+  - Added **Security Enhanced** instructions (for users of **Locks and Traps Detection**).
+- ⚠️ **Mod keybindings**:
+  - Removed **QuickLoot** keybindings (no longer part of the guide).
 </details>
 
 <details>
@@ -1821,7 +1828,6 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
   - Divayth Fyr Puzzle Fixed.ESP
-  - DBHQ.ESP
   - Nordic Chest Replacer.ESP
   - TheMidnightOil.ESP
 
@@ -1947,7 +1953,7 @@ Crosshair Settings
 ### Limited Leaping
 
 - Set **Cooldown between jumps** to 1.
-- Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using BTB's Game Improvements.
+- Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using **BTB's Game Improvements**.
 
 ### Putting Power in Willpower
 
@@ -1956,11 +1962,11 @@ Crosshair Settings
 ### Quick Equip
 - Set **Assign Keybind for Equipping Items** to Q.
 
-### Quick Loot
+### Security Enhanced
 
-- Disable **Show quickloot menu on plant / organic containers**.
+- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
-> This solves a conflict with **Graphic Herbalism**.
+> These instructions are exclusively for users of **Locks and Traps Detection**.
 
 ### Stealth Improved
 
@@ -1975,7 +1981,7 @@ Crosshair Settings
 - Disable **Show Potion Tooltips**.
 - Disable **Show Scroll Tooltips**.
 
-> This disables the key tooltips which can be spoilery, as well as potion and scroll tooltips that may be rendered incorrect from the use of mods such as BTB's Game Improvements.
+> This disables the key tooltips which can be spoilery, as well as potion and scroll tooltips that may be rendered incorrect from the use of mods such as **BTB's Game Improvements**.
 
 ### UI Expansion
 
@@ -1997,8 +2003,6 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Z | Open standard loot menu | QuickLoot
-X | Take all items in quick loot menu | QuickLoot
 Y | Fast forward time | Dynamic Timescale
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
