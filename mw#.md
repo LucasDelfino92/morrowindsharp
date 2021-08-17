@@ -1137,8 +1137,8 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 01 Textures 2k
   - [ ] 02 Weather Adjuster replacer
   - [ ] 03 Weather Adjuster config
-  - [ ] 04 Rain mesh replacer - regular
-  - [X] 04 Rain mesh replacer - wild
+  - [X] 04 Rain mesh replacer - regular
+  - [ ] 04 Rain mesh replacer - wild
   - [ ] 05 IT Vanilla sky texture replacer 1k
   - [X] 05 IT Vanilla sky texture replacer 2k
 
