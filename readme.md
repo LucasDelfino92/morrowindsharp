@@ -2,7 +2,7 @@
 
 Last updated: August 15th, 2021
 
-![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner.jpg)
 
 ## Contact info
 
@@ -30,8 +30,8 @@ Over time, I realized I wanted to share my setup with others. This in turn lead 
 
 Because I like to think of myself as someone organized, the guide is split in two parts:
 
-- [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup), where I walk you through to getting the necessary patches, tools and utilities, as well as our mod manager up and running.
-- [**Morrowind#**](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind), which is the bulk of the guide, and where we will be installing our mods proper.
+- [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup), where I walk you through to getting the necessary patches, tools and utilities, as well as our mod manager up and running.
+- [**Morrowind#**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind), which is the bulk of the guide, and where we will be installing our mods proper.
 
 Why is this the case? Because **Setup** should be useful to anyone looking to play Morrowind, hence why I don't consider it to be part of **Morrowind#**, which is what makes this guide *mine* as opposed to someone else's. In essence, to play Morrowind# is to play Morrowind the way *I* want to play it.
 
