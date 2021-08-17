@@ -26,7 +26,6 @@
   - [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#in-game-configuration)
 - [Mod keybindings](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mod-keybindings)
 - [Acknowledgments](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#acknowledgments)
-- [Credits](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#credits)
 - [Compatibility](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#compatibility)
 
 # CHANGELOG
@@ -36,6 +35,15 @@
 - 🚫 Mod has been removed from the guide.
 
 > Unless explicitly mentioned, a mod is removed because it's not considered meaningful to the experience anymore.
+
+<details>
+  <summary>v2.7.2.2 Hotfix 2 (August 17th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ [**Lucky Strike**](https://www.nexusmods.com/morrowind/mods/45765?tab=files) (Overhauls): updated mod link (the Google Drive edit is now outdated).
+- ⚠️ **Credits**: removed section (original mods are now listed alongside their edits).
+</details>
 
 <details>
   <summary>v2.7.2.2 Hotfix (August 16th)</summary>
@@ -739,6 +747,8 @@ Introduces a backstabbing mechanic - do more damage when stabbing an enemy from 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
+> This is an edit of [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624?) that includes ingredient consumption restrictions.
+
 [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680?tab=files)  
 Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them.
 
@@ -761,7 +771,7 @@ Fixes lore to gameplay inconsistencies pertaining to contraband items and servic
 [**Harder Barter**](https://drive.google.com/file/d/1uKuRcF3lGuWGh0JCPQ668vuyjyAGonFI/view?usp=sharing)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
 
-> This is an edit of [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?tab=files) which fixes a bug with the price calculation while also being more forgiving.
+> This is an edit of [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?) that fixes a bug with the price calculation while also being more forgiving.
 
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
@@ -783,11 +793,8 @@ Applies the enchanted effect to any doors or containers with traps. This effect 
 
 > This mod is fully compatible and complemented by **Locks and Traps Detection**.
 
-[**Lucky Strike - A Critical Hit Mod**](https://drive.google.com/file/d/1Py5bPSHdH3nnhnFAOMldw8ZlOyTLKJWU/view?usp=sharing)  
+[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765?tab=files)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
-- Check the following option in the BAIN installer:
-  - [ ] 00 Standard
-  - [X] 00 Complete
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
@@ -800,6 +807,8 @@ Removes "Diseased", "Blighted", and similar adjectives from creature names.
 
 [**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1r4J6WxGIyDE3Ti2isEDMCPtOQqir6R33/view?usp=sharing)  
 Fixes some the biggest exploits and balance issues in the game.
+
+> This is an edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) that addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -1255,6 +1264,8 @@ Adds ambient noise and dragonflies all over the Bitter Coast region. Original pl
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
+> This is an edit of [**Flies**](https://www.nexusmods.com/morrowind/mods/43481?) which fixes the underwater flies bug. Fix contributed by ProfArmitage.
+
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
 - This shader needs to be added to the end of the shader chain in MGE XE.
@@ -1287,6 +1298,8 @@ Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?tab=files)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
+
+> This is an edit of [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860?) that removes all cavern edits while keeping the changes to the False Incarnates.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150?tab=files)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -2019,16 +2032,6 @@ Shift+Left Click | Activates/deactivates placed/static light sources | The Midni
 I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
 
 - **Tythesly** (August 11th, 2021)
-
-# CREDITS
-
-I want to thank the following mod authors for their original mods which have been edited for inclusion in this guide.
-
-- Aoimevelho, for [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860?), which was edited to remove all cavern edits while keeping the changes to the False Incarnates intact.
-- R-Zero, for [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765?) and [**Flies**](https://www.nexusmods.com/morrowind/mods/43481?), which were edited to fix issues with the mods.
-- ProfArmitage, for providing the fix to **Flies'** underwater flies bug.
-- NullCacade, for [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624?), which was edited to include ingredient consumption restrictions.
-- Remiros and Half11, for [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305?), which was edited for compatibility with **Ownership Overhaul**.
 
 # COMPATIBILITY
 
