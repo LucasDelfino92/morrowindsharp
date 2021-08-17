@@ -38,6 +38,16 @@
 > Unless explicitly mentioned, a mod is removed because it's not considered meaningful to the experience anymore.
 
 <details>
+  <summary>v2.7.2.2 Hotfix (August 16th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ **Final mod order and load order**:
+  - Updated mod order and load order for a number of mods to match guide placement (**Bitter Coast Scum Replacer**, **3D Vines Vanilla Mushroom Trees**, **Ashmire Replacer**).
+  - Added missing mods to the mod order (**GMST Menu Preset**, **Graphic Herbalism MWSE Patches and Replacers**, **AURA Replacer**, **Weather Adjuster Preset**).
+</details>
+
+<details>
   <summary>v2.7.2.2 (August 15th)</summary>
 
 This update is compatible with an existing playthrough.
@@ -74,7 +84,7 @@ This update is compatible with an existing playthrough.
 - 🆕 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files) (Visuals).
 - ⚠️ **Putting Power in Willpower 2** (Gameplay): added editing instructions to fix a bug that prevented NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
 - ⚠️ **Pickpocket** (Overhauls): added [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing), which fixes a bug that could cause crashing.
-- ⚠️ **Stealth Fix** (Overhauls): added editing instructions to fix a bug that prevents the NPC Sneak Bonus slider from working.
+- ⚠️ **Stealth Improved** (Overhauls): added editing instructions to fix a bug that prevents the NPC Sneak Bonus slider from working.
 - ⚠️ [**Lucky Strike**](https://drive.google.com/file/d/1lnC_GsHdxW6XmIgT_yP2Hx8Ilccifdhi/view?usp=sharing) (Overhauls): fixed a bug that didn't contemplate non-weapon attacks, which lead to errors in the MWSE.log. The user can select whether critical attacks now apply to all attacks, or just to weapon-based attacks. The version number has been reverted to 1.0 to reflect the fact this is a personal edit of the official 1.0 release of the mod.
 - ⚠️ **Character Sound Overhaul** (Audio): added editing instructions to remove an unnecessary debug log which convoluted the MWSE.log.
 - ⚠️ **Facelift (Visuals): removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
@@ -1184,6 +1194,15 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 <details>
 	<summary>Click to expand</summary>
 
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
+Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
+
+[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
+- Check the following options in the BAIN installer: 
+  - [ ] 00 Flowing Mire
+  - [X] 01 Still Mire
+
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255?tab=files)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -1221,15 +1240,6 @@ Replaces the water in the Palace of Vivec's canals.
 
 [**Well Diversified**](https://drive.google.com/file/d/12BBB0Sc_c_C3taYi3PN5i4lta2YV4-sG/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
-Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
-
-[**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
-Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
-- Check the following options in the BAIN installer: 
-  - [ ] 00 Flowing Mire
-  - [X] 01 Still Mire
 
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
@@ -1370,7 +1380,9 @@ Book Pickup
 Diligent Defenders
 Easy Escort
 GMST Menu
+GMST Menu Preset
 Graphic Herbalism MWSE
+Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
@@ -1409,7 +1421,7 @@ Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
 I Lava Good Mesh Replacer
-Signposts Retextured OR Near Vanilla Road Sign Replacer
+Signposts Retextured
 Remiros' Groundcover
 Apel's Rain Replacer
 Glow in the Dahrk
@@ -1419,6 +1431,7 @@ Let There Be Darkness
 The Midnight Oil
 Transporter Lights
 Weather Adjuster
+Weather Adjuster Preset
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
@@ -1487,7 +1500,9 @@ Book Pickup
 Diligent Defenders
 Easy Escort
 GMST Menu
+GMST Menu Preset
 Graphic Herbalism MWSE
+Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
@@ -1569,6 +1584,7 @@ Bloodmoon Rebalance
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 AURA
+AURA Replacer
 Better Music System Redone
 Character Sound Overhaul
 Distant Thunder
@@ -1602,8 +1618,9 @@ Pete's Scroll 2018 ...in 2020
 Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
+Bitter Coast Scum Replacer
 I Lava Good Mesh Replacer
-Signposts Retextured OR Near Vanilla Road Sign Replacer
+Signposts Retextured
 Remiros' Groundcover
 Glow in the Dahrk
 Project Atlas Glow in the Dahrk Patch
@@ -1614,6 +1631,7 @@ The Midnight Oil
 Transporter Lights
 Watch the Skies
 Weather Adjuster
+Weather Adjuster Preset
 Mist Retexture
 Subtle Magic Glow
 Subtle Smoke
@@ -1625,7 +1643,6 @@ Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing Additions
 3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
-Bitter Coast Scum Replacer
 Distant Mournhold
 Inscribed Maar Gan Rock
 Know Thy Ancestors
@@ -1685,7 +1702,7 @@ Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-PB_SignpostsRetextured.ESP OR NearVanillaRoadSigns.ESP
+PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 XE Sky Variations.ESP
@@ -1755,7 +1772,7 @@ outfit greetings tweaked.ESP
 Clean Plunder the Dungeon.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
-PB_SignpostsRetextured.ESP OR NearVanillaRoadSigns.ESP
+PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 XE Sky Variations.ESP
