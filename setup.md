@@ -9,11 +9,8 @@
 - [Morrowind Code Patch](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-code-patch)
 - [MGE XE and MWSE](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mge-xe-and-mwse)
 - [Mod Organizer 2](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mod-organizer-2)
-- [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#installing-mge-xe-shaders)
-- [Finishing touches](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#finishing-touches)
-  - [Configuring MGE XE](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#configuring-mge-xe)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#in-game-configuration)
-- [Modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
+- [Configuring MGE XE in MO2](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#configuring-mge-xe-in-mo2)
+- [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#in-game-configuration)
 
 # Requirements
 
@@ -95,6 +92,14 @@ When you first install MGE XE, it will automatically download the latest MWSE up
 - A window will open and close shortly after, having updated MWSE to the latest version.
 
 > Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
+
+As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
+
+This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
+
+[**abot Distant Static Overrides - Necro Edit**](https://drive.google.com/file/d/17G2uTaOjDJ9gUBwwIKZRtfvNWY5bZMXK/view?usp=sharing)  
+abot's custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape. Edited by Necrolesian to remove support for non-vanilla content.
+- Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
 
 # Mod Organizer 2
 
@@ -188,122 +193,12 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-### Installing Nexus mods with Mod Organizer 2
-
-Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
-
-- Click **Mod manager download** under the file you want to download.
-- Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
-- Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Patch for Purists 4.0.2").
-- Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
-
-> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
-
-### Manually installing mods in Mod Organizer 2
-
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
-
-- Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
-- Navigate to the folder where the downloaded file is stored and double click on it.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
-- Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
-
-### Hiding files
-
-Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
-
-- To hide a plugin, right click on your installed mod and click **Information...**.
-- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
-- Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
-### Repackaging mods
-
-There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
-
-> **The content of data files does not look valid.**
-
-In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
-
-- Repackage the mod yourself and install it through Mod Organizer 2.
-- Repackage the mod yourself *in* Mod Organizer 2.
-
-The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
-
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData1.png)
-
-In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
-
-- Right-click on **Data Files**.
-- Click **Set as data files directory**.
-- The message will tell you the content of data files looks valid.
-
-Whenever you encounter this scenario, just do as I've shown above.
-
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData2.png)
-
-In this case, the mod contains loose files, and you will have to create a folder to drop them in.
-
-Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
-
-- Right-click on **data files**.
-- Click **Create directory...**.
-- Enter the name of the folder you want to create, and click **OK**.
-- The message will tell you the content of data files looks valid.
-
-Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
-
-### Creating a separator
-
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
-
-- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
-- Name your separator and click **OK**.
-
-### The Overwrite folder
-
-The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
-
-## Installing MGE XE shaders
-
-Because of their performance-intensive nature, all shaders listed here are **entirely optional**. If your machine has considerably better specs than mine (listed in the home page) then you should be able to enjoy the game just fine.
-
-These shaders are installed through Mod Organizer 2, like most mods.
-
-[**MGE XE Shader Pack**](https://drive.google.com/file/d/1g-pQsjk22I70lbfDhgr2XrK0C-xdx8fY/view?usp=sharing)  
-A compilation of a handful of community-made shaders.
-- Check the following options in the BAIN installer: 
-  - [X] 00 deband_fogaware v2: improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
-  - [X] 01 EdgeAA: improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
-  - [X] 02 specialprocess: overhauls the game's lighting.
-    - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
-    - [**Interior comparison**](https://imgsli.com/NDg3MTA)
-
-[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution. 
-
-# Finishing touches
-
-## MGE XE distant static overrides
-
-As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
-
-This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
-
-[**abot Distant Static Overrides - Necro Edit**](https://drive.google.com/file/d/17G2uTaOjDJ9gUBwwIKZRtfvNWY5bZMXK/view?usp=sharing)  
-abot's custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape. Edited by Necrolesian to remove support for non-vanilla content.
-- Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
-
-## Configuring MGE XE
+# CONFIGURING MGE XE IN MO2
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-> Always remember to run MGE XE through Mod Organizer 2 to detect the virtual files folder.
+> Always remember to run MGE XE through Mod Organizer 2 to detect the Virtual Files folder.
 
 ### In-game tab
 
@@ -340,15 +235,12 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 **Shader setup...**
 - On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- The shader combination that works the best for me, and which I personally recommend, is the following.
+- For now, set your shader combination as follows.
 ```
 SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
-EdgeAA
-specialprocess
-deband_fogawarev2
 ```
 - Click **Save** after setting up your shader chain.
 
@@ -390,14 +282,14 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
 
-## In-game configuration
+# IN-GAME CONFIGURATION
 
-We are just about done here. It's time to finally run Morrowind.
+It's time to finally run Morrowind.
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
 - Click **Run** to run the executable.
 
-> Always remember to run Morrowind through Mod Organizer 2 to detect the virtual files folder.
+> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
 
 - Once the game has finished loading, click **Options** and click the **Video** tab.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
@@ -405,36 +297,7 @@ We are just about done here. It's time to finally run Morrowind.
 
 > If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
-# Modding tips
-
-### Don't uninstall mods mid-playthrough
-
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
-
-### Always keep backup saves
-
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
-
-### Read the descriptions
-
-Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### BSAs and Morrowind.ini
-
-Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
-
-> Morrowind# features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
+# MOVING ON TO MORROWIND#
 
 [To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
