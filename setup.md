@@ -1,19 +1,19 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
 
 # MORROWIND SETUP
 
-![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Banner_Setup.jpg)
+![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner_Setup.jpg)
 
-- [Requirements](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#requirements)
-- [Installation](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installation)
-- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-code-patch)
-- [MGE XE and MWSE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mge-xe-and-mwse)
-- [Mod Organizer 2](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#mod-organizer-2)
-- [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#installing-mge-xe-shaders)
-- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#finishing-touches)
-  - [Configuring MGE XE](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#configuring-mge-xe)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#in-game-configuration)
-- [Modding tips](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#modding-tips)
+- [Requirements](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#requirements)
+- [Installation](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#installation)
+- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-code-patch)
+- [MGE XE and MWSE](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mge-xe-and-mwse)
+- [Mod Organizer 2](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mod-organizer-2)
+- [Installing MGE XE shaders](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#installing-mge-xe-shaders)
+- [Finishing touches](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#finishing-touches)
+  - [Configuring MGE XE](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#configuring-mge-xe)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#in-game-configuration)
+- [Modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
 
 # Requirements
 
@@ -25,7 +25,7 @@
 
 > Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
 
-> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
 # Installation
 
@@ -51,7 +51,7 @@ To clean up your GOG installation of unnecessary files, delete the following fro
 
 This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/Data%20Files.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
 
 > Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
@@ -155,7 +155,7 @@ XE Sky Variations.esp
 
 One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
 
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
 - Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
 ```
@@ -178,7 +178,7 @@ Max Snowflakes=1500
 
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
-- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Profiles.png) button.
+- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Profiles.png) button.
 - Check the following options:
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
@@ -207,7 +207,7 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
 
 - Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Archive.png) button.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
 - MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
 - Click **OK**.
@@ -234,7 +234,7 @@ In lieu of mod authors not fixing their mods themselves, there are two ways to f
 
 The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
 
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_FixingData1.png)
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData1.png)
 
 In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
@@ -244,7 +244,7 @@ In this case, the mod contains a **Data Files** folder and a loose **.txt** file
 
 Whenever you encounter this scenario, just do as I've shown above.
 
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_FixingData2.png)
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData2.png)
 
 In this case, the mod contains loose files, and you will have to create a folder to drop them in.
 
@@ -307,7 +307,7 @@ abot's custom distant static overrides, which accounts for different stages of t
 
 ### In-game tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20In-game%20272.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -325,7 +325,7 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20Graphics%20272.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20Graphics%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -379,7 +379,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MGE%20XE%20272.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
@@ -435,7 +435,7 @@ The file structure is how files are organized for the game to read these files a
 
 Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-> Morrowind# features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
+> Morrowind# features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
 
-[To Morrowind# >>](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#morrowind)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
