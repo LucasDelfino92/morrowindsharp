@@ -6,6 +6,9 @@
 - [Changelog](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#changelog)
 - [Disclaimer](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#disclaimer)
 - [Tools](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#tools)
+- [Modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#modding-tips)
+- [Mod Organizer 2 modding tips](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mod-organizer-2-modding-tips)
+- [MGE XE Shaders](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mge-xe-shaders)
 - [Patches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#patches)
 - [User interface](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#user-interface)
 - [QOL improvements](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#quality-of-life-improvements)
@@ -21,6 +24,7 @@
   - [Cleaning our plugins](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#cleaning-our-plugins)
   - [Conflict resolution](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#conflict-resolution)
   - [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land)
+  - [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#shader-setup)
   - [Closing comments](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#closing-commments)
   - [Additional MCP patches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#additional-mcp-patches)
   - [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#in-game-configuration)
@@ -327,6 +331,133 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 - Click **Apply** and then **OK**.
 
 > Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
+
+# MODDING TIPS
+
+### Don't uninstall mods mid-playthrough
+
+A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+
+### Always keep backup saves
+
+Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.
+Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+
+### Read the descriptions
+
+Mod descriptions exist for a reason. The elaborate ones, for *good* reasons. Descriptions tend to list things such as:
+
+- Requirements: mods or utilities a given mod needs to work as intended.
+- Compatibility issues: known conflicts with other mods, whether general or specific.
+- Known issues: bugs or unintended behavior.
+
+Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
+
+### File structure matters
+
+The file structure is how files are organized for the game to read these files and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
+
+### BSAs and Morrowind.ini
+
+Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
+
+> Morrowind# features no mods that use BSA files. If you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
+
+# MOD ORGANIZER 2 TIPS
+
+### Installing Nexus mods with Mod Organizer 2
+
+Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
+
+- Click **Mod manager download** under the file you want to download.
+- Click **Slow download**.
+- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- Right-click the downloaded file, and click **Install**.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Patch for Purists 4.0.2").
+- Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
+
+> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
+
+### Manually installing mods with Mod Organizer 2
+
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
+
+- Download your file.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- Navigate to the folder where the downloaded file is stored and double click on it.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+- Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
+
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
+
+- To hide a plugin, right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+
+### Repackaging mods
+
+There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
+
+> **The content of data files does not look valid.**
+
+In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
+
+- Repackage the mod yourself and install it through Mod Organizer 2.
+- Repackage the mod yourself *in* Mod Organizer 2.
+
+The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
+
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData1.png)
+
+In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
+
+- Right-click on **Data Files**.
+- Click **Set as data files directory**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, just do as I've shown above.
+
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData2.png)
+
+In this case, the mod contains loose files, and you will have to create a folder to drop them in.
+
+Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
+
+- Right-click on **data files**.
+- Click **Create directory...**.
+- Enter the name of the folder you want to create, and click **OK**.
+- The message will tell you the content of data files looks valid.
+
+Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
+
+### Creating a separator
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
+
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
+
+### The Overwrite folder
+
+The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
+
+# MGE XE SHADERS
+
+[**MGE XE Shader Pack**](https://drive.google.com/file/d/1g-pQsjk22I70lbfDhgr2XrK0C-xdx8fY/view?usp=sharing)  
+A compilation of a handful of community-made shaders.
+- Check the following options in the BAIN installer: 
+  - [X] 00 deband_fogaware v2: improves fog by getting rid of [**banding**](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colour_banding_example01.png).
+  - [X] 01 EdgeAA: improves anti-aliasing. Compatible with MGE XE's in-built anti-aliasing settings.
+  - [X] 02 specialprocess: overhauls the game's lighting.
+    - [**Exterior comparison**](https://imgsli.com/NDg3MDk)
+    - [**Interior comparison**](https://imgsli.com/NDg3MTA)
+
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 # PATCHES
 
@@ -1898,6 +2029,28 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
 - Click **Finish** when the process is over.
 
 > Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland, if following the extended guide.
+
+## SHADER SETUP
+
+We installed a number of shaders at the beginning of Morrowind#. If you've followed the extended guide, then there are a couple of mods that rely on additional shaders.
+
+- Run MGE XE in Mod Organizer 2.
+- In the **Graphics tab**, click **Enable shaders**.
+- Click **Shader setup...**.
+- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
+- Set your shader combination as follows.
+```
+SSAO HQ
+Underwater Interior Effects
+EdgeAA
+deband_fogawarev2
+Underwater Effects
+Sunshafts
+specialprocess
+heathaze
+r0_qk_shaker
+```
+- Click **Save** after setting up your shader chain.
 
 ## CLOSING COMMENTS
 
