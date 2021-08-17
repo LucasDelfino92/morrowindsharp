@@ -313,7 +313,6 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 
 **Options**
 - Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
-- Uncheck **Responsive menu caching** if you have SLI or Crossfire, as they cause slowdown with this feature.
 
 **Morrowind engine settings**
 - You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
