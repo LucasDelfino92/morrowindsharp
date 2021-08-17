@@ -42,6 +42,7 @@
 This update is compatible with an existing playthrough.
 
 - ⚠️ [**Lucky Strike**](https://www.nexusmods.com/morrowind/mods/45765?tab=files) (Overhauls): updated mod link (the Google Drive edit is now outdated).
+- ⚠️ [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files) (Visuals): added instructions to address a compatibility issue with **Improved Thrown Weapon Projectiles**.
 - ⚠️ **Credits**: removed section (original mods are now listed alongside their edits).
 </details>
 
@@ -1128,7 +1129,7 @@ Adds a more realistic sunglare.
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed file and click **Open in Explorer**.
 - Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
-- Change line 415 from **event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})** to **--event.register("keyDown", openLiveLightEditing, {filter = tes3.scanCode.l})**.
+- Comment out line 415. To comment a line, add -- at the start of the line.
 - Save your changes.
 
 > This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
@@ -1184,8 +1185,12 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
 Adds visible projectiles on anything they hit.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\hrnchamd\pincushion\main.lua** using a text editor.
+- Comment out lines 139 through 143.  To comment a line, add -- at the start of the line.
+- Save your changes.
 
-> Note that this mod, as ambitious as it is, has its flaws. Read the mod's description for a more thorough explanation.
+> This solves a compatibility issue with **Improved Thrown Weapon Projectiles**, where thrown projectiles stuck on objects and NPCs would be facing the wrong way.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
