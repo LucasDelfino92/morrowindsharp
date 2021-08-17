@@ -1,33 +1,33 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup)
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
 
 # MORROWIND#
 
-- [Changelog](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#changelog)
-- [Disclaimer](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#disclaimer)
-- [Tools](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#tools)
-- [Patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#patches)
-- [User interface](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#user-interface)
-- [QOL improvements](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#quality-of-life-improvements)
-- [Gameplay](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#gameplay)
-- [Overhauls](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#overhauls)
-- [Audio](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#audio)
-- [Dialogue](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#dialogue)
-- [Visuals](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#visuals)
-- [Towns and dungeons](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#towns-and-dungeons)
-- [Finishing touches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#finishing-touches)
-  - [Final mod order and load order](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#final-mod-order-and-load-order)
-  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#synchronizing-mod-masters)
-  - [Cleaning our plugins](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#cleaning-our-plugins)
-  - [Conflict resolution](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#conflict-resolution)
-  - [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land)
-  - [Closing comments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#closing-commments)
-  - [Additional MCP patches](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#additional-mcp-patches)
-  - [In-game configuration](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#in-game-configuration)
-- [Mod keybindings](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#mod-keybindings)
-- [Acknowledgments](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#acknowledgments)
-- [Credits](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#credits)
-- [Compatibility](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#compatibility)
+- [Changelog](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#changelog)
+- [Disclaimer](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#disclaimer)
+- [Tools](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#tools)
+- [Patches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#patches)
+- [User interface](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#user-interface)
+- [QOL improvements](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#quality-of-life-improvements)
+- [Gameplay](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#gameplay)
+- [Overhauls](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#overhauls)
+- [Audio](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#audio)
+- [Dialogue](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#dialogue)
+- [Visuals](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#visuals)
+- [Towns and dungeons](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#towns-and-dungeons)
+- [Finishing touches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#finishing-touches)
+  - [Final mod order and load order](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#final-mod-order-and-load-order)
+  - [Synchronizing mod masters](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#synchronizing-mod-masters)
+  - [Cleaning our plugins](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#cleaning-our-plugins)
+  - [Conflict resolution](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#conflict-resolution)
+  - [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land)
+  - [Closing comments](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#closing-commments)
+  - [Additional MCP patches](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#additional-mcp-patches)
+  - [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#in-game-configuration)
+- [Mod keybindings](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#mod-keybindings)
+- [Acknowledgments](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#acknowledgments)
+- [Credits](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#credits)
+- [Compatibility](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#compatibility)
 
 # CHANGELOG
 
@@ -244,11 +244,11 @@ This update is compatible with an existing playthrough.
 
 # DISCLAIMER
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
+The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
 # TOOLS
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
 
 ## TES3View, TES3Merge, TESAME
 
@@ -270,8 +270,8 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
@@ -304,8 +304,8 @@ tes3cmd is a tool used to clean plugins by automatically deleting identical-to-m
 
 ### Registering Wrye Mash in Mod Organizer 2
 
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply** and then **OK**.
 
@@ -650,7 +650,7 @@ There's an additional step we need to take.
 	
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068?tab=files)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame).
 - Delete the following record:
   - NPC **hecerinde**
 
@@ -903,7 +903,7 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
 - Only install the **Distant Thunder v1.1 (No Scripts)** optional file.
 
-> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-improved/master/MO_ini.png) button.
+> This mod requires additional Morrowind.ini configuration. Follow the instructions on the mod's page. Remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
 
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826?tab=files)  
 Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
@@ -1060,7 +1060,7 @@ Adds groundcover to almost all regions.
 
 > This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
 
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126?tab=files)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
@@ -1229,7 +1229,7 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 
 > This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
 
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-improved/blob/master/mw%23.md#re-running-distant-land) section.
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the water in the Palace of Vivec's canals.
@@ -1816,7 +1816,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 > This section includes plugins from the extended guide.
 
-**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3cmd).
+**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
@@ -1843,7 +1843,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 **Merged Objects.ESP** makes a handful of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using **BTBGI Necro Edit**. We will have to delete these unintended changes from our Merged Objects plugin.
 
-- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tesame).
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame).
 - Delete the following records: 
   - Weapon **iron spider dagger**
   - Weapon **imperial netch blade**
@@ -1853,7 +1853,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ## RE-RUNNING DISTANT LAND
 
-MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
+MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -2042,7 +2042,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - **Yet Another Guard Diversity**: this mod replaces vanilla guards with unique guards selected from leveled lists. But because of how this mod works, it is perfectly possible for a mod to override its changes (by moving the vanilla guards around) and have the guards revert to their vanilla, generic appearance. This would be most noticeable with Imperial Legion guards who don't wear closed helmets (unlike their Hlaalu, Redoran, Telvanni, and Indoril counterparts). Moreover, new guards added to the game world will most likely have a generic appearance as well.
   - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
 - **Morrowind Anti-Cheese**, **BTB's Game Improvements - Necro Edit**: these mods make drastic changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with these mods (e.g. a faction overhaul, such as Vvardenfell Brotherhood or Morag Tong Polished). Depending on the conflict, it can be virtually harmless (without looking at TES3View you wouldn't even tell there is a conflict) or serious (an NPC that should have been buffed to a considerable degree reverts back to its vanilla, puny mook state).
-  - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-improved/blob/master/mwtools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
+  - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-improved/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md#morrowind-setup)
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
