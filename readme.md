@@ -2,7 +2,7 @@
 
 Last updated: August 15th, 2021
 
-![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
 ## Contact info
 
