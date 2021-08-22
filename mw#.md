@@ -41,6 +41,20 @@
 > Unless explicitly mentioned, a mod is removed because it's not considered meaningful to the experience anymore.
 
 <details>
+  <summary>v2.7.2.3 (August 22th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839?tab=files) (Gameplay)
+- 🆕 [**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657?tab=files) (Overhauls)
+- 🆕 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121?tab=files) (Overhauls)
+- 🆕 [**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787?tab=files) (Visuals)
+- ⚠️ **In-game configuration**: added instructions for **N'wah Shooter** and **Smarter Soultrap**.
+- 🚫 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files) (Visuals): sadly the mesh changes have been done in ways less-than-ideal, with the shape of the meshes drastically differing at times from the vanilla meshes, leading to clipping and other issues. Moreover, the UV maps feature some stretching, with the original mod did its best to correct.
+- 🚫 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files) (Visuals): removed in favour of **N'wah Shooter - Marksman Overhaul**.
+</details>
+
+<details>
   <summary>v2.7.2.2 Hotfix 3 (August 21st)</summary>
 
 This update is compatible with an existing playthrough.
@@ -829,6 +843,9 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872?tab=files)  
 Endurance determines how long you can hold your breath under water.
 
+[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839?tab=files)  
+At higher Luck you will have a better chance to obtain better items from a container that would spawn them at higher levels.
+
 [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626?tab=files)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
@@ -847,6 +864,9 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 # OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game (most importantly, by raising the game's difficulty).
+
+[**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657?tab=files)  
+Adds realistic gravity for arrows, shaking hands when pulling the string, and multi-shot ability at high levels. Additionally makes projectiles stick in objects and the ground, and allows you to pick them back up.
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -980,6 +1000,9 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
+
+[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121?tab=files)  
+Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215?tab=files)  
 Prevents souls of summoned creatures from being trapped.
@@ -1139,10 +1162,6 @@ Adds a unique reward and new dialogue acknowledging your completion of the unmar
 
 # VISUALS
 
-[**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files)  
-Detailed rock meshes based off Correct UV Rocks.
-- Also install [**WG 17 Hotfix**](https://drive.google.com/file/d/1VOXcnmChtZQ9O-8dLtmmg_raMPFA4Zhz/view?usp=sharing), which addresses a rock whose shape had changed to the point of partially blocking an entrance to a cave.
-
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Check the following options in the BAIN installer:
@@ -1151,17 +1170,10 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 [**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093?tab=files)  
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
-- Also install [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files), which includes [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to reflect the half-elven heritage of Bretons.
-
-> An alternative to **Familiar Faces**'s hair meshes is [**Vanilla-flavoured Hair**](https://www.nexusmods.com/morrowind/mods/49910?tab=files).	These already include **Knife-Ears**.
-
-> An alternative to **Familiar Faces**'s Khajiit head meshes is [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110?tab=files).
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Only install the **kart_facelift_meshes** main file.
-
-> I personally prefer **Facelift**'s face meshes to those of **Familiar Faces**, but because **Familiar Faces** also covers hair meshes we want to install both mods.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896?)  
 Replaces most of original book arts with hi-res images redrawn from scratch.
@@ -1327,15 +1339,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files)  
-Adds visible projectiles on anything they hit.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\hrnchamd\pincushion\main.lua** using a text editor.
-- Comment out lines 139 through 143.  To comment a line, add -- at the start of the line.
-- Save your changes.
-
-> This solves a compatibility issue with **Improved Thrown Weapon Projectiles**, where thrown projectiles stuck on objects and NPCs would be facing the wrong way.
-
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069?tab=files)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install the **WeaponSheathing 1.6-MWSE** main file.
@@ -1359,6 +1362,12 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 
 <details>
 	<summary>Click to expand</summary>
+
+[**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787?tab=files)  
+Increases height of the Bretons to match their height as described in earlier games in order to reflect their half-elven heritage.
+
+[**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
+Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to **Familiar Faces**' hair meshes in order to reflect the half-elven heritage of Bretons.
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
 Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
@@ -1574,6 +1583,7 @@ Putting Power in Willpower
 Services Restored
 Sneaky Strike
 Useful Bound Armor
+N'wah Shooter - Marksman Overhaul
 Pickpocket
 Pickpocket Fix
 Stealth Improved
@@ -1582,8 +1592,8 @@ Shut the Fuck up Cliff Racers
 Great Service
 Idle Talk
 LDM - Context Matters
-WIP Detailed Correct UV Rocks
 Intelligent Textures
+Familiar Faces
 Facelift
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
@@ -1703,10 +1713,12 @@ Sneaky Strike
 Useful Bound Armor
 Borrowed Time
 Hold Your Breath
+Lucky Loot
 Wings of Will
 Drop Light
 Light Decay
 Wading in Water MW
+N'wah Shooter - Marksman Overhaul
 Pickpocket
 Pickpocket Fix
 Stealth Improved
@@ -1778,10 +1790,8 @@ Greetings for No Lore
 Its a Deal
 Outfit Greetings Tweaked
 Plunder the Dungeon
-WIP Detailed Correct UV Rocks
 Intelligent Textures
 Familiar Faces
-Familiar Faces - Knife-Ears
 Facelift
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
@@ -1807,10 +1817,11 @@ Subtle Magic Glow
 Subtle Smoke
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
-Pincushion
 Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing Additions
+Bretons Stand Taller
+Familiar Faces - Knife-Ears
 3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
 Distant Mournhold
@@ -2140,6 +2151,10 @@ Crosshair Settings
 - Set **Cooldown between jumps** to 1.
 - Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using **BTB's Game Improvements**.
 
+### N'wah Shooter
+
+- Set **Hand shaking multiplier when archery** to 2.
+
 ### Putting Power in Willpower
 
 - Enable **Allow negative Resist Bonus**.
@@ -2152,6 +2167,10 @@ Crosshair Settings
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
 
 > These instructions are exclusively for users of **Locks and Traps Detection**.
+
+### Smarter Soultrap
+
+- Set **Enforce skill requirements?** to On.
 
 ### Stealth Improved
 
