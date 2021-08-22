@@ -41,6 +41,14 @@
 > Unless explicitly mentioned, a mod is removed because it's not considered meaningful to the experience anymore.
 
 <details>
+  <summary>v2.7.2.2 Hotfix 3 (August 21st)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files) (Visuals): added link to [**WG 17 Hotfix**](https://drive.google.com/file/d/1VOXcnmChtZQ9O-8dLtmmg_raMPFA4Zhz/view?usp=sharing) (addresses a rock whose shape had changed to the point of partially blocking an entrance to a cave). Thanks to the **Melchior Dahrk** for this fix!
+</details>
+
+<details>
   <summary>v2.7.2.2 Hotfix 2 (August 17th)</summary>
 
 This update is compatible with an existing playthrough.
@@ -968,6 +976,8 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461?tab=files)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
+> Note that because of **BTB's Game Improvements** below, the **Patch for Purists** version makes no difference to us.
+
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086?tab=files)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
@@ -1131,6 +1141,7 @@ Adds a unique reward and new dialogue acknowledging your completion of the unmar
 
 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321?tab=files)  
 Detailed rock meshes based off Correct UV Rocks.
+- Also install [**WG 17 Hotfix**](https://drive.google.com/file/d/1VOXcnmChtZQ9O-8dLtmmg_raMPFA4Zhz/view?usp=sharing), which addresses a rock whose shape had changed to the point of partially blocking an entrance to a cave.
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
