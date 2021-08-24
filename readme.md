@@ -1,6 +1,6 @@
 # MORROWIND#: A Morrowind Modding Guide
 
-Last updated: August 22th, 2021
+Last updated: August 24th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
@@ -17,6 +17,7 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
 
 - **Tythesly** (August 11th, 2021)
+- **JFS** (August 24th, 2021)
 
 ## About
 
