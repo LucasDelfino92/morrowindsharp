@@ -2222,6 +2222,7 @@ Shift+Left Click | Activates/deactivates placed/static light sources | The Midni
 I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
 
 - **Tythesly** (August 11th, 2021)
+- **JFS** (August 24th, 2021)
 
 # COMPATIBILITY
 
