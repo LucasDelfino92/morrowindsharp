@@ -41,6 +41,20 @@
 > Unless explicitly mentioned, a mod is removed because it's not considered meaningful to the experience anymore.
 
 <details>
+  <summary>v2.7.2.4 (August 25th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Added general "install manually" instructions to a number of mods not hosted on Nexus, or which lacked the Nexus Download with Manager option.
+- 🆕 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627?tab=files) (Visuals)
+- 🆕 [**Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923/?tab=files) (Visuals)
+- ⚠️ [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003): added instructions to hide a problematic mesh.
+- ⚠️ **In-game configuration**: removed instructions for **N'wah Shooter**; added instructions for **Limited Resting Waiting and Regen**.
+- 🚫 [**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657?) (Overhauls): ultimately the poor collision detection of Morrowind makes for very ugly visual experiences, which is why this mod is removed (apart from its other features not being particularly fun to play with, in my opinion) and why [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862?tab=files) won't be added back to the guide either.
+- 🚫 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?) (Visuals): contains smoothed meshes, while this guide is strictly about using vanilla-compliant low-poly meshes.
+</details>
+
+<details>
   <summary>v2.7.2.3 (August 22th)</summary>
 
 This update is compatible with an existing playthrough.
@@ -490,6 +504,11 @@ The best unofficial fan patch for Morrowind.
 
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks and stones.
+- Hide **meshes\f\Terrain_rock_WG_17.nif**.
+
+> This mod will need to be downloaded and installed manually.
+
+> The hidden mesh has different proportions to the vanilla mesh, which causes it to hide the entrance to a cave.
 
 [**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -518,7 +537,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - [ ] 50 Wood Poles - Hi-Res Texture
 - Hide **meshes\x\ex_imp_plat_01.nif**.
 
-> This mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
+> The hidden mesh is buggy and can cause you to fall off the landing platform when traveling from Raven Rock to Fort Frostmoth using the boat.
 
 > Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
 
@@ -591,9 +610,13 @@ HD recreation of the Title and Logo Intro, in widescreen.
 [**Widescreen Splash Replacer**](https://drive.google.com/file/d/17-30nzCCIb_ytqZzST17u7_2-RuMkp8j/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
+> This mod will need to be downloaded and installed manually.
+
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
 Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
+
+> This mod will need to be downloaded and installed manually.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071?tab=files)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -639,7 +662,9 @@ UI overhaul allowing the player to generate a random name for their character at
 
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?tab=files)  
 Adds clock to UI that displays either game world time or real time (depending on settings).
-	
+
+> This mod will need to be downloaded and installed manually.
+
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962?tab=files)  
 Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
 
@@ -680,9 +705,11 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428?tab=files)  
 Lets you edit every GMST in the game, in-game.
-- Also install this [**GMST Menu Preset**](https://drive.google.com/file/d/16wQlRH1dtJFyUiPwYqizeQHQF_33qoUC/view?usp=sharing), which tweaks the following GMSTs:
+- Also install my [**GMST Menu Preset**](https://drive.google.com/file/d/16wQlRH1dtJFyUiPwYqizeQHQF_33qoUC/view?usp=sharing), which tweaks the following GMSTs:
   - iGreetDistanceMultiplier: NPCs will be much less likely to speak to you when passing by.
   - i1stPersonSneakDelta: lowers camera view while sneaking.
+
+> The GMST Menu Preset will need to be downloaded and installed manually.
 
 [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599?tab=files)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
@@ -760,6 +787,8 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747?tab=files)  
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
+
+> This mod will need to be downloaded and installed manually.
 
 <details>
 	<summary>Click to expand</summary>
@@ -865,12 +894,11 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game (most importantly, by raising the game's difficulty).
 
-[**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657?tab=files)  
-Adds realistic gravity for arrows, shaking hands when pulling the string, and multi-shot ability at high levels. Additionally makes projectiles stick in objects and the ground, and allows you to pick them back up.
-
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581?tab=files)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 - Also install [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing) (Overhauls). Fixes a bug that could cause crashing.
+
+> The Pickpocket Fix will need to be downloaded and installed manually.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614?tab=files)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
@@ -933,6 +961,8 @@ Fixes lore to gameplay inconsistencies pertaining to contraband items and servic
 [**Harder Barter**](https://drive.google.com/file/d/1uKuRcF3lGuWGh0JCPQ668vuyjyAGonFI/view?usp=sharing)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
 
+> This mod will need to be downloaded and installed manually.
+
 > This is an edit of [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188?) that fixes a bug with the price calculation while also being more forgiving.
 
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299?tab=files)  
@@ -961,16 +991,18 @@ Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater yo
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283?tab=files)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
 
+[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1r4J6WxGIyDE3Ti2isEDMCPtOQqir6R33/view?usp=sharing)  
+Fixes some the biggest exploits and balance issues in the game.
+
+> This mod will need to be downloaded and installed manually.
+
+> This is an edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) that addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
+
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251?tab=files)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Unarmored will be fully focused on evading attacks (optional).
 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295?tab=files)  
 Removes "Diseased", "Blighted", and similar adjectives from creature names.
-
-[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1r4J6WxGIyDE3Ti2isEDMCPtOQqir6R33/view?usp=sharing)  
-Fixes some the biggest exploits and balance issues in the game.
-
-> This is an edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) that addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051?tab=files)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -978,6 +1010,8 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 [**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
+
+> This mod will need to be downloaded and installed manually.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745?tab=files)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -1016,6 +1050,8 @@ Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a s
 - Check the following options in the BAIN installer:
   - [X] 00 Replacer ESP
   - [ ] 01 Modular Tweaks
+
+> This mod will need to be downloaded and installed manually.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782?tab=files)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -1108,6 +1144,8 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 [**Quieter Doors and Spells**](https://drive.google.com/file/d/1TSek3dmg1moOs9ogxvMbewnK4fLIcBZK/view?usp=sharing)  
 Reduces the volume of doors and spells.
 
+> This mod will need to be downloaded and installed manually.
+
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371?tab=files)  
 Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
 
@@ -1116,6 +1154,8 @@ With this plugin the player can hear an actual noise when he's under the effects
 
 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657?tab=files)  
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
+
+> This mod will need to be downloaded and installed manually.
 
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338?tab=files)  
 Vanilla-friendly replacer of each vanilla spell sound.
@@ -1311,12 +1351,16 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816?tab=files)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-- Also install [**Weather Adjuster Preset**](https://drive.google.com/file/d/1rmsf5HoPoYURXwFVXaTxxETeJGht6Ptp/view?usp=sharing). Personal preset for darker nights and less horrible fog.
+- Also install my [**Weather Adjuster Preset**](https://drive.google.com/file/d/1rmsf5HoPoYURXwFVXaTxxETeJGht6Ptp/view?usp=sharing), which makes for darker nights and less horrible fog.
   - [**Comparison here.**](https://imgsli.com/MTUwMjI)
+
+> Weather Adjuster Preset will need to be downloaded and installed manually.
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322?tab=files)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 - Install the **Mist Retexture** main file.
+
+> This mod will need to be downloaded and installed manually.
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468?tab=files)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
@@ -1369,9 +1413,6 @@ Increases height of the Bretons to match their height as described in earlier ga
 [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584?tab=files) to **Familiar Faces**' hair meshes in order to reflect the half-elven heritage of Bretons.
 
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954?tab=files)  
-Atlased replacer for vanilla Emperor Parasol mushrooms which adds falling spores particle effects and turns their vines into 3D models.
-
 [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291?tab=files)  
 Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
 - Check the following options in the BAIN installer: 
@@ -1389,6 +1430,11 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383?tab=files)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
+
+> This mod will need to be downloaded and installed manually.
+
+[**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627?tab=files)  
+Adds some more clutter to the Ministry of Truth inspired by early screenshots and concept art.
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194?tab=files)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
@@ -1416,21 +1462,37 @@ Replaces the water in the Palace of Vivec's canals.
 [**Well Diversified**](https://drive.google.com/file/d/12BBB0Sc_c_C3taYi3PN5i4lta2YV4-sG/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 
+> This mod will need to be downloaded and installed manually.
+
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
+> This mod will need to be downloaded and installed manually.
+
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
+
+> This mod will need to be downloaded and installed manually.
 
 > This is an edit of [**Flies**](https://www.nexusmods.com/morrowind/mods/43481?) which fixes the underwater flies bug. Fix contributed by ProfArmitage.
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973?tab=files)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
-- This shader needs to be added to the end of the shader chain in MGE XE.
+
+> This shader needs to be added to the end of the shader chain in MGE XE.
+
+[**Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923/?tab=files)  
+Adds falling spores particle effects to the emperor parasol mushrooms. Uses Project Atlas' performance friendly atlased textures.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Project Atlas
+  - [ ] 00 SWG's Replacer
+  - [ ] 00 Telvanni Bump Maps Replacer
+  - [ ] 00 Vanilla - Smoothed
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105?tab=files)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
-- This shader needs to be added to the end of the shader chain in MGE XE.
+
+> This shader needs to be added to the end of the shader chain in MGE XE.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423?tab=files)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
@@ -1465,11 +1527,15 @@ Restores previously unused Silt Strider animation - it was present in the model,
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
+> This mod will need to be downloaded and installed manually.
+
 [**Imperial Steel Cuirass Tweaks**](https://drive.google.com/file/d/14ccRwZjf56eretklOm6fJxZN_ZtpIM7g/view?usp=sharing)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
 - Check the following options in the BAIN installer:
   - [X] 00 Male Belt
   - [X] 01 Female Dark Cuirass
+
+> This mod will need to be downloaded and installed manually.
 
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473?)  
 Tweaks bows so that they line up better with the sheathing animation.
@@ -1583,7 +1649,6 @@ Putting Power in Willpower
 Services Restored
 Sneaky Strike
 Useful Bound Armor
-N'wah Shooter - Marksman Overhaul
 Pickpocket
 Pickpocket Fix
 Stealth Improved
@@ -1718,7 +1783,6 @@ Wings of Will
 Drop Light
 Light Decay
 Wading in Water MW
-N'wah Shooter - Marksman Overhaul
 Pickpocket
 Pickpocket Fix
 Stealth Improved
@@ -1822,7 +1886,6 @@ Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing Additions
 Bretons Stand Taller
 Familiar Faces - Knife-Ears
-3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
 Distant Mournhold
 Inscribed Maar Gan Rock
@@ -1835,6 +1898,7 @@ Well Diversified
 Bitter Coast Sounds (UMOPP)
 Flies
 Heat Haze
+Parasol Particles Performance Patch
 Shattered Stones - An Earthquake Mod
 The Dream is the Door
 Throbbing Meat - A Corprus Meat Replacer
@@ -2151,9 +2215,11 @@ Crosshair Settings
 - Set **Cooldown between jumps** to 1.
 - Set **Minimum fatigue to jump** to 20. This matches the fatigue drain for jumping when using **BTB's Game Improvements**.
 
-### N'wah Shooter
+### Limited Resting, Waiting and Regen
 
-- Set **Hand shaking multiplier when archery** to 2.
+- Under **Magicka Regen Preset**, set No regen on travel.
+
+> These instructions are exclusively for users of **Class-Conscious Character Progression**.
 
 ### Putting Power in Willpower
 
