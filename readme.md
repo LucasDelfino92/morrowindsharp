@@ -46,6 +46,7 @@ I like to mod my games with the following in mind:
 - I don't want bugs.
 - I want my mods to blend in, be them gameplay, audio, or visual mods. The last thing I want is for a mod to stick out like a sore thumb.
 - I want my mods to be compatible with each other.
+- I want my setup to be compatible with other mods, for the most part.
 
 Because of this, the are a handful of mods you won't see in this guide:
 
