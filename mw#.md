@@ -12,6 +12,13 @@
 - 🚫 Mod has been removed from the guide.
 
 <details>
+  <summary>v2.8 Hotfix (August 30th)</summary>
+
+- ⚠️ **Better Fitted Female Armors** (Visuals): Added TESAME instructions.
+- ⚠️ **Shader Setup**: Moved placement of the invisibility shader. This should help with jaggy edges when using the invisibility effect.
+</details>
+
+<details>
   <summary>v2.8 (August 29th)</summary>
 
 By the grace of Almsivi, this update is compatible with an existing playthrough.
@@ -90,7 +97,6 @@ By the grace of Almsivi, this update is compatible with an existing playthrough.
 - 🚫 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) (Overhauls): Made obsolete as **Ashfall** includes a similar mechanic.
 - 🚫 [**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) (Overhauls): Removed because it doesn't play nice with **Ashfall**. **Pass the Time** is now used to speed up time with a button press.
 - 🚫 [**Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923/) (Visuals): Made obsolete as **3D Vines Vanilla Mushroom Trees** now offers a vanilla-polycount version.
-
 </details>
 
 <details>
@@ -1732,6 +1738,14 @@ Randomizes cloned NPCs' heads.
 
 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky. 
+- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame).
+- Delete the following records from **Alex's Better Fitted Female Armors.ESP**:
+  - Armor **netch_leather_cuirass**
+  - Armor **imperial_chain_cuirass**
+  - Armor **steel_cuirass**
+  - Armor **imperial cuirass_armor**
+
+> This restores the vanilla meshes, which were already designed for female characters.
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -2402,6 +2416,7 @@ We installed a number of shaders at the beginning of Morrowind#. If you've follo
 ```
 SSAO HQ
 Underwater Interior Effects
+Invisibility
 EdgeAA
 deband_fogawarev2
 Underwater Effects
@@ -2412,7 +2427,6 @@ Cinematic Bokeh DoF
 Lens Effects
 heathaze
 r0_qk_shaker
-Invisibility
 Cinematic_Black_Bars
 ```
 - Click **Save** after setting up your shader chain.
