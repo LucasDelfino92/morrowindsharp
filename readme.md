@@ -1,6 +1,6 @@
 # MORROWIND#: A Morrowind Modding Guide
 
-Last updated: August 25th, 2021
+Last updated: August 29th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
@@ -78,11 +78,11 @@ I can't say for sure. I can only give an opinion, but at the end of the day ther
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-There are roughly 90 recommended (a.k.a. "essential") mods, totalling 25 plugins. For people who love to mod their games, there are a total of 220 mods and 80 plugins.
+There are roughly 100 recommended (a.k.a. "essential") mods, totalling about 30 plugins. For people who love to mod their games, there are roughly 250 mods and about 100 plugins.
 
 ### How much space do I need to install these mods?
 
-Roughly 10GB, of which **Intelligent Textures** and **AURA** account the majority of. The former is recommended for any new player to the game.
+Roughly 26GB, of which **Intelligent Textures**, **AURA**, and **TUBES4MUSE** account the majority of. However, only the former is strongly encouraged that you install if this is your first time playing Morrowind.
 
 ### How much time will it take me to install all mods?
 
