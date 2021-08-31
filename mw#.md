@@ -12,7 +12,23 @@
 - 🚫 Mod has been removed from the guide.
 
 <details>
+  <summary>v2.8.0.1 (August 31st)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194) (Overhauls)
+- ⚠️ **No Vanity Camera** (QOL Improvements): Added missing BAIN instructions.
+- ⚠️ [**Projectiles Reintegrated**](https://drive.google.com/file/d/1q0aN-8kiHxntWnI1w6DO46Gnl4WehgyO/view?usp=sharing) (Overhauls): Updated to remove a now unnecessary edit with **Ownership Overhaul**'s latest release.
+- ⚠️ **New Horizons** (Visuals): Properly added it to the guide.
+- ⚠️ **Setup**: Removed MGE XE's Weather Settings instructions, as they are outdated. To revert them, go to the Distant Land tab, click Weather Settings... and then Reset. Save your changes.
+- ⚠️ **Conflict Resolution**: Removed TESAME instructions for Merged Objects, as they are no longer needed with **Enchanted Weapon Resistance**.
+- ⚠️ **Mod Config**: Added instructions for **abot's Smart Heads**.
+</details>
+
+<details>
   <summary>v2.8 Hotfix (August 30th)</summary>
+
+This update is compatible with an existing playthrough.
 
 - ⚠️ **Better Fitted Female Armors** (Visuals): Added TESAME instructions.
 - ⚠️ **Shader Setup**: Moved placement of the invisibility shader. This should help with jaggy edges when using the invisibility effect.
@@ -848,6 +864,9 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 
 [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933)  
 Disables automatic switching to vanity camera due to inactivity. Does not prevent manually enabling vanity camera.
+- Check the following option in the BAIN installer:
+  - [X] MWSE Version
+  - [ ] Plugin Version
 
 [**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 Gives you the option of speeding through the character generation process, and slows down the flow of time in-game.
@@ -1040,6 +1059,9 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
 
+[**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
+Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
+
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
@@ -1157,7 +1179,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Projectiles Reintegrated**](https://drive.google.com/file/d/11Pw9AOywniPK6ghWsbuX9B2VWy2VlKrE/view?usp=sharing)  
+[**Projectiles Reintegrated**](https://drive.google.com/file/d/1q0aN-8kiHxntWnI1w6DO46Gnl4WehgyO/view?usp=sharing)  
 Increases the availability of projectiles purchasable from vendors.
 
 > This mod will need to be downloaded and installed manually.
@@ -1666,6 +1688,9 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 
 > This mod will need to be downloaded and installed manually.
 
+[**New Horizons**](https://mw.modhistory.com/download-26-14824)  
+Edits the sky mesh to improve the distant horizon clouding.
+
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
@@ -2038,6 +2063,7 @@ Distraction
 Dungeons Rest
 Early Transport to Mournhold
 Economy Adjuster Adjustments (Crime Module)
+Enchanted Weapon Resistance
 FMI - Hospitality Papers Expanded
 FMI - Service Refusal and Contraband
 Give a Gift
@@ -2369,18 +2395,6 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-> The following instructions apply to followers of the extended guide.
-
-**Merged Objects.ESP** makes a handful of unintended changes to the Imperial Netch Blade, Iron Spider Dagger, and Stormkiss records when using **BTBGI Necro Edit**. We will have to delete these unintended changes from our Merged Objects plugin.
-
-- [**Run TESAME in Mod Organizer 2**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame).
-- Delete the following records: 
-  - Weapon **iron spider dagger**
-  - Weapon **imperial netch blade**
-  - Weapon **Stormkiss**
-- This omits the unintended changes made by Merged Objects to these weapons.
-</details>
-
 ## RE-RUNNING DISTANT LAND
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
@@ -2431,6 +2445,8 @@ Cinematic_Black_Bars
 ```
 - Click **Save** after setting up your shader chain.
 
+> Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process**, **Cinematic Bokeh DoF**, and **Cinematic_Black_Bars**, tend to be divisive.
+
 ## CLOSING COMMENTS
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
@@ -2456,18 +2472,23 @@ Game mechanics | Hidden traps | Turns off the display of trap status on object t
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** and **Balanced Passive Races and Birthsigns** benefit from the use of this patch.
-Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **BTB's Game Improvements** requires this patch for its weapon resistance changes to work as intended.
+Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
 
-## IN-GAME CONFIGURATION
+## MOD CONFIG
 
 > This section includes mods from the extended guide.
 
-The following mods need to be configured using the in-game **Mod Configuration** menu.
+The following mods need to be configured using the in-game **Mod Config** menu.
 
 ### abot's Smart Journal
 
 - Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
+
+### abot's Smart Heads
+
+- Set **Min clones number** to 2.
+- Disable **Skip actor clones wearing full covering helmet/mask**.
 
 ### abot's Tooltip
 
