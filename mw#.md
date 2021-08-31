@@ -22,7 +22,9 @@ This update is compatible with an existing playthrough.
 - ⚠️ **New Horizons** (Visuals): Properly added it to the guide.
 - ⚠️ **Setup**: Removed MGE XE's Weather Settings instructions, as they are outdated. To revert them, go to the Distant Land tab, click Weather Settings... and then Reset. Save your changes.
 - ⚠️ **Conflict Resolution**: Removed TESAME instructions for Merged Objects, as they are no longer needed with **Enchanted Weapon Resistance**.
-- ⚠️ **Mod Config**: Added instructions for **abot's Smart Heads**.
+- ⚠️ **Mod Config**:
+  - Added instructions for **abot's Smart Heads**.
+  - Added extra instructions for **Ashfall**.
 </details>
 
 <details>
@@ -2498,6 +2500,7 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 
 - Enable **Hunger/Thirst can Kill**.
 - Disable **Potion Hydrate**.
+- Under **Mod values**, set **Tiredness Rate** to 45.
 
 ### Clock Block
 
