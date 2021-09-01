@@ -92,6 +92,10 @@ Depends on how quick and thorough you are about it. I guarantee it will take you
 
 *Very* often. Those who have been followed this guide's progress for a good while already know that mods can (and *will*) be removed if my opinion changes about them. Likewise, they can be added back if I feel they added an extra to the game it's hard to play without.
 
+### Is there a Wabbajack installer for the guide available?
+
+No. On top of the additional amount of work, I don't want an installer that automates this guide's installation. People are free to make one if they wish, but I'm against anything that allows people to install hundreds of mods in one go without even knowing what they are installing. People failing to read the instructions and descriptions placed in the guide account for a good 90% of the problems they report. This is not a behavior I want to encourage with a Wabbajack installer.
+
 ### Do you have a Patreon?
 
 Believe it or not, I've been asked this enough times for me to make it a FAQ. The truth is I don't want to be put in a position where I feel obligated to answer to others. The moment I don't feel like maintaining my guide anymore is the moment where quality will start to drop if I keep updating it out of an obligation to others. Neither you nor me want that to happen. That you enjoy this guide is all I need.
