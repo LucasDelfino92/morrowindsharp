@@ -1224,7 +1224,7 @@ Allows soultrap to make more intelligent use of available soul gems, including s
 Prevents souls of summoned creatures from being trapped.
 
 [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129)  
-Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, with many changes and additions. 
+Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, daedric equipment availability, enchantments, GMSTs, and faction requirements.
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
 - If you installed **Concept Art Daedric Helmets** earlier, also install [**Concept Art Daedric Helmets BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/49534), which tweaks the stats on the helmets to align with **BTB's Game Improvements**.
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
