@@ -26,6 +26,8 @@ This update is compatible with an existing playthrough.
 - 🆕 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133) (Overhauls)
 - 🆕 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) (Overhauls)
 - 🆕 [**Familiar Faces - Whiskers**](https://drive.google.com/file/d/1Di9xYjMuQ-k2N52b1p_RxLHrLLhqigIB/view?usp=sharing) (Visuals)
+- ⚠️ **Mod Config**:
+  - Added instructions for **Class-Conscious Character Progression**.
 </details>
 
 <details>
@@ -2234,11 +2236,11 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 - Disable **Potion Hydrate**.
 - Under **Mod values**, set **Tiredness Rate** to 45.
 
-### Class-Conscious Character Progression
+### CCCP
 
 > The following instructions are exclusively for users of **MWSE State-Based Health**.
 
-
+- Under the **Health Settings** tab, disable **Manage health**.
 
 ### Clock Block
 
