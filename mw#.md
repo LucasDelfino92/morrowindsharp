@@ -916,6 +916,11 @@ A lua-based framework for creating new, fully functional magic effects.
 
 > This framework is required by Class Starting Spells, Daedric Intervention Spell, Miscast Enhanced, and the Magic Mechanics ("MM") series of mods.
 
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
+> Though *not* a framework, it is very much recommend if you want to run Better Character Classes, BTB's Game Improvements, or Balanced Passsive Races and Birthsigns. Without Nimble Armor, the class and race edits done by any of these mods can lead to NPCs going unarmored.
+
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code.
 
@@ -1077,9 +1082,6 @@ Fixes some the biggest exploits and balance issues in the game.
 
 > This edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
 
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732)  
 Prevents you from accessing your inventory menu, as well as preventing looting containers/corpses, while you are in combat. 
 
@@ -1149,8 +1151,6 @@ Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a s
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
-
-> Note that, unless you install Nimble Armor, there's a good chance you will come across NPCs not donning their armor in favor of their higher Unarmored skill when using this mod in tandem with BTB's Game Improvements.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
@@ -1813,6 +1813,7 @@ Stealth Improved
 Stealth Improved Fix
     MAB0's Foundations
     Magicka Expanded
+    Nimble Armor
     Skills Module
     Better Character Classes
     Class-Conscious Character Progression (CCCP)
@@ -1855,7 +1856,6 @@ Stealth Improved Fix
     MM - Enhanced Telekinesis
     MM - Homing Projectiles
     Morrowind Anti-Cheese
-    Nimble Armor
     No Combat Menu
     No Disease Labels
     Ownership Overhaul
