@@ -4,14 +4,6 @@
 
 ![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner_Setup.jpg)
 
-- [Requirements](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#requirements)
-- [Installation](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#installation)
-- [Morrowind Code Patch](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-code-patch)
-- [MGE XE and MWSE](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mge-xe-and-mwse)
-- [Mod Organizer 2](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#mod-organizer-2)
-- [Configuring MGE XE in MO2](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#configuring-mge-xe-in-mo2)
-- [In-game configuration](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#in-game-configuration)
-
 # Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
@@ -77,29 +69,29 @@ Repository for the Beta update for the Morrowind Code Patch.
 # MGE XE and MWSE
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features.
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 - Manually download the **MGE XE Installer** main file.
 - Extract the contents of the file and run the **MGE XE Installer.exe**.
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
 
-MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
-
-When you first install MGE XE, it will automatically download the latest MWSE update. In the future, you will have to update MWSE yourself. Doing this is simple.
-
-- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
-- A window will open and close shortly after, having updated MWSE to the latest version.
-
-> Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
-
-As mentioned earlier, MGE XE allows for distant land generation. In other words, it lets you see beyond the game's fog, allowing for higher rendering distances. However, Morrowind wasn't designed with distant land in mind, which can lead to a handful of issues with certain in-game scenarios.
-
-This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
+Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
 [**abot Distant Static Overrides - Necro Edit**](https://drive.google.com/file/d/17G2uTaOjDJ9gUBwwIKZRtfvNWY5bZMXK/view?usp=sharing)  
-abot's custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape. Edited by Necrolesian to remove support for non-vanilla content.
+**Necrolesian**'s own edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
 - Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
+
+This file contemplates the following scenarios (in the order in which they appear in the file) which affect the landscape of Morrowind:
+
+- The completion of the Main Quest (:: MAIN QUEST).
+- The completion of Bloodmoon's Main Quest (:: BLOODMOON MAIN QUEST).
+- The progress and completion of Boethiah's Daedric Quest (:: BOETHIAH'S QUEST).
+- The completion of the Siege at Firemoth official plugin (:: FIREMOTH).
+- The completion of Raven Rock's construction (:: RAVEN ROCK).
+- The completion of the construction of each Great House Stronghold (:: GREAT HOUSE STRONGHOLDS).
+
+Using this file is simpler than it appears. When the time comes that you encounter any of those scenarios, simply look up the codes written between parenthesis (as seen above) on Morrowind\mge3\necro_distant_statics_override.ovr. Open the file in a text editor, and uncomment (by removing the ":" at the beginning of the line) and comment (by adding a ":" at the beginning of the line) the appropiate lines under each header.
 
 # Mod Organizer 2
 
@@ -292,6 +284,76 @@ It's time to finally run Morrowind.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 
 > If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+
+# TOOLS
+
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
+
+## TES3View, TES3Merge, TESAME
+
+[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
+Used to see the structure of mods and detect conflicts.
+- Extract the contents of the file in **Morrowind Mods\TES3View**. 
+
+> The version I'm hosting can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
+Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
+
+[**TESAME**](http://mw.modhistory.com/download-95-15443)  
+Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+- Extract the contents of the file in **Morrowind Mods\TESAME**.
+
+### Registering tools in Mod Organizer 2
+
+For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
+- In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- Click **Apply**, and repeat the process for the remaining tools.
+
+## Wrye Mash
+
+[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
+Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
+- Download and run the **Wrye Mash 2019 x64 - Installer** main file.
+- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
+- Eventually the installation wizard will ask you to fill the following entries:
+   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
+   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
+- Click **Next** and then click **Finish**.
+- Wrye Mash x64 will now launch. Close the program.
+
+> The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
+
+> **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
+
+- Download the **Wrye Mash 2021 - x64 - beta6 - manual installation archive** update file.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
+
+> This will update WryeMash to the latest version.
+
+### tes3cmd
+
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
+This tool is used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
+- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
+
+> Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
+
+### Registering Wrye Mash in Mod Organizer 2
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
+- Click **Apply** and then **OK**.
+
+> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
 # MOVING ON TO MORROWIND#
 
