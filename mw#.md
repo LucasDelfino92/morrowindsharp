@@ -5,11 +5,11 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# DISCLAIMER
+# BEFORE WE BEGIN
+
+## DISCLAIMER
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
-
-# BEFORE WE BEGIN
 
 ## MODDING TIPS
 
