@@ -1074,15 +1074,19 @@ Makes windows glow in the dark.
   - [ ] Include Tel Uvirith
   - [ ] Exclude Tel Uvirith
   - [X] None
-- Also install the **AtlAd - Glow in the Dahrk Patch**.
-  - Right-click your installed AtlAd file in the left pane, and click **Reinstall Mod**.
+- Also install the **Project Atlas - Glow in the Dahrk - Interior Sunrays Patch**.
+  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
   - Check the following options in the BAIN installer:
     - [ ] 00 Core
-    - [ ] 01 Textures - Intelligent Textures
-    - [ ] 01 Textures - Vanilla Textures
-    - [X] 02 GITD
-    - [X] 02 GITD - Interior Sunrays 
-  - Rename the mod to **AtlAd - Glow in the Dahrk Patch**. This will install the patch as a separate mod.
+    - [ ] 10 Glow in the Dahrk Patch
+    - [X] 10 Glow in the Dahrk Patch - Interior Sunrays
+    - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
+    - [ ] 20 BC Mushrooms - Smoothed
+    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
+    - [ ] 30 Redware - Smoothed
+    - [ ] 40 Urns - Smoothed
+    - [ ] 50 Wood Poles - Hi-Res Texture
+  - Rename the mod to **Project Atlas - Glow in the Dahrk - Interior Sunrays Patch**. This will install the patch as a separate mod.
 
 > Note that new window meshes added by mods will require a patch for glowing windows.
 
@@ -1572,7 +1576,7 @@ I Lava Good Mesh Replacer
 Remiros' Groundcover
 Signposts Retextured
 Glow in the Dahrk
-AtlAd - Glow in the Dahrk Patch
+Project Atlas - Glow in the Dahrk - Interior Sunrays Patch
 Nords, Shut Your Windows!
 Here Comes The Sun... Glare
 Let There Be Darkness
@@ -2119,6 +2123,7 @@ This update is compatible with an existing playthrough.
 - ⚠️ **Memory Monitor** (Patches): Moved to essentials.
 - ⚠️ **Continue** (User Interface): Added configuration instructions in Mod Config.
 - ⚠️ **Enchanted Weapon Resistance** (Overhauls): Added configuration instructions in Mod Config.
+- ⚠️ **Glow in the Dahrk** (Visuals): Replaced **AtlAd** with **Project Atlas** for the Glow in the Dahrk Patch, as the AtlAd patch is buggy.
 - 🚫 [**Opponent Fatigue Indicator**](https://www.nexusmods.com/morrowind/mods/50060) (User Interface): Caused crashes with certain setups that exceeded the guide's recommendations.
 - 🚫 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693) (User Interface): Would bug out ocassionally, not allowing users to start a new game. Configuration of **Continue** removes the New Game button, though, which will prevent accidental misclicks while playing the game.
 - 🚫 [**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801) (QOL Improvements): Would bug out ocassionally, not allowing users to damage former companions that are no longer companions (leading to these NPCs being invincible unless the mod was disabled in-game). Moreover, it can be quite annoying to disable the mod when one decides to kill a companion. An ideal mod would be one that prevents companions from harming you (since their AI is rather poor), as well as player attacks being considered "hostile" because of a misclick (or rather, because companions and friendly NPCs are rather dumb and love getting in your face during a fight with a common enemy).
