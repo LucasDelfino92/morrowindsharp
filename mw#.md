@@ -212,6 +212,12 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)  
 Corrects thrown projectiles inflicting twice their listed damage. 
 
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
+Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
+
+[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
+Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
+
 <details>
 	<summary>Extended Patches - Click to expand</summary>
 
@@ -235,9 +241,6 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Expand the **Correct Mudcrab** and **Regular** folders.
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
-
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 </details>
 
 # USER INTERFACE
@@ -275,14 +278,16 @@ Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a
 [**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
 
-[**Opponent Fatigue Indicator**](https://www.nexusmods.com/morrowind/mods/50060)  
-Adds a fatigue indicator to opponents when dealing fatigue damage in combat.
-
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
-[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693)  
-Adds a confirmation popup when you click on New Game in the main menu.
+[**Magic Icons**](https://drive.google.com/file/d/1DT7OpWLqWnuHd-dC10z3lvZRvtEGjxax/view?usp=sharing)  
+Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
+- Check the following option in the BAIN installer: 
+  - [ ] 00 Blue Color
+  - [X] 00 Vanilla Color
+
+> This edit of [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/44299) removes the contextual colors, bringing back the vanilla box, while offering a "vanilla" color option.
 
 <details>
 	<summary>Extended User Interface - Click to expand</summary>
@@ -398,9 +403,6 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 - Check the following options in the BAIN installer: 
   - [ ] 00 Beautiful Cities - RR Ghostgate Version
   - [X] 00 Vanilla Ghostgate
-
-[**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801)  
-Stops friendly fire: player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Optionally stops combat from occurring between friendly actors.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
@@ -1292,9 +1294,6 @@ Changes the armor and clothes of some of the ghosts, so that now an ashlander we
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
-[**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098)  
-Randomizes cloned NPCs' heads.
-
 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
@@ -1371,6 +1370,8 @@ Expeditious Exit
 Fortify MAX
 Loading Doors Lock Tune
 Run Fix
+Memory Monitor
+Sophisticated Save System
     Thrown Projectiles Revamped
     Divayth Fyr Puzzle Fixed
     Dubdilla Location Fix
@@ -1378,7 +1379,6 @@ Run Fix
     Quest Skill Reward Fix
     Skill Increase GMST Fix
     Correct UV Mudcrabs
-    Memory Monitor
 Better Dialogue Font
 Better Daedric Font
 Title Screen Reworked
@@ -1388,9 +1388,8 @@ UI Expansion
 Alchemical Knowledge
 Better Questlist
 Companion Health Bars
-Opponent Fatigue Indicator
 Continue
-New Game Confirmation
+Magic Icons
     Book Worm
     Class Description Tooltip
     Tooltip
@@ -1419,7 +1418,6 @@ Graphic Herbalism Lighting
 Hide the Skooma
 Hotkeys Extended
 Improved Temple Experience
-No More Friendly Fire
 No Thank You
 Quick Equip
 Right Click Menu Exit
@@ -1620,7 +1618,6 @@ Weapon Sheathing Additions
     Glowing Atronachs 1.01
     Luminous VFX Atronachs
     Incarnates Overhauled
-    Smarter Heads
     Better Fitted Female Armors
     Complete Armor Joints
     Imperial Steel Cuirass Tweaks
@@ -1711,7 +1708,6 @@ Waterfalls Tweaks.ESP
 PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
-XE Sky Variations.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
     Mournhold LOD.ESP
@@ -1794,6 +1790,26 @@ Some of our installed plugins contain changes we are not really interested in. T
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
+## UPDATING AND REPAIRING SAVES
+
+When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
+```
+The currently selected master files and plugins do not match the ones used by this save game. 
+Errors may occur during load or game play. Do you wish to continue?
+```
+To fix this, we have to synchronize our save's plugins to our current load order. In addition, we will also want to repair our save to fix any potential left over issues from updating it. To do this, we will use **Wrye Mash**.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
+- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
+- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
+- Click on the **Save** button further below the same panel.
+- Right click on the save you just updated, and click on **Repair All**. Wrye Mash will repair your savefile.
+- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
+
+You do not need to repeat this process for each of your outdated saves, but just the ones you are planning to load.
+
 ## RE-RUNNING DISTANT LAND
 
 MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
@@ -1866,11 +1882,6 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 - Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
 
-### abot's Smart Heads
-
-- Set **Min clones number** to 2.
-- Disable **Skip actor clones wearing full covering helmet/mask**.
-
 ### abot's Tooltip
 
 - Disable **Show item Value/Weight Ratio in tooltip**.
@@ -1894,10 +1905,15 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 ### Continue
 
 - Enable **Hide Credits Button**.
+- Enable **Hide New Game Button (In Game)**.
 
 ### Controlled Consumption
 
 - Set **Current consumption module** to Vanilla NPC Style (Necro Edit).
+
+### Enchanted Weapon Resistance
+
+- Disable **Block enchantment if weapon has no effect**.
 
 ### Essential Indicators
 
@@ -1972,6 +1988,13 @@ Crosshair Settings
 
 - Set **Enforce skill requirements?** to On.
 
+### Sophisticated Save System
+
+- Set **Autosave timer duration** to 60.
+- Disable **Create autosaves after changing cells?**.
+
+> This will reduce how often autosaves are created.
+
 ### Stealth Improved
 
 - Disable **Experimental Enable light-based Stealth**.
@@ -2028,9 +2051,10 @@ Broadly speaking, these are the steps you should follow whenever you install new
 2. Synchronize mod masters to avoid in-game warnings.
 3. Clean dirty plugins.
 4. Solve conflicts.
-5. Re-run Distant Land.
-6. Update MWSE.
-7. Configure the installed mods, if applicable.
+5. Update and repair your saves.
+6. Re-run Distant Land.
+7. Update MWSE.
+8. Configure the installed mods, if applicable.
 
 # MOD KEYBINDINGS
 
@@ -2081,6 +2105,27 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>v2.8.0.3 (September 6th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Setup: Added Shortcut Key Improvements to Morrowind Code Patch.
+- Finishing Touches: Added instructions to update and repair your saves.
+- 🆕 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (Patches)
+  - Added configuration instructions in Mod Config.
+- 🆕 [**Magic Icons**](https://drive.google.com/file/d/1DT7OpWLqWnuHd-dC10z3lvZRvtEGjxax/view?usp=sharing) (User Interface)
+- ⚠️ **Memory Monitor** (Patches): Moved to essentials.
+- ⚠️ **Continue** (User Interface): Added configuration instructions in Mod Config.
+- ⚠️ **Enchanted Weapon Resistance** (Overhauls): Added configuration instructions in Mod Config.
+- 🚫 [**Opponent Fatigue Indicator**](https://www.nexusmods.com/morrowind/mods/50060) (User Interface): Caused crashes with certain setups that exceeded the guide's recommendations.
+- 🚫 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693) (User Interface): Would bug out ocassionally, not allowing users to start a new game. Configuration of **Continue** removes the New Game button, though, which will prevent accidental misclicks while playing the game.
+- 🚫 [**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801) (QOL Improvements): Would bug out ocassionally, not allowing users to damage former companions that are no longer companions (leading to these NPCs being invincible unless the mod was disabled in-game). Moreover, it can be quite annoying to disable the mod when one decides to kill a companion. An ideal mod would be one that prevents companions from harming you (since their AI is rather poor), as well as player attacks being considered "hostile" because of a misclick (or rather, because companions and friendly NPCs are rather dumb and love getting in your face during a fight with a common enemy).
+- 🚫 [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) (Visuals): Caused crashes with certain setups that exceeded the guide's recommendations. That said, cloned NPCs are not an issue with Morrowind# as **Yet Another Guard Diversity** takes care of guards, and abot is constantly updating the mod as more issues pop up.
+- 🚫 XE Sky Variations.ESP (Visuals): Would cause very undesirable tweaks at times. This would also lead to difficulties with maintaining my Weather Adjuster Preset, as I would incorrectly adjust it for anomalies (when ideally I would adjust it only for general scenarios).
+  - This plugin should be found in your **Morrowind\Data Files** folder.
+</details>
 
 <details>
   <summary>v2.8.0.2 (September 2nd)</summary>
@@ -2173,7 +2218,6 @@ By the grace of Almsivi, this update is compatible with an existing playthrough.
 - 🆕 [**New Horizons**](https://mw.modhistory.com/download-26-14824) (Visuals)
 - 🆕 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) (Visuals)
 - 🆕 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (Visuals)
-- 🆕 [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) (Visuals)
 - ⚠️ [**Morrowind Code Patch**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#setup): Updated instructions with two new suggested patches.
   - Equip script fix
   - Auto-stack ammunition
