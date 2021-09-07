@@ -281,13 +281,12 @@ Adds health bars for your companions and summoned creatures to the Morrowind HUD
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
-[**Magic Icons**](https://drive.google.com/file/d/1DT7OpWLqWnuHd-dC10z3lvZRvtEGjxax/view?usp=sharing)  
+[**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
 - Check the following option in the BAIN installer: 
-  - [ ] 00 Blue Color
-  - [X] 00 Vanilla Color
-
-> This edit of [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/44299) removes the contextual colors, bringing back the vanilla box, while offering a "vanilla" color option.
+  - [ ] 00 Alternative Light Blue Color
+  - [X] 00 Original Blue Color
+  - [ ] 00 Vanilla Color
 
 <details>
 	<summary>Extended User Interface - Click to expand</summary>
