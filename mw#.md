@@ -2118,7 +2118,7 @@ This update is compatible with an existing playthrough.
 - Finishing Touches: Added instructions to update and repair your saves.
 - 🆕 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (Patches)
   - Added configuration instructions in Mod Config.
-- 🆕 [**Magic Icons**](https://drive.google.com/file/d/1DT7OpWLqWnuHd-dC10z3lvZRvtEGjxax/view?usp=sharing) (User Interface)
+- 🆕 [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223) (User Interface)
 - ⚠️ **Memory Monitor** (Patches): Moved to essentials.
 - ⚠️ **Continue** (User Interface): Added configuration instructions in Mod Config.
 - ⚠️ **Enchanted Weapon Resistance** (Overhauls): Added configuration instructions in Mod Config.
