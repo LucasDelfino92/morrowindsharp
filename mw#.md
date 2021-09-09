@@ -1921,10 +1921,13 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 ### Essential Indicators
 
 General Settings
-- Disable **Essential Item Indicator**.
-- Disable **Essential NPC Indicator**.
-- Disable **Quest-Giver NPC Indicator**.
-- Disable **Quest-Giver Faction Sensibility**.
+- Set **Essential Item Indicator** to Off.
+- Set **Essential NPC Indicator** to Off.
+- Set **Quest-Giver NPC Indicator** to Off.
+- Set **Quest-Giver Faction Sensibility** to Off.
+- Set **Enable Sneak Indicator** to Off.
+- Set **Enable Messages** to Off.
+- Set **Disable Vanilla Sneak Indicator** to Off.
 
 Crosshair Settings
 - Set **Crosshair Options** to ReverendKnots' Oblivion-Style. 
