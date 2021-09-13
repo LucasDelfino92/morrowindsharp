@@ -570,7 +570,7 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 
 > This framework is required by Bardic Inspiration, Mantle of Ascension - A Climbing Mod, and Ashfall.
 
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
 Makes the default character classes a bit more balanced and better.
 
 [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110)  
