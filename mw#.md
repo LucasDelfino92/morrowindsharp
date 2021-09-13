@@ -245,9 +245,10 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 
 # USER INTERFACE
 
-[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
+[**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
-- Install the **Better Dialogue Font** main file.
+
+> An alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -473,9 +474,6 @@ Lets you open or close any book or scroll in the game.
 
 # GAMEPLAY
 
-[**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
-Adds the missing Daedric Faces from Michael Kirkbride's concept art into the game.
-
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
@@ -560,7 +558,7 @@ A lua-based framework for creating new, fully functional magic effects.
   - [ ] 06 - Weather Magic Pack
   - [ ] 07 - Cortex Pack
 
-> This framework is required by Class Starting Spells, Daedric Intervention Spell, Miscast Enhanced, and the Magic Mechanics ("MM") series of mods.
+> This framework is required by Class Starting Spells, Miscast Enhanced, and the Magic Mechanics ("MM") series of mods.
 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
@@ -605,16 +603,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
 
-[**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786)  
-Adds roleplaying-friendly alternative ways of getting your bounty cleared.
-
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
 > This edit of [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) includes ingredient consumption restrictions.
-
-[**Daedric Intervention Spell**](https://www.nexusmods.com/morrowind/mods/48199)  
-Grants you the Daedric Intervention spell on completion of any Daedric quest.
 
 [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680)  
 Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them.
@@ -723,7 +715,7 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403)  
 Adds the ability to control spell projectiles while in flight after casting a spell or enchantment, by moving your cursor.
 
-[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1r4J6WxGIyDE3Ti2isEDMCPtOQqir6R33/view?usp=sharing)  
+[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1DRkQhxwCvyvk2gmU0JtQQj8CcSO2_iXo/view?usp=sharing)  
 Fixes some the biggest exploits and balance issues in the game.
 
 > This edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
@@ -765,15 +757,6 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 > Note that because of BTB's Game Improvements below, the Patch for Purists version makes no difference to us.
 
-[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
-Original attempt at restoring the mentioned but missing village of Ald Redaynia to the game.
-
-[**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074)  
-Most Daedric quests can be started only on the Daedric Prince's summoning day - one day a year - and only with an appropriate offering. 
-
-[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. These NPCs will react to your advance through the Main Quest.
-
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
@@ -786,7 +769,6 @@ Prevents souls of summoned creatures from being trapped.
 [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129)  
 Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, daedric equipment availability, enchantments, GMSTs, and faction requirements.
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
-- If you installed **Concept Art Daedric Helmets** earlier, also install [**Concept Art Daedric Helmets BTBGI Patch**](https://www.nexusmods.com/morrowind/mods/49534), which tweaks the stats on the helmets to align with **BTB's Game Improvements**.
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
 [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1fVgaW3QtIQeNhbXo8ErFYlFCm6jlt5QN/view?usp=sharing)  
@@ -879,7 +861,7 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 
-[**Quieter Doors and Spells**](https://drive.google.com/file/d/1TSek3dmg1moOs9ogxvMbewnK4fLIcBZK/view?usp=sharing)  
+[**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
 Reduces the volume of doors and spells.
 
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)  
@@ -965,9 +947,6 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-
-[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977)  
-Adds a unique reward and new dialogue acknowledging your completion of the unmarked quest to plunder Divayth Fyr's dungeon.
 </details>
 
 # VISUALS
@@ -1208,9 +1187,6 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
-[**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)  
-Adds some more clutter to the Ministry of Truth inspired by early screenshots and concept art.
-
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
 
@@ -1382,7 +1358,7 @@ Sophisticated Save System
     Quest Skill Reward Fix
     Skill Increase GMST Fix
     Correct UV Mudcrabs
-Better Dialogue Font
+Better Readable Beauty Font
 Better Daedric Font
 Title Screen Reworked
 Widescreen Splash Replacer
@@ -1438,7 +1414,6 @@ Torch Hotkey
     Quick Loadouts
     Randomised Chargen
     Switchable Scriptures
-Concept Art Daedric Helmets
 Expansion Delay
 Marksman Rebalanced
 Putting Power in Willpower
@@ -1471,9 +1446,7 @@ Stealth Improved Fix
     Blight Is Coming
     Creeping Blight
     Brutal Backstabbing
-    Clear Your Name
     Controlled Consumption
-    Daedric Intervention Spell
     Distraction
     Dungeons Rest
     Early Transport to Mournhold
@@ -1512,14 +1485,10 @@ Stealth Improved Fix
     Realistic Movement Speeds
     Realistic Repair
     Realistic Repair Add-on
-    Redaynia Restored
-    Save the Date
-    Shrine of Azura
     Silver Tongue
     Smarter Soultrap
     Soulless Creatures
     BTB's Game Improvements - Necro Edit
-    Concept Art Daedric Helmets BTBGI Patch
     MM - Enhanced Detection BTBGI Patch
     BTBGI Necro Edit 2.0.2 Add-on
     Balanced Passive Races and Birthsigns
@@ -1560,7 +1529,6 @@ LDM - Context Matters
     Greetings for No Lore
     Its a Deal
     Outfit Greetings Tweaked
-    Plunder the Dungeon
 Intelligent Textures
 AtlAd - Intelligent Textures Patch
 Familiar Faces
@@ -1603,7 +1571,6 @@ Weapon Sheathing Additions
     Inscribed Maar Gan Rock
     Know Thy Ancestors
     Nordic Chest Replacer
-    Prerelease Prisonmoon
     Trackless Grazeland
     Grass for Trackless Grazeland
     Vivec Palace Water Replacer
@@ -1660,15 +1627,12 @@ Better Propylon Teleport Warp.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
 The Publicans.ESP
-Concept Art Daedric Helms.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Services Restored.ESP
     Better Character Classes.ESP
     BardicInspiration.ESP
     Blight Is Coming.ESP
-    Clear Your Name.ESP
-    Daedric Intervention.ESP
     Early Transport to Mournhold.ESP
     EcoAdjCrime (Necro Edit).ESP
     Hospitality_Papers_Expanded_v2.7.ESP
@@ -1678,11 +1642,7 @@ Services Restored.ESP
     Projectiles Reintegrated.ESP
     Area Effect Projectiles Integrated.ESP
     Realistic_Repair_Add-on.ESP
-    Redaynia Restored.ESP
-    Save the Date.ESP
-    ShrineOfAzura.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
-    Concept Art Daedric Helms BTBGI Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
@@ -1705,7 +1665,6 @@ LDM - Context Matters 1.5.ESP
     Greetings for No Lore.ESP
     Its a deal.ESP
     outfit greetings tweaked.ESP
-    Clean Plunder the Dungeon.ESP
 Better_Typography_Bookarts_Fix.ESP
 Waterfalls Tweaks.ESP
 PB_SignpostsRetextured.ESP
@@ -1977,6 +1936,10 @@ Crosshair Settings
 
 - Set **Calm Humanoid**, **Rally Humanoid**, and **Charm Effect** penalties to Off.
 
+### Pickpocket
+
+- Set **Pickpocket experience value** to 3.
+
 ### Putting Power in Willpower
 
 - Enable **Allow negative Resist Bonus**.
@@ -1996,8 +1959,11 @@ Crosshair Settings
 
 ### Sophisticated Save System
 
-- Set **Autosave timer duration** to 60.
-- Disable **Create autosaves after changing cells?**.
+- Set **Minimum time between autosaves** to 5.
+- Set **Autosave timer duration** to 20.
+- Disable **Create autosaves when combat starts?**.
+- Disable **Create autosaves when combat ends?**.
+- Enable **Create autosaves after changing cells?**.
 
 > This will reduce how often autosaves are created.
 
@@ -2111,6 +2077,27 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>v2.8.1 (September 13th)</summary>
+
+This update is not compatible with an existing playthrough. That said, all of the removed mods work perfectly well, so no need to remove them yourself if you don't want to. This is a clear up pass on the guide to remove many mods which don't really fit in with the rest of them, mostly those that add new NPCs, change quests or add rewards to existing quests, add new items, or can be considered visual overhauls akin to those seen in Beautiful Cities of Morrowind.
+
+- 🆕 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201) (User Interface)
+- ⚠️ **Sophisticated Save System** (Patches): Modified configuration instructions in Mod Config.
+- ⚠️ **Pickpocket** (Overhauls): Added additional configuration instructions in Mod Config.
+- ⚠️ [**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1DRkQhxwCvyvk2gmU0JtQQj8CcSO2_iXo/view?usp=sharing) (Overhauls): Updated to remove the Ogrim Titan from Ibar-Dad, as it would block a door.
+- ⚠️ [**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing) (Audio): Updated to replace the vanilla gold coins sound with that of **Character Sound Overhaul**, and to lower the volume of many other vanilla sounds.
+- 🚫 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) (User Interface)
+- 🚫 [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534) (Gameplay)
+- 🚫 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) (Overhauls)
+- 🚫 [**Daedric Intervention Spell**](https://www.nexusmods.com/morrowind/mods/48199) (Overhauls)
+- 🚫 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) (Overhauls)
+- 🚫 [**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074) (Overhauls)
+- 🚫 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) (Overhauls)
+- 🚫 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) (Dialogue)
+- 🚫 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627) (Visuals)
+</details>
 
 <details>
   <summary>v2.8.0.3 (September 6th)</summary>
