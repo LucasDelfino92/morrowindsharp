@@ -771,7 +771,7 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
-[**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1fVgaW3QtIQeNhbXo8ErFYlFCm6jlt5QN/view?usp=sharing)  
+[**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1EMBVblaGAhd0gwpWNcRrhEl-R5u1d7tU/view?usp=sharing)  
 Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a single ESP replacer or as a set of add-ons to be used alongside the original mod.
 - Check the following option in the BAIN installer:
   - [X] 00 Replacer ESP
@@ -2077,6 +2077,14 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>v2.8.1.1 (September 14th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1EMBVblaGAhd0gwpWNcRrhEl-R5u1d7tU/view?usp=sharing): Updated to the latest release of **BTB's Game Improvements - Necro Edit**.
+</details>
 
 <details>
   <summary>v2.8.1 (September 13th)</summary>
