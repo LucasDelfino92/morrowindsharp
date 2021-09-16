@@ -1159,10 +1159,10 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 Increases height of the Bretons to match their height as described in earlier games in order to reflect their half-elven heritage.
 
 [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291)  
-Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584) to **Familiar Faces**' Breton hair meshes in order to reflect their half-elven heritage.
+Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584) to Familiar Faces' Breton hair meshes in order to reflect their half-elven heritage.
 
 [**Familiar Faces - Whiskers**](https://www.nexusmods.com/morrowind/mods/49232)  
-Adds the whiskers from [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) to **Familiar Faces**'' Khajiit head meshes.
+Adds the whiskers from [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) to Familiar Faces' Khajiit head meshes.
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
 Adds 3D vines and falling particles to Emperor Parasol trees.
@@ -1268,8 +1268,6 @@ Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
-
-> This edit of [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860) removes all edits minus those of the False Incarnates.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
