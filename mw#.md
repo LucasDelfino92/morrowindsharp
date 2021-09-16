@@ -715,10 +715,8 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403)  
 Adds the ability to control spell projectiles while in flight after casting a spell or enchantment, by moving your cursor.
 
-[**Morrowind Anti-Cheese**](https://drive.google.com/file/d/1DRkQhxwCvyvk2gmU0JtQQj8CcSO2_iXo/view?usp=sharing)  
+[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some the biggest exploits and balance issues in the game.
-
-> This edit of [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) addresses compatibility issues with **Ownership Overhaul** and fixes a handful of bugs.
 
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732)  
 Prevents you from accessing your inventory menu, as well as preventing looting containers/corpses, while you are in combat. 
@@ -1163,7 +1161,7 @@ Increases height of the Bretons to match their height as described in earlier ga
 [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291)  
 Adds [**Knife-Ears**](https://www.nexusmods.com/morrowind/mods/49584) to **Familiar Faces**' Breton hair meshes in order to reflect their half-elven heritage.
 
-[**Familiar Faces - Whiskers**](https://drive.google.com/file/d/1Di9xYjMuQ-k2N52b1p_RxLHrLLhqigIB/view?usp=sharing)  
+[**Familiar Faces - Whiskers**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the whiskers from [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) to **Familiar Faces**'' Khajiit head meshes.
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
@@ -1282,7 +1280,7 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Imperial Steel Cuirass Tweaks**](https://drive.google.com/file/d/14ccRwZjf56eretklOm6fJxZN_ZtpIM7g/view?usp=sharing)  
+[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
 - Check the following options in the BAIN installer:
   - [X] 00 Male Belt
