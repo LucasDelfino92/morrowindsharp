@@ -733,12 +733,15 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Projectiles Reintegrated**](https://drive.google.com/file/d/1q0aN-8kiHxntWnI1w6DO46Gnl4WehgyO/view?usp=sharing)  
-Increases the availability of projectiles purchasable from vendors.
-
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
+	
+[**Projectiles Reintegrated**](https://www.nexusmods.com/morrowind/mods/49232)  
+Increases the availability of projectiles purchasable from vendors.
+- Check the following option in the BAIN installer:
+  - [ ] 00 Hunter's Mark - A Marksman Mod Version
+  - [X] 00 Vanilla Version
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
@@ -772,7 +775,7 @@ Modified version of BTB's Game Improvements, with all modules merged, plus BTB's
 - Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
-[**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1i3r1ewM2cC6fFdduH7_NE1oVxDToFvMi/view?usp=sharing)  
+[**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a single ESP replacer or as a set of add-ons to be used alongside the original mod.
 - Check the following option in the BAIN installer:
   - [X] 00 Replacer ESP
@@ -1478,8 +1481,8 @@ Stealth Improved Fix
     No Disease Labels
     Ownership Overhaul
     Pass the Time
-    Projectiles Reintegrated
     Area Effect Projectiles Integrated
+    Projectiles Reintegrated
     Reactive Resistance
     Realistic Movement Speeds
     Realistic Repair
@@ -1638,8 +1641,8 @@ Services Restored.ESP
     FMI_ServiceRefusal_Contraband.ESP
     Enhanced Light.ESP
     Morrowind Anti-Cheese.ESP
-    Projectiles Reintegrated.ESP
     Area Effect Projectiles Integrated.ESP
+    Projectiles Reintegrated.ESP
     Realistic_Repair_Add-on.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
     Balanced Passive Races and Birthsigns.ESP
