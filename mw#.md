@@ -522,13 +522,13 @@ Provides a random factor to the sun damage calculation.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
 </details>
 
 # OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information (which merits a thorough read at their respective pages), or outright modify how you approach to playing the game (most importantly, by raising the game's difficulty).
+
+Of particular importance is **BTB's Game Improvements (Necro Edit)** (under *Extended Overhauls*), which makes drastic changes all around to the game's balance. Some people love it, some people like it, others hate it on principle because of how it changes some mechanics iconic to Morrowind. All said and done, the mod (like all others in this guide) is entirely optional.
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -2085,7 +2085,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 
 This update is compatible with an existing playthrough.
 
-- ⚠️ [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1i3r1ewM2cC6fFdduH7_NE1oVxDToFvMi/view?usp=sharing): Updated to the latest release of **BTB's Game Improvements - Necro Edit** (2.0.6).
+- ⚠️ [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232): Updated to the latest release of **BTB's Game Improvements - Necro Edit** (2.0.6).
 </details>
 
 <details>
