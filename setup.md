@@ -30,6 +30,9 @@ Additional, you will need a folder where to install our mod manager and keep you
 ```
 C:\Games\Morrowind Mods
 ```
+
+> Make sure you don't create your Morrowind Mods folder inside your Morrowind folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+
 ## Cleaning up your GOG installation
 
 To clean up your GOG installation of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
