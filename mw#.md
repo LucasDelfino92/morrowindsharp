@@ -236,6 +236,10 @@ Makes the game treat skill increases from quests as if there were raised via nor
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
+[**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
+Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
+- Hide/delete the **Textures** folder.
+
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Expand the **Correct Mudcrab** and **Regular** folders.
@@ -629,6 +633,9 @@ Implements and expands on the game's hinted at but missing mechanic of Hospitali
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
+
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
+Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
 
 [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)  
 Allows you to bribe NPCs with items, instead of just gold. Mercantile/Speechcraft gain experience, using the same values as traditional bribery.
@@ -1223,6 +1230,15 @@ Edits the sky mesh to improve the distant horizon clouding.
 [**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
+[**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/)  
+Lights in Dwemer ruins will occasionally blink. 
+
+[**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
+- Check the following options in the BAIN installer: 
+  - [X] 00 MWSE
+  - [ ] 00 OpenMW
+
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
@@ -1359,6 +1375,7 @@ Sophisticated Save System
     Consistent Enchanting
     Quest Skill Reward Fix
     Skill Increase GMST Fix
+    Better Scamps
     Correct UV Mudcrabs
 Better Readable Beauty Font
 Better Daedric Font
@@ -1456,6 +1473,7 @@ Stealth Improved Fix
     Enchanted Weapon Resistance
     FMI - Hospitality Papers Expanded
     FMI - Service Refusal and Contraband
+    No Beds for the Diseased
     Give a Gift
     Harder Barter
     Limited Leaping
@@ -1579,6 +1597,8 @@ Weapon Sheathing Additions
     Well Diversified
     New Horizons
     Bitter Coast Sounds (UMOPP)
+    Dwemer Blinking Lights
+    Dwemer Lightning Rods
     Flies
     Heat Haze
     Shattered Stones - An Earthquake Mod
@@ -1639,6 +1659,7 @@ Services Restored.ESP
     EcoAdjCrime (Necro Edit).ESP
     Hospitality_Papers_Expanded_v2.7.ESP
     FMI_ServiceRefusal_Contraband.ESP
+    No Beds for the Diseased.ESP
     Enhanced Light.ESP
     Morrowind Anti-Cheese.ESP
     Area Effect Projectiles Integrated.ESP
@@ -1681,6 +1702,7 @@ Yet Another Guard Diversity - Regular.ESP
     Trackless Grazeland.ESP
     Well Diversified.ESP
     bcsounds.ESP
+    Dwemer blinking lights.ESP
     Flies.ESP
     Shattered Stones - An Earthquake Mod.ESP
     The Dream is the Door.ESP
@@ -2079,6 +2101,17 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>v2.8.1.2 (September 23rd)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008) (Patches)
+- 🆕 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls)
+- 🆕 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/) (Visuals)
+- 🆕 [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) (Visuals)
+</details>
 
 <details>
   <summary>v2.8.1.1 (September 14th)</summary>
