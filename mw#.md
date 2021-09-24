@@ -1239,6 +1239,8 @@ During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightni
   - [X] 00 MWSE
   - [ ] 00 OpenMW
 
+> Note that this mod requires the installation of the [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) asset repository to work.
+
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
@@ -1598,6 +1600,7 @@ Weapon Sheathing Additions
     New Horizons
     Bitter Coast Sounds (UMOPP)
     Dwemer Blinking Lights
+    OAAB_Data
     Dwemer Lightning Rods
     Flies
     Heat Haze
@@ -1637,6 +1640,7 @@ Tribunal.esm
 Bloodmoon.esm
 Patch for Purists.esm
     Ownership Overhaul.esm
+    OAAB_Data.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
