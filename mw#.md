@@ -341,7 +341,7 @@ Renames soulgems so they'll group together in the inventory.
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
-The Warp Script for the Propylon Indices will now prompt you before teleporting. The Master Index version additionally lets you choose your destination when warping if you have the Master Index in your possession.
+The Warp Script for the Propylon Indices will now prompt you before teleporting.
 - Hide **Better Propylon Teleport Warp-Master Index.ESP**.
 
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
