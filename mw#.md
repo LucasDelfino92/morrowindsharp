@@ -774,19 +774,12 @@ Allows soultrap to make more intelligent use of available soul gems, including s
 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215)  
 Prevents souls of summoned creatures from being trapped.
 
-[**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129)  
-Modified version of BTB's Game Improvements, with all modules merged, plus BTB's edits from his modified versions of Morrowind Advanced and Service Requirements, which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, daedric equipment availability, enchantments, GMSTs, and faction requirements.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
-  - [ ] 01 Rational Names Addendum
-- Hide all plugins except **BTB's Game Improvements (Necro Edit - No RAB).ESP**.
-- If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
-
 [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Set of personal tweaks to BTB's Game Improvements - Necro Edit. Available as a single ESP replacer or as a set of add-ons to be used alongside the original mod.
+Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
 - Check the following option in the BAIN installer:
-  - [X] 00 Replacer ESP
-  - [ ] 01 Modular Tweaks
+  - [ ] 00 BTBGI
+  - [X] 00 BTBGI No RAB
+- If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
