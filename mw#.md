@@ -71,7 +71,7 @@ Sometimes authors will block the **Mod manager download** option in Nexus, and y
 
 ### Hiding files
 
-Mod Organizer 2 lets you hide specific files from your installed mods, including anything from meshes to textures, but also plugins. This is a especially useful feature when you deactivate certain plugins from a mod but don't want to see them cluttering up your load order, or you want certain files not to overwrite another mod's.
+Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
 
 - To hide a plugin, right click on your installed mod and click **Information...**.
 - On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
