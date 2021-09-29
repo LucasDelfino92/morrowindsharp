@@ -765,6 +765,9 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 > Note that because of BTB's Game Improvements below, the Patch for Purists version makes no difference to us.
 
+[**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
+Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
@@ -777,8 +780,9 @@ Prevents souls of summoned creatures from being trapped.
 [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
 - Check the following option in the BAIN installer:
-  - [ ] 00 BTBGI
-  - [X] 00 BTBGI No RAB
+  - [X] 00 Core
+  - [ ] 01 BTBGI
+  - [X] 01 BTBGI No RAB
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
@@ -1158,6 +1162,11 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 <details>
 	<summary>Extended Visuals - Click to expand</summary>
 
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+
+> This asset repository is required by OAAB Dwemer Pavements and OAAB Dwemer Lightning Rods.
+
 [**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787)  
 Increases height of the Bretons to match their height as described in earlier games in order to reflect their half-elven heritage.
 
@@ -1181,6 +1190,9 @@ Replaces the ashmires found throughout the ashen regions of Vvardenfell with mod
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
 
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
@@ -1207,6 +1219,9 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
 
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
+Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - Check the following options in the BAIN installer: 
@@ -1226,13 +1241,11 @@ Adds ambient noise and dragonflies all over the Bitter Coast region. Original pl
 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/)  
 Lights in Dwemer ruins will occasionally blink. 
 
-[**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
 - Check the following options in the BAIN installer: 
   - [X] 00 MWSE
   - [ ] 00 OpenMW
-
-> Note that this mod requires the installation of the [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) asset repository to work.
 
 [**Flies**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
@@ -1288,6 +1301,9 @@ Restores previously unused Silt Strider animation - it was present in the model,
 
 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
+Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -1500,6 +1516,7 @@ Stealth Improved Fix
     Realistic Movement Speeds
     Realistic Repair
     Realistic Repair Add-on
+    Restocking Alchemy Essentials
     Silver Tongue
     Smarter Soultrap
     Soulless Creatures
@@ -1577,24 +1594,26 @@ Weapon Sheathing
 Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Assetless No Glow Patch
 Weapon Sheathing Additions
+    OAAB_Data
     Bretons Stand Taller
     Familiar Faces - Knife-Ears
     Familiar Faces - Whiskers
     3D Vines Vanilla Mushroom Trees
     Ashmire Replacer
     Distant Mournhold
+    OAAB Dwemer Pavements
     Inscribed Maar Gan Rock
     Know Thy Ancestors
     Nordic Chest Replacer
     Trackless Grazeland
     Grass for Trackless Grazeland
+    Under Construction
     Vivec Palace Water Replacer
     Well Diversified
     New Horizons
     Bitter Coast Sounds (UMOPP)
     Dwemer Blinking Lights
-    OAAB_Data
-    Dwemer Lightning Rods
+    OAAB Dwemer Lightning Rods
     Flies
     Heat Haze
     Shattered Stones - An Earthquake Mod
@@ -1607,6 +1626,7 @@ Weapon Sheathing Additions
     Luminous VFX Atronachs
     Incarnates Overhauled
     Better Fitted Female Armors
+    Properly Fitted Female Pants
     Complete Armor Joints
     Imperial Steel Cuirass Tweaks
     Pincushion
@@ -1631,9 +1651,9 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
+    OAAB_Data.esm
 Patch for Purists.esm
     Ownership Overhaul.esm
-    OAAB_Data.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 chuzei_helm_no_neck.ESP
@@ -1662,6 +1682,7 @@ Services Restored.ESP
     Area Effect Projectiles Integrated.ESP
     Projectiles Reintegrated.ESP
     Realistic_Repair_Add-on.ESP
+    Restocking Alchemy Essentials.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
     Balanced Passive Races and Birthsigns.ESP
     Beware the Sixth House.ESP
@@ -1693,10 +1714,12 @@ TheMidnightOil.ESP
 Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
     Mournhold LOD.ESP
+    OAAB Dwemer Pavements.ESP
     Inscribed Maar Gan Rock.ESP
     Know Thy Ancestors.ESP
     Nordic Chest Replacer.ESP
     Trackless Grazeland.ESP
+    Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
     Well Diversified.ESP
     bcsounds.ESP
     Dwemer blinking lights.ESP
@@ -1706,6 +1729,7 @@ Yet Another Guard Diversity - Regular.ESP
     Glowing Atronachs.ESP
     Incarnates Overhauled.ESP
     Alex's Better Fitted Female Armors.ESP
+    FemalePants.ESP
     Complete Armor Joints.ESP
 multipatch.ESP
 Merged Objects.ESP
@@ -2098,6 +2122,18 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>v2.8.1.3 (September 29th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls)
+- 🆕 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) (Visuals)
+- 🆕 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) (Visuals)
+- 🆕 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673) (Visuals)
+- 🆕 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) (Visuals)
+</details>
 
 <details>
   <summary>v2.8.1.2 (September 23rd)</summary>
