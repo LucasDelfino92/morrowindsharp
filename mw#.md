@@ -1164,6 +1164,10 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 GitD Patch Sunrays
+  - [ ] 02 Epic Plants Patch
 
 > This asset repository is required by OAAB Dwemer Pavements and OAAB Dwemer Lightning Rods.
 
@@ -1193,6 +1197,11 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
 Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Trackless Grazeland Patch
+
+> These instructions assume you will be installing [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194) just ahead.
 
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
