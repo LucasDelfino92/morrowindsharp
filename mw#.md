@@ -2124,7 +2124,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🚫 Mod has been removed from the guide.
 
 <details>
-  <summary>v2.8.1.3 (September 29th)</summary>
+  <summary>2.8.1.3 (September 29th)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2136,7 +2136,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8.1.2 (September 23rd)</summary>
+  <summary>2.8.1.2 (September 23rd)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2147,7 +2147,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8.1.1 (September 14th)</summary>
+  <summary>2.8.1.1 (September 14th)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2155,7 +2155,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8.1 (September 13th)</summary>
+  <summary>2.8.1 (September 13th)</summary>
 
 This update is not compatible with an existing playthrough. That said, all of the removed mods work perfectly well, so no need to remove them yourself if you don't want to. This is a clear up pass on the guide to remove many mods which don't really fit in with the rest of them, mostly those that add new NPCs, change quests or add rewards to existing quests, add new items, or can be considered visual overhauls akin to those seen in Beautiful Cities of Morrowind.
 
@@ -2176,7 +2176,7 @@ This update is not compatible with an existing playthrough. That said, all of th
 </details>
 
 <details>
-  <summary>v2.8.0.3 (September 6th)</summary>
+  <summary>2.8.0.3 (September 6th)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2198,7 +2198,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8.0.2 (September 2nd)</summary>
+  <summary>2.8.0.2 (September 2nd)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2217,7 +2217,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8.0.1 (August 31st)</summary>
+  <summary>2.8.0.1 (August 31st)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2233,7 +2233,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8 Hotfix (August 30th)</summary>
+  <summary>2.8 Hotfix (August 30th)</summary>
 
 This update is compatible with an existing playthrough.
 
@@ -2242,7 +2242,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.8 (August 29th)</summary>
+  <summary>2.8 (August 29th)</summary>
 
 By the grace of Almsivi, this update is compatible with an existing playthrough.
 
@@ -2322,174 +2322,15 @@ By the grace of Almsivi, this update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>v2.7.2.4 (August 25th)</summary>
+  <summary>August 25th and earlier</summary>
 
 This update is compatible with an existing playthrough.
 
-- Added general "install manually" instructions to a number of mods not hosted on Nexus, or which lacked the Nexus Download with Manager option.
-- 🆕 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627) (Visuals)
-- ⚠️ [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003) (Patches): Added instructions to hide a problematic mesh.
-- ⚠️ **In-game configuration**: Added instructions for **Limited Resting Waiting and Regen**.
-- 🚫 [**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657) (Overhauls): Ultimately the poor collision detection of Morrowind makes for very ugly visual experiences, which is why this mod is removed (apart from its other features not being particularly fun to play with, in my opinion).
-</details>
-
-<details>
-  <summary>v2.7.2.3 (August 22th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- 🆕 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839) (Gameplay)
-- 🆕 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121) (Overhauls)
-- 🆕 [**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787) (Visuals)
-- ⚠️ **In-game configuration**: Added instructions for **N'wah Shooter** and **Smarter Soultrap**.
-- 🚫 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321) (Visuals): Sadly the mesh changes have been done in ways less-than-ideal, with the shape of the meshes drastically differing at times from the vanilla meshes, leading to clipping and other issues. Moreover, the UV maps feature some stretching, with the original mod did its best to correct.
-</details>
-
-<details>
-  <summary>v2.7.2.2 Hotfix 2 (August 17th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- ⚠️ [**Lucky Strike**](https://www.nexusmods.com/morrowind/mods/45765) (Overhauls): Updated mod link (the Google Drive edit is now outdated).
-- ⚠️ **Credits**: Removed section (original mods are now listed alongside their edits).
-</details>
-
-<details>
-  <summary>v2.7.2.2 Hotfix (August 16th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- ⚠️ **In-game configuration**:
-  - Removed **Weather Adjuster** instructions, as they are applied by default with the **Weather Adjuster Preset**.
-  - Added **Security Enhanced** instructions for users of **Locks and Traps Detection**.
-</details>
-
-<details>
-  <summary>v2.7.2.2 (August 15th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- 🆕 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528) (Overhauls)
-- 🆕 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936) (Overhauls)
-- 🆕 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) (Overhauls)
-- 🆕 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) (Audio)
-- 🆕 [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968) (Dialogue)
-- 🆕 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) (Visuals)
-- 🆕 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) (Towns and Dungeons)
-- ⚠️ **Additional MCP Patches**:
-  - Added specific patches for **Locks and Traps Detection**.
-- ⚠️ **AURA** (Audio): Added BAIN instructions to the replacer file.
-- ⚠️ **Plunder the Dungeon** (Dialogue): Moved to this section.
 - 🚫 [**QuickLoot**](https://www.nexusmods.com/morrowind/mods/46283/?) (QOL Improvements): Removed for compatibility with **Locks and Traps Detection** (Overhauls).
-- 🚫 [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) (Towns and Dungeons)
-- 🚫 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) (Towns and Dungeons)
-- 🚫 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) (Towns and Dungeons)
-</details>
-
-<details>
-  <summary>v2.7.2.1 (August 12th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- ⚠️ **Putting Power in Willpower 2** (Gameplay): Added editing instructions to fix a bug that prevented NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
-- ⚠️ **Pickpocket** (Overhauls): Added [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing), which fixes a bug that could cause crashing.
-- ⚠️ **Stealth Improved** (Overhauls): Added editing instructions to fix a bug that prevents the NPC Sneak Bonus slider from working.
-- ⚠️ **Character Sound Overhaul** (Audio): Added editing instructions to remove an unnecessary debug log which convoluted the MWSE.log.
-- ⚠️ **Facelift** (Visuals): Removed the textures from the download requirements (as Intelligent Textures are, in my opinion, better).
-- ⚠️ **Unto Dust** (Visuals): Modified BAIN instructions to additionally check the 00 Core option.
-</details>
-
-<details>
-  <summary>v2.7.2 (August 10th)</summary>
-
-This update is compatible with an existing playthrough.
-
-- 🆕 **Tamrielic Lore Tooltips** (User Interface)
-- 🆕 **Tooltips Complete** (User Interface)
-- 🆕 **Class Skill Limit** (Overhauls)
-- 🆕 **Distraction** (Overhauls)
-- 🆕 **AURA** (Audio)
-- 🆕 **Better Music System Redone** (Audio)
-- 🆕 **Character Sound Overhaul** (Audio)
-- 🆕 **Quieter Doors and Spells** (Audio)
-- 🆕 **Silent Assassins** (Audio)
-- 🆕 **Spell Sounds Enhanced** (Audio)
-- 🆕 **Store Entrance Chimes** (Audio)
-- 🆕 **Tunnel Cough** (Audio)
-- 🆕 **Water Sounds** (Audio)
-- 🆕 **Familiar Faces** (Visuals)
-- 🆕 **Familiar Faces - Knife-ears** (Visuals)
-- 🆕 **Nords Shut Your Windows** (Visuals)
-- 🆕 **Watch the Skies** (Visuals)
-- 🆕 **Ashmire Replacer** (Visuals)
-- 🆕 **Heat Haze** (Visuals)
-- 🆕 **Shattered Stones - An Earthquake Mod** (Visuals)
-- 🆕 **Throbbing Meat - A Corprus Meat Replacer** (Visuals)
-- 🆕 **Unto Dust** (Visuals)
-- 🆕 **Luminous VFX Atronachs** (Visuals)
-- ⚠️ **XE Sky Variations** (Setup): Added XE Sky Variations.ESP to the plugin load orders.
-- ⚠️ **Harder Barter** (Overhauls): Updated mod.
-- ⚠️ **Weather Adjuster Preset** (Visuals): Updated preset.
-- ⚠️ **Quick Equip** (QOL Improvements): Updated in-game configuration instructions.
-- ⚠️ **Dynamic Timescale** (Overhauls): Added keybindings.
-- ⚠️ **Divayth Fyr Puzzle Fixed** (Patches): Moved to this section, since the mod essentially "fixes" an unmarked quest.
-- ⚠️ Moved the following mods from Gameplay to Overhauls:
-  - **Bed Buddies**
-  - **Blighted Blight**
-  - **Blight Is Coming**
-  - **Brutal Backstabbing**
-  - **Controlled Consumption**
-  - **Dungeons Rest**
-  - **Limited Leaping**
-  - **Limited Resting Waiting and Regen**
-  - **Dynamic Timescale**
-  - **Lua Lockbashing**
-  - **Lucky Strike - A Critical Hit Mod**
-  - **Merlord's Starting Equipment**
-  - **No Disease Labels**
-  - **Projectiles Reintegrated**
-  - **Area Effect Projectiles Integrated**
-  - **Realistic Movement Speeds**
-- ⚠️ **Let There Be Darkness** (Visuals): Removed configuration instructions. To revert the settings to default, you should delete the **MO2/overwrite/MWS/config/Let There Be Darkness.json** file.
-- 🚫 [**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing) (Gameplay): It wasn't until Skyrim that Dwemer constructs got their power from Soul Gems; Morrowind's lore is different.
-- 🚫 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) (Visuals): Replaced with **Familiar Faces**.
-- 🚫 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) (Visuals): Replaced with **Watch the Skies**.
-</details>
-
-<details>
-  <summary>v2.7.1.1 (August 6th)</summary>
-
-- 🆕 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) (Overhauls)
-- ⚠️ [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068) (QOL Improvements): Moved to this section.
-- ⚠️ [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) (User Interface): Moved to this section.
 - 🚫 [**Always There Spell Breaker**](https://www.nexusmods.com/morrowind/mods/47648) (Gameplay)
-- 🚫 [**Vegtabills Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893) (Gameplay)
-</details>
-
-<details>
-  <summary>v2.7.1 (August 5th Follow-up)</summary>
-
-- ⚠️ [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) (Overhauls): Moved to this section.
 - 🚫 [**Blighted Mine Means Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) (Gameplay)
-- 🚫 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals)
-</details>
-
-<details>
-  <summary>v2.7 (August 5th)</summary>
-
-- 🆕 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) (Gameplay)
-- 🆕 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) (Overhauls)
-- 🆕 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461) (Overhauls)
-- 🆕 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) (Overhauls)
-- ⚠️ [**BTBGI Necro Edit Tweaks**](https://drive.google.com/file/d/1O54qx23S7KT5KYLZyJGFw_WGLmOs1N7-/view?usp=sharing): Updated. Now a merged replacer ESP is offered.
-- ⚠️ [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) (Visuals): Moved to this section.
-- ⚠️ Moved the **Dialogue** section after **Audio**.
-- ⚠️ [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) (Dialogue): Moved to this section.
-- ⚠️ [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) (Dialogue): Moved to this section.
-- ⚠️ [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) (Dialogue): Moved to this section.
-- ⚠️ [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) (Dialogue): Moved to this section.
-- ⚠️ [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150): Moved to essential Visuals.
 - 🚫 [**Corsair's Steam Centurions**](https://drive.google.com/file/d/1cPdeU3_3Rc_N1XdigDUmHQSVdNvZ_ypx/view?usp=sharing) (Gameplay)
+- 🚫 [**Dwemer Soul Gems**](https://drive.google.com/file/d/1owg2ChfQ9TdBSzycRvortPBNIQzMUT2o/view?usp=sharing) (Gameplay): It wasn't until Skyrim that Dwemer constructs got their power from Soul Gems; Morrowind's lore is different.
 - 🚫 [**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194) (Gameplay)
 - 🚫 [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) (Gameplay)
 - 🚫 [**Master Index UMOPP**](https://drive.google.com/file/d/1QSXFWyHttjeUaXUQsB1DHbIbiceptBzd/view?usp=sharing) (Gameplay)
@@ -2498,13 +2339,19 @@ This update is compatible with an existing playthrough.
 - 🚫 [**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168) (Gameplay)
 - 🚫 [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) (Gameplay)
 - 🚫 [**True Scourge**](https://www.nexusmods.com/morrowind/mods/43294) (Gameplay)
+- 🚫 [**Vegtabills Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893) (Gameplay)
 - 🚫 [**Expansions Integrated (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls)
+- 🚫 [**N'wah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657) (Overhauls): Ultimately the poor collision detection of Morrowind makes for very ugly visual experiences, which is why this mod is removed (apart from its other features not being particularly fun to play with, in my opinion).
 - 🚫 [**Properly Balanced Creeper and Mudcrab**](https://www.nexusmods.com/morrowind/mods/49690) (Overhauls)
+- 🚫 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321) (Visuals): Sadly the mesh changes have been done in ways less-than-ideal, with the shape of the meshes drastically differing at times from the vanilla meshes, leading to clipping and other issues. Moreover, the UV maps feature some stretching, with the original mod did its best to correct.
+- 🚫 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) (Visuals): Replaced with **Familiar Faces**.
+- 🚫 [**Apel's Rain Replacer**](https://www.nexusmods.com/morrowind/mods/42555) (Visuals): Replaced with **Watch the Skies**.
 - 🚫 [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) (Visuals)
 - 🚫 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) (Visuals)
 - 🚫 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) (Visuals)
 - 🚫 [**Glowing Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47946) (Visuals)
 - 🚫 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) (Visuals)
+- 🚫 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals)
 - 🚫 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) (Visuals)
 - 🚫 [**No Shield Sparkle**](https://www.nexusmods.com/morrowind/mods/45989) (Visuals)
 - 🚫 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720) (Visuals)
@@ -2544,6 +2391,9 @@ This update is compatible with an existing playthrough.
 - 🚫 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502) (Uniformity)
 - 🚫 [**True Giant Bull Netch**](https://www.nexusmods.com/morrowind/mods/44042) (Uniformity)
 - 🚫 [**Wizards Staff for Wizards**](https://www.nexusmods.com/morrowind/mods/48302) (Uniformity)
+- 🚫 [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) (Towns and Dungeons)
+- 🚫 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) (Towns and Dungeons)
+- 🚫 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) (Towns and Dungeons)
 </details>
 
 [<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
