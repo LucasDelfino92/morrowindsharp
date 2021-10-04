@@ -1529,9 +1529,8 @@ Stealth Improved Fix
     Silver Tongue
     Smarter Soultrap
     Soulless Creatures
-    BTB's Game Improvements - Necro Edit
+    BTBGI Necro Edit Tweaks
     MM - Enhanced Detection BTBGI Patch
-    BTBGI Necro Edit 2.0.2 Add-on
     Balanced Passive Races and Birthsigns
     Beware the Sixth House (Sixth House Overhaul)
     Tribunal Rebalance
