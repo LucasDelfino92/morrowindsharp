@@ -562,7 +562,7 @@ A lua-based framework for creating new, fully functional magic effects.
   - [ ] 06 - Weather Magic Pack
   - [ ] 07 - Cortex Pack
 
-> This framework is required by Class Starting Spells, Miscast Enhanced, and the Magic Mechanics ("MM") series of mods.
+> This framework is required by Miscast Enhanced, and the Magic Mechanics ("MM") series of mods.
 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
@@ -587,9 +587,6 @@ Health is now calculated based on current endurance, strength and level.
 
 [**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
-
-[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)  
-Changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. The chosen class feels like a coherent professions with its unique features, unlike vanilla game, where its more like a random set of poorly distinctible abilities.
 
 [**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441)  
 Learn songs from other bards. Book performances with innkeepers. 38 songs to learn. New 'Performance' skill. Dynamic replacement of vanilla lutes with equippable versions.
@@ -1479,7 +1476,6 @@ Stealth Improved Fix
     Class-Conscious Character Progression (CCCP)
     MWSE State-Based Health
     Class Skill Limit
-    Class Starting Spells
     Bardic Inspiration
     Bed Buddies
     Blight Is Coming
@@ -2141,6 +2137,7 @@ This update is compatible with an existing playthrough.
 - 🆕 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) (Visuals)
 - 🆕 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673) (Visuals)
 - 🆕 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) (Visuals)
+- 🚫 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010) (Overhauls: The spells are overpowered and would need a balance pass.
 </details>
 
 <details>
