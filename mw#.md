@@ -69,6 +69,10 @@ Sometimes authors will block the **Mod manager download** option in Nexus, and y
 - Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
 
+### BAIN installers
+
+BAIN installers allow modders to split their mods into a number of options. This way, the user can select the options they want to install. This guide has numerous mods packaged as BAIN installers, and detailed instructions on which of the options offered by these mods you should check (install) and uncheck (skip).
+
 ### Hiding files
 
 Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
