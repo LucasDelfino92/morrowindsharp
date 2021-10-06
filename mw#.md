@@ -776,14 +776,19 @@ Allows soultrap to make more intelligent use of available soul gems, including s
 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215)  
 Prevents souls of summoned creatures from being trapped.
 
-[**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
+A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
+
+> For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
+	
+[**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
 - Check the following option in the BAIN installer:
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
-
+- If you've installed MM - Enhanced Detection and/or Ashfall earlier, make sure to install the respective patches from this mod's page.
+	
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 
@@ -795,13 +800,6 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
-A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-- If you installed **BTB's Game Improvements - Necro Edit** earlier, also install [**Ashfall BTBGI Patch**](https://drive.google.com/file/d/16MbgxFSXj2AwlNV9XCV6OIIX_RjLVtSa/view?usp=sharing), which tweaks ingredient values to align with **BTB's Game Improvements**.
-
-> For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
-
 </details>
 
 # AUDIO
@@ -1527,14 +1525,14 @@ Stealth Improved Fix
     Silver Tongue
     Smarter Soultrap
     Soulless Creatures
+    Ashfall - A Camping Survival and Needs Mod
     BTBGI Necro Edit Tweaks
-    MM - Enhanced Detection BTBGI Patch
+    BTBGI Enhanced Detection Patch
+    BTBGI Ashfall Patch
     Balanced Passive Races and Birthsigns
     Beware the Sixth House (Sixth House Overhaul)
     Tribunal Rebalance
     Bloodmoon Rebalance
-    Ashfall - A Camping Survival and Needs Mod
-    Ashfall BTBGI Patch
 Sheep-no-More
 Shut the Fuck up Cliff Racers
     AURA
@@ -1689,13 +1687,13 @@ Services Restored.ESP
     Projectiles Reintegrated.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
+    Ashfall.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
     BTBGI Loot Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
     Bloodmoon Rebalance.ESP
-    Ashfall.ESP
         Better Music System Redone.ESP
     Distant Thunder (No Scripts).ESP
     Haunted Barrows.ESP
