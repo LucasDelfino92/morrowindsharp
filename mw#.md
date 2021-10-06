@@ -781,9 +781,9 @@ Prevents souls of summoned creatures from being trapped.
 [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
 - Check the following option in the BAIN installer:
-  - [X] 00 Core
-  - [ ] 01 BTBGI
-  - [X] 01 BTBGI No RAB
+  - [ ] 00 BTBGI
+  - [X] 00 BTBGI No RAB
+  - [X] 01 BTBGI Loot Patch
 - If you installed **MM - Enhanced Detection** earlier, also install [**MM - Enhanced Detection BTBGI Patch**](https://drive.google.com/file/d/1GGa6UJHppFDdpo_OGG1cJc6YBkETeXpG/view?usp=sharing), which tweaks spell costs, effects, and spellmaking/enchanting properties from **MM - Enhanced Detection** to align with **BTB's Game Improvements**.
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
@@ -1692,6 +1692,7 @@ Services Restored.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
+    BTBGI Loot Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
