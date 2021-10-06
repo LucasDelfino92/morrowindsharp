@@ -742,12 +742,6 @@ Allows you to drastically speed up time while a key is pressed, a more natural w
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-	
-[**Projectiles Reintegrated**](https://www.nexusmods.com/morrowind/mods/49232)  
-Increases the availability of projectiles purchasable from vendors.
-- Check the following option in the BAIN installer:
-  - [ ] 00 Hunter's Mark - A Marksman Mod Version
-  - [X] 00 Vanilla Version
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
@@ -761,8 +755,6 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 
 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
-
-> Note that because of BTB's Game Improvements below, the Patch for Purists version makes no difference to us.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
@@ -787,7 +779,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- If you've installed MM - Enhanced Detection and/or Ashfall earlier, make sure to install the respective patches from this mod's page.
+- If you've installed MM - Enhanced Detection, Realistic Repair Add-on, and/or Ashfall earlier, make sure to install the respective patches from this mod's page.
 	
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -1516,7 +1508,6 @@ Stealth Improved Fix
     Ownership Overhaul
     Pass the Time
     Area Effect Projectiles Integrated
-    Projectiles Reintegrated
     Reactive Resistance
     Realistic Movement Speeds
     Realistic Repair
@@ -1528,6 +1519,7 @@ Stealth Improved Fix
     Ashfall - A Camping Survival and Needs Mod
     BTBGI Necro Edit Tweaks
     BTBGI Enhanced Detection Patch
+    BTBGI Realistic Repair Add-on Patch
     BTBGI Ashfall Patch
     Balanced Passive Races and Birthsigns
     Beware the Sixth House (Sixth House Overhaul)
@@ -1684,12 +1676,12 @@ Services Restored.ESP
     Enhanced Light.ESP
     Morrowind Anti-Cheese.ESP
     Area Effect Projectiles Integrated.ESP
-    Projectiles Reintegrated.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
     Ashfall.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
     BTBGI Loot Patch.ESP
+    BTBGI Realistic Repair Add-on Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
@@ -2128,6 +2120,18 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>2.8.1.5 (October 6th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**BTBGI Realistic Repair Add-on Patch**](https://www.nexusmods.com/morrowind/mods/50308) (Overhauls)
+- ⚠️ [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/50308) (Overhauls): Updated download link.
+- ⚠️ [**BTBGI Enhanced Detection Patch**](https://www.nexusmods.com/morrowind/mods/50308) (Overhauls): Updated download link.
+- ⚠️ [**BTBGI Ashfall Patch**](https://www.nexusmods.com/morrowind/mods/50308) (Overhauls): Updated download link.
+- 🚫 [**Projectiles Reintegrated**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls): Removed. I personally favor [**Modern Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/50307), as it has a cleaner implementation for projectile distribution, expands on available Marksman weapons, and is perfectly compatible with Morrowind#.
+</details>
 
 <details>
   <summary>2.8.1.4 (October 6th)</summary>
