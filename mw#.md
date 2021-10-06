@@ -641,10 +641,8 @@ Prevents the player from renting beds if diseased, be it Common, Blight, or Corp
 [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)  
 Allows you to bribe NPCs with items, instead of just gold. Mercantile/Speechcraft gain experience, using the same values as traditional bribery.
 
-[**Harder Barter**](https://drive.google.com/file/d/1uKuRcF3lGuWGh0JCPQ668vuyjyAGonFI/view?usp=sharing)  
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
-
-> This edit of [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) fixes a bug with the price calculation while also being more forgiving.
 
 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299)  
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
@@ -2132,6 +2130,15 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>2.8.1.4 (October 6th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ [**BTBGI - Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls): Updated installation instructions.
+- ⚠️ [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232) (Overhauls): Updated link.
+</details>
 
 <details>
   <summary>2.8.1.3 (September 29th)</summary>
