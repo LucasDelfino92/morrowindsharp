@@ -779,7 +779,13 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- If you've installed MM - Enhanced Detection, Realistic Repair Add-on, and/or Ashfall earlier, make sure to install the respective patches from this mod's page.
+- Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Realistic Repair Add-on, and/or Ashfall earlier.
+- Check the appropiate options in the BAIN installer:
+  - [X] 00 Enhanced Detection Patch
+  - [X] 01 Realistic Repair Add-on Patch
+  - [X] 02 Ashfall Patch
+  - [ ] 03 Equipment Patch
+  - [ ] 04 OAAB BTBGI Loot Patch
 	
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
