@@ -779,13 +779,14 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Realistic Repair Add-on, and/or Ashfall earlier.
+- Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
 - Check the appropiate options in the BAIN installer:
   - [X] 00 Enhanced Detection Patch
   - [X] 01 Realistic Repair Add-on Patch
   - [X] 02 Ashfall Patch
   - [ ] 03 Equipment Patch
   - [ ] 04 OAAB BTBGI Loot Patch
+  - [X] 05 Morrowind Anti-Cheese Patch
 	
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -1680,7 +1681,6 @@ Services Restored.ESP
     FMI_ServiceRefusal_Contraband.ESP
     No Beds for the Diseased.ESP
     Enhanced Light.ESP
-    Morrowind Anti-Cheese.ESP
     Area Effect Projectiles Integrated.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
@@ -1689,6 +1689,7 @@ Services Restored.ESP
     BTBGI Loot Patch.ESP
     BTBGI Realistic Repair Add-on Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
+    Morrowind Anti-Cheese.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
     Bloodmoon Rebalance.ESP
