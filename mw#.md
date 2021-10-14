@@ -2152,6 +2152,7 @@ This update is compatible with an existing playthrough.
 - 🆕 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045) (Visuals)
 - 🆕 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?) (Visuals)
 - ⚠️ **Under Construction** (Patches): Moved to this section, as it addresses bugs and oversights.
+- ⚠️ [**BTBGI Patches**](https://www.nexusmods.com/morrowind/mods/50308) (Overhauls): Updated with Poison Crafting Patch.
 - ⚠️ **Area Effect Arrows Integrated** (Overhauls): Slightly shifted position on the guide, as we install the BTBGI-version and so it's better to install it alongside other BTBGI-related mods.
 </details>
 
