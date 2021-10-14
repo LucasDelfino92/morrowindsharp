@@ -1357,9 +1357,13 @@ Model replacer for book and scroll models.
     - [ ] 05 STA Guide-to Replacer
   - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
 
+[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045)  
+Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
+
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
 - Install the **Gold coins** main file.
+- Optionally install [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?), which gives the golden coins the Intelligent Textures treatment.
 </details>
 
 # FINISHING TOUCHES
@@ -1647,7 +1651,9 @@ Weapon Sheathing Additions
     Arukinns Better Books and Scrolls
     Melchior's Magnificent Manuscripts
     Switchable Scriptures Melchior's Magnificent Manuscripts Patch
+    OAAB Scroll Qualities
     Simple Golden Gold
+    Intelligent Textures Simple Golden Gold
 ```
 </details>
 
@@ -2143,6 +2149,8 @@ For reference, here is a list of known mods in the guide that tend to have compa
 This update is compatible with an existing playthrough.
 
 - 🆕 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) (Overhauls)
+- 🆕 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045) (Visuals)
+- 🆕 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?) (Visuals)
 - ⚠️ **Under Construction** (Patches): Moved to this section, as it addresses bugs and oversights.
 - ⚠️ **Area Effect Arrows Integrated** (Overhauls): Slightly shifted position on the guide, as we install the BTBGI-version and so it's better to install it alongside other BTBGI-related mods.
 </details>
