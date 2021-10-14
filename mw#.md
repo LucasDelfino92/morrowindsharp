@@ -148,6 +148,9 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of TESCS). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
+Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
 [**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
 Fixes UV mapping on rocks and stones.
 - Hide **meshes\f\Terrain_rock_WG_17.nif**.
@@ -694,7 +697,7 @@ Adds negative consequences to casting spells that are beyond the caster's abilit
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 - Check the following option in the BAIN installer:
-  - [X] 00 - Core﻿
+  - [X] 00 - Core
   - [ ] 01 - Cast VFX
   - [ ] 02 - Alternate VFX
   - [ ] 03 - Nvidia VFX
@@ -739,9 +742,8 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
@@ -758,6 +760,9 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 MWSE Poison Crafting Patch
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
@@ -779,17 +784,22 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
+- Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
 - Check the appropiate options in the BAIN installer:
   - [X] 00 Enhanced Detection Patch
-  - [X] 01 Realistic Repair Add-on Patch
-  - [X] 02 Ashfall Patch
-  - [ ] 03 Equipment Patch
-  - [ ] 04 OAAB BTBGI Loot Patch
-  - [X] 05 Morrowind Anti-Cheese Patch
+  - [X] 01 Poison Crafting Patch
+  - [X] 02 Realistic Repair Add-on Patch
+  - [X] 03 Ashfall Patch
+  - [X] 04 Morrowind Anti-Cheese Patch
+  - [ ] 05 Equipment Patch
+  - [ ] 06 OAAB BTBGI Loot Patch
 	
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
+An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
+- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
@@ -1224,9 +1234,6 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
 
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
-Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
-
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - Check the following options in the BAIN installer: 
@@ -1372,6 +1379,7 @@ DLC: Bloodmoon
 MGE XE Shader Pack Rev 2
 Pixel Shader Style Water for MGE XE
 Patch for Purists
+Under Construction
 Correct UV Rocks
 Rope Fence Fix
 Morrowind Optimization Patch
@@ -1514,7 +1522,7 @@ Stealth Improved Fix
     No Disease Labels
     Ownership Overhaul
     Pass the Time
-    Area Effect Projectiles Integrated
+    Poison Crafting
     Reactive Resistance
     Realistic Movement Speeds
     Realistic Repair
@@ -1529,6 +1537,7 @@ Stealth Improved Fix
     BTBGI Realistic Repair Add-on Patch
     BTBGI Ashfall Patch
     Balanced Passive Races and Birthsigns
+    Area Effect Projectiles Integrated
     Beware the Sixth House (Sixth House Overhaul)
     Tribunal Rebalance
     Bloodmoon Rebalance
@@ -1610,7 +1619,6 @@ Weapon Sheathing Additions
     Nordic Chest Replacer
     Trackless Grazeland
     Grass for Trackless Grazeland
-    Under Construction
     Vivec Palace Water Replacer
     Well Diversified
     New Horizons
@@ -1659,6 +1667,7 @@ Patch for Purists.esm
     Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
+Under Construction.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
@@ -1681,7 +1690,7 @@ Services Restored.ESP
     FMI_ServiceRefusal_Contraband.ESP
     No Beds for the Diseased.ESP
     Enhanced Light.ESP
-    Area Effect Projectiles Integrated.ESP
+    mwse_PoisonCrafting.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
     Ashfall.ESP
@@ -1689,6 +1698,7 @@ Services Restored.ESP
     BTBGI Loot Patch.ESP
     BTBGI Realistic Repair Add-on Patch.ESP
     Balanced Passive Races and Birthsigns.ESP
+    Area Effect Projectiles Integrated.ESP
     Morrowind Anti-Cheese.ESP
     Beware the Sixth House.ESP
     tribunal rebalance.ESP
@@ -1724,7 +1734,6 @@ Yet Another Guard Diversity - Regular.ESP
     Nordic Chest Replacer.ESP
     Trackless Grazeland.ESP
     Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
-    Under Construction.ESP
     Well Diversified.ESP
     bcsounds.ESP
     Dwemer blinking lights.ESP
@@ -2127,6 +2136,16 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>2.8.2 (October 14th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) (Overhauls)
+- ⚠️ **Under Construction** (Patches): Moved to this section, as it addresses bugs and oversights.
+- ⚠️ **Area Effect Arrows Integrated** (Overhauls): Slightly shifted position on the guide, as we install the BTBGI-version and so it's better to install it alongside other BTBGI-related mods.
+</details>
 
 <details>
   <summary>2.8.1.5 (October 6th)</summary>
