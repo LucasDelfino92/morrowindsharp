@@ -347,10 +347,6 @@ Renames soulgems so they'll group together in the inventory.
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
-[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
-The Warp Script for the Propylon Indices will now prompt you before teleporting.
-- Hide **Better Propylon Teleport Warp-Master Index.ESP**.
-
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
 
@@ -490,6 +486,11 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+
+[**Master Index (UMOPP Version)**](https://drive.google.com/file/d/1aBvsUnxWjyjotaOfw0tWpi0BaAsmbxEo/view?usp=sharing)  
+Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Original plugin by Bethesda, with additional fixes by PikachunoTM.
+- Also install [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
+  - Hide **Better Propylon Teleport Warp.ESP**.
 
 [**Putting Power In Willpower**](https://drive.google.com/file/d/1WIl3mkdYCYrnndjYFEEuevLKw3YlsLqQ/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
@@ -1014,14 +1015,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)  
 Reduces the water splash from **Better Waterfalls** to a more reasonable size, removes the blue light from interior canton waterfalls, and removes the clipping splashes from said waterfalls.
 
-[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
-Replaces the scum found throughout the Bitter Coast using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
-- Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [X] 01 Animated Replacer - Original Color
-  - [ ] 02 Animated Replacer - Greener Color
-  - [ ] 03 Standalone - Lougian's Meshes Fixed
-
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - Check the following options in the BAIN installer: 
@@ -1047,6 +1040,13 @@ Adds groundcover to almost all regions.
 > This will remove the plugins from your load order and ensure no mod manager enables them accidentally, as they are only meant to be handled by MGE XE during Distant Land generation, and not by Morrowind.exe during normal gameplay.
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
+
+[**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582)  
+Turns the scum mesh transparent, so you can see the water below.
+- Install only the **Scum Retexture 1.2 Alternative 1** main file, although any will do. We will be overwriting the texture anyway.
+
+[**Bitter Coast Redux I - Scum**](https://drive.google.com/file/d/1XmzjDQ9bNjmPzoSrcnb7CxII4OZ33-WM/view?usp=sharing)  
+Texture replacer for scum, from [**Bitter Coast Redux I - Landscape Textures**](https://www.nexusmods.com/morrowind/mods/45708) and color tweaked to blend in better with Remiros' Groundcover.
 
 [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
@@ -1247,7 +1247,7 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**New Horizons**](https://mw.modhistory.com/download-26-14824)  
 Edits the sky mesh to improve the distant horizon clouding.
 
-[**Bitter Coast Sounds (UMOPP)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
+[**Bitter Coast Sounds (UMOPP Version)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/)  
@@ -1268,6 +1268,13 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
 
 > This shader needs to be added to the end of the shader chain in MGE XE.
+
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals)  
+Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional replacer for the vanilla effect.
+- Check the following options in the BAIN installer: 
+  - [X] 00 Core
+  - [X] 01 Vanilla Mist Replacer
+  - [ ] 02 Scumpatibility
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -1430,7 +1437,6 @@ Magic Icons
     Propylon Index Renamer
     Soulgem Renamer
 Adamantium Ore Fix
-Better Propylon Teleport Script
 Book Pickup
 Diligent Defenders
 Easy Escort
@@ -1463,6 +1469,8 @@ Torch Hotkey
     Switchable Scriptures
 Expansion Delay
 Marksman Rebalanced
+Master Index
+Better Propylon Teleport Script
 Putting Power in Willpower
 Services Restored
 Sneaky Strike
@@ -1586,9 +1594,10 @@ Pete's Scroll 2018 ...in 2020
 Just Drop It
 Better Waterfalls
 Waterfalls Tweaks
-Bitter Coast Scum Replacer
 I Lava Good Mesh Replacer
 Remiros' Groundcover
+Scum Retexture
+Bitter Coast Redux I - Scum
 Signposts Retextured
 Glow in the Dahrk
 Project Atlas - Glow in the Dahrk - Interior Sunrays Patch
@@ -1631,6 +1640,7 @@ Weapon Sheathing Additions
     OAAB Dwemer Lightning Rods
     Flies
     Heat Haze
+    Mistify
     Shattered Stones - An Earthquake Mod
     The Dream is the Door
     Throbbing Meat - A Corprus Meat Replacer
@@ -1680,12 +1690,13 @@ Glowing Flames - NoMoreLightlessFlames v1.1.ESP
     Divayth Fyr Puzzle Fixed.ESP
     Dubdilla Location Fix.ESP
 Adamantium Ore Fix.ESP
-Better Propylon Teleport Warp.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
 The Publicans.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
 Services Restored.ESP
     Better Character Classes.ESP
     BardicInspiration.ESP
@@ -1744,6 +1755,7 @@ Yet Another Guard Diversity - Regular.ESP
     bcsounds.ESP
     Dwemer blinking lights.ESP
     Flies.ESP
+    mistify.ESP
     Shattered Stones - An Earthquake Mod.ESP
     The Dream is the Door.ESP
     Glowing Atronachs.ESP
@@ -2142,6 +2154,19 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>2.8.3 (October 17th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- 🆕 [**Master Index (UMOPP Version)**](https://drive.google.com/file/d/1aBvsUnxWjyjotaOfw0tWpi0BaAsmbxEo/view?usp=sharing) (Gameplay)
+- 🆕 [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582) (Visuals)
+- 🆕 [**Bitter Coast Redux I - Scum**](https://drive.google.com/file/d/1XmzjDQ9bNjmPzoSrcnb7CxII4OZ33-WM/view?usp=sharing) (Visuals)
+- 🆕 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals)
+- ⚠️ **Better Propylon Teleport Script** (Gameplay): Updated instructions. Now the Master Index version of the mod is required.
+- 🚫 [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291) (Visuals): Removed in favor of **Scum Retexture**.
+</details>
 
 <details>
   <summary>2.8.2 (October 14th)</summary>
