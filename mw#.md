@@ -1710,6 +1710,7 @@ Services Restored.ESP
     mwse_PoisonCrafting.ESP
     Realistic_Repair_Add-on.ESP
     Restocking Alchemy Essentials.ESP
+    Restocking Alchemy Essentials PoisonCrafting Patch.ESP
     Ashfall.ESP
     BTB's Game Improvements (Necro Edit - No RAB).ESP
     BTBGI Loot Patch.ESP
