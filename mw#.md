@@ -745,6 +745,9 @@ Allows you to drastically speed up time while a key is pressed, a more natural w
 
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
@@ -785,6 +788,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
+- Rename the mod to **BTBGI Necro Edit Tweaks**. This will install the file as its own mod.
 - Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
 - Check the appropiate options in the BAIN installer:
   - [X] 00 Enhanced Detection Patch
@@ -794,7 +798,8 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 04 Morrowind Anti-Cheese Patch
   - [ ] 05 Equipment Patch
   - [ ] 06 OAAB BTBGI Loot Patch
-	
+- Rename the mod to **BTBGI Patches**. This will install the file as its own mod.
+
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 
@@ -1545,9 +1550,7 @@ Stealth Improved Fix
     Soulless Creatures
     Ashfall - A Camping Survival and Needs Mod
     BTBGI Necro Edit Tweaks
-    BTBGI Enhanced Detection Patch
-    BTBGI Realistic Repair Add-on Patch
-    BTBGI Ashfall Patch
+    BTBGI Patches
     Balanced Passive Races and Birthsigns
     Area Effect Projectiles Integrated
     Beware the Sixth House (Sixth House Overhaul)
