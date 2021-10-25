@@ -58,6 +58,22 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 
 > Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
 
+### Installing multiple files from a same Nexus mod with Mod Organizer 2
+
+There will be times when you will be asked to install multiple files from a same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
+
+Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+
+![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
+
+What these options do is simple:
+
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod.
+- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
+- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
+
+> The guide will tell you when you need to merge, replace, or rename files.
+
 ### Manually installing mods with Mod Organizer 2
 
 Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
