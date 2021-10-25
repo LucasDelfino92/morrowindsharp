@@ -2180,6 +2180,18 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🚫 Mod has been removed from the guide.
 
 <details>
+  <summary>2.8.4 (October 25th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Added a small section explaining the use of MO2's file Replace, Merge, and Rename features.
+- Added rename instructions for certain files in order to distinguish them from other files from the same mod.
+- ⚠️ **Poison Crafting**: Added BAIN instructions.
+- ⚠️ **BTBGI Patches**: Fixed the mod order, which was using the old individual patches.
+- ⚠️ **Glow in the Dahrk**: Replaced Project Atlas with AtlAd for patching Glow in the Dahrk's meshes.
+</details>
+
+<details>
   <summary>2.8.3 (October 17th)</summary>
 
 This update is compatible with an existing playthrough.
