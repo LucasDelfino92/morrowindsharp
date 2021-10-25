@@ -72,7 +72,7 @@ What these options do is simple:
 - **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
 - **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
 
-> The guide will tell you when you need to merge, replace, or rename files.
+> The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
 
 ### Manually installing mods with Mod Organizer 2
 
@@ -242,7 +242,7 @@ Provides an in-game HUD element as the game approaches critical memory limits. A
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
 
 <details>
-	<summary>Extended Patches - Click to expand</summary>
+	<summary>Optional Patches - Click to expand</summary>
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -317,7 +317,7 @@ Replaces the effect seen on magic items in the inventory (such as scrolls and en
   - [ ] 00 Vanilla Color
 
 <details>
-	<summary>Extended User Interface - Click to expand</summary>
+	<summary>Optional User Interface - Click to expand</summary>
 
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
@@ -334,6 +334,7 @@ Adds excerpts from Yagrum Bagarn's book Tamrielic Lore to each respective artifa
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)  
 Adds helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 - Also install the **Tamrielic Lore Exclusions** optional file.
+- Rename the file to **Tooltips Complete - Tamrielic Lore Exclusions** before installing it.
 
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
@@ -362,6 +363,7 @@ Renames soulgems so they'll group together in the inventory.
 
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+- Rename the file to **Adamantium Ore Fix** before installing it.
 
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
 Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
@@ -388,6 +390,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
   - [X] 00 Core + Vanilla Meshes
   - [ ] 01 Optional - Smoothed Meshes
 - Also install **GH Patches and Replacers**.
+  - Rename the file to **Graphic Herbalism MWSE Patches and Replacers** before installing it.
   - Check the following options in the BAIN installer:
     - [ ] 00 Correct UV Ore + README
     - [ ] 01 Pherim's Replacers
@@ -457,7 +460,7 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
 
 <details>
-	<summary>Extended QOL Improvements - Click to expand</summary>
+	<summary>Optional QOL Improvements - Click to expand</summary>
 
 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)  
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
@@ -506,6 +509,7 @@ Takes into account the distance to target when calculating the hit chance for ra
 [**Master Index (UMOPP Version)**](https://drive.google.com/file/d/1aBvsUnxWjyjotaOfw0tWpi0BaAsmbxEo/view?usp=sharing)  
 Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 - Also install [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
+  - Rename the file to **Better Propylon Teleport Script** before installing it.
   - Hide **Better Propylon Teleport Warp.ESP**.
 
 [**Putting Power In Willpower**](https://drive.google.com/file/d/1WIl3mkdYCYrnndjYFEEuevLKw3YlsLqQ/view?usp=sharing)  
@@ -523,7 +527,7 @@ Modifies critical strike coefficient depending on the weapon you use.
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 <details>
-	<summary>Extended Gameplay - Click to expand</summary>
+	<summary>Optional Gameplay - Click to expand</summary>
 
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
@@ -567,7 +571,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 - Also install [**Stealth Improved Fix**](https://drive.google.com/file/d/17k7_BeXaFZES9KKHMG5MZ8EvidFK2kRu/view?usp=sharing). Fixes a bug that prevents the NPC Sneak Bonus slider from working.
 
 <details>
-	<summary>Extended Overhauls - Click to expand</summary>
+	<summary>Optional Overhauls - Click to expand</summary>
 
 [**MAB0's Foundations**](https://www.nexusmods.com/morrowind/mods/47244)  
 A lua-based framework required by MAB0's mods.
@@ -697,13 +701,15 @@ Lets the player climb onto obstacles given they are within reach. This includes 
 
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, an the in-game minimap with a compass.
-- Also install [**Map Replacements for Maps and Compass Wagner Style**](https://www.nexusmods.com/morrowind/mods/48460), which modifies these maps to have a weathered look.
-  - Check the following option in the BAIN installer:
-    - [ ] 00 Faded Maps with Color - Choose one
-    - [ ] 00 Lighter Vvardenfell Map- Choose one
-    - [X] 00 Yellowed Maps - Choose one
 
-> Note that this mod effectively renders the Detect spells useless. Another mod further ahead, MM - Enhanced Detection, circumvents this by changing how Detect spells work.
+> Note that this mod effectively renders the Detect spells useless, as these rely on the minimap to point out creatures, humanoids, and enchanted items. Another mod further ahead, **MM - Enhanced Detection**, circumvents this by changing how Detect spells work.
+
+[**Map Replacements for Maps and Compass Wagner Style**](https://www.nexusmods.com/morrowind/mods/48460)  
+Replaces the maps from **Map and Compass** to give them a more immersive look.
+- Check the following option in the BAIN installer:
+  - [ ] 00 Faded Maps with Color - Choose one
+  - [ ] 00 Lighter Vvardenfell Map- Choose one
+  - [X] 00 Yellowed Maps - Choose one
 
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes.
@@ -800,21 +806,21 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 	
 [**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
+- Rename the file to **BTBGI Necro Edit Tweaks** before installing it.
 - Check the following option in the BAIN installer:
   - [ ] 00 BTBGI
   - [X] 00 BTBGI No RAB
   - [X] 01 BTBGI Loot Patch
-- Rename the mod to **BTBGI Necro Edit Tweaks**. This will install the file as its own mod.
 - Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
-- Check the appropiate options in the BAIN installer:
-  - [X] 00 Enhanced Detection Patch
-  - [X] 01 Poison Crafting Patch
-  - [X] 02 Realistic Repair Add-on Patch
-  - [X] 03 Ashfall Patch
-  - [X] 04 Morrowind Anti-Cheese Patch
-  - [ ] 05 Equipment Patch
-  - [ ] 06 OAAB BTBGI Loot Patch
-- Rename the mod to **BTBGI Patches**. This will install the file as its own mod.
+  - Rename the file to **BTBGI Patches** before installing it.
+  - Check the appropiate options in the BAIN installer:
+    - [X] 00 Enhanced Detection Patch
+    - [X] 01 Poison Crafting Patch
+    - [X] 02 Realistic Repair Add-on Patch
+    - [X] 03 Ashfall Patch
+    - [X] 04 Morrowind Anti-Cheese Patch
+    - [ ] 05 Equipment Patch
+    - [ ] 06 OAAB BTBGI Loot Patch
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
@@ -842,25 +848,25 @@ Removes the sheep sounds from Morrowind.
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
 
 <details>
-	<summary>Extended Audio - Click to expand</summary>
+	<summary>Optional Audio - Click to expand</summary>
 
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 - Also install the **AURA 3.0 - replacer** optional file.
-- Check the following options in the BAIN installer:
-  - [X] 00 Waves
-  - [X] 01 Boat waves
-  - [X] 02 Underwater
-  - [X] 03 Rain
-  - [X] 04 Heavy Rain
-  - [X] 05 Small Waterfall
-  - [X] 06 Fire
-  - [X] 07 Jump (land)
-  - [X] 08 Barefoot
-  - [X] 09 Ashstorm loop
-  - [X] 10 Blight storm loop
-  - [X] 11 Blizzard loop
-  - [X] 12 Swimming
+  - Check the following options in the BAIN installer:
+    - [X] 00 Waves
+    - [X] 01 Boat waves
+    - [X] 02 Underwater
+    - [X] 03 Rain
+    - [X] 04 Heavy Rain
+    - [X] 05 Small Waterfall
+    - [X] 06 Fire
+    - [X] 07 Jump (land)
+    - [X] 08 Barefoot
+    - [X] 09 Ashstorm loop
+    - [X] 10 Blight storm loop
+    - [X] 11 Blizzard loop
+    - [X] 12 Swimming
 
 > On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
 
@@ -893,9 +899,11 @@ Allows you to hear the beating Heart of Lorkhan all the way to the exterior of t
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- Rename the file to **No Female Nord Screeching** before installing it.
 
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
+- Rename the file to **Outdoor Banners With Sound** before installing it.
 
 [**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
 Reduces the volume of doors and spells.
@@ -970,7 +978,7 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 <details>
-	<summary>Extended Dialogue - Click to expand</summary>
+	<summary>Optional Dialogue - Click to expand</summary>
 
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
@@ -994,13 +1002,13 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   - [X] 01 Atlas Textures
 - Also install the **AtlAd - Intelligent Textures Patch**.
   - Right-click your installed AtlAd file in the left pane, and click **Reinstall Mod**.
+  - Rename the file to **AtlAd - Intelligent Textures Patch** before installing it.
   - Check the following options in the BAIN installer:
     - [ ] 00 Core
     - [X] 01 Textures - Intelligent Textures
     - [ ] 01 Textures - Vanilla Textures
     - [ ] 02 GITD
-    - [ ] 02 GITD - Interior Sunrays 
-  - Rename the mod to **AtlAd - Intelligent Textures Patch**. This will install the patch as a separate mod.
+    - [ ] 02 GITD - Interior Sunrays
 
 [**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
@@ -1087,19 +1095,15 @@ Makes windows glow in the dark.
   - [ ] Include Tel Uvirith
   - [ ] Exclude Tel Uvirith
   - [X] None
-- Also install the **Project Atlas - Glow in the Dahrk - Interior Sunrays Patch**.
-  - Right-click your installed Project Atlas file in the left pane, and click **Reinstall Mod**.
+- Also install the **AtlAd - GITD - Interior Sunrays Patch**.
+  - Right-click your installed AtlAd file in the left pane, and click **Reinstall Mod**.
+  - Rename the file to **AtlAd - GITD - Interior Sunrays Patch** before installing it.
   - Check the following options in the BAIN installer:
     - [ ] 00 Core
-    - [ ] 10 Glow in the Dahrk Patch
-    - [X] 10 Glow in the Dahrk Patch - Interior Sunrays
-    - [ ] 20 BC Mushrooms - Normal - Glowing Bitter Coast Patch
-    - [ ] 20 BC Mushrooms - Smoothed
-    - [ ] 20 BC Mushrooms - Smoothed - Glowing Bitter Coast Patch
-    - [ ] 30 Redware - Smoothed
-    - [ ] 40 Urns - Smoothed
-    - [ ] 50 Wood Poles - Hi-Res Texture
-  - Rename the mod to **Project Atlas - Glow in the Dahrk - Interior Sunrays Patch**. This will install the patch as a separate mod.
+    - [ ] 01 Textures - Intelligent Textures
+    - [ ] 01 Textures - Vanilla Textures
+    - [X] 02 GITD
+    - [X] 02 GITD - Interior Sunrays 
 
 > Note that new window meshes added by mods will require a patch for glowing windows.
 
@@ -1171,6 +1175,7 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Also install the **Morrowind Optimization Patch - Weapon Sheathing Patch**.
   - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
+  - Rename the file to **Morrowind Optimization Patch - Weapon Sheathing Patch** before installing it.
   - Check the following option in the BAIN installer:
     - [ ] 00 Core
     - [ ] 01 Fixed Vanilla Textures
@@ -1178,7 +1183,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 03 MGE XE Addon
     - [X] 04 Weapon Sheathing Patch
     - [ ] 05 Chuzei Fix
-  - Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**. This will install the patch as a separate mod.
 - Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheated ammunition, shields, and weapons.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
@@ -1187,7 +1191,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
 <details>
-	<summary>Extended Visuals - Click to expand</summary>
+	<summary>Optional Visuals - Click to expand</summary>
 
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
@@ -1376,6 +1380,7 @@ Model replacer for book and scroll models.
   - [ ] 01 Book Jackets Patch
 - If you installed Switchable Scriptures earlier, also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
   - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
+  - Rename the file to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch** before installing it.
   - Check the following option in the BAIN installer:
     - [ ] 00 Core
     - [ ] 01 Closed Book Icons
@@ -1383,7 +1388,6 @@ Model replacer for book and scroll models.
     - [X] 03 Melchior's Magnificent Manuscripts
     - [ ] 04 MD books + RR pages & scrolls
     - [ ] 05 STA Guide-to Replacer
-  - Rename the mod to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.  This will install the patch as a separate mod.
 
 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045)  
 Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
@@ -1400,7 +1404,7 @@ Turns the vanilla green coins into golden coins. A fortunate side effect is that
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-> Indented you will find mods from the extended guide.
+> Indented you will find mods from the optional sections of the guide.
 
 <details>
 <summary>Mod order</summary>
@@ -1619,7 +1623,7 @@ Scum Retexture
 Bitter Coast Redux I - Scum
 Signposts Retextured
 Glow in the Dahrk
-Project Atlas - Glow in the Dahrk - Interior Sunrays Patch
+AtlAd - GITD - Interior Sunrays Patch
 Nords, Shut Your Windows!
 Here Comes The Sun... Glare
 Let There Be Darkness
@@ -1688,7 +1692,7 @@ Weapon Sheathing Additions
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
-> Indented you will find plugins from the extended guide.
+> Indented you will find mods from the optional sections of the guide.
 
 <details>
 <summary>Load order</summary>
@@ -1804,7 +1808,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ## MANUALLY CLEANING OUR PLUGINS
 
-> This section includes plugins from the extended guide.
+> This section includes plugins from the optional sections of the guide.
 
 Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
 
@@ -1883,18 +1887,18 @@ MGE XE's Distant Land setup should be re-run. If you followed the steps [**in th
   - [X] Rem_AI.esp
   - [X] Rem_AL.esp
   - [X] Rem_BC.esp
-  - [X] Rem_GL.esp (users of the extended guide should have Rem_GL_Trackless_GL.esp instead)
+  - [X] Rem_GL.esp (users of the optional sections of the guide should have Rem_GL_Trackless_GL.esp instead)
   - [X] Rem_Solstheim.esp
   - [X] Rem_WG.esp
 - Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-> Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland, if following the extended guide.
+> Note that because Mod Organizer 2 uses a virtual file system, the Grass folder you will be selecting includes all plugins from Remiros' Groundcover as well as that from Grass for Trackless Grazeland, if following the optional Visuals section of the guide.
 
 ## SHADER SETUP
 
-We installed a number of shaders at the beginning of Morrowind#. If you've followed the extended guide, then there are a couple of mods that install additional shaders.
+We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
@@ -1932,7 +1936,7 @@ Make it a habit to update MWSE whenever you play Morrowind, and particularly whe
 
 ## MOD CONFIG
 
-> This section includes mods from the extended guide.
+> This section includes mods from the optional sections of the guide.
 
 The following mods need to be configured using the in-game **Mod Config** menu.
 
@@ -2097,7 +2101,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 ## ADDITIONAL MCP PATCHES
 
-> This section is exclusively for followers of the extended guide.
+> This section is exclusively for followers of the optional Overhauls section of the guide.
   
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
 
@@ -2127,7 +2131,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 
 # MOD KEYBINDINGS
 
-> This section includes mods from the extended guide.
+> This section includes mods from the optional sections of the guide.
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
