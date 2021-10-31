@@ -803,13 +803,10 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 	
-[**BTBGI Necro Edit Tweaks**](https://www.nexusmods.com/morrowind/mods/50308)  
+[**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
-- Rename the file to **BTBGI Necro Edit Tweaks** before installing it.
-- Check the following option in the BAIN installer:
-  - [ ] 00 BTBGI
-  - [X] 00 BTBGI No RAB
-  - [X] 01 BTBGI Loot Patch
+- Rename the file to **BTBGI (Necro Edit) Tweaks** before installing it.
+- Hide **BTB's Game Improvements (Necro Edit).esp**.
 - Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
   - Rename the file to **BTBGI Patches** before installing it.
   - Check the appropiate options in the BAIN installer:
@@ -819,7 +816,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
     - [X] 03 Ashfall Patch
     - [X] 04 Morrowind Anti-Cheese Patch
     - [ ] 05 Equipment Patch
-    - [ ] 06 OAAB BTBGI Loot Patch
+    - [ ] 06 Weapons Integrated BTBGI Loot Patch
 
 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
 Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
