@@ -182,9 +182,8 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 00 Core
   - [X] 01 Fixed Vanilla Textures
   - [X] 02 Lake Fjalding Anti-Suck
-  - [X] 03 MGE XE Addon
-  - [ ] 04 Weapon Sheathing Patch
-  - [X] 05 Chuzei Fix
+  - [ ] 03 Weapon Sheathing Patch
+  - [X] 04 Chuzei Fix
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
@@ -1180,9 +1179,8 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 00 Core
     - [ ] 01 Fixed Vanilla Textures
     - [ ] 02 Lake Fjalding Anti-Suck
-    - [ ] 03 MGE XE Addon
-    - [X] 04 Weapon Sheathing Patch
-    - [ ] 05 Chuzei Fix
+    - [X] 03 Weapon Sheathing Patch
+    - [ ] 04 Chuzei Fix
 - Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheated ammunition, shields, and weapons.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
@@ -2137,7 +2135,7 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Y | Fast forward time | Dynamic Timescale
+Y | Fast forward time | Pass the Time
 U | Opens Quests menu | Hot Quests
 I | Opens Topics menu | Hot Quests
 K | Orders followers to attack the current target | Kill Command
