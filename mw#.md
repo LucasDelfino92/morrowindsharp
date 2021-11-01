@@ -806,7 +806,7 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 [**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
 - Rename the file to **BTBGI (Necro Edit) Tweaks** before installing it.
-- Hide **BTB's Game Improvements (Necro Edit).esp**.
+- Hide **BTB's Game Improvements (Necro Edit).esp** and **BTBGI Loot Patch - TCBOO.esp**.
 - Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
   - Rename the file to **BTBGI Patches** before installing it.
   - Check the appropiate options in the BAIN installer:
@@ -1564,7 +1564,7 @@ Stealth Improved Fix
     Smarter Soultrap
     Soulless Creatures
     Ashfall - A Camping Survival and Needs Mod
-    BTBGI Necro Edit Tweaks
+    BTBGI (Necro Edit) Tweaked
     BTBGI Patches
     Balanced Passive Races and Birthsigns
     Area Effect Projectiles Integrated
