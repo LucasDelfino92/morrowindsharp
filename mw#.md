@@ -686,6 +686,15 @@ Applies the enchanted effect to any doors or containers with traps. This effect 
 
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\config\r0_crit_config.lua** using a text editor.
+- Change the damageMultiplier to **1.2**.
+- Save your changes.
+- Open **MWSE\mods\r0\crit\main.lua** using a text editor.
+- Change the speedMult on line 21 to **1.66**.
+- Save your changes.
+
+> This drastically nerfs the Critical Strike mechanic, particularly important as many creatures and NPCs have their Luck set to 100 and could easily kill the player in a couple of hits.
 
 [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222)  
 Configurable mod that makes mental manipulation effects count as aggressions. The player will be fined if witnessed using one of these effects against an NPC that was not initially in combat.
@@ -1036,9 +1045,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
   - [X] 00 Core
   - [ ] 01 Vanilla Resolution Textures
   - [ ] 02 Tamriel Rebuilt Water
-
-[**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)  
-Reduces the water splash from **Better Waterfalls** to a more reasonable size, removes the blue light from interior canton waterfalls, and removes the clipping splashes from said waterfalls.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -1611,7 +1617,6 @@ Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
 Just Drop It
 Better Waterfalls
-Waterfalls Tweaks
 I Lava Good Mesh Replacer
 Remiros' Groundcover
 Scum Retexture
@@ -1757,7 +1762,6 @@ LDM - Context Matters 1.5.ESP
     Its a deal.ESP
     outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
-Waterfalls Tweaks.ESP
 PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
@@ -2085,10 +2089,12 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 - Disable **Change map mode on cell change?**.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
+- (Optional) Set **Always reset filters when opening menu?** to No.
 
 ### Watch the Skies
 
 - Set the chance for vanilla cloud textures to 10%.
+- (Optional) Set **Enable seasonal daytime hours?** to No.
 
 > The following instructions are exclusively for users of **Creeping Blight**.
 
@@ -2173,6 +2179,16 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>2.8.5 (November 3rd)</summary>
+
+This update is compatible with an existing playthrough.
+
+- ⚠️ **Mod Config**: Added optional additional instructions to UI Expansion and Watch the Skies.
+- ⚠️ **Lucky Strike - A Critical Hit Mod**: Added instructions to edit the lua file.
+- 🚫 [**Waterfall Tweaks**](https://www.nexusmods.com/morrowind/mods/46271): No longer necessary ever since Better Waterfalls was updated to reduce mist size.
+</details>
 
 <details>
   <summary>2.8.4 (October 25th)</summary>
