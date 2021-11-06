@@ -1883,10 +1883,6 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 
 - Set **Current consumption module** to Vanilla NPC Style (Necro Edit).
 
-### Enchanted Weapon Resistance
-
-- Disable **Block enchantment if weapon has no effect**.
-
 ### Essential Indicators
 
 General Settings
@@ -1909,13 +1905,6 @@ Crosshair Settings
 
 - Set **Skill Experience per Magicka** to 0.0667.
 - Set **Logging** to No.
-
-### Mantle of Ascension
-
-- Disable **Train Acrobatics**.
-- Disable **Train Athletics**.
-
-> This will ensure climbing increases the mod's own Climbing skill.
 
 ### Map and Compass
 
