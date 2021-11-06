@@ -2000,7 +2000,6 @@ Game mechanics | Hidden traps | Turns off the display of trap status on object t
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** benefits from the use of this patch.
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** benefits from the use of this patch.
-Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
 
 ## CLOSING COMMENTS
 
