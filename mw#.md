@@ -1864,12 +1864,6 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 - Disable **Potion Hydrate**.
 - Under **Mod values**, set **Tiredness Rate** to 45.
 
-### CCCP
-
-> The following instructions are exclusively for users of **MWSE State-Based Health**.
-
-- Under the **Health Settings** tab, disable **Manage health**.
-
 ### Clock Block
 
 - Set **Clock type** to Game time.
