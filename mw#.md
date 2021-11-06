@@ -60,7 +60,7 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 
 ### Installing multiple files from a same Nexus mod with Mod Organizer 2
 
-There will be times when you will be asked to install multiple files from a same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
+There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
 
 Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
@@ -76,7 +76,7 @@ What these options do is simple:
 
 ### Manually installing mods with Mod Organizer 2
 
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. In other occasions, you will download a mod from a different site altogether.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On other occasions, you will download a mod from a different site altogether.
 
 - Download your file.
 - In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
@@ -124,14 +124,14 @@ Whenever you encounter this scenario, just do as I've shown above.
 
 In this case, the mod contains loose files, and you will have to create a folder to drop them in.
 
-Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of drag and dropping your files inside.
+Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of dragging and dropping your files inside.
 
 - Right-click on **data files**.
 - Click **Create directory...**.
 - Enter the name of the folder you want to create, and click **OK**.
 - The message will tell you the content of data files looks valid.
 
-Whenever you encounter this scenario, I'll tell you which folders you have to create and what files do you have to move.
+Whenever you encounter this scenario, I'll tell you which folders you have to create and what files you have to move.
 
 ### Creating a separator
 
@@ -162,7 +162,7 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 # PATCHES
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
-Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of TESCS). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
+Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
@@ -297,7 +297,7 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 Expands UI functionality with searching, filtering, and more visual feedback.
 
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
-Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
+Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
@@ -514,7 +514,7 @@ Adds a new quest to find all ten Propylon Indices. The quest can be started by t
 [**Putting Power In Willpower**](https://drive.google.com/file/d/1WIl3mkdYCYrnndjYFEEuevLKw3YlsLqQ/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
-> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevented NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
+> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevents NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
@@ -594,7 +594,7 @@ A lua-based framework for creating new, fully functional magic effects.
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
-> Though *not* a framework, it is very much recommend if you want to run Better Character Classes, BTB's Game Improvements, or Balanced Passsive Races and Birthsigns. Without Nimble Armor, the class and race edits done by any of these mods can lead to NPCs going unarmored.
+> Though *not* a framework, it is very much recommended if you want to run Better Character Classes, BTB's Game Improvements, or Balanced Passive Races and Birthsigns. Without Nimble Armor, the class and race edits done by any of these mods can lead to NPCs going unarmored.
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code.
@@ -625,7 +625,7 @@ Prevents you from sleeping in owned beds unless the owner really likes you. Atte
 Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete. Now includes MWSE version.
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 - Install the **Creeping Blight - MWSE Version** main file.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
@@ -671,7 +671,7 @@ Dynamically adjusts how much merchants will pay for items. Items worth more than
 Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.
 
 [**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191)  
-Limits conditions under which player can rest, wait and regenerate health.
+Limits conditions under which the player can rest, wait and regenerate health.
 
 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544)  
 Adds in lock-bashing, allowing you to break open locks with physical attacks.
@@ -708,7 +708,7 @@ Lets the player climb onto obstacles given they are within reach. This includes 
 > While this mod is somewhat buggy in its implementation and would have thus not made this list, I found it so enjoyable I simply had to include it. You be the judge.
 
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
-Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, an the in-game minimap with a compass.
+Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
 > Note that this mod effectively renders the Detect spells useless, as these rely on the minimap to point out creatures, humanoids, and enchanted items. Another mod further ahead, **MM - Enhanced Detection**, circumvents this by changing how Detect spells work.
 
@@ -756,7 +756,7 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 Adds the ability to control spell projectiles while in flight after casting a spell or enchantment, by moving your cursor.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some the biggest exploits and balance issues in the game.
+Fixes some of the biggest exploits and balance issues in the game.
 
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732)  
 Prevents you from accessing your inventory menu, as well as preventing looting containers/corpses, while you are in combat. 
@@ -783,7 +783,7 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
@@ -813,12 +813,12 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 	
 [**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, nchantments, GMSTs, and faction requirements. 
+Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
 - Rename the file to **BTBGI (Necro Edit) Tweaks** before installing it.
 - Hide **BTB's Game Improvements (Necro Edit).esp** and **BTBGI Loot Patch - TCBOO.esp**.
 - Also install the **BTBGI Patches** file if you've installed MM - Enhanced Detection, Poison Crafting, Realistic Repair Add-on, Ashfall, and/or Morrowind Anti-Cheese earlier.
   - Rename the file to **BTBGI Patches** before installing it.
-  - Check the appropiate options in the BAIN installer:
+  - Check the appropriate options in the BAIN installer:
     - [X] 00 Enhanced Detection Patch
     - [X] 01 Poison Crafting Patch
     - [X] 02 Realistic Repair Add-on Patch
@@ -956,7 +956,7 @@ Customizable music overhaul which adds new music tracks, area-specific ambiance,
 ## OPTION 2
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
-Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods.
+Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 - Also install [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing), which addresses a handful of bugs with the mod and makes a set of additional changes.
   - Check the following option in the BAIN installer:
     - [ ] Bugfix
@@ -1023,7 +1023,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 - Only install the **kart_facelift_meshes** main file.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
-Replaces most of original book arts with hi-res images redrawn from scratch.
+Replaces most of the original book arts with hi-res images redrawn from scratch.
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
@@ -1130,7 +1130,7 @@ Configurable mod for automatic adjustment of lighting, including override values
 > This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
-Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
@@ -1184,7 +1184,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
     - [ ] 02 Lake Fjalding Anti-Suck
     - [X] 03 Weapon Sheathing Patch
     - [ ] 04 Chuzei Fix
-- Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheated ammunition, shields, and weapons.
+- Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheathed ammunition, shields, and weapons.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
 
@@ -1847,7 +1847,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - tes3cmd will now generate the multipatch. After the process is over, click **OK**.
 - **multipatch.esp** will now be present at the end of your load order.
 
-**TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks like: TES3Merge will merge both changes into a single plugin.
+**TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks: TES3Merge will merge both changes into a single plugin.
 
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
@@ -1859,7 +1859,7 @@ When uninstalling or modifying plugins in an on-going save, Morrowind will greet
 The currently selected master files and plugins do not match the ones used by this save game. 
 Errors may occur during load or game play. Do you wish to continue?
 ```
-To fix this, we have to synchronize our save's plugins to our current load order. In addition, we will also want to repair our save to fix any potential left over issues from updating it. To do this, we will use **Wrye Mash**.
+To fix this, we have to synchronize our save's plugins to our current load order. In addition, we will also want to repair our save to fix any potential leftover issues from updating it. To do this, we will use **Wrye Mash**.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
@@ -1867,14 +1867,14 @@ To fix this, we have to synchronize our save's plugins to our current load order
 - Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
 - Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
 - Click on the **Save** button further below the same panel.
-- Right click on the save you just updated, and click on **Repair All**. Wrye Mash will repair your savefile.
+- Right click on the save you just updated, and click on **Repair All**. Wrye Mash will repair your save file.
 - You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
 You do not need to repeat this process for each of your outdated saves, but just the ones you are planning to load.
 
 ## RE-RUNNING DISTANT LAND
 
-MGE XE's Distant Land setup should be re-run. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
+MGE XE's Distant Land setup should be rerun. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -2030,7 +2030,7 @@ Crosshair Settings
 
 - In the **mapsWagner** tab, enable each of the three maps (Solstheim, Vvardenfell, Mournhold).
 
-> This will enable the realistic world maps. You can choose which one to display by opening your map and clicking on the selection dropdown menu, which at the time of install should display **No Map**. You can disable this **Selection Dropdown** menu in the mod's Mod Config menu. 
+> This will enable realistic world maps. You can choose which one to display by opening your map and clicking on the selection dropdown menu, which at the time of install should display **No Map**. You can disable this **Selection Dropdown** menu in the mod's Mod Config menu. 
 
 ### MetaBarj0's manipulated
 
