@@ -1209,9 +1209,6 @@ Edits the sky mesh to improve the distant horizon clouding.
 [**Bitter Coast Sounds (UMOPP Version)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
-[**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/)  
-Lights in Dwemer ruins will occasionally blink. 
-
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
 - Check the following options in the BAIN installer: 
@@ -1576,7 +1573,6 @@ Weapon Sheathing Additions
     Well Diversified
     New Horizons
     Bitter Coast Sounds (UMOPP)
-    Dwemer Blinking Lights
     OAAB Dwemer Lightning Rods
     Flies
     Heat Haze
@@ -1686,7 +1682,6 @@ Yet Another Guard Diversity - Regular.ESP
     Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
     Well Diversified.ESP
     bcsounds.ESP
-    Dwemer blinking lights.ESP
     Flies.ESP
     mistify.ESP
     Shattered Stones - An Earthquake Mod.ESP
@@ -2081,6 +2076,7 @@ This update is not compatible with an existing playthrough.
 - 🚫 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215): Breaks established lore as the game acknowledges the possibility of capturing summoned creatures' souls.
 - 🚫 [**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308): Makes or breaks the guide according to many, including myself, hence its removal.
 - 🚫 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782): Intended as an add-on to the above, no point with it gone.
+- 🚫 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/): Should have been removed a few updates ago.
 
 <details>
   <summary>2.8.5 (November 3rd)</summary>
