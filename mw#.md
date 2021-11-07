@@ -499,6 +499,12 @@ Lets you open or close any book or scroll in the game.
 
 # GAMEPLAY
 
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop.
 - Hide all plugins except **Area Effect Arrows Integrated.ESP**.
@@ -517,6 +523,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632)  
+Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
 
 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
 Makes the default character classes a bit more balanced and better.
@@ -546,6 +555,12 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 
 > This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevents NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
 
+[**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
+Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 MWSE Poison Crafting Patch
+
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use.
 
@@ -566,10 +581,10 @@ The radius of a hand-held light will gradually diminish and eventually go out wh
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
-	
-[**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540)  
-Provides a random factor to the sun damage calculation.
 
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+	
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 </details>
@@ -577,12 +592,6 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 # OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110)  
 A leveling mod that implements most features of Galsiah's Character Development.
@@ -599,6 +608,9 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
 
+[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)  
+Removes "Diseased", "Blighted", and similar adjectives from creature names.
+
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - Hide **Ownership Overhaul.ESP**.
@@ -609,6 +621,9 @@ Allows you to drastically speed up time while a key is pressed, a more natural w
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 - Also install [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing). Fixes a bug that could cause crashing.
+
+[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
+Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
@@ -629,7 +644,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code.
 
-> This framework is a pre-requisite for **Ashfall*.
+> This framework is a pre-requisite for **Ashfall**.
 
 [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
@@ -641,9 +656,6 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 <details>
 	<summary>Optional Overhauls - Click to expand</summary>
-
-[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632)  
-Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.	
 
 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)  
 Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
@@ -695,7 +707,7 @@ Configurable mod that makes mental manipulation effects count as aggressions. Th
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
-> Note that this mod effectively renders the Detect spells useless, as these rely on the minimap to point out creatures, humanoids, and enchanted items. Another mod further ahead, **MM - Enhanced Detection**, circumvents this by changing how Detect spells work.
+> Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
 
 [**Map Replacements for Maps and Compass Wagner Style**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
@@ -727,7 +739,7 @@ Adds negative consequences to casting spells that are beyond the caster's abilit
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 - Check the following option in the BAIN installer:
   - [X] 00 - Core
-  - [ ] 01 - Cast VFX
+  - [X] 01 - Cast VFX
   - [ ] 02 - Alternate VFX
   - [ ] 03 - Nvidia VFX
 
@@ -761,20 +773,17 @@ Adds the ability to control spell projectiles while in flight after casting a sp
 
 > Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
 
-[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)  
-Removes "Diseased", "Blighted", and similar adjectives from creature names.
-
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - Check the following option in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Labelled Potions
-
-[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
-Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+- Also install the **Restocking Alchemy Essentials - Poison Crafting Patch**.
+  - Right-click your installed Restocking Alchemy Essentials file in the left pane, and click **Reinstall Mod**.
+  - Rename the file to **Restocking Alchemy Essentials - Poison Crafting Patch** before installing it.
+  - Check the following option in the BAIN installer:
+    - [ ] 00 Core
+    - [x] 01 MWSE Poison Crafting Patch
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
@@ -782,12 +791,6 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 
 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
-
-[**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
-Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
@@ -1203,9 +1206,6 @@ Replaces the water in the Palace of Vivec's canals.
 [**Well Diversified**](https://drive.google.com/file/d/12BBB0Sc_c_C3taYi3PN5i4lta2YV4-sG/view?usp=sharing)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 
-[**New Horizons**](https://mw.modhistory.com/download-26-14824)  
-Edits the sky mesh to improve the distant horizon clouding.
-
 [**Bitter Coast Sounds (UMOPP Version)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
 
@@ -1261,12 +1261,6 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - [ ] static
 
 > This mod is meant to be used in tandem with Visually Filled Soul Gems, as Assetless No Glow will remove the magic glow from every other object in the game.
-
-[**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473)  
-Adds lights to the three types of Atronach so that they glow and light up their surroundings. 
-
-[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291)  
-Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible.
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
@@ -1423,12 +1417,15 @@ Torch Hotkey
     Quick Loadouts
     Randomised Chargen
     Switchable Scriptures
+Expansion Delay
+Early Transport to Mournhold
 Area Effect Arrows Integrated
 Master Index
 Better Propylon Teleport Script
 FMI - Hospitality Papers Expanded
 Services Restored
 The Publicans
+Bed Buddies
 Better Character Classes
 Borrowed Time
 Hold Your Breath
@@ -1443,18 +1440,20 @@ Wings of Will
     Drop Light
     Light Decay
     No Beds for the Diseased
-    Realistic Sun Damage
+    Realistic Movement Speeds
     Wading in Water MW
-Expansion Delay
-Early Transport to Mournhold
 Class-Conscious Character Progression (CCCP)
 Class Skill Limit
 Controlled Consumption
 Dungeons Rest
 Harder Barter
+No Disease Labels
 Ownership Overhaul
+Pass the Time
 Pickpocket
 Pickpocket Fix
+Reactive Resistance
+Restocking Alchemy Essentials
 Stealth Improved
 Stealth Improved Fix
 Morrowind Anti-Cheese
@@ -1463,8 +1462,6 @@ Tribunal Rebalance
 Bloodmoon Rebalance
 Skills Module
 Ashfall - A Camping Survival and Needs Mod
-    Bardic Inspiration
-    Bed Buddies
     Blight Is Coming
     Creeping Blight
     Brutal Backstabbing
@@ -1485,14 +1482,10 @@ Ashfall - A Camping Survival and Needs Mod
     MM - Enhanced Invisibility
     MM - Enhanced Telekinesis
     MM - Homing Projectiles
-    No Disease Labels
-    Pass the Time
     Poison Crafting
-    Reactive Resistance
-    Realistic Movement Speeds
+    Restocking Alchemy Essentials - Poison Crafting Patch
     Realistic Repair
     Realistic Repair Add-on
-    Restocking Alchemy Essentials
     Silver Tongue
 Sheep-no-More
 Shut the Fuck up Cliff Racers
@@ -1571,7 +1564,6 @@ Weapon Sheathing Additions
     Grass for Trackless Grazeland
     Vivec Palace Water Replacer
     Well Diversified
-    New Horizons
     Bitter Coast Sounds (UMOPP)
     OAAB Dwemer Lightning Rods
     Flies
@@ -1583,8 +1575,6 @@ Weapon Sheathing Additions
     Unto Dust
     Visually Filled Soul Gems
     Subtle Magic Glow
-    Glowing Atronachs 1.01
-    Luminous VFX Atronachs
     Incarnates Overhauled
     Better Fitted Female Armors
     Properly Fitted Female Pants
@@ -1629,6 +1619,8 @@ Adamantium Ore Fix.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
 Quick Char (Necro Edit).ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
@@ -1637,8 +1629,7 @@ Services Restored.ESP
 The Publicans.ESP
 Better Character Classes.ESP
     No Beds for the Diseased.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
+Restocking Alchemy Essentials.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -1648,9 +1639,8 @@ Ashfall.ESP
     FMI_ServiceRefusal_Contraband.ESP
     Enhanced Light.ESP
     mwse_PoisonCrafting.ESP
-    Realistic_Repair_Add-on.ESP
-    Restocking Alchemy Essentials.ESP
     Restocking Alchemy Essentials PoisonCrafting Patch.ESP
+    Realistic_Repair_Add-on.ESP
     Distant Thunder (No Scripts).ESP
     Haunted Barrows.ESP
     RFD_Heartthrum.ESP
@@ -1686,7 +1676,6 @@ Yet Another Guard Diversity - Regular.ESP
     mistify.ESP
     Shattered Stones - An Earthquake Mod.ESP
     The Dream is the Door.ESP
-    Glowing Atronachs.ESP
     Incarnates Overhauled.ESP
     Alex's Better Fitted Female Armors.ESP
     FemalePants.ESP
@@ -2052,6 +2041,20 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.1 (November 7th)</summary>
+
+This update is compatible with an existing playthrough.
+
+- Fixed mod order and plugin order, as they had mods/plugins listed from mods which had already been removed from the guide.
+- **Gameplay**: Added a few more mods from the **Overhauls** section here.
+- **Overhauls**: Moved a few more optional mods into the main section. This should make the difference between the main and optoinal mods much clearer than before.
+- 🚫 [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540): Vampire players are a minority, and I doubt this is the mod they are looking for.
+- 🚫 [**New Horizons**](https://mw.modhistory.com/download-26-14824): Distant horizon clouding is pretty much not noticable when using lighting shaders.
+- 🚫 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473): Would bug out, causing Atronachs to stop emitting light.
+- 🚫 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291): It was included to pair with the above, which has been removed.
+</details>
 
 <details>
   <summary>3.0 (November 6th)</summary>
