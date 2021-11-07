@@ -110,7 +110,7 @@ In lieu of mod authors not fixing their mods themselves, there are two ways to f
 
 The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
 
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData1.png)
+![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles.png)
 
 In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
@@ -120,7 +120,7 @@ In this case, the mod contains a **Data Files** folder and a loose **.txt** file
 
 Whenever you encounter this scenario, just do as I've shown above.
 
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_FixingData2.png)
+![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles2.png)
 
 In this case, the mod contains loose files, and you will have to create a folder to drop them in.
 
