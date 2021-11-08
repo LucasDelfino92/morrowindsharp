@@ -1256,8 +1256,8 @@ Makes in-world soulgems that are filled appear as enchanted items.
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - Check the following options in the BAIN installer:
-  - [ ] fade
-  - [X] faint
+  - [X] fade
+  - [ ] faint
   - [ ] static
 
 > This mod is meant to be used in tandem with Visually Filled Soul Gems, as Assetless No Glow will remove the magic glow from every other object in the game.
