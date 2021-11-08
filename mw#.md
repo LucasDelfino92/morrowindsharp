@@ -2036,7 +2036,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 <details>
   <summary>3.0.1 (November 7th)</summary>
 
-This update is compatible with an existing playthrough.
+The removal of **Better Character Classes** is not compatible with an existing playthrough.
 
 - Fixed mod order and plugin order, as they had mods/plugins listed from mods which had already been removed from the guide.
 - **Gameplay**: Added a few more mods from the **Overhauls** section here.
