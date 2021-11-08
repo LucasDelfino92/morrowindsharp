@@ -1799,11 +1799,9 @@ Underwater Effects
 Sunshafts
 Special Process
 Eye Adaptation (HDR)
-Cinematic Bokeh DoF
 Lens Effects
 heathaze
 r0_qk_shaker
-Cinematic_Black_Bars
 ```
 - Click **Save** after setting up your shader chain.
 
