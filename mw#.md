@@ -327,13 +327,8 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969)  
 Displays skills taught by Skillbooks.
 
-[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954)  
-Adds excerpts from Yagrum Bagarn's book Tamrielic Lore to each respective artifact. 
-
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)  
 Adds helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
-- Also install the **Tamrielic Lore Exclusions** optional file.
-- Rename the file to **Tooltips Complete - Tamrielic Lore Exclusions** before installing it.
 
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
@@ -651,18 +646,8 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 <details>
 	<summary>Optional Overhauls - Click to expand</summary>
 
-[**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649)  
-Corprus Beasts will now have a chance to spawn during blight storms, as hinted in in-game dialogue.
-
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-- Install the **Creeping Blight - MWSE Version** main file.
-
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
-
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal, implementing new mechanics related to trading and crime regarding certain items.
 
 [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)  
 Allows you to bribe NPCs with items, instead of just gold. Mercantile/Speechcraft gain experience, using the same values as traditional bribery.
@@ -762,11 +747,6 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 
 > Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
 
-[**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403)  
-Adds the ability to control spell projectiles while in flight after casting a spell or enchantment, by moving your cursor.
-
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - Check the following option in the BAIN installer:
@@ -859,9 +839,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 [**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
 Reduces the volume of doors and spells.
 
-[**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371)  
-Assassin class NPCs will be 10 times less likely to grunt or taunt you in combat.
-
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)  
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
 
@@ -873,9 +850,6 @@ Vanilla-friendly replacer of each vanilla spell sound.
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)  
 Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
-
-[**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603)  
-Makes Miner class NPCs cough.
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
 Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
@@ -1370,9 +1344,7 @@ Magic Icons
     Book Worm
     Class Description Tooltip
     Tooltip
-    Tamrielic Lore Tooltips
     Tooltips Complete
-    Tooltips Complete - Tamrielic Lore Exclusions
     Character Creation Name Generator
     Clock Block
     HUD Weapon Charge
@@ -1454,10 +1426,7 @@ Tribunal Rebalance
 Bloodmoon Rebalance
 Skills Module
 Ashfall - A Camping Survival and Needs Mod
-    Blight Is Coming
-    Creeping Blight
     Brutal Backstabbing
-    FMI - Service Refusal and Contraband
     Give a Gift
     Lua Lockbashing
     Locks and Traps Detection
@@ -1473,7 +1442,6 @@ Ashfall - A Camping Survival and Needs Mod
     MM - Enhanced Light
     MM - Enhanced Invisibility
     MM - Enhanced Telekinesis
-    MM - Homing Projectiles
     Poison Crafting
     Restocking Alchemy Essentials - Poison Crafting Patch
     Realistic Repair
@@ -1490,12 +1458,10 @@ Shut the Fuck up Cliff Racers
     No Female Nord Screeching
     Outdoor Banners With Sound
     Quieter Doors and Spells
-    Silent Assassins
     Sound Spell Sound Effect
     Sounds of Souls
     Spell Sounds Enhanced
     Store Entrance Chimes
-    Tunnel Cough
     Water Sounds
     MUSE 2 - Morrowind Music System Extended
     MUSE 2.02 Necro Edit
@@ -1626,8 +1592,6 @@ Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Ashfall.ESP
-    Blight Is Coming.ESP
-    FMI_ServiceRefusal_Contraband.ESP
     Enhanced Light.ESP
     mwse_PoisonCrafting.ESP
     Restocking Alchemy Essentials PoisonCrafting Patch.ESP
@@ -1637,10 +1601,8 @@ Ashfall.ESP
     RFD_Heartthrum.ESP
     Outdoor Banners With Sound.ESP
     Quieter Doors and Spells.ESP
-    Silent Assassins.ESP
     SoundSpellSoundEffect.ESP
     Store Entrance Chimes - Alt Ver.ESP
-    Tunnel Cough.ESP
 Great Service.ESP
 Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
@@ -1947,10 +1909,7 @@ Please bear in mind that your game *may* crash when configuring this mod. That s
 
 - Set the chance for vanilla cloud textures to 10%.
 - (Optional) Set **Enable seasonal daytime hours?** to No.
-
-> The following instructions are exclusively for users of **Creeping Blight**.
-
-- Set **Enable seasonal weather?** to No.
+- (Optional) Set **Enable seasonal weather?** to No.
 
 ## ADDITIONAL MCP PATCHES
 
@@ -2030,6 +1989,20 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.2 (November 8th)</summary>
+
+- ⚠️ **Tooltips Complete**: Removed instructions for Tamrielic Lore Tooltips users.
+- ⚠️ **Watch the Skies** Removed instructions for Creeping Blight users.
+- 🚫 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954): Removed as its addition was more annoying than fun.
+- 🚫 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649): Removed as its addition was more annoying than fun.
+- 🚫 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904): Removed in favor of Watch the Skies' own blight storm mechanic.
+- 🚫 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456): Removed as its addition was more annoying than fun.
+- 🚫 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403): Removed as its addition was barely noticeable.
+- 🚫 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371): Removed as its addition was barely noticeable.
+- 🚫 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603): Removed as its addition was barely noticeable.
+</details>
 
 <details>
   <summary>3.0.1 (November 7th)</summary>
