@@ -1219,7 +1219,7 @@ Adds a configurable heat haze shader with region and weather conditions selectab
 
 > This shader needs to be added to the end of the shader chain in MGE XE.
 
-[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) (Visuals)  
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional replacer for the vanilla effect.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
