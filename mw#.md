@@ -524,12 +524,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632)  
-Prevents you from sleeping in owned beds unless the owner really likes you. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
-Makes the default character classes a bit more balanced and better.
-
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
@@ -1012,8 +1006,8 @@ Adds groundcover to almost all regions.
 Turns the scum mesh transparent, so you can see the water below.
 - Install only the **Scum Retexture 1.2 Alternative 1** main file, although any will do. We will be overwriting the texture anyway.
 
-[**Bitter Coast Redux I - Scum**](https://drive.google.com/file/d/1XmzjDQ9bNjmPzoSrcnb7CxII4OZ33-WM/view?usp=sharing)  
-Texture replacer for scum, from [**Bitter Coast Redux I - Landscape Textures**](https://www.nexusmods.com/morrowind/mods/45708) and color tweaked to blend in better with Remiros' Groundcover.
+[**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802  
+Scummier scum texture for Lougian's Scum Retexture mod.
 
 [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
@@ -1425,8 +1419,6 @@ Better Propylon Teleport Script
 FMI - Hospitality Papers Expanded
 Services Restored
 The Publicans
-Bed Buddies
-Better Character Classes
 Borrowed Time
 Hold Your Breath
 Lucky Loot
@@ -1527,7 +1519,7 @@ Better Waterfalls
 I Lava Good Mesh Replacer
 Remiros' Groundcover
 Scum Retexture
-Bitter Coast Redux I - Scum
+Scummy Scum
 Signposts Retextured
 Glow in the Dahrk
 AtlAd - GITD - Interior Sunrays Patch
@@ -2050,6 +2042,9 @@ This update is compatible with an existing playthrough.
 - Fixed mod order and plugin order, as they had mods/plugins listed from mods which had already been removed from the guide.
 - **Gameplay**: Added a few more mods from the **Overhauls** section here.
 - **Overhauls**: Moved a few more optional mods into the main section. This should make the difference between the main and optoinal mods much clearer than before.
+- 🆕 [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802): Replaces Bitter Coast Redux's scum texture.
+- 🚫 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632): It somewhat cheapens inns and Ashfall.
+- 🚫 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078): Its changes affect not only the player, but also NPCs designed with the classes' vanilla attributes and skills in mind.
 - 🚫 [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540): Vampire players are a minority, and I doubt this is the mod they are looking for.
 - 🚫 [**New Horizons**](https://mw.modhistory.com/download-26-14824): Distant horizon clouding is pretty much not noticable when using lighting shaders.
 - 🚫 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473): Would bug out, causing Atronachs to stop emitting light.
@@ -2057,7 +2052,7 @@ This update is compatible with an existing playthrough.
 </details>
 
 <details>
-  <summary>3.0 (November 6th)</summary>
+  <summary>3.0 (November 6th) and older</summary>
 
 This update is not compatible with an existing playthrough.
 
