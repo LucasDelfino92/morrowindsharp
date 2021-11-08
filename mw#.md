@@ -1006,7 +1006,7 @@ Adds groundcover to almost all regions.
 Turns the scum mesh transparent, so you can see the water below.
 - Install only the **Scum Retexture 1.2 Alternative 1** main file, although any will do. We will be overwriting the texture anyway.
 
-[**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802  
+[**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802)  
 Scummier scum texture for Lougian's Scum Retexture mod.
 
 [**Signposts Retextured**](https://www.nexusmods.com/morrowind/mods/42126)  
