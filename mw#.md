@@ -1052,6 +1052,9 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [ ] 05 IT Vanilla sky texture replacer 1k
   - [X] 05 IT Vanilla sky texture replacer 2k
 
+[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
+Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 - Also install my [**Weather Adjuster Preset**](https://drive.google.com/file/d/1fbQSqIMJrEHYak8yG0xAyTjyaiFwsggF/view?usp=sharing), which makes for darker nights and less horrible fog.
@@ -1495,6 +1498,7 @@ Let There Be Darkness
 The Midnight Oil
 Transporter Lights
 Watch the Skies
+Dying Worlds - Moons Retexture
 Weather Adjuster
 Weather Adjuster Preset
 Assetless No Glow
@@ -1993,6 +1997,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 <details>
   <summary>3.0.2 (November 8th)</summary>
 
+- 🆕 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)
 - ⚠️ **Tooltips Complete**: Removed instructions for Tamrielic Lore Tooltips users.
 - ⚠️ **Watch the Skies** Removed instructions for Creeping Blight users.
 - 🚫 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954): Removed as its addition was more annoying than fun.
