@@ -1619,7 +1619,6 @@ Better Propylon Teleport Warp-Master Index.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
 Services Restored.ESP
 The Publicans.ESP
-Better Character Classes.ESP
     No Beds for the Diseased.ESP
 Restocking Alchemy Essentials.ESP
 Morrowind Anti-Cheese.ESP
