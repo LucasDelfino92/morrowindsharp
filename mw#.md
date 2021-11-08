@@ -1244,9 +1244,6 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
   - [X] 01 Default Dust
   - [ ] 01 Denser Dust
 
-[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709)  
-Makes in-world soulgems that are filled appear as enchanted items.
-
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - Check the following options in the BAIN installer:
@@ -1255,6 +1252,9 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
   - [ ] static
 
 > This mod is meant to be used in tandem with Visually Filled Soul Gems, as Assetless No Glow will remove the magic glow from every other object in the game.
+
+[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709)  
+Makes in-world soulgems that are filled appear as enchanted items.
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
 Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
@@ -1314,7 +1314,7 @@ Uses the new scroll models in OAAB_Data to automatically replace the models and 
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
 - Install the **Gold coins** main file.
-- Optionally install [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?), which gives the golden coins the Intelligent Textures treatment.
+- (Optional) Also install [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?), which gives Simple Golden Gold the Intelligent Textures treatment.
 </details>
 
 # FINISHING TOUCHES
@@ -1534,7 +1534,6 @@ Weather Adjuster Preset
 Assetless No Glow
 Mist Retexture
 Subtle Smoke
-Silt Strider Animation Restored
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
 Weapon Sheathing
@@ -1565,9 +1564,10 @@ Weapon Sheathing Additions
     The Dream is the Door
     Throbbing Meat - A Corprus Meat Replacer
     Unto Dust
-    Visually Filled Soul Gems
     Subtle Magic Glow
+    Visually Filled Soul Gems
     Incarnates Overhauled
+    Silt Strider Animation Restored
     Better Fitted Female Armors
     Properly Fitted Female Pants
     Complete Armor Joints
@@ -1652,7 +1652,6 @@ Better_Typography_Bookarts_Fix.ESP
 PB_SignpostsRetextured.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
-Silt Strider Animation Restored.ESP
 Yet Another Guard Diversity - Regular.ESP
     Mournhold LOD.ESP
     OAAB Dwemer Pavements.ESP
@@ -1668,6 +1667,7 @@ Yet Another Guard Diversity - Regular.ESP
     Shattered Stones - An Earthquake Mod.ESP
     The Dream is the Door.ESP
     Incarnates Overhauled.ESP
+    Silt Strider Animation Restored.ESP
     Alex's Better Fitted Female Armors.ESP
     FemalePants.ESP
     Complete Armor Joints.ESP
