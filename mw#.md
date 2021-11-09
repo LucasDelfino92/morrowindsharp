@@ -534,11 +534,6 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-> This mod is very much recommended if you want to run **Better Character Classes**. Without Nimble Armor, the class and race edits done by this mod can lead to NPCs going unarmored, which in certain cases means going nude.
-
 [**Putting Power In Willpower**](https://drive.google.com/file/d/1WIl3mkdYCYrnndjYFEEuevLKw3YlsLqQ/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
@@ -596,6 +591,9 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
+
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)  
 Removes "Diseased", "Blighted", and similar adjectives from creature names.
@@ -1399,7 +1397,6 @@ Hold Your Breath
 Lucky Loot
 Magicka Based Skill Progression
 Marksman Rebalanced
-Nimble Armor
 Putting Power in Willpower
 Sneaky Strike
 Useful Bound Armor
@@ -1414,6 +1411,7 @@ Class Skill Limit
 Controlled Consumption
 Dungeons Rest
 Harder Barter
+Nimble Armor
 No Disease Labels
 Ownership Overhaul
 Pass the Time
