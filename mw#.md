@@ -959,9 +959,12 @@ Replaces all the lava meshes in the vanilla game. Removes alpha blending from la
 Adds groundcover to almost all regions.
 - Install the **Remiros' Groundcover** main file.
 - Check the following options in the BAIN installer: 
-  - [X] 00 Core
-  - [ ] 01a No Mushrooms
-  - [X] 01b Thicker Grass
+  - [X] 00 Core MGE XE
+  - [ ] 00 Core OpenMW
+  - [X] 01a No Mushrooms MGE XE
+  - [ ] 01a No Mushrooms OpenMW
+  - [ ] 01b Thicker Grass MGE XE
+  - [ ] 01b Thicker Grass OpenMW
   - [ ] 02 Vanilla Resolution Textures
   - [ ] 03 TR Plugins
   - [ ] 04 TR Preview Plugins
