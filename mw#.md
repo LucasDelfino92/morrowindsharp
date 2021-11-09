@@ -1896,6 +1896,7 @@ Crosshair Settings
 
 ### Tooltips Complete
 
+- Enable **Show Tooltips Only in Menus**.
 - Disable **Show Key Tooltips**.
 
 > This disables the key tooltips, which can be spoilery.
