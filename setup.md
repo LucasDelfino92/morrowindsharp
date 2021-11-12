@@ -300,11 +300,11 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 
 ## TES3View, TES3Merge, TESAME
 
-[**TES3View**](https://drive.google.com/file/d/1EWixc_jahvJZb0AKBfHv8Gi4ozDSNrie/view?usp=sharing)  
+[**TES3View**](https://drive.google.com/file/d/1r1IzfCNH-mGYp_Q1-IeRpMg5SKQnm52u/view?usp=sharing)  
 Used to see the structure of mods and detect conflicts.
 - Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
-> The version I'm hosting can be downloaded from [**xEdit's Discord**](https://discordapp.com/invite/5t8RnNQ) under **xedit-builds**, called **xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL.7z**. Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind.
+> The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
