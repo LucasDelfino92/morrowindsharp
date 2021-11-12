@@ -59,7 +59,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 - Manually download the **MCP beta** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update the Morrowind Code Patch to version **2.5beta16**.
+> This will update the Morrowind Code Patch to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 
 ## Setup
 
@@ -201,6 +201,9 @@ Morrowind# will be the profile we'll be modding. You can always revert to the **
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
+**Windowed mode**
+- Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
+
 **Options**
 - Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
 
@@ -285,6 +288,7 @@ It's time to finally run Morrowind.
 - Once the game has finished loading, click **Options** and click the **Video** tab.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
+- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 
 > If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
