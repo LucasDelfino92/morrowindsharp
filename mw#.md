@@ -40,7 +40,7 @@ The file structure is how files are organized for the game to read and use them.
 
 Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-> Morrowind# features no mods that use BSA files. But if you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
+> Morrowind# features no mods that use BSA files. But if you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button. Alternatively, you can use Wrye Mash to register BSA files. Simply launch Wrye Mash from MO2, go to the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
 
 ## MOD ORGANIZER 2 TIPS
 
@@ -442,11 +442,6 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
-[**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717)  
-Updated **abot\lib.lua** common file used by some of abot's mods.
-
-> If you've installed any of abot's Smart Journal or Smart Ammo mods, you must install this file and load it after those, allowing it to override their outdated lib.lua file.
-
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
@@ -458,9 +453,6 @@ Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the firs
 
 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)  
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
-
-[**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976)  
-Adds hotkeys for journal Quests and Topics.
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
@@ -534,10 +526,10 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Putting Power In Willpower**](https://drive.google.com/file/d/1WIl3mkdYCYrnndjYFEEuevLKw3YlsLqQ/view?usp=sharing)  
+[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1VBIrkT2R7Uog2aTReMPFvx2fjRC3s2S6/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
-> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevents NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **opiter09**.
+> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevents NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **Necrolesian**.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
@@ -837,9 +829,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 [**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
 Reduces the volume of doors and spells.
 
-[**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300)  
-With this plugin the player can hear an actual noise when he's under the effects of the Sound magic.
-
 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657)  
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it.
 
@@ -861,8 +850,8 @@ This category is recommended for a second playthrough and thus its mods should b
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 - Also install [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing), which addresses a handful of bugs with the mod and makes a set of additional changes.
   - Check the following option in the BAIN installer:
-    - [ ] Bugfix
-    - [X] Necro Edit
+    - [X] Bugfix
+    - [ ] Necro Edit
 
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
 Customizable music overhaul which adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
@@ -1376,11 +1365,9 @@ Right Click Menu Exit
 Security Enhanced
 Shrine Tooltips
 Smart Ammo
-MWSEabotlib
 Smarter Soultrap
 Torch Hotkey
     Better Buoyancy
-    Hot Quests
     Kill Command
     No Auto Vanity Camera
     Quick Char (Timescale6 Edit)
@@ -1462,7 +1449,6 @@ Shut the Fuck up Cliff Racers
     No Female Nord Screeching
     Outdoor Banners With Sound
     Quieter Doors and Spells
-    Sound Spell Sound Effect
     Sounds of Souls
     Spell Sounds Enhanced
     Store Entrance Chimes
@@ -1606,7 +1592,6 @@ Ashfall.ESP
     RFD_Heartthrum.ESP
     Outdoor Banners With Sound.ESP
     Quieter Doors and Spells.ESP
-    SoundSpellSoundEffect.ESP
     Store Entrance Chimes - Alt Ver.ESP
 Great Service.ESP
 Idle Talk.ESP
@@ -1772,7 +1757,7 @@ r0_qk_shaker
 ```
 - Click **Save** after setting up your shader chain.
 
-> Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process**, **Cinematic Bokeh DoF**, and **Cinematic_Black_Bars**, tend to be divisive.
+> Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
 ## UPDATING MWSE
 
@@ -1866,7 +1851,7 @@ Crosshair Settings
 - Enable **Allow negative Resist Bonus**.
 
 ### Quick Equip
-- Set **Assign Keybind for Equipping Items** to Q.
+- Set **Assign Keybind for Equipping Items** to E.
 
 ### Security Enhanced
 
@@ -1904,8 +1889,6 @@ Crosshair Settings
 
 ### UI Expansion
 
-Please bear in mind that your game *may* crash when configuring this mod. That said, whatever changes you made will persist after launching the game again.
-
 - Disable **Change map mode on cell change?**.
 - (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
 - (Optional) Set **Use search bars?** to No.
@@ -1930,8 +1913,7 @@ Category | Patch | Description
 Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
-Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Class-Conscious Character Progression** benefits from the use of this patch.
-Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Class-Conscious Character Progression** benefits from the use of this patch.
+Game mechanics | Skill uncap | Allows levelling of player skills past 100. Enable this option if you'd like **Class-Conscious Character Progression** to be more similar to **Galsiah's Character Development** (the mod CCCP is based on).
 
 ## CLOSING COMMENTS
 
@@ -1955,8 +1937,6 @@ This is a handy reference table which will hopefully help you have a better idea
 Key | Function | Added by
 ------------ | ------------- | -------------
 Y | Fast forward time | Pass the Time
-U | Opens Quests menu | Hot Quests
-I | Opens Topics menu | Hot Quests
 K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
@@ -1966,9 +1946,9 @@ Ctrl+Y | Turbo fast forward time | Pass the Time
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Shift+Q | Equips/unequips item in inventory | Quick Equip
-Shift+Q | Use potion/ingredient in inventory | Quick Equip
-Shift+Left Click | Activates/deactivates placed/static light sources | The Midnight Oil
+Shift+E | Equips/unequips item in inventory | Quick Equip
+Shift+E | Use potion/ingredient in inventory | Quick Equip
+Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # ACKNOWLEDGMENTS
 
@@ -1995,6 +1975,16 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.3 (November 12th)</summary>
+
+- ⚠️ [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1VBIrkT2R7Uog2aTReMPFvx2fjRC3s2S6/view?usp=sharing): Updated download link. Fix contributed by **Necrolesian**.
+- ⚠️ **MUSE 2.02 - Necro Edit**: Updated BAIN installation instructions.
+- 🚫 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300): Removed as Patch for Purists should already include this fix.
+- 🚫 [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717): Removed as only **Smart Ammo** uses that file, and it is up to date.
+- 🚫 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976): Removed as it doesn't work well with **Better Questlist** (bringing up the quest list through the hotkeys doesn't include player filters).
+</details>
 
 <details>
   <summary>3.0.2 (November 8th)</summary>
