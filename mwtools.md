@@ -34,7 +34,7 @@ There are two ways to clean plugins using tes3cmd. We will look at both of them.
 - In the **Mods** tab, use SHIFT+left click to select the plugins you want to clean.
 - Right-click on any of the highlighted plugins, and click **Clean with tes3cmd**. After the process is over, close the window.
 
-There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) records edits. In Morrowind#, only one such mod exists: **Patch for Purists**. Should you accidentally clean one of the plugins from Patch for Purists, reinstall the mod.
+There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) records edits. In Morrowind#, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
 
 > Note that if you reinstall a mod with a dirty plugin, its plugin will be dirty again. You will have to repeat the cleaning process for this specific plugin.
 
