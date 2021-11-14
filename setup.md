@@ -81,20 +81,20 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
-[**abot Distant Static Overrides - Necro Edit**](https://drive.google.com/file/d/17G2uTaOjDJ9gUBwwIKZRtfvNWY5bZMXK/view?usp=sharing)  
+[**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
 **Necrolesian**'s own edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-- Extract the contents of the file to your Morrowind **Root** directory, overwriting when prompted.
+- Extract the contents of the necro_distant_statics_override folder to your Morrowind **Root** directory, overwriting when prompted.
 
 This file contemplates the following scenarios (in the order in which they appear in the file) which affect the landscape of Morrowind:
 
-- The completion of the Main Quest (:: MAIN QUEST).
-- The completion of Bloodmoon's Main Quest (:: BLOODMOON MAIN QUEST).
-- The progress and completion of Boethiah's Daedric Quest (:: BOETHIAH'S QUEST).
-- The completion of the Siege at Firemoth official plugin (:: FIREMOTH).
-- The completion of Raven Rock's construction (:: RAVEN ROCK).
-- The completion of the construction of each Great House Stronghold (:: GREAT HOUSE STRONGHOLDS).
+- The completion of the Main Quest.
+- The completion of Bloodmoon's Main Quest.
+- The progress and completion of Boethiah's Daedric Quest.
+- The completion of the Siege at Firemoth official plugin.
+- The completion of the construction of each Great House Stronghold.
+- The completion of Raven Rock's construction.
 
-Using this file is simpler than it appears. When the time comes that you encounter any of those scenarios, simply look up the codes written between parenthesis (as seen above) on Morrowind\mge3\necro_distant_statics_override.ovr. Open the file in a text editor, and uncomment (by removing the ":" at the beginning of the line) and comment (by adding a ":" at the beginning of the line) the appropiate lines under each header.
+Using this mod is simpler than it appears. The Readme goes well in depth about using these overrides, so you should definitely give it a read.
 
 # Mod Organizer 2
 
