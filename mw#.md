@@ -1751,7 +1751,6 @@ Underwater Effects
 Sunshafts
 Special Process
 Eye Adaptation (HDR)
-Lens Effects
 heathaze
 r0_qk_shaker
 ```
