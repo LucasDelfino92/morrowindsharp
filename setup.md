@@ -83,7 +83,7 @@ Because Morrowind wasn't designed with distant land in mind, certain in-game sce
 
 [**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
 **Necrolesian**'s own edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-- Extract the contents of the necro_distant_statics_override folder to your Morrowind **Root** directory, overwriting when prompted.
+- Extract the contents of the necro_distant_statics_override folder to your Morrowind\mge3 directory, overwriting when prompted.
 
 This file contemplates the following scenarios (in the order in which they appear in the file) which affect the landscape of Morrowind:
 
