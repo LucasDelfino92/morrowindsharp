@@ -303,6 +303,20 @@ Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 OAAB Scroll Qualities
 Simple Golden Gold
 Intelligent Textures Simple Golden Gold
+BTBGI (Necro Edit) Tweaked and Patches
+Economy Adjuster Adjustments
+Enchanted Weapon Resistance
+Complete and Revised Dreugh Armor
+Complete and Revised Imperial Studded Leather Armor
+Complete and Revised Nordic Iron Armor
+Concept Art Daedric Helmets
+Redoran War Armor and Sathil Mercenary Equipment
+Sathil Mercenary Armor
+Redoran War Armor
+Complete and Revised Vanilla Equipment Integrated
+Oriental Ebony Weapons
+Oriental Ebony Weapons Integrated
+OAAB Weapons Integrated
 ```
 </details>
 
@@ -342,6 +356,11 @@ Services Restored.ESP
 The Publicans.ESP
 No Beds for the Diseased.ESP
 Restocking Alchemy Essentials.ESP
+BTB's Game Improvements (Necro Edit - No RAB) Tweaked.ESP
+Balanced Passive Races and Birthsigns Tweaked.ESP
+Area Effect Projectiles Integrated.ESP
+EcoAdjCrime (Necro Edit).ESP
+Morrowind Anti-Cheese Tweaked.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -351,6 +370,7 @@ Enhanced Light.ESP
 mwse_PoisonCrafting.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
 Realistic_Repair_Add-on.ESP
+BTBGI Realistic Repair Add-on Patch.ESP
 Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
@@ -387,8 +407,17 @@ Silt Strider Animation Restored.ESP
 Alex's Better Fitted Female Armors.ESP
 FemalePants.ESP
 Complete Armor Joints.ESP
+Complete and Revised Vanilla Equipment Integrated.ESP
+Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
+Redoran War and Sathil Mercenary Armor Integrated.ESP
+Oriental Ebony Weapons Integrated.ESP
+OAAB Weapons Integrated.ESP
+OAAB Weapons Integrated TB Patch.ESP
+OAAB Weapons Integrated YAGD Patch.ESP
 multipatch.ESP
 Merged Objects.ESP
+BTB's Game Improvements (Necro Edit) Tweaked Add-on.ESP
+Weapons Integrated BTBGI Loot Patch.ESP
 ```
 </details>
 
