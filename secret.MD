@@ -6,6 +6,24 @@ The guide presented here assumes you have already followed all instructions foun
 
 ## BTBGI AND RELATED MODS
 
+[**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
+Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
+- Rename the file to **BTBGI (Necro Edit) Tweaked and Patches** before installing it.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Loot Patch
+  - [ ] 01 Loot Patch + TCBOO
+  - [X] 01 Loot Patch + Weapons Integrated
+  - [ ] 01 Loot Patch + Weapons Integrated + TCBOO
+  - [X] 02 MM - Enhanced Detection Patch
+  - [X] 03 Poison Crafting Patch
+  - [X] 04 Realistic Repair Add-on Patch
+  - [X] 05 Morrowind Anti-Cheese Tweaked
+  - [X] 06 Balanced Passive Races and Birthsigns Tweaked 
+- Hide **BTB's Game Improvements (Necro Edit) Tweaked.esp**.
+
+> Morrowind# recommends the standard Morrowind Anti-Cheese This guide recommends the tweaked, BTBGI-compatible plugin instead.
+
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
@@ -18,24 +36,6 @@ Increases the penalties for crime.
 
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
-
-[**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
-- Rename the file to **BTBGI (Necro Edit) Tweaks** before installing it.
-- Hide **BTB's Game Improvements (Necro Edit).esp** and **BTBGI Loot Patch - TCBOO.esp**.
-- Also install **BTBGI Patches**.
-  - Rename the file to **BTBGI Patches** before installing it.
-  - Check the appropriate options in the BAIN installer:
-    - [X] 00 Enhanced Detection Patch
-    - [X] 01 Poison Crafting Patch
-    - [X] 02 Realistic Repair Add-on Patch
-    - [X] 03 Ashfall Patch
-    - [X] 04 Morrowind Anti-Cheese Patch
-    - [ ] 05 Equipment Patch
-    - [X] 06 Weapons Integrated BTBGI Loot Patch
-
-[**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782)  
-Rebalance of races and birthsigns, based on BTB's Game Improvements, with permanent abilities in place of powers or spells.
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks﻿**.
