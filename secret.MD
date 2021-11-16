@@ -55,9 +55,15 @@ Completes the Nordic Iron Armor set. Also contains slightly improved versions of
 Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
 - Hide **Concept Art Daedric Helms.ESP**.
 
-[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks**.
-- Hide **OAAB Weapons Integrated - TCBOO.esp**.
+[**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
+Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+- Hide both .ESPs.
+
+[**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
+Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
+
+[**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
+Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
 
 [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
 Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
@@ -66,6 +72,10 @@ Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered throu
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
+
+[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks**.
+- Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 # FINISHING TOUCHES
 
