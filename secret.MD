@@ -37,8 +37,24 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
+[**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
+Remake of the Tamriel Rebuilt complete Dreugh Armor. Also contains slightly improved versions of the vanilla Dreugh Armor pieces.
+- Hide **Complete dreugh armor.ESP**.
+
+[**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
+Completes the Imperial Studded Leather Armor set. Also gives the vanilla cuirass a minor makeover.
+- Hide **Complete and Revised Studded leather v 1.5.ESP**.
+
+[**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
+Completes the Nordic Iron Armor set. Also contains slightly improved versions of the vanilla Nordic Iron pieces.
+- Hide **Complete Nordic Iron.ESP**.
+
+[**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
+Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+- Hide **Concept Art Daedric Helms.ESP**.
+
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks﻿**.
+Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks**.
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
@@ -310,10 +326,11 @@ Complete and Revised Dreugh Armor
 Complete and Revised Imperial Studded Leather Armor
 Complete and Revised Nordic Iron Armor
 Concept Art Daedric Helmets
+Complete and Revised Vanilla Equipment Integrated
 Redoran War Armor and Sathil Mercenary Equipment
 Sathil Mercenary Armor
 Redoran War Armor
-Complete and Revised Vanilla Equipment Integrated
+Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons
 Oriental Ebony Weapons Integrated
 OAAB Weapons Integrated
