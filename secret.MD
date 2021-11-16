@@ -84,10 +84,10 @@ Thrown Projectiles Revamped
 Divayth Fyr Puzzle Fixed
 Dubdilla Location Fix
 Consistent Enchanting
-    Quest Skill Reward Fix
-    Skill Increase GMST Fix
-    Better Scamps
-    Correct UV Mudcrabs
+Quest Skill Reward Fix
+Skill Increase GMST Fix
+Better Scamps
+Correct UV Mudcrabs
 Better Readable Beauty Font
 Better Daedric Font
 Title Screen Reworked
@@ -99,17 +99,17 @@ Better Questlist
 Companion Health Bars
 Continue
 Magic Icons
-    Book Worm
-    Class Description Tooltip
-    Tooltip
-    Tooltips Complete
-    Character Creation Name Generator
-    Clock Block
-    HUD Weapon Charge
-    Smart Journal
-    Consistent Keys
-    Propylon Index Renamer
-    Soulgem Renamer
+Book Worm
+Class Description Tooltip
+Tooltip
+Tooltips Complete
+Character Creation Name Generator
+Clock Block
+HUD Weapon Charge
+Smart Journal
+Consistent Keys
+Propylon Index Renamer
+Soulgem Renamer
 Adamantium Ore Fix
 Book Pickup
 Diligent Defenders
@@ -132,13 +132,13 @@ Shrine Tooltips
 Smart Ammo
 Smarter Soultrap
 Torch Hotkey
-    Better Buoyancy
-    Kill Command
-    No Auto Vanity Camera
-    Quick Char (Timescale6 Edit)
-    Quick Loadouts
-    Randomised Chargen
-    Switchable Scriptures
+Better Buoyancy
+Kill Command
+No Auto Vanity Camera
+Quick Char (Timescale6 Edit)
+Quick Loadouts
+Randomised Chargen
+Switchable Scriptures
 Expansion Delay
 Early Transport to Mournhold
 Area Effect Arrows Integrated
@@ -156,11 +156,11 @@ Putting Power in Willpower
 Sneaky Strike
 Useful Bound Armor
 Wings of Will
-    Drop Light
-    Light Decay
-    No Beds for the Diseased
-    Realistic Movement Speeds
-    Wading in Water MW
+Drop Light
+Light Decay
+No Beds for the Diseased
+Realistic Movement Speeds
+Wading in Water MW
 Class-Conscious Character Progression (CCCP)
 Class Skill Limit
 Controlled Consumption
@@ -181,15 +181,15 @@ Tribunal Rebalance
 Bloodmoon Rebalance
 Skills Module
 Ashfall - A Camping Survival and Needs Mod
-    Brutal Backstabbing
-    Give a Gift
-    Lua Lockbashing
-    Locks and Traps Detection
-    Visually Trapped Objects
-    Lucky Strike - A Critical Hit Mod
-    MAB0's Foundations
-    MAB0's Manipulated
-    Map and Compass
+Brutal Backstabbing
+Give a Gift
+Lua Lockbashing
+Locks and Traps Detection
+Visually Trapped Objects
+Lucky Strike - A Critical Hit Mod
+MAB0's Foundations
+MAB0's Manipulated
+Map and Compass
 Map Replacements for Maps and Compass Wagner Style
 Magicka Expanded
 Miscast Enhanced
