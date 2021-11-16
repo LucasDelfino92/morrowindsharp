@@ -261,7 +261,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
   - Check **Use lists of statics overriding parameters set above**.
   - Click **Edit list**.
     - Click **Add**.
-    - Navigate to your **Morrowind\mge3** folder, and double-click **necro_distant_statics_override.ovr**.
+    - Navigate to your **Morrowind\mge3** folder, and double-click **00_main.ovr**.
     - Click **Save**.
   - Click **Create Statics**.
 - Once the statics have been created, click **Finish**.
