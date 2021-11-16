@@ -71,6 +71,12 @@ Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced mod
 Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
 - Hide **Oriental Ebony Weapon.esp**.
 
+[**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
+
+[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of Redoran War Armor from Ashstaar. Also fixes journal issues with the armor's quest.
+
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
@@ -340,12 +346,12 @@ Complete and Revised Dreugh Armor
 Complete and Revised Imperial Studded Leather Armor
 Complete and Revised Nordic Iron Armor
 Concept Art Daedric Helmets
-Complete and Revised Vanilla Equipment Integrated
 Redoran War Armor and Sathil Mercenary Equipment
 Sathil Mercenary Armor
 Redoran War Armor
-Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons
+Complete and Revised Vanilla Equipment Integrated
+Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons Integrated
 OAAB Weapons Integrated
 ```
