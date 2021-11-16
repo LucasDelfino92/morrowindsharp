@@ -39,6 +39,8 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
+## EXPANDED VANILLA EQUIPMENT
+
 [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
 Remake of the Tamriel Rebuilt complete Dreugh Armor. Also contains slightly improved versions of the vanilla Dreugh Armor pieces.
 - Hide **Complete dreugh armor.ESP**.
