@@ -154,7 +154,7 @@ A compilation of a handful of community-made shaders.
   - [X] 00 Core
   - [X] 01 Cloud Movement Shader
 
-> Note that the Cloud Movement shader can be slightly buggy at times, which is why it was placed as a separate option in case you want to reinstall the pack and play without it.
+> Note that the Cloud Movement shader can be slightly buggy at times, distorting clouds in a strange way and even causing distortion on the moons, which is why it was placed as a separate option in case you want to reinstall the pack and play without it.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
@@ -326,9 +326,6 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 
 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969)  
 Displays skills taught by Skillbooks.
-
-[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)  
-Adds helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
@@ -1343,7 +1340,6 @@ Magic Icons
     Book Worm
     Class Description Tooltip
     Tooltip
-    Tooltips Complete
     Character Creation Name Generator
     Clock Block
     HUD Weapon Charge
@@ -1885,13 +1881,6 @@ Crosshair Settings
 
 > This disables the somewhat buggy experimental light-based stealth.
 
-### Tooltips Complete
-
-- Enable **Show Tooltips Only in Menus**.
-- Disable **Show Key Tooltips**.
-
-> This disables the key tooltips, which can be spoilery.
-
 ### UI Expansion
 
 - Disable **Change map mode on cell change?**.
@@ -1980,6 +1969,12 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.4 (November 17th)</summary>
+
+- 🚫 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): Removed because even though I think tooltips are nice, it can cause your inventory to get really cluttered and makes it harder to compare items than it should be.
+</details>
 
 <details>
   <summary>3.0.3 (November 12th)</summary>
