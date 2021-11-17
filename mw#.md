@@ -758,6 +758,12 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **MWSE\mods\silverTongue\main.lua** using a text editor.
+- Change all instances of 192 to 166.
+- Save your changes.
+
+> This stops the dialogue box's width from being resized whenever you enter dialogue, which caused text to be cut off until you manually resized the window.
 </details>
 
 # AUDIO
