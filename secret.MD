@@ -90,14 +90,14 @@ Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered throu
 Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
 
 [**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of Redoran War Armor from Ashstaar. Also fixes journal issues with the armor's quest.
+Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
 
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from **Tamrielic Tomahawks**.
+Integrates **OAAB_Data** weapons into the game. Also includes the tomahawks from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 # FINISHING TOUCHES
