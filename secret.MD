@@ -466,7 +466,7 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 - Disable **Show Potion Tooltips**.
 - Disable **Show Scroll Tooltips**.
 
-> This disables the key tooltips which can be spoilery, as well as potion and scroll tooltips that may be rendered incorrect from the use of mods such as **BTB's Game Improvements**.
+> This disables the key tooltips which can be spoilery, as well as potion and scroll tooltips that may be rendered incorrect from the use of **BTB's Game Improvements**.
 
 ## ADDITIONAL MCP PATCHES
 
