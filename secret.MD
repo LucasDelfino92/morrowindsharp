@@ -22,12 +22,8 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 04 Realistic Repair Add-on Patch
   - [X] 05 Morrowind Anti-Cheese Tweaked
   - [X] 06 Balanced Passive Races and Birthsigns Tweaked 
-- Hide **BTB's Game Improvements (Necro Edit) Tweaked.esp**.
 
 > Morrowind# recommends the standard Morrowind Anti-Cheese This guide recommends the tweaked, BTBGI-compatible plugin instead.
-
-**BTBGI (Necro Edit) Tweaked Add-on**
-Work in progress tweaks for BTBGI (Necro Edit) Tweaked. Ask for it in [**Discord**](https://discord.com/channels/210394599246659585/892773143830200360).
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -456,7 +452,6 @@ OAAB Weapons Integrated TB Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
 multipatch.ESP
 Merged Objects.ESP
-BTB's Game Improvements (Necro Edit) Tweaked Add-on.ESP
 Weapons Integrated BTBGI Loot Patch.ESP
 ```
 </details>
