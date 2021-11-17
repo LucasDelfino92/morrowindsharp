@@ -21,7 +21,8 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 03 Poison Crafting Patch
   - [X] 04 Realistic Repair Add-on Patch
   - [X] 05 Morrowind Anti-Cheese Tweaked
-  - [X] 06 Balanced Passive Races and Birthsigns Tweaked 
+  - [X] 06 Balanced Passive Races and Birthsigns Tweaked
+  - [ ] 07 OAAB Creature Loot Patch
 
 > Morrowind# recommends the standard Morrowind Anti-Cheese This guide recommends the tweaked, BTBGI-compatible plugin instead.
 
