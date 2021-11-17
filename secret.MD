@@ -35,8 +35,12 @@ An alternative version of the official plugin **Area Effect Arrows** that distri
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
 
+> BTB designed BTB's Game Improvements with this mod in mind, while Necrolesian made additional adjustments to it.
+
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
+
+> BTB designed BTB's Game Improvements with this idea in mind.
 
 ## EXPANDED VANILLA EQUIPMENT
 
@@ -44,21 +48,31 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 Remake of the Tamriel Rebuilt complete Dreugh Armor. Also contains slightly improved versions of the vanilla Dreugh Armor pieces.
 - Hide **Complete dreugh armor.ESP**.
 
+> We will install a merged plugin shortly after.
+
 [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
 Completes the Imperial Studded Leather Armor set. Also gives the vanilla cuirass a minor makeover.
 - Hide **Complete and Revised Studded leather v 1.5.ESP**.
+
+> We will install a merged plugin shortly after.
 
 [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
 Completes the Nordic Iron Armor set. Also contains slightly improved versions of the vanilla Nordic Iron pieces.
 - Hide **Complete Nordic Iron.ESP**.
 
+> We will install a merged plugin shortly after.
+
 [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
 Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
 - Hide **Concept Art Daedric Helms.ESP**.
 
+> We will install a merged plugin shortly after.
+
 [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
 Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
 - Hide **both .ESPs**.
+
+> We will install an improved plugin shortly after.
 
 [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
 Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
@@ -69,6 +83,8 @@ Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced mod
 [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
 Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
 - Hide **Oriental Ebony Weapon.esp**.
+
+> We will install an improved plugin shortly after.
 
 [**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
