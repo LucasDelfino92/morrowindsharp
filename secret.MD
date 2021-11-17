@@ -58,7 +58,7 @@ Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
 
 [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
 Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
-- Hide both .ESPs.
+- Hide **both .ESPs**.
 
 [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
 Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
