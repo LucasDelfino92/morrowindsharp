@@ -181,9 +181,11 @@ Greatly improves performance and fixes some mesh errors.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Lake Fjalding Anti-Suck
-  - [ ] 02 Weapon Sheathing Patch
+  - [X] 02 Weapon Sheathing Patch
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
+
+> We will install **Weapon Sheathing** in the **Visuals** section.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
@@ -207,10 +209,12 @@ Unofficial add-on to Project Atlas which seeks to maintain parity with the Morro
 - From the extracted archive, select all folders and the README.md and create a new archive called **AtlAd**. If successful, when installing this archive you should be prompted to install it as a BAIN installer in MO2.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
-  - [ ] 01 Textures - Intelligent Textures
-  - [X] 01 Textures - Vanilla Textures
-  - [ ] 02 GITD
-  - [ ] 02 GITD - Interior Sunrays 
+  - [X] 01 Textures - Intelligent Textures
+  - [ ] 01 Textures - Vanilla Textures
+  - [X] 02 GITD
+  - [X] 02 GITD - Interior Sunrays 
+
+> We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
@@ -476,9 +480,11 @@ Lets you open or close any book or scroll in the game.
   - [X] 00 Core
   - [X] 01 Closed Book Icons
   - [ ] 02 MD books + Illy's Dirty Books
-  - [ ] 03 Melchior's Magnificent Manuscripts
+  - [X] 03 Melchior's Magnificent Manuscripts
   - [ ] 04 MD books + RR pages & scrolls
   - [ ] 05 STA Guide-to Replacer
+
+> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section.
 </details>
 
 # GAMEPLAY
@@ -899,15 +905,6 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Atlas Textures
-- Also install the **AtlAd - Intelligent Textures Patch**.
-  - Right-click your installed AtlAd file in the left pane, and click **Reinstall Mod**.
-  - Rename the file to **AtlAd - Intelligent Textures Patch** before installing it.
-  - Check the following options in the BAIN installer:
-    - [ ] 00 Core
-    - [X] 01 Textures - Intelligent Textures
-    - [ ] 01 Textures - Vanilla Textures
-    - [ ] 02 GITD
-    - [ ] 02 GITD - Interior Sunrays
 
 [**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
@@ -983,7 +980,7 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 > A vanilla-faithful but low-resolution signpost replacer is [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957), also compatible with this guide.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
-Makes windows glow in the dark.
+Makes vanilla windows glow in the dark.
 - Check the following options in the FOMOD installer:
   - [X] Interior Sunrays
   - [X] Nord Glass Windows
@@ -994,17 +991,6 @@ Makes windows glow in the dark.
   - [ ] Include Tel Uvirith
   - [ ] Exclude Tel Uvirith
   - [X] None
-- Also install the **AtlAd - GITD - Interior Sunrays Patch**.
-  - Right-click your installed AtlAd file in the left pane, and click **Reinstall Mod**.
-  - Rename the file to **AtlAd - GITD - Interior Sunrays Patch** before installing it.
-  - Check the following options in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 01 Textures - Intelligent Textures
-    - [ ] 01 Textures - Vanilla Textures
-    - [X] 02 GITD
-    - [X] 02 GITD - Interior Sunrays 
-
-> Note that new window meshes added by mods will require a patch for glowing windows.
 
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
 Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
@@ -1075,21 +1061,11 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Also install the **Morrowind Optimization Patch - Weapon Sheathing Patch**.
-  - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
-  - Rename the file to **Morrowind Optimization Patch - Weapon Sheathing Patch** before installing it.
-  - Check the following option in the BAIN installer:
-  - [ ] 00 Core
-  - [ ] 01 Lake Fjalding Anti-Suck
-  - [X] 02 Weapon Sheathing Patch
-  - [ ] 03 Chuzei Fix
-  - [ ] 04 Better Vanilla Textures
 - Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheathed ammunition, shields, and weapons.
-
+- Also install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473). Tweaks bows so that they line up better with the sheathing animation.
+- Also install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616). Adds sheaths to weapons not covered by Weapon Sheathing.
+	
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
-
-[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
-Adds sheaths to weapons not covered by Weapon Sheathing.
 
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
@@ -1251,9 +1227,6 @@ Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink fem
 Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
 - Also install [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://drive.google.com/file/d/1mOKQq8hj2eOBDn7fJIpzWJoqbG8JPmHS/view?usp=sharing). Solves a compatibility issue with Improved Thrown Weapon Projectiles, which caused projectiles stuck on surfaces to be facing backwards.
 
-[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
-Tweaks bows so that they line up better with the sheathing animation.
-
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
@@ -1267,16 +1240,6 @@ Model replacer for book and scroll models.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 01 Book Jackets Patch
-- If you installed Switchable Scriptures earlier, also install the **Switchable Scriptures Melchior's Magnificent Manuscripts Patch**.
-  - Right-click your installed Switchable Scriptures file in the left pane, and click **Reinstall mod**.
-  - Rename the file to **Switchable Scriptures Melchior's Magnificent Manuscripts Patch** before installing it.
-  - Check the following option in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 01 Closed Book Icons
-    - [ ] 02 MD books + Illy's Dirty Books
-    - [X] 03 Melchior's Magnificent Manuscripts
-    - [ ] 04 MD books + RR pages & scrolls
-    - [ ] 05 STA Guide-to Replacer
 
 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045)  
 Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
@@ -1307,8 +1270,15 @@ Patch for Purists
 Under Construction
 Correct UV Rocks
 Rope Fence Fix
+Weapon Sheathing
+Weapon Sheathing - Assetless No Glow Patch
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
 Morrowind Optimization Patch
 Project Atlas
+Intelligent Textures
+Glow in the Dahrk
+Nords, Shut Your Windows!
 AtlAd
 Creature VFX Restoration
 Glowing Flames
@@ -1375,6 +1345,7 @@ Torch Hotkey
     Quick Char (Timescale6 Edit)
     Quick Loadouts
     Randomised Chargen
+    Melchior's Magnificent Manuscripts
     Switchable Scriptures
 Expansion Delay
 Early Transport to Mournhold
@@ -1466,8 +1437,6 @@ LDM - Context Matters
     Greetings for No Lore
     Its a Deal
     Outfit Greetings Tweaked
-Intelligent Textures
-AtlAd - Intelligent Textures Patch
 Familiar Faces
 Facelift Meshes
 Comrade Raven's Book Arts Replacer
@@ -1479,9 +1448,6 @@ Remiros' Groundcover
 Scum Retexture
 Scummy Scum
 Signposts Retextured
-Glow in the Dahrk
-AtlAd - GITD - Interior Sunrays Patch
-Nords, Shut Your Windows!
 Here Comes The Sun... Glare
 Let There Be Darkness
 The Midnight Oil
@@ -1495,10 +1461,6 @@ Mist Retexture
 Subtle Smoke
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
-Weapon Sheathing
-Morrowind Optimization Patch Weapon Sheathing Patch
-Weapon Sheathing - Assetless No Glow Patch
-Weapon Sheathing Additions
     OAAB_Data
     Bretons Stand Taller
     Familiar Faces - Knife-Ears
@@ -1533,11 +1495,8 @@ Weapon Sheathing Additions
     Imperial Steel Cuirass Tweaks
     Pincushion
     Pincushion - Improved Thrown Weapon Projectiles Patch
-    Weapon Sheathing - Bow Position Edit
     Wolf Helmet Replacer 
     Arukinns Better Books and Scrolls
-    Melchior's Magnificent Manuscripts
-    Switchable Scriptures Melchior's Magnificent Manuscripts Patch
     OAAB Scroll Qualities
     Simple Golden Gold
     Intelligent Textures Simple Golden Gold
@@ -1969,6 +1928,12 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.5 (November 18th)</summary>
+
+- BAIN installers which would require the player to reinstall them again later on in the guide have all the appropiate options installed by default, and the mods they are patched moved before them in the mod order. This should cut down on the amount of work required by the player.
+</details>
 
 <details>
   <summary>3.0.4 (November 17th)</summary>
