@@ -529,10 +529,10 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1VBIrkT2R7Uog2aTReMPFvx2fjRC3s2S6/view?usp=sharing)  
+[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1-w40dh9kG5ZAQ6xr8FWlcozuADimHyjj/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
-> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug which prevents NPCs from resisting effects without magnitude, like Paralysis. Fix contributed by **Necrolesian**.
+> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug that could cause a target's high fatigue to make things worse instead of better when the target's willpower is lower than the caster's, as well as another bug that prevented resisting effects without a magnitude, like Paralysis. Additionally, it lowers the resist multiplier from 10 to 5, halving the resist bonus (or penalty) granted by the mod, making it less overpowered, and sets the Allow Negative Resistance Bonus option to enabled by default.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
@@ -761,12 +761,7 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\silverTongue\main.lua** using a text editor.
-- Change all instances of 192 to 166.
-- Save your changes.
-
-> This stops the dialogue box's width from being resized whenever you enter dialogue, which caused text to be cut off until you manually resized the window.
+- Also install [**Silver Tongue Fix**](https://drive.google.com/file/d/1XPFQEHLwSw74V06bsdisX794tgsM2m_r/view?usp=sharing), which stops the dialogue box's width from being resized whenever you enter dialogue (causing long text to be cut off until you manually resized the window), as well as removes an error in the mwse.log related to trying to index a nil value. Fix contributed by **Necrolesian**.
 </details>
 
 # AUDIO
@@ -1805,10 +1800,6 @@ Crosshair Settings
 ### Pickpocket
 
 - Set **Pickpocket experience value** to 3.
-
-### Putting Power in Willpower
-
-- Enable **Allow negative Resist Bonus**.
 
 ### Quick Equip
 - Set **Assign Keybind for Equipping Items** to E.
