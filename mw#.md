@@ -214,7 +214,7 @@ Unofficial add-on to Project Atlas which seeks to maintain parity with the Morro
   - [X] 02 GITD
   - [X] 02 GITD - Interior Sunrays 
 
-> We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section.
+> We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section. Note that the **AtlAd** patch for Glow in the Dahrk is more updated than the one included in **Project Atlas**, hence why we skipped it.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
