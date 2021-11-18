@@ -766,6 +766,10 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 
 # AUDIO
 
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- Rename the file to **No Female Nord Screeching** before installing it.
+
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes the sheep sounds from Morrowind.	
 
@@ -821,10 +825,6 @@ Gives Nordic barrows on Solstheim their own sound effect. You will hear some dee
 
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)  
 Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
-
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- Rename the file to **No Female Nord Screeching** before installing it.
 
 [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
@@ -1407,6 +1407,7 @@ Ashfall - A Camping Survival and Needs Mod
     Realistic Repair Add-on
     Silver Tongue
     Silver Tongue Fix
+No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
     AURA
@@ -1415,7 +1416,6 @@ Shut the Fuck up Cliff Racers
     Distant Thunder
     Haunted Barrows
     Heartthrum
-    No Female Nord Screeching
     Outdoor Banners With Sound
     Quieter Doors and Spells
     Sounds of Souls
@@ -1544,6 +1544,7 @@ Ashfall.ESP
     mwse_PoisonCrafting.ESP
     Restocking Alchemy Essentials PoisonCrafting Patch.ESP
     Realistic_Repair_Add-on.ESP
+No Female Nord Screeching.ESP
     Distant Thunder (No Scripts).ESP
     Haunted Barrows.ESP
     RFD_Heartthrum.ESP
