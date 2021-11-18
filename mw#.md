@@ -180,10 +180,10 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Greatly improves performance and fixes some mesh errors.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
-  - [X] 01 Fixed Vanilla Textures
-  - [X] 02 Lake Fjalding Anti-Suck
-  - [ ] 03 Weapon Sheathing Patch
-  - [X] 04 Chuzei Fix
+  - [X] 01 Lake Fjalding Anti-Suck
+  - [ ] 02 Weapon Sheathing Patch
+  - [X] 03 Chuzei Fix
+  - [X] 04 Better Vanilla Textures
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
@@ -1079,11 +1079,11 @@ Equipped weapons will be shown on the character's hip or back. This new function
   - Right-click your installed Morrowind Optimization Patch file in the left pane, and click **Reinstall Mod**.
   - Rename the file to **Morrowind Optimization Patch - Weapon Sheathing Patch** before installing it.
   - Check the following option in the BAIN installer:
-    - [ ] 00 Core
-    - [ ] 01 Fixed Vanilla Textures
-    - [ ] 02 Lake Fjalding Anti-Suck
-    - [X] 03 Weapon Sheathing Patch
-    - [ ] 04 Chuzei Fix
+  - [ ] 00 Core
+  - [ ] 01 Lake Fjalding Anti-Suck
+  - [X] 02 Weapon Sheathing Patch
+  - [ ] 03 Chuzei Fix
+  - [ ] 04 Better Vanilla Textures
 - Also install [**Weapon Sheathing - Assetless No Glow Patch**](https://drive.google.com/file/d/11_ANtC7lDnRGq2IisNABm-6a5Jzmu7Sy/view?usp=sharing). Solves a compatibility issue with Assetless No Glow, as Weapon Sheathing adds glow through other means to sheathed ammunition, shields, and weapons.
 
 > Note that new weapon meshes added by mods will require a patch for weapon sheaths.
