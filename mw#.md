@@ -1355,7 +1355,7 @@ Hold Your Breath
 Lucky Loot
 Magicka Based Skill Progression
 Marksman Rebalanced
-Putting Power in Willpower
+Putting Power in Willpower Fix
 Sneaky Strike
 Useful Bound Armor
 Wings of Will
@@ -1406,6 +1406,7 @@ Ashfall - A Camping Survival and Needs Mod
     Realistic Repair
     Realistic Repair Add-on
     Silver Tongue
+    Silver Tongue Fix
 Sheep-no-More
 Shut the Fuck up Cliff Racers
     AURA
