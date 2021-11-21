@@ -260,7 +260,7 @@ Carries over unique item information, such as condition and script data when enc
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
-Fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
+Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
@@ -529,10 +529,10 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1-w40dh9kG5ZAQ6xr8FWlcozuADimHyjj/view?usp=sharing)  
+[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1lTmzK-svD9HPW4utmza9Cy0zZ2Rif7dh/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
-> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a bug that could cause a target's high fatigue to make things worse instead of better when the target's willpower is lower than the caster's, as well as another bug that prevented resisting effects without a magnitude, like Paralysis. Additionally, it lowers the resist multiplier from 10 to 5, halving the resist bonus (or penalty) granted by the mod, making it less overpowered, and sets the Allow Negative Resistance Bonus option to enabled by default.
+> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a number of bugs with the mod and improves its balance.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
@@ -546,8 +546,10 @@ Modifies critical strike coefficient depending on the weapon you use.
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-[**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626)  
+[**Wings of Will - Willpower Based Levitation Speed**](https://drive.google.com/file/d/1JoPGdFejn5cG0Thzt3FSNx-UY0uU6OHU/view?usp=sharing)  
 Levitation speed is now based on Willpower attribute instead of Speed.
+
+> This edit of [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) fixes a bug with the mod.
 
 <details>
 	<summary>Optional Gameplay - Click to expand</summary>
@@ -600,16 +602,18 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+[**Pickpocket**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-- Also install [**Pickpocket Fix**](https://drive.google.com/file/d/1UFu9No1uGBYXG0VapDyDICqEEE5KJAh7/view?usp=sharing). Fixes a bug that could cause crashing.
+
+> This edit of [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) fixes a bug with the mod.
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
-[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+[**Stealth Improved**](https://drive.google.com/file/d/1HlfdOikljg-3l1tMa84UVhMbN07Ca8s_/view?usp=sharing)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-- Also install [**Stealth Improved Fix**](https://drive.google.com/file/d/17k7_BeXaFZES9KKHMG5MZ8EvidFK2kRu/view?usp=sharing). Fixes a bug that prevents the NPC Sneak Bonus slider from working.
+
+> This edit of [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) fixes a number of bugs with the mod and improves its balance.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
@@ -759,9 +763,10 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
-[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
+[**Silver Tongue**](https://drive.google.com/file/d/14mKjLugcz24NtyCUWNw_G7OT2EGylXiw/view?usp=sharing)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
-- Also install [**Silver Tongue Fix**](https://drive.google.com/file/d/1XPFQEHLwSw74V06bsdisX794tgsM2m_r/view?usp=sharing), which stops the dialogue box's width from being resized whenever you enter dialogue (causing long text to be cut off until you manually resized the window), as well as removes an error in the mwse.log related to trying to index a nil value. Fix contributed by **Necrolesian**.
+
+> This edit of [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) fixes a number of bugs with the mod.
 </details>
 
 # AUDIO
@@ -1355,10 +1360,10 @@ Hold Your Breath
 Lucky Loot
 Magicka Based Skill Progression
 Marksman Rebalanced
-Putting Power in Willpower Fix
+Putting Power in Willpower (Necro Edit)
 Sneaky Strike
 Useful Bound Armor
-Wings of Will
+Wings of Will (Necro Edit)
     Drop Light
     Light Decay
     No Beds for the Diseased
@@ -1373,12 +1378,10 @@ Nimble Armor
 No Disease Labels
 Ownership Overhaul
 Pass the Time
-Pickpocket
-Pickpocket Fix
+Pickpocket (Sigourn Edit)
 Reactive Resistance
 Restocking Alchemy Essentials
-Stealth Improved
-Stealth Improved Fix
+Stealth Improved (Necro Edit)
 Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
@@ -1405,8 +1408,7 @@ Ashfall - A Camping Survival and Needs Mod
     Restocking Alchemy Essentials - Poison Crafting Patch
     Realistic Repair
     Realistic Repair Add-on
-    Silver Tongue
-    Silver Tongue Fix
+    Silver Tongue (Necro Edit)
 No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
