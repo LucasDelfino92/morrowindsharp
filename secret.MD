@@ -41,6 +41,13 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
+Modifies critical strike coefficient depending on the weapon you use. 
+- Open MWSE\config\sneakyStrike.json using a text editor.
+- Set **coefShift** to **1.5**. Note that the in-game Mod Config menu will list it as being 1, but so long as you don't change it everything will work fine.
+
+> Morrowind# recommends this mod, but doesn't include any instructions for configuring it.
+
 ## EXPANDED VANILLA EQUIPMENT
 
 [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
