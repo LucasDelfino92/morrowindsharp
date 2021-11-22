@@ -1033,6 +1033,10 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [ ] 04 Rain mesh replacer - wild
   - [ ] 05 IT Vanilla sky texture replacer 1k
   - [X] 05 IT Vanilla sky texture replacer 2k
+- Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
+- Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
+
+> This hides two very jarring sky textures.
 
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
 Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
