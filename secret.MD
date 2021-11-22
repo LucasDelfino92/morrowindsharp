@@ -252,6 +252,7 @@ MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
+No Rest Without Beds
 Poison Crafting
 Restocking Alchemy Essentials - Poison Crafting Patch
 Realistic Repair
