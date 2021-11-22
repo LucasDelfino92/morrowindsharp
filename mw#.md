@@ -744,6 +744,9 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 
 > Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
 
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from resting unless they activate a bed.
+
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - Check the following option in the BAIN installer:
@@ -1404,6 +1407,7 @@ Ashfall - A Camping Survival and Needs Mod
     MM - Enhanced Light
     MM - Enhanced Invisibility
     MM - Enhanced Telekinesis
+    No Rest Without Beds
     Poison Crafting
     Restocking Alchemy Essentials - Poison Crafting Patch
     Realistic Repair
@@ -1828,13 +1832,6 @@ Crosshair Settings
 
 > This will reduce how often autosaves are created.
 
-### Stealth Improved
-
-- Disable **Experimental Enable light-based Stealth**.
-- Disable **Show Light Bar**.
-
-> This disables the somewhat buggy experimental light-based stealth.
-
 ### UI Expansion
 
 - Disable **Change map mode on cell change?**.
@@ -1923,6 +1920,13 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>3.0.7 (November 21st)</summary>
+
+- Updated links for **Putting Power in Willpower**, **Wings of Will**, **Pickpocket**, **Stealth Improved**, and **Silver Tongue**. They now redirect to fixed and edited versions of these mods, instead of having to install the original and then install the fixes.
+- 🆕 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)
+</details>
 
 <details>
   <summary>3.0.6 (November 18th)</summary>
