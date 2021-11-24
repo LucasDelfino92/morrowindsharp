@@ -6,8 +6,6 @@ The guide presented here assumes you have already followed all instructions foun
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
 
-## MODS TO UNINSTALL
-
 ## BTBGI AND RELATED MODS
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
