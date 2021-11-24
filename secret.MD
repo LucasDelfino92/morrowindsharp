@@ -6,6 +6,8 @@ The guide presented here assumes you have already followed all instructions foun
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
 
+## MODS TO UNINSTALL
+
 ## BTBGI AND RELATED MODS
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
@@ -17,14 +19,17 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [ ] 01 Loot Patch + TCBOO
   - [X] 01 Loot Patch + Weapons Integrated
   - [ ] 01 Loot Patch + Weapons Integrated + TCBOO
-  - [X] 02 MM - Enhanced Detection Patch
-  - [X] 03 Poison Crafting Patch
-  - [X] 04 Realistic Repair Add-on Patch
-  - [X] 05 Morrowind Anti-Cheese Tweaked
-  - [X] 06 Balanced Passive Races and Birthsigns Tweaked
-  - [ ] 07 OAAB Creature Loot and Ingredients Patch
+  - [X] 02 Morrowind Anti-Cheese Tweaked
+  - [X] 03 Ashfall Patch
+  - [X] 04 MM - Enhanced Detection Patch
+  - [X] 05 Poison Crafting Patch
+  - [X] 06 Realistic Repair Add-on Patch
+  - [X] 07 Balanced Passive Races and Birthsigns Tweaked
+  - [ ] 08 OAAB Creature Loot and Ingredients Patch
 
-> Morrowind# recommends the standard Morrowind Anti-Cheese This guide recommends the tweaked, BTBGI-compatible plugin instead.
+> Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead.
+
+> Morrowind# recommends **Restocking Alchemy Essentials**. However, BTBGI (Necro Edit) Tweaked already includes a similar functionality. Make sure to uninstall that mod.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -124,8 +129,14 @@ Patch for Purists
 Under Construction
 Correct UV Rocks
 Rope Fence Fix
+Weapon Sheathing
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
 Morrowind Optimization Patch
 Project Atlas
+Intelligent Textures
+Glow in the Dahrk
+Nords, Shut Your Windows!
 AtlAd
 Creature VFX Restoration
 Glowing Flames
@@ -157,7 +168,6 @@ Magic Icons
 Book Worm
 Class Description Tooltip
 Tooltip
-Tooltips Complete
 Character Creation Name Generator
 Clock Block
 HUD Weapon Charge
@@ -193,6 +203,7 @@ No Auto Vanity Camera
 Quick Char (Timescale6 Edit)
 Quick Loadouts
 Randomised Chargen
+Melchior's Magnificent Manuscripts
 Switchable Scriptures
 Expansion Delay
 Early Transport to Mournhold
@@ -207,10 +218,10 @@ Hold Your Breath
 Lucky Loot
 Magicka Based Skill Progression
 Marksman Rebalanced
-Putting Power in Willpower
+Putting Power in Willpower (Necro Edit)
 Sneaky Strike
 Useful Bound Armor
-Wings of Will
+Wings of Will (Necro Edit)
 Drop Light
 Light Decay
 No Beds for the Diseased
@@ -225,12 +236,9 @@ Nimble Armor
 No Disease Labels
 Ownership Overhaul
 Pass the Time
-Pickpocket
-Pickpocket Fix
+Pickpocket (Sigourn Edit)
 Reactive Resistance
-Restocking Alchemy Essentials
-Stealth Improved
-Stealth Improved Fix
+Stealth Improved (Necro Edit)
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -254,10 +262,9 @@ MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
 No Rest Without Beds
 Poison Crafting
-Restocking Alchemy Essentials - Poison Crafting Patch
 Realistic Repair
 Realistic Repair Add-on
-Silver Tongue
+Silver Tongue (Necro Edit)
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 AURA
@@ -284,8 +291,6 @@ FMI - NotAllDunmer
 Greetings for No Lore
 Its a Deal
 Outfit Greetings Tweaked
-Intelligent Textures
-AtlAd - Intelligent Textures Patch
 Familiar Faces
 Facelift Meshes
 Comrade Raven's Book Arts Replacer
@@ -297,9 +302,6 @@ Remiros' Groundcover
 Scum Retexture
 Scummy Scum
 Signposts Retextured
-Glow in the Dahrk
-AtlAd - GITD - Interior Sunrays Patch
-Nords, Shut Your Windows!
 Here Comes The Sun... Glare
 Let There Be Darkness
 The Midnight Oil
@@ -313,10 +315,7 @@ Mist Retexture
 Subtle Smoke
 Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
-Weapon Sheathing
-Morrowind Optimization Patch Weapon Sheathing Patch
 Weapon Sheathing - Assetless No Glow Patch
-Weapon Sheathing Additions
 OAAB_Data
 Bretons Stand Taller
 Familiar Faces - Knife-Ears
@@ -351,11 +350,8 @@ Complete Armor Joints
 Imperial Steel Cuirass Tweaks
 Pincushion
 Pincushion - Improved Thrown Weapon Projectiles Patch
-Weapon Sheathing - Bow Position Edit
 Wolf Helmet Replacer 
 Arukinns Better Books and Scrolls
-Melchior's Magnificent Manuscripts
-Switchable Scriptures Melchior's Magnificent Manuscripts Patch
 OAAB Scroll Qualities
 Simple Golden Gold
 Intelligent Textures Simple Golden Gold
@@ -410,22 +406,20 @@ Hospitality_Papers_Expanded_v2.7.ESP
 Services Restored.ESP
 The Publicans.ESP
 No Beds for the Diseased.ESP
-Restocking Alchemy Essentials.ESP
-BTB's Game Improvements (Necro Edit - No RAB) Tweaked.ESP
+mwse_PoisonCrafting.ESP
+Realistic_Repair_Add-on.ESP
+BTB's Game Improvements (Necro Edit) Tweaked.ESP
+BTBGI Poison Crafting Patch.ESP
+BTBGI Realistic Repair Add-on Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 Morrowind Anti-Cheese Tweaked.ESP
-Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Ashfall.ESP
 Enhanced Light.ESP
-mwse_PoisonCrafting.ESP
-Restocking Alchemy Essentials PoisonCrafting Patch.ESP
-Realistic_Repair_Add-on.ESP
-BTBGI Realistic Repair Add-on Patch.ESP
 Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
@@ -470,8 +464,8 @@ OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated TB Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
 multipatch.ESP
-Merged Objects.ESP
 Weapons Integrated BTBGI Loot Patch.ESP
+Merged Objects.ESP
 ```
 </details>
 
@@ -493,3 +487,17 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
+
+# CHANGELOG
+
+- 🆕 Mod has been added to the guide.
+- ⚠️ Mod has been updated or its installation/configuration instructions have changed.
+- 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>November 24th</summary>
+
+- Added a changelog.
+- Any and all mod and load order issues should be fixed and updated for the latest version of Morrowind Sharp.
+- ⚠️ **BTBGI (Necro Edit) Tweaked and Patches**: updated installation instructions, and added note to uninstall **Restocking Alchemy Essentials**.
+</details>
