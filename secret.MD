@@ -107,6 +107,11 @@ Expands on the in-game integration of oriental ebony weapons from natinnet.
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapons into the game, as well as [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Tribunal Rebalance Patch
+  - [ ] 02 STOTSP Content Integration Patch
+  - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 # FINISHING TOUCHES
