@@ -6,7 +6,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
 
-## BTBGI AND RELATED MODS
+## BTBGI ADD-ON
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
@@ -23,7 +23,9 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 05 Poison Crafting Patch
   - [X] 06 Realistic Repair Add-on Patch
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
-  - [ ] 08 OAAB Creature Loot and Ingredients Patch
+  - [X] 08 OAAB Creature Loot and Ingredients Patch
+
+> Note that the last patch assumes you will be following the OAAB_Data Add-on further ahead.
 
 > Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead.
 
@@ -44,6 +46,21 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
+Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
+
+[**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
+Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
+- Check the following option in the BAIN installer:
+  - [X] 00 Morrowind Only
+  - [ ] 01 TR Version
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
+
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use. 
 - Open MWSE\config\sneakyStrike.json using a text editor.
@@ -51,7 +68,7 @@ Modifies critical strike coefficient depending on the weapon you use.
 
 > Morrowind# recommends this mod, but doesn't include any instructions for configuring it.
 
-## EXPANDED VANILLA EQUIPMENT
+## EQUIPMENT ADD-ON
 
 [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
 Remake of the Tamriel Rebuilt complete Dreugh Armor. Also contains slightly improved versions of the vanilla Dreugh Armor pieces.
@@ -105,6 +122,21 @@ Expands on the in-game integration of Redoran War Armor. Also fixes journal issu
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
 
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
+Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
+- Also install [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing). Edits dialogue, journal entries, and robe names to polish it and make it more vanilla-friendly, as well as robe stats and enchantments to bring it up to speed with **BTBGI (Necro Edit) Tweaked**.
+
+## OAAB_DATA ADD-ON
+
+[**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)  
+Minor mods which integrate content from OAAB_Data into the game.
+- Install **OAAB Creature Loot**.
+- Install **OAAB Dark Temptations**.
+- Install **OAAB Golden Reeds**.
+- Install **OAAB Leveled Creatures**.
+
+> We will skip **OAAB Leveled Lists** in favor of the **OAAB Ingredients** file we installed alongside **BTBGI (Necro Edit) Tweaked** and **OAAB Weapons Integrated** which we will install next.
+
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapons into the game, as well as [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
 - Check the following options in the BAIN installer:
@@ -113,6 +145,48 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
   - [ ] 02 STOTSP Content Integration Patch
   - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
+
+## CITIES AND TOWNS ADD-ON
+
+[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
+Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
+
+[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
+Swaps some assets in Dagon Fel to make it feel more nordic, and expands on the “fishing town” theme of the town.
+
+[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
+A fan-made restoration of Ald Redaynia, missing from the released game. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+
+[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
+Opens Vivec's cantons.
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Paper Map Placement (ESM)
+  - [ ] 01 Paper Map Placement (ESP)
+  - [ ] 01 Vanilla Placement (ESM)
+  - [X] 01 Vanilla Placement (ESP)
+  - [ ] 02 Patch - Main Quest Enhancers (Paper Map Placement)
+  - [ ] 02 Patch - Main Quest Enhancers (Vanilla Placement)
+  - [ ] 03 Patch - Uvirith's Legacy
+
+[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
+Closes Molag Mar's canton.
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+  - [ ] 01 Patch - Welcome Home
+
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patches for a series of mods altering Vivec and Molag Mar.
+- Check the following option in the BAIN installer:
+  - [ ] 00 Glass Domes of Vivec
+  - [ ] 01 Glass Domes of Vivec - Atmospheric Arena
+  - [ ] 02 No-Frills Open Vivec
+  - [ ] 03 No-Frills Open Arena
+  - [ ] 04 No-Frills Closed Molag Mar
+  - [X] 05 No-Frills Series
 
 # FINISHING TOUCHES
 
@@ -361,6 +435,10 @@ Intelligent Textures Simple Golden Gold
 BTBGI (Necro Edit) Tweaked and Patches
 Economy Adjuster Adjustments
 Enchanted Weapon Resistance
+More Exclusive Factions
+Nerevarine Service Refusal
+FMI - Service Refusal and Contraband
+Speed and Movement Rebalanced
 Complete and Revised Dreugh Armor
 Complete and Revised Imperial Studded Leather Armor
 Complete and Revised Nordic Iron Armor
@@ -372,7 +450,20 @@ Oriental Ebony Weapons
 Complete and Revised Vanilla Equipment Integrated
 Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons Integrated
+Antares' Mage Robes
+Antares' Mage Robes BTBGI Patch
+OAAB Creature Loot
+OAAB Dark Temptations
+OAAB Golden Reeds
+OAAB Leveled Creatures
 OAAB Weapons Integrated
+Dagon Fel Mill Redux
+Nordic Dagon Fel
+Redaynia Restored
+Shrine of Azura
+No-Frills Open Vivec
+No-Frills Closed Molag Mar
+Ownership Overhaul Patches
 ```
 </details>
 
@@ -417,6 +508,10 @@ BTBGI Realistic Repair Add-on Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
+More Exclusive Factions.ESP
+Clean Temple Service Refusal.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Speed and Movement.ESP
 Morrowind Anti-Cheese Tweaked.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -463,9 +558,24 @@ Complete and Revised Vanilla Equipment Integrated.ESP
 Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
 Redoran War and Sathil Mercenary Armor Integrated.ESP
 Oriental Ebony Weapons Integrated.ESP
+Antares' Mage Robes.ESP
+Antares' Mage Robes BTBGI Patch.ESP
+OAAB Creature Loot.ESP
+OAAB Ingredients.ESP
+OAAB Creature Loot and Ingredients BTBGI Patch.ESP
+OAAB_DarkTemptations.ESP
+OAAB_GoldenReeds.ESP
+OAAB Leveled Creatures.ESP
 OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated TB Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
+Dagon Fel Mill.ESP
+Nordic Dagon Fel.ESP
+Redaynia Restored.ESP
+ShrineOfAzura.ESP
+No-Frills Closed Molag Mar.ESP
+No-Frills Open Vivec.ESP
+No-Frills Series Ownership Overhaul Patch.ESP
 multipatch.ESP
 Weapons Integrated BTBGI Loot Patch.ESP
 Merged Objects.ESP
@@ -496,6 +606,28 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>November 25th</summary>
+
+- 🆕 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
+- 🆕 [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)
+- 🆕 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)
+- 🆕 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)
+- 🆕 [**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)
+- 🆕 [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing)
+- 🆕 [**OAAB Creature Loot**](https://www.nexusmods.com/morrowind/mods/49045)
+- 🆕 [**OAAB Dark Temptations**](https://www.nexusmods.com/morrowind/mods/49045)
+- 🆕 [**OAAB Golden Reeds**](https://www.nexusmods.com/morrowind/mods/49045)
+- 🆕 [**OAAB Leveled Creatures**](https://www.nexusmods.com/morrowind/mods/49045)
+- 🆕 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)
+- 🆕 [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)
+- 🆕 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)
+- 🆕 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)
+- 🆕 [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)
+- 🆕 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)
+- 🆕 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)
+</details>
 
 <details>
   <summary>November 24th</summary>
