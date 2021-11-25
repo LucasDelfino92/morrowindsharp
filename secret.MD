@@ -58,8 +58,10 @@ Adds extra service refusal dialogue once you progress further into the main ques
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 
-[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+
+> Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use. 
