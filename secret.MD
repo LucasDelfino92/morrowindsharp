@@ -25,11 +25,11 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
   - [X] 08 OAAB Creature Loot and Ingredients Patch
 
-> Note that the last patch assumes you will be following the OAAB_Data Add-on further ahead.
-
 > Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead.
 
 > Morrowind# recommends **Restocking Alchemy Essentials**. However, BTBGI (Necro Edit) Tweaked already includes a similar functionality. Make sure to uninstall that mod.
+
+> We will install **OAAB Creature Loot** and **OAAB Ingredients** in the **OAAB_Data Add-on** section.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -40,8 +40,6 @@ An alternative version of the official plugin **Area Effect Arrows** that distri
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-
-> BTB designed BTB's Game Improvements with this mod in mind, while Necrolesian made additional adjustments to it.
 
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
