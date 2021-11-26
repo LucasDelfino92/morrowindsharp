@@ -1927,14 +1927,14 @@ For reference, here is a list of known mods in the guide that tend to have compa
 </details>
 
 <details>
-  <summary>3.0.7 (November 21st)</summary>
+	<summary>3.0.7 (November 21st)</summary>
 
 - Updated links for **Putting Power in Willpower**, **Wings of Will**, **Pickpocket**, **Stealth Improved**, and **Silver Tongue**. They now redirect to fixed and edited versions of these mods, instead of having to install the original and then install the fixes.
 - 🆕 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)
 </details>
 
 <details>
-  <summary>3.0.6 (November 18th)</summary>
+	<summary>3.0.6 (November 18th)</summary>
 
 - ⚠️ Updated [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1-w40dh9kG5ZAQ6xr8FWlcozuADimHyjj/view?usp=sharing) link with latest fixes from **Necrolesian**.
 - ⚠️ Added [**Silver Tongue Fix**](https://drive.google.com/file/d/1XPFQEHLwSw74V06bsdisX794tgsM2m_r/view?usp=sharing). Fixes contributed by **Necrolesian**.
@@ -1942,19 +1942,19 @@ For reference, here is a list of known mods in the guide that tend to have compa
 </details>
 
 <details>
-  <summary>3.0.5 (November 18th)</summary>
+	<summary>3.0.5 (November 18th)</summary>
 
 - BAIN installers which would require the player to reinstall them again later on in the guide have all the appropiate options installed by default, and the mods they are patched moved before them in the mod order. This should cut down on the amount of work required by the player.
 </details>
 
 <details>
-  <summary>3.0.4 (November 17th)</summary>
+	<summary>3.0.4 (November 17th)</summary>
 
 - 🚫 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): Removed because even though I think tooltips are nice, it can cause your inventory to get really cluttered and makes it harder to compare items than it should be.
 </details>
 
 <details>
-  <summary>3.0.3 (November 12th)</summary>
+	<summary>3.0.3 (November 12th)</summary>
 
 - ⚠️ [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1VBIrkT2R7Uog2aTReMPFvx2fjRC3s2S6/view?usp=sharing): Updated download link. Fix contributed by **Necrolesian**.
 - ⚠️ **MUSE 2.02 - Necro Edit**: Updated BAIN installation instructions.
@@ -1964,7 +1964,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 </details>
 
 <details>
-  <summary>3.0.2 (November 8th)</summary>
+	<summary>3.0.2 (November 8th)</summary>
 
 - 🆕 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)
 - ⚠️ **Tooltips Complete**: Removed instructions for Tamrielic Lore Tooltips users.
@@ -1979,7 +1979,7 @@ For reference, here is a list of known mods in the guide that tend to have compa
 </details>
 
 <details>
-  <summary>3.0.1 (November 7th)</summary>
+	<summary>3.0.1 (November 7th)</summary>
 
 The removal of **Better Character Classes** is not compatible with an existing playthrough.
 
@@ -1996,7 +1996,7 @@ The removal of **Better Character Classes** is not compatible with an existing p
 </details>
 
 <details>
-  <summary>3.0 (November 6th) and older</summary>
+	<summary>3.0 (November 6th) and older</summary>
 
 This update is not compatible with an existing playthrough.
 
