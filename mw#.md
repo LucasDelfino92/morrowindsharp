@@ -150,13 +150,16 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 # MGE XE SHADERS
 
-[**MGE XE Shader Pack Rev 2**](https://drive.google.com/file/d/15gyqU9u45wniksi6prMQdMty1OYWNsQH/view?usp=sharing)  
+[**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing)  
 A compilation of a handful of community-made shaders.
 - Check the following options in the BAIN installer: 
   - [X] 00 Core
-  - [X] 01 Cloud Movement Shader
+  - [ ] 01 Cloud Movement Shader
+  - [ ] 02 Cinematic Shaders
 
-> Note that the Cloud Movement shader can be slightly buggy at times, distorting clouds in a strange way and even causing distortion on the moons, which is why it was placed as a separate option in case you want to reinstall the pack and play without it.
+> The Cloud Movement shader distorts clouds as the they move, causing the impression of more natural cloud movement. However, this shader can distort clouds in strange ways and cause unwanted distortion on moons, which is why it is not recommended by default.
+
+> The Cinematic shaders include the Lens effect shader (barrel distortion, chromatic aberration), the Cinematic Black Bars shader, and the Cinematic Depth of Field shader. However, these shaders are a hit or miss for many, which is why they are not recommended by default.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
@@ -1916,6 +1919,12 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>3.0.8 (November 26th)</summary>
+
+- Updated link to [**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing).
+</details>
 
 <details>
   <summary>3.0.7 (November 21st)</summary>
