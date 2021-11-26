@@ -40,7 +40,9 @@ The file structure is how files are organized for the game to read and use them.
 
 Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-> Morrowind# features no mods that use BSA files. But if you ever install a mod that requires you to register BSA files, or otherwise modify your Morrowind.ini, remember to edit your .ini using Mod Organizer 2's Tools ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button. Alternatively, you can use Wrye Mash to register BSA files. Simply launch Wrye Mash from MO2, go to the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
+> To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
+
+> Note that Morrowind# features no mods that use BSA files.
 
 ## MOD ORGANIZER 2 TIPS
 
