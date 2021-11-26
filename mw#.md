@@ -202,7 +202,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - [ ] 40 Urns - Smoothed
   - [ ] 50 Wood Poles - Hi-Res Texture
 
-> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with Project Atlas in mind.
+> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with **Project Atlas** in mind.
 
 [**AtlAd**](https://github.com/revenorror/AtlAd)  
 Unofficial add-on to Project Atlas which seeks to maintain parity with the Morrowind Optimization Patch, further improve performance on existing meshes, and expand the mod by covering additional sets.
@@ -640,7 +640,7 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
-> Ashfall will correctly account for the fast-forwarded time when using **Pass the Time**, increasing your needs appropiately.
+> **Ashfall** will correctly account for the fast-forwarded time when using **Pass the Time**, increasing your needs appropiately.
 
 <details>
 	<summary>Optional Overhauls - Click to expand</summary>
@@ -660,7 +660,7 @@ Allows you to have a chance to successfully detect traps and locks based on your
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps. This effect is the same that applies to any other enchanted items so is compatible with and complemented by any mods that improve this effect.
 
-> This mod is fully compatible and complemented by Locks and Traps Detection.
+> This mod is fully compatible and complemented by **Locks and Traps Detection**.
 
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
@@ -711,8 +711,6 @@ A lua-based framework for creating new, fully functional magic effects.
 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)  
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
 
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 - Check the following option in the BAIN installer:
@@ -721,20 +719,14 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
   - [ ] 02 - Alternate VFX
   - [ ] 03 - Nvidia VFX
 
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-	
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell. 
 - Check the following option in the BAIN installer:
   - [X] 00 - Core Files
   - [ ] 01 - Optional FPS
 
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
-
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
 
 > This shader needs to be added to the end of the shader chain in MGE XE.
 
@@ -743,8 +735,6 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - Check the following option in the BAIN installer:
   - [X] 00 - Core
   - [ ] 01 - Cast VFX
-
-> Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
@@ -1086,7 +1076,7 @@ Asset repository for the Morrowind Community, which contains resources which can
   - [X] 01 GitD Patch Sunrays
   - [ ] 02 Epic Plants Patch
 
-> This asset repository is required by OAAB Dwemer Pavements and OAAB Dwemer Lightning Rods.
+> This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
 [**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787)  
 Increases height of the Bretons to match their height as described in earlier games in order to reflect their half-elven heritage.
@@ -1112,14 +1102,6 @@ Replaces the ashmires found throughout the ashen regions of Vvardenfell with mod
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
-Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Trackless Grazeland Patch
-
-> These instructions assume you will be installing [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194) just ahead.
-
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
 
@@ -1128,6 +1110,14 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
+
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Trackless Grazeland Patch
+
+> We will install **Trackless Grazeland** next.
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
