@@ -155,7 +155,7 @@ Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by o
 - Install the **Tamriel Data (HD)** main file only.
 - [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
 
-> This asset repository is required by **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+> This asset repository is a pre-requisite for **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
