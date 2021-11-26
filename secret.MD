@@ -619,6 +619,12 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🚫 Mod has been removed from the guide.
 
 <details>
+  <summary>November 26th</summary>
+
+- 🆕 [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537?)
+</details>
+
+<details>
   <summary>November 25th</summary>
 
 - 🆕 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
