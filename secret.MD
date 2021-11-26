@@ -150,6 +150,13 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
 
 ## CITIES AND TOWNS ADD-ON
 
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
+- Install the **Tamriel Data (HD)** main file only.
+- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
+
+> This asset repository is required by **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
 
@@ -459,6 +466,7 @@ OAAB Dark Temptations
 OAAB Golden Reeds
 OAAB Leveled Creatures
 OAAB Weapons Integrated
+Tamriel_Data (HD)
 Dagon Fel Mill Redux
 Nordic Dagon Fel
 Redaynia Restored
@@ -479,6 +487,7 @@ Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
 OAAB_Data.esm
+Tamriel_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
