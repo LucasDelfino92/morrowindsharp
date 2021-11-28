@@ -70,23 +70,28 @@ Modifies critical strike coefficient depending on the weapon you use.
 
 ## EQUIPMENT ADD-ON
 
+All the following mods are contemplated by **BTBGI (Necro Edit) Tweaked**'s lua equipment patch. This means their stats will be adjusted when necessary.
+
 [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
-Remake of the Tamriel Rebuilt complete Dreugh Armor. Also contains slightly improved versions of the vanilla Dreugh Armor pieces.
+Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
 - Hide **Complete dreugh armor.ESP**.
 
 > We will install a merged plugin shortly after.
 
 [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
-Completes the Imperial Studded Leather Armor set. Also gives the vanilla cuirass a minor makeover.
+Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
 - Hide **Complete and Revised Studded leather v 1.5.ESP**.
 
 > We will install a merged plugin shortly after.
 
 [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
-Completes the Nordic Iron Armor set. Also contains slightly improved versions of the vanilla Nordic Iron pieces.
+Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
 - Hide **Complete Nordic Iron.ESP**.
 
 > We will install a merged plugin shortly after.
+
+[**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
+Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
 
 [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
 Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
@@ -449,6 +454,7 @@ Speed and Movement Rebalanced
 Complete and Revised Dreugh Armor
 Complete and Revised Imperial Studded Leather Armor
 Complete and Revised Nordic Iron Armor
+Complete Duke's Guard Silver
 Concept Art Daedric Helmets
 Redoran War Armor and Sathil Mercenary Equipment
 Sathil Mercenary Armor
@@ -563,6 +569,7 @@ Silt Strider Animation Restored.ESP
 Alex's Better Fitted Female Armors.ESP
 FemalePants.ESP
 Complete Armor Joints.ESP
+RV Dukes guard.ESP
 Complete and Revised Vanilla Equipment Integrated.ESP
 Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
 Redoran War and Sathil Mercenary Armor Integrated.ESP
@@ -615,6 +622,12 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>November 28th</summary>
+
+- 🆕 [**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)
+</details>
 
 <details>
   <summary>November 26th</summary>
