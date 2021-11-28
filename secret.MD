@@ -510,7 +510,6 @@ No Thank You.ESP
 Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
-Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
