@@ -133,8 +133,10 @@ Adds enchanted robes to the members of the Mages Guild. Four different robes are
 
 ## OAAB_DATA ADD-ON
 
+These mods require the [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) asset repository, which you should already have installed in Morrowind Sharp.
+
 [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)  
-Minor mods which integrate content from OAAB_Data into the game.
+Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) into the game.
 - Install **OAAB Creature Loot**.
 - Install **OAAB Dark Temptations**.
 - Install **OAAB Golden Reeds**.
