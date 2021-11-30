@@ -31,7 +31,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
 
 > We will install **OAAB Creature Loot** and **OAAB Ingredients** in the **OAAB_Data Add-on** section.
 
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
+[**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
