@@ -333,9 +333,6 @@ Keep track of what books you have read by showing a "(Read)" indicator next to t
 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)  
  Restores the description tooltip to the vanilla class selection menu.
 
-[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969)  
-Displays skills taught by Skillbooks.
-
 [**Character Creator Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
 UI overhaul allowing the player to generate a random name for their character at the start of the game.
 
@@ -462,22 +459,6 @@ Adds new controls for swimming and levitating. Use the jump key to float upwards
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-[**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933)  
-Disables automatic switching to vanity camera due to inactivity. Does not prevent manually enabling vanity camera.
-- Check the following option in the BAIN installer:
-  - [X] **MWSE Version**
-  - [ ] Plugin Version
-
-[**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-Gives you the option of speeding through the character generation process, and slows down the flow of time in-game.
-- Hide **Quick Char(Necro Timescale6 Edit).ESP**.
-
-[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708)  
-Adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu. 
-
-[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
-Adds buttons to randomize your race, appearance, class, and birthsign.
 
 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)  
 Lets you open or close any book or scroll in the game.
@@ -1314,7 +1295,6 @@ Continue
 Magic Icons
     Book Worm
     Class Description Tooltip
-    Tooltip
     Character Creation Name Generator
     Clock Block
     HUD Weapon Charge
@@ -1346,10 +1326,6 @@ Smarter Soultrap
 Torch Hotkey
     Better Buoyancy
     Kill Command
-    No Auto Vanity Camera
-    Quick Char (Timescale6 Edit)
-    Quick Loadouts
-    Randomised Chargen
     Melchior's Magnificent Manuscripts
     Switchable Scriptures
 Expansion Delay
@@ -1532,7 +1508,6 @@ Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Adamantium Ore Fix.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
-Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
@@ -1744,10 +1719,6 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 - Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
 
-### abot's Tooltip
-
-- Disable **Show item Value/Weight Ratio in tooltip**.
-
 ### Ashfall
 
 - Enable **Hunger/Thirst can Kill**.
@@ -1922,6 +1893,16 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>3.0.9 (December 3rd)</summary>
+
+- 🚫 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969): I feel it encourages looking *just* for skill books.
+- 🚫 [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933): Not many will find this mod useful.
+- 🚫 [**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706): Removed for compatibility with alternate start mods.
+- 🚫 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915): Removed for compatibility with alternate start mods.
+- 🚫 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708): I actually never used this mod, and I suspect many of those who installed it didn't use it either...
+</details>
 
 <details>
 	<summary>3.0.8 (November 26th)</summary>
