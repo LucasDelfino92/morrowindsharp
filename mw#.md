@@ -335,6 +335,9 @@ Adds a fillbar that shows the currently equipped weapon's charge under the weapo
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
+- Only install the **abotSmartJournal103* file under Old Files.
+
+> The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
