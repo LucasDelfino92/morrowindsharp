@@ -485,7 +485,8 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 > This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a number of bugs with the mod and improves its balance.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
-Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.- BAIN options to install:
+Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+- BAIN options to install:
   - [X] 00 Core
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
