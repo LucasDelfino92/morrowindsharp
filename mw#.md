@@ -532,7 +532,7 @@ Modifies critical strike coefficient depending on the weapon you use.
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-[**Wings of Will - Willpower Based Levitation Speed**](https://drive.google.com/file/d/1JoPGdFejn5cG0Thzt3FSNx-UY0uU6OHU/view?usp=sharing)  
+[**Wings of Will (Necro Edit)**](https://drive.google.com/file/d/1JoPGdFejn5cG0Thzt3FSNx-UY0uU6OHU/view?usp=sharing)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > This edit of [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) fixes a bug with the mod.
