@@ -1272,9 +1272,9 @@ Expeditious Exit
 Fortify MAX
 Loading Doors Lock Tune
 Run Fix
+Thrown Projectiles Revamped
 Memory Monitor
 Sophisticated Save System
-    Thrown Projectiles Revamped
     Divayth Fyr Puzzle Fixed
     Dubdilla Location Fix
     Consistent Enchanting
