@@ -836,17 +836,17 @@ This category is recommended for a second playthrough and thus its mods should b
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
-- Also install [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing), which addresses a handful of bugs with the mod and makes a set of additional changes.
+- Also install [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing), which fixes a number of bugs.
   - Check the following option in the BAIN installer:
     - [X] **Bugfix**
     - [ ] Necro Edit
 
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
-Customizable music overhaul which adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
+Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
 - Only install the **Revenant's Better Music System Improved for MUSE 2** main file.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
-Hand-selected tracks (but not by me) from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
+Anonymous selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
 
 > The filesize of this download is 2.34GB.
 
