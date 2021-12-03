@@ -588,7 +588,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Pickpocket**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
+[**Pickpocket (Sigourn Edit)**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
 > This edit of [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) fixes a bug with the mod.
@@ -596,7 +596,7 @@ Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time me
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
-[**Stealth Improved**](https://drive.google.com/file/d/1HlfdOikljg-3l1tMa84UVhMbN07Ca8s_/view?usp=sharing)  
+[**Stealth Improved (Necro Edit)**](https://drive.google.com/file/d/1HlfdOikljg-3l1tMa84UVhMbN07Ca8s_/view?usp=sharing)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
 > This edit of [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) fixes a number of bugs with the mod and improves its balance.
