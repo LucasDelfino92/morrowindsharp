@@ -11,12 +11,9 @@ At the request of many users, this document will guide you through the installat
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
 - Rename the file to **BTBGI (Necro Edit) Tweaked and Patches** before installing it.
-- Check the following options in the BAIN installer:
+- BAIN options to install:
   - [X] 00 Core
-  - [ ] 01 Loot Patch
-  - [ ] 01 Loot Patch + TCBOO
   - [X] 01 Loot Patch + Weapons Integrated
-  - [ ] 01 Loot Patch + Weapons Integrated + TCBOO
   - [X] 02 Morrowind Anti-Cheese Tweaked
   - [X] 03 Ashfall Patch
   - [X] 04 MM - Enhanced Detection Patch
@@ -49,9 +46,8 @@ Some factions will now refuse you membership if you have already joined other fa
 
 [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
 Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
-- Check the following option in the BAIN installer:
+- BAIN options to install:
   - [X] 00 Morrowind Only
-  - [ ] 01 TR Version
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
@@ -146,10 +142,9 @@ Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.co
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapons into the game, as well as [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
-- Check the following options in the BAIN installer:
+- BAIN options to install:
   - [X] 00 Core
   - [X] 01 Tribunal Rebalance Patch
-  - [ ] 02 STOTSP Content Integration Patch
   - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
@@ -176,30 +171,18 @@ Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a prie
 
 [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
 Opens Vivec's cantons.
-- Check the following option in the BAIN installer:
+- BAIN options to install:
   - [X] 00 Core
-  - [ ] 01 Paper Map Placement (ESM)
-  - [ ] 01 Paper Map Placement (ESP)
-  - [ ] 01 Vanilla Placement (ESM)
   - [X] 01 Vanilla Placement (ESP)
-  - [ ] 02 Patch - Main Quest Enhancers (Paper Map Placement)
-  - [ ] 02 Patch - Main Quest Enhancers (Vanilla Placement)
-  - [ ] 03 Patch - Uvirith's Legacy
 
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
-- Check the following option in the BAIN installer:
+- BAIN options to install:
   - [X] 00 Core
-  - [ ] 01 Patch - Welcome Home
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for a series of mods altering Vivec and Molag Mar.
-- Check the following option in the BAIN installer:
-  - [ ] 00 Glass Domes of Vivec
-  - [ ] 01 Glass Domes of Vivec - Atmospheric Arena
-  - [ ] 02 No-Frills Open Vivec
-  - [ ] 03 No-Frills Open Arena
-  - [ ] 04 No-Frills Closed Molag Mar
+- BAIN options to install:
   - [X] 05 No-Frills Series
 
 # FINISHING TOUCHES
