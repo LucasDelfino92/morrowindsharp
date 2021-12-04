@@ -766,9 +766,8 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
-    OAAB_Data.esm
 Patch for Purists.esm
-    Ownership Overhaul.esm
+Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Under Construction.ESP
@@ -986,21 +985,6 @@ Make it a habit to update MWSE whenever you play Morrowind, and particularly whe
 
 The following mods need to be configured using the in-game **Mod Config** menu.
 
-### abot's Smart Journal
-
-- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
-- Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
-
-### Ashfall
-
-- Enable **Hunger/Thirst can Kill**.
-- Disable **Potion Hydrate**.
-- Under **Mod values**, set **Tiredness Rate** to 45.
-
-### Clock Block
-
-- Set **Clock type** to Game time.
-
 ### Continue
 
 - Enable **Hide Credits Button**.
@@ -1028,28 +1012,6 @@ Crosshair Settings
 
 - Set **Cell lighting value overrides** to di.Stilled Lights.
 
-### Magicka Based Skill Progression
-
-- Set **Skill Experience per Magicka** to 0.0667.
-- Set **Logging** to No.
-
-### Map and Compass
-
-- Disable **World Map**.
-- Disable **Local Map**.
-- Set **Max Zoom Magnification** to 1.
-- Set **Compass** to compassface.tga.
-
-> This will force you to use the more realistic world map, and replace the standard minimap with a basic compass which tells your direction.
-
-- In the **mapsWagner** tab, enable each of the three maps (Solstheim, Vvardenfell, Mournhold).
-
-> This will enable realistic world maps. You can choose which one to display by opening your map and clicking on the selection dropdown menu, which at the time of install should display **No Map**. You can disable this **Selection Dropdown** menu in the mod's Mod Config menu. 
-
-### MetaBarj0's manipulated
-
-- Set **Calm Humanoid**, **Rally Humanoid**, and **Charm Effect** penalties to Off.
-
 ### Pickpocket
 
 - Set **Pickpocket experience value** to 3.
@@ -1062,10 +1024,6 @@ Crosshair Settings
 > The following instructions are exclusively for users of **Locks and Traps Detection**.
 
 - Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
-
-### Smarter Soultrap
-
-- Set **Enforce skill requirements?** to On.
 
 ### Sophisticated Save System
 
