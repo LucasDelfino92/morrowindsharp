@@ -192,7 +192,7 @@ Compatibility patches for a series of mods altering Vivec and Molag Mar.
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
 <details>
-<summary>Mod order</summary>
+  <summary>Mod order</summary>
 
 ```
 DLC: Tribunal
@@ -241,7 +241,6 @@ Continue
 Magic Icons
 Book Worm
 Class Description Tooltip
-Tooltip
 Character Creation Name Generator
 Clock Block
 HUD Weapon Charge
@@ -273,10 +272,6 @@ Smarter Soultrap
 Torch Hotkey
 Better Buoyancy
 Kill Command
-No Auto Vanity Camera
-Quick Char (Timescale6 Edit)
-Quick Loadouts
-Randomised Chargen
 Melchior's Magnificent Manuscripts
 Switchable Scriptures
 Expansion Delay
@@ -308,6 +303,7 @@ Dungeons Rest
 Harder Barter
 Nimble Armor
 No Disease Labels
+No Rest Without Beds
 Ownership Overhaul
 Pass the Time
 Pickpocket (Sigourn Edit)
@@ -334,7 +330,6 @@ MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
-No Rest Without Beds
 Poison Crafting
 Realistic Repair
 Realistic Repair Add-on
@@ -469,7 +464,7 @@ Ownership Overhaul Patches
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
 <details>
-<summary>Load order</summary>
+  <summary>Load order</summary>
 
 ```
 Morrowind.esm
@@ -490,7 +485,6 @@ Dubdilla Location Fix.ESP
 Adamantium Ore Fix.ESP
 Improved Temple Experience.ESP
 No Thank You.ESP
-Quick Char (Necro Edit).ESP
 Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 master_index.ESP
@@ -517,6 +511,7 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Ashfall.ESP
 Enhanced Light.ESP
+No Female Nord Screeching.ESP
 Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
