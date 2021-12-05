@@ -1352,7 +1352,7 @@ Lake Fjalding Anti-Suck.ESP
 	Divayth Fyr Puzzle Fixed.ESP
 	Dubdilla Location Fix.ESP
 	Services Restored.ESP
-No Thank You.ESP
+	No Thank You.ESP
 Improved Temple Experience.ESP
 	Adamantium Ore Fix.ESP
 Area Effect Arrows Integrated.ESP
