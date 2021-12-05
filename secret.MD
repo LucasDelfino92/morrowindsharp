@@ -197,62 +197,66 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-MGE XE Shader Pack Rev 2
+MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
+Expansion Delay
+Early Transport to Mournhold
+The Publicans
 Under Construction
 Correct UV Rocks
 Rope Fence Fix
 Weapon Sheathing
-Weapon Sheathing - Bow Position Edit
-Weapon Sheathing Additions
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
 Glow in the Dahrk
-Nords, Shut Your Windows!
 AtlAd
-Creature VFX Restoration
-Glowing Flames
 Expeditious Exit
+Borrowed Time
 Fortify MAX
-Loading Doors Lock Tune
-Run Fix
+Putting Power in Willpower (Necro Edit)
+Thrown Projectiles Revamped
 Memory Monitor
 Sophisticated Save System
-Thrown Projectiles Revamped
-Divayth Fyr Puzzle Fixed
-Dubdilla Location Fix
-Consistent Enchanting
-Quest Skill Reward Fix
-Skill Increase GMST Fix
 Better Scamps
 Correct UV Mudcrabs
+Creature VFX Restoration
+Glowing Flames
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+Services Restored
+Consistent Enchanting
+Loading Doors Lock Tune
+Run Fix
+Quest Skill Reward Fix
+Skill Increase GMST Fix
 Better Readable Beauty Font
 Better Daedric Font
 Title Screen Reworked
 Widescreen Splash Replacer
-Widescreen Splash Additions
+Continue
 UI Expansion
 Alchemical Knowledge
 Better Questlist
 Companion Health Bars
-Continue
+Essential Indicators
+Hotkeys Extended
+Quick Equip
+Right Click Menu Exit
 Magic Icons
+Widescreen Splash Additions
 Book Worm
-Class Description Tooltip
-Character Creation Name Generator
 Clock Block
 HUD Weapon Charge
+No Thank You
+Shrine Tooltips
 Smart Journal
 Consistent Keys
 Propylon Index Renamer
 Soulgem Renamer
-Adamantium Ore Fix
-Book Pickup
 Diligent Defenders
 Easy Escort
-Essential Indicators
 GMST Menu
 GMST Menu Preset
 Graphic Herbalism MWSE
@@ -260,94 +264,78 @@ Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
-Hotkeys Extended
 Improved Temple Experience
-No Thank You
-Quick Equip
-Right Click Menu Exit
+Marksman Rebalanced
 Security Enhanced
-Shrine Tooltips
 Smart Ammo
-Smarter Soultrap
 Torch Hotkey
+Adamantium Ore Fix
 Better Buoyancy
+Book Pickup
 Kill Command
 Melchior's Magnificent Manuscripts
 Switchable Scriptures
-Expansion Delay
-Early Transport to Mournhold
-Area Effect Arrows Integrated
-Master Index
-Better Propylon Teleport Script
-FMI - Hospitality Papers Expanded
-Services Restored
-The Publicans
-Borrowed Time
-Hold Your Breath
-Lucky Loot
-Magicka Based Skill Progression
-Marksman Rebalanced
-Putting Power in Willpower (Necro Edit)
-Sneaky Strike
-Useful Bound Armor
-Wings of Will (Necro Edit)
-Drop Light
-Light Decay
-No Beds for the Diseased
-Realistic Movement Speeds
-Wading in Water MW
-Class-Conscious Character Progression (CCCP)
-Class Skill Limit
-Controlled Consumption
-Dungeons Rest
-Harder Barter
-Nimble Armor
-No Disease Labels
-No Rest Without Beds
-Ownership Overhaul
-Pass the Time
-Pickpocket (Sigourn Edit)
-Reactive Resistance
-Stealth Improved (Necro Edit)
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
-Skills Module
-Ashfall - A Camping Survival and Needs Mod
 Brutal Backstabbing
 Give a Gift
 Lua Lockbashing
-Locks and Traps Detection
-Visually Trapped Objects
 Lucky Strike - A Critical Hit Mod
-MAB0's Foundations
-MAB0's Manipulated
-Map and Compass
-Map Replacements for Maps and Compass Wagner Style
+Pass the Time
+Poison Crafting
+Drop Light
+FMI - Hospitality Papers Expanded
+Hold Your Breath
+Light Decay
+Lucky Loot
+Magicka Based Skill Progression
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
-Poison Crafting
+Master Index
+Better Propylon Teleport Script
+No Beds for the Diseased
+Realistic Movement Speeds
+Smarter Soultrap
+Sneaky Strike
+Useful Bound Armor
+Wading in Water MW
+Wings of Will (Necro Edit)
+MULE - Mort's Ultimate Leveling Experience
+Controlled Consumption
+Dungeons Rest
+Harder Barter
+Pickpocket (Sigourn Edit)
+Stealth Improved (Necro Edit)
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
+Class Skill Limit
+Ownership Overhaul
+Locks and Traps Detection
+Visually Trapped Objects
+Map and Compass
+Map Replacements for Maps and Compass Wagner Style
+Nimble Armor
+No Rest Without Beds
+Reactive Resistance
 Realistic Repair
 Realistic Repair Add-on
 Silver Tongue (Necro Edit)
+Skills Module
+Ashfall - A Camping Survival and Needs Mod
+No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 AURA
 AURA Replacer
 Character Sound Overhaul
-Distant Thunder
 Haunted Barrows
 Heartthrum
-No Female Nord Screeching
 Outdoor Banners With Sound
 Quieter Doors and Spells
-Sounds of Souls
 Spell Sounds Enhanced
-Store Entrance Chimes
 Water Sounds
 MUSE 2 - Morrowind Music System Extended
 MUSE 2.02 Necro Edit
@@ -367,63 +355,60 @@ Pete's Scroll 2018 ...in 2020
 Just Drop It
 Better Waterfalls
 I Lava Good Mesh Replacer
+Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
 Scummy Scum
-Signposts Retextured
 Here Comes The Sun... Glare
 Let There Be Darkness
-The Midnight Oil
-Transporter Lights
 Watch the Skies
-Dying Worlds - Moons Retexture
 Weather Adjuster
 Weather Adjuster Preset
-Assetless No Glow
-Mist Retexture
+Transporter Lights
+Subtle Magic Glow
 Subtle Smoke
-Yet Another Guard Diversity - Regular
 Improved Thrown Weapon Projectiles
-Weapon Sheathing - Assetless No Glow Patch
+Weapon Sheathing - Bow Position Edit
+Weapon Sheathing Additions
+Yet Another Guard Diversity - Regular
 OAAB_Data
-Bretons Stand Taller
-Familiar Faces - Knife-Ears
-Familiar Faces - Whiskers
 3D Vines Vanilla Mushroom Trees
 Ashmire Replacer
 Distant Mournhold
-OAAB Dwemer Pavements
+Dying Worlds - Moons Retexture
 Inscribed Maar Gan Rock
 Know Thy Ancestors
 Nordic Chest Replacer
+Nords, Shut Your Windows!
 Trackless Grazeland
 Grass for Trackless Grazeland
+OAAB Dwemer Pavements
 Vivec Palace Water Replacer
 Well Diversified
 Bitter Coast Sounds (UMOPP)
 OAAB Dwemer Lightning Rods
-Flies
+Flies (ProfArmitage Edit)
 Heat Haze
-Mistify
+Mistify	
+Mist Retexture
+Pincushion
+Pincushion - Improved Thrown Weapon Projectiles Patch
 Shattered Stones - An Earthquake Mod
 The Dream is the Door
+The Midnight Oil - Lighting Overhaul
 Throbbing Meat - A Corprus Meat Replacer
 Unto Dust
-Subtle Magic Glow
-Visually Filled Soul Gems
-Incarnates Overhauled
-Silt Strider Animation Restored
 Better Fitted Female Armors
 Properly Fitted Female Pants
 Complete Armor Joints
 Imperial Steel Cuirass Tweaks
-Pincushion
-Pincushion - Improved Thrown Weapon Projectiles Patch
 Wolf Helmet Replacer 
+Incarnates Overhauled
+Silt Strider Animation Restored
 Arukinns Better Books and Scrolls
 OAAB Scroll Qualities
 Simple Golden Gold
-Intelligent Textures Simple Golden Gold
+Intelligent Textures - Simple Golden Gold
 BTBGI (Necro Edit) Tweaked and Patches
 Economy Adjuster Adjustments
 Enchanted Weapon Resistance
@@ -476,48 +461,46 @@ Patch for Purists.esm
 Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
+Expansion Delay.ESP
+Early Transport to Mournhold.ESP
+The Publicans.ESP
 Under Construction.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
-Adamantium Ore Fix.ESP
-Improved Temple Experience.ESP
+Services Restored.ESP
 No Thank You.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
+Improved Temple Experience.ESP
+Adamantium Ore Fix.ESP
+mwse_PoisonCrafting.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-Services Restored.ESP
-The Publicans.ESP
+Enhanced Light.ESP
 No Beds for the Diseased.ESP
-mwse_PoisonCrafting.ESP
-Realistic_Repair_Add-on.ESP
+Speed and Movement.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
-BTBGI Realistic Repair Add-on Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
+Morrowind Anti-Cheese Tweaked.ESP
+Beware the Sixth House.ESP
+tribunal rebalance.ESP
+Bloodmoon Rebalance.ESP
+Realistic_Repair_Add-on.ESP
+BTBGI Realistic Repair Add-on Patch.ESP
+Ashfall.ESP
 Area Effect Projectiles Integrated.ESP
 EcoAdjCrime (Necro Edit).ESP
 More Exclusive Factions.ESP
 Clean Temple Service Refusal.ESP
 FMI_ServiceRefusal_Contraband.ESP
-Speed and Movement.ESP
-Morrowind Anti-Cheese Tweaked.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
-Ashfall.ESP
-Enhanced Light.ESP
 No Female Nord Screeching.ESP
-Distant Thunder (No Scripts).ESP
 Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 Quieter Doors and Spells.ESP
-Store Entrance Chimes - Alt Ver.ESP
 Great Service.ESP
 Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
@@ -526,16 +509,15 @@ Greetings for No Lore.ESP
 Its a deal.ESP
 outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
-PB_SignpostsRetextured.ESP
+NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
-TheMidnightOil.ESP
 Yet Another Guard Diversity - Regular.ESP
 Mournhold LOD.ESP
-OAAB Dwemer Pavements.ESP
 Inscribed Maar Gan Rock.ESP
 Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
 Trackless Grazeland.ESP
+OAAB Dwemer Pavements.ESP
 Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
 Well Diversified.ESP
 bcsounds.ESP
@@ -543,11 +525,12 @@ Flies.ESP
 mistify.ESP
 Shattered Stones - An Earthquake Mod.ESP
 The Dream is the Door.ESP
-Incarnates Overhauled.ESP
-Silt Strider Animation Restored.ESP
+TheMidnightOil.ESP
 Alex's Better Fitted Female Armors.ESP
 FemalePants.ESP
 Complete Armor Joints.ESP
+Incarnates Overhauled.ESP
+Silt Strider Animation Restored.ESP
 RV Dukes guard.ESP
 Complete and Revised Vanilla Equipment Integrated.ESP
 Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
@@ -601,6 +584,12 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>December 4th</summary>
+
+- Updated to Morrowind Sharp 3.1.0.
+</details>
 
 <details>
   <summary>November 28th</summary>
