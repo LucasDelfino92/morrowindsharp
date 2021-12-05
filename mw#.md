@@ -846,7 +846,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
-- Install the **Remiros' Groundcover** main file.
 - BAIN options to install:
   - [X] 00 Core MGE XE
   - [X] 01a No Mushrooms MGE XE
