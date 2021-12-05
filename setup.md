@@ -20,7 +20,7 @@
 
 You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-Your Morrowind **Root** folder is where Morrowind will be installed, and where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), .ini file (**Morrowind.ini**), and **Data Files** folder will be found.
+Your Morrowind **Root** folder is where Morrowind will be installed, and where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 
 For the purpose of this guide, this will be our **Root** folder and where you should install Morrowind:
 ```
@@ -31,7 +31,7 @@ Additional, you will need a folder where to install our mod manager and keep you
 C:\Games\Morrowind Mods
 ```
 
-> Make sure you don't create your Morrowind Mods folder inside your Morrowind folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+> Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
 
 ## Cleaning up your GOG installation
 
@@ -59,15 +59,15 @@ Repository for the Beta update for the Morrowind Code Patch.
 - Manually download the **MCP beta** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update the Morrowind Code Patch to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
+> This will update the **Morrowind Code Patch** to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 
 ## Setup
 
-- In your Morrowind **Root** folder, execute **Morrowind Code Patch.exe** as an Administrator.
-- The Morrowind Code Patch will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
-- Once you've finished your patch selection, click on **Apply chosen patches**. You can now close the application.
+- Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
+- The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
+- Click **Apply chosen patches** when you are finished. Close the application.
 
-> After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
+> A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
 # MGE XE and MWSE
 
@@ -76,16 +76,16 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 - Manually download the **MGE XE Installer** main file.
 - Extract the contents of the file and run the **MGE XE Installer.exe**.
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
 
-Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
+Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
 [**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
-**Necrolesian**'s own edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
+**Necrolesian**'s edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
 - Extract the contents of the necro_distant_statics_override folder to your Morrowind\mge3 directory, overwriting when prompted.
 
-This file contemplates the following scenarios (in the order in which they appear in the file) which affect the landscape of Morrowind:
+This file contemplates the following landscape-altering scenarios:
 
 - The completion of the Main Quest.
 - The completion of Bloodmoon's Main Quest.
@@ -94,19 +94,18 @@ This file contemplates the following scenarios (in the order in which they appea
 - The completion of the construction of each Great House Stronghold.
 - The completion of Raven Rock's construction.
 
-Using this mod is simpler than it appears. The Readme goes well in depth about using these overrides, so you should definitely give it a read.
+The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
 # Mod Organizer 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
-
-> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
-
 - Manually download the **Mod Organizer 2** main file.
 - Run the **Mod Organizer 2.exe**.
 - When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
+
+> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
 
 ## Configuration
 
@@ -272,9 +271,9 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
-> Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
-
 > These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
+
+> Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
 # IN-GAME CONFIGURATION
 
