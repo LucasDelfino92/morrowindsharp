@@ -275,8 +275,6 @@ Kill Command
 Melchior's Magnificent Manuscripts
 Switchable Scriptures
 Brutal Backstabbing
-Give a Gift
-Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
 Pass the Time
 Poison Crafting
