@@ -186,6 +186,16 @@ Fixes UV mapping on rocks and stones.
 
 > The hidden mesh has different proportions than the vanilla mesh, which causes it to hide the entrance to a certain cave.
 
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
+Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
+
 [**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
@@ -228,6 +238,9 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 
 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
 [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1lTmzK-svD9HPW4utmza9Cy0zZ2Rif7dh/view?usp=sharing)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
@@ -390,9 +403,6 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
 Lets you edit every GMST in the game, in-game.
 
-Additional files to install:
-- [**GMST Menu Preset**](https://drive.google.com/file/d/1jsyBdqzgZdrDTNlL83A7hYAJcTpFU9GN/view?usp=sharing). Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
-
 [**Graphic Herbalism - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - BAIN options to install:
@@ -469,15 +479,6 @@ Adds in lock-bashing, allowing you to break open locks with physical attacks.
 
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\config\r0_crit_config.lua** using a text editor.
-- Change the damageMultiplier to **1.2**.
-- Save your changes.
-- Open **MWSE\mods\r0\crit\main.lua** using a text editor.
-- Change the speedMult on line 21 to **1.66**.
-- Save your changes.
-
-> This drastically nerfs the Critical Strike mechanic, particularly important as many creatures and NPCs have their Luck set to 100 and could easily kill the player in a couple of hits.
 
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
@@ -584,6 +585,8 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 
 [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
 A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
+
+> The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
@@ -716,12 +719,6 @@ Additional files to install:
 
 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
 Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\Character Sound Overhaul\main.lua** using a text editor.
-- Change line 390 from **mwse.log("HEALTH DAMAGE")** to **--mwse.log("HEALTH DAMAGE")**.
-- Save your changes.
-
-> This removes an unnecessary debug log which convoluted the MWSE.log.
 
 > The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
 
@@ -824,16 +821,8 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
-Replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - BAIN options to install:
   - [X] 00 Core
 
@@ -875,12 +864,6 @@ Adds a more realistic sunglare.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **MWSE\mods\RFD\LetThereBeDarkness\main.lua** using a text editor.
-- Comment out line 415. To comment a line, add -- at the start of the line.
-- Save your changes.
-
-> This solves a compatibility issue with mods that use the **L** key as a hotkey, such as Security Enhanced, by disabling Let There Be Darkness Lighting Preview feature.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
@@ -894,12 +877,21 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 
 > This hides two very jarring sky textures.
 
+[**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
+Required mesh for **Better Night Sky**.
+- Only install the **Skies .IV Resource Pack** Optional file.
+- Rename the file to **Skies .IV Night Sky Mesh** before installing it.
+- Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
+
+[**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
+A high resolution night sky replacer. Requires Skies .IV's night sky mesh.
+- Only install the **Better Night Sky (darker)** Optional file.
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
-Additional files to install:
-- [**Weather Adjuster Preset**](https://drive.google.com/file/d/1fbQSqIMJrEHYak8yG0xAyTjyaiFwsggF/view?usp=sharing). Makes for darker nights and less horrible fog. [**Comparison available here.**](https://imgsli.com/MTUwMjI)
-- [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050). Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion. With darker nights, this mod is pretty much a necessity.
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
@@ -908,11 +900,6 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -1116,6 +1103,8 @@ Expansion Delay
 The Publicans
 Under Construction
 Correct UV Rocks
+I Lava Good Mesh Replacer
+Improved Thrown Weapon Projectiles
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
@@ -1126,6 +1115,7 @@ AtlAd
 Expeditious Exit
 Borrowed Time
 Fortify MAX
+Just Drop It
 Putting Power in Willpower (Necro Edit)
 Thrown Projectiles Revamped
 Memory Monitor
@@ -1169,7 +1159,6 @@ Magic Icons
 Diligent Defenders
 Easy Escort
 GMST Menu
-GMST Menu Preset
 Graphic Herbalism MWSE
 Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism Ash Yam Collision Switch
@@ -1266,9 +1255,7 @@ Familiar Faces
 Facelift Meshes
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
-Just Drop It
 Better Waterfalls
-I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
@@ -1276,12 +1263,12 @@ Scummy Scum
 Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
+Skies .IV Night Sky Mesh
+Better Night Sky
 Weather Adjuster
-Weather Adjuster Preset
 Transporter Lights
 Subtle Magic Glow
 Subtle Smoke
-Improved Thrown Weapon Projectiles
 Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
 Yet Another Guard Diversity - Regular
@@ -1323,6 +1310,7 @@ Yet Another Guard Diversity - Regular
 	OAAB Scroll Qualities
 	Simple Golden Gold
 	Intelligent Textures - Simple Golden Gold
+MWSE Config
 ```
 </details>
 
@@ -1539,109 +1527,33 @@ Make it a habit to update MWSE whenever you play Morrowind, and particularly whe
 
 ## MOD CONFIG
 
-> This section includes mods from the optional sections of the guide.
-
-The following mods need to be configured using the in-game **Mod Config** menu.
-
-### abot's Smart Journal
-
-- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
-- Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
-
-### Ashfall
-
-- Enable **Hunger/Thirst can Kill**.
-- Disable **Potion Hydrate**.
-- Under **Mod values**, set **Tiredness Rate** to 45.
-
-### Clock Block
-
-- Set **Clock type** to Game time.
-
-### Continue
-
-- Enable **Hide Credits Button**.
-- Enable **Hide New Game Button (In Game)**.
-
-### Controlled Consumption
-
-- Set **Current consumption module** to Vanilla NPC Style (Necro Edit).
-
-### Essential Indicators
-
-General Settings
-- Set **Essential Item Indicator** to Off.
-- Set **Essential NPC Indicator** to Off.
-- Set **Quest-Giver NPC Indicator** to Off.
-- Set **Quest-Giver Faction Sensibility** to Off.
-- Set **Enable Sneak Indicator** to Off.
-- Set **Enable Messages** to Off.
-- Set **Disable Vanilla Sneak Indicator** to Off.
-
-Crosshair Settings
-- Set **Crosshair Options** to ReverendKnots' Oblivion-Style. 
-
-### Let There Be Darkness
-
-- Set **Cell lighting value overrides** to di.Stilled Lights.
-
-### Magicka Based Skill Progression
-
-- Set **Skill Experience per Magicka** to 0.0667.
-- Set **Logging** to No.
-
-### Map and Compass
-
-- Disable **World Map**.
-- Disable **Local Map**.
-- Set **Max Zoom Magnification** to 1.
-- Set **Compass** to compassface.tga.
-
-> This will force you to use the more realistic world map, and replace the standard minimap with a basic compass which tells your direction.
-
-- In the **mapsWagner** tab, enable each of the three maps (Solstheim, Vvardenfell, Mournhold).
-
-> This will enable realistic world maps. You can choose which one to display by opening your map and clicking on the selection dropdown menu, which at the time of install should display **No Map**. You can disable this **Selection Dropdown** menu in the mod's Mod Config menu. 
-
-### Pickpocket
-
-- Set **Pickpocket experience value** to 3.
-
-### Quick Equip
-- Set **Assign Keybind for Equipping Items** to E.
-
-### Security Enhanced
-
-> The following instructions are exclusively for users of **Locks and Traps Detection**.
-
-- Disable **Enable Probe Auto-Equip On Trapped Object Activation**.
-
-### Smarter Soultrap
-
-- Set **Enforce skill requirements?** to On.
-
-### Sophisticated Save System
-
-- Set **Minimum time between autosaves** to 5.
-- Set **Autosave timer duration** to 20.
-- Disable **Create autosaves when combat starts?**.
-- Disable **Create autosaves when combat ends?**.
-- Enable **Create autosaves after changing cells?**.
-
-> This will reduce how often autosaves are created.
-
-### UI Expansion
-
-- Disable **Change map mode on cell change?**.
-- (Optional) Set **Use verbose buttons instead of icons for inventory filtering?** to No.
-- (Optional) Set **Use search bars?** to No.
-- (Optional) Set **Always reset filters when opening menu?** to No.
-
-### Watch the Skies
-
-- Set the chance for vanilla cloud textures to 10%.
-- (Optional) Set **Enable seasonal daytime hours?** to No.
-- (Optional) Set **Enable seasonal weather?** to No.
+A number of mods require additional in-game configuration.
+	
+[**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing)  
+Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
+- BAIN options to install:
+  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
+  - [ ] 01 Sophisticated Save System: sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
+  - [ ] 02 Clock Block: sets the clock type to game time.
+  - [ ] 02 Continue: hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
+  - [ ] 02 Essential Indicators: disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
+  - [ ] 02 Quick Equip: assigns the E key as the key for equipping items.
+  - [ ] 02 Smart Journal: disables unnecessary troubleshooting options and quest prefixes, removing lag when opening the quest page.
+  - [ ] 03 GMST Menu: makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
+  - [ ] 03 Security Enhanced: disables automatic probe-equip on trapped object activation.
+  - [ ] 04 Lucky Strike: nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
+  - [ ] 04 Magicka Based Skill Progression: disables logging, and slows down skill experience gain per magicka spent.
+  - [ ] 04 Smarter Soultrap: enabled enforced skill requirements for soul displacement.
+  - [ ] 05 Ashfall: enables death by hunger and thirst, and slows down tiredness rate.
+  - [ ] 05 Controlled Consumption: sets the consumption module to Vanilla NPC Style (Necro Edit).
+  - [ ] 05 Map and Compass: disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
+  - [ ] 05 Pickpocket: increases experience gain per successful pickpocket.
+  - [ ] 06 AURA: disables player voice taunts.
+  - [ ] 06 Character Sound overhaul: comments out a line in the **main.lua** to disable MWSE.log spam.
+  - [ ] 07 Let There Be Darkness: sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
+  - [ ] 07 Watch the Skies: sets the chance for vanilla cloud textures to 10%; disables seasonal weather and daytime hours.
+  - [ ] 07 Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison available here.**](https://imgsli.com/MTUwMjI)
+  - [ ] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
 ## ADDITIONAL MCP PATCHES
 
@@ -1719,6 +1631,17 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>3.1.1 (December 6th)</summary>
+
+- Moved **I Lava Good Mesh Replacer**, **Improved Thrown Weapon Projectiles** and **Just Drop It** to **Patches**. Even if they serve an aesthetic purpose, they fix problems with the vanilla game in a way other visual mods in the guide do not.
+- 🆕 [**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing). BAIN installer that automatically configures mods installed in the guide. Replaces manual configuration instructions. Note that configuration files present in your **Overwrite** folder will override those included in this mod, and you should thus delete them, at the expense of losing your current configuration.
+- 🆕 [**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)
+- 🆕 [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)
+- 🚫 **Weather Adjuster Preset**. Updated, and now included in **MWSE Config**.
+- 🚫 **GMST Menu Preset**. Now included in **MWSE Config**.
+</details>
+
+<details>
 	<summary>3.1.0 (December 4th)</summary>
 
 Most of the mods removed in this update were because I feel they weren't particularly important to most users. The big exception is, of course, **Class-Conscious Character Progression (CCCP)**, replaced in favor of **MULE**.
@@ -1741,6 +1664,8 @@ Most of the mods removed in this update were because I feel they weren't particu
 - 🚫 [**Bretons Stand Taller**](https://www.nexusmods.com/morrowind/mods/49787)
 - 🚫 [**Familiar Faces - Knife-Ears**](https://www.nexusmods.com/morrowind/mods/48291)
 - 🚫 [**Familiar Faces - Whiskers**](https://www.nexusmods.com/morrowind/mods/49232)
+</details>
+
 <details>
 	<summary>3.0.9 (December 3rd)</summary>
 
