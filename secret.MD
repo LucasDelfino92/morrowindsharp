@@ -8,6 +8,11 @@ At the request of many users, this document will guide you through the installat
 
 ## BTBGI ADD-ON
 
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
+
+> Morrowind# recommends **MULE - Mort's Ultimate Leveling Experience**. Make sure to uninstall that mod.
+
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
 - Rename the file to **BTBGI (Necro Edit) Tweaked and Patches** before installing it.
@@ -22,7 +27,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
   - [X] 08 OAAB Creature Loot and Ingredients Patch
 
-> Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead.
+> Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead. Make sure to uninstall the original mod.
 
 > Morrowind# recommends **Restocking Alchemy Essentials**. However, BTBGI (Necro Edit) Tweaked already includes a similar functionality. Make sure to uninstall that mod.
 
@@ -56,13 +61,6 @@ Fixes lore to gameplay inconsistencies pertaining to contraband items and servic
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
 
 > Note that this mod is *not* meant to make movement faster, only more natural.
-
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
-Modifies critical strike coefficient depending on the weapon you use. 
-- Open MWSE\config\sneakyStrike.json using a text editor.
-- Set **coefShift** to **1.5**. Note that the in-game Mod Config menu will list it as being 1, but so long as you don't change it everything will work fine.
-
-> Morrowind# recommends this mod, but doesn't include any instructions for configuring it.
 
 ## EQUIPMENT ADD-ON
 
@@ -205,6 +203,7 @@ Early Transport to Mournhold
 The Publicans
 Under Construction
 Correct UV Rocks
+I Lava Good Mesh Replacer
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
@@ -215,6 +214,7 @@ AtlAd
 Expeditious Exit
 Borrowed Time
 Fortify MAX
+Just Drop It
 Putting Power in Willpower (Necro Edit)
 Thrown Projectiles Revamped
 Memory Monitor
@@ -258,7 +258,6 @@ Soulgem Renamer
 Diligent Defenders
 Easy Escort
 GMST Menu
-GMST Menu Preset
 Graphic Herbalism MWSE
 Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism Ash Yam Collision Switch
@@ -302,7 +301,7 @@ Sneaky Strike
 Useful Bound Armor
 Wading in Water MW
 Wings of Will (Necro Edit)
-MULE - Mort's Ultimate Leveling Experience
+Class-Conscious Character Progression (CCCP)
 Controlled Consumption
 Dungeons Rest
 Harder Barter
@@ -352,9 +351,7 @@ Familiar Faces
 Facelift Meshes
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
-Just Drop It
 Better Waterfalls
-I Lava Good Mesh Replacer
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
@@ -362,8 +359,9 @@ Scummy Scum
 Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
+Skies IV Night Sky Mesh
+Better Night Sky
 Weather Adjuster
-Weather Adjuster Preset
 Transporter Lights
 Subtle Magic Glow
 Subtle Smoke
@@ -562,11 +560,13 @@ Merged Objects.ESP
 
 ## MOD CONFIG
 
-The following mods need to be configured using the in-game **Mod Config** menu.
-
-### Enchanted Weapon Resistance
-
-- Disable **Block enchantment if weapon has no effect**.
+A number of mods require additional in-game configuration.
+	
+[**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing)  
+Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
+- BAIN options to install:
+  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
+  - [X] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
 ## ADDITIONAL MCP PATCHES
 
@@ -584,6 +584,14 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>December 4th</summary>
+
+- Updated to Morrowind Sharp 3.1.1.
+- 🆕 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110). Replaces **MULE** from Morrowind Sharp.
+- ⚠️ **Enchanted Weapon Resistance**: Removed configuration instructions. Prevents cast-on-strike enchantments to work on enemies even if they ignore normal weapon resistance.
+</details>
 
 <details>
   <summary>December 4th</summary>
