@@ -471,12 +471,6 @@ An alternative version of the official plugin Area Effect Arrows that distribute
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
 
-[**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661)  
-Allows you to bribe NPCs with items, instead of just gold. Mercantile/Speechcraft gain experience, using the same values as traditional bribery.
-
-[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544)  
-Adds in lock-bashing, allowing you to break open locks with physical attacks.
-
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
 
@@ -1177,8 +1171,6 @@ Torch Hotkey
 	Switchable Scriptures
 Area Effect Arrows Integrated
 Brutal Backstabbing
-Give a Gift
-Lua Lockbashing
 Lucky Strike - A Critical Hit Mod
 Pass the Time
 Poison Crafting
@@ -1639,6 +1631,8 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)
 - 🚫 **Weather Adjuster Preset**. Updated, and now included in **MWSE Config**.
 - 🚫 **GMST Menu Preset**. Now included in **MWSE Config**.
+- 🚫 [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661). Makes gold less important.
+- 🚫 [**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544). Less than ideal lockbashing implementation when it comes to the flickering pause menu.
 </details>
 
 <details>
