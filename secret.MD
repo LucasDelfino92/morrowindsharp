@@ -33,9 +33,9 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 05 Poison Crafting Patch
   - [X] 06 Realistic Repair Add-on Patch
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
-  - [X] 08 OAAB Creature Loot and Ingredients Patch
+  - [X] 08 OAAB Creature Loot and Alchemy Patch
 
-> We will install **OAAB Creature Loot** and **OAAB Ingredients** in the **OAAB_Data Add-on** section.
+> We will install **OAAB Creature Loot** and **OAAB Alchemy** in the **OAAB_Data Add-on** section.
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -138,7 +138,7 @@ Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.co
 - Install **OAAB Golden Reeds**.
 - Install **OAAB Leveled Creatures**.
 
-> We will skip **OAAB Leveled Lists** in favor of the **OAAB Ingredients** file we installed alongside **BTBGI (Necro Edit) Tweaked** and **OAAB Weapons Integrated** which we will install next.
+> We will skip **OAAB Leveled Lists** in favor of the **OAAB Alchemy** file we installed alongside **BTBGI (Necro Edit) Tweaked** and **OAAB Weapons Integrated** which we will install next.
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapons into the game, as well as [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
@@ -536,9 +536,9 @@ Redoran War and Sathil Mercenary Armor Integrated.ESP
 Oriental Ebony Weapons Integrated.ESP
 Antares' Mage Robes.ESP
 Antares' Mage Robes BTBGI Patch.ESP
+OAAB Alchemy.ESP
 OAAB Creature Loot.ESP
-OAAB Ingredients.ESP
-OAAB Creature Loot and Ingredients BTBGI Patch.ESP
+OAAB Creature Loot and Alchemy BTBGI Patch.ESP
 OAAB_DarkTemptations.ESP
 OAAB_GoldenReeds.ESP
 OAAB Leveled Creatures.ESP
