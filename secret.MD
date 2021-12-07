@@ -6,12 +6,20 @@ The guide presented here assumes you have already followed all instructions foun
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
 
+## PRELIMINARY STEPS
+
+This guide recommends a number of mods in favor of others already installed in Morrowind Sharp. Thus, you should uninstall them.
+
+These mods are:
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
+- [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)
+- [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
+
 ## BTBGI ADD-ON
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
-
-> Morrowind# recommends **MULE - Mort's Ultimate Leveling Experience**. Make sure to uninstall that mod.
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
@@ -27,17 +35,11 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
   - [X] 08 OAAB Creature Loot and Ingredients Patch
 
-> Morrowind# recommends **Morrowind Anti-Cheese**. This guide recommends the tweaked, BTBGI-compatible plugin instead. Make sure to uninstall the original mod.
-
-> Morrowind# recommends **Restocking Alchemy Essentials**. However, BTBGI (Necro Edit) Tweaked already includes a similar functionality. Make sure to uninstall that mod.
-
 > We will install **OAAB Creature Loot** and **OAAB Ingredients** in the **OAAB_Data Add-on** section.
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
-> Morrowind# recommends the standard plugin of the mod. This guide recommends the BTBGI-based plugin instead.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
