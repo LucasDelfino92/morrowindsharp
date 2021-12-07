@@ -59,7 +59,7 @@ Yes. That said, many of the mods featured in the guide are Vvardenfell-specific,
 
 ### Is this mod compatible with Morrowind#?
 
-At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#checking-for-conflicts). For instructions on how to install this tool, check the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) page.
+I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#checking-for-conflicts). For instructions on how to install this tool, check the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) page.
 
 ### How many plugins and mods are there?
 
@@ -81,7 +81,7 @@ Morrowind# is regularly updated as I find new mods to install, old mods that I c
 
 ### Is there a Wabbajack installer for the guide available?
 
-No. I already have enough questions asked because users installed a mod without reading what it did. I don't those questions to increase tenfold by providing an automated installer.
+No. I already have enough questions asked because users installed a mod without reading what it did. I don't want those questions to increase tenfold by providing an automated installer.
 
 ### Do you have a Patreon I can contribute to?
 
