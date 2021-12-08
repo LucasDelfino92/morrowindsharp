@@ -832,6 +832,7 @@ Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
   - [X] 01a No Mushrooms MGE XE
+- Uncheck all **.esps** added by this mod. Do not hide or delete them.
 
 > Note that the **No Mushrooms** option already includes the **Thicker Grass** option.
 
@@ -1477,10 +1478,12 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
-- Click **Use current load order**. This will select your active plugins for distant land generation.
+- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
 - Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
+
+> For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are only used for Distant Land generation. If you enable them, you will find that you are unable to walk through grass.
 
 ## SHADER SETUP
 
