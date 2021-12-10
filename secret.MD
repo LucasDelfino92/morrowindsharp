@@ -407,6 +407,30 @@ Arukinns Better Books and Scrolls
 OAAB Scroll Qualities
 Simple Golden Gold
 Intelligent Textures - Simple Golden Gold
+No Female Nord Screeching
+Sheep-no-More
+Shut the Fuck up Cliff Racers
+AURA
+AURA Replacer
+Character Sound Overhaul
+Haunted Barrows
+Heartthrum
+Outdoor Banners With Sound
+Quieter Doors and Spells
+Spell Sounds Enhanced
+Water Sounds
+MUSE 2 - Morrowind Music System Extended
+MUSE 2.02 Necro Edit
+MUSE 2 - Vanilla Intro Music
+TUBES4MUSE
+Revenant's Better Music System Improved for MUSE 2.1
+Great Service
+Idle Talk
+LDM - Context Matters
+FMI - NotAllDunmer
+Greetings for No Lore
+Its a Deal
+Outfit Greetings Tweaked
 BTBGI (Necro Edit) Tweaked and Patches
 Economy Adjuster Adjustments
 Enchanted Weapon Resistance
@@ -494,18 +518,6 @@ EcoAdjCrime (Necro Edit).ESP
 More Exclusive Factions.ESP
 Clean Temple Service Refusal.ESP
 FMI_ServiceRefusal_Contraband.ESP
-No Female Nord Screeching.ESP
-Haunted Barrows.ESP
-RFD_Heartthrum.ESP
-Outdoor Banners With Sound.ESP
-Quieter Doors and Spells.ESP
-Great Service.ESP
-Idle Talk.ESP
-LDM - Context Matters 1.5.ESP
-FMI_#NotAllDunmer.ESP
-Greetings for No Lore.ESP
-Its a deal.ESP
-outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
@@ -529,6 +541,18 @@ FemalePants.ESP
 Complete Armor Joints.ESP
 Incarnates Overhauled.ESP
 Silt Strider Animation Restored.ESP
+No Female Nord Screeching.ESP
+Haunted Barrows.ESP
+RFD_Heartthrum.ESP
+Outdoor Banners With Sound.ESP
+Quieter Doors and Spells.ESP
+Great Service.ESP
+Idle Talk.ESP
+LDM - Context Matters 1.5.ESP
+FMI_#NotAllDunmer.ESP
+Greetings for No Lore.ESP
+Its a deal.ESP
+outfit greetings tweaked.ESP
 RV Dukes guard.ESP
 Complete and Revised Vanilla Equipment Integrated.ESP
 Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
@@ -584,6 +608,12 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>December 10th</summary>
+
+- Updated to Morrowind Sharp 3.1.2.
+</details>
 
 <details>
   <summary>December 4th</summary>
