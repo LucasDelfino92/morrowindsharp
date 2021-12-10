@@ -586,7 +586,7 @@ Merged Objects.ESP
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing)  
+[**MWSE Config 3.1.2**](https://drive.google.com/file/d/1t5cAN0kQ9aa66ZAcL88vNAG1D-inl2Y9/view?usp=sharing)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
