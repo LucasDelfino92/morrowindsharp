@@ -674,119 +674,6 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 </details>
 
-# AUDIO
-
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- Rename the file to **No Female Nord Screeching** before installing it.
-
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
-Removes the sheep sounds from Morrowind.	
-
-[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
-
-<details>
-	<summary>Audio (Optional) - Click to expand</summary>
-
-[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
-Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
-
-Additional files to install:
-- **AURA 3.0 - replacer** (Optional file section). Replaces some of the worst sounds from Morrowind.
-  - BAIN options to install:
-    - [X] 00 Waves
-    - [X] 01 Boat waves
-    - [X] 02 Underwater
-    - [X] 03 Rain
-    - [X] 04 Heavy Rain
-    - [X] 05 Small Waterfall
-    - [X] 06 Fire
-    - [X] 07 Jump (land)
-    - [X] 08 Barefoot
-    - [X] 09 Ashstorm loop
-    - [X] 10 Blight storm loop
-    - [X] 11 Blizzard loop
-    - [X] 12 Swimming
-
-> On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
-
-[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
-Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
-
-> The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
-
-[**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)  
-Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Fire Sound Replacer
-
-[**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)  
-Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
-
-[**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
-Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
-- Rename the file to **Outdoor Banners With Sound** before installing it.
-
-[**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
-Reduces the volume of doors and spells.
-
-[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
-Vanilla-friendly replacer of each vanilla spell sound.
-
-[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
-Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
-</details>
-
-# MUSIC
-
-This category is recommended for a second playthrough and thus its mods should be considered entirely optional. Morrowind's music is very iconic and should be experienced first. You can always return to this section after you grow tired of the vanilla soundtracks.
-
-[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
-Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
-
-Additional files to install:
-- [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing). Fixes a number of bugs with the original mod.
-  - BAIN options to install:
-    - [X] Bugfix
-
-[**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
-Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
-- Only install the **Revenant's Better Music System Improved for MUSE 2** main file.
-
-[**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
-Anonymous selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
-
-> The filesize of this download is 2.34GB.
-
-# DIALOGUE
-
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-<details>
-	<summary>Dialogue (Optional) - Click to expand</summary>
-
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
-[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)  
-Replaces the three standard No Lore greetings with over sixty new ones.
-
-[**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-
-[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-</details>
-
 # VISUALS
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
@@ -1076,6 +963,124 @@ Additional files to install:
 - [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled Simple Golden Gold textures.
 </details>
 
+# AUDIO
+
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+- Rename the file to **No Female Nord Screeching** before installing it.
+
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
+Removes the sheep sounds from Morrowind.	
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
+Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
+
+<details>
+	<summary>Audio (Optional) - Click to expand</summary>
+
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
+Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
+
+Additional files to install:
+- **AURA 3.0 - replacer** (Optional file section). Replaces some of the worst sounds from Morrowind.
+  - BAIN options to install:
+    - [X] 00 Waves
+    - [X] 01 Boat waves
+    - [X] 02 Underwater
+    - [X] 03 Rain
+    - [X] 04 Heavy Rain
+    - [X] 05 Small Waterfall
+    - [X] 06 Fire
+    - [X] 07 Jump (land)
+    - [X] 08 Barefoot
+    - [X] 09 Ashstorm loop
+    - [X] 10 Blight storm loop
+    - [X] 11 Blizzard loop
+    - [X] 12 Swimming
+
+> On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
+Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
+
+> The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
+
+[**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)  
+Gives Nordic barrows on Solstheim their own sound effect. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites. 
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Fire Sound Replacer
+
+[**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)  
+Allows you to hear the beating Heart of Lorkhan all the way to the exterior of the Dagoth Ur citadel.
+
+[**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
+Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
+- Rename the file to **Outdoor Banners With Sound** before installing it.
+
+[**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
+Reduces the volume of doors and spells.
+
+[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
+Vanilla-friendly replacer of each vanilla spell sound.
+
+[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
+Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
+</details>
+
+# MUSIC
+
+[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
+Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
+
+Additional files to install:
+- [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing). Fixes a number of bugs with the original mod.
+  - BAIN options to install:
+    - [X] Bugfix
+- [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing). Restores the vanilla music for the introductory scene at the Imperial prison ship.
+
+[**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
+Anonymous selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
+
+> The filesize of this download is 2.34GB.
+
+<details>
+	<summary>Music (Optional) - Click to expand</summary>
+
+[**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
+Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
+- Only install the **Revenant's Better Music System Improved for MUSE 2** main file.
+
+> This mod is listed under **Optional** because it adds non-Jeremy Soule music to the game.
+</details>
+
+# DIALOGUE
+
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+<details>
+	<summary>Dialogue (Optional) - Click to expand</summary>
+
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
+
+[**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)  
+Replaces the three standard No Lore greetings with over sixty new ones.
+
+[**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+
+[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
+Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+</details>
+
 # FINISHING TOUCHES
 
 ## FINAL MOD ORDER AND LOAD ORDER
@@ -1221,29 +1226,6 @@ Bloodmoon Rebalance
 	Silver Tongue (Necro Edit)
 	Skills Module
 	Ashfall - A Camping Survival and Needs Mod
-No Female Nord Screeching
-Sheep-no-More
-Shut the Fuck up Cliff Racers
-	AURA
-	AURA Replacer
-	Character Sound Overhaul
-	Haunted Barrows
-	Heartthrum
-	Outdoor Banners With Sound
-	Quieter Doors and Spells
-	Spell Sounds Enhanced
-	Water Sounds
-	MUSE 2 - Morrowind Music System Extended
-	MUSE 2.02 Necro Edit
-	Revenant's Better Music System Improved for MUSE 2.1
-	TUBES4MUSE
-Great Service
-Idle Talk
-LDM - Context Matters
-	FMI - NotAllDunmer
-	Greetings for No Lore
-	Its a Deal
-	Outfit Greetings Tweaked
 Familiar Faces
 Facelift Meshes
 Comrade Raven's Book Arts Replacer
@@ -1303,6 +1285,30 @@ Yet Another Guard Diversity - Regular
 	OAAB Scroll Qualities
 	Simple Golden Gold
 	Intelligent Textures - Simple Golden Gold
+No Female Nord Screeching
+Sheep-no-More
+Shut the Fuck up Cliff Racers
+	AURA
+	AURA Replacer
+	Character Sound Overhaul
+	Haunted Barrows
+	Heartthrum
+	Outdoor Banners With Sound
+	Quieter Doors and Spells
+	Spell Sounds Enhanced
+	Water Sounds
+MUSE 2 - Morrowind Music System Extended
+MUSE 2.02 Necro Edit
+MUSE 2 - Vanilla Intro Music
+TUBES4MUSE
+	Revenant's Better Music System Improved for MUSE 2.1
+Great Service
+Idle Talk
+LDM - Context Matters
+	FMI - NotAllDunmer
+	Greetings for No Lore
+	Its a Deal
+	Outfit Greetings Tweaked
 MWSE Config
 ```
 </details>
@@ -1351,18 +1357,6 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 	Realistic_Repair_Add-on.ESP
 	Ashfall.ESP
-No Female Nord Screeching.ESP
-	Haunted Barrows.ESP
-	RFD_Heartthrum.ESP
-	Outdoor Banners With Sound.ESP
-	Quieter Doors and Spells.ESP
-Great Service.ESP
-Idle Talk.ESP
-LDM - Context Matters 1.5.ESP
-	FMI_#NotAllDunmer.ESP
-	Greetings for No Lore.ESP
-	Its a deal.ESP
-	outfit greetings tweaked.ESP
 Better_Typography_Bookarts_Fix.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
@@ -1386,6 +1380,18 @@ Yet Another Guard Diversity - Regular.ESP
 	Complete Armor Joints.ESP
 	Incarnates Overhauled.ESP
 	Silt Strider Animation Restored.ESP
+No Female Nord Screeching.ESP
+	Haunted Barrows.ESP
+	RFD_Heartthrum.ESP
+	Outdoor Banners With Sound.ESP
+	Quieter Doors and Spells.ESP
+Great Service.ESP
+Idle Talk.ESP
+LDM - Context Matters 1.5.ESP
+	FMI_#NotAllDunmer.ESP
+	Greetings for No Lore.ESP
+	Its a deal.ESP
+	outfit greetings tweaked.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
@@ -1433,10 +1439,12 @@ Some of our installed plugins contain changes we are not really interested in. T
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, right click on each of the following plugins and click **Clean with tes3cmd**. After the process is over, close the window.
-  - Divayth Fyr Puzzle Fixed.ESP
-  - Nordic Chest Replacer.ESP
-  - TheMidnightOil.ESP
+- In the **Mods** tab, CTRL+left click on each of the following plugins:
+  - **Divayth Fyr Puzzle Fixed.ESP**
+  - **Nordic Chest Replacer.ESP**
+  - **TheMidnightOil.ESP**
+- With all of them selected, right-clik and click **Clean with tes3cmd**.
+- After the process is over, close the window.
 
 ## CONFLICT RESOLUTION
 
@@ -1524,7 +1532,7 @@ Make it a habit to update MWSE whenever you play Morrowind, and particularly whe
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing)  
+[**MWSE Config 3.1.2**](https://drive.google.com/file/d/1t5cAN0kQ9aa66ZAcL88vNAG1D-inl2Y9/view?usp=sharing)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
@@ -1539,15 +1547,15 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   - [ ] 04 Lucky Strike: nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
   - [ ] 04 Magicka Based Skill Progression: disables logging, and slows down skill experience gain per magicka spent.
   - [ ] 04 Smarter Soultrap: enabled enforced skill requirements for soul displacement.
-  - [ ] 05 Ashfall: enables death by hunger and thirst, and slows down tiredness rate.
+  - [ ] 05 Ashfall: enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
   - [ ] 05 Controlled Consumption: sets the consumption module to Vanilla NPC Style (Necro Edit).
   - [ ] 05 Map and Compass: disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
   - [ ] 05 Pickpocket: increases experience gain per successful pickpocket.
   - [ ] 06 AURA: disables player voice taunts.
   - [ ] 06 Character Sound overhaul: comments out a line in the **main.lua** to disable MWSE.log spam.
   - [ ] 07 Let There Be Darkness: sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-  - [ ] 07 Watch the Skies: sets the chance for vanilla cloud textures to 10%; disables seasonal weather and daytime hours.
-  - [ ] 07 Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison available here.**](https://imgsli.com/MTUwMjI)
+  - [ ] 07 Watch the Skies: sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
+  - [ ] 07 Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
   - [ ] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
 ## ADDITIONAL MCP PATCHES
@@ -1599,18 +1607,11 @@ Shift+E | Equips/unequips item in inventory | Quick Equip
 Shift+E | Use potion/ingredient in inventory | Quick Equip
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
-# ACKNOWLEDGMENTS
-
-I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
-
-- **Tythesly** (August 11th, 2021)
-- **JFS** (August 24th, 2021)
-
 # COMPATIBILITY
 
-Morrowind# a big guide and touches on many aspects of the game. Though this guide is presented "as is", it doesn't mean you can't install other mods on top; only that you should think twice about what you are installing.
+Morrowind# is presented "as is": expect no support from me if you decide to install hundreds of mods on top. This doesn't mean Morrowind# is incompatible with everything, but you should think twice about which mods you are installing.
 
-For reference, here is a list of known mods in the guide that tend to have compatibility issues with other mods.
+For reference, here is a list of mods in the guide that tend to have compatibility issues with other mods.
 
 - **Yet Another Guard Diversity**: this mod replaces vanilla guards with unique guards selected from leveled lists. But because of how this mod works, it is perfectly possible for a mod to override its changes (by moving the vanilla guards around) and have the guards revert to their vanilla, generic appearance. This would be most noticeable with Imperial Legion guards who don't wear closed helmets (unlike their Hlaalu, Redoran, Telvanni, and Indoril counterparts). Moreover, new guards added to the game world will most likely have a generic appearance as well.
   - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
@@ -1624,6 +1625,15 @@ For reference, here is a list of known mods in the guide that tend to have compa
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>3.1.2 (December 10th)</summary>
+
+- Moved **Audio**, **Music**, and **Dialogue** to the bottom of the guide, analogue to my **Left My Heart In New Vegas** modding guide.
+- Made **Music** mods non-optional, with the exception of **Better Music System Redone for MUSE 2** (since it adds non-Jeremy Soule music).
+- 🆕 [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
+- ⚠️ Fixed **MWSE Config** settings for **Ashfall** and **Watch the Skies**.
+</details>
 
 <details>
 	<summary>3.1.1 (December 6th)</summary>
