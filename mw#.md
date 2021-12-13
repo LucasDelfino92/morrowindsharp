@@ -570,8 +570,11 @@ Provides a configurable restriction on the amount of potions and ingredients the
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
+[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+
+[**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)  
+Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
 
 [**Pickpocket (Sigourn Edit)**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -1187,7 +1190,8 @@ Restocking Alchemy Essentials
 MULE - Mort's Ultimate Leveling Experience
 Controlled Consumption
 Dungeons Rest
-Harder Barter
+Harder Barter (Sigourn Edit)
+Magicka Regeneration Suite
 Pickpocket (Sigourn Edit)
 Stealth Improved (Necro Edit)
 Morrowind Anti-Cheese
@@ -1612,8 +1616,9 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 <details>
 	<summary>3.1.3 (December 13th)</summary>
 
-- ⚠️ Updated **Mod keybindings** with shader controller hotkey.
-- ⚠️ Updated **Glow in the Dahrk** FOMOD instructions.
+- 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
+- ⚠️ Visuals: Updated **Glow in the Dahrk** FOMOD instructions.
+- ⚠️ Mod keybindings: Updated with shader controller hotkey.
 </details>
 
 <details>
@@ -1621,8 +1626,8 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 
 - Moved **Audio**, **Music**, and **Dialogue** to the bottom of the guide, analogue to my **Left My Heart In New Vegas** modding guide.
 - Made **Music** mods non-optional, with the exception of **Better Music System Redone for MUSE 2** (since it adds non-Jeremy Soule music).
-- 🆕 [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
-- ⚠️ Fixed **MWSE Config** settings for **Ashfall** and **Watch the Skies**.
+- 🆕 Music: Added [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
+- ⚠️ MWSE Config: Fixed settings for **Ashfall** and **Watch the Skies**.
 </details>
 
 <details>
@@ -1714,64 +1719,6 @@ Most of the mods removed in this update were because I feel they weren't particu
 - 🚫 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300): Removed as Patch for Purists should already include this fix.
 - 🚫 [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717): Removed as only **Smart Ammo** uses that file, and it is up to date.
 - 🚫 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976): Removed as it doesn't work well with **Better Questlist** (bringing up the quest list through the hotkeys doesn't include player filters).
-</details>
-
-<details>
-	<summary>3.0.2 (November 8th)</summary>
-
-- 🆕 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)
-- ⚠️ **Tooltips Complete**: Removed instructions for Tamrielic Lore Tooltips users.
-- ⚠️ **Watch the Skies** Removed instructions for Creeping Blight users.
-- 🚫 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954): Removed as its addition was more annoying than fun.
-- 🚫 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649): Removed as its addition was more annoying than fun.
-- 🚫 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904): Removed in favor of Watch the Skies' own blight storm mechanic.
-- 🚫 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456): Removed as its addition was more annoying than fun.
-- 🚫 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403): Removed as its addition was barely noticeable.
-- 🚫 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371): Removed as its addition was barely noticeable.
-- 🚫 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603): Removed as its addition was barely noticeable.
-</details>
-
-<details>
-	<summary>3.0.1 (November 7th)</summary>
-
-The removal of **Better Character Classes** is not compatible with an existing playthrough.
-
-- Fixed mod order and plugin order, as they had mods/plugins listed from mods which had already been removed from the guide.
-- **Gameplay**: Added a few more mods from the **Overhauls** section here.
-- **Overhauls**: Moved a few more optional mods into the main section. This should make the difference between the main and optoinal mods much clearer than before.
-- 🆕 [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802): Replaces Bitter Coast Redux's scum texture.
-- 🚫 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632): It somewhat cheapens inns and Ashfall.
-- 🚫 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078): Its changes affect not only the player, but also NPCs designed with the classes' vanilla attributes and skills in mind.
-- 🚫 [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540): Vampire players are a minority, and I doubt this is the mod they are looking for.
-- 🚫 [**New Horizons**](https://mw.modhistory.com/download-26-14824): Distant horizon clouding is pretty much not noticable when using lighting shaders.
-- 🚫 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473): Would bug out, causing Atronachs to stop emitting light.
-- 🚫 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291): It was included to pair with the above, which has been removed.
-</details>
-
-<details>
-	<summary>3.0 (November 6th) and older</summary>
-
-This update is not compatible with an existing playthrough.
-
-- **Gameplay**: Completely re-organized this section to prioritize mods which I consider must haves.
-- **Overhauls**: Completely re-organized this section to prioritize mods which I consider must haves.
-- **Music**: Removed option 1, as option 2 includes more "vanilla-friendly" music from Jeremy Soule.
-- ⚠️ **Area Effect Arrows Integrated**: Modified installation instructions.
-- ⚠️ **Tooltips Complete**: Modified configuration instructions.
-- 🚫 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133): Having played enough with CCCP, I'm confident this mod is not needed. If you have qualms about your character's health points, use CCCP's provided Excel and make the necessary adjustments to its in-game settings before starting a new character.
-- 🚫 [**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441): Removed as the guide is focused first and foremost on the vanilla game.
-- 🚫 [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680): Removed as it could be easily used to abuse merchants and other NPCs which were never meant to move from their spot.
-- 🚫 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130): Users have complained in the past about how brutal this mod can be regarding crime penalties.
-- 🚫 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194): Breaks established lore as the game acknowledges enchantments being enough for any weapon to bypass Normal Weapon Resistance.
-- 🚫 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299): The mod can be very intrusive when it comes to leveling Acrobatics, a skill which by definition requires certain level of spam to level up naturally at a reasonable pace.
-- 🚫 [**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191): The mod can be very intrusive during normal gameplay. Moreover, Ashfall already implements penalties for passing time (hunger, thirst, tiredness).
-- 🚫 [**Mantle of Ascension - A Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870): Fun but ridiculously buggy.
-- 🚫 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283): Makes the early game easier and circumvents the joy of getting equipment you can call your own at the start of the game.
-- 🚫 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732): I found myself rarely using many of my skills and items as a single build favoured effectiveness over creativity.
-- 🚫 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215): Breaks established lore as the game acknowledges the possibility of capturing summoned creatures' souls.
-- 🚫 [**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308): Makes or breaks the guide according to many, including myself, hence its removal.
-- 🚫 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782): Intended as an add-on to the above, no point with it gone.
-- 🚫 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/): Should have been removed a few updates ago.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
