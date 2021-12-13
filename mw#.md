@@ -564,6 +564,9 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 
 > The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
+[**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
+Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
+
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
@@ -1188,6 +1191,7 @@ Restocking Alchemy Essentials
 	Wading in Water MW
 	Wings of Will (Necro Edit)
 MULE - Mort's Ultimate Leveling Experience
+Alchemy Takes Time
 Controlled Consumption
 Dungeons Rest
 Harder Barter (Sigourn Edit)
@@ -1616,6 +1620,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 <details>
 	<summary>3.1.3 (December 13th)</summary>
 
+- 🆕 Overhauls: Added [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)
 - 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - ⚠️ Visuals: Updated **Glow in the Dahrk** FOMOD instructions.
 - ⚠️ Mod keybindings: Updated with shader controller hotkey.
