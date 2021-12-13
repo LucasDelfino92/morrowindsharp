@@ -1,4 +1,4 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
 
 # MORROWIND#
@@ -11,38 +11,20 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
-## MODDING TIPS
+## GENERAL MODDING RULES
 
-### Don't uninstall mods mid-playthrough
+The following are general tips to help you on installing mods. These aren't strict rules, but tips to follow if you are new to modding Morrowind.
 
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+- Always keep backup saves, particularly sone when uninstalling or installing mods.
+- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely.
+- Read mod descriptions, as they can clue you in regarding requirements, compatibility with other mods, and known issues. Always make it a habit to take a look at the mod's comments section: users can mention other issues with the mod, and possible fixes.
+- Learn how file structure works. Incorrect file structure means mods will not work as intended.
 
-### Always keep backup saves
+## BSA FILES
 
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.  
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+Some mods come with **BSA files**, which contain data files for the mod. BSA files need to be registered in your **Morrowind.ini** file for the game to properly load the assets. Missing assets cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
 
-### Read the descriptions
-
-Mod descriptions exist for a reason. The elaborate ones, usually for a *good* reason. Apart from describing what a mod is supposed to, descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### BSA files
-
-Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
-
-To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
-
-> Note that Morrowind# features no mods that use BSA files.
+> To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 
 ## MOD ORGANIZER 2 TIPS
 
@@ -60,7 +42,7 @@ Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus
 
 > Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
 
-### Installing multiple files from a same Nexus mod with Mod Organizer 2
+### Installing multiple files from a same Nexus page with Mod Organizer 2
 
 There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
 
@@ -70,9 +52,9 @@ Mod Organizer 2 allows the user to either merge, replace, or rename the file bei
 
 What these options do is simple:
 
-- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod.
-- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
-- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod. You could also use it to merge optional patches into the main file when these are downloaded from the same mod page.
+- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the totallity of the old files.
+- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files as different installed mods.
 
 > The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
 
@@ -410,7 +392,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
  
 Additional files to install:
 - **GH Patches and Replacers**. Includes patches for a number of mods.
-  - Rename the file to **Graphic Herbalism MWSE Patches and Replacers** before installing it.
+  - **Rename** to **Graphic Herbalism MWSE Patches and Replacers**.
   - BAIN options to install:
     - [X] 10 Atlas - Vanilla BC Mushrooms
 - [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154). Fixes a collision bug with harvested Ash Yams.
@@ -546,7 +528,7 @@ Adds a new quest to find all ten Propylon Indices. The quest can be started by t
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
-  - Rename the file to **Better Propylon Teleport Script** before installing it.
+  - **Rename** to **Better Propylon Teleport Script**.
   - Hide **Better Propylon Teleport Warp.ESP**.
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -735,11 +717,10 @@ Scummier scum texture for Lougian's Scum Retexture mod.
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - FOMOD options to install:
-  - [X] Interior Sunrays
   - [X] Nord Glass Windows
   - [X] Raven Rock Glass Windows
   - [X] Hi-Res Window Texture Replacer
-  - [X] No Telvanni Dormers
+  - [X] None Telvanni Dormers on Vvardenfell
 
 [**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/)  
 Adds a more realistic sunglare.
@@ -960,7 +941,7 @@ Turns the vanilla green coins into golden coins. A fortunate side effect is that
 - Install the **Gold coins** main file.
 
 Additional files to install:
-- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled Simple Golden Gold textures.
+- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
 </details>
 
 # AUDIO
@@ -983,6 +964,7 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 
 Additional files to install:
 - **AURA 3.0 - replacer** (Optional file section). Replaces some of the worst sounds from Morrowind.
+  - **Merge** into the main file.
   - BAIN options to install:
     - [X] 00 Waves
     - [X] 01 Boat waves
@@ -1599,6 +1581,7 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
+V | Opens shader controller | MGE XE Shader Pack
 Ctrl+Y | Turbo fast forward time | Pass the Time
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
@@ -1625,6 +1608,13 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>3.1.3 (December 13th)</summary>
+
+- ⚠️ Updated **Mod keybindings** with shader controller hotkey.
+- ⚠️ Updated **Glow in the Dahrk** FOMOD instructions.
+</details>
 
 <details>
 	<summary>3.1.2 (December 10th)</summary>
@@ -1784,5 +1774,5 @@ This update is not compatible with an existing playthrough.
 - 🚫 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/): Should have been removed a few updates ago.
 </details>
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
