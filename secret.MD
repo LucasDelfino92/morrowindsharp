@@ -1,3 +1,9 @@
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
+
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+
 # SECRET ADD-ON
 
 ## Disclaimer
@@ -211,7 +217,6 @@ Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
-Glow in the Dahrk
 AtlAd
 Expeditious Exit
 Borrowed Time
@@ -356,6 +361,7 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
 Scummy Scum
+Glow in the Dahrk
 Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
@@ -670,3 +676,7 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - Any and all mod and load order issues should be fixed and updated for the latest version of Morrowind Sharp.
 - ⚠️ **BTBGI (Necro Edit) Tweaked and Patches**: updated installation instructions, and added note to uninstall **Restocking Alchemy Essentials**.
 </details>
+
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
