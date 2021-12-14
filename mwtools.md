@@ -1,5 +1,5 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind#](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#morrowind)
 
 # TOOLS
 
@@ -15,9 +15,9 @@
 
 # Cleaning plugins
 
-Nearing the end of **Morrowind#** you may or may not find a section of [**plugins that that require cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#cleaning-our-plugins), and you will be redirected here.
+Nearing the end of **Morrowind#** you may or may not find a section of [**plugins that that require cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#cleaning-our-plugins), and you will be redirected here.
 
-We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Morrowind# [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#tools) section. If not, go back and install them.
+We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Morrowind# [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#tools) section. If not, go back and install them.
 
 ## tes3cmd
 
@@ -99,5 +99,5 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 
 While you will never be asked to use this tool when following **Morrowind#**, it pays to get used to it when installing mods on your own.
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Morrowind#](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#morrowind)
