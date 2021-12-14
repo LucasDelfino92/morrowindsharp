@@ -1,8 +1,6 @@
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
 
-# MORROWIND#
-
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # BEFORE WE BEGIN
@@ -116,6 +114,8 @@ I suggest creating a separator for each mod category we will be installed. Separ
 ### Overwrite folder
 
 The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
+
+# MORROWIND#
 
 # MGE XE SHADERS
 
