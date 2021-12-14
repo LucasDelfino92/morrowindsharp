@@ -1558,7 +1558,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 7. Update MWSE.
 8. Configure the installed mods, if applicable.
 
-# Mod keybindings
+# MOD KEYBINDINGS
 
 > This section includes mods from the optional sections of the guide.
 
