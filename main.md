@@ -192,10 +192,8 @@ Unofficial add-on to Project Atlas which seeks to maintain parity with the Morro
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
-  - [X] 02 GITD
-  - [X] 02 GITD - Interior Sunrays
 
-> We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section. Note that the **AtlAd** patch for Glow in the Dahrk is more updated than the one included in **Project Atlas**, hence why we skipped it.
+> We will install **Intelligent Textures** in the **Visuals** section.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
@@ -1083,7 +1081,6 @@ Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
-Glow in the Dahrk
 AtlAd
 Expeditious Exit
 Borrowed Time
@@ -1210,6 +1207,7 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
 Scummy Scum
+Glow in the Dahrk
 Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
@@ -1603,10 +1601,13 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>3.1.3 (December 13th)</summary>
+	<summary>3.1.3 (December 14th)</summary>
 
+- Renamed document to main.md.
+- Rewrote modding tips and Mod Organizer 2 tips section.
 - 🆕 Overhauls: Added [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)
 - 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
+- ⚠️ Patches: Updated **AtlAd** BAIN instructions to remove Glow in the Dahrk patches, since these have to be updated.
 - ⚠️ Visuals: Updated **Glow in the Dahrk** FOMOD instructions.
 - ⚠️ Mod keybindings: Updated with shader controller hotkey.
 </details>
