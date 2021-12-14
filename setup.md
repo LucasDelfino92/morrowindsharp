@@ -1,10 +1,12 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)
 
-# MORROWIND SETUP
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 ![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner_Setup.jpg)
 
-# Requirements
+# MORROWIND SETUP
+
+## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
   - Installation instructions are found on the next section. 
@@ -16,7 +18,7 @@
 
 > Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
-# Installation
+## Installation
 
 You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
@@ -33,7 +35,7 @@ C:\Games\Morrowind Mods
 
 > Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
 
-## Cleaning up your GOG installation
+### Cleaning up your GOG installation
 
 To clean up your GOG installation of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
 
@@ -47,7 +49,7 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 > Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
-# Morrowind Code Patch
+# MORROWIND CODE PATCH
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
@@ -69,7 +71,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
-# MGE XE and MWSE
+# MGE XE AND MWSE
 
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
@@ -96,7 +98,7 @@ This file contemplates the following landscape-altering scenarios:
 
 The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
-# Mod Organizer 2
+# MOD ORGANIZER 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
@@ -187,7 +189,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-# CONFIGURING MGE XE IN MO2
+## MGE Configuration
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
@@ -363,7 +365,7 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 
 > Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
-# MOVING ON TO MORROWIND#
+# MOVING ON TO THE NEXT SECTION
 
-[To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
