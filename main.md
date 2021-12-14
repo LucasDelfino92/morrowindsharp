@@ -284,6 +284,9 @@ Replaces the default splash screens with better quality widescreen versions (16:
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
+
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -1586,10 +1589,11 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>3.1.3 (December 14th)</summary>
+	<summary>December 14th</summary>
 
 - Renamed document to main.md.
 - Rewrote modding tips and Mod Organizer 2 tips section.
+- 🆕 User interface: Add [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z).
 - 🆕 Overhauls: Added [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)
 - 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - ⚠️ Patches: Updated **AtlAd** BAIN instructions to remove Glow in the Dahrk patches, since these have to be updated.
@@ -1598,19 +1602,19 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 </details>
 
 <details>
-	<summary>3.1.2 (December 10th)</summary>
+	<summary>December 10th</summary>
 
 - Moved **Audio**, **Music**, and **Dialogue** to the bottom of the guide, analogue to my **Left My Heart In New Vegas** modding guide.
 - Made **Music** mods non-optional, with the exception of **Better Music System Redone for MUSE 2** (since it adds non-Jeremy Soule music).
-- 🆕 Music: Added [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
+- 🆕 Music: Added **MUSE 2 - Vanilla Intro Music**.
 - ⚠️ MWSE Config: Fixed settings for **Ashfall** and **Watch the Skies**.
 </details>
 
 <details>
-	<summary>3.1.1 (December 6th)</summary>
+	<summary>December 6th</summary>
 
 - Moved **I Lava Good Mesh Replacer**, **Improved Thrown Weapon Projectiles** and **Just Drop It** to **Patches**. Even if they serve an aesthetic purpose, they fix problems with the vanilla game in a way other visual mods in the guide do not.
-- 🆕 [**MWSE Config 3.1.1**](https://drive.google.com/file/d/13YJKjF0qc6Bvs-bg0qUDcJm8jtTxn1vd/view?usp=sharing). BAIN installer that automatically configures mods installed in the guide. Replaces manual configuration instructions. Note that configuration files present in your **Overwrite** folder will override those included in this mod, and you should thus delete them, at the expense of losing your current configuration.
+- 🆕 **MWSE Config 3.1.1**. BAIN installer that automatically configures mods installed in the guide. Replaces manual configuration instructions. Note that configuration files present in your **Overwrite** folder will override those included in this mod, and you should thus delete them, at the expense of losing your current configuration.
 - 🆕 [**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)
 - 🆕 [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)
 - 🚫 **Weather Adjuster Preset**. Updated, and now included in **MWSE Config**.
@@ -1620,7 +1624,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 </details>
 
 <details>
-	<summary>3.1.0 (December 4th)</summary>
+	<summary>December 4th</summary>
 
 Most of the mods removed in this update were because I feel they weren't particularly important to most users. The big exception is, of course, **Class-Conscious Character Progression (CCCP)**, replaced in favor of **MULE**.
 
@@ -1645,46 +1649,13 @@ Most of the mods removed in this update were because I feel they weren't particu
 </details>
 
 <details>
-	<summary>3.0.9 (December 3rd)</summary>
+	<summary>December 3rd</summary>
 
 - 🚫 [**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969): I feel it encourages looking *just* for skill books.
 - 🚫 [**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933): Not many will find this mod useful.
 - 🚫 [**Quick Char (Timescale6 Edit)**](https://www.nexusmods.com/morrowind/mods/47706): Removed for compatibility with alternate start mods.
 - 🚫 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915): Removed for compatibility with alternate start mods.
 - 🚫 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708): I actually never used this mod, and I suspect many of those who installed it didn't use it either...
-</details>
-
-<details>
-	<summary>3.0.8 (November 26th)</summary>
-
-- Updated link to [**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing).
-</details>
-
-<details>
-	<summary>3.0.7 (November 21st)</summary>
-
-- Updated links for **Putting Power in Willpower**, **Wings of Will**, **Pickpocket**, **Stealth Improved**, and **Silver Tongue**. They now redirect to fixed and edited versions of these mods, instead of having to install the original and then install the fixes.
-- 🆕 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)
-</details>
-
-<details>
-	<summary>3.0.6 (November 18th)</summary>
-
-- ⚠️ Updated [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1-w40dh9kG5ZAQ6xr8FWlcozuADimHyjj/view?usp=sharing) link with latest fixes from **Necrolesian**.
-- ⚠️ Added [**Silver Tongue Fix**](https://drive.google.com/file/d/1XPFQEHLwSw74V06bsdisX794tgsM2m_r/view?usp=sharing). Fixes contributed by **Necrolesian**.
-- ⚠️ Removed **Putting Power in Willpower** Mod Config instructions, as the edited file already includes them by default.
-</details>
-
-<details>
-	<summary>3.0.5 (November 18th)</summary>
-
-- BAIN installers which would require the player to reinstall them again later on in the guide have all the appropiate options installed by default, and the mods they are patched moved before them in the mod order. This should cut down on the amount of work required by the player.
-</details>
-
-<details>
-	<summary>3.0.4 (November 17th)</summary>
-
-- 🚫 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): Removed because even though I think tooltips are nice, it can cause your inventory to get really cluttered and makes it harder to compare items than it should be.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
