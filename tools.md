@@ -3,32 +3,27 @@
 
 # TOOLS
 
-# Cleaning plugins
+## Cleaning plugins
 
 Nearing the end of **Morrowind#** you may or may not find a section of plugins that that require cleaning, separated into [**manual cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#manually-cleaning-plugins) and [**automatically cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#automatically-cleaning-plugins), and you will be redirected here.
 
 We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Setup [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) section. If not, go back and install them.
 
-## tes3cmd
+### tes3cmd
 
 There are two ways to clean plugins using tes3cmd. We will look at both of them.
 
-### Individual cleaning
-
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, right-click on the plugin you want to clean and click **Clean with tes3cmd**. After the process is over, close the window.
+- Select the **Mods** tab.
+  - To individually clean a plugin, right-click on it and click **Clean with tes3cmd**.
+  - To mass clean plugins, use SHIFT+left-click to select the plugins you want to clean and click **Clean with tes3cmd**.
+- After the process is over, close the window.
 
-### Mass cleaning
+There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) edits. In **Morrowind#**, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
 
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, use SHIFT+left click to select the plugins you want to clean.
-- Right-click on any of the highlighted plugins, and click **Clean with tes3cmd**. After the process is over, close the window.
+> Note that if you reinstall a mod, their plugins will be dirty again, and you will have to repeat the process.
 
-There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) records edits. In Morrowind#, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
-
-> Note that if you reinstall a mod with a dirty plugin, its plugin will be dirty again. You will have to repeat the cleaning process for this specific plugin.
-
-## TESAME
+### TESAME
 
 - Run TESAME in Mod Organizer 2.
 - Go to **Mods -> Open ..**
@@ -42,7 +37,7 @@ The edited plugin will have overwritten the existing plugin.
 
 > TESAME doubles down as a conflict solving utility. Using TESAME, you can delete records from a mod which conflict with another mod's.
 
-# Updating saves
+## Updating saves
 
 When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
 ```
@@ -51,7 +46,7 @@ Errors may occur during load or game play. Do you wish to continue?
 ```
 To fix this, we have to synchronize our save's plugins to our current load order.
 
-## Wrye Mash
+### Wrye Mash
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
@@ -62,11 +57,11 @@ To fix this, we have to synchronize our save's plugins to our current load order
 
 Repeat this process for each of your faulty saves.
 
-# Repairing saves
+## Repairing saves
 
 Whenever you uninstall or modify plugins in an on-going save, it is a good practice to repair it using Wrye Mash. Wrye Mash may not fully repair it, but it is certainly better than nothing.
 
-## Wrye Mash
+### Wrye Mash
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Saves** tab, you will see a list with all your saves.
@@ -75,9 +70,9 @@ Whenever you uninstall or modify plugins in an on-going save, it is a good pract
 
 Repeat this process for each of your faulty saves.
 
-# Checking for conflicts
+## Checking for conflicts
 
-## TES3View
+### TES3View
 
 TES3View is a great tool that lets you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts.
 
