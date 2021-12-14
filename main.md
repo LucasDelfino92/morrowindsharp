@@ -11,113 +11,98 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
-## GENERAL MODDING RULES
+## MODDING TIPS
 
-The following are general tips to help you on installing mods. These aren't strict rules, but tips to follow if you are new to modding Morrowind.
+The following aren't strict rules, but tips to follow if you are new to modding Morrowind.
 
-- Always keep backup saves, particularly sone when uninstalling or installing mods.
-- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely.
-- Read mod descriptions, as they can clue you in regarding requirements, compatibility with other mods, and known issues. Always make it a habit to take a look at the mod's comments section: users can mention other issues with the mod, and possible fixes.
+- Always keep backup saves, particularly so when uninstalling or installing mods.
+- Read mod descriptions. They usually list requirements, compatibility with other mods, and known issues. User comments can also list issues and possible fixes, but take these with a grain of salt. Many users erroneously claim a mod isn't working, because of end user mistakes.
+- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely. Mod descriptions and user comments can help you out here.
 - Learn how file structure works. Incorrect file structure means mods will not work as intended.
-
-## BSA FILES
-
-Some mods come with **BSA files**, which contain data files for the mod. BSA files need to be registered in your **Morrowind.ini** file for the game to properly load the assets. Missing assets cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
+- Register BSA files when appropriate. BSA files contain data files for the mod you are installing, or for other mods to use as a resource. Failing to register your BSA files can cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c). This can also happen when a mod you are installing is missing assets.
 
 > To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 
 ## MOD ORGANIZER 2 TIPS
 
-### Installing Nexus mods with Mod Organizer 2
+### Mod manager download installation
 
-Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
+Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using the **Mod manager download** option. However, you still need to install these mods for them to work in-game.
 
-- Click **Mod manager download** under the file you want to download.
-- Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
 - Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Patch for Purists 4.0.2").
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name (e.g. **Patch for Purists 4.0.2**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
 
-> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
-
-### Installing multiple files from a same Nexus page with Mod Organizer 2
-
-There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
-
-Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
 ![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
 
 What these options do is simple:
 
-- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod. You could also use it to merge optional patches into the main file when these are downloaded from the same mod page.
-- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the totallity of the old files.
-- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files as different installed mods.
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This option is generally recommended when installing an update file that is separate from the main file, or optional files in the case you don't want to clutter your mod order.
+- **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
+- **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
+> By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
 
-### Manually installing mods with Mod Organizer 2
+> When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
 
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On other occasions, you will download a mod from a different site altogether.
+### Manual download installation
 
-- Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
+
+- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+
+The rest of the steps work exactly as during mod manager download installation.
+
+- MO2 will prompt you to give the mod a name. As before, I suggest giving it a descriptive name (e.g. **Correct UV Rocks 1.0**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
 
 ### BAIN installers
 
-BAIN installers allow modders to split their mods into a number of options. This way, the user can select the options they want to install. 
+BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
 
-This guide has numerous mods packaged as BAIN installers. Only the options you should install will be listed. If it is not listed, then you *must* skip that option.
-
-### Hiding files
-
-Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
-
-- To hide a plugin, right click on your installed mod and click **Information...**.
-- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
-- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
 
 ### Repackaging mods
 
 There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-> **The content of data files does not look valid.**
+![InvalidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_InvalidContent.png)
 
 In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
 
 - Repackage the mod yourself and install it through Mod Organizer 2.
-- Repackage the mod yourself *in* Mod Organizer 2.
+- Repackage the mod yourself in Mod Organizer 2.
 
-The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
+Mod Organizer 2 recognizes anything resembling a valid file structure (having folders such as **Meshes**, **Textures**, **Icons**, etc., or **.esp** and **.esm** files), allowing you to install it.
 
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles.png)
-
-In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
+In the case shown above, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
-- The message will tell you the content of data files looks valid.
+- Click **OK** to install the mod.
 
-Whenever you encounter this scenario, just do as I've shown above.
+![ValidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ValidContent.png)
 
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles2.png)
+In other cases, mods contain loose assets, and you will have to create folders to package them properly.
 
-In this case, the mod contains loose files, and you will have to create a folder to drop them in.
-
-Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of dragging and dropping your files inside.
-
-- Right-click on **data files**.
-- Click **Create directory...**.
+- Right-click on the **data files** root directory and click **Create directory...**.
 - Enter the name of the folder you want to create, and click **OK**.
-- The message will tell you the content of data files looks valid.
+- Drag and drop your files in the appropriate folders.
+- Click **OK** to install the mod.
 
-Whenever you encounter this scenario, I'll tell you which folders you have to create and what files you have to move.
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, be it assets or plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer clutter your load order. Hiding assets is useful when you don't want to install specific assets, or when you don't want them to overwrite another mod's.
+
+- Right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
 ### Creating a separator
 
@@ -126,11 +111,11 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
 
-I suggest creating a separator for each of the following mod categories. Separators can be collapsed to keep your mod list clean and tidy, which you will come to appreciate when you install over 100 mods.
+I suggest creating a separator for each mod category we will be installed. Separators can be collapsed to keep your mod list clean and tidy.
 
-### The Overwrite folder
+### Overwrite folder
 
-The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
+The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
 
 # MGE XE SHADERS
 
