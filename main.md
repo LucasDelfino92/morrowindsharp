@@ -119,7 +119,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 ## MGE XE shaders
 
-[**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing)  
+[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z)  
 A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
@@ -147,11 +147,8 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
-[**Correct UV Rocks**](http://mw.modhistory.com/download-56-12003)  
+[**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
 Fixes UV mapping on rocks and stones.
-- Hide **meshes\f\Terrain_rock_WG_17.nif**.
-
-> The hidden mesh has different proportions than the vanilla mesh, which causes it to hide the entrance to a certain cave.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -207,10 +204,8 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
-[**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1lTmzK-svD9HPW4utmza9Cy0zZ2Rif7dh/view?usp=sharing)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-
-> This edit of [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) fixes a number of bugs with the mod and improves its balance.
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z)  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)  
 Corrects thrown projectiles inflicting twice their listed damage. 
@@ -283,7 +278,7 @@ HD recreation of the Title and Logo Intro, in widescreen.
 
 > In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
-[**Widescreen Splash Replacer**](https://drive.google.com/file/d/17-30nzCCIb_ytqZzST17u7_2-RuMkp8j/view?usp=sharing)  
+[**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
@@ -506,8 +501,8 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - BAIN options to install:
   - [X] 00 - Core
 
-[**Master Index (UMOPP Version)**](https://drive.google.com/file/d/1aBvsUnxWjyjotaOfw0tWpi0BaAsmbxEo/view?usp=sharing)  
-Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Original plugin by Bethesda, with additional fixes by PikachunoTM.
+[**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
+Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Original plugin by **Bethesda**, with additional fixes by **PikachunoTM**.
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
@@ -532,10 +527,8 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-[**Wings of Will (Necro Edit)**](https://drive.google.com/file/d/1JoPGdFejn5cG0Thzt3FSNx-UY0uU6OHU/view?usp=sharing)  
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-> This edit of [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) fixes a bug with the mod.
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
+Levitation speed is now based on Willpower attribute instead of Speed. Original mod by **Sataniel**, with additional fixes by **Necrolesian**.
 </details>
 
 ## Overhauls
@@ -562,15 +555,11 @@ Dynamically adjusts how much merchants will pay for items. Items worth more than
 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)  
 Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
 
-[**Pickpocket (Sigourn Edit)**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+[**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing. Original mod by **Mort**, with additional fixes by **Sigourn**.
 
-> This edit of [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) fixes a bug with the mod.
-
-[**Stealth Improved (Necro Edit)**](https://drive.google.com/file/d/1HlfdOikljg-3l1tMa84UVhMbN07Ca8s_/view?usp=sharing)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-> This edit of [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) fixes a number of bugs with the mod and improves its balance.
+[**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle. Original mod by **Mort**, with additional fixes by **Necrolesian**.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
@@ -628,10 +617,8 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
-[**Silver Tongue (Necro Edit)**](https://drive.google.com/file/d/14mKjLugcz24NtyCUWNw_G7OT2EGylXiw/view?usp=sharing)  
-Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
-
-> This edit of [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) fixes a number of bugs with the mod.
+[**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
+Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. Additional mod by **VitruvianGuar**, with additional fixes by **Necrolesian**.
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code.
@@ -831,21 +818,19 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 00 Core
   - [X] 01 Original Color
 
-[**Well Diversified**](https://drive.google.com/file/d/12BBB0Sc_c_C3taYi3PN5i4lta2YV4-sG/view?usp=sharing)  
+[**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 
-[**Bitter Coast Sounds (UMOPP Version)**](https://drive.google.com/file/d/1150ivsDWubFdDKRypgsisVeBbVMyRiAQ/view?usp=sharing)  
-Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by Bethesda, with additional fixes by PikachunoTM.
+[**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
+Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by **Bethesda**, with additional fixes by **PikachunoTM**.
 
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
 - BAIN options to install:
   - [X] 00 MWSE
 
-[**Flies (ProfArmitage Edit)**](https://drive.google.com/file/d/12O5oIzGzdNnanPhoHZMT7ZpZxI65W06J/view?usp=sharing)  
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
-
-> This edit of [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) fixes the underwater flies bug. Fix contributed by **ProfArmitage**.
+[**Flies (ProfArmitage Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
+Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Original mod by **R-Zero**, with additional fixes by **ProfArmitage**.
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
@@ -866,7 +851,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
 
 Additional files to install:
-- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://drive.google.com/file/d/1mOKQq8hj2eOBDn7fJIpzWJoqbG8JPmHS/view?usp=sharing). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
+- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -989,7 +974,7 @@ Allows you to hear the beating Heart of Lorkhan all the way to the exterior of t
 Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
 - Rename the file to **Outdoor Banners With Sound** before installing it.
 
-[**Quieter Doors and Spells**](https://drive.google.com/file/d/1cXfqRCifgT_cwTOPCeu-iBdw874Qj2Mn/view?usp=sharing)  
+[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells%201.1.7z)  
 Reduces the volume of doors and spells.
 
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
@@ -1005,10 +990,10 @@ Simulates water sounds when colliding with generic fake animated water meshes, l
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
-- [**MUSE 2.02 - Necro Edit**](https://drive.google.com/file/d/17YaIBuoR1MFeN-JtDkWV-V2YQQ2eoq-t/view?usp=sharing). Fixes a number of bugs with the original mod.
+- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z). Fixes a number of bugs with the original mod.
   - BAIN options to install:
     - [X] Bugfix
-- [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing). Restores the vanilla music for the introductory scene at the Imperial prison ship.
+- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z). Restores the vanilla music for the introductory scene at the Imperial prison ship.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Anonymous selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
@@ -1505,7 +1490,7 @@ Make it a habit to update MWSE whenever you play Morrowind, and particularly whe
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.2**](https://drive.google.com/file/d/1t5cAN0kQ9aa66ZAcL88vNAG1D-inl2Y9/view?usp=sharing)  
+[**MWSE Config 3.1.2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.2.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
