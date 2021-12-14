@@ -1407,7 +1407,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 
 > This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
-## AUTOMATICALLY CLEANING OUR PLUGINS
+### AUTOMATICALLY CLEANING OUR PLUGINS
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
