@@ -1,5 +1,5 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -7,7 +7,7 @@
 
 ## DISCLAIMER
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
+The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
 ## MODDING TIPS
 
@@ -1592,7 +1592,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - **Ownership Overhaul**: this mod touches on a *lot* of items in the game which are unowned, including doors, and it's not unusual at all for other mods (particularly big overhauls, like towns and cities) to override many of the changes made by this mod to a given location (e.g. a Pelagiad overhaul overriding the ownership of many items). Moreover, mods that add items to the game world may not account for ownership either, meaning those items are free for the taking.
   - Recommendation: just load conflicting .esms and .esps after Ownership Overhaul.
 - **Morrowind Anti-Cheese**: this mod makes changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with this mods. Depending on the conflict, it can be virtually harmless or serious (a mod overriding these balance changes altogether).
-  - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
+  - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 # CHANGELOG
 
@@ -1712,5 +1712,5 @@ Most of the mods removed in this update were because I feel they weren't particu
 - 🚫 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976): Removed as it doesn't work well with **Better Questlist** (bringing up the quest list through the hotkeys doesn't include player filters).
 </details>
 
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
