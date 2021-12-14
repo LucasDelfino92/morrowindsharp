@@ -1702,15 +1702,5 @@ Most of the mods removed in this update were because I feel they weren't particu
 - 🚫 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842): Removed because even though I think tooltips are nice, it can cause your inventory to get really cluttered and makes it harder to compare items than it should be.
 </details>
 
-<details>
-	<summary>3.0.3 (November 12th)</summary>
-
-- ⚠️ [**Putting Power In Willpower (Necro Edit)**](https://drive.google.com/file/d/1VBIrkT2R7Uog2aTReMPFvx2fjRC3s2S6/view?usp=sharing): Updated download link. Fix contributed by **Necrolesian**.
-- ⚠️ **MUSE 2.02 - Necro Edit**: Updated BAIN installation instructions.
-- 🚫 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300): Removed as Patch for Purists should already include this fix.
-- 🚫 [**MWSEabotlib**](https://www.nexusmods.com/morrowind/mods/47717): Removed as only **Smart Ammo** uses that file, and it is up to date.
-- 🚫 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976): Removed as it doesn't work well with **Better Questlist** (bringing up the quest list through the hotkeys doesn't include player filters).
-</details>
-
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
