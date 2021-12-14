@@ -1,7 +1,5 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
-
-# MORROWIND#
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -13,129 +11,96 @@ The guide presented here assumes you have already followed all instructions foun
 
 ## MODDING TIPS
 
-### Don't uninstall mods mid-playthrough
+The following aren't strict rules, but tips to follow if you are new to modding Morrowind.
 
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+- Always keep backup saves, particularly so when uninstalling or installing mods.
+- Read mod descriptions. They usually list requirements, compatibility with other mods, and known issues. User comments can also list issues and possible fixes, but take these with a grain of salt. Many users erroneously claim a mod isn't working, because of end user mistakes.
+- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely. Mod descriptions and user comments can help you out here.
+- Learn how file structure works. Incorrect file structure means mods will not work as intended.
+- Register BSA files when appropriate. BSA files contain data files for the mod you are installing, or for other mods to use as a resource. Failing to register your BSA files can cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c). This can also happen when a mod you are installing is missing assets.
 
-### Always keep backup saves
-
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.  
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
-
-### Read the descriptions
-
-Mod descriptions exist for a reason. The elaborate ones, usually for a *good* reason. Apart from describing what a mod is supposed to, descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### BSA files
-
-Some mods come with BSA files. These contain data files for the mod. The most popular mod which includes BSA files is the **Tamriel Rebuilt** project, which is not part of this guide. **BSA files** need to be **registered** in your Morrowind.ini file for the game to properly load the assets. Failing to do so results in a well known phenomenon of [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c).
-
-To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
-
-> Note that Morrowind# features no mods that use BSA files.
+> To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 
 ## MOD ORGANIZER 2 TIPS
 
-### Installing Nexus mods with Mod Organizer 2
+### Mod manager download installation
 
-Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
+Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using the **Mod manager download** option. However, you still need to install these mods for them to work in-game.
 
-- Click **Mod manager download** under the file you want to download.
-- Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
 - Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Patch for Purists 4.0.2").
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name (e.g. **Patch for Purists 4.0.2**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
 
-> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
-
-### Installing multiple files from a same Nexus mod with Mod Organizer 2
-
-There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
-
-Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
 ![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
 
 What these options do is simple:
 
-- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod.
-- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
-- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This option is generally recommended when installing an update file that is separate from the main file, or optional files in the case you don't want to clutter your mod order.
+- **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
+- **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
+> By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
 
-### Manually installing mods with Mod Organizer 2
+> When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
 
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On other occasions, you will download a mod from a different site altogether.
+### Manual download installation
 
-- Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
+
+- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+
+The rest of the steps work exactly as during mod manager download installation.
+
+- MO2 will prompt you to give the mod a name. As before, I suggest giving it a descriptive name (e.g. **Correct UV Rocks 1.0**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
 
 ### BAIN installers
 
-BAIN installers allow modders to split their mods into a number of options. This way, the user can select the options they want to install. 
+BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
 
-This guide has numerous mods packaged as BAIN installers. Only the options you should install will be listed. If it is not listed, then you *must* skip that option.
-
-### Hiding files
-
-Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
-
-- To hide a plugin, right click on your installed mod and click **Information...**.
-- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
-- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
 
 ### Repackaging mods
 
 There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-> **The content of data files does not look valid.**
+![InvalidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_InvalidContent.png)
 
 In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
 
 - Repackage the mod yourself and install it through Mod Organizer 2.
-- Repackage the mod yourself *in* Mod Organizer 2.
+- Repackage the mod yourself in Mod Organizer 2.
 
-The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything* resembling a file structure (folders such as **Meshes** and **Textures**, or **.esp** and **.esm** files) the mod will be considered valid.
+Mod Organizer 2 recognizes anything resembling a valid file structure (having folders such as **Meshes**, **Textures**, **Icons**, etc., or **.esp** and **.esm** files), allowing you to install it.
 
-![DataFiles1](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles.png)
-
-In this case, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
+In the case shown above, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
 - Right-click on **Data Files**.
 - Click **Set as data files directory**.
-- The message will tell you the content of data files looks valid.
+- Click **OK** to install the mod.
 
-Whenever you encounter this scenario, just do as I've shown above.
+![ValidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ValidContent.png)
 
-![DataFiles2](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_DataFiles2.png)
+In other cases, mods contain loose assets, and you will have to create folders to package them properly.
 
-In this case, the mod contains loose files, and you will have to create a folder to drop them in.
-
-Right-clicking on **data files** and clicking **Create directory...** will let you create a folder, and then it's just a matter of dragging and dropping your files inside.
-
-- Right-click on **data files**.
-- Click **Create directory...**.
+- Right-click on the **data files** root directory and click **Create directory...**.
 - Enter the name of the folder you want to create, and click **OK**.
-- The message will tell you the content of data files looks valid.
+- Drag and drop your files in the appropriate folders.
+- Click **OK** to install the mod.
 
-Whenever you encounter this scenario, I'll tell you which folders you have to create and what files you have to move.
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, be it assets or plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer clutter your load order. Hiding assets is useful when you don't want to install specific assets, or when you don't want them to overwrite another mod's.
+
+- Right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
 ### Creating a separator
 
@@ -144,13 +109,15 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
 
-I suggest creating a separator for each of the following mod categories. Separators can be collapsed to keep your mod list clean and tidy, which you will come to appreciate when you install over 100 mods.
+I suggest creating a separator for each mod category we will be installed. Separators can be collapsed to keep your mod list clean and tidy.
 
-### The Overwrite folder
+### Overwrite folder
 
-The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant Land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
+The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.
 
-# MGE XE SHADERS
+# MORROWIND#
+
+## MGE XE SHADERS
 
 [**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing)  
 A compilation of a handful of community-made shaders.
@@ -164,7 +131,7 @@ A compilation of a handful of community-made shaders.
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-# PATCHES
+## PATCHES
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
@@ -225,10 +192,8 @@ Unofficial add-on to Project Atlas which seeks to maintain parity with the Morro
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
-  - [X] 02 GITD
-  - [X] 02 GITD - Interior Sunrays
 
-> We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section. Note that the **AtlAd** patch for Glow in the Dahrk is more updated than the one included in **Project Atlas**, hence why we skipped it.
+> We will install **Intelligent Textures** in the **Visuals** section.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
@@ -301,7 +266,7 @@ Makes the game treat skill increases from quests as if there were raised via nor
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 </details>
 
-# USER INTERFACE
+## USER INTERFACE
 
 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
@@ -392,7 +357,7 @@ Renames propylon indexes so they'll group together in the inventory.
 Renames soulgems so they'll group together in the inventory.
 </details>
 
-# GAMEPLAY QUALITY OF LIFE
+## GAMEPLAY QUALITY OF LIFE
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -410,7 +375,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
  
 Additional files to install:
 - **GH Patches and Replacers**. Includes patches for a number of mods.
-  - Rename the file to **Graphic Herbalism MWSE Patches and Replacers** before installing it.
+  - **Rename** to **Graphic Herbalism MWSE Patches and Replacers**.
   - BAIN options to install:
     - [X] 10 Atlas - Vanilla BC Mushrooms
 - [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154). Fixes a collision bug with harvested Ash Yams.
@@ -462,7 +427,7 @@ Lets you open or close any book or scroll in the game.
 > We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section.
 </details>
 
-# GAMEPLAY
+## GAMEPLAY
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop.
@@ -546,7 +511,7 @@ Adds a new quest to find all ten Propylon Indices. The quest can be started by t
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
-  - Rename the file to **Better Propylon Teleport Script** before installing it.
+  - **Rename** to **Better Propylon Teleport Script**.
   - Hide **Better Propylon Teleport Warp.ESP**.
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -573,7 +538,7 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 > This edit of [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) fixes a bug with the mod.
 </details>
 
-# OVERHAULS
+## OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
@@ -582,14 +547,20 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 
 > The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
+[**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
+Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
+
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably cheaper as they rise in price.
+[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+
+[**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)  
+Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
 
 [**Pickpocket (Sigourn Edit)**](https://drive.google.com/file/d/11oOuWwa0wrOnmGi9SShSV0O-vi8PdTDO/view?usp=sharing)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -674,7 +645,7 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 </details>
 
-# VISUALS
+## VISUALS
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -735,11 +706,10 @@ Scummier scum texture for Lougian's Scum Retexture mod.
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - FOMOD options to install:
-  - [X] Interior Sunrays
   - [X] Nord Glass Windows
   - [X] Raven Rock Glass Windows
   - [X] Hi-Res Window Texture Replacer
-  - [X] No Telvanni Dormers
+  - [X] None Telvanni Dormers on Vvardenfell
 
 [**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/)  
 Adds a more realistic sunglare.
@@ -960,10 +930,10 @@ Turns the vanilla green coins into golden coins. A fortunate side effect is that
 - Install the **Gold coins** main file.
 
 Additional files to install:
-- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled Simple Golden Gold textures.
+- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
 </details>
 
-# AUDIO
+## AUDIO
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
@@ -983,6 +953,7 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 
 Additional files to install:
 - **AURA 3.0 - replacer** (Optional file section). Replaces some of the worst sounds from Morrowind.
+  - **Merge** into the main file.
   - BAIN options to install:
     - [X] 00 Waves
     - [X] 01 Boat waves
@@ -1028,7 +999,7 @@ Vanilla-friendly replacer of each vanilla spell sound.
 Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
 </details>
 
-# MUSIC
+## MUSIC
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
@@ -1054,7 +1025,7 @@ Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, 
 > This mod is listed under **Optional** because it adds non-Jeremy Soule music to the game.
 </details>
 
-# DIALOGUE
+## DIALOGUE
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
@@ -1081,9 +1052,9 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 </details>
 
-# FINISHING TOUCHES
+## FINISHING TOUCHES
 
-## FINAL MOD ORDER AND LOAD ORDER
+### FINAL MOD ORDER AND LOAD ORDER
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -1110,7 +1081,6 @@ Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
-Glow in the Dahrk
 AtlAd
 Expeditious Exit
 Borrowed Time
@@ -1203,9 +1173,11 @@ Restocking Alchemy Essentials
 	Wading in Water MW
 	Wings of Will (Necro Edit)
 MULE - Mort's Ultimate Leveling Experience
+Alchemy Takes Time
 Controlled Consumption
 Dungeons Rest
-Harder Barter
+Harder Barter (Sigourn Edit)
+Magicka Regeneration Suite
 Pickpocket (Sigourn Edit)
 Stealth Improved (Necro Edit)
 Morrowind Anti-Cheese
@@ -1235,6 +1207,7 @@ Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
 Scummy Scum
+Glow in the Dahrk
 Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
@@ -1399,7 +1372,7 @@ Merged Objects.ESP
 > We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
-## SYNCHRONIZING MOD MASTERS
+### SYNCHRONIZING MOD MASTERS
 
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
@@ -1411,7 +1384,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 > The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
 
-## MANUALLY CLEANING OUR PLUGINS
+### MANUALLY CLEANING OUR PLUGINS
 
 > This section includes plugins from the optional sections of the guide.
 
@@ -1434,7 +1407,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 
 > This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
-## AUTOMATICALLY CLEANING OUR PLUGINS
+### AUTOMATICALLY CLEANING OUR PLUGINS
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
@@ -1446,7 +1419,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - With all of them selected, right-clik and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
-## CONFLICT RESOLUTION
+### CONFLICT RESOLUTION
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
@@ -1460,7 +1433,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-## UPDATING AND REPAIRING SAVES
+### UPDATING AND REPAIRING SAVES
 
 When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
 ```
@@ -1480,7 +1453,7 @@ To fix this, we have to synchronize our save's plugins to our current load order
 
 You do not need to repeat this process for each of your outdated saves, but just the ones you are planning to load.
 
-## RE-RUNNING DISTANT LAND
+### RE-RUNNING DISTANT LAND
 
 MGE XE's Distant Land setup should be rerun. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
@@ -1493,7 +1466,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 > For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are only used for Distant Land generation. If you enable them, you will find that you are unable to walk through grass.
 
-## SHADER SETUP
+### SHADER SETUP
 
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
@@ -1519,7 +1492,7 @@ r0_qk_shaker
 
 > Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
-## UPDATING MWSE
+### UPDATING MWSE
 
 When you installed MGE XE, it automatically downloaded the latest MWSE update. However, by the time you are done following this guide, it's perfectly possible that a new MWSE update has already been released. This means you will have to update MWSE yourself.
 
@@ -1528,7 +1501,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 
 Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-## MOD CONFIG
+### MOD CONFIG
 
 A number of mods require additional in-game configuration.
 	
@@ -1558,7 +1531,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   - [ ] 07 Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
   - [ ] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
-## ADDITIONAL MCP PATCHES
+### ADDITIONAL MCP PATCHES
 
 > This section is exclusively for followers of the optional Overhauls section of the guide.
   
@@ -1572,7 +1545,7 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
-## CLOSING COMMENTS
+### CLOSING COMMENTS
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
 
@@ -1599,6 +1572,7 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
+V | Opens shader controller | MGE XE Shader Pack
 Ctrl+Y | Turbo fast forward time | Pass the Time
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
@@ -1627,12 +1601,24 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>3.1.3 (December 14th)</summary>
+
+- Renamed document to main.md.
+- Rewrote modding tips and Mod Organizer 2 tips section.
+- 🆕 Overhauls: Added [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)
+- 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
+- ⚠️ Patches: Updated **AtlAd** BAIN instructions to remove Glow in the Dahrk patches, since these have to be updated.
+- ⚠️ Visuals: Updated **Glow in the Dahrk** FOMOD instructions.
+- ⚠️ Mod keybindings: Updated with shader controller hotkey.
+</details>
+
+<details>
 	<summary>3.1.2 (December 10th)</summary>
 
 - Moved **Audio**, **Music**, and **Dialogue** to the bottom of the guide, analogue to my **Left My Heart In New Vegas** modding guide.
 - Made **Music** mods non-optional, with the exception of **Better Music System Redone for MUSE 2** (since it adds non-Jeremy Soule music).
-- 🆕 [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
-- ⚠️ Fixed **MWSE Config** settings for **Ashfall** and **Watch the Skies**.
+- 🆕 Music: Added [**MUSE 2 - Vanilla Intro Music**](https://drive.google.com/file/d/10KZFBQ0yWT7AnGOd1Zocd9GUfWPByUok/view?usp=sharing)
+- ⚠️ MWSE Config: Fixed settings for **Ashfall** and **Watch the Skies**.
 </details>
 
 <details>
@@ -1726,63 +1712,5 @@ Most of the mods removed in this update were because I feel they weren't particu
 - 🚫 [**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976): Removed as it doesn't work well with **Better Questlist** (bringing up the quest list through the hotkeys doesn't include player filters).
 </details>
 
-<details>
-	<summary>3.0.2 (November 8th)</summary>
-
-- 🆕 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)
-- ⚠️ **Tooltips Complete**: Removed instructions for Tamrielic Lore Tooltips users.
-- ⚠️ **Watch the Skies** Removed instructions for Creeping Blight users.
-- 🚫 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954): Removed as its addition was more annoying than fun.
-- 🚫 [**Blight Is Coming**](https://www.nexusmods.com/morrowind/mods/47649): Removed as its addition was more annoying than fun.
-- 🚫 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904): Removed in favor of Watch the Skies' own blight storm mechanic.
-- 🚫 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456): Removed as its addition was more annoying than fun.
-- 🚫 [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403): Removed as its addition was barely noticeable.
-- 🚫 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371): Removed as its addition was barely noticeable.
-- 🚫 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603): Removed as its addition was barely noticeable.
-</details>
-
-<details>
-	<summary>3.0.1 (November 7th)</summary>
-
-The removal of **Better Character Classes** is not compatible with an existing playthrough.
-
-- Fixed mod order and plugin order, as they had mods/plugins listed from mods which had already been removed from the guide.
-- **Gameplay**: Added a few more mods from the **Overhauls** section here.
-- **Overhauls**: Moved a few more optional mods into the main section. This should make the difference between the main and optoinal mods much clearer than before.
-- 🆕 [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802): Replaces Bitter Coast Redux's scum texture.
-- 🚫 [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632): It somewhat cheapens inns and Ashfall.
-- 🚫 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078): Its changes affect not only the player, but also NPCs designed with the classes' vanilla attributes and skills in mind.
-- 🚫 [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540): Vampire players are a minority, and I doubt this is the mod they are looking for.
-- 🚫 [**New Horizons**](https://mw.modhistory.com/download-26-14824): Distant horizon clouding is pretty much not noticable when using lighting shaders.
-- 🚫 [**Glowing Atronachs**](https://www.nexusmods.com/morrowind/mods/46473): Would bug out, causing Atronachs to stop emitting light.
-- 🚫 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291): It was included to pair with the above, which has been removed.
-</details>
-
-<details>
-	<summary>3.0 (November 6th) and older</summary>
-
-This update is not compatible with an existing playthrough.
-
-- **Gameplay**: Completely re-organized this section to prioritize mods which I consider must haves.
-- **Overhauls**: Completely re-organized this section to prioritize mods which I consider must haves.
-- **Music**: Removed option 1, as option 2 includes more "vanilla-friendly" music from Jeremy Soule.
-- ⚠️ **Area Effect Arrows Integrated**: Modified installation instructions.
-- ⚠️ **Tooltips Complete**: Modified configuration instructions.
-- 🚫 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133): Having played enough with CCCP, I'm confident this mod is not needed. If you have qualms about your character's health points, use CCCP's provided Excel and make the necessary adjustments to its in-game settings before starting a new character.
-- 🚫 [**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441): Removed as the guide is focused first and foremost on the vanilla game.
-- 🚫 [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680): Removed as it could be easily used to abuse merchants and other NPCs which were never meant to move from their spot.
-- 🚫 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130): Users have complained in the past about how brutal this mod can be regarding crime penalties.
-- 🚫 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194): Breaks established lore as the game acknowledges enchantments being enough for any weapon to bypass Normal Weapon Resistance.
-- 🚫 [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299): The mod can be very intrusive when it comes to leveling Acrobatics, a skill which by definition requires certain level of spam to level up naturally at a reasonable pace.
-- 🚫 [**Limited Resting Waiting and Regen**](https://www.nexusmods.com/morrowind/mods/49191): The mod can be very intrusive during normal gameplay. Moreover, Ashfall already implements penalties for passing time (hunger, thirst, tiredness).
-- 🚫 [**Mantle of Ascension - A Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870): Fun but ridiculously buggy.
-- 🚫 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283): Makes the early game easier and circumvents the joy of getting equipment you can call your own at the start of the game.
-- 🚫 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732): I found myself rarely using many of my skills and items as a single build favoured effectiveness over creativity.
-- 🚫 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215): Breaks established lore as the game acknowledges the possibility of capturing summoned creatures' souls.
-- 🚫 [**BTBGI (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308): Makes or breaks the guide according to many, including myself, hence its removal.
-- 🚫 [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782): Intended as an add-on to the above, no point with it gone.
-- 🚫 [**Dwemer Blinking Lights**](https://www.nexusmods.com/morrowind/mods/42274/): Should have been removed a few updates ago.
-</details>
-
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
