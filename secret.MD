@@ -1,12 +1,12 @@
-# RUNNING BTBGI AND OTHER MODS WITH MORROWIND#
+# SECRET ADD-ON
 
-## DISCLAIMER
+## Disclaimer
 
-The guide presented here assumes you have already followed all instructions found in the Morrowind#. Please abstain from using this guide until you've correctly set up Morrowind#.
+The guide presented here assumes you have already followed all instructions found in [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Please abstain from using this guide until you've correctly set up Morrowind Sharp.
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
 
-## PRELIMINARY STEPS
+## Preliminary steps
 
 This guide recommends a number of mods in favor of others already installed in Morrowind Sharp. Thus, you should uninstall them.
 
@@ -16,7 +16,7 @@ These mods are:
 - [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
 
-## BTBGI ADD-ON
+## BTBGI add-on
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
@@ -64,7 +64,7 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 
 > Note that this mod is *not* meant to make movement faster, only more natural.
 
-## EQUIPMENT ADD-ON
+## Equipment add-on
 
 All the following mods are contemplated by **BTBGI (Necro Edit) Tweaked**'s lua equipment patch. This means their stats will be adjusted when necessary.
 
@@ -127,7 +127,7 @@ Expands on the in-game integration of oriental ebony weapons from natinnet.
 Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
 - Also install [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing). Edits dialogue, journal entries, and robe names to polish it and make it more vanilla-friendly, as well as robe stats and enchantments to bring it up to speed with **BTBGI (Necro Edit) Tweaked**.
 
-## OAAB_DATA ADD-ON
+## OAAB_Data add-on
 
 These mods require the [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) asset repository, which you should already have installed in Morrowind Sharp.
 
@@ -148,7 +148,7 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
   - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
-## CITIES AND TOWNS ADD-ON
+## Cities and towns add-on
 
 [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
 Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
@@ -185,9 +185,9 @@ Compatibility patches for a series of mods altering Vivec and Molag Mar.
 - BAIN options to install:
   - [X] 05 No-Frills Series
 
-# FINISHING TOUCHES
+## Finishing touches
 
-## FINAL MOD ORDER AND LOAD ORDER
+## Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -582,7 +582,7 @@ Merged Objects.ESP
 ```
 </details>
 
-## MOD CONFIG
+### Mod config
 
 A number of mods require additional in-game configuration.
 	
@@ -592,7 +592,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
   - [X] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
-## ADDITIONAL MCP PATCHES
+### Additional MCP patches
 
 Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
