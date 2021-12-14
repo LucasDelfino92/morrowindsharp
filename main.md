@@ -1013,7 +1013,7 @@ Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, 
 > This mod is listed under **Optional** because it adds non-Jeremy Soule music to the game.
 </details>
 
-## DIALOGUE
+## Dialogue
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
