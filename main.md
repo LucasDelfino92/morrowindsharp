@@ -5,11 +5,11 @@
 
 # BEFORE WE BEGIN
 
-## DISCLAIMER
+## Disclaimer
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) page. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
-## MODDING TIPS
+## Modding tips
 
 The following aren't strict rules, but tips to follow if you are new to modding Morrowind.
 
@@ -21,7 +21,7 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 > To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 
-## MOD ORGANIZER 2 TIPS
+## Mod Organizer 2 tips
 
 ### Mod manager download installation
 
@@ -117,7 +117,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 # MORROWIND#
 
-## MGE XE SHADERS
+## MGE XE shaders
 
 [**MGE XE Shader Pack (26-11-2021)**](https://drive.google.com/file/d/1c94ZR8NLAOIit0NXsupCZBK0Wv7oPD9r/view?usp=sharing)  
 A compilation of a handful of community-made shaders.
@@ -131,7 +131,7 @@ A compilation of a handful of community-made shaders.
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-## PATCHES
+## Patches
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
@@ -266,7 +266,7 @@ Makes the game treat skill increases from quests as if there were raised via nor
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 </details>
 
-## USER INTERFACE
+## User interface
 
 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
@@ -357,7 +357,7 @@ Renames propylon indexes so they'll group together in the inventory.
 Renames soulgems so they'll group together in the inventory.
 </details>
 
-## GAMEPLAY QUALITY OF LIFE
+## Gameplay QOL
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -427,7 +427,7 @@ Lets you open or close any book or scroll in the game.
 > We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section.
 </details>
 
-## GAMEPLAY
+## Gameplay
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin Area Effect Arrows that distributes the new projectiles throughout the game world rather than dumping them all in one shop.
@@ -538,7 +538,7 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 > This edit of [**Wings of Will - Willpower Based Levitation Speed**](https://www.nexusmods.com/morrowind/mods/46626) fixes a bug with the mod.
 </details>
 
-## OVERHAULS
+## Overhauls
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
@@ -645,7 +645,7 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 </details>
 
-## VISUALS
+## Visuals
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -933,7 +933,7 @@ Additional files to install:
 - [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
 </details>
 
-## AUDIO
+## Audio
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
@@ -999,7 +999,7 @@ Vanilla-friendly replacer of each vanilla spell sound.
 Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
 </details>
 
-## MUSIC
+## Music
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
@@ -1052,9 +1052,9 @@ Shopkeepers will now comment with a line of voiced dialogue on a successful trad
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 </details>
 
-## FINISHING TOUCHES
+## Finishing touches
 
-### FINAL MOD ORDER AND LOAD ORDER
+### Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -1372,7 +1372,7 @@ Merged Objects.ESP
 > We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
-### SYNCHRONIZING MOD MASTERS
+### Synchronizing mod masters
 
 Wrye Mash lets us synchronize the masters of mods we have installed. This will prevent certain error messages from popping up when launching the game.
 
@@ -1384,7 +1384,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 > The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
 
-### MANUALLY CLEANING OUR PLUGINS
+### Manually cleaning plugins
 
 > This section includes plugins from the optional sections of the guide.
 
@@ -1407,7 +1407,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 
 > This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
-### AUTOMATICALLY CLEANING OUR PLUGINS
+### Automatically cleaning plugins
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
@@ -1419,7 +1419,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - With all of them selected, right-clik and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
-### CONFLICT RESOLUTION
+### Conflict resolution
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
@@ -1433,7 +1433,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-### UPDATING AND REPAIRING SAVES
+### Updating and repairing saves
 
 When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
 ```
@@ -1453,7 +1453,7 @@ To fix this, we have to synchronize our save's plugins to our current load order
 
 You do not need to repeat this process for each of your outdated saves, but just the ones you are planning to load.
 
-### RE-RUNNING DISTANT LAND
+### Re-running Distant Land
 
 MGE XE's Distant Land setup should be rerun. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
 
@@ -1466,7 +1466,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 > For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are only used for Distant Land generation. If you enable them, you will find that you are unable to walk through grass.
 
-### SHADER SETUP
+### Shader setup
 
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
@@ -1492,7 +1492,7 @@ r0_qk_shaker
 
 > Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
-### UPDATING MWSE
+### Updating MWSE
 
 When you installed MGE XE, it automatically downloaded the latest MWSE update. However, by the time you are done following this guide, it's perfectly possible that a new MWSE update has already been released. This means you will have to update MWSE yourself.
 
@@ -1501,7 +1501,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 
 Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-### MOD CONFIG
+### Mod config
 
 A number of mods require additional in-game configuration.
 	
@@ -1531,7 +1531,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   - [ ] 07 Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
   - [ ] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
 
-### ADDITIONAL MCP PATCHES
+### Additional MCP patches
 
 > This section is exclusively for followers of the optional Overhauls section of the guide.
   
@@ -1545,7 +1545,7 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
-### CLOSING COMMENTS
+### Closing comments
 
 Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
 
@@ -1558,7 +1558,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 7. Update MWSE.
 8. Configure the installed mods, if applicable.
 
-# MOD KEYBINDINGS
+# Mod keybindings
 
 > This section includes mods from the optional sections of the guide.
 
