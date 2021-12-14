@@ -193,7 +193,7 @@ Compatibility patches for a series of mods altering Vivec and Molag Mar.
 
 ## Finishing touches
 
-## Mod order and load order
+### Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
