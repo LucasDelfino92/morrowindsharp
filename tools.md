@@ -1,6 +1,8 @@
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
 
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+
 # TOOLS
 
 ## Cleaning plugins
