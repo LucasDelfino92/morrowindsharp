@@ -30,9 +30,9 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
-- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
+- Hide all plugins minus **CREL_Vanilla_v3.1.esp**.
 
-> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and towns** section.
+> This will only allow you to start in a random location in Vvardenfell.
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
@@ -318,7 +318,7 @@ Better Propylon Teleport Warp-Master Index.ESP
 Enhanced Light.ESP
 No Beds for the Diseased.ESP
 Speed and Movement.ESP
-CREL_Vanilla_STOTSP_v3.1.esp
+CREL_Vanilla_v3.1.esp
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
@@ -425,6 +425,12 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+  <summary>December 15th</summary>
+
+- ⚠️ (Overhauls) Replaced **Chargen Revamped - Expanded Lands** plugin, as it isn't compatible with the latest **Solstheim - Tomb of the Snow Prince** (which integrates **Anthology Solstheim**).
+</details>
 
 <details>
   <summary>December 14th</summary>
