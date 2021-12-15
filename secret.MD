@@ -238,6 +238,7 @@ The mods installed in this guide can be placed at the very end of **Morrowind Sh
 Class-Conscious Character Progression (CCCP)
 Chargen Revamped - Exanded Lands
 BTBGI (Necro Edit) Tweaked and Patches
+Area Effect Projectiles Integrated
 Economy Adjuster Adjustments
 Enchanted Weapon Resistance
 More Exclusive Factions
