@@ -297,11 +297,11 @@ It's time to finally run Morrowind.
 
 # TOOLS
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
 
 ## TES3View, TES3Merge, TESAME
 
-[**TES3View**](https://drive.google.com/file/d/1r1IzfCNH-mGYp_Q1-IeRpMg5SKQnm52u/view?usp=sharing)  
+[**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
 Used to see the structure of mods and detect conflicts.
 - Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
