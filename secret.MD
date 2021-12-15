@@ -30,9 +30,12 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
-- Hide all plugins minus **CREL_Vanilla_v3.1.esp**.
+- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
 
-> This will only allow you to start in a random location in Vvardenfell.
+Additional files to install:
+- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z). Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+
+> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and towns** section.
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
@@ -237,6 +240,7 @@ The mods installed in this guide can be placed at the very end of **Morrowind Sh
 ```
 Class-Conscious Character Progression (CCCP)
 Chargen Revamped - Exanded Lands
+Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch
 BTBGI (Necro Edit) Tweaked and Patches
 Area Effect Projectiles Integrated
 Economy Adjuster Adjustments
@@ -318,7 +322,8 @@ Better Propylon Teleport Warp-Master Index.ESP
 Enhanced Light.ESP
 No Beds for the Diseased.ESP
 Speed and Movement.ESP
-CREL_Vanilla_v3.1.esp
+CREL_Vanilla_STOTSP_v3.1.esp
+CREL_Vanilla_ASTOTSP_v3.1 Patch.esp
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
@@ -429,7 +434,7 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 <details>
   <summary>December 15th</summary>
 
-- ⚠️ (Overhauls) Replaced **Chargen Revamped - Expanded Lands** plugin, as it isn't compatible with the latest **Solstheim - Tomb of the Snow Prince** (which integrates **Anthology Solstheim**).
+- ⚠️ (Overhauls) Added **Chargen Revamped - Expanded Lands** patch for **Solstheim - Tomb of the Snow Prince**.
 </details>
 
 <details>
