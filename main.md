@@ -219,6 +219,9 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 <details>
 	<summary>Optional Patches - Click to expand</summary>
 
+[**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482)  
+Adds black bars to the sides of the vanilla game videos, including the Bloodmoon videos, so they won't appear stretched when playing in widescreen (16:9).
+
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
 - Hide/delete the **Textures** folder.
@@ -272,17 +275,13 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 High resolution replacer for the Daedric font used in scrolls. 
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
-[**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
-HD recreation of the Title and Logo Intro, in widescreen.
-- Install the **Title Screen Reworked (Widescreen)** main file.
-
-> In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
-
-[**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
+
+[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693)  
+Adds a confirmation popup when you click on the New Game button.
+
+> While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
@@ -318,10 +317,6 @@ Replaces the effect seen on magic items in the inventory (such as scrolls and en
 
 <details>
 	<summary>User Interface (Optional) - Click to expand</summary>
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
-Adds three missing Bethesda splash screens in widescreen resolution.
-- Create a **Splash** folder and move the **.tga** files inside.
 
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
@@ -455,6 +450,9 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 <details>
 	<summary>Gameplay (Optional) - Click to expand</summary>
 
+[**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972)  
+Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
+
 [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694)  
 Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
 
@@ -517,6 +515,9 @@ Prevents the player from renting beds if diseased, be it Common, Blight, or Corp
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
+Adds healing services to healers. Original mod by **Caeris**.
 
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
@@ -637,6 +638,26 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 ## Visuals
 
+[**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+HD recreation of the Title and Logo Intro, in widescreen.
+- Install the **Title Screen Reworked (Widescreen)** main file.
+
+> In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
+
+[**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
+Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
+
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
+Replaces most of the original book arts with hi-res images redrawn from scratch.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+- Install the **Pete's Journal and Scroll** optional file.
+- BAIN options to install:
+  - [X] 01 Journal and Scroll - 2K
+
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - BAIN options to install:
@@ -651,17 +672,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 - Only install the **kart_facelift_meshes** main file.
 
 > Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
-
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
-Replaces most of the original book arts with hi-res images redrawn from scratch.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
-- BAIN options to install:
-  - [X] 01 Journal and Scroll - 2K
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -700,9 +710,6 @@ Makes vanilla windows glow in the dark.
   - [X] Raven Rock Glass Windows
   - [X] Hi-Res Window Texture Replacer
   - [X] None Telvanni Dormers on Vvardenfell
-
-[**Here Comes The Sun... glare**](https://www.nexusmods.com/morrowind/mods/48574/)  
-Adds a more realistic sunglare.
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -766,6 +773,16 @@ Asset repository for the Morrowind Community, which contains resources which can
 
 > This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
+[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
+Adds three missing Bethesda splash screens in widescreen resolution.
+- Create a **Splash** folder and move the **.tga** files inside.
+
+[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
+Retextures the sun to make it more realistic and detailed.
+
+[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
+Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
+
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
 Adds 3D vines and falling particles to Emperor Parasol trees.
 - BAIN options to install:
@@ -778,9 +795,6 @@ Replaces the ashmires found throughout the ashen regions of Vvardenfell with mod
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-
-[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
-Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
 
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
@@ -885,11 +899,18 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
+[**LeFemmRedacted**](https://www.nexusmods.com/morrowind/mods/50361)  
+Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
+- Hide **meshes\a\imperial_c_female.nif**.
+
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
 - BAIN options to install:
   - [X] 00 Male Belt
   - [X] 01 Female Dark Cuirass
+
+[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
+Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
@@ -1078,6 +1099,7 @@ Putting Power in Willpower (Necro Edit)
 Thrown Projectiles Revamped
 Memory Monitor
 Sophisticated Save System
+	Unstretched Videos
 	Better Scamps
 	Correct UV Mudcrabs
 	Creature VFX Restoration
@@ -1092,9 +1114,8 @@ Sophisticated Save System
 	Skill Increase GMST Fix
 Better Readable Beauty Font
 Better Daedric Font
-Title Screen Reworked
-Widescreen Splash Replacer
 Continue
+New Game Confirmation
 UI Expansion
 Alchemical Knowledge
 Better Questlist
@@ -1104,7 +1125,6 @@ Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
 Magic Icons
-	Widescreen Splash Additions
 	Book Worm
 	Clock Block
 	HUD Weapon Charge
@@ -1139,6 +1159,7 @@ Lucky Strike - A Critical Hit Mod
 Pass the Time
 Poison Crafting
 Restocking Alchemy Essentials
+	Actually Unlimited Skeleton Key
 	Drop Light
 	FMI - Hospitality Papers Expanded
 	Hold Your Breath
@@ -1155,6 +1176,7 @@ Restocking Alchemy Essentials
 	Better Propylon Teleport Script
 	No Beds for the Diseased
 	Realistic Movement Speeds
+	Religions Elaborated (Healers)
 	Smarter Soultrap
 	Sneaky Strike
 	Useful Bound Armor
@@ -1186,17 +1208,18 @@ Bloodmoon Rebalance
 	Silver Tongue (Necro Edit)
 	Skills Module
 	Ashfall - A Camping Survival and Needs Mod
-Familiar Faces
-Facelift Meshes
+Title Screen Reworked
+Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
+Familiar Faces
+Facelift Meshes
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Scum Retexture
 Scummy Scum
 Glow in the Dahrk
-Here Comes The Sun... Glare
 Let There Be Darkness
 Watch the Skies
 Skies .IV Night Sky Mesh
@@ -1209,10 +1232,12 @@ Weapon Sheathing - Bow Position Edit
 Weapon Sheathing Additions
 Yet Another Guard Diversity - Regular
 	OAAB_Data
+	Widescreen Splash Additions
+	Better Sun
+	Dying Worlds - Moons Retexture
 	3D Vines Vanilla Mushroom Trees
 	Ashmire Replacer
 	Distant Mournhold
-	Dying Worlds - Moons Retexture
 	Inscribed Maar Gan Rock
 	Know Thy Ancestors
 	Nordic Chest Replacer
@@ -1238,7 +1263,9 @@ Yet Another Guard Diversity - Regular
 	Better Fitted Female Armors
 	Properly Fitted Female Pants
 	Complete Armor Joints
+	LeFemmRedacted
 	Imperial Steel Cuirass Tweaks
+	Bloodmoon Hide Replacer
 	Wolf Helmet Replacer 
 	Incarnates Overhauled
 	Silt Strider Animation Restored
@@ -1312,6 +1339,7 @@ Restocking Alchemy Essentials PoisonCrafting Patch.ESP
 	Better Propylon Teleport Warp-Master Index.ESP
 	Enhanced Light.ESP
 	No Beds for the Diseased.ESP
+	Religions Elaborated.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -1591,6 +1619,22 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 14th</summary>
+
+- 🆕 (User Interface) Added **New Game Confirmation**.
+- 🆕 (Gameplay, Optional) Added **Actually Unlimited Skeleton Key**.
+- 🆕 (Gameplay, Optional) Added **Religions Elaborated - Healers**.
+- 🆕 (Visuals) Added **Unstretched Videos**.
+- 🆕 (Visuals) Added **Better Sun**.
+- 🆕 (Visuals, Optional) Added **LeFemmRedacted**.
+- 🆕 (Visuals, Optional) Added **Bloodmoon Hide Replacer**.
+- ⚠️ (Visuals) Moved **Title Screen Reworked** to this section.
+- ⚠️ (Visuals) Moved **Widescreen Splash Replacer** to this section.
+- ⚠️ (Visuals, Optional) Moved **Widescreen Splash Additions** to this section.
+- 🚫 (Visuals) Removed **Here Comes the Sun... Glare**.
+</details>
 
 <details>
 	<summary>December 14th</summary>
