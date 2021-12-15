@@ -22,6 +22,7 @@ These mods are:
 - [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
 - [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
+- [**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)
 
 ## Overhauls add-on
 
@@ -350,7 +351,6 @@ Nordic Chest Replacer.ESP
 Trackless Grazeland.ESP
 OAAB Dwemer Pavements.ESP
 Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
-Well Diversified.ESP
 bcsounds.ESP
 Flies.ESP
 mistify.ESP
@@ -434,6 +434,7 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 <details>
   <summary>December 15th</summary>
 
+- ⚠️ (Preliminary steps) Added note to uninstall **Well Diversified**.
 - ⚠️ (Overhauls) Added **Chargen Revamped - Expanded Lands** patch for **Solstheim - Tomb of the Snow Prince**.
 </details>
 
