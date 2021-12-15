@@ -20,6 +20,7 @@ These mods are:
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
 - [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)
 - [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
+- [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
 
 ## BTBGI add-on
