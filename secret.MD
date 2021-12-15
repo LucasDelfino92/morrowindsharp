@@ -267,6 +267,7 @@ OAAB Weapons Integrated
 Tamriel_Data (HD)
 Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
+STOTSP Ownership Overhaul Patch
 Dagon Fel Mill Redux
 Nordic Dagon Fel
 Redaynia Restored
