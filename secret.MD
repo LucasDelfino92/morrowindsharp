@@ -23,10 +23,16 @@ These mods are:
 - [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
 
-## BTBGI add-on
+## Overhauls add-on
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
+
+[**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
+Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
+- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
+
+> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and towns** section.
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
@@ -71,7 +77,7 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 
 > Note that this mod is *not* meant to make movement faster, only more natural.
 
-## Equipment add-on
+## Content add-on
 
 All the following mods are contemplated by **BTBGI (Necro Edit) Tweaked**'s lua equipment patch. This means their stats will be adjusted when necessary.
 
@@ -152,8 +158,11 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Tribunal Rebalance Patch
+  - [X] 02 STOTSP Content Integration Patch
   - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
+
+> We will install **Solstheim - Tomb of the Snow Prince** in the **Cities and towns** section.
 
 ## Cities and towns add-on
 
@@ -162,7 +171,31 @@ Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by o
 - Install the **Tamriel Data (HD)** main file only.
 - [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
 
-> This asset repository is a pre-requisite for **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+> This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+
+[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
+Improves the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
+- Install **Solstheim Tomb of the Snow Prince**.
+- BAIN options to install:
+  - [X] 000 Core
+  - [X] 010 Solstheim - Tomb of the Snow Prince
+  - [X] 011 TOTSP Patches
+  - [X] 013 Fierce Wolf Helms
+  - [X] 014 Hide-Like Animal Pelts
+- Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
+- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**.
+
+> The **Fierce Wolf Helms** option is identical to the **Wolf Helmet Replacer** from **Morrowind Sharp**.
+
+Additional files to install:
+- **Solstheim Graphical Replacer**.
+  - BAIN options to install:
+    - [X] 010 Solstheim - HD Worldspace Graphical Replacer
+    - [X] 011 Skyrim-Like Trees
+    - [X] 012 Remiros' Groundcover for TOTSP
+    - [X] 013 Grey Solstheim Rocks
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**.
+- [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
@@ -196,248 +229,14 @@ Compatibility patches for a series of mods altering Vivec and Molag Mar.
 
 ### Mod order and load order
 
-The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
+The mods installed in this guide can be placed at the very end of **Morrowind Sharp**'s mod order.
 
 <details>
   <summary>Mod order</summary>
 
 ```
-DLC: Tribunal
-DLC: Bloodmoon
-MGE XE Shader Pack
-Pixel Shader Style Water for MGE XE
-Patch for Purists
-Expansion Delay
-Early Transport to Mournhold
-The Publicans
-Under Construction
-Correct UV Rocks
-I Lava Good Mesh Replacer
-Rope Fence Fix
-Weapon Sheathing
-Morrowind Optimization Patch
-Project Atlas
-Intelligent Textures
-AtlAd
-Expeditious Exit
-Borrowed Time
-Fortify MAX
-Just Drop It
-Putting Power in Willpower (Necro Edit)
-Thrown Projectiles Revamped
-Memory Monitor
-Sophisticated Save System
-Better Scamps
-Correct UV Mudcrabs
-Creature VFX Restoration
-Glowing Flames
-Divayth Fyr Puzzle Fixed
-Dubdilla Location Fix
-Services Restored
-Consistent Enchanting
-Loading Doors Lock Tune
-Run Fix
-Quest Skill Reward Fix
-Skill Increase GMST Fix
-Better Readable Beauty Font
-Better Daedric Font
-Title Screen Reworked
-Widescreen Splash Replacer
-Continue
-UI Expansion
-Alchemical Knowledge
-Better Questlist
-Companion Health Bars
-Essential Indicators
-Hotkeys Extended
-Quick Equip
-Right Click Menu Exit
-Magic Icons
-Widescreen Splash Additions
-Book Worm
-Clock Block
-HUD Weapon Charge
-No Thank You
-Shrine Tooltips
-Smart Journal
-Consistent Keys
-Propylon Index Renamer
-Soulgem Renamer
-Diligent Defenders
-Easy Escort
-GMST Menu
-Graphic Herbalism MWSE
-Graphic Herbalism MWSE Patches and Replacers
-Graphic Herbalism Ash Yam Collision Switch
-Graphic Herbalism Lighting
-Hide the Skooma
-Improved Temple Experience
-Marksman Rebalanced
-Security Enhanced
-Smart Ammo
-Torch Hotkey
-Adamantium Ore Fix
-Better Buoyancy
-Book Pickup
-Kill Command
-Melchior's Magnificent Manuscripts
-Switchable Scriptures
-Brutal Backstabbing
-Lucky Strike - A Critical Hit Mod
-Pass the Time
-Poison Crafting
-Drop Light
-FMI - Hospitality Papers Expanded
-Hold Your Breath
-Light Decay
-Lucky Loot
-Magicka Based Skill Progression
-Magicka Expanded
-Miscast Enhanced
-MM - Enhanced Detection
-MM - Enhanced Light
-MM - Enhanced Invisibility
-MM - Enhanced Telekinesis
-Master Index
-Better Propylon Teleport Script
-No Beds for the Diseased
-Realistic Movement Speeds
-Smarter Soultrap
-Sneaky Strike
-Useful Bound Armor
-Wading in Water MW
-Wings of Will (Necro Edit)
 Class-Conscious Character Progression (CCCP)
-Controlled Consumption
-Dungeons Rest
-Harder Barter
-Pickpocket (Sigourn Edit)
-Stealth Improved (Necro Edit)
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
-Class Skill Limit
-Ownership Overhaul
-Locks and Traps Detection
-Visually Trapped Objects
-Map and Compass
-Map Replacements for Maps and Compass Wagner Style
-Nimble Armor
-No Rest Without Beds
-Reactive Resistance
-Realistic Repair
-Realistic Repair Add-on
-Silver Tongue (Necro Edit)
-Skills Module
-Ashfall - A Camping Survival and Needs Mod
-No Female Nord Screeching
-Sheep-no-More
-Shut the Fuck up Cliff Racers
-AURA
-AURA Replacer
-Character Sound Overhaul
-Haunted Barrows
-Heartthrum
-Outdoor Banners With Sound
-Quieter Doors and Spells
-Spell Sounds Enhanced
-Water Sounds
-MUSE 2 - Morrowind Music System Extended
-MUSE 2.02 Necro Edit
-Revenant's Better Music System Improved for MUSE 2.1
-TUBES4MUSE
-Great Service
-Idle Talk
-LDM - Context Matters
-FMI - NotAllDunmer
-Greetings for No Lore
-Its a Deal
-Outfit Greetings Tweaked
-Familiar Faces
-Facelift Meshes
-Comrade Raven's Book Arts Replacer
-Pete's Scroll 2018 ...in 2020
-Better Waterfalls
-Near Vanilla Road Sign Replacer
-Remiros' Groundcover
-Scum Retexture
-Scummy Scum
-Glow in the Dahrk
-Here Comes The Sun... Glare
-Let There Be Darkness
-Watch the Skies
-Skies IV Night Sky Mesh
-Better Night Sky
-Weather Adjuster
-Transporter Lights
-Subtle Magic Glow
-Subtle Smoke
-Improved Thrown Weapon Projectiles
-Weapon Sheathing - Bow Position Edit
-Weapon Sheathing Additions
-Yet Another Guard Diversity - Regular
-OAAB_Data
-3D Vines Vanilla Mushroom Trees
-Ashmire Replacer
-Distant Mournhold
-Dying Worlds - Moons Retexture
-Inscribed Maar Gan Rock
-Know Thy Ancestors
-Nordic Chest Replacer
-Nords, Shut Your Windows!
-Trackless Grazeland
-Grass for Trackless Grazeland
-OAAB Dwemer Pavements
-Vivec Palace Water Replacer
-Well Diversified
-Bitter Coast Sounds (UMOPP)
-OAAB Dwemer Lightning Rods
-Flies (ProfArmitage Edit)
-Heat Haze
-Mistify	
-Mist Retexture
-Pincushion
-Pincushion - Improved Thrown Weapon Projectiles Patch
-Shattered Stones - An Earthquake Mod
-The Dream is the Door
-The Midnight Oil - Lighting Overhaul
-Throbbing Meat - A Corprus Meat Replacer
-Unto Dust
-Better Fitted Female Armors
-Properly Fitted Female Pants
-Complete Armor Joints
-Imperial Steel Cuirass Tweaks
-Wolf Helmet Replacer 
-Incarnates Overhauled
-Silt Strider Animation Restored
-Arukinns Better Books and Scrolls
-OAAB Scroll Qualities
-Simple Golden Gold
-Intelligent Textures - Simple Golden Gold
-No Female Nord Screeching
-Sheep-no-More
-Shut the Fuck up Cliff Racers
-AURA
-AURA Replacer
-Character Sound Overhaul
-Haunted Barrows
-Heartthrum
-Outdoor Banners With Sound
-Quieter Doors and Spells
-Spell Sounds Enhanced
-Water Sounds
-MUSE 2 - Morrowind Music System Extended
-MUSE 2.02 Necro Edit
-MUSE 2 - Vanilla Intro Music
-TUBES4MUSE
-Revenant's Better Music System Improved for MUSE 2.1
-Great Service
-Idle Talk
-LDM - Context Matters
-FMI - NotAllDunmer
-Greetings for No Lore
-Its a Deal
-Outfit Greetings Tweaked
+Chargen Revamped - Exanded Lands
 BTBGI (Necro Edit) Tweaked and Patches
 Economy Adjuster Adjustments
 Enchanted Weapon Resistance
@@ -465,6 +264,8 @@ OAAB Golden Reeds
 OAAB Leveled Creatures
 OAAB Weapons Integrated
 Tamriel_Data (HD)
+Solstheim - Tomb of the Snow Prince
+Solstheim - Tomb of the Snow Prince Graphical Replacer
 Dagon Fel Mill Redux
 Nordic Dagon Fel
 Redaynia Restored
@@ -472,6 +273,7 @@ Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
 Ownership Overhaul Patches
+MWSE Config
 ```
 </details>
 
@@ -488,6 +290,10 @@ OAAB_Data.esm
 Tamriel_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
+Solstheim Tomb of The Snow Prince.esm
+STOTSP Ownership Overhaul Patch.ESP
+TOTSP_Patch_for_Purists_4.0.2.ESP
+TOTSP TD Content Integration - Spiders.ESP
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
@@ -510,6 +316,7 @@ Better Propylon Teleport Warp-Master Index.ESP
 Enhanced Light.ESP
 No Beds for the Diseased.ESP
 Speed and Movement.ESP
+CREL_Vanilla_STOTSP_v3.1.esp
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
@@ -575,6 +382,7 @@ OAAB_GoldenReeds.ESP
 OAAB Leveled Creatures.ESP
 OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated TB Patch.ESP
+OAAB Weapons Integrated TOTSP TD Content Integration Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
 Dagon Fel Mill.ESP
 Nordic Dagon Fel.ESP
@@ -617,23 +425,21 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🚫 Mod has been removed from the guide.
 
 <details>
-  <summary>December 10th</summary>
+  <summary>December 14th</summary>
 
-- Updated to Morrowind Sharp 3.1.2.
+- Updated to Morrowind Sharp (Dec 14th).
+- Renamed Equipment add-on to Content add-on.
+- Trimmed mod order as it doesn't really matter compared to Morrowind Sharp. Mods can be installed at the very end of Sharp.
+- 🆕 (Overhauls) Added **Chargen Revamped - Expanded Lands**.
+- 🆕 (Cities and towns) Added **Solstheim - Tomb of the Snow Prince**.
+- ⚠️ (Content) Updated **OAAB Weapons Integrated** BAIN installer instructions.
 </details>
 
 <details>
   <summary>December 4th</summary>
 
-- Updated to Morrowind Sharp 3.1.1.
 - 🆕 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110). Replaces **MULE** from Morrowind Sharp.
 - ⚠️ **Enchanted Weapon Resistance**: Removed configuration instructions. Prevents cast-on-strike enchantments to work on enemies even if they ignore normal weapon resistance.
-</details>
-
-<details>
-  <summary>December 4th</summary>
-
-- Updated to Morrowind Sharp 3.1.0.
 </details>
 
 <details>
