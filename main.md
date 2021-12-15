@@ -1621,7 +1621,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>December 14th</summary>
+	<summary>December 15th</summary>
 
 - 🆕 (User Interface) Added **New Game Confirmation**.
 - 🆕 (Gameplay, Optional) Added **Actually Unlimited Skeleton Key**.
