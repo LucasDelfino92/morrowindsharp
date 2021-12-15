@@ -1,6 +1,6 @@
 # MORROWIND#: A Morrowind Modding Guide
 
-Last updated: December 14th, 2021
+Last updated: December 15th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
