@@ -80,6 +80,9 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - Extract the contents of the file and run the **MGE XE Installer.exe**.
 - When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
+- Go to your **Morrowind\Data** folder and delete **XE Sky Variations.esp**.
+
+> **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
 
 Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
@@ -136,7 +139,6 @@ Reorganize it to read as follows using drag and drop.
 ```
 DLC: Tribunal
 DLC: Bloodmoon
-Unmanaged: XE Sky Variations
 ```
 Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
@@ -145,10 +147,7 @@ Reorganize it to read as follows using drag and drop.
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
-XE Sky Variations.esp
 ```
-
-> **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later), and MWSE installed.
 
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
