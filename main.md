@@ -1593,6 +1593,8 @@ P | Equips probes | Security Enhanced
 B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
 V | Opens shader controller | MGE XE Shader Pack
+Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
+Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 Ctrl+Y | Turbo fast forward time | Pass the Time
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
