@@ -1626,8 +1626,8 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - 🆕 (User Interface) Added **New Game Confirmation**.
 - 🆕 (Gameplay, Optional) Added **Actually Unlimited Skeleton Key**.
 - 🆕 (Gameplay, Optional) Added **Religions Elaborated - Healers**.
-- 🆕 (Visuals) Added **Unstretched Videos**.
 - 🆕 (Visuals) Added **Better Sun**.
+- 🆕 (Patches, Optional) Added **Unstretched Videos**.
 - 🆕 (Visuals, Optional) Added **LeFemmRedacted**.
 - 🆕 (Visuals, Optional) Added **Bloodmoon Hide Replacer**.
 - ⚠️ (Visuals) Moved **Title Screen Reworked** to this section.
