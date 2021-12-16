@@ -140,6 +140,8 @@ Expands on the in-game integration of Redoran War Armor. Also fixes journal issu
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
 
+> This plugin is meant to be used alongside **There Can Be Only One**, which this guide doesn't contemplate.
+
 [**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
 Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
 - Also install [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing). Edits dialogue, journal entries, and robe names to polish it and make it more vanilla-friendly, as well as robe stats and enchantments to bring it up to speed with **BTBGI (Necro Edit) Tweaked**.
@@ -166,7 +168,9 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
   - [X] 03 Yet Another Guard Diversity Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
-> We will install **Solstheim - Tomb of the Snow Prince** in the **Cities and towns** section.
+> This plugin is meant to be used alongside **There Can Be Only One**, which this guide doesn't contemplate.
+
+> We will install **Solstheim - Tomb of the Snow Prince** in the **Cities and towns** section. An ESP replacer and patch are provided for this mod, the former of which removes unnecessary weapon entries that conflict with **OAAB Weapons Integrated** (and which are of a lower quality, being Tamriel Rebuilt assets), while the latter fixes conflicts with this plugin.
 
 ## Cities and towns add-on
 
@@ -187,9 +191,9 @@ Improves the graphical fidelity, environmental design, and gameplay of the Blood
   - [X] 013 Fierce Wolf Helms
   - [X] 014 Hide-Like Animal Pelts
 - Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
-- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**.
+- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with **STotSP**.
 
-> The **Fierce Wolf Helms** option is identical to the **Wolf Helmet Replacer** from **Morrowind Sharp**.
+> The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Morrowind Sharp**.
 
 Additional files to install:
 - **Solstheim Graphical Replacer**.
@@ -198,7 +202,7 @@ Additional files to install:
     - [X] 011 Skyrim-Like Trees
     - [X] 012 Remiros' Groundcover for TOTSP
     - [X] 013 Grey Solstheim Rocks
-  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**.
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This plugin is not compatible with **STotSP**.
 - [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
@@ -228,6 +232,8 @@ Closes Molag Mar's canton.
 Compatibility patches for a series of mods altering Vivec and Molag Mar.
 - BAIN options to install:
   - [X] 05 No-Frills Series
+
+> This option patches **No-Frills Open Vivec** and **No-Frills Closed Molag Mar** with a single plugin.
 
 ## Finishing touches
 
