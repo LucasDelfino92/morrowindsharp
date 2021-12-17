@@ -163,9 +163,8 @@ Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.co
 Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapons into the game, as well as [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Tribunal Rebalance Patch
-  - [X] 02 STOTSP Content Integration Patch
-  - [X] 03 Yet Another Guard Diversity Patch
+  - [X] 01 Yet Another Guard Diversity Patch
+  - [X] 02 STOTSP TD Content Integration Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 > This plugin is meant to be used alongside **There Can Be Only One**, which this guide doesn't contemplate.
@@ -306,7 +305,6 @@ Ownership Overhaul.esm
 Solstheim Tomb of The Snow Prince.esm
 STOTSP Ownership Overhaul Patch.ESP
 TOTSP_Patch_for_Purists_4.0.2.ESP
-TOTSP TD Content Integration - Spiders.ESP
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
@@ -394,9 +392,8 @@ OAAB_DarkTemptations.ESP
 OAAB_GoldenReeds.ESP
 OAAB Leveled Creatures.ESP
 OAAB Weapons Integrated.ESP
-OAAB Weapons Integrated TB Patch.ESP
-OAAB Weapons Integrated TOTSP TD Content Integration Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
+OAAB Weapons Integrated TOTSP TD Content Integration - Spiders.ESP
 Dagon Fel Mill.ESP
 Nordic Dagon Fel.ESP
 Redaynia Restored.ESP
