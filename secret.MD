@@ -169,7 +169,7 @@ Integrates [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) weapo
 
 > This plugin is meant to be used alongside **There Can Be Only One**, which this guide doesn't contemplate.
 
-> We will install **Solstheim - Tomb of the Snow Prince** in the **Cities and towns** section. An ESP replacer and patch are provided for this mod, the former of which removes unnecessary weapon entries that conflict with **OAAB Weapons Integrated** (and which are of a lower quality, being Tamriel Rebuilt assets), while the latter fixes conflicts with this plugin.
+> We will install **Solstheim - Tomb of the Snow Prince** in the **Cities and towns** section. The patch provided here is an ESP replacer that removes unnecessary weapon entries conflicting with **OAAB Weapons Integrated** (and which are of a lower quality, being Tamriel Rebuilt assets) while also fixing a handful of conflicts.
 
 ## Cities and towns add-on
 
