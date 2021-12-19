@@ -283,9 +283,6 @@ Adds a confirmation popup when you click on the New Game button.
 
 > While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
-
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -309,6 +306,9 @@ Holding down a hotkey (default left shift) while clicking an item in your invent
 
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
 Exit any menu by right clicking (or whatever your menu key is mapped to).
+
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
 
 [**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
@@ -1127,6 +1127,7 @@ Essential Indicators
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
+What Are My Attributes (Necro Edit)
 Magic Icons
 	Book Worm
 	Clock Block
@@ -1646,7 +1647,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 
 - Renamed document to main.md.
 - Rewrote modding tips and Mod Organizer 2 tips section.
-- 🆕 User interface: Add [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z).
+- 🆕 User interface: Added [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z).
 - 🆕 Overhauls: Added [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)
 - 🆕 Overhauls: Added [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - ⚠️ Patches: Updated **AtlAd** BAIN instructions to remove Glow in the Dahrk patches, since these have to be updated.
