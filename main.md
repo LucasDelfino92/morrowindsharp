@@ -119,7 +119,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 ## MGE XE shaders
 
-[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z)  
+[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z) (MWSE)  
 A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
@@ -128,7 +128,7 @@ A compilation of a handful of community-made shaders.
 
 > The Cinematic shaders optoin includes the Lens effect shader (barrel distortion, chromatic aberration), the Cinematic Black Bars shader, and the Cinematic Depth of Field shader. However, these shaders are a hit or miss for many, which is why they are not recommended by default.
 
-[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) (MWSE)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 ## Patches
@@ -873,7 +873,7 @@ Additional files to install:
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (MWSE)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
-> This shader needs to be added to the end of the shader chain in MGE XE.
+> This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
