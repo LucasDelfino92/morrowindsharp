@@ -172,7 +172,7 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
 
-> We will install **Weapon Sheathing** in the **Visuals** section.
+> We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
@@ -190,7 +190,7 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
 
-> We will install **Intelligent Textures** in the **Visuals** section.
+> We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
@@ -417,7 +417,7 @@ Lets you open or close any book or scroll in the game.
   - [X] 01 Closed Book Icons
   - [X] 03 Melchior's Magnificent Manuscripts
 
-> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section.
+> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
 </details>
 
 ## Gameplay
