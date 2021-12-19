@@ -139,7 +139,7 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
-> A mod that pairs very well with this one is [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985), which allows travel to Mournhold before the Dark Brotherhood attacks begin.
+> A mod that pairs very well with this one is [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985), which allows travel to Mournhold before the Dark Brotherhood attacks begin. We will install this mod in the **Gameplay** section.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -205,13 +205,13 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)  
-Corrects thrown projectiles inflicting twice their listed damage. 
+Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
 
 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
+Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
@@ -421,6 +421,9 @@ Lets you open or close any book or scroll in the game.
 </details>
 
 ## Gameplay
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended to be used alongside **Expansion Delay**, or any other mod that delays Dark Brotherhood attacks.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
