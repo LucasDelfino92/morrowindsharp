@@ -148,7 +148,7 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
 [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
-Fixes UV mapping on rocks and stones.
+Fixes UV mapping on rocks and stones. Mod by **Nich**.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
