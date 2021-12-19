@@ -495,7 +495,7 @@ Replaces the Light magic effect with a Skyrim-style magelight effect. Using the 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
-> This shader needs to be added to the end of the shader chain in MGE XE.
+> This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
 Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
@@ -694,7 +694,7 @@ Adds groundcover to almost all regions.
 
 > Note that the **No Mushrooms** option already includes the **Thicker Grass** option.
 
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
 [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582)  
 Turns the scum mesh transparent, so you can see the water below.
@@ -852,7 +852,7 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
 
-> This shader needs to be added to the end of the shader chain in MGE XE.
+> This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional replacer for the vanilla effect.
