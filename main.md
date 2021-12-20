@@ -898,6 +898,10 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 - **Morrowind Anti-Cheese**: this mod makes changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with this mods. Depending on the conflict, it can be virtually harmless or serious (a mod overriding these balance changes altogether).
   - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
+# ADDITIONAL MODS
+
+For additional mods that are compatible and supported by Morrowind#, [**follow this link**](https://github.com/Sigourn/morrowind-sharp/blob/main/addon.md).
+
 # CHANGELOG
 
 - 🆕 Mod has been added to the guide.
