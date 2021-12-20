@@ -915,6 +915,11 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 
 - Split guide into main and add-on.
   - 🆕 (Visuals Add-on) Added **Glowbugs**.
+  - 🆕 (Gameplay Add-on) Added **Chargen Revamped - Expanded Lands**.
+  - 🆕 (Gameplay Add-on) Added **More Exclusive Factions**.
+  - 🆕 (Gameplay Add-on) Added **Nerevarine Service Refusal**.
+  - 🆕 (Gameplay Add-on) Added **FMI - Service Refusal and Contraband**.
+  - 🆕 (Gameplay Add-on) Added **Speed and Movement Rebalanced**.
   - 🆕 Created **Cities and Towns Add-on**.
   - 🆕 Created **OAAB_Data Add-on**.
   - 🆕 Created **Equipment Add-on**.
