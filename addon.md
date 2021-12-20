@@ -270,7 +270,7 @@ Asset repository for the Morrowind Community, which contains resources which can
   - [X] 00 Core
   - [X] 01 GitD Patch Sunrays
 
-> ℹ️ This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
+> ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
 
 ### Splash screens
 
