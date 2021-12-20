@@ -4,7 +4,7 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# SECRET ADD-ON
+# BTBGI ADD-ON
 
 ## Disclaimer
 
@@ -58,6 +58,8 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
+## FINISHING TOUCHES
+
 ### Mod config
 
 A number of mods require additional in-game configuration.
@@ -86,10 +88,9 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🚫 Mod has been removed from the guide.
 
 <details>
-  <summary>December 15th</summary>
+  <summary>December 20th</summary>
 
-- ⚠️ (Preliminary steps) Added note to uninstall **Well Diversified**.
-- ⚠️ (Overhauls) Added **Chargen Revamped - Expanded Lands** patch for **Solstheim - Tomb of the Snow Prince**.
+- Moved almost all mods to the Morrowind# Add-on guide. This is now a CCCP and BTBGI exclusive guide.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
