@@ -59,7 +59,7 @@ Yes. That said, many of the mods featured in the guide are Vvardenfell-specific,
 
 ### Is this mod compatible with Morrowind#?
 
-I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#checking-for-conflicts). For instructions on how to install this tool, check the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) page.
+I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#checking-for-conflicts). For instructions on how to install this tool, check the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) page.
 
 ### How many plugins and mods are there?
 
