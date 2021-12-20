@@ -264,14 +264,6 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 
 ## VISUALS ADD-ON
 
-[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
-Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 GitD Patch Sunrays
-
-> ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
-
 ### Splash screens
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
@@ -300,12 +292,6 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
-
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
-Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Trackless Grazeland Patch
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
 Adds 3D vines and falling particles to Emperor Parasol trees.
@@ -397,9 +383,6 @@ Model replacer for book and scroll models.
 - BAIN options to install:
   - [X] 00 Core
 
-[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045)  
-Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
-
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
 - Install the **Gold coins** main file.
@@ -438,11 +421,6 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 - Install the **Mist Retexture** main file.
-
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
-During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
-- BAIN options to install:
-  - [X] 00 MWSE
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -535,6 +513,106 @@ Replaces the three standard No Lore greetings with over sixty new ones.
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+
+## CITIES AND TOWNS ADD-ON
+
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
+- Install the **Tamriel Data (HD)** main file only.
+- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
+
+> This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+
+[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
+Improves the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
+- Install **Solstheim Tomb of the Snow Prince**.
+- BAIN options to install:
+  - [X] 000 Core
+  - [X] 010 Solstheim - Tomb of the Snow Prince
+  - [X] 011 TOTSP Patches
+  - [X] 013 Fierce Wolf Helms
+  - [X] 014 Hide-Like Animal Pelts
+- Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
+- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with **STotSP**.
+
+> The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
+
+Additional files to install:
+- **Solstheim Graphical Replacer**.
+  - BAIN options to install:
+    - [X] 010 Solstheim - HD Worldspace Graphical Replacer
+    - [X] 011 Skyrim-Like Trees
+    - [X] 012 Remiros' Groundcover for TOTSP
+    - [X] 013 Grey Solstheim Rocks
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This plugin is not compatible with **STotSP**.
+- [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
+
+[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
+Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
+
+[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
+Swaps some assets in Dagon Fel to make it feel more nordic, and expands on the “fishing town” theme of the town.
+
+[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
+A fan-made restoration of Ald Redaynia, missing from the released game. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+
+[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
+Opens Vivec's cantons.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Vanilla Placement (ESP)
+
+[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
+Closes Molag Mar's canton.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patches for a series of mods altering Vivec and Molag Mar.
+- BAIN options to install:
+  - [X] 05 No-Frills Series
+
+## OAAB_DATA ADD-ON
+
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 GitD Patch Sunrays
+
+> ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
+
+[**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)  
+Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) into the game.
+- Install **OAAB Creature Loot**.
+- Install **OAAB Dark Temptations**.
+- Install **OAAB Golden Reeds**.
+- Install **OAAB Leveled Creatures**.
+- Install **OAAB Scroll Qualities**.
+
+> We will skip **OAAB Leveled Lists** in favor of the **OAAB Alchemy** file we installed alongside **BTBGI (Necro Edit) Tweaked** and **OAAB Weapons Integrated** which we will install next.
+
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
+- BAIN options to install:
+  - [X] 00 MWSE
+
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Trackless Grazeland Patch
+
+[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Yet Another Guard Diversity Patch
+  - [X] 02 STOTSP TD Content Integration Patch
+- Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 ## FINISHING TOUCHES
 
