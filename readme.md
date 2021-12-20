@@ -73,7 +73,7 @@ Roughly 23GB, of which **Intelligent Textures**, **AURA**, and **TUBES4MUSE** ac
 
 ### How much time will it take me to install all mods?
 
-Depends on how thorough you are about it. I guarantee it will take you far less time than to set up most other Morrowind guides, bar the most spartan ones.
+Depending on how thorough you are about it, you shouldn't take more than 4 hours to set up Morrowind#.
 
 ### How often is the guide updated?
 
