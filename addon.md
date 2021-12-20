@@ -158,6 +158,15 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 ### Features and mechanics
 
+[**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
+Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
+- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
+
+Additional files to install:
+- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z). Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+
+> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
+
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 - BAIN options to install:
@@ -187,11 +196,22 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - BAIN options to install:
   - [X] 00 - Core
 
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
+Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
+
+[**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
+Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
+- BAIN options to install:
+  - [X] 00 Morrowind Only
+
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
 
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers. [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**.
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 
 ### Tweaks
 
@@ -218,6 +238,11 @@ Levitation speed is now based on Willpower attribute instead of Speed. [**Link**
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+
+> Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
@@ -264,14 +289,6 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 
 ## VISUALS ADD-ON
 
-[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
-Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 GitD Patch Sunrays
-
-> ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
-
 ### Splash screens
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
@@ -301,12 +318,6 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
 
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
-Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Trackless Grazeland Patch
-
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
 Adds 3D vines and falling particles to Emperor Parasol trees.
 - BAIN options to install:
@@ -320,6 +331,8 @@ Replaces the water in the Palace of Vivec's canals.
 
 [**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+
+> ⚠️ This mod is not compatible with **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on** and which already includes it.
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -385,6 +398,8 @@ Additional files to install:
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
+> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
+
 ### Items
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
@@ -396,9 +411,6 @@ Replaces all the bookcovers, bookpages and scrolls.
 Model replacer for book and scroll models.
 - BAIN options to install:
   - [X] 00 Core
-
-[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045)  
-Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
 
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
@@ -412,6 +424,8 @@ Replaces corprus meat models with animated, twitching ones ones.
 
 [**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+
+> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
 
 ### VFX
 
@@ -438,11 +452,6 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 - Install the **Mist Retexture** main file.
-
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
-During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
-- BAIN options to install:
-  - [X] 00 MWSE
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -535,6 +544,150 @@ Replaces the three standard No Lore greetings with over sixty new ones.
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
+
+## CITIES AND TOWNS ADD-ON
+
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
+- Install the **Tamriel Data (HD)** main file only.
+- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
+
+> ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+
+[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
+Improves the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
+- Install **Solstheim Tomb of the Snow Prince**.
+- BAIN options to install:
+  - [X] 000 Core
+  - [X] 010 Solstheim - Tomb of the Snow Prince
+  - [X] 011 TOTSP Patches
+  - [X] 013 Fierce Wolf Helms
+  - [X] 014 Hide-Like Animal Pelts
+- Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
+- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with **STotSP**.
+
+> ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
+
+Additional files to install:
+- **Solstheim Graphical Replacer**.
+  - BAIN options to install:
+    - [X] 010 Solstheim - HD Worldspace Graphical Replacer
+    - [X] 011 Skyrim-Like Trees
+    - [X] 012 Remiros' Groundcover for TOTSP
+    - [X] 013 Grey Solstheim Rocks
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This plugin is not compatible with **STotSP**.
+- [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
+
+[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
+Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
+
+[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
+Swaps some assets in Dagon Fel to make it feel more nordic, and expands on the “fishing town” theme of the town.
+
+[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
+A fan-made restoration of Ald Redaynia, missing from the released game. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders.
+
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
+Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
+
+[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
+Opens Vivec's cantons.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Vanilla Placement (ESP)
+
+[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
+Closes Molag Mar's canton.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patches for a series of mods altering Vivec and Molag Mar.
+- BAIN options to install:
+  - [X] 05 No-Frills Series
+
+## OAAB_DATA ADD-ON
+
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 GitD Patch Sunrays
+
+> ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
+
+[**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)  
+Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) into the game.
+- Install **OAAB Creature Loot**.
+- Install **OAAB Dark Temptations**.
+- Install **OAAB Golden Reeds**.
+- Install **OAAB Leveled Creatures**.
+- Install **OAAB Scroll Qualities**.
+
+> ℹ️ We will skip **OAAB Leveled Lists** in favor of **OAAB Weapons Integrated**, which we will install in a moment.
+
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
+- BAIN options to install:
+  - [X] 00 MWSE
+
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Trackless Grazeland Patch
+
+[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Yet Another Guard Diversity Patch
+  - [X] 02 STOTSP TD Content Integration Patch
+  - [x] 03 OAAB Weapons Integrated Complete Duke's Guard Silver Patch
+- Hide **OAAB Weapons Integrated - TCBOO.esp**.
+
+> ℹ️ We will install **Complete Duke's Guard Silver** in the **Equipment Add-on**.
+
+## EQUIPMENT ADD-ON
+
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
+Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
+
+[**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
+Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
+
+[**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
+- Install **Complete and Revised Vanilla Equipment Integrated** (under Main files).
+
+Additional files to install:
+- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092). Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
+  - Hide **Complete dreugh armor.ESP**.
+- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301). Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
+  - Hide **Complete and Revised Studded leather v 1.5.ESP**.
+- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166). Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
+  - Hide **Complete Nordic Iron.ESP**.
+- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534). Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+  - Hide **Concept Art Daedric Helms.ESP**.
+
+[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
+- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (under Main files).
+
+Additional files to install:
+- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038). Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+  - Hide **both .ESPs**.
+- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770). Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
+- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340). Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+
+[**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of oriental ebony weapons from natinnet.
+- Install **Oriental Ebony Weapons Integrated** (under Main files).
+- Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
+
+Additional files to install: 
+- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173). Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
+  - Hide **Oriental Ebony Weapon.esp**.
 
 ## FINISHING TOUCHES
 
@@ -638,14 +791,19 @@ Pass the Time
 Poison Crafting
 Ashfall
 Skills Module
+Chargen Revamped - Exanded Lands
+Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
+More Exclusive Factions
+Nerevarine Service Refusal
 No Beds for the Diseased
 Religions Elaborated (Healers)
+FMI - Service Refusal and Contraband
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
@@ -659,6 +817,7 @@ Lucky Loot
 Smarter Soultrap
 Wings of Will (Necro Edit)
 Realistic Movement Speeds
+Speed and Movement Rebalanced
 Wading in Water MW
 MULE - Mort's Ultimate Leveling Experience 
 Magicka Regeneration Suite
@@ -683,7 +842,6 @@ Realistic Repair
 Realistic Repair - Add-on
 Silver Tongue (Necro Edit)
 Intelligent Textures
-OAAB_Data
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
@@ -701,7 +859,6 @@ Inscribed Maar Gan Rock
 Know Thy Ancestors
 Trackless Grazeland
 Grass for Trackless Grazeland
-OAAB Dwemer Pavements
 3D Vines Vanilla Mushroom Trees
 Vivec Palace Water Replacer
 Well Diversified
@@ -730,7 +887,6 @@ Pincushion - Improved Thrown Weapon Projectiles Patch
 Wolf Helmet Replacer
 Arukinns Better Books and Scrolls
 Melchior's Magnificent Manuscripts
-OAAB Scroll Qualities
 Simple Golden Gold
 Intelligent Textures - Simple Golden Gold
 Throbbing Meat - a Corprus Meat Replacer
@@ -743,7 +899,6 @@ Glowbugs
 Heat Haze
 Mistify
 Mist Retexture
-OAAB Dwemer Lighting Rods
 Shattered Stones - An Earthquake Mod
 The Dream is the Door
 Unto Dust
@@ -770,6 +925,39 @@ LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
 Outfit Greetings Tweaked
+Tamriel_Data (HD)
+Solstheim - Tomb of the Snow Prince
+Solstheim - Tomb of the Snow Prince Graphical Replacer
+STOTSP Ownership Overhaul Patch
+Dagon Fel Mill Redux
+Nordic Dagon Fel
+Redaynia Restored
+Shrine of Azura
+No-Frills Open Vivec
+No-Frills Closed Molag Mar
+Ownership Overhaul Patches
+OAAB_Data
+OAAB Creature Loot
+OAAB Dark Temptations
+OAAB Golden Reeds
+OAAB Leveled Creatures
+OAAB Scroll Qualities
+OAAB Dwemer Lightning Rods
+OAAB Dwemer Pavements
+OAAB Weapons Integrated
+Antares' Mage Robes
+Complete Duke's Guard Silver
+Complete and Revised Dreugh Armor
+Complete and Revised Imperial Studded Leather Armor
+Complete and Revised Nordic Iron Armor
+Concept Art Daedric Helmets
+Complete and Revised Vanilla Equipment Integrated
+Redoran War Armor and Sathil Mercenary Equipment
+Sathil Mercenary Armor
+Redoran War Armor
+Redoran War Armor and Sathil Mercenary Equipment Integrated
+Oriental Ebony Weapons
+Oriental Ebony Weapons Integrated
 MWSE Config
 ```
 </details>
@@ -784,8 +972,12 @@ Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
 OAAB_Data.esm
+Tamriel_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
+Solstheim Tomb of The Snow Prince.esm
+TOTSP_Patch_for_Purists_4.0.2.ESP
+STOTSP Ownership Overhaul Patch.ESP
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
@@ -808,11 +1000,17 @@ Better Propylon Teleport Warp-Master Index.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
 mwse_PoisonCrafting.ESP
 Ashfall.ESP
+CREL_Vanilla_STOTSP_v3.1.esp
+CREL_Vanilla_ASTOTSP_v3.1 Patch.esp
 Enhanced Light.ESP
 Restocking Alchemy Essentials.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
+More Exclusive Factions.ESP
+Clean Temple Service Refusal.ESP
 No Beds for the Diseased.ESP
 Religions Elaborated.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Speed and Movement.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -825,8 +1023,6 @@ NearVanillaRoadSigns.ESP
 Know Thy Ancestors.ESP
 Inscribed Maar Gan Rock.ESP
 Trackless Grazeland.ESP
-OAAB Dwemer Pavements.ESP
-Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
 Mournhold LOD.ESP
 Nordic Chest Replacer.ESP
 GITD_WL_RR_Interiors.ESP
@@ -852,6 +1048,29 @@ LDM - Context Matters 1.5.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
+Dagon Fel Mill.ESP
+Nordic Dagon Fel.ESP
+Redaynia Restored.ESP
+ShrineOfAzura.ESP
+No-Frills Closed Molag Mar.ESP
+No-Frills Open Vivec.ESP
+No-Frills Series Ownership Overhaul Patch.ESP
+OAAB Creature Loot.ESP
+OAAB_DarkTemptations.ESP
+OAAB_GoldenReeds.ESP
+OAAB Leveled Creatures.ESP
+OAAB Dwemer Pavements.ESP
+Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
+OAAB Weapons Integrated.ESP
+OAAB Weapons Integrated YAGD Patch.ESP
+OAAB Weapons Integrated TOTSP TD Content Integration - Spiders.ESP
+Antares' Mage Robes.ESP
+RV Dukes guard.ESP
+OAAB Weapons Integrated Complete Duke's Guard Silver Patch.ESP
+Complete and Revised Vanilla Equipment Integrated.ESP
+Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
+Redoran War and Sathil Mercenary Armor Integrated.ESP
+Oriental Ebony Weapons Integrated.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
