@@ -901,6 +901,7 @@ Some of our installed plugins contain changes we are not really interested in. T
   - **Divayth Fyr Puzzle Fixed.ESP**
   - **Nordic Chest Replacer.ESP**
   - **TheMidnightOil.ESP**
+  - **RV Dukes guard.ESP**
 - With all of them selected, right-clik and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
