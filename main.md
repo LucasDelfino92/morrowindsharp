@@ -405,7 +405,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 [**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
-- Install the **Title Screen Reworked (Widescreen)** main file.
+- Install **Title Screen Reworked (Widescreen)** (under Main files).
 
 > ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
@@ -419,7 +419,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
+- Only install **Pete's Journal and Scroll** (under Optional files).
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
@@ -430,7 +430,7 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Only install the **kart_facelift_meshes** main file.
+- Only install **kart_facelift_meshes** (under Main files).
 
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
