@@ -913,15 +913,15 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 <details>
 	<summary>December 20th</summary>
 
-- Split guide into main and add-on.
-  - 🆕 (Visuals Add-on) Added **Glowbugs**.
+- Split guide into main and add-on. This should make it easier to follow for both those who only want to install the default recommended mods, and those that are considered "optional". In particular, this will streamline the rest of the sections that included instructions for those users who were installing optional mods only.
   - 🆕 (Gameplay Add-on) Added **Chargen Revamped - Expanded Lands**.
   - 🆕 (Gameplay Add-on) Added **More Exclusive Factions**.
   - 🆕 (Gameplay Add-on) Added **Nerevarine Service Refusal**.
   - 🆕 (Gameplay Add-on) Added **FMI - Service Refusal and Contraband**.
   - 🆕 (Gameplay Add-on) Added **Speed and Movement Rebalanced**.
+  - 🆕 (Visuals Add-on) Added **Glowbugs**.
   - 🆕 Created **Cities and Towns Add-on**.
-  - 🆕 Created **OAAB_Data Add-on**.
+  - 🆕 Created **OAAB_Data Add-on**, and moved all **OAAB_Data** dependant mods to this section.
   - 🆕 Created **Equipment Add-on**.
 - Added links to original mods in case an edited version is featured in the guide.
 - Added info and warning icons to certain comments.
