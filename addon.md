@@ -550,7 +550,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
 Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
 - Install the **Tamriel Data (HD)** main file only.
-- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#bsa-files)
+- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
 
 > ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
 
