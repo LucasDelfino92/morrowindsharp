@@ -902,7 +902,7 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 
 # ADDITIONAL MODS
 
-For additional mods that are compatible and supported by Morrowind#, [**follow this link**](https://github.com/Sigourn/morrowind-sharp/blob/main/addon.md).
+For additional mods that are compatible and supported by Morrowind#, [**follow this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md).
 
 # CHANGELOG
 
