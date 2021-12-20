@@ -131,9 +131,9 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 
 ## PATCHES
 
-### Bug fixes
+### Bug fixes 
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) ⭐  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
