@@ -256,8 +256,8 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
 - Hide **Realistic_Repair_Optional.ESP**.
 
-[**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
-Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
+Additional files to install:
+- [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461). Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
 [**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. Additional fixes by **Necrolesian**.
