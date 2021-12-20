@@ -42,8 +42,6 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 07 Balanced Passive Races and Birthsigns Tweaked
   - [X] 08 OAAB Creature Loot and Alchemy Patch
 
-> We will install **OAAB Creature Loot** and **OAAB Alchemy** in the **OAAB_Data Add-on** section.
-
 Additional files to install:
 - [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing). Edits dialogue, journal entries, and robe names to polish it and make it more vanilla-friendly, as well as robe stats and enchantments to bring it up to speed with **BTBGI (Necro Edit) Tweaked**.
 
