@@ -577,222 +577,103 @@ MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
 Expansion Delay
-	Early Transport to Mournhold
 The Publicans
-Under Construction
+Expeditious Exit
+Memory Monitor
+Sophisticated Save System
 Correct UV Rocks
-I Lava Good Mesh Replacer
-Improved Thrown Weapon Projectiles
+Creature VFX Restoration
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
 AtlAd
-Expeditious Exit
-Borrowed Time
-Fortify MAX
-Just Drop It
-Putting Power in Willpower (Necro Edit)
-Thrown Projectiles Revamped
-Memory Monitor
-Sophisticated Save System
-	Better Scamps
-	Correct UV Mudcrabs
-	Creature VFX Restoration
-	Glowing Flames
-	Divayth Fyr Puzzle Fixed
-	Dubdilla Location Fix
-	Services Restored
-	Consistent Enchanting
-	Loading Doors Lock Tune
-	Run Fix
-	Quest Skill Reward Fix
-	Skill Increase GMST Fix
 Better Readable Beauty Font
 Better Daedric Font
+Magic Icons (Sigourn Edit)
 Continue
 New Game Confirmation
 UI Expansion
 Alchemical Knowledge
 Better Questlist
-Companion Health Bars
-Essential Indicators
+Smart Journal
+What Are My Attributes (Sigourn Edit)
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
-What Are My Attributes (Necro Edit)
-Magic Icons
-	Book Worm
-	Clock Block
-	HUD Weapon Charge
-	No Thank You
-	Shrine Tooltips
-	Smart Journal
-	Consistent Keys
-	Propylon Index Renamer
-	Soulgem Renamer
+Security Enhanced
+Torch Hotkey
 Diligent Defenders
 Easy Escort
 GMST Menu
-Graphic Herbalism MWSE
+Graphic Herbalism
 Graphic Herbalism MWSE Patches and Replacers
-Graphic Herbalism Ash Yam Collision Switch
+Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
 Improved Temple Experience
-Marksman Rebalanced
-Security Enhanced
 Smart Ammo
-Torch Hotkey
-	Adamantium Ore Fix
-	Better Buoyancy
-	Book Pickup
-	Kill Command
-	Melchior's Magnificent Manuscripts
-	Switchable Scriptures
+Early Transport to Mournhold
 Area Effect Arrows Integrated
+Master Index (UMOPP)
+Better Propylon Teleport Script
 Brutal Backstabbing
+FMI - Hospitality Papers Expanded
 Lucky Strike - A Critical Hit Mod
 Pass the Time
 Poison Crafting
+Ashfall
+Skills Module
+Magicka Based Skill Progression
+Marksman Rebalanced
+Sneaky Strike
+Useful Bound Armor
 Restocking Alchemy Essentials
-	Actually Unlimited Skeleton Key
-	Drop Light
-	FMI - Hospitality Papers Expanded
-	Hold Your Breath
-	Light Decay
-	Lucky Loot
-	Magicka Based Skill Progression
-	Magicka Expanded
-	Miscast Enhanced
-	MM - Enhanced Detection
-	MM - Enhanced Light
-	MM - Enhanced Invisibility
-	MM - Enhanced Telekinesis
-	Master Index
-	Better Propylon Teleport Script
-	No Beds for the Diseased
-	Realistic Movement Speeds
-	Religions Elaborated (Healers)
-	Smarter Soultrap
-	Sneaky Strike
-	Useful Bound Armor
-	Wading in Water MW
-	Wings of Will (Necro Edit)
-MULE - Mort's Ultimate Leveling Experience
-Alchemy Takes Time
-Controlled Consumption
-Dungeons Rest
-Harder Barter (Sigourn Edit)
+MULE - Mort's Ultimate Leveling Experience 
 Magicka Regeneration Suite
 Pickpocket (Sigourn Edit)
 Stealth Improved (Necro Edit)
+Alchemy Takes Time
+Controlled Consumption (MMC Edit)
+Dungeons Rest
+Harder Barter (Sigourn Edit)
 Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
-	Class Skill Limit
-	Ownership Overhaul
-	Locks and Traps Detection
-	Visually Trapped Objects
-	Map and Compass
-	Map Replacements for Maps and Compass Wagner Style
-	Nimble Armor
-	No Rest Without Beds
-	Reactive Resistance
-	Realistic Repair
-	Realistic Repair Add-on
-	Silver Tongue (Necro Edit)
-	Skills Module
-	Ashfall - A Camping Survival and Needs Mod
+Intelligent Textures
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
 Familiar Faces
-Facelift Meshes
+Facelift
+Yet Another Guard Diversity
+Incarnates Overhauled
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
-Glow in the Dahrk
+Glow in the Dahrk 
+Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
-Skies .IV Night Sky Mesh
-Better Night Sky
 Weather Adjuster
-Transporter Lights
+Weapon Sheathing
+Weapon Sheathing Bow Position Edit
+Weapon Sheathing Additions
 Subtle Magic Glow
 Subtle Smoke
-Weapon Sheathing - Bow Position Edit
-Weapon Sheathing Additions
-Yet Another Guard Diversity - Regular
-	OAAB_Data
-	Widescreen Splash Additions
-	Better Sun
-	Dying Worlds - Moons Retexture
-	3D Vines Vanilla Mushroom Trees
-	Ashmire Replacer
-	Distant Mournhold
-	Inscribed Maar Gan Rock
-	Know Thy Ancestors
-	Nordic Chest Replacer
-	Nords, Shut Your Windows!
-	Trackless Grazeland
-	Grass for Trackless Grazeland
-	OAAB Dwemer Pavements
-	Vivec Palace Water Replacer
-	Well Diversified
-	Bitter Coast Sounds (UMOPP)
-	OAAB Dwemer Lightning Rods
-	Flies (ProfArmitage Edit)
-	Heat Haze
-	Mistify
-	Mist Retexture
-	Pincushion
-	Pincushion - Improved Thrown Weapon Projectiles Patch
-	Shattered Stones - An Earthquake Mod
-	The Dream is the Door
-	The Midnight Oil - Lighting Overhaul
-	Throbbing Meat - A Corprus Meat Replacer
-	Unto Dust
-	Better Fitted Female Armors
-	Properly Fitted Female Pants
-	Complete Armor Joints
-	LeFemmRedacted
-	Imperial Steel Cuirass Tweaks
-	Bloodmoon Hide Replacer
-	Wolf Helmet Replacer 
-	Incarnates Overhauled
-	Silt Strider Animation Restored
-	Arukinns Better Books and Scrolls
-	OAAB Scroll Qualities
-	Simple Golden Gold
-	Intelligent Textures - Simple Golden Gold
 No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
-	AURA
-	AURA Replacer
-	Character Sound Overhaul
-	Haunted Barrows
-	Heartthrum
-	Outdoor Banners With Sound
-	Quieter Doors and Spells
-	Spell Sounds Enhanced
-	Water Sounds
 MUSE 2 - Morrowind Music System Extended
-MUSE 2.02 Necro Edit
+MUSE 2.02 - Necro Edit
 MUSE 2 - Vanilla Intro Music
-TUBES4MUSE
-	Revenant's Better Music System Improved for MUSE 2.1
+TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
 Great Service
 Idle Talk
 LDM - Context Matters
-	FMI - NotAllDunmer
-	Greetings for No Lore
-	Its a Deal
-	Outfit Greetings Tweaked
 MWSE Config
 ```
 </details>
@@ -808,75 +689,35 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
-	OAAB_Data.esm
 Patch for Purists.esm
-	Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
-	Early Transport to Mournhold.ESP
 The Publicans.ESP
-Under Construction.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
-	Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-	Divayth Fyr Puzzle Fixed.ESP
-	Dubdilla Location Fix.ESP
-	Services Restored.ESP
-	No Thank You.ESP
 Improved Temple Experience.ESP
-	Adamantium Ore Fix.ESP
+Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
 mwse_PoisonCrafting.ESP
+Ashfall.ESP
 Restocking Alchemy Essentials.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
-	Hospitality_Papers_Expanded_v2.7.ESP
-	master_index.ESP
-	Better Propylon Teleport Warp-Master Index.ESP
-	Enhanced Light.ESP
-	No Beds for the Diseased.ESP
-	Religions Elaborated.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
-	Realistic_Repair_Add-on.ESP
-	Ashfall.ESP
 Better_Typography_Bookarts_Fix.ESP
+Yet Another Guard Diversity - Regular.ESP
+Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
-Yet Another Guard Diversity - Regular.ESP
-	Mournhold LOD.ESP
-	Inscribed Maar Gan Rock.ESP
-	Know Thy Ancestors.ESP
-	Nordic Chest Replacer.ESP
-	Trackless Grazeland.ESP
-	OAAB Dwemer Pavements.ESP
-	Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
-	Well Diversified.ESP
-	bcsounds.ESP
-	Flies.ESP
-	mistify.ESP
-	Shattered Stones - An Earthquake Mod.ESP
-	The Dream is the Door.ESP
-	TheMidnightOil.ESP
-	Alex's Better Fitted Female Armors.ESP
-	FemalePants.ESP
-	Complete Armor Joints.ESP
-	Incarnates Overhauled.ESP
-	Silt Strider Animation Restored.ESP
 No Female Nord Screeching.ESP
-	Haunted Barrows.ESP
-	RFD_Heartthrum.ESP
-	Outdoor Banners With Sound.ESP
-	Quieter Doors and Spells.ESP
 Great Service.ESP
 Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
-	FMI_#NotAllDunmer.ESP
-	Greetings for No Lore.ESP
-	Its a deal.ESP
-	outfit greetings tweaked.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
@@ -898,7 +739,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ### Manually cleaning plugins
 
-> This section includes plugins from the optional sections of the guide.
+> This section is intended for followers of the guide add-on.
 
 Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
 
@@ -920,6 +761,8 @@ Some of our installed plugins contain changes we are not really interested in. T
 > This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
 ### Automatically cleaning plugins
+
+> This section is intended for followers of the guide add-on.
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
@@ -980,6 +823,8 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 ### Shader setup
 
+> This section includes shaders from the guide add-on.
+
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
 - Run MGE XE in Mod Organizer 2.
@@ -1022,6 +867,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
 
+> This file includes configuration for mods from the guide add-on.
+
 <details>
 	<summary>Detailed list of options</summary>
 
@@ -1036,9 +883,9 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - Lucky Strike: nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
 - Magicka Based Skill Progression: disables logging, and slows down skill experience gain per magicka spent.
 - Smarter Soultrap: enabled enforced skill requirements for soul displacement.
-- 05 Ashfall: enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
-- 05 Controlled Consumption: sets the consumption module to Vanilla NPC Style (Necro Edit).
-- 05 Map and Compass: disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
+- Ashfall: enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
+- Controlled Consumption: sets the consumption module to Vanilla NPC Style (Necro Edit).
+- Map and Compass: disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
 - Pickpocket: increases experience gain per successful pickpocket.
 - AURA: disables player voice taunts.
 - Character Sound overhaul: comments out a line in the **main.lua** to disable MWSE.log spam.
@@ -1049,8 +896,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ### Additional MCP patches
 
-> This section is exclusively for followers of the optional Overhauls section of the guide.
-  
+> This section includes patches for mods from the guide add-on.
+
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
 
 Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
@@ -1076,7 +923,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 
 # MOD KEYBINDINGS
 
-> This section includes mods from the optional sections of the guide.
+> This section includes keybindings for mods from the guide add-on.
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
