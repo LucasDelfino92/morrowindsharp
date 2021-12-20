@@ -326,9 +326,6 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
 
-[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
-Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
@@ -412,6 +409,9 @@ Additional files to install:
 
 [**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
 Replaces corprus meat models with animated, twitching ones ones.
+
+[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
+Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 
 ### VFX
 
