@@ -603,9 +603,7 @@ Adds groundcover to almost all regions.
   - [X] 01a No Mushrooms MGE XE
 - Uncheck all **.esps** added by this mod. Do not hide or delete them.
 
-> Note that the **No Mushrooms** option already includes the **Thicker Grass** option.
-
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
 [**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582)  
 Turns the scum mesh transparent, so you can see the water below.
@@ -638,7 +636,7 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 - Install the **Remiros Groundcover** main file.
 - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
 
-> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [Re-running Distant Land](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#re-running-distant-land) section.
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
 Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
@@ -662,7 +660,9 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-	
+
+> Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+
 [**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
 
