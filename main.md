@@ -122,7 +122,7 @@ A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
 
-> ℹ️ These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
