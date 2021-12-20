@@ -421,6 +421,9 @@ Adds ambient noise and dragonflies all over the Bitter Coast region. [**Link**](
 [**Flies (ProfArmitage Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. [**Link**](https://www.nexusmods.com/morrowind/mods/43481/) to original mod by **R-Zero**. Additional fixes by **ProfArmitage**.
 
+[**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)  
+Adds firefly-like insects called glowbugs across the Bitter Coast region. Only coming out on calm nights, these passive insects congregate in clusters across the coast creating magical vistas for players to soak in.
+
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
 
