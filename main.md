@@ -655,7 +655,6 @@ Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
 Weather Adjuster
-Weapon Sheathing
 Weapon Sheathing Bow Position Edit
 Weapon Sheathing Additions
 Subtle Magic Glow
