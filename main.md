@@ -117,7 +117,7 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 # MORROWIND#
 
-## MGE XE shaders
+## SHADERS
 
 [**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z) (MWSE)  
 A compilation of a handful of community-made shaders.
@@ -131,7 +131,9 @@ A compilation of a handful of community-made shaders.
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) (MWSE)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-## Patches
+## PATCHES
+
+### Bug fixes
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
@@ -144,21 +146,75 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) (MWSE)  
+Forces the game to instantly close on exit.
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) (MWSE)  
+Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
+
+[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
+Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
+
+<details>
+	<summary>Optional bug fixes - Click to expand</summary>
+
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+- Rename the file to **Adamantium Ore Fix** before installing it.
+
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+
+[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
+
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
+[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) (MWSE)  
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) (MWSE)  
+Carries over unique item information, such as condition and script data when enchanting items.
+	
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) (MWSE)  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) (MWSE)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) (MWSE)  
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
+
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z) (MWSE)  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
+
+[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) (MWSE)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) (MWSE)  
+Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) (MWSE)  
+Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
+
+[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) (MWSE)  
+Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
+</details>
+
+### Mesh fixes and optimization
 
 [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
 Fixes UV mapping on rocks and stones. Mod by **Nich**.
 
-[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
-Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
+Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
 
 [**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -192,32 +248,8 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 
 > We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended.
 
-[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) (MWSE)  
-Forces the game to instantly close on exit.
-
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) (MWSE)  
-Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
-
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) (MWSE)  
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
-
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) (MWSE)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z) (MWSE)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
-
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) (MWSE)  
-Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
-
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) (MWSE)  
-Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
-[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
-Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
-
 <details>
-	<summary>Optional Patches - Click to expand</summary>
+	<summary>Optional mesh fixes - Click to expand</summary>
 
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
@@ -229,39 +261,24 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
-Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
-
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
+Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- BAIN options to install:
+  - [X] 00 Core
 
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) (MWSE)  
-Carries over unique item information, such as condition and script data when enchanting items.
-
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) (MWSE)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
-
-[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) (MWSE)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) (MWSE)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) (MWSE)  
-Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
 </details>
 
-## User interface
+## USER INTERFACE
+
+### Fonts and icons
 
 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
@@ -271,6 +288,13 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
+
+[**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
+Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
+- BAIN options to install:
+  - [X] 00 Original Blue Color
+
+### Menus
 
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) (MWSE)  
 Adds a continue button to the main menu to instantly load your most recent save.
@@ -289,52 +313,23 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) (MWSE)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 
-[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136) (MWSE)  
-Adds health bars for your companions and summoned creatures to the Morrowind HUD. 
+[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) (MWSE)  
+Adds several new options for the journal and quest pages.
+- Only install the **abotSmartJournal103** file under Old Files.
 
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) (MWSE)  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) (MWSE)  
-Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells.
-
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) (MWSE)  
-Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. 
-
-[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) (MWSE)  
-Exit any menu by right clicking (or whatever your menu key is mapped to).
+> The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z) (MWSE)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
 
-[**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
-Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
-- BAIN options to install:
-  - [X] 00 Original Blue Color
-
 <details>
-	<summary>User Interface (Optional) - Click to expand</summary>
+	<summary>Optional menus - Click to expand</summary>
 
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) (MWSE)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 
-[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) (MWSE)  
-Adds clock to UI that displays either game world time or real time (depending on settings).
-
-[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) (MWSE)  
-Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-	
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) (MWSE)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) (MWSE)  
-Adds several new options for the journal and quest pages.
-- Only install the **abotSmartJournal103* file under Old Files.
-
-> The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
+[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) (MWSE)  
+Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) (MWSE)  
 Renames keys so they'll have a consistent naming scheme.
@@ -345,9 +340,63 @@ Renames propylon indexes so they'll group together in the inventory.
 
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861) (MWSE)  
 Renames soulgems so they'll group together in the inventory.
+
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+	
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) (MWSE)  
+Adds tooltips with the effect's name to shrines when hovering over the different options.
+
+[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) (MWSE)  
+Adds a clock to the UI that displays either game world time or real time.
+
+[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136) (MWSE)  
+Adds bars to the UI that displays your companions and summoned creatures' health.
+
+[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) (MWSE)  
+Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 </details>
 
-## Gameplay QOL
+### Hotkeys
+
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) (MWSE)  
+Expands the amount of quick menu hotkeys available.
+
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) (MWSE)  
+Adds a hotkey for equipping a selected inventory item.
+
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) (MWSE)  
+Adds a hotkey for exiting any menu.
+
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) (MWSE)  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) (MWSE)  
+Adds a hotkey for equipping light sources, prioritizing already used lights.
+
+<details>
+	<summary>Optional hotkeys - Click to expand</summary>
+
+[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) (MWSE)  
+Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
+
+[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) (MWSE)  
+Adds a hotkey for picking up books.
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) (MWSE)  
+Adds a hotkey for companions to attack the selected target.
+
+[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) (MWSE)  
+Adds a hotkey to open and close any book and scroll in the game.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Closed Book Icons
+  - [X] 03 Melchior's Magnificent Manuscripts
+
+> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
+</details>
+
+## GAMEPLAY QOL
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) (MWSE)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -382,42 +431,10 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) (MWSE)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) (MWSE)  
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383) (MWSE)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
-[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) (MWSE)  
-Adds "C" as a dedicated hotkey for light sources. It will equip/unequip the first light source in your inventory when pressed and prioritizes already used lights. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons.
-
-<details>
-	<summary>Gameplay Quality of Life (Optional) - Click to expand</summary>
-
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- Rename the file to **Adamantium Ore Fix** before installing it.
-
-[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) (MWSE)  
-Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
-
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) (MWSE)  
-Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.
-
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) (MWSE)  
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) (MWSE)  
-Lets you open or close any book or scroll in the game.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Closed Book Icons
-  - [X] 03 Melchior's Magnificent Manuscripts
-
-> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
-</details>
-
-## Gameplay
+## GAMEPLAY
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended to be used alongside **Expansion Delay**, or any other mod that delays Dark Brotherhood attacks.
@@ -448,7 +465,7 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
   - [X] 01 MWSE Poison Crafting Patch
 
 <details>
-	<summary>Gameplay (Optional) - Click to expand</summary>
+	<summary>Optional gameplay mods - Click to expand</summary>
 
 [**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972) (MWSE)  
 Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
@@ -535,9 +552,7 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 Levitation speed is now based on Willpower attribute instead of Speed. Original mod by **Sataniel**, with additional fixes by **Necrolesian**.
 </details>
 
-## Overhauls
-
-These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
+## OVERHAULS
 
 [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452) (MWSE)  
 A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
@@ -578,7 +593,7 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
 <details>
-	<summary>Overhauls (Optional) - Click to expand</summary>
+	<summary>Optional overhauls - Click to expand</summary>
 
 [**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989) (MWSE)  
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
@@ -636,7 +651,32 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 </details>
 
-## Visuals
+## VISUALS
+
+### AI upscaling
+
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Atlas Textures
+
+[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+- Only install the **kart_facelift_meshes** main file.
+
+> Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
+Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
+
+### Menus and splash screens
 
 [**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
@@ -658,20 +698,15 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
-[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Atlas Textures
+<details>
+	<summary>Optional splash screens - Click to expand</summary>
 
-[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
+Adds three missing Bethesda splash screens in widescreen resolution.
+- Create a **Splash** folder and move the **.tga** files inside.
+</details>
 
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Only install the **kart_facelift_meshes** main file.
-
-> Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+### Environment
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -703,113 +738,19 @@ Turns the scum mesh transparent, so you can see the water below.
 [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802)  
 Scummier scum texture for Lougian's Scum Retexture mod.
 
-[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) (MWSE)  
-Makes vanilla windows glow in the dark.
-- FOMOD options to install:
-  - [X] Nord Glass Windows
-  - [X] Raven Rock Glass Windows
-  - [X] Hi-Res Window Texture Replacer
-  - [X] None Telvanni Dormers on Vvardenfell
-
-[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912) (MWSE)  
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-
-[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636) (MWSE)  
-Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
-- BAIN options to install:
-  - [X] 00 Lua core
-  - [X] 01 Textures 2k
-  - [X] 04 Rain mesh replacer - regular
-  - [X] 05 IT Vanilla sky texture replacer 2k
-- Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
-- Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
-
-> This hides two very jarring sky textures.
-
-[**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
-Required mesh for **Better Night Sky**.
-- Only install the **Skies .IV Resource Pack** Optional file.
-- Rename the file to **Skies .IV Night Sky Mesh** before installing it.
-- Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
-
-[**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
-A high resolution night sky replacer. Requires Skies .IV's night sky mesh.
-- Only install the **Better Night Sky (darker)** Optional file.
-
-[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) (MWSE)  
-Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
-
-[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) (MWSE)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
-
-[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- BAIN options to install:
-  - [X] fade
-
-[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
-Makes it so many smoke effects are much more laid back and easier on the eyes.
-
-[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) (MWSE)  
-Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-
-Additional files to install:
-- [**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473). Tweaks bows so that they line up better with the sheathing animation.
-- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616). Adds sheaths to weapons not covered by Weapon Sheathing.
-
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-Replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces. Note that guards added by other mods will use the generic default guards.
-
-> Note that guards added by mods will require a patch for unique guards.
-
 <details>
-	<summary>Visuals (Optional) - Click to expand</summary>
-
-[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
-Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 GitD Patch Sunrays
-
-> This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
-Adds three missing Bethesda splash screens in widescreen resolution.
-- Create a **Splash** folder and move the **.tga** files inside.
-
-[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886) (MWSE)  
-Retextures the sun to make it more realistic and detailed.
-
-[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
-Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
-
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
-Adds 3D vines and falling particles to Emperor Parasol trees.
-- BAIN options to install:
-  - [X] 00 Core
+	<summary>Optional environment mods - Click to expand</summary>
 
 [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the ashmires found throughout the ashen regions of Vvardenfell with models that feature a subtle bubbling effect, edits that allow dropping and activating objects through the mire plane, and optionally removal of their odd flowing animation.
 - BAIN options to install:
   - [X] 01 Still Mire
 
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
-
-[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
-Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
-
-[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
-Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 03 Vanilla style sunrays
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
@@ -829,6 +770,11 @@ Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins 
   - [X] 00 Core
   - [X] 01 Trackless Grazeland Patch
 
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
+Adds 3D vines and falling particles to Emperor Parasol trees.
+- BAIN options to install:
+  - [X] 00 Core
+
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - BAIN options to install:
@@ -837,6 +783,167 @@ Replaces the water in the Palace of Vivec's canals.
 
 [**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
+
+[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
+Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+	
+[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
+Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+
+[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
+Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
+</details>
+
+### Weather and lighting
+
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) (MWSE)  
+Makes vanilla windows glow in the dark.
+- FOMOD options to install:
+  - [X] Nord Glass Windows
+  - [X] Raven Rock Glass Windows
+  - [X] Hi-Res Window Texture Replacer
+  - [X] None Telvanni Dormers on Vvardenfell
+
+[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
+Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 03 Vanilla style sunrays
+
+[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912) (MWSE)  
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
+
+[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636) (MWSE)  
+Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
+- BAIN options to install:
+  - [X] 00 Lua core
+  - [X] 01 Textures 2k
+  - [X] 04 Rain mesh replacer - regular
+  - [X] 05 IT Vanilla sky texture replacer 2k
+- Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
+- Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
+
+> This hides two very jarring sky textures.
+
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) (MWSE)  
+Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
+
+<details>
+	<summary>Optional weather and lighting mods - Click to expand</summary>
+
+[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886) (MWSE)  
+Retextures the sun to make it more realistic and detailed.
+
+[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
+Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
+
+[**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
+Required mesh for **Better Night Sky**.
+- Only install the **Skies .IV Resource Pack** Optional file.
+- Rename the file to **Skies .IV Night Sky Mesh** before installing it.
+- Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
+
+Additional files to install:
+- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717). A high resolution night sky replacer. Requires Skies .IV's night sky mesh.
+  - Only install the **Better Night Sky (darker)** Optional file.
+
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) (MWSE)  
+Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
+
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050) (MWSE)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+</details>
+
+### Equipment
+
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) (MWSE)  
+Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+
+Additional files to install:
+- [**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473). Tweaks bows so that they line up better with the sheathing animation.
+- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616). Adds sheaths to weapons not covered by Weapon Sheathing.
+
+<details>
+	<summary>Optional equipment visuals - Click to expand</summary>
+
+[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
+Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
+
+[**LeFemmRedacted**](https://www.nexusmods.com/morrowind/mods/50361)  
+Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
+- Hide **meshes\a\imperial_c_female.nif**.
+
+[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
+[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
+- BAIN options to install:
+  - [X] 00 Male Belt
+  - [X] 01 Female Dark Cuirass
+
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (MWSE)  
+Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
+
+Additional files to install:
+- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
+
+[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
+Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
+</details>
+
+### Books, scrolls, and misc
+
+<details>
+	<summary>Optional mods - Click to expand</summary>
+
+[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
+Replaces all the bookcovers, bookpages and scrolls.
+
+> Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
+
+[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)  
+Model replacer for book and scroll models.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045) (MWSE)  
+Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
+
+[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
+Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
+- Install the **Gold coins** main file.
+
+Additional files to install:
+- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
+
+[**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
+Replaces corprus meat models with animated, twitching ones ones.
+</details>
+
+### VFX
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- BAIN options to install:
+  - [X] fade
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+<details>
+	<summary>Optional VFX - Click to expand</summary>
+
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 GitD Patch Sunrays
+
+> This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by **Bethesda**, with additional fixes by **PikachunoTM**.
@@ -864,12 +971,6 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 - Install the **Mist Retexture** main file.
 
-[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) (MWSE)  
-Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
-
-Additional files to install:
-- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
-
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) (MWSE)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
@@ -878,68 +979,11 @@ Adds recurring earthquakes to certain volcanically active regions of Vvardenfell
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
 
-[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) (MWSE)  
-Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
-
-[**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
-Replaces corprus meat models with animated, twitching ones ones.
-	
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) (MWSE)  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Default Dust
-
-[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
-Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-
-[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
-Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
-
-[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-[**LeFemmRedacted**](https://www.nexusmods.com/morrowind/mods/50361)  
-Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
-- Hide **meshes\a\imperial_c_female.nif**.
-
-[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
-- BAIN options to install:
-  - [X] 00 Male Belt
-  - [X] 01 Female Dark Cuirass
-
-[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
-Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
-Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
-
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
-Changes the armor and clothes of some of the ghosts, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Ledd wears his robe, and so on.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
-Replaces all the bookcovers, bookpages and scrolls.
-
-> Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
-
-[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)  
-Model replacer for book and scroll models.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045) (MWSE)  
-Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
-
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install the **Gold coins** main file.
-
-Additional files to install:
-- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
 </details>
 
 ## Audio
