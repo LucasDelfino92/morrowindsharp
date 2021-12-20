@@ -765,10 +765,10 @@ TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
 Better Music System Redone
 Great Service
 Idle Talk
+Its a Deal
 LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
-Its a Deal
 Outfit Greetings Tweaked
 MWSE Config
 ```
@@ -783,35 +783,75 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
+OAAB_Data.esm
 Patch for Purists.esm
+Ownership Overhaul.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
 The Publicans.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Services Restored.ESP
+Silt Strider Animation Restored.ESP
+Under Construction.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+No Thank You.ESP
 Improved Temple Experience.ESP
 Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
 mwse_PoisonCrafting.ESP
 Ashfall.ESP
+Enhanced Light.ESP
 Restocking Alchemy Essentials.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
+No Beds for the Diseased.ESP
+Religions Elaborated.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
+Realistic_Repair_Add-on.ESP
 Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
+Know Thy Ancestors.ESP
+Inscribed Maar Gan Rock.ESP
+Trackless Grazeland.ESP
+OAAB Dwemer Pavements.ESP
+Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
+Mournhold LOD.ESP
+Nordic Chest Replacer.ESP
 GITD_WL_RR_Interiors.ESP
+TheMidnightOil.ESP
+Complete Armor Joints.ESP
+Alex's Better Fitted Female Armors.ESP
+FemalePants.ESP
+bcsounds.ESP
+Flies.ESP
+Glowbugs.ESP
+mistify.ESP
+Shattered Stones - An Earthquake Mod.ESP
+The Dream is the Door.ESP
 No Female Nord Screeching.ESP
+Quieter Doors and Spells.ESP
+Haunted Barrows.ESP
+RFD_Heartthrum.ESP
+Outdoor Banners With Sound.ESP
 Great Service.ESP
 Idle Talk.ESP
+Its a deal.ESP
 LDM - Context Matters 1.5.ESP
+FMI_#NotAllDunmer.ESP
+Greetings for No Lore.ESP
+outfit greetings tweaked.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
