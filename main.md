@@ -481,7 +481,7 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
   - [X] 00 Core
   - [X] 03 Vanilla style sunrays
 
-[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912) (MWSE)  
+[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) (MWSE)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636) (MWSE)  
