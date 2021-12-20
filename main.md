@@ -141,8 +141,6 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
-> A mod that pairs very well with this one is [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985), which allows travel to Mournhold before the Dark Brotherhood attacks begin. We will install this mod in the **Gameplay** section.
-
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
