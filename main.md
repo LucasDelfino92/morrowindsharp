@@ -907,6 +907,17 @@ For reference, here is a list of mods in the guide that tend to have compatibili
 <details>
 	<summary>December 15th</summary>
 
+- Split guide into main and add-on.
+- Added links to original mods in case an edited version is featured in the guide.
+- Added info and warning icons to certain comments.
+- 🆕 (Visuals Add-on) Added **Glowbugs**.
+- 🚫 (Visuals) Removed **Scum Retexture**.
+- 🚫 (Visuals) Removed **Scummy Scum**. Doesn't place nice with **Mistify** and **Glowbugs**.
+</details>
+
+<details>
+	<summary>December 15th</summary>
+
 - 🆕 (User Interface) Added **New Game Confirmation**.
 - 🆕 (Gameplay, Optional) Added **Actually Unlimited Skeleton Key**.
 - 🆕 (Gameplay, Optional) Added **Religions Elaborated - Healers**.
