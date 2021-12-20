@@ -124,9 +124,7 @@ A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
 
-> The Cloud Movement shader option distorts clouds as the they move, causing the impression of more natural cloud movement. However, this shader can distort clouds in strange ways and cause unwanted distortion on moons, which is why it is not recommended by default.
-
-> The Cinematic shaders optoin includes the Lens effect shader (barrel distortion, chromatic aberration), the Cinematic Black Bars shader, and the Cinematic Depth of Field shader. However, these shaders are a hit or miss for many, which is why they are not recommended by default.
+> These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) (MWSE)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
