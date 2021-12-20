@@ -264,6 +264,14 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 
 ## VISUALS ADD-ON
 
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 GitD Patch Sunrays
+
+> ℹ️ This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
+
 ### Splash screens
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
@@ -406,14 +414,6 @@ Additional files to install:
 Replaces corprus meat models with animated, twitching ones ones.
 
 ### VFX
-
-[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
-Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 GitD Patch Sunrays
-
-> ℹ️ This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. [**Link**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) to official plugin by **Bethesda**. Additional fixes by **PikachunoTM** from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
