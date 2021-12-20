@@ -158,6 +158,15 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 ### Features and mechanics
 
+[**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
+Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
+- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
+
+Additional files to install:
+- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z). Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+
+> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
+
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 - BAIN options to install:
@@ -190,8 +199,19 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
 
+[**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
+Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
+- BAIN options to install:
+  - [X] 00 Morrowind Only
+
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
+Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
+
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers. [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**.
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 
 ### Tweaks
 
@@ -218,6 +238,11 @@ Levitation speed is now based on Willpower attribute instead of Speed. [**Link**
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+
+> Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
@@ -574,6 +599,47 @@ Closes Molag Mar's canton.
 Compatibility patches for a series of mods altering Vivec and Molag Mar.
 - BAIN options to install:
   - [X] 05 No-Frills Series
+
+## EQUIPMENT ADD-ON
+
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
+Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
+
+[**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
+Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
+
+[**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
+- Install **Complete and Revised Vanilla Equipment Integrated** (under Main files).
+
+Additional files to install:
+- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092). Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
+  - Hide **Complete dreugh armor.ESP**.
+- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301). Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
+  - Hide **Complete and Revised Studded leather v 1.5.ESP**.
+- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166). Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
+  - Hide **Complete Nordic Iron.ESP**.
+- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534). Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+  - Hide **Concept Art Daedric Helms.ESP**.
+
+[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
+- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (under Main files).
+
+Additional files to install:
+- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038). Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+  - Hide **both .ESPs**.
+- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770). Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
+- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340). Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+
+[**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of oriental ebony weapons from natinnet.
+- Install **Oriental Ebony Weapons Integrated** (under Main files).
+- Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
+
+Additional files to install: 
+- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173). Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
+  - Hide **Oriental Ebony Weapon.esp**.
 
 ## OAAB_DATA ADD-ON
 
