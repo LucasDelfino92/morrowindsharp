@@ -552,6 +552,22 @@ The Publicans
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
+Adamantium Ore Fix
+Divayth Fyr Puzzle Fixed
+Dubdilla Location Fix
+Services Restored
+Silt Strider Animation Restored
+Under Construction
+Borrowed Time
+Consistent Enchanting
+Fortify MAX
+Just Drop It
+Loading Doors Lock Tune
+Putting Power in Willpower
+Run Fix
+Quest Skill Reward Fix
+Skill Increase GMST Fix
+Thrown Projectiles Revamped
 Correct UV Rocks
 Creature VFX Restoration
 Rope Fence Fix
@@ -560,6 +576,11 @@ Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
 AtlAd
+Better Scamps
+Correct UV Mudcrabs
+Glowing Flames
+I Lava Good Mesh Replacer
+Improved Thrown Weapon Projectiles
 Better Readable Beauty Font
 Better Daedric Font
 Magic Icons (Sigourn Edit)
@@ -570,11 +591,28 @@ Alchemical Knowledge
 Better Questlist
 Smart Journal
 What Are My Attributes (Sigourn Edit)
+Map and Compass
+Map Replacements for Maps and Compass
+Book Worm
+Essential Indicators
+Consistent Keys
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
+Shrine Tooltips
+Companion Health Bars
+Clock Block
+HUD Weapon Charge
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
 Torch Hotkey
+Better Buoyancy
+Book Pickup
+Kill Command
+Melchior's Magnificent Manuscripts
+Switchable Scriptures
 Diligent Defenders
 Easy Escort
 GMST Menu
@@ -596,15 +634,36 @@ Pass the Time
 Poison Crafting
 Ashfall
 Skills Module
+Magicka Expanded
+Miscast Enhanced
+MM - Enhanced Detection
+MM - Enhanced Light
+MM - Enhanced Invisibility
+MM - Enhanced Telekinesis
+No Beds for the Diseased
+Religions Elaborated (Healers)
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
 Useful Bound Armor
 Restocking Alchemy Essentials
+Actually Unlimited Skeleton Keys
+Drop Light
+Hold Your Breath
+Light Decay
+Lucky Loot
+Smarter Soultrap
+Wings of Will (Necro Edit)
+Realistic Movement Speeds
+Wading in Water MW
 MULE - Mort's Ultimate Leveling Experience 
 Magicka Regeneration Suite
+Class Skill Limit
+Nimble Armor
 Pickpocket (Sigourn Edit)
 Stealth Improved (Necro Edit)
+Locks and Traps Detection
+Visually Trapped Objects
 Alchemy Takes Time
 Controlled Consumption (MMC Edit)
 Dungeons Rest
@@ -613,11 +672,19 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
+Ownership Overhaul
+No Rest Without Beds
+Reactive Resistance
+Realistic Repair
+Realistic Repair - Add-on
+Silver Tongue (Necro Edit)
 Intelligent Textures
+OAAB_Data
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
+Widescreen Splash Additions
 Familiar Faces
 Facelift
 Yet Another Guard Diversity
@@ -625,26 +692,80 @@ Incarnates Overhauled
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
+Ashmire Replacer
+Inscribed Maar Gan Rock
+Know Thy Ancestors
+Trackless Grazeland
+Grass for Trackless Grazeland
+OAAB Dwemer Pavements
+3D Vines Vanilla Mushroom Trees
+Vivec Palace Water Replacer
+Well Diversified
+Distant Mournhold
+Nordic Chest Replacer
 Glow in the Dahrk 
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
 Weather Adjuster
-Weapon Sheathing
+Better Sun
+Dying Worlds - Moons Retexture
+Skies .IV Night Sky Mesh
+Better Night Sky
+The Midnight Oil
+Transporter Lights
 Weapon Sheathing Bow Position Edit
 Weapon Sheathing Additions
+Complete Armor Joints
+Better Fitted Female Armors
+Properly Fitted Female Pants
+LeFemmRedacted
+Imperial Steel Cuirass Tweaks
+Pincushion
+Pincushion - Improved Thrown Weapon Projectiles Patch
+Wolf Helmet Replacer
+Arukinns Better Books and Scrolls
+Melchior's Magnificent Manuscripts
+OAAB Scroll Qualities
+Simple Golden Gold
+Intelligent Textures - Simple Golden Gold
+Throbbing Meat - a Corprus Meat Replacer
+Bloodmoon Hide Replacer
 Subtle Magic Glow
 Subtle Smoke
+Bitter Coast Sounds (UMOPP)
+Flies (ProfArmitage Edit)
+Glowbugs
+Heat Haze
+Mistify
+Mist Retexture
+OAAB Dwemer Lighting Rods
+Shattered Stones - An Earthquake Mod
+The Dream is the Door
+Unto Dust
 No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
+AURA
+Quieter Doors and Spells
+Spell Sounds Enhanced
+Character Sound Overhaul
+Haunted Barrows
+Heartthrum
+Outdoor Banners With Sound
+Water Sounds
 MUSE 2 - Morrowind Music System Extended
 MUSE 2.02 - Necro Edit
 MUSE 2 - Vanilla Intro Music
 TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
+Better Music System Redone
 Great Service
 Idle Talk
 LDM - Context Matters
+FMI - NotAllDunmer
+Greetings for No Lore
+Its a Deal
+Outfit Greetings Tweaked
 MWSE Config
 ```
 </details>
