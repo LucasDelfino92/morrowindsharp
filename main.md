@@ -133,7 +133,7 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 
 ### Bug fixes 
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) ⭐  
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
@@ -514,28 +514,13 @@ Additional files to install:
 
 ## VISUALS
 
-### AI upscaling
+### Texture packs
 
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The only texture pack you will ever need.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Atlas Textures
-
-[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Only install the **kart_facelift_meshes** main file.
-
-> Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
-
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
-
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
-Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
 
 ### Menus and splash screens
 
@@ -567,6 +552,23 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
 </details>
 
+### Characters and NPCs
+
+[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+- Only install the **kart_facelift_meshes** main file.
+
+> Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
+Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
+
 ### Environment
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -586,7 +588,7 @@ Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
   - [X] 01a No Mushrooms MGE XE
-- Uncheck all **.esps** added by this mod. Do not hide or delete them.
+- Uncheck all **.esps** added by this mod. **Do not hide or delete them.**
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
@@ -594,8 +596,8 @@ Adds groundcover to almost all regions.
 Turns the scum mesh transparent, so you can see the water below.
 - Install only the **Scum Retexture 1.2 Alternative 1** main file, although any will do. We will be overwriting the texture anyway.
 
-[**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802)  
-Scummier scum texture for Lougian's Scum Retexture mod.
+Additional files to install:
+- [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802). Scummier scum texture for **Scum Retexture**.
 
 <details>
 	<summary>Optional environment mods - Click to expand</summary>
@@ -613,8 +615,6 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
-
-> This mod has a missing master that we will correct at the end of the guide.
 
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857) (MWSE)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
@@ -727,6 +727,9 @@ Additional files to install:
 <details>
 	<summary>Optional equipment visuals - Click to expand</summary>
 
+[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
@@ -737,8 +740,7 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
 - Hide **meshes\a\imperial_c_female.nif**.
 
-[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+> This omits the edit to the female Imperial Steel Cuirass.
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
@@ -756,7 +758,7 @@ Additional files to install:
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 </details>
 
-### Books, scrolls, and misc
+### Books, scrolls, and misc items
 
 <details>
 	<summary>Optional mods - Click to expand</summary>
@@ -815,7 +817,7 @@ During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightni
   - [X] 00 MWSE
 
 [**Flies (ProfArmitage Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Original mod by **R-Zero**, with additional fixes by **ProfArmitage**.
+Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. [**Link**](https://www.nexusmods.com/morrowind/mods/43481/) to original mod by **R-Zero**. Additional fixes by **ProfArmitage**.
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) (MWSE)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
@@ -854,10 +856,10 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 - Rename the file to **No Female Nord Screeching** before installing it.
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
-Removes the sheep sounds from Morrowind.	
+Removes sheep sounds from Morrowind.	
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
-Drastically reduces the frequency of idle Cliff Racer screeches, by editing the .kf file of the cliff racer mesh.
+Reduces the frequency of idle Cliff Racer screeches.
 
 <details>
 	<summary>Audio (Optional) - Click to expand</summary>
@@ -904,7 +906,7 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 - Rename the file to **Outdoor Banners With Sound** before installing it.
 
 [**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells%201.1.7z)  
-Reduces the volume of doors and spells.
+Reduces the volume of doors and spells. Mod by **Sigourn**.
 
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
 Vanilla-friendly replacer of each vanilla spell sound.
@@ -919,13 +921,13 @@ Simulates water sounds when colliding with generic fake animated water meshes, l
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
-- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z). Fixes a number of bugs with the original mod.
+- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z). Fixes a number of bugs with the original mod. Mod by **Necrolesian**.
   - BAIN options to install:
     - [X] Bugfix
-- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z). Restores the vanilla music for the introductory scene at the Imperial prison ship.
+- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z). Restores the vanilla music for the introductory scene at the Imperial prison ship. Mod by **Sigourn**.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
-Anonymous selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
+Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. Mod by **anonymous**.
 
 > The filesize of this download is 2.34GB.
 
@@ -934,9 +936,7 @@ Anonymous selection of songs from various different game soundtracks that all fi
 
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312) (MWSE)  
 Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
-- Only install the **Revenant's Better Music System Improved for MUSE 2** main file.
-
-> This mod is listed under **Optional** because it adds non-Jeremy Soule music to the game.
+- Install **Revenant's Better Music System Improved for MUSE 2** (under Main files).
 </details>
 
 ## Dialogue
