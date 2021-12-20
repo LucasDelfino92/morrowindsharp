@@ -563,8 +563,6 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-> ℹ️ Mods from the guide add-on are indented.
-
 <details>
 	<summary>Mod order</summary>
 
@@ -678,8 +676,6 @@ MWSE Config
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
-> ℹ️ Plugins from the guide add-on are indented.
-
 <details>
 <summary>Load order</summary>
 
@@ -733,45 +729,6 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
 
-> The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
-
-### Manually cleaning plugins
-
-> ℹ️ This section is intended for followers of the guide add-on.
-
-Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
-
-- Run TESAME in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
-  - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original.
-
-> This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
-
-- Run TESAME in Mod Organizer 2.
-- Delete the following records from **Alex's Better Fitted Female Armors.ESP**:
-  - Armor **netch_leather_cuirass**
-  - Armor **imperial_chain_cuirass**
-  - Armor **steel_cuirass**
-  - Armor **imperial cuirass_armor**
-- Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
-
-> This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
-
-### Automatically cleaning plugins
-
-> ℹ️ This section is intended for followers of the guide add-on.
-
-**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on each of the following plugins:
-  - **Divayth Fyr Puzzle Fixed.ESP**
-  - **Nordic Chest Replacer.ESP**
-  - **TheMidnightOil.ESP**
-- With all of them selected, right-clik and click **Clean with tes3cmd**.
-- After the process is over, close the window.
-
 ### Conflict resolution
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
@@ -781,7 +738,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 - tes3cmd will now generate the multipatch. After the process is over, click **OK**.
 - **multipatch.esp** will now be present at the end of your load order.
 
-**TES3Merge** lets us merge the objects in our active plugins in order to reduce conflicts, generating a **Merged Objects.esp** file which we will have to place at the end of our load order. This is very useful when, for example, you have a mod that modifies the stats on the Glass Armor while another modifies how it looks: TES3Merge will merge both changes into a single plugin.
+**TES3Merge** lets us merge conflicting record edits in our active plugins in order to minimize them, generating a **Merged Objects.esp** file which we will have to place at the end of our load order.
 
 - Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
@@ -821,8 +778,6 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 ### Shader setup
 
-> ℹ️ This section includes shaders from the guide add-on.
-
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
 - Run MGE XE in Mod Organizer 2.
@@ -833,15 +788,12 @@ We installed a number of shaders at the beginning of Morrowind#. If you've follo
 ```
 SSAO HQ
 Underwater Interior Effects
-Invisibility
 EdgeAA
 deband_fogawarev2
 Underwater Effects
 Sunshafts
 Special Process
 Eye Adaptation (HDR)
-heathaze
-r0_qk_shaker
 ```
 - Click **Save** after setting up your shader chain.
 
@@ -865,7 +817,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
 
-> ℹ️ This file includes configuration for mods from the guide add-on.
+> ℹ️ This file includes configuration for mods not present in this guide.
 
 <details>
 	<summary>List of configured mods</summary>
@@ -894,17 +846,11 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ### Additional MCP patches
 
-> ℹ️ This section includes patches for mods from the guide add-on.
-
-We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
-
-Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
+We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended. Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
 Category | Patch | Description
 ------------ | ------------- | -------------
 Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
-Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
-Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
 ### Closing comments
 
@@ -921,17 +867,13 @@ Broadly speaking, these are the steps you should follow whenever you install new
 
 # MOD KEYBINDINGS
 
-> ℹ️ This section includes keybindings for mods from the guide add-on.
-
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
 Key | Function | Added by
 ------------ | ------------- | -------------
 Y | Fast forward time | Pass the Time
-K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
-B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
@@ -942,7 +884,6 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+E | Equips/unequips item in inventory | Quick Equip
 Shift+E | Use potion/ingredient in inventory | Quick Equip
-Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # COMPATIBILITY
 
