@@ -643,7 +643,7 @@ Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamriel
   - [X] 00 Core
   - [X] 01 Yet Another Guard Diversity Patch
   - [X] 02 STOTSP TD Content Integration Patch
-  - [x] 03 OAAB Weapons Integrated Complete Duke's Guard Silver Patch
+  - [x] 03 Complete Duke's Guard Silver Patch
 - Hide **OAAB Weapons Integrated - TCBOO.esp**.
 
 > ℹ️ We will install **Complete Duke's Guard Silver** in the **Equipment Add-on**.
