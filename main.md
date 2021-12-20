@@ -158,7 +158,7 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 ### Mesh fixes and optimization
 
 [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
-Fixes UV mapping on rocks and stones. Mod by **Nich**.
+Fixes UV mapping on rocks and stones. [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
@@ -178,11 +178,9 @@ Greatly improves performance and fixes some mesh errors.
 > We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. 
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with **Project Atlas** in mind.
 - BAIN options to install:
   - [X] 00 Core
-
-> Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with **Project Atlas** in mind.
 
 [**AtlAd**](https://github.com/revenorror/AtlAd)  
 Unofficial add-on to **Project Atlas** which seeks to maintain parity with the **Morrowind Optimization Patch**, further improve performance on existing meshes, and expand the mod by covering additional sets.
@@ -202,9 +200,7 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 ### Fonts and icons
 
 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
-High resolution replacer for the Magic Cards font, used in most of the user interface.
-
-> An alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
+High resolution replacer for the Magic Cards font, used in most of the user interface. An alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -221,9 +217,7 @@ Replaces the effect seen on magic items in the inventory (such as scrolls and en
 Adds a continue button to the main menu to instantly load your most recent save.
 
 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693) (MWSE)  
-Adds a confirmation popup when you click on the New Game button.
-
-> While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
+Adds a confirmation popup when you click on the New Game button. While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) (MWSE)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -236,12 +230,10 @@ Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) (MWSE)  
 Adds several new options for the journal and quest pages.
-- Only install the **abotSmartJournal103** file under Old Files.
-
-> The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
+- Only install **abotSmartJournal103** (under Old files). The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z) (MWSE)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. Additional fixes by **Necrolesian**.
 
 > For additional menus, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-menus).
 
@@ -343,11 +335,9 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
 	<summary>Optional features and mechanics - Click to expand</summary>
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) (MWSE)  
-A lua-based framework for creating new, fully functional magic effects.
+A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 - BAIN options to install:
   - [X] 00 - Framework
-
-> This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 
 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) (MWSE)  
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
@@ -377,7 +367,7 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
 
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
-Adds healing services to healers. Original mod by **Caeris**.
+Adds healing services to healers. [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**.
 </details>
 
 ### Tweaks
@@ -425,7 +415,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
 [**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z) (MWSE)  
-Levitation speed is now based on Willpower attribute instead of Speed. Original mod by **Sataniel**, with additional fixes by **Necrolesian**.
+Levitation speed is now based on Willpower attribute instead of Speed. [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. Additional fixes by **Necrolesian**.
 </details>
 
 ## OVERHAULS
@@ -438,26 +428,26 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446) (MWSE)  
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232) (MWSE)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+[**Controlled Consumption (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) (MWSE)  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. Additional tweaks by **Greatness7** and **Necrolesian**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699) (MWSE)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) (MWSE)  
-Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price. [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. Additional tweaks by **Sigourn**.
 
 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153) (MWSE)  
 Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
 
 [**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z) (MWSE)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing. Original mod by **Mort**, with additional fixes by **Sigourn**.
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing. [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. Additional fixes by **Sigourn**.
 
 [**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z) (MWSE)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle. Original mod by **Mort**, with additional fixes by **Necrolesian**.
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle. [**Link**](https://www.nexusmods.com/morrowind/mods/49614) to original mod by **mort**. Additional fixes by **Necrolesian**.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
+Fixes some of the biggest exploits and balance issues in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. Additional fixes and tweaks by **Sigourn**.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
@@ -513,16 +503,13 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
 [**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z) (MWSE)  
-Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. Additional mod by **VitruvianGuar**, with additional fixes by **Necrolesian**.
-
-[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) (MWSE)  
-A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code.
-
-> This framework is a pre-requisite for **Ashfall**.
+Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. Additional fixes by **Necrolesian**.
 
 [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) (MWSE)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-- Requires [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) to be installed.
+
+Additional files to install:
+- [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034). A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 </details>
@@ -765,7 +752,7 @@ Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink fem
 Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
 
 Additional files to install:
-- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
+- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards. Mod by **Sigourn**.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
@@ -822,7 +809,7 @@ Asset repository for the Morrowind Community, which contains resources which can
 > This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
-Adds ambient noise and dragonflies all over the Bitter Coast region. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched*](https://www.nexusmods.com/morrowind/mods/43931).
+Adds ambient noise and dragonflies all over the Bitter Coast region. [**Link**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) to official plugin by **Bethesda**. Additional fixes by **PikachunoTM** from [**Unofficial Morrowind Official Plugins Patched*](https://www.nexusmods.com/morrowind/mods/43931).
 
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) (MWSE)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
