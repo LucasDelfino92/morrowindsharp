@@ -868,7 +868,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 > ℹ️ This file includes configuration for mods from the guide add-on.
 
 <details>
-	<summary>Detailed list of options</summary>
+	<summary>List of configured mods</summary>
 
 - Sophisticated Save System: sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
 - Clock Block: sets the clock type to game time.
