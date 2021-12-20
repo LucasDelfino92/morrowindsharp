@@ -279,9 +279,6 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 - BAIN options to install:
   - [X] 00 Vanilla Ghostgate
 
-[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) (MWSE)  
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383) (MWSE)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
@@ -331,6 +328,18 @@ Additional files to install:
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
 ### Tweaks
+
+[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) (MWSE)  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) (MWSE)  
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) (MWSE)  
+Modifies critical strike coefficient depending on the weapon you use.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829) (MWSE)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
