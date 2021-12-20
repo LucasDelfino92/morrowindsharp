@@ -520,14 +520,18 @@ Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, 
 
 ## DIALOGUE ADD-ON
 
+### Voiced
+
+[**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
+Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
+
+### Written
+
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
 
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)  
 Replaces the three standard No Lore greetings with over sixty new ones.
-
-[**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
