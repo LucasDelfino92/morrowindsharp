@@ -151,8 +151,6 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
 
-> For additional bug fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-bug-fixes).
-
 ### Mesh fixes and optimization
 
 [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
@@ -191,8 +189,6 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 - Hide **textures\atl\atlad_shack.dds**. This texture is buggy.
 
 > We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
-
-> For additional mesh fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-mesh-fixes).
 
 ## USER INTERFACE
 
@@ -234,8 +230,6 @@ Adds several new options for the journal and quest pages.
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z) (MWSE)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. Additional fixes by **Necrolesian**.
 
-> For additional menus, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-menus).
-
 ### Hotkeys
 
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) (MWSE)  
@@ -252,8 +246,6 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) (MWSE)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
-
-> For additional hotkeys, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-hotkeys).
 
 ## GAMEPLAY QOL
 
@@ -464,13 +456,6 @@ Adds groundcover to almost all regions.
 
 > Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
-[**Scum Retexture**](https://www.nexusmods.com/morrowind/mods/42582)  
-Turns the scum mesh transparent, so you can see the water below.
-- Install only the **Scum Retexture 1.2 Alternative 1** main file, although any will do. We will be overwriting the texture anyway.
-
-Additional files to install:
-- [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802). Scummier scum texture for **Scum Retexture**.
-
 ### Weather and lighting
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) (MWSE)  
@@ -526,6 +511,8 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ## AUDIO
 
+### SFX
+
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - Rename the file to **No Female Nord Screeching** before installing it.
@@ -536,7 +523,7 @@ Removes sheep sounds from Morrowind.
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 Reduces the frequency of idle Cliff Racer screeches.
 
-## MUSIC
+### Music
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200) (MWSE)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
@@ -719,8 +706,6 @@ Facelift Meshes
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
-Scum Retexture
-Scummy Scum
 Glow in the Dahrk
 Let There Be Darkness
 Watch the Skies
