@@ -26,7 +26,7 @@ Morrowind# (pronounced *Sharp*) is a modular modding guide for **The Elder Scrol
 This guide is split in two sections:
 
 - [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md). Includes setting up utilities and tools, as well as Mod Organizer 2. This section will be useful to anyone deciding to get into Morrowind, regardless of whether they want to install more mods on top or not.
-- [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and Distant Land generation. Mods are grouped by categories, and each category has an Optional section if you wish to install even more mods (however, the most important will have already been covered).
+- [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and Distant Land generation.
 
 I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
