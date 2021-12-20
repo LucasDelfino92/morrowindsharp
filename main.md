@@ -548,11 +548,15 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ## DIALOGUE
 
+### Voiced
+
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
+### Written
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
