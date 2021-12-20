@@ -43,7 +43,7 @@ What these options do is simple:
 - **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
 - **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> ⚠️ By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
+> ℹ️ By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
 
 ### Manual download installation
 
@@ -62,7 +62,7 @@ The rest of the steps work exactly as during mod manager download installation.
 
 BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
 
-> ⚠️ This guide will list the options you should install. If missing, the options should be skipped.
+> ℹ️ This guide will list the options you should install. If missing, the options should be skipped.
 
 ### Repackaging mods
 
@@ -122,7 +122,7 @@ A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
 
-> ⚠️ These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) (MWSE)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
@@ -169,7 +169,7 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
 
-> ⚠️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
+> ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with **Project Atlas** in mind.
@@ -186,7 +186,7 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
   - [X] 01 Textures - Intelligent Textures
 - Hide **textures\atl\atlad_shack.dds**. This texture is buggy.
 
-> ⚠️ We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
+> ℹ️ We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
 
 ## USER INTERFACE
 
@@ -352,7 +352,7 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452) (MWSE)  
 A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
 
-> ⚠️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
+> ℹ️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153) (MWSE)  
 Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
@@ -407,7 +407,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 HD recreation of the Title and Logo Intro, in widescreen.
 - Install the **Title Screen Reworked (Widescreen)** main file.
 
-> ⚠️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
+> ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
 [**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
@@ -432,7 +432,7 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Only install the **kart_facelift_meshes** main file.
 
-> ⚠️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+> ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
@@ -544,7 +544,7 @@ Additional files to install:
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. Mod by **anonymous**.
 
-> ⚠️ The filesize of this download is 2.34GB.
+> ℹ️ The filesize of this download is 2.34GB.
 
 ## DIALOGUE
 
