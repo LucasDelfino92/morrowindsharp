@@ -87,11 +87,8 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
 
-<details>
-  <summary>December 20th</summary>
-
+December 20th
 - Moved almost all mods to the Morrowind# Add-on guide. This is now a CCCP and BTBGI exclusive guide.
-</details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
