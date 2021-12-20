@@ -153,7 +153,7 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
 
-> For additional bug fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/master/optionals.md).
+> For additional bug fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-bug-fixes).
 
 ### Mesh fixes and optimization
 
@@ -195,33 +195,7 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 
 > We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended.
 
-<details>
-	<summary>Optional mesh fixes - Click to expand</summary>
-
-[**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
-Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
-- Hide/delete the **Textures** folder.
-
-[**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
-Fixes the Mudcrab mesh, reducing distortion and other UV errors.
-- Expand the **Correct Mudcrab** and **Regular** folders.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
-Flames are now glow mapped and/or properly illuminated.
-- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
-
-[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
-Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-</details>
+> For additional mesh fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-mesh-fixes).
 
 ## USER INTERFACE
 
@@ -269,40 +243,7 @@ Adds several new options for the journal and quest pages.
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z) (MWSE)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. Original mod by **RingComics**, with additional fixes by **Necrolesian**.
 
-<details>
-	<summary>Optional menus - Click to expand</summary>
-
-[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) (MWSE)  
-Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
-
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) (MWSE)  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
-
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) (MWSE)  
-Renames keys so they'll have a consistent naming scheme.
-- Install the **Consistent Keys - MWSE Version** main file.
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941) (MWSE)  
-Renames propylon indexes so they'll group together in the inventory.
-
-[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861) (MWSE)  
-Renames soulgems so they'll group together in the inventory.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-	
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) (MWSE)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) (MWSE)  
-Adds a clock to the UI that displays either game world time or real time.
-
-[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136) (MWSE)  
-Adds bars to the UI that displays your companions and summoned creatures' health.
-
-[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962) (MWSE)  
-Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
-</details>
+> For additional menus, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-menus).
 
 ### Hotkeys
 
@@ -321,27 +262,7 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) (MWSE)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
-<details>
-	<summary>Optional hotkeys - Click to expand</summary>
-
-[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) (MWSE)  
-Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
-
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) (MWSE)  
-Adds a hotkey for picking up books.
-
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) (MWSE)  
-Adds a hotkey for companions to attack the selected target.
-
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) (MWSE)  
-Adds a hotkey to open and close any book and scroll in the game.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Closed Book Icons
-  - [X] 03 Melchior's Magnificent Manuscripts
-
-> We will install **Melchior's Magnificent Manuscripts** in the **Optional Visuals** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
-</details>
+> For additional hotkeys, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-hotkeys).
 
 ## GAMEPLAY QOL
 
