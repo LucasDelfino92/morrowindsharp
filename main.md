@@ -911,12 +911,15 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>December 15th</summary>
+	<summary>December 20th</summary>
 
 - Split guide into main and add-on.
+  - 🆕 (Visuals Add-on) Added **Glowbugs**.
+  - 🆕 Created **Cities and Towns Add-on**.
+  - 🆕 Created **OAAB_Data Add-on**.
+  - 🆕 Created **Equipment Add-on**.
 - Added links to original mods in case an edited version is featured in the guide.
 - Added info and warning icons to certain comments.
-- 🆕 (Visuals Add-on) Added **Glowbugs**.
 - 🚫 (Visuals) Removed **Scum Retexture**.
 - 🚫 (Visuals) Removed **Scummy Scum**. Doesn't place nice with **Mistify** and **Glowbugs**.
 </details>
