@@ -188,8 +188,9 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
+- Hide **textures\atl\atlad_shack.dds**. This texture is buggy.
 
-> We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended.
+> We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
 
 > For additional mesh fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/optionals.md#additional-mesh-fixes).
 
