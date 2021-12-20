@@ -117,14 +117,14 @@ The **Overwrite** folder is the destiny folder for the output of many of the too
 
 ## SHADERS
 
-[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z) (MWSE)  
+[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z)  
 A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
 
 > ℹ️ These shaders need to be registered in MGE XE to work as intended. Shader order will be given in the [Shader setup](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
-[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) (MWSE)  
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 ## PATCHES
@@ -143,10 +143,10 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) (MWSE)  
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
 Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
-[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
+[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
 
 ### Mesh fixes and optimization
@@ -206,57 +206,57 @@ Replaces the effect seen on magic items in the inventory (such as scrolls and en
 
 ### Menus
 
-[**Continue**](https://www.nexusmods.com/morrowind/mods/45952) (MWSE)  
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
-[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693) (MWSE)  
+[**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693)  
 Adds a confirmation popup when you click on the New Game button. While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
 
-[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) (MWSE)  
+[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) (MWSE)  
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
-[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) (MWSE)  
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
 
-[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) (MWSE)  
+[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
 - Only install **abotSmartJournal103** (under Old files). The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z) (MWSE)  
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. Additional fixes by **Necrolesian**.
 
 ### Hotkeys
 
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) (MWSE)  
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
 
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) (MWSE)  
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
-[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) (MWSE)  
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
 Adds a hotkey for exiting any menu.
 
-[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) (MWSE)  
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
-[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) (MWSE)  
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## GAMEPLAY QOL
 
-[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) (MWSE)  
+[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 
-[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) (MWSE)  
+[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)  
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
-[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428) (MWSE)  
+[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
 Lets you edit every GMST in the game, in-game.
 
-[**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) (MWSE)  
+[**Graphic Herbalism MWSE**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - BAIN options to install:
   - [X] 00 Core + Vanilla Meshes
@@ -267,9 +267,9 @@ Additional files to install:
   - BAIN options to install:
     - [X] 10 Atlas - Vanilla BC Mushrooms
 - [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154). Fixes a collision bug with harvested Ash Yams.
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) (MWSE). Makes picking a glowing plant also remove the glow-light.
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864). Makes picking a glowing plant also remove the glow-light.
 
-[**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) (MWSE)  
+[**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
@@ -277,7 +277,7 @@ Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport
 - BAIN options to install:
   - [X] 00 Vanilla Ghostgate
 
-[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383) (MWSE)  
+[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
 ## GAMEPLAY
@@ -292,32 +292,32 @@ Adds new arrows that explode on impact. This alternative version of the [**offic
 - Hide all plugins except **Area Effect Arrows Integrated.ESP**.
 
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
+Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
   - **Rename** to **Better Propylon Teleport Script**.
   - Hide **Better Propylon Teleport Warp.ESP**.
 
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) (MWSE)  
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
 
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
-[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) (MWSE)  
+[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
 
-[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217) (MWSE)  
+[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) (MWSE)  
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Labelled Potions
 
-[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) (MWSE)  
+[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
 Additional files to install:
@@ -327,16 +327,16 @@ Additional files to install:
 
 ### Tweaks
 
-[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) (MWSE)  
+[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) (MWSE)  
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) (MWSE)  
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use.
 
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829) (MWSE)  
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -349,34 +349,34 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 
 ### Character progression
 
-[**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452) (MWSE)  
+[**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
 A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
 
 > ℹ️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
-[**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153) (MWSE)  
+[**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)  
 Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
 
 ### Stealth mechanics
 
-[**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z) (MWSE)  
+[**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing. [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. Additional fixes by **Sigourn**.
 
-[**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z) (MWSE)  
+[**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle. [**Link**](https://www.nexusmods.com/morrowind/mods/49614) to original mod by **mort**. Additional fixes by **Necrolesian**.
 
 ### Balance
 
-[**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446) (MWSE)  
+[**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
-[**Controlled Consumption (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232) (MWSE)  
+[**Controlled Consumption (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. Additional tweaks by **Greatness7** and **Necrolesian**.
 
-[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699) (MWSE)  
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232) (MWSE)  
+[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price. [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. Additional tweaks by **Sigourn**.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -454,7 +454,7 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) (MWSE)  
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
@@ -465,7 +465,7 @@ Adds groundcover to almost all regions.
 
 ### Weather and lighting
 
-[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) (MWSE)  
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - FOMOD options to install:
   - [X] Nord Glass Windows
@@ -479,10 +479,10 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
   - [X] 00 Core
   - [X] 03 Vanilla style sunrays
 
-[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) (MWSE)  
+[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
-[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636) (MWSE)  
+[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - BAIN options to install:
   - [X] 00 Lua core
@@ -494,12 +494,12 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 
 > This hides two very jarring sky textures.
 
-[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) (MWSE)  
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
 ### Equipment
 
-[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) (MWSE)  
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
 Additional files to install:
@@ -532,7 +532,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ### Music
 
-[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200) (MWSE)  
+[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
