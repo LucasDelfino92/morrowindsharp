@@ -459,7 +459,7 @@ Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
   - [X] 01a No Mushrooms MGE XE
-- Uncheck all **.esps** added by this mod. **Do not hide or delete them.**
+- Uncheck all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
