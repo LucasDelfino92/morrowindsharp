@@ -201,9 +201,6 @@ Morrowind# will be the profile we'll be modding. You can always revert to the **
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
-**Windowed mode**
-- Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
-
 **Options**
 - Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
 
@@ -225,6 +222,9 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 - You should select your resolution and refresh rate.
 - Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
 - Turn **VSync** on to prevent screen-tearing.
+
+**Windowed mode**
+- Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
 
 **Renderer**
 - Check **Enable shaders**.
