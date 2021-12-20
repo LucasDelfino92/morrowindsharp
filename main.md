@@ -563,7 +563,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-> Indented you will find mods from the optional sections of the guide.
+> ℹ️ Mods from the guide add-on are indented.
 
 <details>
 	<summary>Mod order</summary>
@@ -678,7 +678,7 @@ MWSE Config
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
 
-> Indented you will find mods from the optional sections of the guide.
+> ℹ️ Plugins from the guide add-on are indented.
 
 <details>
 <summary>Load order</summary>
@@ -720,7 +720,7 @@ multipatch.ESP
 Merged Objects.ESP
 ```
 
-> We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
+> ℹ️ We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
 ### Synchronizing mod masters
@@ -737,7 +737,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 
 ### Manually cleaning plugins
 
-> This section is intended for followers of the guide add-on.
+> ℹ️ This section is intended for followers of the guide add-on.
 
 Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
 
@@ -760,7 +760,7 @@ Some of our installed plugins contain changes we are not really interested in. T
 
 ### Automatically cleaning plugins
 
-> This section is intended for followers of the guide add-on.
+> ℹ️ This section is intended for followers of the guide add-on.
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tes3cmd).
 
@@ -821,7 +821,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 ### Shader setup
 
-> This section includes shaders from the guide add-on.
+> ℹ️ This section includes shaders from the guide add-on.
 
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
@@ -865,7 +865,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
 
-> This file includes configuration for mods from the guide add-on.
+> ℹ️ This file includes configuration for mods from the guide add-on.
 
 <details>
 	<summary>Detailed list of options</summary>
@@ -894,7 +894,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ### Additional MCP patches
 
-> This section includes patches for mods from the guide add-on.
+> ℹ️ This section includes patches for mods from the guide add-on.
 
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended.
 
@@ -921,7 +921,7 @@ Broadly speaking, these are the steps you should follow whenever you install new
 
 # MOD KEYBINDINGS
 
-> This section includes keybindings for mods from the guide add-on.
+> ℹ️ This section includes keybindings for mods from the guide add-on.
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
