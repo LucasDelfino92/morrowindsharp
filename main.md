@@ -317,11 +317,11 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
   - [X] 00 Core
   - [X] 01 Labelled Potions
 
+[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
+A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
+
 [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-
-Additional files to install:
-- [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034). A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
 > For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
