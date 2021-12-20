@@ -155,58 +155,7 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) (MWSE)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to. 
 
-<details>
-	<summary>Optional bug fixes - Click to expand</summary>
-
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- Rename the file to **Adamantium Ore Fix** before installing it.
-
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
-Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
-
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) (MWSE)  
-Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
-
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) (MWSE)  
-Carries over unique item information, such as condition and script data when enchanting items.
-	
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) (MWSE)  
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
-
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) (MWSE)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) (MWSE)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
-
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z) (MWSE)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. Original mod by **R-Zero**, with additional fixes by **Necrolesian**.
-
-[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) (MWSE)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) (MWSE)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) (MWSE)  
-Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
-
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) (MWSE)  
-Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
-</details>
+> For additional bug fixes, [**check this page**](https://github.com/Sigourn/morrowind-sharprepository/blob/master/optionals.md).
 
 ### Mesh fixes and optimization
 
