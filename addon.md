@@ -332,6 +332,8 @@ Replaces the water in the Palace of Vivec's canals.
 [**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 
+> ⚠️ This mod is not compatible with **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on** and which already includes it.
+
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -396,6 +398,8 @@ Additional files to install:
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
 
+> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
+
 ### Items
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
@@ -420,6 +424,8 @@ Replaces corprus meat models with animated, twitching ones ones.
 
 [**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
 Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
+
+> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
 
 ### VFX
 
