@@ -694,6 +694,7 @@ Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
 mwse_PoisonCrafting.ESP
 Ashfall.ESP
 Restocking Alchemy Essentials.ESP
