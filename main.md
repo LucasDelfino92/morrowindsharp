@@ -304,6 +304,8 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ## GAMEPLAY
 
+### Features and mechanics
+
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended to be used alongside **Expansion Delay**, or any other mod that delays Dark Brotherhood attacks.
 
@@ -311,8 +313,19 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended t
 Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
 - Hide all plugins except **Area Effect Arrows Integrated.ESP**.
 
+[**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
+Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched*](https://www.nexusmods.com/morrowind/mods/43931).
+
+Additional files to install:
+- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
+  - **Rename** to **Better Propylon Teleport Script**.
+  - Hide **Better Propylon Teleport Warp.ESP**.
+
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) (MWSE)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
+
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
+Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765) (MWSE)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
@@ -326,35 +339,8 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
   - [X] 00 Core
   - [X] 01 Labelled Potions
 
-[**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
-Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch
-
 <details>
-	<summary>Optional gameplay mods - Click to expand</summary>
-
-[**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972) (MWSE)  
-Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
-
-[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) (MWSE)  
-Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
-
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
-Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
-
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) (MWSE)  
-Endurance determines how long you can hold your breath under water.
-
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) (MWSE)  
-The radius of a hand-held light will gradually diminish and eventually go out when the light extinguishes.
-
-[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839) (MWSE)  
-At higher Luck you will have a better chance to obtain better items from a container that would spawn them at higher levels.
-
-[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) (MWSE)  
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+	<summary>Optional features and mechanics - Click to expand</summary>
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) (MWSE)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -387,22 +373,44 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - BAIN options to install:
   - [X] 00 - Core
 
-[**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. The quest can be started by talking to Folms Mirel at the Guild of Mages in Caldera. Original plugin by **Bethesda**, with additional fixes by **PikachunoTM**.
-
-Additional files to install:
-- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
-  - **Rename** to **Better Propylon Teleport Script**.
-  - Hide **Better Propylon Teleport Warp.ESP**.
-
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
 
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) (MWSE)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers. Original mod by **Caeris**.
+</details>
+
+### Tweaks
+
+[**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
+Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 MWSE Poison Crafting Patch
+
+<details>
+	<summary>Optional gameplay tweaks - Click to expand</summary>
+
+[**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972) (MWSE)  
+Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
+
+[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) (MWSE)  
+Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
+
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) (MWSE)  
+Endurance determines how long you can hold your breath under water.
+
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) (MWSE)  
+The radius of a hand-held light will gradually diminish and eventually go out when the light extinguishes.
+
+[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839) (MWSE)  
+At higher Luck you will have a better chance to obtain better items from a container that would spawn them at higher levels.
+
+[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) (MWSE)  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) (MWSE)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121) (MWSE)  
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
@@ -814,7 +822,7 @@ Asset repository for the Morrowind Community, which contains resources which can
 > This asset repository is a pre-requisite for **OAAB Dwemer Pavements** and **OAAB Dwemer Lightning Rods**.
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
-Adds ambient noise and dragonflies all over the Bitter Coast region. Original plugin by **Bethesda**, with additional fixes by **PikachunoTM**.
+Adds ambient noise and dragonflies all over the Bitter Coast region. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched*](https://www.nexusmods.com/morrowind/mods/43931).
 
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) (MWSE)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
