@@ -140,7 +140,7 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) (MWSE)  
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) (MWSE)  
