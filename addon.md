@@ -418,11 +418,6 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
 Adds ambient noise and dragonflies all over the Bitter Coast region. [**Link**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) to official plugin by **Bethesda**. Additional fixes by **PikachunoTM** from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
-During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
-- BAIN options to install:
-  - [X] 00 MWSE
-
 [**Flies (ProfArmitage Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. [**Link**](https://www.nexusmods.com/morrowind/mods/43481/) to original mod by **R-Zero**. Additional fixes by **ProfArmitage**.
 
@@ -440,6 +435,11 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 - Install the **Mist Retexture** main file.
+
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
+- BAIN options to install:
+  - [X] 00 MWSE
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
