@@ -4,11 +4,11 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# MORROWIND# ADD-ON
-
-## Disclaimer
+# DISCLAIMER
 
 The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind# guide. It includes optional, quality mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
+
+# MORROWIND# ADD-ON
 
 ## PATCHES ADD-ON
 
