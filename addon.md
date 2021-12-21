@@ -115,7 +115,7 @@ Provides configurable, dynamic crosshair indicators while sneaking and for essen
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
-- Install **Consistent Keys - MWSE Version** (under Main files).
+- Install **Consistent Keys - MWSE Version** (Main files).
 
 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
 Renames propylon indexes so they'll group together in the inventory.
@@ -321,7 +321,7 @@ Removes the track textures and road markers from the Grazeland to align with in-
 
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
-- Install the **Remiros Groundcover** main file.
+- Install **Remiros Groundcover** (Main files).
 - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
@@ -360,13 +360,13 @@ Makes Masser and Secunda dying planets, where there is no more place for life. A
 
 [**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
 Required mesh for **Better Night Sky**.
-- Only install **Skies .IV Resource Pack** (under Optional files).
+- Only install **Skies .IV Resource Pack** (Optional files).
 - **Rename** to **Skies .IV Night Sky Mesh**.
 - Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
 
 Additional files to install:
 - [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717). A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
-  - Only install the **Better Night Sky (darker)** Optional file.
+  - Only install **Better Night Sky (darker)** (Optional files).
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
@@ -422,7 +422,7 @@ Model replacer for book and scroll models.
 
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install the **Gold coins** main file.
+- Install **Gold coins** (Main files).
 
 Additional files to install:
 - [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
@@ -459,7 +459,7 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-- Install the **Mist Retexture** main file.
+- Install **Mist Retexture** (Main files).
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -533,7 +533,7 @@ Simulates water sounds when colliding with generic fake animated water meshes, l
 
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
 Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
-- Install **Revenant's Better Music System Improved for MUSE 2** (under Main files).
+- Install **Revenant's Better Music System Improved for MUSE 2** (Main files).
 
 ## DIALOGUE ADD-ON
 
@@ -557,7 +557,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
 Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
-- Install the **Tamriel Data (HD)** main file only.
+- Install **Tamriel Data (HD)** (Main files).
 - [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
 
 > ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
@@ -666,7 +666,7 @@ Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Gu
 
 [**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
-- Install **Complete and Revised Vanilla Equipment Integrated** (under Main files).
+- Install **Complete and Revised Vanilla Equipment Integrated** (Main files).
 
 Additional files to install:
 - [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092). Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
@@ -680,7 +680,7 @@ Additional files to install:
 
 [**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
-- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (under Main files).
+- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files).
 
 Additional files to install:
 - [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038). Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
@@ -690,7 +690,7 @@ Additional files to install:
 
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
-- Install **Oriental Ebony Weapons Integrated** (under Main files).
+- Install **Oriental Ebony Weapons Integrated** (Main files).
 - Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
 
 Additional files to install: 
