@@ -625,12 +625,14 @@ Asset repository for the Morrowind Community, which contains resources which can
 > ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
 
 [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)  
-Minor mods which integrate content from [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042) into the game.
-- Install **OAAB Creature Loot**.
-- Install **OAAB Dark Temptations**.
-- Install **OAAB Golden Reeds**.
-- Install **OAAB Leveled Creatures**.
-- Install **OAAB Scroll Qualities**.
+Minor mods which integrate content from **OAAB_Data** into the game.
+
+Files to install:
+- **OAAB Creature Loot** (Main files).
+- **OAAB Dark Temptations** (Main files).
+- **OAAB Golden Reeds** (Main files).
+- **OAAB Leveled Creatures** (Main files).
+- **OAAB Scroll Qualities** (Main files).
 
 > ℹ️ We will skip **OAAB Leveled Lists** in favor of **OAAB Weapons Integrated**, which we will install in a moment.
 
