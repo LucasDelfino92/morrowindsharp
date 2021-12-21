@@ -117,7 +117,7 @@ Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
-- Only install **abotSmartJournal103** (under Old files).
+- Only install **abotSmartJournal103** (Old files).
 
 > ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
@@ -301,7 +301,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 [**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
-- Install **Title Screen Reworked (Widescreen)** (under Main files).
+- Install **Title Screen Reworked (Widescreen)** (Main files).
 
 > ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
@@ -315,7 +315,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Only install **Pete's Journal and Scroll** (under Optional files).
+- Only install **Pete's Journal and Scroll** (Optional files).
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
@@ -326,7 +326,7 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Only install **kart_facelift_meshes** (under Main files).
+- Only install **kart_facelift_meshes** (Main files).
 
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
