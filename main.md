@@ -117,7 +117,9 @@ Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
-- Only install **abotSmartJournal103** (under Old files). The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
+- Only install **abotSmartJournal103** (under Old files).
+
+> ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. Additional fixes by **Necrolesian**.
@@ -217,7 +219,7 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
-> For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
+> ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
 ### Tweaks
 
@@ -386,7 +388,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 - Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
 - Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
 
-> This hides two very jarring sky textures.
+> ℹ️ This hides two very jarring sky textures.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -672,7 +674,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-> For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are only used for Distant Land generation. If you enable them, you will find that you are unable to walk through grass.
+> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
 
 ### Shader setup
 
@@ -695,7 +697,7 @@ Eye Adaptation (HDR)
 ```
 - Click **Save** after setting up your shader chain.
 
-> Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
 ### Updating MWSE
 
