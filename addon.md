@@ -16,7 +16,7 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- Rename the file to **Adamantium Ore Fix** before installing it.
+- **Rename** to **Adamantium Ore Fix**.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -69,6 +69,8 @@ Corrects thrown projectiles inflicting twice their listed damage, by halving the
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
 - Hide/delete the **Textures** folder.
 
+> ℹ️ This omits the Scamp's retexture, since **Intelligent Textures** uses a vanilla-friendly high resolution texture.
+
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 - Expand the **Correct Mudcrab** and **Regular** folders.
@@ -78,6 +80,8 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
+
+> ℹ️ This omits tweaks that are meant to be used alongside **True Lights and Darkness**.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -96,7 +100,7 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
-> Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
+> ℹ️ Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
 
 [**Map Replacements for Maps and Compass Wagner Style**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
@@ -165,12 +169,14 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 Additional files to install:
 - [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z). Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
 
-> This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
+> ℹ️ This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
+A lua-based framework for creating new, fully functional magic effects.
 - BAIN options to install:
   - [X] 00 - Framework
+
+> ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 
 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)  
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
@@ -242,7 +248,7 @@ Modifies movement speeds when strafing or backpedaling so that they are more rea
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
 
-> Note that this mod is *not* meant to make movement faster, only more natural.
+> ⚠️ Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
@@ -283,6 +289,8 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 
 Additional files to install:
 - [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461). Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
+
+> ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
 [**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. Additional fixes by **Necrolesian**.
@@ -357,7 +365,7 @@ Required mesh for **Better Night Sky**.
 - Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
 
 Additional files to install:
-- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717). A high resolution night sky replacer. Requires Skies .IV's night sky mesh.
+- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717). A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
   - Only install the **Better Night Sky (darker)** Optional file.
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
@@ -575,7 +583,7 @@ Additional files to install:
     - [X] 011 Skyrim-Like Trees
     - [X] 012 Remiros' Groundcover for TOTSP
     - [X] 013 Grey Solstheim Rocks
-  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This plugin is not compatible with **STotSP**.
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This mod already includes its own grass plugin that is compatible with its landscape changes.
 - [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
@@ -1088,7 +1096,7 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
 
-> ℹ️ The case of Trackless Grazeland.ESP merits special attention. The mod will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on Texture Fix 2.0.esm, allowing you to play the mod without said mod installed.
+> ℹ️ **Trackless Grazeland.ESP** will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on **Texture Fix 2.0.esm**, allowing you to play the mod without said mod installed.
 
 ### Manually cleaning plugins
 
@@ -1156,7 +1164,7 @@ To fix this, we have to synchronize our save's plugins to our current load order
 - Right click on the save you just updated, and click on **Repair All**. Wrye Mash will repair your save file.
 - You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
-You do not need to repeat this process for each of your outdated saves, but just the ones you are planning to load.
+You do not need to repeat this process for each of your outdated saves, just the ones you are planning to load.
 
 ### Re-running Distant Land
 
@@ -1169,7 +1177,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
-> For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are only used for Distant Land generation. If you enable them, you will find that you are unable to walk through grass.
+> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
 
 ### Shader setup
 
@@ -1195,7 +1203,7 @@ r0_qk_shaker
 ```
 - Click **Save** after setting up your shader chain.
 
-> Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
 ### Updating MWSE
 
@@ -1204,7 +1212,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 - Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
-Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
+> ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
 ### Mod config
 
