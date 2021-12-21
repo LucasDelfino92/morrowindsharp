@@ -706,7 +706,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 - Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
-Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
+> ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
 ### Mod config
 
