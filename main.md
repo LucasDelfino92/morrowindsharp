@@ -78,7 +78,9 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
-- Hide **textures\atl\atlad_shack.dds**. This texture is buggy.
+
+Additional files to install:
+- [**AtlAd Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/AtlAd%20Intelligent%20Textures%20Fix.7z). Fixes the buggy atlased texture for shacks.
 
 > ℹ️ We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
 
@@ -485,6 +487,7 @@ Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
 AtlAd
+AtlAd Intelligent Textures Fix
 Better Readable Beauty Font
 Better Daedric Font
 Magic Icons (Sigourn Edit)
