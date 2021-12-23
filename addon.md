@@ -682,6 +682,9 @@ Additional files to install:
 [**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
 - Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files).
+- BAIN options to install:
+  - [X] Core
+  - [X] Nerevarine Service Refusal Patch
 
 Additional files to install:
 - [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038). Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
