@@ -653,8 +653,7 @@ Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamriel
   - [X] 00 Core
   - [X] 01 Yet Another Guard Diversity Patch
   - [X] 02 STOTSP TD Content Integration Patch
-  - [x] 03 Complete Duke's Guard Silver Patch
-- Hide **OAAB Weapons Integrated - TCBOO.esp**.
+  - [X] 03 Complete Duke's Guard Silver Patch
 
 > ℹ️ We will install **Complete Duke's Guard Silver** in the **Equipment Add-on**.
 
@@ -693,7 +692,8 @@ Additional files to install:
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Install **Oriental Ebony Weapons Integrated** (Main files).
-- Hide **Oriental Ebony Weapons Integrated - TCBOO.esp**.
+- BAIN options to install:
+  - [X] 00 Core
 
 Additional files to install: 
 - [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173). Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
