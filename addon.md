@@ -1083,6 +1083,7 @@ OAAB Weapons Integrated Complete Duke's Guard Silver Patch.ESP
 Complete and Revised Vanilla Equipment Integrated.ESP
 Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
 Redoran War and Sathil Mercenary Armor Integrated.ESP
+Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
 Oriental Ebony Weapons Integrated.ESP
 multipatch.ESP
 Merged Objects.ESP
