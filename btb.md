@@ -61,13 +61,16 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 ### Mod order
 
 ```
+MM - Enhanced Detection
 Antares' Mage Robes
+BTBGI (Necro Edit) Tweaked and Patches
 Antares' Mage Robes BBTGI Patch
 ```
 
 ### Load order
 
 ```
+mwse_PoisonCrafting.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
@@ -77,6 +80,14 @@ Tribunal Rebalance.ESP
 Bloodmoon Rebalance.ESP
 Realistic_Repair_Add-on.ESP
 BTBGI Realistic Repair Add-on Patch.ESP
+OAAB Alchemy.ESP
+OAAB Creature Loot.ESP
+OAAB Creature and Alchemy BTBGI Patch.ESP
+OAAB Weapons Integrated.ESP
+Oriental Ebony Weapons Integrated.ESP
+multipatch.ESP
+Weapons Integrated BTBGI Loot Patch.ESP
+Merged Objects.ESP
 ```
 
 ### Mod config
