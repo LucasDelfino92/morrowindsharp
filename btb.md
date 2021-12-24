@@ -45,8 +45,8 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
 Additional files to install:
 - **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
   - BAIN options to install:
-    - [X] Core
-    - [X] Weapons Integrated Patch 
+    - [X] 00 Core
+    - [X] 01 Weapons Integrated Patch 
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
