@@ -58,7 +58,12 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 
 ## FINISHING TOUCHES
 
-### Mod order
+### Mod order and load order
+
+> ℹ️ Note that these are just a basic mod order and load order in relation to mods installed in Morrowind#.
+
+<details>
+	<summary>Mod order</summary>
 
 ```
 MM - Enhanced Detection
@@ -66,8 +71,10 @@ Antares' Mage Robes
 BTBGI (Necro Edit) Tweaked and Patches
 Antares' Mage Robes BBTGI Patch
 ```
-
-### Load order
+</details>
+	
+<details>
+	<summary>Load order</summary>
 
 ```
 mwse_PoisonCrafting.ESP
@@ -89,6 +96,7 @@ multipatch.ESP
 Weapons Integrated BTBGI Loot Patch.ESP
 Merged Objects.ESP
 ```
+</details>
 
 ### Mod config
 
