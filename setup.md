@@ -14,9 +14,9 @@
 - A file archiver. I recommend [**7-Zip**](https://www.7-zip.org/).
 - A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
 
-> Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
+> ⚠️ Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
 
-> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
 ## Installation
 
@@ -33,7 +33,7 @@ Additional, you will need a folder where to install our mod manager and keep you
 C:\Games\Morrowind Mods
 ```
 
-> Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
+> ⚠️ Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
 
 ### Cleaning up your GOG installation
 
@@ -47,7 +47,7 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
 
-> Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
+> ℹ️ Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
 # MORROWIND CODE PATCH
 
@@ -61,7 +61,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 - Manually download the **MCP beta** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update the **Morrowind Code Patch** to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
+> ℹ️ This will update the **Morrowind Code Patch** to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 
 ## Setup
 
@@ -69,7 +69,7 @@ Repository for the Beta update for the Morrowind Code Patch.
 - The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Click **Apply chosen patches** when you are finished. Close the application.
 
-> A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
+> ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
 # MGE XE AND MWSE
 
@@ -82,7 +82,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - When installation has finished, uncheck both options and click **Finish**.
 - Go to your **Morrowind\Data** folder and delete **XE Sky Variations.esp**.
 
-> **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
+> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
 
 Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
@@ -99,7 +99,7 @@ This file contemplates the following landscape-altering scenarios:
 - The completion of the construction of each Great House Stronghold.
 - The completion of Raven Rock's construction.
 
-The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
+> ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
 # MOD ORGANIZER 2
 
@@ -110,7 +110,7 @@ The **Readme** elaborates on how to use these overrides, so you should definitel
 - When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
-> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
+> ⚠️ Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
 
 ## Configuration
 
@@ -129,7 +129,7 @@ The **Readme** elaborates on how to use these overrides, so you should definitel
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 - From the pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
-> If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
+> ℹ️ If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
 
 ### Adjusting mod and load order
 
@@ -149,7 +149,7 @@ Tribunal.esm
 Bloodmoon.esm
 ```
 
-> You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
+> ℹ️ You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting Morrowind.ini
 
@@ -193,7 +193,7 @@ Morrowind# will be the profile we'll be modding. You can always revert to the **
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
 
-> Always remember to run MGE XE through Mod Organizer 2 to detect the Virtual Files folder.
+> ⚠️ Always remember to run MGE XE through Mod Organizer 2 to detect the Virtual Files folder.
 
 ### In-game tab
 
@@ -242,7 +242,7 @@ Sunshafts
 ```
 - Click **Save** after setting up your shader chain.
 
-> Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
+> ⚠️ Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
 
 ### Distant Land tab
 
@@ -266,15 +266,15 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
   - Click **Create Statics**.
 - Once the statics have been created, click **Finish**.
 
-> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
+> ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
-> These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
+> ℹ️ These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
 
-> Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
+> ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
 # IN-GAME CONFIGURATION
 
@@ -290,9 +290,9 @@ It's time to finally run Morrowind.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 - Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 
-> If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
-> You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
+> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
 # TOOLS
 
@@ -304,7 +304,7 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 Used to see the structure of mods and detect conflicts.
 - Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
-> The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
+> ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
@@ -337,14 +337,14 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Click **Next** and then click **Finish**.
 - Wrye Mash x64 will now launch. Close the program.
 
-> The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
+> ℹ️ The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 
-> **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
 
 - Download the **Wrye Mash 2021 - x64 - beta6 - manual installation archive** update file.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-> This will update WryeMash to the latest version.
+> ℹ️ This will update WryeMash to the latest version.
 
 ### tes3cmd
 
@@ -353,7 +353,7 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
-> Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
+> ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
 
 ### Registering Wrye Mash in Mod Organizer 2
 
@@ -362,7 +362,7 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply** and then **OK**.
 
-> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
+> ℹ️ Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
 # GENERAL TIPS
 
@@ -468,7 +468,7 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 - Learn how file structure works. Incorrect file structure means mods will not work as intended.
 - Register BSA files when appropriate. BSA files contain data files for the mod you are installing, or for other mods to use as a resource. Failing to register your BSA files can cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960&crop=smart&auto=webp&s=3d180a6476cad80c332c12be08252511a0044c5c). This can also happen when a mod you are installing is missing assets.
 
-> To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
+> ℹ️ To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 
 # MOVING ON TO THE NEXT SECTION
 
