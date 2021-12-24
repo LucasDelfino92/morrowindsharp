@@ -33,17 +33,20 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
 - Rename the file to **BTBGI (Necro Edit) Tweaked and Patches** before installing it.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Loot Patch + Weapons Integrated
-  - [X] 02 Morrowind Anti-Cheese Tweaked
+  - [X] 01 MM - Enhanced Detection Patch
+  - [X] 02 Poison Crafting Patch
   - [X] 03 Ashfall Patch
-  - [X] 04 MM - Enhanced Detection Patch
-  - [X] 05 Poison Crafting Patch
+  - [X] 04 Balanced Passive Races and Birthsigns Tweaked
+  - [X] 05 Morrowind Anti-Cheese Tweaked
   - [X] 06 Realistic Repair Add-on Patch
-  - [X] 07 Balanced Passive Races and Birthsigns Tweaked
-  - [X] 08 OAAB Creature Loot and Alchemy Patch
+  - [X] 07 OAAB Creature Loot and Alchemy Patch
+  - [X] 08 Antares' Mage Robes Patch
 
 Additional files to install:
-- [**Antares' Mage Robes BTBGI Patch**](https://drive.google.com/file/d/19cBQtJSLKWKnQu6YG7DigGX6rQTTQvsC/view?usp=sharing). Edits dialogue, journal entries, and robe names to polish it and make it more vanilla-friendly, as well as robe stats and enchantments to bring it up to speed with **BTBGI (Necro Edit) Tweaked**.
+- **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
+  - BAIN options to install:
+    - [X] Core
+    - [X] Weapons Integrated Patch 
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
