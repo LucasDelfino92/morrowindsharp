@@ -96,8 +96,8 @@ OAAB Creature and Alchemy BTBGI Patch.ESP
 OAAB Weapons Integrated.ESP
 Oriental Ebony Weapons Integrated.ESP
 multipatch.ESP
-Weapons Integrated BTBGI Loot Patch.ESP
 Merged Objects.ESP
+BTBGI Loot Patch.ESP
 ```
 </details>
 
