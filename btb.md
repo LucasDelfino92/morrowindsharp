@@ -58,6 +58,27 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 
 ## FINISHING TOUCHES
 
+### Mod order
+
+```
+Antares' Mage Robes
+Antares' Mage Robes BBTGI Patch
+```
+
+### Load order
+
+```
+BTB's Game Improvements (Necro Edit) Tweaked.ESP
+BTBGI Poison Crafting Patch.ESP
+Balanced Passive Races and Birthsigns Tweaked.ESP
+Morrowind Anti-Cheese Tweaked.ESP
+Beware the Sixth House.ESP
+Tribunal Rebalance.ESP
+Bloodmoon Rebalance.ESP
+Realistic_Repair_Add-on.ESP
+BTBGI Realistic Repair Add-on Patch.ESP
+```
+
 ### Mod config
 
 A number of mods require additional in-game configuration.
