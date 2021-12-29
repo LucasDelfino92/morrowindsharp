@@ -184,7 +184,7 @@ Adds negative consequences to casting spells that are beyond the caster's abilit
 - In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
 - Save your changes.
 
-> ℹ️ This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged instead.
+> ℹ️ This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
 
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
