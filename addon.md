@@ -180,6 +180,11 @@ A lua-based framework for creating new, fully functional magic effects.
 
 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)  
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
+- Open **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** in a text editor.
+- In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
+- Save your changes.
+
+> ℹ️ This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged instead.
 
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
