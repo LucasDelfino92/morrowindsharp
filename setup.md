@@ -2,9 +2,9 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner_Setup.jpg)
-
 # MORROWIND SETUP
+
+![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20GOG%20Banner.jpg)
 
 ## Requirements
 
