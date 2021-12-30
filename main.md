@@ -280,8 +280,8 @@ Dynamically adjusts how much merchants will pay for items. Items worth more than
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. Additional fixes and tweaks by **Sigourn**.
 
-[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
+[**Beware the Sixth House (Sixth House Overhaul)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Beware%20the%20Sixth%20House%20ESP%20Replacer.zip)  
+Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance. [**Link**](https://www.nexusmods.com/morrowind/mods/46036) to original mod by **mort**. Additional fixes by **Sigourn**.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
