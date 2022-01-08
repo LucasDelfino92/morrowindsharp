@@ -78,11 +78,14 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
+  - [X] 02 GITD
 
 Additional files to install:
 - [**AtlAd Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/AtlAd%20Intelligent%20Textures%20Fix.7z). Fixes the buggy atlased texture for shacks.
 
 > ℹ️ We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
+
+> ℹ️ We will install **Glow in the Dahrk** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
 
 ## USER INTERFACE
 
@@ -486,6 +489,7 @@ Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
+Glow in the Dahrk 
 AtlAd
 AtlAd Intelligent Textures Fix
 Better Readable Beauty Font
@@ -553,7 +557,6 @@ Incarnates Overhauled
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
-Glow in the Dahrk 
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
@@ -808,6 +811,14 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 7th</summary>
+
+- ⚠️ (Patches) **AtlAd**. Updated install instructions to include **02 GITD**.
+- ⚠️ (OAAB_Data Add-on) **OAAB_Data**. Updated BAIN instructions for latest release.
+- ⚠️ (OAAB_Data Add-on) **OAAB Scroll Qualities**. Added missing BAIN instructions.
+</details>
 
 <details>
 	<summary>December 20th</summary>
