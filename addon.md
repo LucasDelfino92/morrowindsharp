@@ -625,7 +625,6 @@ Compatibility patches for a series of mods altering Vivec and Molag Mar.
 Asset repository for the Morrowind Community, which contains resources which can be used by other mods. For players, this does nothing by itself.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 GitD Patch Sunrays
 
 > ℹ️ This asset repository is a pre-requisite for **OAAB** mods.
 
@@ -638,6 +637,8 @@ Files to install:
 - **OAAB Golden Reeds** (Main files).
 - **OAAB Leveled Creatures** (Main files).
 - **OAAB Scroll Qualities** (Main files).
+  - BAIN options to install:
+    - [X] 00 Icons
 
 > ℹ️ We will skip **OAAB Leveled Lists** in favor of **OAAB Weapons Integrated**, which we will install in a moment.
 
