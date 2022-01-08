@@ -751,7 +751,9 @@ Weapon Sheathing
 Morrowind Optimization Patch
 Project Atlas
 Intelligent Textures
+Glow in the Dahrk 
 AtlAd
+AtlAd Intelligent Textures Fix
 Better Scamps
 Correct UV Mudcrabs
 Glowing Flames
@@ -883,7 +885,6 @@ Vivec Palace Water Replacer
 Well Diversified
 Distant Mournhold
 Nordic Chest Replacer
-Glow in the Dahrk 
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
