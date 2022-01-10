@@ -99,6 +99,11 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 ### Menus
 
+[**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
+Adds a character name generator menu on starting the game, allowing you to randomize it based on race, including Ashlander and Jel names for Dunmer and Argonians.
+
+> ℹ️ Because this mod triggers before you even choose your race, it is recommended you plan ahead which character you want to build before settling on a name.
+
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
@@ -134,9 +139,6 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)  
 Adds a clock to the UI that displays either game world time or real time.
 
-[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
-Adds bars to the UI that displays your companions and summoned creatures' health.
-
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
@@ -149,7 +151,10 @@ Add hotkeys for swimming and levitating. Use the jump key to float upwards, and 
 Adds a hotkey for picking up books.
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-Adds a hotkey for companions to attack the selected target.
+Adds a hotkey for summons, followers and companions to attack the selected target.
+
+[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708)  
+Adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu.
 
 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)    
 Adds a hotkey to open and close any book and scroll in the game.
@@ -163,6 +168,9 @@ Adds a hotkey to open and close any book and scroll in the game.
 ## GAMEPLAY ADD-ON
 
 ### Features and mechanics
+
+[**Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795)  
+Adds a new Background Menu, triggered at the end of character generation. Select from 27 different backgrounds, each with their own unique effects. Backgrounds range from simple stat changes to fully scripted events that completely change the way you play the game.
 
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
@@ -777,10 +785,12 @@ Magic Icons (Sigourn Edit)
 Continue
 New Game Confirmation
 UI Expansion
+Companion Health Bars
 Alchemical Knowledge
 Better Questlist
 Smart Journal
 What Are My Attributes (Sigourn Edit)
+Character Creation Name Generator
 Map and Compass
 Map Replacements for Maps and Compass
 Book Worm
@@ -790,7 +800,6 @@ Propylon Index Renamer
 Soulgem Renamer
 No Thank You
 Shrine Tooltips
-Companion Health Bars
 Clock Block
 HUD Weapon Charge
 Hotkeys Extended
@@ -801,6 +810,7 @@ Torch Hotkey
 Better Buoyancy
 Book Pickup
 Kill Command
+Quick Loadouts
 Melchior's Magnificent Manuscripts
 Switchable Scriptures
 Diligent Defenders
@@ -824,6 +834,7 @@ Pass the Time
 Poison Crafting
 Ashfall
 Skills Module
+Character Backgrounds
 Chargen Revamped - Exanded Lands
 Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch
 Magicka Expanded
@@ -1032,8 +1043,9 @@ Better Propylon Teleport Warp-Master Index.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
 mwse_PoisonCrafting.ESP
 Ashfall.ESP
-CREL_Vanilla_STOTSP_v3.1.esp
-CREL_Vanilla_ASTOTSP_v3.1 Patch.esp
+Character Backgrounds.ESP
+CREL_Vanilla_STOTSP_v3.1.ESP
+CREL_Vanilla_ASTOTSP_v3.1 Patch.ESP
 Enhanced Light.ESP
 Restocking Alchemy Essentials.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
