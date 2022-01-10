@@ -199,7 +199,7 @@ Adds new arrows that explode on impact. This alternative version of the [**offic
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
 Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera.
 
-> ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Master_Index) to official plugin by Bethesda. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
+> ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Master_Index) to official plugin by **Bethesda**. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
