@@ -74,7 +74,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 Unofficial add-on to **Project Atlas** which seeks to maintain parity with the **Morrowind Optimization Patch**, further improve performance on existing meshes, and expand the mod by covering additional sets.
 - Click on the green **Code** button at the top of the page and then **Download ZIP**.
 - Extract the contents of the archive.
-- From the extracted archive, select all folders and the README.md and create a new archive called **AtlAd**. If successful, when installing this archive you should be prompted to install it as a BAIN installer in MO2.
+- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **AtlAd**. If successful, when installing this archive you should be prompted to install it as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
