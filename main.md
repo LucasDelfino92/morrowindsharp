@@ -116,6 +116,9 @@ Adds a confirmation popup when you click on the New Game button. While certain u
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
+[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
+Adds bars to the UI that displays your companions and summoned creatures' health.
+
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
@@ -516,6 +519,7 @@ Magic Icons (Sigourn Edit)
 Continue
 New Game Confirmation
 UI Expansion
+Companion Health Bars
 Alchemical Knowledge
 Better Questlist
 Smart Journal
@@ -831,6 +835,15 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>January 10th</summary>
+
+- 🆕 (User Interface) **Companion Health Bars**.
+- 🆕 (User Interface Add-on) **Quick Loadouts**.
+- 🆕 (User Interface Add-on) **Character Creation Name Generator**.
+- 🆕 (Gameplay Add-on) **Merlord's Character Backgrounds**.
+</details>
+
+<details>
 	<summary>January 7th</summary>
 
 - ⚠️ (Patches) **AtlAd**. Updated install instructions to include **02 GITD**.
@@ -842,15 +855,15 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 	<summary>December 20th</summary>
 
 - Split guide into main and add-on. This should make it easier to follow for both those who only want to install the default recommended mods, and those that are considered "optional". In particular, this will streamline the rest of the sections that included instructions for those users who were installing optional mods only.
-  - 🆕 (Gameplay Add-on) Added **Chargen Revamped - Expanded Lands**.
-  - 🆕 (Gameplay Add-on) Added **More Exclusive Factions**.
-  - 🆕 (Gameplay Add-on) Added **Nerevarine Service Refusal**.
-  - 🆕 (Gameplay Add-on) Added **FMI - Service Refusal and Contraband**.
-  - 🆕 (Gameplay Add-on) Added **Speed and Movement Rebalanced**.
-  - 🆕 (Visuals Add-on) Added **Glowbugs**.
-  - 🆕 Created **Cities and Towns Add-on**.
-  - 🆕 Created **OAAB_Data Add-on**, and moved all **OAAB_Data** dependant mods to this section.
-  - 🆕 Created **Equipment Add-on**.
+  - 🆕 (Gameplay Add-on) **Chargen Revamped - Expanded Lands**.
+  - 🆕 (Gameplay Add-on) **More Exclusive Factions**.
+  - 🆕 (Gameplay Add-on) **Nerevarine Service Refusal**.
+  - 🆕 (Gameplay Add-on) **FMI - Service Refusal and Contraband**.
+  - 🆕 (Gameplay Add-on) **Speed and Movement Rebalanced**.
+  - 🆕 (Visuals Add-on) **Glowbugs**.
+  - 🆕 **Cities and Towns Add-on** section.
+  - 🆕 **OAAB_Data Add-on** section. Moved all **OAAB_Data** dependant mods to this section.
+  - 🆕 **Equipment Add-on** section.
 - Added links to original mods in case an edited version is featured in the guide.
 - Added info and warning icons to certain comments.
 - 🚫 (Visuals) Removed **Scum Retexture**.
