@@ -46,7 +46,9 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 ### Mesh fixes and optimization
 
 [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
-Fixes UV mapping on rocks and stones. [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**.
+Fixes UV mapping on rocks and stones.
+
+> ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
@@ -127,7 +129,9 @@ Adds several new options for the journal and quest pages.
 > ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. Additional fixes by **Necrolesian**.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
 
 ### Hotkeys
 
@@ -193,7 +197,9 @@ Adds new arrows that explode on impact. This alternative version of the [**offic
 - Hide all plugins except **Area Effect Arrows Integrated.ESP**.
 
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes by **PikachunoTM** from his [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
+Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera.
+
+> ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Master_Index) to official plugin by Bethesda. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
@@ -261,10 +267,14 @@ Modern magicka regeneration mod, providing three different and configurable type
 ### Stealth mechanics
 
 [**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing. [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. Additional fixes by **Sigourn**.
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. The hosted version includes Additional fixes by **Sigourn**.
 
 [**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle. [**Link**](https://www.nexusmods.com/morrowind/mods/49614) to original mod by **mort**. Additional fixes by **Necrolesian**.
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49614) to original mod by **mort**. The featured version includes fixes by **Necrolesian**.
 
 ### Balance
 
@@ -272,19 +282,27 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
 [**Controlled Consumption (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. Additional tweaks by **Greatness7** and **Necrolesian**.
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price. [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. Additional tweaks by **Sigourn**.
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes tweaks by **Sigourn**.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game. [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. Additional fixes and tweaks by **Sigourn**.
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Beware%20the%20Sixth%20House%20ESP%20Replacer.zip)  
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance. [**Link**](https://www.nexusmods.com/morrowind/mods/46036) to original mod by **mort**. Additional fixes by **Sigourn**.
+Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46036) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
