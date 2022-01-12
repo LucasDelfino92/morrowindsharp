@@ -264,9 +264,6 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 
 > ℹ️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
 
-[**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)  
-Modern magicka regeneration mod, providing three different and configurable types of magicka regeneration.
-
 ### Stealth mechanics
 
 [**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
@@ -834,6 +831,12 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 12th</summary>
+
+- 🚫 (Overhauls) **Magicka Regeneration Suite**. I never added configuration instructions for it, but most importantly I don't think magicka regeneration is that important anymore with **Restocking Alchemy Essentials**.
+</details>
 
 <details>
 	<summary>January 10th</summary>
