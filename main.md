@@ -553,8 +553,7 @@ Marksman Rebalanced
 Sneaky Strike
 Useful Bound Armor
 Restocking Alchemy Essentials
-MULE - Mort's Ultimate Leveling Experience 
-Magicka Regeneration Suite
+MULE - Mort's Ultimate Leveling Experience
 Pickpocket (Sigourn Edit)
 Stealth Improved (Necro Edit)
 Alchemy Takes Time
@@ -565,7 +564,6 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
-Intelligent Textures
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
