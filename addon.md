@@ -864,7 +864,6 @@ Realistic Movement Speeds
 Speed and Movement Rebalanced
 Wading in Water MW
 MULE - Mort's Ultimate Leveling Experience 
-Magicka Regeneration Suite
 Class Skill Limit
 Nimble Armor
 Pickpocket (Sigourn Edit)
@@ -885,7 +884,6 @@ Reactive Resistance
 Realistic Repair
 Realistic Repair - Add-on
 Silver Tongue (Necro Edit)
-Intelligent Textures
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
