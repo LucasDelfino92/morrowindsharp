@@ -177,7 +177,8 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 - Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
 
 Additional files to install:
-- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z). Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
+  Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
 
 > ℹ️ This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
@@ -307,7 +308,8 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 - Hide **Realistic_Repair_Optional.ESP**.
 
 Additional files to install:
-- [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461). Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
+- [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
+  Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
@@ -386,7 +388,8 @@ Required mesh for **Better Night Sky**.
 - Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
 
 Additional files to install:
-- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717). A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
+- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
+  A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
   - Only install **Better Night Sky (darker)** (Optional files).
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
@@ -422,7 +425,8 @@ Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink fem
 Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
 
 Additional files to install:
-- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z). Solves a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
+- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z)  
+  Addresses a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
@@ -445,8 +449,9 @@ Model replacer for book and scroll models.
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
 - Install **Gold coins** (Main files).
 
-Additional files to install:
-- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?). Upscaled **Simple Golden Gold** textures.
+Optional files to install:
+- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
+  Upscaled **Simple Golden Gold** textures.
 
 [**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
 Replaces corprus meat models with animated, twitching ones ones.
@@ -508,7 +513,8 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
 Additional files to install:
-- **AURA 3.0 - replacer** (Optional file section). Replaces some of the worst sounds from Morrowind.
+- **AURA 3.0 - replacer** (Optional files)  
+  Replaces some of the worst sounds from Morrowind.
   - **Merge** into the main file.
   - BAIN options to install:
     - [X] 00 Waves
@@ -602,7 +608,8 @@ Improves the graphical fidelity, environmental design, and gameplay of the Blood
 > ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
 
 Additional files to install:
-- **Solstheim Graphical Replacer**.
+- **Solstheim Graphical Replacer**  
+  Texture and mesh replacer for Solstheim, and also a compatible version of Remiros' Groundcover for the revamped Solstheim.
   - BAIN options to install:
     - [X] 010 Solstheim - HD Worldspace Graphical Replacer
     - [X] 011 Skyrim-Like Trees
@@ -695,14 +702,18 @@ Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Gu
 Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
 - Install **Complete and Revised Vanilla Equipment Integrated** (Main files).
 
-Additional files to install:
-- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092). Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
+Required files:
+- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
+  Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
   - Hide **Complete dreugh armor.ESP**.
-- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301). Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
+- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
+  Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
   - Hide **Complete and Revised Studded leather v 1.5.ESP**.
-- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166). Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
+- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
+  Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
   - Hide **Complete Nordic Iron.ESP**.
-- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534). Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
+  Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
   - Hide **Concept Art Daedric Helms.ESP**.
 
 [**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
@@ -712,11 +723,16 @@ Expands on the in-game integration of Redoran War Armor. Also fixes journal issu
   - [X] Core
   - [X] Nerevarine Service Refusal Patch
 
-Additional files to install:
-- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038). Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+Required files:
+- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
+  Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
   - Hide **both .ESPs**.
-- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770). Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
-- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340). Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+
+Optional files to install:
+- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
+  Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
+- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
+  Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
 
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
@@ -724,8 +740,9 @@ Expands on the in-game integration of oriental ebony weapons from natinnet.
 - BAIN options to install:
   - [X] 00 Core
 
-Additional files to install: 
-- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173). Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
+Required files: 
+- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
+  Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
   - Hide **Oriental Ebony Weapon.esp**.
 
 ## FINISHING TOUCHES
