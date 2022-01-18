@@ -67,26 +67,24 @@ Greatly improves performance and fixes some mesh errors.
 
 > ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399)  
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. Note that this mod will make many retextures (most notably architecture retextures) incompatible, unless you install a patch designed with **Project Atlas** in mind.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**AtlAd**](https://github.com/revenorror/AtlAd)  
-Unofficial add-on to **Project Atlas** which seeks to maintain parity with the **Morrowind Optimization Patch**, further improve performance on existing meshes, and expand the mod by covering additional sets.
+[**Project Atlas**](https://github.com/revenorror/Project-Atlas)  
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. The mod mantains parity with the **Morrowind Optimization Patch**, further improving performance on existing meshes.
 - Click on the green **Code** button at the top of the page and then **Download ZIP**.
 - Extract the contents of the archive.
 - From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **AtlAd**. If successful, when installing this archive you should be prompted to install it as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
-  - [X] 02 GITD
+  - [X] 05 Glow in the Dahrk Patch
+  - [X] 06 Graphic Herbalism Patch
 
 Additional files to install:
-- [**AtlAd Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/AtlAd%20Intelligent%20Textures%20Fix.7z)  
+- [**Project Atlas - Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Project%20Atlas%20-%20Intelligent%20Textures%20Fix.7z)  
   Fixes the buggy atlased texture for shacks.
 
-> ℹ️ We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section, and load them before **AtlAd** for it to patch them as intended, and after **Project Atlas** to overwrite its outdated texture atlases.
+> ℹ️ We will install **Graphic Herbalism**, **Intelligent Textures**, and **Glow in the Dahrk** in upcoming sections, and load them before **Project Atlas** for it to patch them as intended.
+
+> ⚠️ Note **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
 ## USER INTERFACE
 
@@ -171,10 +169,6 @@ Automatically harvests herbs, instead of opening the container interface. Picked
   - [X] 00 Core + Vanilla Meshes
  
 Additional files to install:
-- **GH Patches and Replacers**. Includes patches for a number of mods.
-  - **Rename** to **Graphic Herbalism MWSE Patches and Replacers**.
-  - BAIN options to install:
-    - [X] 10 Atlas - Vanilla BC Mushrooms
 - [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
   Fixes a collision bug with harvested Ash Yams.
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
@@ -288,7 +282,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
-[**Controlled Consumption (MMC Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
@@ -519,11 +513,11 @@ Creature VFX Restoration
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
-Project Atlas
 Intelligent Textures
 Glow in the Dahrk 
-AtlAd
-AtlAd Intelligent Textures Fix
+Graphic Herbalism
+Project Atlas
+Project Atlas - Intelligent Textures Fix
 Better Readable Beauty Font
 Better Daedric Font
 Magic Icons (Sigourn Edit)
@@ -543,8 +537,6 @@ Torch Hotkey
 Diligent Defenders
 Easy Escort
 GMST Menu
-Graphic Herbalism
-Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
@@ -842,6 +834,13 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 18th</summary>
+
+- ⚠️ (Patches) Updated **Project Atlas**' installation instructions. AtlAd has been merged into it, and as a result no longer are two separate downloads required. The mod order has been updated as a consequence.
+- ⚠️ (Gameplay QOL) Updated **Graphic Herbalism**'s installation instructions. The patches collection is no longer needed, as **Project Atlas** already includes a patch for the mod. The mod order has been updated as a consequence, with the mod requiring to be loaded before **Project Atlas**.
+</details>
 
 <details>
 	<summary>January 12th</summary>
