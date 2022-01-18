@@ -83,18 +83,19 @@ Unofficial add-on to **Project Atlas** which seeks to maintain parity with the *
   - [X] 02 GITD
 
 Additional files to install:
-- [**AtlAd Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/AtlAd%20Intelligent%20Textures%20Fix.7z). Fixes the buggy atlased texture for shacks.
+- [**AtlAd Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/AtlAd%20Intelligent%20Textures%20Fix.7z)  
+  Fixes the buggy atlased texture for shacks.
 
-> ℹ️ We will install **Intelligent Textures** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
-
-> ℹ️ We will install **Glow in the Dahrk** in the **Visuals** section, and load it before this mod for **AtlAd** to patch it as intended, and after **Project Atlas** to overwrite its texture atlases.
+> ℹ️ We will install **Intelligent Textures** and **Glow in the Dahrk** in the **Visuals** section, and load them before **AtlAd** for it to patch them as intended, and after **Project Atlas** to overwrite its outdated texture atlases.
 
 ## USER INTERFACE
 
 ### Fonts and icons
 
 [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
-High resolution replacer for the Magic Cards font, used in most of the user interface. An alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
+High resolution replacer for the Magic Cards font, used in most of the user interface.
+
+> ℹ️ A more purist alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -134,7 +135,7 @@ Adds several new options for the journal and quest pages.
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
 
 ### Hotkeys
 
@@ -174,8 +175,10 @@ Additional files to install:
   - **Rename** to **Graphic Herbalism MWSE Patches and Replacers**.
   - BAIN options to install:
     - [X] 10 Atlas - Vanilla BC Mushrooms
-- [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154). Fixes a collision bug with harvested Ash Yams.
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864). Makes picking a glowing plant also remove the glow-light.
+- [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+  Fixes a collision bug with harvested Ash Yams.
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
+  Makes picking a glowing plant also remove the glow-light.
 
 [**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -199,6 +202,8 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended t
 Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
 - Hide all plugins except **Area Effect Arrows Integrated.ESP**.
 
+> ℹ️ The hidden plugins include visual and balance tweaks we are not interested in.
+
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
 Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera.
 
@@ -208,6 +213,8 @@ Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
   - **Rename** to **Better Propylon Teleport Script**.
   - Hide **Better Propylon Teleport Warp.ESP**.
+
+> ℹ️ The hidden plugin is meant to be used without the Master Index official plugin.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
@@ -269,7 +276,7 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 [**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. The hosted version includes Additional fixes by **Sigourn**.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. The hosted version includes fixes by **Sigourn**.
 
 [**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
@@ -292,7 +299,7 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 [**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes tweaks by **Sigourn**.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes tweaks by **Sigourn**, making its price progression slightly more forgiving but much more consistent at low value ranges.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
@@ -378,7 +385,7 @@ Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
   - [X] 01a No Mushrooms MGE XE
-- Uncheck all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
+- Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
@@ -411,7 +418,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 - Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
 - Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
 
-> ℹ️ This hides two very jarring sky textures.
+> ℹ️ The hidden textures make for very jarring skies.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -422,8 +429,10 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
 Additional files to install:
-- [**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473). Tweaks bows so that they line up better with the sheathing animation.
-- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616). Adds sheaths to weapons not covered by Weapon Sheathing.
+- [**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
+  Tweaks bows so that they line up better with the sheathing animation.
+- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
+  Adds sheaths to weapons not covered by Weapon Sheathing.
 
 ### VFX
 
@@ -455,16 +464,20 @@ Reduces the frequency of idle Cliff Racer screeches.
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
-- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z). Fixes a number of bugs with the original mod. Mod by **Necrolesian**.
+- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z)  
+  Fixes a number of bugs with the original mod. Mod by **Necrolesian**.
   - BAIN options to install:
     - [X] Bugfix
-- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z). Restores the vanilla music for the introductory scene at the Imperial prison ship. Mod by **Sigourn**.
+
+Optional files to install:
+- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z)  
+  Restores the vanilla music for the introductory scene at the Imperial prison ship. Mod by **Sigourn**.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
 - After installing the mod, copy the files from **Music/MS/general/Dungeon General** into **Music/MS/general/underwater**.
 
-> ℹ️ The filesize of this download is 2.34GB. Its uploader is an **anonymous** person.
+> ℹ️ The filesize of this download is 2.34GB.
 
 ## DIALOGUE
 
