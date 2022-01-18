@@ -620,7 +620,6 @@ Additional files to install:
     - [X] 012 Remiros' Groundcover for TOTSP
     - [X] 013 Grey Solstheim Rocks
   - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This mod already includes its own grass plugin that is compatible with its landscape changes.
-- [**STOTSP Ownership Overhaul Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Ownership%20Overhaul%20Patch%201.0.7z). Patches **Solstheim - Tomb of the Snow Prince** for compatibility with **Ownership Overhaul**.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
@@ -646,9 +645,10 @@ Closes Molag Mar's canton.
   - [X] 00 Core
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patches for a series of mods altering Vivec and Molag Mar.
+Compatibility patches for a series of mods.
 - BAIN options to install:
-  - [X] 05 No-Frills Series
+  - [X] 01 No-Frills Series
+  - [X] 02 Solstheim Tomb of the Snow Prince
 
 ## OAAB_DATA ADD-ON
 
