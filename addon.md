@@ -990,7 +990,6 @@ Outfit Greetings Tweaked
 Tamriel_Data (HD)
 Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
-STOTSP Ownership Overhaul Patch
 Dagon Fel Mill Redux
 Nordic Dagon Fel
 Redaynia Restored
@@ -1039,7 +1038,6 @@ Patch for Purists.esm
 Ownership Overhaul.esm
 Solstheim Tomb of The Snow Prince.esm
 TOTSP_Patch_for_Purists_4.0.2.ESP
-STOTSP Ownership Overhaul Patch.ESP
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
@@ -1119,6 +1117,7 @@ ShrineOfAzura.ESP
 No-Frills Closed Molag Mar.ESP
 No-Frills Open Vivec.ESP
 No-Frills Series Ownership Overhaul Patch.ESP
+STOTSP Ownership Overhaul Patch.ESP
 OAAB Creature Loot.ESP
 OAAB_DarkTemptations.ESP
 OAAB_GoldenReeds.ESP
