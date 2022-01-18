@@ -406,9 +406,9 @@ Configurable mod for automatic adjustment of lighting, including override values
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - BAIN options to install:
   - [X] 00 Lua core
-  - [X] 01 Textures 2k
-  - [X] 04 Rain mesh replacer - regular
-  - [X] 05 IT Vanilla sky texture replacer 2k
+  - [X] 01 Textures 1k
+  - [X] 03 Rain mesh replacer - regular
+  - [X] 05 IT Vanilla sky texture replacer 1k
 - Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
 - Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
 
