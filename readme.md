@@ -85,4 +85,4 @@ No. I already have enough questions asked because users installed a mod without 
 
 ### Do you have a Patreon I can contribute to?
 
-No. I'm always open to be given a game as a gift from my [**GOG Wishlist**](https://www.gog.com/u/Lucas9/wishlist), though. We (Argentina) are charged an extra 80% (give or take) for purchasing foreign products, and it adds up over time.
+No. I'm always open to be given a game as a gift from my [**GOG Wishlist**](https://www.gog.com/u/Lucas9/wishlist), though. Argentina charges an extra 80% on purchasing foreign products, so you can imagine it adds up over time.
