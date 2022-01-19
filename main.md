@@ -836,10 +836,14 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>January 18th</summary>
+	<summary>January 19th</summary>
 
+- ⚠️ (Setup) Added link to **.NET 6 Runtime**, required for latest **TES3Merge**.
 - ⚠️ (Patches) Updated **Project Atlas**' installation instructions. AtlAd has been merged into it, and as a result no longer are two separate downloads required. The mod order has been updated as a consequence.
 - ⚠️ (Gameplay QOL) Updated **Graphic Herbalism**'s installation instructions. The patches collection is no longer needed, as **Project Atlas** already includes a patch for the mod. The mod order has been updated as a consequence, with the mod requiring to be loaded before **Project Atlas**.
+- ⚠️ (Overhauls Add-on) Updated **Controlled Consumption**.
+- ⚠️ (Overhauls Add-on) Updated **Silver Tongue** to address a MWSE.log issue.
+- ⚠️ (Visuals Add-on) Updated **Glowbugs** BAIN instructions.
 </details>
 
 <details>
