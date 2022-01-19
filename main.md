@@ -751,26 +751,46 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 <details>
 	<summary>List of configured mods</summary>
 
-- Sophisticated Save System: sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
-- Clock Block: sets the clock type to game time.
-- Continue: hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
-- Essential Indicators: disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
-- Quick Equip: assigns the E key as the key for equipping items.
-- Smart Journal: disables unnecessary troubleshooting options and quest prefixes, removing lag when opening the quest page.
-- GMST Menu: makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
-- Security Enhanced: disables automatic probe-equip on trapped object activation.
-- Lucky Strike: nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
-- Magicka Based Skill Progression: disables logging, and slows down skill experience gain per magicka spent.
-- Smarter Soultrap: enabled enforced skill requirements for soul displacement.
-- Ashfall: enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
-- Controlled Consumption: sets the consumption module to Vanilla NPC Style (Necro Edit).
-- Map and Compass: disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
-- Pickpocket: increases experience gain per successful pickpocket.
-- AURA: disables player voice taunts.
-- Character Sound overhaul: comments out a line in the **main.lua** to disable MWSE.log spam.
-- Let There Be Darkness: sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- Watch the Skies: sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
-- Weather Adjuster: makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
+- [ ] 01 Sophisticated Save System  
+  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
+- [ ] 02 Clock Block  
+  Sets the clock type to game time.
+- [ ] 02 Continue  
+  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
+- [ ] 02 Essential Indicators  
+  Disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
+- [ ] 02 Quick Equip  
+  Assigns the E key as the key for equipping items.
+- [ ] 02 Smart Journal  
+  Disables unnecessary troubleshooting options and quest prefixes, removing lag when opening the quest page.
+- [ ] 03 GMST Menu  
+  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
+- [ ] 03 Security Enhanced  
+  Disables automatic probe-equip on trapped object activation.
+- [ ] 04 Lucky Strike  
+  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
+- [ ] 04 Magicka Based Skill Progression  
+  Disables logging, and slows down skill experience gain per magicka spent.
+- [ ] 04 Smarter Soultrap  
+  Enables enforced skill requirements for soul displacement.
+- [ ] 04 Ashfall  
+  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
+- [ ] 05 Controlled Consumption  
+  Sets the consumption module to Vanilla NPC Style (Necro Edit).
+- [ ] 05 Map and Compass  
+  Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
+- [ ] 05 Pickpocket  
+  Increases experience gain per successful pickpocket.
+- [ ] 06 AURA  
+  Disables player voice taunts.
+- [ ] 06 Character Sound overhaul  
+  Comments out a line in the **main.lua** to disable MWSE.log spam.
+- [ ] 07 Let There Be Darkness  
+  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
+- [ ] 07 Watch the Skies  
+  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
+- [ ] 07 Weather Adjuster  
+  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
 </details>
 
 ### Additional MCP patches
