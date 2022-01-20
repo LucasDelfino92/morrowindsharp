@@ -51,7 +51,7 @@ Fixes UV mapping on rocks and stones.
 > ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
-Restores visual effects on creatures. Most creature particle effects weren't displayed for technical reasons.
+Restores visual effects on creatures that weren't displayed for technical reasons.
 
 [**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -71,7 +71,7 @@ Greatly improves performance and fixes some mesh errors.
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. The mod mantains parity with the **Morrowind Optimization Patch**, further improving performance on existing meshes.
 - Click on the green **Code** button at the top of the page and then **Download ZIP**.
 - Extract the contents of the archive.
-- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **AtlAd**. If successful, when installing this archive you should be prompted to install it as a BAIN installer in MO2.
+- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Textures - Intelligent Textures
@@ -100,7 +100,7 @@ High resolution replacer for the Daedric font used in scrolls.
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
 [**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
-Replaces the effect seen on magic items in the inventory (such as scrolls and enchanted equipment).
+Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
 - BAIN options to install:
   - [X] 00 Original Blue Color
 
@@ -110,7 +110,9 @@ Replaces the effect seen on magic items in the inventory (such as scrolls and en
 Adds a continue button to the main menu to instantly load your most recent save.
 
 [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693)  
-Adds a confirmation popup when you click on the New Game button. While certain users have had problems with this mod in the past, I've never encountered any issue with it. If you find yourself unable to start a new game, disable this mod.
+Adds a confirmation popup when you click on the New Game button.
+
+> ⚠️ Certain users have reported being unable to start a new game when using this mod. If this is your case, disable the mod.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -122,11 +124,13 @@ Adds bars to the UI that displays your companions and summoned creatures' health
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
-Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+Allows highlighting and hiding quests in the Journal questlist.
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
-- Only install **abotSmartJournal103** (Old files).
+
+Files to install:
+- **abotSmartJournal103** (Old files)
 
 > ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
@@ -325,7 +329,9 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 [**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
-- Install **Title Screen Reworked (Widescreen)** (Main files).
+
+Files to install:
+- **Title Screen Reworked (Widescreen)** (Main files)
 
 > ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
@@ -339,7 +345,9 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Only install **Pete's Journal and Scroll** (Optional files).
+
+Files to install:
+- **Pete's Journal and Scroll** (Optional files)
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
@@ -350,7 +358,9 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Only install **kart_facelift_meshes** (Main files).
+
+Files to install:
+- **kart_facelift_meshes** (Main files)
 
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
@@ -833,6 +843,7 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+E | Equips/unequips item in inventory | Quick Equip
 Shift+E | Use potion/ingredient in inventory | Quick Equip
+Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # COMPATIBILITY
 
