@@ -520,9 +520,9 @@ Creature VFX Restoration
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
+Graphic Herbalism
 Intelligent Textures
 Glow in the Dahrk 
-Graphic Herbalism
 Project Atlas
 Project Atlas - Intelligent Textures Fix
 Better Readable Beauty Font
