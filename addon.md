@@ -795,11 +795,11 @@ Creature VFX Restoration
 Rope Fence Fix
 Weapon Sheathing
 Morrowind Optimization Patch
-Project Atlas
+Graphic Herbalism
 Intelligent Textures
-Glow in the Dahrk 
-AtlAd
-AtlAd Intelligent Textures Fix
+Glow in the Dahrk
+Project Atlas
+Project Atlas - AIntelligent Textures Fix
 Better Scamps
 Correct UV Mudcrabs
 Glowing Flames
@@ -842,8 +842,6 @@ Switchable Scriptures
 Diligent Defenders
 Easy Escort
 GMST Menu
-Graphic Herbalism
-Graphic Herbalism MWSE Patches and Replacers
 Graphic Herbalism - Ash Yam Collision Switch
 Graphic Herbalism Lighting
 Hide the Skooma
