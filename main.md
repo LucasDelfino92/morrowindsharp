@@ -758,12 +758,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 - [ ] 01 Sophisticated Save System  
   Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
-- [ ] 02 Clock Block  
-  Sets the clock type to game time.
 - [ ] 02 Continue  
   Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
-- [ ] 02 Essential Indicators  
-  Disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
 - [ ] 02 Quick Equip  
   Assigns the E key as the key for equipping items.
 - [ ] 02 Smart Journal  
@@ -776,20 +772,12 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
-- [ ] 04 Smarter Soultrap  
-  Enables enforced skill requirements for soul displacement.
 - [ ] 04 Ashfall  
   Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 05 Map and Compass  
-  Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
 - [ ] 05 Pickpocket  
   Increases experience gain per successful pickpocket.
-- [ ] 06 AURA  
-  Disables player voice taunts.
-- [ ] 06 Character Sound overhaul  
-  Comments out a line in the **main.lua** to disable MWSE.log spam.
 - [ ] 07 Let There Be Darkness  
   Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
 - [ ] 07 Watch the Skies  
@@ -864,7 +852,8 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 <details>
 	<summary>January 20th</summary>
 
-- ⚠️ (Visuals) Moved **Incarnates Overhauled** to the add-on guide. 
+- ⚠️ (Visuals) Moved **Incarnates Overhauled** to the add-on guide.
+- ⚠️ (Mod Config) Removed non-main guide BAIN options.
 </details>
 
 <details>
