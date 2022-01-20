@@ -326,6 +326,11 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
 
+### Characters and NPCs
+
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
+Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
+
 ### Environment
 
 [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
