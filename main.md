@@ -367,9 +367,6 @@ Files to install:
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
-Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
-
 ### Environment
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -586,7 +583,6 @@ Pete's Scroll 2018 ...in 2020
 Familiar Faces
 Facelift
 Yet Another Guard Diversity
-Incarnates Overhauled
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
@@ -644,7 +640,6 @@ tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
-Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 No Female Nord Screeching.ESP
@@ -865,6 +860,12 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 20th</summary>
+
+- ⚠️ (Visuals) Moved **Incarnates Overhauled** to the add-on guide. 
+</details>
 
 <details>
 	<summary>January 19th</summary>
