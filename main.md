@@ -165,7 +165,7 @@ When the player or the player's companions are attacked, any companions will lau
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
-Lets you edit every GMST in the game, in-game.
+In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
 [**Graphic Herbalism MWSE**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
