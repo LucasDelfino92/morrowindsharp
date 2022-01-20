@@ -620,10 +620,7 @@ Additional files to install:
 - **Solstheim Graphical Replacer**  
   Texture and mesh replacer for Solstheim, and also a compatible version of Remiros' Groundcover for the revamped Solstheim.
   - BAIN options to install:
-    - [X] 010 Solstheim - HD Worldspace Graphical Replacer
-    - [X] 011 Skyrim-Like Trees
     - [X] 012 Remiros' Groundcover for TOTSP
-    - [X] 013 Grey Solstheim Rocks
   - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This mod already includes its own grass plugin that is compatible with its landscape changes.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
