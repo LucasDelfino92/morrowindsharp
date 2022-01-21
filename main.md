@@ -271,15 +271,11 @@ A fully customizable leveling mod that removes the level-up screen entirely. You
 
 ### Stealth mechanics
 
-[**Pickpocket (Sigourn Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pickpocket%202.0%20(Sigourn%20Edit).7z)  
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47581) to original mod by **mort**. The hosted version includes fixes by **Sigourn**.
-
-[**Stealth Improved (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Stealth%20Improved%201.1%20(Necro%20Edit).7z)  
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49614) to original mod by **mort**. The featured version includes fixes by **Necrolesian**.
 
 ### Balance
 
@@ -304,10 +300,8 @@ Fixes some of the biggest exploits and balance issues in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
-[**Beware the Sixth House (Sixth House Overhaul)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Beware%20the%20Sixth%20House%20ESP%20Replacer.zip)  
+[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46036) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
@@ -566,10 +560,10 @@ Sneaky Strike
 Useful Bound Armor
 Restocking Alchemy Essentials
 MULE - Mort's Ultimate Leveling Experience
-Pickpocket (Sigourn Edit)
-Stealth Improved (Necro Edit)
+Pickpocket
+Stealth Improved
 Alchemy Takes Time
-Controlled Consumption (MMC Edit)
+Controlled Consumption (Greatness7 - Sigourn - Necro Edit)
 Dungeons Rest
 Harder Barter (Sigourn Edit)
 Morrowind Anti-Cheese
