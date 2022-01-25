@@ -208,11 +208,10 @@ Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Gu
 > ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Master_Index) to official plugin by **Bethesda**. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
 
 Additional files to install:
-- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364). The Warp Script for the Propylon Indices will now prompt you before teleporting.
+- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
+  The Warp Script for the Propylon Indices will now prompt you before teleporting.
   - **Rename** to **Better Propylon Teleport Script**.
   - Hide **Better Propylon Teleport Warp.ESP**.
-
-> ℹ️ The hidden plugin is meant to be used without the Master Index official plugin.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
