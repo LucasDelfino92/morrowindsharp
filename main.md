@@ -280,6 +280,7 @@ Alchemical process now takes time, based on potion's value and player's skill. T
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
+- **Rename** the file to **Controlled Consumption** on MO2 installation.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
@@ -288,6 +289,7 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 [**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+- **Rename** the file to **Harder Barter** on MO2 installation.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version makes its price progression slightly more forgiving but much more consistent at low value ranges.
 
@@ -352,6 +354,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 Files to install:
 - **kart_facelift_meshes** (Main files)
+- **Rename** the file to **Facelift Meshes** on MO2 installation.
 
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
@@ -558,9 +561,9 @@ MULE - Mort's Ultimate Leveling Experience
 Pickpocket
 Stealth Improved
 Alchemy Takes Time
-Controlled Consumption (Greatness7 - Sigourn - Necro Edit)
+Controlled Consumption
 Dungeons Rest
-Harder Barter (Sigourn Edit)
+Harder Barter
 Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
@@ -570,7 +573,7 @@ Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
 Pete's Scroll 2018 ...in 2020
 Familiar Faces
-Facelift
+Facelift Meshes
 Yet Another Guard Diversity
 Better Waterfalls
 Near Vanilla Road Sign Replacer
@@ -587,9 +590,9 @@ No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 MUSE 2 - Morrowind Music System Extended
-MUSE 2.02 - Necro Edit
+MUSE 2.0.2 - Necro Edit
 MUSE 2 - Vanilla Intro Music
-TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
+TUBES4MUSE
 Great Service
 Idle Talk
 LDM - Context Matters
