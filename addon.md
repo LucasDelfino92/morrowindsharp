@@ -1270,7 +1270,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.2.7z)  
+[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
@@ -1289,7 +1289,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - [ ] 02 Quick Equip  
   Assigns the E key as the key for equipping items.
 - [ ] 02 Smart Journal  
-  Disables unnecessary troubleshooting options and quest prefixes, removing lag when opening the quest page.
+  Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
 - [ ] 03 GMST Menu  
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
@@ -1306,18 +1306,16 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
 - [ ] 05 Map and Compass  
   Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
-- [ ] 05 Pickpocket  
-  Increases experience gain per successful pickpocket.
-- [ ] 06 AURA  
-  Disables player voice taunts.
-- [ ] 06 Character Sound overhaul  
-  Comments out a line in the **main.lua** to disable MWSE.log spam.
-- [ ] 07 Let There Be Darkness  
+- [ ] 06 Let There Be Darkness  
   Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- [ ] 07 Watch the Skies  
+- [ ] 06 Watch the Skies  
   Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
-- [ ] 07 Weather Adjuster  
+- [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
+- [ ] 07 AURA  
+  Disables player voice taunts.
+- [ ] 07 Character Sound overhaul  
+  Comments out a line in the **main.lua** to disable MWSE.log spam.
 </details>
 
 ### Additional MCP patches
