@@ -28,9 +28,6 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -191,10 +188,11 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ## GAMEPLAY
 
-### Features and mechanics
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended to be used alongside **Expansion Delay**, or any other mod that delays Dark Brotherhood attacks.
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
@@ -238,8 +236,6 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
-
-### Tweaks
 
 [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
@@ -501,7 +497,6 @@ DLC: Bloodmoon
 MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
-Expansion Delay
 The Publicans
 Expeditious Exit
 Memory Monitor
@@ -540,6 +535,7 @@ Graphic Herbalism Lighting
 Hide the Skooma
 Improved Temple Experience
 Smart Ammo
+Expansion Delay
 Early Transport to Mournhold
 Area Effect Arrows Integrated
 Master Index (UMOPP)
@@ -611,11 +607,11 @@ Bloodmoon.esm
 Patch for Purists.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
-Expansion Delay.ESP
 The Publicans.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
 Improved Temple Experience.ESP
+Expansion Delay.ESP
 Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
