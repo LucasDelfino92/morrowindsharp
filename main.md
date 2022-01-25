@@ -196,20 +196,20 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
-- Hide all plugins except **Area Effect Arrows Integrated.ESP**.
+- Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
 
-> ℹ️ The hidden plugins include visual and balance tweaks we are not interested in.
+> ℹ️ This plugin contains only the integration of the area effect arrows, without any additional balance or visual tweaks.
 
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera.
-
-> ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Master_Index) to official plugin by **Bethesda**. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
+Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
 Additional files to install:
 - [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
   The Warp Script for the Propylon Indices will now prompt you before teleporting.
-  - **Rename** to **Better Propylon Teleport Script**.
-  - Hide **Better Propylon Teleport Warp.ESP**.
+  - **Rename** the file to **Better Propylon Teleport Script** on MO2 installation.
+  - Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
+
+> ℹ️ This plugin is compatible with the Master Index official plugin.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
@@ -251,6 +251,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
+- **Rename** the file to **Restocking Alchemy Essentials** on MO2 installation.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 MWSE Poison Crafting Patch
@@ -280,7 +281,7 @@ Alchemical process now takes time, based on potion's value and player's skill. T
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NulLCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -288,10 +289,11 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 [**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes tweaks by **Sigourn**, making its price progression slightly more forgiving but much more consistent at low value ranges.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version makes its price progression slightly more forgiving but much more consistent at low value ranges.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
+- **Rename** the file to **Morrowind Anti-Cheese** on MO2 installation.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
@@ -440,7 +442,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- **Rename** to **No Female Nord Screeching**.
+- **Rename** the file to **No Female Nord Screeching** on MO2 installation.
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes sheep sounds from Morrowind.	
