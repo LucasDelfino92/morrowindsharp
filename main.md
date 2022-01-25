@@ -126,11 +126,6 @@ Allows highlighting and hiding quests in the Journal questlist.
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
 
-Files to install:
-- **abotSmartJournal103** (Old files)
-
-> ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
-
 [**What Are My Attributes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
@@ -720,7 +715,7 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.2.7z)  
+[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
@@ -737,7 +732,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - [ ] 02 Quick Equip  
   Assigns the E key as the key for equipping items.
 - [ ] 02 Smart Journal  
-  Disables unnecessary troubleshooting options and quest prefixes, removing lag when opening the quest page.
+  Disables immersion breaking options and quest prefixes, removing lag when opening the journal and quests menues.
 - [ ] 03 GMST Menu  
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
@@ -750,13 +745,11 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 05 Pickpocket  
-  Increases experience gain per successful pickpocket.
-- [ ] 07 Let There Be Darkness  
+- [ ] 06 Let There Be Darkness  
   Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- [ ] 07 Watch the Skies  
+- [ ] 06 Watch the Skies  
   Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
-- [ ] 07 Weather Adjuster  
+- [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
 </details>
 
