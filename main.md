@@ -441,8 +441,6 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ## AUDIO
 
-### SFX
-
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 - **Rename** the file to **No Female Nord Screeching** on MO2 installation.
@@ -453,18 +451,12 @@ Removes sheep sounds from Morrowind.
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 Reduces the frequency of idle Cliff Racer screeches.
 
-### Music
-
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
-- [**MUSE 2.0.2 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro%20Edit.7z)  
-  Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Mod by **Necrolesian**.
-
-Optional files to install:
-- [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z)  
-  Restores the vanilla music for the introductory scene at the Imperial prison ship. Mod by **Sigourn**.
+- [**MUSE 2.0.2 - Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
+  Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
@@ -474,15 +466,8 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ## DIALOGUE
 
-### Voiced
-
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
-### Written
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
@@ -590,11 +575,9 @@ No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
 MUSE 2 - Morrowind Music System Extended
-MUSE 2.0.2 - Necro Edit
-MUSE 2 - Vanilla Intro Music
+MUSE 2.0.2 - Necro Sig Edit
 TUBES4MUSE
 Great Service
-Idle Talk
 LDM - Context Matters
 MWSE Config
 ```
@@ -844,7 +827,8 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 <details>
 	<summary>January 25th</summary>
 
-- ⚠️ (Audio) **MUSE 2.0.2 Necro Edit** now includes the optimization from the Necro Edit sub-package, instead of just the bug fixes.
+- ⚠️ (Audio) **MUSE 2.0.2 Necro Edit** now includes the optimization from the Necro Edit sub-package, instead of just the bug fixes, as well as the vanilla music for the introductory Imperial Prison Ship scene.
+- 🚫 (Audio) Moved **Idle Talk** to the add-on guide.
 </details>
 
 <details>
