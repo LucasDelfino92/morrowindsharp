@@ -577,12 +577,11 @@ Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, 
 
 ## DIALOGUE ADD-ON
 
-### Voiced
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-
-### Written
 
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
@@ -981,9 +980,9 @@ MUSE 2 - Vanilla Intro Music
 TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
 Better Music System Redone
 Great Service
+LDM - Context Matters
 Idle Talk
 Its a Deal
-LDM - Context Matters
 FMI - NotAllDunmer
 Greetings for No Lore
 Outfit Greetings Tweaked
@@ -1104,9 +1103,9 @@ Haunted Barrows.ESP
 RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 Great Service.ESP
+LDM - Context Matters 1.5.ESP
 Idle Talk.ESP
 Its a deal.ESP
-LDM - Context Matters 1.5.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
