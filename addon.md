@@ -168,7 +168,7 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 ## GAMEPLAY ADD-ON
 
-### Features and mechanics
+### Character creation
 
 [**Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795)  
 Adds a new Background Menu, triggered at the end of character generation. Select from 27 different backgrounds, each with their own unique effects. Backgrounds range from simple stat changes to fully scripted events that completely change the way you play the game.
@@ -182,6 +182,8 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 Additional files to install:
 - [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
   Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+
+### Magic mechanics
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -219,6 +221,8 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - BAIN options to install:
   - [X] 00 - Core
 
+### Services and service refusal
+
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
@@ -238,7 +242,7 @@ Adds healing services to healers.
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
 
-### Tweaks
+### Misc tweaks
 
 [**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972)  
 Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
