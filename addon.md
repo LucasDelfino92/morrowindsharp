@@ -16,7 +16,7 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- **Rename** to **Adamantium Ore Fix**.
+- **Rename** the file to **Adamantium Ore Fix** on MO2 installation.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -26,6 +26,7 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
+- **Rename** the file to **Services Restored** on MO2 installation.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -48,7 +49,7 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z)  
+[**Putting Power In Willpower**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
@@ -176,11 +177,11 @@ Adds a new Background Menu, triggered at the end of character generation. Select
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
 - Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
 
+> ℹ️ This plugin is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, allowing us to start our game in Vvardenfell or Solstheim.
+
 Additional files to install:
 - [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
   Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
-
-> ℹ️ This will allow us to create a new character in Vvardenfell or Solstheim. The latter requires **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -257,7 +258,7 @@ At higher Luck you will have a better chance to obtain better items from a conta
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
+[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
@@ -313,7 +314,7 @@ Additional files to install:
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
-[**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
+[**Silver Tongue**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
@@ -469,11 +470,9 @@ Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look 
 ### VFX
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
-Adds ambient noise and dragonflies all over the Bitter Coast region.
+Adds ambient noise and dragonflies all over the Bitter Coast region. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
-> ℹ️ [**Link**](https://en.uesp.net/wiki/Morrowind:Bitter_Coast_Sounds) to official plugin by **Bethesda**. The featured version includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by **PikachunoTM**.
-
-[**Flies (ProfArmitage Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
+[**Flies**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43481/) to original mod by **R-Zero**. The featured version includes fixes by **ProfArmitage**.
@@ -568,8 +567,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
 Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
-
-### Music
 
 [**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
 Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
