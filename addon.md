@@ -612,16 +612,16 @@ Improves the graphical fidelity, environmental design, and gameplay of the Blood
   - [X] 013 Fierce Wolf Helms
   - [X] 014 Hide-Like Animal Pelts
 - Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
-- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with **STotSP**.
+- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with Solstheim - Tomb of the Snow Prince.
 
 > ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
 
 Additional files to install:
 - **Solstheim Graphical Replacer**  
-  Texture and mesh replacer for Solstheim, and also a compatible version of Remiros' Groundcover for the revamped Solstheim.
+  Includes a compatible version of Remiros' Groundcover's Solstheim plugin.
   - BAIN options to install:
     - [X] 012 Remiros' Groundcover for TOTSP
-  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. This mod already includes its own grass plugin that is compatible with its landscape changes.
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. Solstheim - Tomb of the Snow Prince already includes its own compatible grass plugin.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
