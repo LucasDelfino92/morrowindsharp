@@ -96,7 +96,7 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 High resolution replacer for the Daedric font used in scrolls. 
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
-[**Magic Icons (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
+[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
 - BAIN options to install:
   - [X] 00 Original Blue Color
@@ -131,7 +131,7 @@ Files to install:
 
 > ℹ️ The latest release has an annoying bug where an empty extra line is added on the messagebox whenever your journal is updated.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
+[**What Are My Attributes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%201.0.1%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
@@ -287,7 +287,7 @@ Provides a configurable restriction on the amount of potions and ingredients the
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
 - **Rename** the file to **Harder Barter** on MO2 installation.
 
@@ -503,7 +503,7 @@ Project Atlas
 Project Atlas - Intelligent Textures Fix
 Better Readable Beauty Font
 Better Daedric Font
-Magic Icons (Sigourn Edit)
+Magic Icons
 Continue
 New Game Confirmation
 UI Expansion
@@ -511,7 +511,7 @@ Companion Health Bars
 Alchemical Knowledge
 Better Questlist
 Smart Journal
-What Are My Attributes (Sigourn Edit)
+What Are My Attributes
 Hotkeys Extended
 Quick Equip
 Right Click Menu Exit
@@ -619,7 +619,6 @@ NearVanillaRoadSigns.ESP
 GITD_WL_RR_Interiors.ESP
 No Female Nord Screeching.ESP
 Great Service.ESP
-Idle Talk.ESP
 LDM - Context Matters 1.5.ESP
 multipatch.ESP
 Merged Objects.ESP
