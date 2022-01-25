@@ -458,10 +458,8 @@ Reduces the frequency of idle Cliff Racer screeches.
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
 Additional files to install:
-- [**MUSE 2.02 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.02%20Necro%20Edit.7z)  
-  Fixes a number of bugs with the original mod. Mod by **Necrolesian**.
-  - BAIN options to install:
-    - [X] Bugfix
+- [**MUSE 2.0.2 - Necro Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro%20Edit.7z)  
+  Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Mod by **Necrolesian**.
 
 Optional files to install:
 - [**MUSE 2 - Vanilla Intro Music**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202%20-%20Vanilla%20Intro%20Music.7z)  
@@ -841,6 +839,12 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 25th</summary>
+
+- ⚠️ (Audio) **MUSE 2.0.2 Necro Edit** now includes the optimization from the Necro Edit sub-package, instead of just the bug fixes.
+</details>
 
 <details>
 	<summary>January 20th</summary>
