@@ -177,11 +177,11 @@ Adds a new Background Menu, triggered at the end of character generation. Select
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
 - Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
 
-> ℹ️ This plugin is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, allowing us to start our game in Vvardenfell or Solstheim.
-
 Additional files to install:
 - [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
   Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+
+> ℹ️ This plugin is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, allowing us to start our game in Vvardenfell or Solstheim.
 
 ### Magic mechanics
 
@@ -214,7 +214,7 @@ Replaces the Light magic effect with a Skyrim-style magelight effect. Using the 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
-> ℹ️ This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
 Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
@@ -491,7 +491,7 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region. Only c
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
 
-> ℹ️ This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
 
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun. The effect has been optimized to minimize performance impact. The mod also includes an optional replacer for the vanilla effect.
@@ -506,7 +506,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
-> ℹ️ This shader needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
