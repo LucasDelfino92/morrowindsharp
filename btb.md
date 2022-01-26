@@ -41,7 +41,6 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 06 Realistic Repair Add-on Patch
   - [X] 07 OAAB Creature Loot and Alchemy Patch
   - [X] 08 Antares' Mage Robes Patch
-- Hide **mmwse_PoisonCrafting.ESP** from **Poison Crafting**. The Poison Crafting Patch provided already includes all necessary records for the mod to work as intended.
 
 Additional files to install:
 - **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
@@ -81,6 +80,7 @@ Antares' Mage Robes BBTGI Patch
 	<summary>Load order</summary>
 
 ```
+mmwse_PoisonCrafting.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.ESP
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.ESP
