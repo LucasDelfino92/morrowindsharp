@@ -622,6 +622,8 @@ Additional files to install:
   - BAIN options to install:
     - [X] 012 Remiros' Groundcover for TOTSP
   - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. Solstheim - Tomb of the Snow Prince already includes its own compatible grass plugin.
+- [**STOTSP Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
+  Address an AI package conflict with the unique Horker.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
@@ -993,6 +995,7 @@ Outfit Greetings Tweaked
 Tamriel_Data (HD)
 Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
+STOTSP Bloodmoon Rebalance Patch
 Dagon Fel Mill Redux
 Nordic Dagon Fel
 Redaynia Restored
