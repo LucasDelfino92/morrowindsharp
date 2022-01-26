@@ -652,6 +652,61 @@ Compatibility patches for a series of mods.
   - [X] 01 No-Frills Series
   - [X] 02 Solstheim Tomb of the Snow Prince
 
+## EQUIPMENT ADD-ON
+
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
+Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
+
+[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Merge of oComplete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
+- Install **RuffinVangarr Armors Integrated** (Main files).
+
+Required files:
+- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
+  Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
+  - Hide **Complete dreugh armor.ESP**.
+- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
+  Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
+  - Hide **Complete and Revised Studded leather v 1.5.ESP**.
+- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
+  Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
+  - Hide **Complete Nordic Iron.ESP**.
+- [**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
+  Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
+  - Hide **RV Dukes guard.ESP**.
+- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
+  Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+  - Hide **Concept Art Daedric Helms.ESP**.
+
+[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
+- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files).
+- BAIN options to install:
+  - [X] Core
+  - [X] Nerevarine Service Refusal Patch
+
+Required files:
+- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
+  Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+  - Hide **both .ESPs**.
+
+Optional files to install:
+- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
+  Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
+- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
+  Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+
+[**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of oriental ebony weapons from natinnet.
+- Install **Oriental Ebony Weapons Integrated** (Main files).
+- BAIN options to install:
+  - [X] 00 Core
+
+Required files: 
+- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
+  Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
+  - Hide **Oriental Ebony Weapon.esp**.
+
 ## OAAB_DATA ADD-ON
 
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
@@ -691,65 +746,13 @@ Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamriel
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Yet Another Guard Diversity Patch
+    Expands on in-game integration of Studded Leather Armor pieces for the new guards.
   - [X] 02 STOTSP TD Content Integration Patch
-  - [X] 03 Complete Duke's Guard Silver Patch
+    Expands on in-game integration of Tamriel_Data assets.
+  - [X] 03 RV Duke's Guard Silver Patch
+    Addresses equipment conflicts with a few NPCs.
 
 > ℹ️ We will install **Complete Duke's Guard Silver** in the **Equipment Add-on**.
-
-## EQUIPMENT ADD-ON
-
-[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
-Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
-
-[**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
-Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
-
-[**Complete and Revised Vanilla Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of the Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, and Concept Art Daedric Helmets.
-- Install **Complete and Revised Vanilla Equipment Integrated** (Main files).
-
-Required files:
-- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
-  Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
-  - Hide **Complete dreugh armor.ESP**.
-- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
-  Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
-  - Hide **Complete and Revised Studded leather v 1.5.ESP**.
-- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
-  Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
-  - Hide **Complete Nordic Iron.ESP**.
-- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
-  Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
-  - Hide **Concept Art Daedric Helms.ESP**.
-
-[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
-- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files).
-- BAIN options to install:
-  - [X] Core
-  - [X] Nerevarine Service Refusal Patch
-
-Required files:
-- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
-  Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
-  - Hide **both .ESPs**.
-
-Optional files to install:
-- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
-  Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
-- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
-  Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
-
-[**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of oriental ebony weapons from natinnet.
-- Install **Oriental Ebony Weapons Integrated** (Main files).
-- BAIN options to install:
-  - [X] 00 Core
-
-Required files: 
-- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
-  Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
-  - Hide **Oriental Ebony Weapon.esp**.
 
 ## FINISHING TOUCHES
 
@@ -997,6 +1000,19 @@ Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
 Ownership Overhaul Patches
+Antares' Mage Robes
+Complete and Revised Dreugh Armor
+Complete and Revised Imperial Studded Leather Armor
+Complete and Revised Nordic Iron Armor
+Complete Duke's Guard Silver
+Concept Art Daedric Helmets
+RuffinVangarr Armors Integrated
+Redoran War Armor and Sathil Mercenary Equipment
+Sathil Mercenary Armor
+Redoran War Armor
+Redoran War Armor and Sathil Mercenary Equipment Integrated
+Oriental Ebony Weapons
+Oriental Ebony Weapons Integrated
 OAAB_Data
 OAAB Creature Loot
 OAAB Dark Temptations
@@ -1006,19 +1022,6 @@ OAAB Scroll Qualities
 OAAB Dwemer Lightning Rods
 OAAB Dwemer Pavements
 OAAB Weapons Integrated
-Antares' Mage Robes
-Complete Duke's Guard Silver
-Complete and Revised Dreugh Armor
-Complete and Revised Imperial Studded Leather Armor
-Complete and Revised Nordic Iron Armor
-Concept Art Daedric Helmets
-Complete and Revised Vanilla Equipment Integrated
-Redoran War Armor and Sathil Mercenary Equipment
-Sathil Mercenary Armor
-Redoran War Armor
-Redoran War Armor and Sathil Mercenary Equipment Integrated
-Oriental Ebony Weapons
-Oriental Ebony Weapons Integrated
 MWSE Config
 ```
 </details>
@@ -1037,7 +1040,6 @@ Tamriel_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
 Solstheim Tomb of The Snow Prince.esm
-TOTSP_Patch_for_Purists_4.0.2.ESP
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Expansion Delay.ESP
@@ -1117,7 +1119,16 @@ ShrineOfAzura.ESP
 No-Frills Closed Molag Mar.ESP
 No-Frills Open Vivec.ESP
 No-Frills Series Ownership Overhaul Patch.ESP
+TOTSP_Patch_for_Purists_4.0.2.ESP
 STOTSP Ownership Overhaul Patch.ESP
+STOTSP Bloodmoon Rebalance Patch.ESP
+Antares' Mage Robes.ESP
+RV Armors Integrated.ESP
+RV Armors Integrated BM Rebalance.ESP
+RV Armors Integrated YAGD Patch.ESP
+Redoran War and Sathil Mercenary Armor Integrated.ESP
+Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
+Oriental Ebony Weapons Integrated.ESP
 OAAB Creature Loot.ESP
 OAAB_DarkTemptations.ESP
 OAAB_GoldenReeds.ESP
@@ -1126,15 +1137,8 @@ OAAB Dwemer Pavements.ESP
 Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
 OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
-OAAB Weapons Integrated TOTSP TD Content Integration - Spiders.ESP
-Antares' Mage Robes.ESP
-RV Dukes guard.ESP
-OAAB Weapons Integrated Complete Duke's Guard Silver Patch.ESP
-Complete and Revised Vanilla Equipment Integrated.ESP
-Complete and Revised Vanilla Equipment Integrated YAGD Patch.ESP
-Redoran War and Sathil Mercenary Armor Integrated.ESP
-Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
-Oriental Ebony Weapons Integrated.ESP
+OAAB Weapons Integrated STOTSP TD Content Integration.ESP
+OAAB Weapons Integrated RV Duke's Guard Patch.ESP
 multipatch.ESP
 Merged Objects.ESP
 ```
