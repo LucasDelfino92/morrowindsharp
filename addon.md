@@ -177,9 +177,8 @@ Adds a new Background Menu, triggered at the end of character generation. Select
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
 - Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
 
-Additional files to install:
-- [**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
-  Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
+[**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
+Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
 
 > ℹ️ This plugin is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, allowing us to start our game in Vvardenfell or Solstheim.
 
@@ -312,9 +311,8 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
 - Hide **Realistic_Repair_Optional.ESP**.
 
-Additional files to install:
-- [**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
-  Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
+[**Realistic Repair Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
+Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
@@ -393,14 +391,17 @@ Makes Masser and Secunda dying planets, where there is no more place for life. A
 
 [**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
 Required mesh for **Better Night Sky**.
-- Only install **Skies .IV Resource Pack** (Optional files).
-- **Rename** to **Skies .IV Night Sky Mesh**.
-- Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
 
-Additional files to install:
-- [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
-  A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
-  - Only install **Better Night Sky (darker)** (Optional files).
+Files to install:
+- **Skies .IV Resource Pack** (Optional files)
+  - **Rename** to **Skies .IV Night Sky Mesh**.
+  - Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
+
+[**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
+A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
+
+Files to install:
+- **Better Night Sky (darker)** (Optional files)
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
@@ -434,9 +435,8 @@ Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink fem
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862)  
 Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
 
-Additional files to install:
-- [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z)  
-  Addresses a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
+[**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z)  
+Addresses a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
@@ -524,7 +524,8 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
-Additional files to install:
+Files to install:
+- **AURA 3.0.2 - full**
 - **AURA 3.0 - replacer** (Optional files)  
   Replaces some of the worst sounds from Morrowind.
   - **Merge** into the main file.
@@ -600,26 +601,27 @@ Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by o
 
 [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
 Improves the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
-- Install **Solstheim Tomb of the Snow Prince**.
-- BAIN options to install:
-  - [X] 000 Core
-  - [X] 010 Solstheim - Tomb of the Snow Prince
-  - [X] 011 TOTSP Patches
-  - [X] 013 Fierce Wolf Helms
-  - [X] 014 Hide-Like Animal Pelts
-- Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
-- Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with Solstheim - Tomb of the Snow Prince.
 
-> ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
-
-Additional files to install:
+Files to install:
+- **Solstheim Tomb of the Snow Prince** (Main files)
+  - BAIN options to install:
+    - [X] 000 Core
+    - [X] 010 Solstheim - Tomb of the Snow Prince
+    - [X] 011 TOTSP Patches
+    - [X] 013 Fierce Wolf Helms
+    - [X] 014 Hide-Like Animal Pelts
+  - Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
+  - Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with Solstheim - Tomb of the Snow Prince.
 - **Solstheim Graphical Replacer**  
   Includes a compatible version of Remiros' Groundcover's Solstheim plugin.
   - BAIN options to install:
     - [X] 012 Remiros' Groundcover for TOTSP
   - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. Solstheim - Tomb of the Snow Prince already includes its own compatible grass plugin.
-- [**STOTSP Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
-  Address an AI package conflict with the unique Horker.
+
+> ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
+
+[**Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
+Address an AI package conflict with the unique Horker.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
