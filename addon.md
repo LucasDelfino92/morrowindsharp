@@ -697,26 +697,19 @@ Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced mod
 Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
 - Hide **Oriental Ebony Weapon.esp**.
 
-[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
+[**Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307)  
+Ongoing project dedicated to integrating into the game a variety of community-made weapons, armor, and clothing.
 
 Files to install:
-- **RuffinVangarr Armors Integrated** (Main files)
-
-[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
-
-Files to install:
-- **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files)
+- **RuffinVangarr Armors Integrated** (Main files)  
+  Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
+- **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files)  
+  Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
   - BAIN options to install:
     - [X] Core
     - [X] Nerevarine Service Refusal Patch
-
-[**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of oriental ebony weapons from natinnet.
-
-Files to install:
-- **Oriental Ebony Weapons Integrated** (Main files)
+- **Oriental Ebony Weapons Integrated** (Main files)  
+  Expands on the in-game integration of oriental ebony weapons from natinnet.
   - BAIN options to install:
     - [X] 00 Core
 
