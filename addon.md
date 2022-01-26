@@ -123,7 +123,9 @@ Provides configurable, dynamic crosshair indicators while sneaking and for essen
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
-- Install **Consistent Keys - MWSE Version** (Main files).
+
+Files to install:
+- **Consistent Keys - MWSE Version** (Main files)
 
 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
 Renames propylon indexes so they'll group together in the inventory.
@@ -352,8 +354,10 @@ Removes the track textures and road markers from the Grazeland to align with in-
 
 [**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857)  
 Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
-- Install **Remiros Groundcover** (Main files).
-- Hide **Rem_GL.esp** from **Remiros' Groundcover**.
+
+Files to install:
+- **Remiros Groundcover** (Main files)
+  - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
 
@@ -457,11 +461,12 @@ Model replacer for book and scroll models.
 
 [**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
 Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-- Install **Gold coins** (Main files).
 
-Optional files to install:
-- [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
-  Upscaled **Simple Golden Gold** textures.
+Files to install:
+- **Gold coins** (Main files)
+
+[**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
+Upscaled **Simple Golden Gold** textures.
 
 [**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
 Replaces corprus meat models with animated, twitching ones ones.
@@ -501,7 +506,9 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-- Install **Mist Retexture** (Main files).
+
+Files to install:
+- **Mist Retexture** (Main files)
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. If inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
@@ -594,8 +601,10 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 
 [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
 Asset repository for Tamriel Rebuilt and Project Tamriel, which can be used by other mods. For players, this does nothing by itself.
-- Install **Tamriel Data (HD)** (Main files).
-- [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
+
+Files to install:
+- **Tamriel Data (HD)** (Main files)
+  - [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
 
 > ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
 
@@ -654,9 +663,6 @@ Compatibility patches for a series of mods.
 
 ## EQUIPMENT ADD-ON
 
-[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
-Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
-
 [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
 Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
 - Hide **Complete dreugh armor.ESP**.
@@ -677,22 +683,9 @@ Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Gu
 Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
 - Hide **Concept Art Daedric Helms.ESP**.
 
-[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
-
-Files to install:
-- **RuffinVangarr Armors Integrated** (Main files)
-
 [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
 Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
 - Hide both .ESPs.
-
-[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
-- Install **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files).
-- BAIN options to install:
-  - [X] Core
-  - [X] Nerevarine Service Refusal Patch
 
 [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
 Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
@@ -704,11 +697,31 @@ Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced mod
 Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
 - Hide **Oriental Ebony Weapon.esp**.
 
+[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
+
+Files to install:
+- **RuffinVangarr Armors Integrated** (Main files)
+
+[**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
+
+Files to install:
+- **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files)
+  - BAIN options to install:
+    - [X] Core
+    - [X] Nerevarine Service Refusal Patch
+
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
-- Install **Oriental Ebony Weapons Integrated** (Main files).
-- BAIN options to install:
-  - [X] 00 Core
+
+Files to install:
+- **Oriental Ebony Weapons Integrated** (Main files)
+  - BAIN options to install:
+    - [X] 00 Core
+
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
+Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
 
 ## OAAB_DATA ADD-ON
 
@@ -1003,19 +1016,19 @@ Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
 Ownership Overhaul Patches
-Antares' Mage Robes
 Complete and Revised Dreugh Armor
 Complete and Revised Imperial Studded Leather Armor
 Complete and Revised Nordic Iron Armor
 Complete Duke's Guard Silver
 Concept Art Daedric Helmets
-RuffinVangarr Armors Integrated
 Redoran War Armor and Sathil Mercenary Equipment
 Sathil Mercenary Armor
 Redoran War Armor
-Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons
+RuffinVangarr Armors Integrated
+Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons Integrated
+Antares' Mage Robes
 OAAB_Data
 OAAB Creature Loot
 OAAB Dark Temptations
@@ -1125,13 +1138,13 @@ No-Frills Series Ownership Overhaul Patch.ESP
 TOTSP_Patch_for_Purists_4.0.2.ESP
 STOTSP Ownership Overhaul Patch.ESP
 STOTSP Bloodmoon Rebalance Patch.ESP
-Antares' Mage Robes.ESP
 RV Armors Integrated.ESP
 RV Armors Integrated BM Rebalance.ESP
 RV Armors Integrated YAGD Patch.ESP
 Redoran War and Sathil Mercenary Armor Integrated.ESP
 Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
 Oriental Ebony Weapons Integrated.ESP
+Antares' Mage Robes.ESP
 OAAB Creature Loot.ESP
 OAAB_DarkTemptations.ESP
 OAAB_GoldenReeds.ESP
