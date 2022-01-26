@@ -657,26 +657,35 @@ Compatibility patches for a series of mods.
 [**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905)  
 Adds enchanted robes to the members of the Mages Guild. Four different robes are available, which you will obtain as you advance in rank.
 
-[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Merge of oComplete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
-- Install **RuffinVangarr Armors Integrated** (Main files).
+[**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
+Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
+- Hide **Complete dreugh armor.ESP**.
 
-Required files:
-- [**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092)  
-  Remake of the Tamriel Rebuilt complete Dreugh Armor. Also includes improved vanilla Dreugh meshes.
-  - Hide **Complete dreugh armor.ESP**.
-- [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
-  Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
-  - Hide **Complete and Revised Studded leather v 1.5.ESP**.
-- [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
-  Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
-  - Hide **Complete Nordic Iron.ESP**.
-- [**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
-  Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
-  - Hide **RV Dukes guard.ESP**.
-- [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
-  Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
-  - Hide **Concept Art Daedric Helms.ESP**.
+[**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301)  
+Completes the Imperial Studded Leather Armor set. Also includes an improved Studded Leather Armor mesh.
+- Hide **Complete and Revised Studded leather v 1.5.ESP**.
+
+[**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166)  
+Completes the Nordic Iron Armor set. Also includes improved vanilla Nordic Iron meshes.
+- Hide **Complete Nordic Iron.ESP**.
+
+[**Complete Duke's Guard Silver**](https://www.nexusmods.com/morrowind/mods/50481)  
+Completes the Duke's Guard Silver Armor set. Also includes an improved Duke's Guard Silver Cuirass mesh.
+- Hide **RV Dukes guard.ESP**.
+
+[**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534)  
+Adds the missing Daedric Helmets, based off concept art by Michael Kirkbride.
+- Hide **Concept Art Daedric Helms.ESP**.
+
+[**RuffinVangarr Armors Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
+
+Files to install:
+- **RuffinVangarr Armors Integrated** (Main files)
+
+[**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
+Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
+- Hide both .ESPs.
 
 [**Redoran War Armor and Sathil Mercenary Equipment Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
@@ -685,27 +694,21 @@ Expands on the in-game integration of Redoran War Armor. Also fixes journal issu
   - [X] Core
   - [X] Nerevarine Service Refusal Patch
 
-Required files:
-- [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038)  
-  Adds two new sets of armor to Morrowind. There is a short quest for the Redoran War Armor The other can be purchased at the Foreign Quarter Plaza in Vivec.
-  - Hide **both .ESPs**.
+[**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
+Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
 
-Optional files to install:
-- [**Redoran War Armor V2**](https://www.nexusmods.com/morrowind/mods/48770)  
-  Pluginless replacer for Ashstaar's Redoran War Armor featuring enhanced models and brand new textures.
-- [**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
-  Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+[**Sathil Mercenary Armor V2.1**](https://www.nexusmods.com/morrowind/mods/48340)  
+Pluginless replacer for Ashstaar's Sathil Mercenary Armor featuring enhanced models and brand new textures.
+
+[**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
+Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
+- Hide **Oriental Ebony Weapon.esp**.
 
 [**Oriental Ebony Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Expands on the in-game integration of oriental ebony weapons from natinnet.
 - Install **Oriental Ebony Weapons Integrated** (Main files).
 - BAIN options to install:
   - [X] 00 Core
-
-Required files: 
-- [**Oriental Ebony Weapons**](https://www.nexusmods.com/morrowind/mods/47173)  
-  Adds an Ebony dai-katana, katana, wakizashi, and tanto. They are scattered through different Daedric ruins.
-  - Hide **Oriental Ebony Weapon.esp**.
 
 ## OAAB_DATA ADD-ON
 
