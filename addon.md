@@ -572,10 +572,6 @@ Outdoor banners now play sound alongside their animations. The sounds are notice
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
 Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
 
-[**Better Music System Redone**](https://www.nexusmods.com/morrowind/mods/46312)  
-Adds new music tracks, area-specific ambiance, separate tracks for Vvardenfell, Red Mountain and Solstheim, and reinvented battle music.
-- Install **Revenant's Better Music System Improved for MUSE 2** (Main files).
-
 ## DIALOGUE ADD-ON
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
@@ -984,7 +980,6 @@ MUSE 2 - Morrowind Music System Extended
 MUSE 2.02 - Necro Edit
 MUSE 2 - Vanilla Intro Music
 TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
-Better Music System Redone
 Great Service
 LDM - Context Matters
 Idle Talk
