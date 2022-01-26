@@ -75,9 +75,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
   - [X] 05 Glow in the Dahrk Patch
   - [X] 06 Graphic Herbalism Patch
 
-Additional files to install:
-- [**Project Atlas - Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Project%20Atlas%20-%20Intelligent%20Textures%20Fix.7z)  
-  Fixes the buggy atlased texture for shacks.
+[**Project Atlas - Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Project%20Atlas%20-%20Intelligent%20Textures%20Fix.7z)  
+Fixes the buggy atlased texture for shacks.
 
 > ℹ️ We will install **Graphic Herbalism**, **Intelligent Textures**, and **Glow in the Dahrk** in upcoming sections, and load them before **Project Atlas** for it to patch them as intended.
 
@@ -164,11 +163,11 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - BAIN options to install:
   - [X] 00 Core + Vanilla Meshes
  
-Additional files to install:
-- [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
-  Fixes a collision bug with harvested Ash Yams.
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
-  Makes picking a glowing plant also remove the glow-light.
+[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+Fixes a collision bug with harvested Ash Yams.
+
+[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
+Makes picking a glowing plant also remove the glow-light.
 
 [**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -198,11 +197,10 @@ Adds new arrows that explode on impact. This alternative version of the [**offic
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
 Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
-Additional files to install:
-- [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
-  The Warp Script for the Propylon Indices will now prompt you before teleporting.
-  - **Rename** the file to **Better Propylon Teleport Script** on MO2 installation.
-  - Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
+[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
+The Warp Script for the Propylon Indices will now prompt you before teleporting.
+- **Rename** the file to **Better Propylon Teleport Script** on MO2 installation.
+- Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
 > ℹ️ This plugin is compatible with the Master Index official plugin.
 
@@ -418,11 +416,11 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
-Additional files to install:
-- [**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
-  Tweaks bows so that they line up better with the sheathing animation.
-- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
-  Adds sheaths to weapons not covered by Weapon Sheathing.
+[**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
+Tweaks bows so that they line up better with the sheathing animation.
+
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
+Adds sheaths to weapons not covered by Weapon Sheathing.
 
 ### VFX
 
@@ -449,9 +447,8 @@ Reduces the frequency of idle Cliff Racer screeches.
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
-Additional files to install:
-- [**MUSE 2.0.2 - Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
-  Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
+[**MUSE 2.0.2 - Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
+Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
 
 [**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
