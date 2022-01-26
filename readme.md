@@ -73,7 +73,7 @@ Roughly 23GB, of which **Intelligent Textures**, **AURA**, and **TUBES4MUSE** ac
 
 ### How much time will it take me to install all mods?
 
-Depending on how thorough you are about it, you shouldn't take more than 4 hours to set up Morrowind#.
+Depends on how thorough you are about it. It shouldn't take you longer than four hours to set everything up. Even then, I don't suggest installing everything in one go. Resist the urge to rush through this guide. It's better to pace yourself, make sure everything is set up correctly. It will save you headaches down the road.
 
 ### How often is the guide updated?
 
