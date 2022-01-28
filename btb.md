@@ -90,7 +90,7 @@ Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamriel
     Adresses conflicts with Nordic Chest Replacer.
   - [X] 05 RV Duke's Guard Silver Patch  
     Addresses conflicts with Ruffin Vangarr Armors Integrated.
-  - [X] 07 Area Effect Projectiles Integrated Patch
+  - [X] 07 Area Effect Projectiles Integrated Patch  
     Addresses leveled list conflicts with Area Effect Projectiles Integrated.
 
 > ℹ️ Note that **06 Oriental Ebony Weapons Integrated Patch** isn't necessary as the **BTBGI Loot Patch** we installed earlier supersedes this patch, not only solving conflicts between leveled lists but also adjusting the player level necessary for the weapons to spawn.
