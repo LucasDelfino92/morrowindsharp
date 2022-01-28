@@ -28,8 +28,14 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
+[**Patch for Purists - Merged Fixes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Patch%20for%20Purists%20-%20Merged%20Fixes.7z)  
+Solves conflicts between the Book Typos and the Semi-Purist Fixes plugins.
+
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+[**The Publicans ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/The%20Publicans%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
@@ -301,6 +307,9 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
+[**Bloodmoon Rebalance ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bloodmoon%20Rebalance%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
+
 ## VISUALS
 
 ### Texture packs
@@ -328,6 +337,9 @@ Replaces the default splash screens with better quality widescreen versions (16:
 Replaces most of the original book arts with hi-res images redrawn from scratch.
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
+
+[**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Comrade%20Raven's%20Book%20Arts%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -479,7 +491,9 @@ DLC: Bloodmoon
 MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
+Patch for Purists Merged Fixes
 The Publicans
+The Publicans ESP Replacer
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
@@ -545,9 +559,11 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
+Bloodmoon Rebalance ESP Replacer
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
+Comrade Raven's Book Arts Replacer ESP Replacer
 Pete's Scroll 2018 ...in 2020
 Familiar Faces
 Facelift Meshes
@@ -587,6 +603,7 @@ Bloodmoon.esm
 Patch for Purists.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
+Patch for Purists - Merged Fixes.ESP
 The Publicans.ESP
 chuzei_helm_no_neck.ESP
 Lake Fjalding Anti-Suck.ESP
@@ -612,8 +629,6 @@ GITD_WL_RR_Interiors.ESP
 No Female Nord Screeching.ESP
 Great Service.ESP
 LDM - Context Matters 1.5.ESP
-multipatch.ESP
-Merged Objects.ESP
 ```
 
 > ℹ️ We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
@@ -630,6 +645,8 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Repeat this process for each of the faulty plugins.
 
 ### Conflict resolution
+
+> ⚠️ This section is only required if you use mods not featured in this guide. From January 28th and on, none of these tools are necessary to ensure maximum compatibility with the featured mods.
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
@@ -812,6 +829,22 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 28th</summary>
+
+- ⚠️ (Patches) Added **Patch for Purists - Merged Fixes**.
+- ⚠️ (Patches) Added **The Publicans ESP Replacer**.
+- ⚠️ (Patches) Added **Adamantium Ore Fix ESP Replacer**.
+- ⚠️ (Patches) Added **Divayth Fyr Puzzle Fixed ESP Replacer**.
+- ⚠️ (Overhauls) Added **Bloodmoon Rebalance ESP Replacer**.
+- ⚠️ (Visuals) Added **Comrade Raven's Book Art Replacer ESP Replacer**.
+- ⚠️ (Gameplay Add-on) Replaced **Chargen Revamped - Expanded Lands** installation instructions. Now only one download is necessary, with the new plugin being patched and compatible with the rest of the guide.
+- ⚠️ (Gameplay Add-on) Added **FMI - Service Refusal and Contraband ESP Replacer**.
+- ⚠️ (Visuals Add-on) Added **Nordic Chest Replacer ESP Replacer**.
+- ⚠️ (Visuals Add-on) Added **Complete Armor Joints ESP Replacer** and **Better Fitted Female Armors ESP Replacer**.
+- ⚠️ (Cities Add-on) Added **Solstheim - Tomb of the Snow Prince ESM Replacer**.
+</details>
 
 <details>
 	<summary>January 25th</summary>
