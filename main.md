@@ -830,7 +830,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>January 28th</summary>
+	<summary>01-28-2022</summary>
 
 - ⚠️ (Patches) Added **Patch for Purists - Merged Fixes**.
 - ⚠️ (Patches) Added **The Publicans ESP Replacer**.
@@ -847,21 +847,21 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 </details>
 
 <details>
-	<summary>January 25th</summary>
+	<summary>01-25-2022</summary>
 
 - ⚠️ (Audio) **MUSE 2.0.2 Necro Edit** now includes the optimization from the Necro Edit sub-package, instead of just the bug fixes, as well as the vanilla music for the introductory Imperial Prison Ship scene.
 - 🚫 (Audio) Moved **Idle Talk** to the add-on guide.
 </details>
 
 <details>
-	<summary>January 20th</summary>
+	<summary>01-20-2022</summary>
 
 - ⚠️ (Visuals) Moved **Incarnates Overhauled** to the add-on guide.
 - ⚠️ (Mod Config) Removed non-main guide BAIN options.
 </details>
 
 <details>
-	<summary>January 19th</summary>
+	<summary>01-19-2022</summary>
 
 - ⚠️ (Setup) Added link to **.NET 6 Runtime**, required for latest **TES3Merge**.
 - ⚠️ (Patches) Updated **Project Atlas**' installation instructions. AtlAd has been merged into it, and as a result no longer are two separate downloads required. The mod order has been updated as a consequence.
@@ -872,13 +872,13 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 </details>
 
 <details>
-	<summary>January 12th</summary>
+	<summary>01-12-2022</summary>
 
 - 🚫 (Overhauls) **Magicka Regeneration Suite**. I never added configuration instructions for it, but most importantly I don't think magicka regeneration is that important anymore with **Restocking Alchemy Essentials**.
 </details>
 
 <details>
-	<summary>January 10th</summary>
+	<summary>01-10-2022</summary>
 
 - 🆕 (User Interface) **Companion Health Bars**.
 - 🆕 (User Interface Add-on) **Quick Loadouts**.
@@ -887,7 +887,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 </details>
 
 <details>
-	<summary>January 7th</summary>
+	<summary>01-07-2022</summary>
 
 - ⚠️ (Patches) **AtlAd**. Updated install instructions to include **02 GITD**.
 - ⚠️ (OAAB_Data Add-on) **OAAB_Data**. Updated BAIN instructions for latest release.
