@@ -746,15 +746,9 @@ Asset repository for the Morrowind Community, which contains resources which can
 Minor mods which integrate content from **OAAB_Data** into the game.
 
 Files to install:
-- **OAAB Creature Loot** (Main files).
-- **OAAB Dark Temptations** (Main files).
-- **OAAB Golden Reeds** (Main files).
-- **OAAB Leveled Creatures** (Main files).
 - **OAAB Scroll Qualities** (Main files).
   - BAIN options to install:
     - [X] 00 Icons
-
-> ℹ️ We will skip **OAAB Leveled Lists** in favor of **OAAB Weapons Integrated**, which we will install in a moment.
 
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
 During thunderstorms, lightning will strike the Dwemer ruins' steamstack lightning rods from the vanilla game.
@@ -770,13 +764,20 @@ Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
 Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
 - BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Yet Another Guard Diversity Patch
-    Expands on in-game integration of Studded Leather Armor pieces for the new guards.
-  - [X] 02 STOTSP TD Content Integration Patch
-    Expands on in-game integration of Tamriel_Data assets.
-  - [X] 03 RV Duke's Guard Silver Patch
-    Addresses equipment conflicts with a few NPCs.
+  - [X] 00 Core  
+    Contains the main plugin, as well as the readme.
+  - [X] 01 Mort's Rebalance Series Patch  
+    Addresses conflicts with Tribunal Rebalance and Bloodmoon Rebalance.
+  - [X] 02 Yet Another Guard Diversity Patch  
+    Distributes the Imperial Shortbow across Yet Another Guard Diversity's Imperial archers.
+  - [X] 03 STOTSP TD Content Integration Patch  
+    To be used instead of Solstheim - Tomb of the Snow Prince's TD Content Integration plugins. Replaces the Tamriel_Data weapons with those from OAAB_Data, and expands on the integration of Tamriel_Data creatures and ingredients into Solstheim.
+  - [X] 04 Nordic Chest Replacer + STOTSP TD Content Integration Patch  
+    Adresses conflicts with Nordic Chest Replacer.
+  - [X] 05 RV Duke's Guard Silver Patch  
+    Addresses conflicts with Ruffin Vangarr Armors Integrated.
+  - [X] Oriental Ebony Weapons Integrated Patch  
+    Addresses leveled list conflicts.
 
 > ℹ️ We will install **Complete Duke's Guard Silver** in the **Equipment Add-on**.
 
@@ -1050,10 +1051,6 @@ Redoran War Armor and Sathil Mercenary Equipment Integrated
 Oriental Ebony Weapons Integrated
 Antares' Mage Robes
 OAAB_Data
-OAAB Creature Loot
-OAAB Dark Temptations
-OAAB Golden Reeds
-OAAB Leveled Creatures
 OAAB Scroll Qualities
 OAAB Dwemer Lightning Rods
 OAAB Dwemer Pavements
@@ -1165,15 +1162,13 @@ Redoran War and Sathil Mercenary Armor Integrated.ESP
 Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
 Oriental Ebony Weapons Integrated.ESP
 Antares' Mage Robes.ESP
-OAAB Creature Loot.ESP
-OAAB_DarkTemptations.ESP
-OAAB_GoldenReeds.ESP
-OAAB Leveled Creatures.ESP
 OAAB Dwemer Pavements.ESP
 Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
 OAAB Weapons Integrated.ESP
+OAAB Weapons Integrated Mort's Rebalance Series Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
 OAAB Weapons Integrated STOTSP TD Content Integration.ESP
+OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.ESP
 OAAB Weapons Integrated RV Duke's Guard Patch.ESP
 ```
 
