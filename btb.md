@@ -542,7 +542,11 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
 
-December 20th
+01-28-2022
+- Updated BTBGI (Necro Edit) Tweaked and OAAB Weapons Integrated installation instructions.
+- Listed complete mod order and load order to minimize user error.
+
+12-20-2021
 - Moved almost all mods to the Morrowind# Add-on guide. This is now a CCCP and BTBGI exclusive guide.
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
