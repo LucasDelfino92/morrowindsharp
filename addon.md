@@ -1170,9 +1170,8 @@ OAAB Weapons Integrated YAGD Patch.ESP
 OAAB Weapons Integrated STOTSP TD Content Integration.ESP
 OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.ESP
 OAAB Weapons Integrated RV Duke's Guard Patch.ESP
+OAAB Weapons and Oriental Ebony Weapons Integrated Patch.ESP
 ```
-
-> ℹ️ We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
 ### Synchronizing mod masters
@@ -1198,16 +1197,6 @@ Some of our installed plugins contain changes we are not really interested in. T
 
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
-- Run TESAME in Mod Organizer 2.
-- Delete the following records from **Alex's Better Fitted Female Armors.ESP**:
-  - Armor **netch_leather_cuirass**
-  - Armor **imperial_chain_cuirass**
-  - Armor **steel_cuirass**
-  - Armor **imperial cuirass_armor**
-- Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
-
-> ℹ️ This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
-
 ### Automatically cleaning plugins
 
 **tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3cmd).
@@ -1222,6 +1211,8 @@ Some of our installed plugins contain changes we are not really interested in. T
 - After the process is over, close the window.
 
 ### Conflict resolution
+
+> ⚠️ This section is only required if you use mods not featured in this guide. From January 28th and on, none of these tools are necessary to ensure maximum compatibility with the featured mods.
 
 **tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
 
