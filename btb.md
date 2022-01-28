@@ -4,15 +4,13 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# BTBGI ADD-ON
-
-## Disclaimer
+# DISCLAIMER
 
 The guide presented here assumes you have already followed all instructions found in [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Please abstain from using this guide until you've correctly set up Morrowind Sharp.
 
 At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit) and related mods, which I suggest using alongside it for a complete experience.
 
-## Preliminary steps
+# PRELIMINARY STEPS
 
 This guide recommends a number of mods in favor of others already installed in Morrowind Sharp, or different versions of already installed mods. Thus, you should uninstall them.
 
@@ -28,7 +26,7 @@ These mods are:
 - [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
   This guide will recommend a BTBGI-compatible install of this mod.
 
-## CCCP AND BTBGI (Necro Edit)
+# BTBGI ADD-ON
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
