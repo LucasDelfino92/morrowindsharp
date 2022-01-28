@@ -38,9 +38,15 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 03 Ashfall Patch
   - [X] 04 Balanced Passive Races and Birthsigns Tweaked
   - [X] 05 Morrowind Anti-Cheese Tweaked
-  - [X] 06 Realistic Repair Add-on Patch
-  - [X] 07 OAAB Creature Loot and Alchemy Patch
-  - [X] 08 Antares' Mage Robes Patch
+  - [X] 06 Mort's Rebalance Series Patch
+  - [X] 07 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch
+  - [X] 08 Realistic Repair Add-on Patch
+  - [X] 09 Complete Armor Joints Patch
+  - [X] 10 10 Better Fitted Female Armors Patch
+  - [X] 11 Properly Fitted Female Pants Patch
+  - [X] 12 RuffinVangarr Armors Integrated Patch
+  - [X] 13 Antares' Mage Robes Patch
+  - [X] 14 OAAB Weapons Integrated Patch
 
 Additional files to install:
 - **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
@@ -51,6 +57,24 @@ Additional files to install:
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
+
+[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720). You should already have installed this mod, but we will reinstall it to pick different options.
+- BAIN options to install:
+  - [X] 00 Core  
+    Contains the main plugin, as well as the readme.
+  - [X] 01 Mort's Rebalance Series Patch  
+    Addresses conflicts with Tribunal Rebalance and Bloodmoon Rebalance.
+  - [X] 02 Yet Another Guard Diversity Patch  
+    Distributes the Imperial Shortbow across Yet Another Guard Diversity's Imperial archers.
+  - [X] 03 STOTSP TD Content Integration Patch  
+    To be used instead of Solstheim - Tomb of the Snow Prince's TD Content Integration plugins. Replaces the Tamriel_Data weapons with those from OAAB_Data, and expands on the integration of Tamriel_Data creatures and ingredients into Solstheim.
+  - [X] 04 Nordic Chest Replacer + STOTSP TD Content Integration Patch  
+    Adresses conflicts with Nordic Chest Replacer.
+  - [X] 05 RV Duke's Guard Silver Patch  
+    Addresses conflicts with Ruffin Vangarr Armors Integrated.
+  - [X] 07 Area Effect Projectiles Integrated Patch
+    Addresses leveled list conflicts with Area Effect Projectiles Integrated.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
@@ -81,22 +105,49 @@ Antares' Mage Robes BBTGI Patch
 
 ```
 mmwse_PoisonCrafting.ESP
-BTB's Game Improvements (Necro Edit) Tweaked.ESP
+- OTHER GAMEPLAY PLUGINS - 
+BTB's Game Improvements (Necro Edit) Tweaked.esp
 BTBGI Poison Crafting Patch.ESP
-Balanced Passive Races and Birthsigns Tweaked.ESP
+Balanced Passive Races and Birthsigns Tweaked.esp
 Morrowind Anti-Cheese Tweaked.ESP
 Beware the Sixth House.ESP
 Tribunal Rebalance.ESP
-Bloodmoon Rebalance.ESP
+Bloodmoon Rebalance.esp
+Mort's Rebalance Series BTBGI Patch.ESP
+Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
 Realistic_Repair_Add-on.ESP
-BTBGI Realistic Repair Add-on Patch.ESP
-OAAB Alchemy.ESP
-OAAB Creature Loot.ESP
-OAAB Creature and Alchemy BTBGI Patch.ESP
-OAAB Weapons Integrated.ESP
+Realistic Repair Add-on BTBGI Patch.ESP
+- OTHER VISUAL PLUGINS -
+Yet Another Guard Diversity - Regular.ESP
+- OTHER VISUAL PLUGINS -
+Complete Armor Joints.ESP
+Complete Armor Joints BTBGI Patch.ESP
+Alex's Better Fitted Female Armors.ESP
+Alex's Better Fitted Female Armors BTBGI Patch.ESP
+FemalePants.ESP
+FemalePants BTBGI Patch.ESP
+- OTHER VISUAL, AUDIO, CITIES PLUGINS -
+RV Armors Integrated.ESP
+RV Armors Integrated BTBGI Patch.ESP
+RV Armors Integrated BM Rebalance Patch.ESP
+RV Armors Integrated YAGD Patch.ESP
+Redoran War and Sathil Mercenary Armor Integrated.ESP
+Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
 Oriental Ebony Weapons Integrated.ESP
-multipatch.ESP
-Merged Objects.ESP
+Antares' Mages Robes.ESP
+Antares' Mages Robes BTBGI Patch.ESP
+OAAB Dwemer Pavements.ESP
+Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
+OAAB Weapons Integrated.ESP
+OAAB Weapons Integrated BTBGI Patch.esp
+OAAB Weapons Integrated Mort's Rebalance Series Patch.esp
+OAAB Weapons Integrated YAGD Patch.ESP
+OAAB Weapons Integrated STOTSP TD Content Integration.esp
+OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.esp
+OAAB Weapons Integrated RV Duke's Guard Patch.ESP
+Area Effect Projectiles Integrated.esp
+Area Effect Projectiles and OAAB Weapons Integrated Patch.ESP
+EcoAdjCrime (Necro Edit).esp
 BTBGI Loot Patch.ESP
 ```
 </details>
