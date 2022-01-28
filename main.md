@@ -631,7 +631,6 @@ Great Service.ESP
 LDM - Context Matters 1.5.ESP
 ```
 
-> ℹ️ We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
 </details>
 
 ### Synchronizing mod masters
