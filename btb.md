@@ -14,14 +14,14 @@ At the request of many users, this document will guide you through the installat
 
 ## Preliminary steps
 
-This guide recommends a number of mods in favor of others already installed in Morrowind Sharp. Thus, you should uninstall them.
+This guide recommends a number of mods in favor of others already installed in Morrowind Sharp, or different versions of already installed mods. Thus, you should uninstall them.
 
 These mods are:
 - [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
 - [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)
 - [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
-- [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
+- [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)
 
 ## CCCP AND BTBGI (Necro Edit)
 
@@ -76,7 +76,7 @@ An alternative version of the official plugin **Area Effect Arrows** that distri
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
 
 [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720). You should already have installed this mod, but we will reinstall it to pick different options.
+Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
 - BAIN options to install:
   - [X] 00 Core  
     Contains the main plugin, as well as the readme.
@@ -112,10 +112,275 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 	<summary>Mod order</summary>
 
 ```
+DLC: Tribunal
+DLC: Bloodmoon
+MGE XE Shader Pack
+Pixel Shader Style Water for MGE XE
+Patch for Purists
+Patch for Purists - Merged Fixes
+Expansion Delay
+The Publicans
+The Publicans ESP Replacer
+Expeditious Exit
+Memory Monitor
+Sophisticated Save System
+Adamantium Ore Fix
+Adamantium Ore Fix ESP Replacer
+Divayth Fyr Puzzle Fixed
+Divayth Fyr Puzzle Fixed ESP Replacer
+Dubdilla Location Fix
+Services Restored
+Silt Strider Animation Restored
+Under Construction
+Borrowed Time
+Consistent Enchanting
+Fortify MAX
+Just Drop It
+Loading Doors Lock Tune
+Putting Power in Willpower
+Run Fix
+Quest Skill Reward Fix
+Skill Increase GMST Fix
+Thrown Projectiles Revamped
+Correct UV Rocks
+Creature VFX Restoration
+Rope Fence Fix
+Weapon Sheathing
+Morrowind Optimization Patch
+Graphic Herbalism
+Intelligent Textures
+Glow in the Dahrk
+Project Atlas
+Project Atlas - Intelligent Textures Fix
+Better Scamps
+Correct UV Mudcrabs
+Glowing Flames
+I Lava Good Mesh Replacer
+Improved Thrown Weapon Projectiles
+Better Readable Beauty Font
+Better Daedric Font
+Magic Icons (Sigourn Edit)
+Continue
+New Game Confirmation
+UI Expansion
+Companion Health Bars
+Alchemical Knowledge
+Better Questlist
+Smart Journal
+What Are My Attributes (Sigourn Edit)
+Character Creation Name Generator
+Map and Compass
+Map Replacements for Maps and Compass
+Book Worm
+Essential Indicators
+Consistent Keys
+Propylon Index Renamer
+Soulgem Renamer
+No Thank You
+Shrine Tooltips
+Clock Block
+HUD Weapon Charge
+Hotkeys Extended
+Quick Equip
+Right Click Menu Exit
+Security Enhanced
+Torch Hotkey
+Better Buoyancy
+Book Pickup
+Kill Command
+Quick Loadouts
+Melchior's Magnificent Manuscripts
+Switchable Scriptures
+Diligent Defenders
+Easy Escort
+GMST Menu
+Graphic Herbalism - Ash Yam Collision Switch
+Graphic Herbalism Lighting
+Hide the Skooma
+Improved Temple Experience
+Smart Ammo
+Early Transport to Mournhold
+Master Index (UMOPP)
+Better Propylon Teleport Script
+Brutal Backstabbing
+FMI - Hospitality Papers Expanded
+Lucky Strike - A Critical Hit Mod
+Pass the Time
+Poison Crafting
+Ashfall
+Skills Module
+Character Backgrounds
+Chargen Revamped - Expanded Lands STOTSP 2.2.2
+Magicka Expanded
+Miscast Enhanced
 MM - Enhanced Detection
+MM - Enhanced Light
+MM - Enhanced Invisibility
+MM - Enhanced Telekinesis
+More Exclusive Factions
+Nerevarine Service Refusal
+No Beds for the Diseased
+Religions Elaborated (Healers)
+FMI - Service Refusal and Contraband
+FMI - Service Refusal and Contraband ESP Replacer
+Magicka Based Skill Progression
+Marksman Rebalanced
+Sneaky Strike
+Useful Bound Armor
+Actually Unlimited Skeleton Keys
+Drop Light
+Hold Your Breath
+Light Decay
+Lucky Loot
+Smarter Soultrap
+Wings of Will (Necro Edit)
+Realistic Movement Speeds
+Speed and Movement Rebalanced
+Wading in Water MW
+Class Skill Limit
+Nimble Armor
+Pickpocket (Sigourn Edit)
+Stealth Improved (Necro Edit)
+Locks and Traps Detection
+Visually Trapped Objects
+Alchemy Takes Time
+Controlled Consumption (MMC Edit)
+Dungeons Rest
+Harder Barter (Sigourn Edit)
+Beware the Sixth House (Sixth House Overhaul)
+Tribunal Rebalance
+Bloodmoon Rebalance
+Bloodmoon Rebalance ESP Replacer
+Ownership Overhaul
+No Rest Without Beds
+Reactive Resistance
+Realistic Repair
+Realistic Repair - Add-on
+Silver Tongue (Necro Edit)
+Title Screen Reworked
+Widescreen Splash Replacer
+Comrade Raven's Book Arts Replacer
+Comrade Raven's Book Arts Replacer ESP Replacer
+Pete's Scroll 2018 ...in 2020
+Widescreen Splash Additions
+Familiar Faces
+Facelift
+Yet Another Guard Diversity
+Incarnates Overhauled
+Better Waterfalls
+Near Vanilla Road Sign Replacer
+Remiros' Groundcover
+Ashmire Replacer
+Inscribed Maar Gan Rock
+Know Thy Ancestors
+Trackless Grazeland
+Grass for Trackless Grazeland
+3D Vines Vanilla Mushroom Trees
+Vivec Palace Water Replacer
+Well Diversified
+Distant Mournhold
+Nordic Chest Replacer
+Nordic Chest Replacer ESP Replacer
+Nords Shut Your Windows
+Let There Be Darkness
+Watch the Skies
+Weather Adjuster
+Better Sun
+Dying Worlds - Moons Retexture
+Skies .IV Night Sky Mesh
+Better Night Sky
+The Midnight Oil
+Transporter Lights
+Weapon Sheathing Bow Position Edit
+Weapon Sheathing Additions
+Complete Armor Joints
+Complete Armor Joints ESP Replacer
+Better Fitted Female Armors
+Better Fitted Female Armors ESP Replacer
+Properly Fitted Female Pants
+LeFemmRedacted
+Imperial Steel Cuirass Tweaks
+Pincushion
+Pincushion - Improved Thrown Weapon Projectiles Patch
+Wolf Helmet Replacer
+Arukinns Better Books and Scrolls
+Melchior's Magnificent Manuscripts
+Simple Golden Gold
+Intelligent Textures - Simple Golden Gold
+Throbbing Meat - a Corprus Meat Replacer
+Bloodmoon Hide Replacer
+Subtle Magic Glow
+Subtle Smoke
+Bitter Coast Sounds (UMOPP)
+Flies (ProfArmitage Edit)
+Glowbugs
+Heat Haze
+Mistify
+Mist Retexture
+Shattered Stones - An Earthquake Mod
+The Dream is the Door
+Unto Dust
+No Female Nord Screeching
+Sheep-no-More
+Shut the Fuck up Cliff Racers
+AURA
+Quieter Doors and Spells
+Spell Sounds Enhanced
+Character Sound Overhaul
+Haunted Barrows
+Heartthrum
+Outdoor Banners With Sound
+Water Sounds
+MUSE 2 - Morrowind Music System Extended
+MUSE 2.02 - Necro Edit
+MUSE 2 - Vanilla Intro Music
+TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
+Great Service
+LDM - Context Matters
+Idle Talk
+Its a Deal
+FMI - NotAllDunmer
+Greetings for No Lore
+Outfit Greetings Tweaked
+Tamriel_Data (HD)
+Solstheim - Tomb of the Snow Prince
+Solstheim - Tomb of the Snow Prince Graphical Replacer
+Solstheim - Tomb of the Snow Prince ESM Replacer
+STOTSP Bloodmoon Rebalance Patch
+Dagon Fel Mill Redux
+Nordic Dagon Fel
+Redaynia Restored
+Shrine of Azura
+No-Frills Open Vivec
+No-Frills Closed Molag Mar
+Ownership Overhaul Patches
+Complete and Revised Dreugh Armor
+Complete and Revised Imperial Studded Leather Armor
+Complete and Revised Nordic Iron Armor
+Complete Duke's Guard Silver
+Concept Art Daedric Helmets
+Redoran War Armor and Sathil Mercenary Equipment
+Sathil Mercenary Armor
+Redoran War Armor
+Oriental Ebony Weapons
+RuffinVangarr Armors Integrated
+Redoran War Armor and Sathil Mercenary Equipment Integrated
+Oriental Ebony Weapons Integrated
 Antares' Mage Robes
+OAAB_Data
+OAAB Scroll Qualities
+OAAB Dwemer Lightning Rods
+OAAB Dwemer Pavements
+OAAB Weapons Integrated
+Class-Conscious Character Progression
 BTBGI (Necro Edit) Tweaked and Patches
-Antares' Mage Robes BBTGI Patch
+BTBGI Loot Patch
+Area Effect Projectiles Integrated
+OAAB Weapons Integrated
+Enchanted Weapon Resistance
+Economy Adjuster Adjustments
+MWSE Config
+
 ```
 </details>
 	
@@ -123,8 +388,45 @@ Antares' Mage Robes BBTGI Patch
 	<summary>Load order</summary>
 
 ```
-mmwse_PoisonCrafting.ESP
-- OTHER GAMEPLAY PLUGINS - 
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+OAAB_Data.esm
+Tamriel_Data.esm
+Patch for Purists.esm
+Ownership Overhaul.esm
+Solstheim Tomb of The Snow Prince.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+Patch for Purists - Merged Fixes.ESP
+Expansion Delay.ESP
+The Publicans.ESP
+Adamantium Ore Fix.ESP
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Services Restored.ESP
+Silt Strider Animation Restored.ESP
+Under Construction.ESP
+chuzei_helm_no_neck.ESP
+Lake Fjalding Anti-Suck.ESP
+Glowing Flames - NoMoreLightlessFlames v1.1.ESP
+No Thank You.ESP
+Improved Temple Experience.ESP
+Early Transport to Mournhold.ESP
+master_index.ESP
+Better Propylon Teleport Warp-Master Index.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+mwse_PoisonCrafting.ESP
+Ashfall.ESP
+Character Backgrounds.ESP
+CREL Solstheim - Tomb of the Snow Prince 2.2.2.ESP
+Enhanced Light.ESP
+More Exclusive Factions.ESP
+Clean Temple Service Refusal.ESP
+No Beds for the Diseased.ESP
+Religions Elaborated.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Speed and Movement.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.esp
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.esp
@@ -136,16 +438,52 @@ Mort's Rebalance Series BTBGI Patch.ESP
 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
 Realistic_Repair_Add-on.ESP
 Realistic Repair Add-on BTBGI Patch.ESP
-- OTHER VISUAL PLUGINS -
+Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
-- OTHER VISUAL PLUGINS -
+Incarnates Overhauled.ESP
+NearVanillaRoadSigns.ESP
+Know Thy Ancestors.ESP
+Inscribed Maar Gan Rock.ESP
+Trackless Grazeland.ESP
+Mournhold LOD.ESP
+Nordic Chest Replacer.ESP
+GITD_WL_RR_Interiors.ESP
+TheMidnightOil.ESP
 Complete Armor Joints.ESP
 Complete Armor Joints BTBGI Patch.ESP
 Alex's Better Fitted Female Armors.ESP
 Alex's Better Fitted Female Armors BTBGI Patch.ESP
 FemalePants.ESP
 FemalePants BTBGI Patch.ESP
-- OTHER VISUAL, AUDIO, CITIES PLUGINS -
+bcsounds.ESP
+Flies.ESP
+Glowbugs AI.ESP
+Glowbugs BC.ESP
+mistify.ESP
+Shattered Stones - An Earthquake Mod.ESP
+The Dream is the Door.ESP
+No Female Nord Screeching.ESP
+Quieter Doors and Spells.ESP
+Haunted Barrows.ESP
+RFD_Heartthrum.ESP
+Outdoor Banners With Sound.ESP
+Great Service.ESP
+LDM - Context Matters 1.5.ESP
+Idle Talk.ESP
+Its a deal.ESP
+FMI_#NotAllDunmer.ESP
+Greetings for No Lore.ESP
+outfit greetings tweaked.ESP
+Dagon Fel Mill.ESP
+Nordic Dagon Fel.ESP
+Redaynia Restored.ESP
+ShrineOfAzura.ESP
+No-Frills Closed Molag Mar.ESP
+No-Frills Open Vivec.ESP
+No-Frills Series Ownership Overhaul Patch.ESP
+TOTSP_Patch_for_Purists_4.0.2.ESP
+STOTSP Ownership Overhaul Patch.ESP
+STOTSP Bloodmoon Rebalance Patch.ESP
 RV Armors Integrated.ESP
 RV Armors Integrated BTBGI Patch.ESP
 RV Armors Integrated BM Rebalance Patch.ESP
@@ -153,16 +491,16 @@ RV Armors Integrated YAGD Patch.ESP
 Redoran War and Sathil Mercenary Armor Integrated.ESP
 Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
 Oriental Ebony Weapons Integrated.ESP
-Antares' Mages Robes.ESP
+Antares' Mage Robes.ESP
 Antares' Mages Robes BTBGI Patch.ESP
 OAAB Dwemer Pavements.ESP
 Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
 OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated BTBGI Patch.esp
-OAAB Weapons Integrated Mort's Rebalance Series Patch.esp
+OAAB Weapons Integrated Mort's Rebalance Series Patch.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
-OAAB Weapons Integrated STOTSP TD Content Integration.esp
-OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.esp
+OAAB Weapons Integrated STOTSP TD Content Integration.ESP
+OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.ESP
 OAAB Weapons Integrated RV Duke's Guard Patch.ESP
 Area Effect Projectiles Integrated.esp
 Area Effect Projectiles and OAAB Weapons Integrated Patch.ESP
