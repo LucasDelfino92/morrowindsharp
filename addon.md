@@ -18,8 +18,14 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 - **Rename** the file to **Adamantium Ore Fix** on MO2 installation.
 
+[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
+
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+
+[**Divayth Fyr Puzzle Fixed ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Divayth%20Fyr%20Puzzle%20Fixed%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
@@ -175,14 +181,10 @@ Adds a hotkey to open and close any book and scroll in the game.
 [**Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795)  
 Adds a new Background Menu, triggered at the end of character generation. Select from 27 different backgrounds, each with their own unique effects. Backgrounds range from simple stat changes to fully scripted events that completely change the way you play the game.
 
-[**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
-Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (Tamriel Rebuilt), Skyrim (Skyrim: Home of the Nords), or Cyrodiil (Province Cyrodiil).
-- Hide all plugins minus **CREL_Vanilla_STOTSP_v3.1.esp**.
+[**Chargen Revamped - Expanded Lands STOTSP 2.2.2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/CREL%20Solstheim%20-%20Tomb%20of%20The%20Snow%20Prince%202.2.2.7z)  
+Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, or Solstheim.
 
-[**Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Chargen%20Revamped%20-%20Expanded%20Lands%20STOTSP%202.2.2%20Patch.7z)  
-Patches the CREL plugin for compatibility with **Solstheim - Tomb of the Snow Prince 2.2.2**.
-
-> ℹ️ This plugin is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, allowing us to start our game in Vvardenfell or Solstheim.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/44615) to original mod by **Texafornian**. The featured version is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
 ### Magic mechanics
 
@@ -242,6 +244,9 @@ Adds healing services to healers.
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
+
+[**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
 
 ### Misc tweaks
 
@@ -385,6 +390,9 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
+[**Nordic Chest Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Chest%20Replacer%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
+
 ### Weather and lighting
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
@@ -418,8 +426,14 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
+[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
+
 [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+
+[**Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin, and removes edits to cuirasses that already had a female variant.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
@@ -629,6 +643,9 @@ Files to install:
 
 > ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
 
+[**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
+Forwards PfP fixes to the plugin and removes dirty records.
+
 [**Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
 Address an AI package conflict with the unique Horker.
 
@@ -778,13 +795,17 @@ DLC: Bloodmoon
 MGE XE Shader Pack
 Pixel Shader Style Water for MGE XE
 Patch for Purists
+Patch for Purists - Merged Fixes
 Expansion Delay
 The Publicans
+The Publicans ESP Replacer
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
 Adamantium Ore Fix
+Adamantium Ore Fix ESP Replacer
 Divayth Fyr Puzzle Fixed
+Divayth Fyr Puzzle Fixed ESP Replacer
 Dubdilla Location Fix
 Services Restored
 Silt Strider Animation Restored
@@ -808,7 +829,7 @@ Graphic Herbalism
 Intelligent Textures
 Glow in the Dahrk
 Project Atlas
-Project Atlas - AIntelligent Textures Fix
+Project Atlas - Intelligent Textures Fix
 Better Scamps
 Correct UV Mudcrabs
 Glowing Flames
@@ -868,8 +889,7 @@ Poison Crafting
 Ashfall
 Skills Module
 Character Backgrounds
-Chargen Revamped - Exanded Lands
-Chargen Revamped - Expanded Lands STOTSP 2.2.2 Patch
+Chargen Revamped - Expanded Lands STOTSP 2.2.2
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
@@ -881,6 +901,7 @@ Nerevarine Service Refusal
 No Beds for the Diseased
 Religions Elaborated (Healers)
 FMI - Service Refusal and Contraband
+FMI - Service Refusal and Contraband ESP Replacer
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
@@ -911,6 +932,7 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
+Bloodmoon Rebalance ESP Replacer
 Ownership Overhaul
 No Rest Without Beds
 Reactive Resistance
@@ -920,6 +942,7 @@ Silver Tongue (Necro Edit)
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
+Comrade Raven's Book Arts Replacer ESP Replacer
 Pete's Scroll 2018 ...in 2020
 Widescreen Splash Additions
 Familiar Faces
@@ -939,6 +962,7 @@ Vivec Palace Water Replacer
 Well Diversified
 Distant Mournhold
 Nordic Chest Replacer
+Nordic Chest Replacer ESP Replacer
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
@@ -952,7 +976,9 @@ Transporter Lights
 Weapon Sheathing Bow Position Edit
 Weapon Sheathing Additions
 Complete Armor Joints
+Complete Armor Joints ESP Replacer
 Better Fitted Female Armors
+Better Fitted Female Armors ESP Replacer
 Properly Fitted Female Pants
 LeFemmRedacted
 Imperial Steel Cuirass Tweaks
@@ -1001,6 +1027,7 @@ Outfit Greetings Tweaked
 Tamriel_Data (HD)
 Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
+Solstheim - Tomb of the Snow Prince ESM Replacer
 STOTSP Bloodmoon Rebalance Patch
 Dagon Fel Mill Redux
 Nordic Dagon Fel
@@ -1051,6 +1078,7 @@ Ownership Overhaul.esm
 Solstheim Tomb of The Snow Prince.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
+Patch for Purists - Merged Fixes.ESP
 Expansion Delay.ESP
 The Publicans.ESP
 Adamantium Ore Fix.ESP
@@ -1072,8 +1100,7 @@ Hospitality_Papers_Expanded_v2.7.ESP
 mwse_PoisonCrafting.ESP
 Ashfall.ESP
 Character Backgrounds.ESP
-CREL_Vanilla_STOTSP_v3.1.ESP
-CREL_Vanilla_ASTOTSP_v3.1 Patch.ESP
+CREL Solstheim - Tomb of the Snow Prince 2.2.2.ESP
 Enhanced Light.ESP
 Restocking Alchemy Essentials.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
@@ -1148,8 +1175,6 @@ OAAB Weapons Integrated.ESP
 OAAB Weapons Integrated YAGD Patch.ESP
 OAAB Weapons Integrated STOTSP TD Content Integration.ESP
 OAAB Weapons Integrated RV Duke's Guard Patch.ESP
-multipatch.ESP
-Merged Objects.ESP
 ```
 
 > ℹ️ We will generate **multipatch.ESP** and **Merged Objects.ESP** in a short while. These two plugins help iron out certain issues and compatibility problems in our load order.
