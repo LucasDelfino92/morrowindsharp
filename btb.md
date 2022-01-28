@@ -32,28 +32,43 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements. 
 - Rename the file to **BTBGI (Necro Edit) Tweaked and Patches** before installing it.
 - BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 MM - Enhanced Detection Patch
-  - [X] 02 Poison Crafting Patch
-  - [X] 03 Ashfall Patch
-  - [X] 04 Balanced Passive Races and Birthsigns Tweaked
-  - [X] 05 Morrowind Anti-Cheese Tweaked
-  - [X] 06 Mort's Rebalance Series Patch
-  - [X] 07 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch
-  - [X] 08 Realistic Repair Add-on Patch
-  - [X] 09 Complete Armor Joints Patch
-  - [X] 10 Better Fitted Female Armors Patch
-  - [X] 11 Properly Fitted Female Pants Patch
-  - [X] 12 RuffinVangarr Armors Integrated Patch
-  - [X] 13 Antares' Mage Robes Patch
-  - [X] 14 OAAB Weapons Integrated Patch
+  - [X] 00 Core  
+    Contains the main plugin, as well as the lua equipment patch.
+  - [X] 01 MM - Enhanced Detection Patch  
+    Patches effect costs, spell costs, and magnitudes of the new Detect spells from MM - Enhanced Detection Patch.
+  - [X] 02 Poison Crafting Patch  
+    Patches alchemy effect costs, poison values, and poison names from Poison Crafting, and creates new poisons.
+  - [X] 03 Ashfall Patch  
+    Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
+  - [X] 04 Balanced Passive Races and Birthsigns Tweaked  
+    Personal edit of Balanced Passive Races and Birthsigns to better suit my tastes.
+  - [X] 05 Morrowind Anti-Cheese Tweaked  
+    Personal edit of Morrowind Anti-Cheese for improved BTBGI compatibility.
+  - [X] 06 Mort's Rebalance Series Patch  
+    Addresses conflicts with Beware the Sixth House, Tribunal Rebalance, and Bloodmoon Rebalance.
+  - [X] 07 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch  
+    Addresses conflicts between Morrowind Anti-Cheese Tweaked and Tribunal Rebalance. 
+  - [X] 08 Realistic Repair Add-on Patch  
+    Addresses inventory conflicts with Arrille when using Realistic Repair - Add-on.
+  - [X] 09 Complete Armor Joints Patch  
+    Addresses conflicts with Complete Armor Joints.
+  - [X] 10 Better Fitted Female Armors Patch  
+    Addresses conflicts with Better Fitted Female Armors.
+  - [X] 11 Properly Fitted Female Pants Patch  
+    Addresses conflicts with Properly Fitted Female Pants.
+  - [X] 12 RuffinVangarr Armors Integrated Patch  
+    Addresses leveled list conflicts with RuffinVangarr Armors Integrated.
+  - [X] 13 Antares' Mage Robes Patch  
+    Includes stat and enchantment tweaks for Antares' Mage Robes, as well as dialogue and journal tweaks.
+  - [X] 14 OAAB Weapons Integrated Patch  
+    Addresses skill conflicts with OAAB Weapons Integrated.
 
 Additional files to install:
 - **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
   - BAIN options to install:
-    - [X] 00 Core
+    - [X] 00 Core  
       Contains the main plugin and the readme.
-    - [X] 01 Weapons Integrated Patch 
+    - [X] 01 Weapons Integrated Patch  
       Patches the plugin for OAAB Weapons Integrated and Oriental Ebony Weapons Integrated.
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
