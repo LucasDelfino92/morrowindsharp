@@ -10,18 +10,23 @@
 
 The guide presented here assumes you have already followed all instructions found in [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Please abstain from using this guide until you've correctly set up Morrowind Sharp.
 
-At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit), related mods, as well as equipment mods of high quality I have integrated into the game (either in their completion or by expanding on the original author's integration).
+At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit) and related mods, which I suggest using alongside it for a complete experience.
 
 ## Preliminary steps
 
 This guide recommends a number of mods in favor of others already installed in Morrowind Sharp, or different versions of already installed mods. Thus, you should uninstall them.
 
 These mods are:
-- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)
-- [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)
-- [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)
-- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)
-- [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)
+- [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
+  This guide will recommend a BTBGI-compatible version of this mod.
+- [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
+  BTBGI already includes this mod.
+- [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
+  This guide will recommend a much more role-playing friendly mod.
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+  This guide will recommend a BTBGI-compatible version of the mod.
+- [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
+  This guide will recommend a BTBGI-compatible install of this mod.
 
 ## CCCP AND BTBGI (Necro Edit)
 
