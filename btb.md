@@ -42,7 +42,7 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
   - [X] 07 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch
   - [X] 08 Realistic Repair Add-on Patch
   - [X] 09 Complete Armor Joints Patch
-  - [X] 10 10 Better Fitted Female Armors Patch
+  - [X] 10 Better Fitted Female Armors Patch
   - [X] 11 Properly Fitted Female Pants Patch
   - [X] 12 RuffinVangarr Armors Integrated Patch
   - [X] 13 Antares' Mage Robes Patch
@@ -52,7 +52,9 @@ Additional files to install:
 - **BTBGI Loot Patch**. Patches leveled lists to slow down high quality loot drops from Golden Saints and Dremoras.
   - BAIN options to install:
     - [X] 00 Core
+      Contains the main plugin and the readme.
     - [X] 01 Weapons Integrated Patch 
+      Patches the plugin for OAAB Weapons Integrated and Oriental Ebony Weapons Integrated.
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
@@ -75,6 +77,8 @@ Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamriel
     Addresses conflicts with Ruffin Vangarr Armors Integrated.
   - [X] 07 Area Effect Projectiles Integrated Patch
     Addresses leveled list conflicts with Area Effect Projectiles Integrated.
+
+> ℹ️ Note that **06 Oriental Ebony Weapons Integrated Patch** isn't necessary as the **BTBGI Loot Patch** we installed earlier supersedes this patch, not only solving conflicts between leveled lists but also adjusting the player level necessary for the weapons to spawn.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
