@@ -257,22 +257,16 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 
 ## OVERHAULS
 
-### Character progression
-
 [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
 A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
 
 > ℹ️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
-
-### Stealth mechanics
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-### Balance
 
 [**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
@@ -396,8 +390,7 @@ Makes vanilla windows glow in the dark.
 - FOMOD options to install:
   - [X] Nord Glass Windows
   - [X] Raven Rock Glass Windows
-  - [X] Hi-Res Window Texture Replacer
-  - [X] None Telvanni Dormers on Vvardenfell
+  - [X] No Telvanni Dormers on Vvardenfell
 
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
 Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
