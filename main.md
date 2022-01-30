@@ -293,16 +293,13 @@ Fixes some of the biggest exploits and balance issues in the game.
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with Tribunal Rebalance and Bloodmoon Rebalance.
+Makes the Sixth House, properly, the most difficult content in the game.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Bloodmoon Rebalance ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bloodmoon%20Rebalance%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
 
 ## VISUALS
 
@@ -552,7 +549,6 @@ Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
-Bloodmoon Rebalance ESP Replacer
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
