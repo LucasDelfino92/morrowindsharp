@@ -184,7 +184,7 @@ Adds a new Background Menu, triggered at the end of character generation. Select
 [**Chargen Revamped - Expanded Lands STOTSP 2.2.2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/CREL%20Solstheim%20-%20Tomb%20of%20The%20Snow%20Prince%202.2.2.7z)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, or Solstheim.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/44615) to original mod by **Texafornian**. The featured version is compatible **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/44615) to original mod by **Texafornian**. The featured version is compatible with **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
 ### Magic mechanics
 
@@ -240,7 +240,7 @@ Prevents the player from renting beds if diseased, be it Common, Blight, or Corp
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other tweaks.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
 
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
