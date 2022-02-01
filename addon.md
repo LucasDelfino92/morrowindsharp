@@ -503,9 +503,9 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)  
 Adds firefly-like insects called glowbugs across the Bitter Coast region. Only coming out on calm nights, these passive insects congregate in clusters across the coast creating magical vistas for players to soak in.
 - BAIN options to install:
- - [X] 00 Core
- - [X] 01 Glowbugs BC
- - [X] 02 Glowbugs AI
+  - [X] 00 Core
+  - [X] 01 Glowbugs BC
+  - [X] 02 Glowbugs AI
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
