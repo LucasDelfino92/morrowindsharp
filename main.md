@@ -799,14 +799,14 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # COMPATIBILITY
 
-Morrowind# is presented "as is": expect no support from me if you decide to install hundreds of mods on top. This doesn't mean Morrowind# is incompatible with everything, but you should think twice about which mods you are installing.
+Morrowind# is presented "as is": expect no support from me if you decide to install hundreds of mods on top.
 
-For reference, here is a list of mods in the guide that tend to have compatibility issues with other mods.
+That said, here is a list of mods in the guide that tend to have compatibility issues with other mods.
 
-- **Yet Another Guard Diversity**: this mod replaces vanilla guards with unique guards selected from leveled lists. But because of how this mod works, it is perfectly possible for a mod to override its changes (by moving the vanilla guards around) and have the guards revert to their vanilla, generic appearance. This would be most noticeable with Imperial Legion guards who don't wear closed helmets (unlike their Hlaalu, Redoran, Telvanni, and Indoril counterparts). Moreover, new guards added to the game world will most likely have a generic appearance as well.
-  - Recommendation: just load conflicting .esps after Yet Another Guard Diversity.
-- **Morrowind Anti-Cheese**: this mod makes changes to the game's balance, including the addition of new enemies to vanilla locations, stat tweaks to equipment and items, and edits to NPCs' inventories, stats, and spells. Any large overhaul that affects NPCs or vanilla items will quite possibly conflict with this mods. Depending on the conflict, it can be virtually harmless or serious (a mod overriding these balance changes altogether).
-  - Recommendation: use [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look at conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
+- **Yet Another Guard Diversity**: any mod modifying the placement of vanilla guards will override the unique guards placed by this mod. In addition, guards added by mods will use the generic guard model, unless the mod is compatible with Yet Another Guard Diversity. Simply load Yet Another Guard Diversity before any such mods.
+- **Morrowind Anti-Cheese**: any mod making changes to the game's balance, in particular when it comes to NPC or equipment tweaks, may conflict with this mod.
+
+My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look for conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 # ADDITIONAL MODS
 
