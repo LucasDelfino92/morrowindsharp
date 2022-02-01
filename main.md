@@ -63,10 +63,14 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Greatly improves performance and fixes some mesh errors.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Lake Fjalding Anti-Suck
-  - [X] 02 Weapon Sheathing Patch
-  - [X] 03 Chuzei Fix
-  - [X] 04 Better Vanilla Textures
+  - [X] 01 Lake Fjalding Anti-Suck  
+    Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
+  - [X] 02 Weapon Sheathing Patch  
+    Compatibility patch for Weapon Sheathing. Makes weapon sheaths show the fixed MOP weapon meshes instead of the vanilla ones.
+  - [X] 03 Chuzei Fix  
+    Fixes neck problems with the Native Chuzei Bonemold Helm.
+  - [X] 04 Better Vanilla Textures  
+    Includes several vanilla textures with fixed alphas and several other changes made specifically for MOP. Also fixes a lot of broken textures and makes textures that were supposed to be seamless actually seamless.
 
 > ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
@@ -77,9 +81,12 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 - From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Textures - Intelligent Textures
-  - [X] 05 Glow in the Dahrk Patch
-  - [X] 06 Graphic Herbalism Patch
+  - [X] 01 Textures - Intelligent Textures  
+    Compatibility patch for Intelligent Textures. Uses compatible texture atlases.
+  - [X] 05 Glow in the Dahrk Patch  
+    Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
+  - [X] 06 Graphic Herbalism Patch  
+    Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
 [**Project Atlas - Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Project%20Atlas%20-%20Intelligent%20Textures%20Fix.7z)  
 Fixes the buggy atlased texture for shacks.
@@ -226,7 +233,8 @@ Allows you to drastically speed up time while a key is pressed, a more natural w
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Labelled Potions
+  - [X] 01 Labelled Potions  
+    Adds effect labels to potion meshes.
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
@@ -253,7 +261,8 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 - **Rename** the file to **Restocking Alchemy Essentials** on MO2 installation.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch
+  - [X] 01 MWSE Poison Crafting Patch  
+    Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
 
 ## OVERHAULS
 
@@ -309,7 +318,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The only texture pack you will ever need.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Atlas Textures
 
 ### Menus and splash screens
 
@@ -375,7 +383,8 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 Adds groundcover to almost all regions.
 - BAIN options to install:
   - [X] 00 Core MGE XE
-  - [X] 01a No Mushrooms MGE XE
+  - [X] 01a No Mushrooms MGE XE  
+    Uses thicker grass meshes, and omits the static mushrooms.
 - Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
@@ -385,15 +394,19 @@ Adds groundcover to almost all regions.
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - FOMOD options to install:
-  - [X] Nord Glass Windows
-  - [X] Raven Rock Glass Windows
-  - [X] No Telvanni Dormers on Vvardenfell
+  - [X] Nord Glass Windows  
+    Replaces the wooden shuttered Nord windows in the vanilla game with glass panes.
+  - [X] Raven Rock Glass Windows  
+    Raven Rock windows will glow at night. Without this, the Raven Rock buildings will be shuttered like they are in the base game.
+  - [X] No Telvanni Dormers on Vvardenfell  
+    Omits the unused Telvanni dormers in settlements.
 
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
 Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 03 Vanilla style sunrays
+  - [X] 03 Vanilla style sunrays  
+    Adds interior sunrays. Windows use the original vanilla stones.
 
 [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -404,7 +417,8 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 00 Lua core
   - [X] 01 Textures 1k
   - [X] 03 Rain mesh replacer - regular
-  - [X] 05 IT Vanilla sky texture replacer 1k
+  - [X] 05 IT Vanilla sky texture replacer 1k  
+    Reworked Intelligent Textures sky textures.
 - Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
 - Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
 
@@ -429,7 +443,8 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - BAIN options to install:
-  - [X] fade
+  - [X] fade  
+    Non-moving effect that fades in and out.
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
@@ -817,6 +832,13 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>02-01-2022</summary>
+
+- Elaborated on what certain BAIN options do in cases when it wasn't very clear.
+- ⚠️ (Visuals) **Intelligent Textures**. The Atlas option is no longer needed in the BAIN installer as Project Atlas overwrites it entirely.
+</details>
 
 <details>
 	<summary>01-28-2022</summary>
