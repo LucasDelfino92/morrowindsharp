@@ -186,7 +186,7 @@ Makes picking a glowing plant also remove the glow-light.
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
-Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almsivi Intervention to Vos, Suran, Maar Gan and Ghostgate.
+Adds shrines and Almsivi Intervention markers to temples that were missing them.
 - BAIN options to install:
   - [X] 00 Vanilla Ghostgate
 
@@ -202,13 +202,13 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-Adds new arrows that explode on impact. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) distributes the new projectiles throughout the game world rather than dumping them all in one shop.
+Adds new arrows that explode on impact. Based on the official [**Area Effect Arrows**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) add-on.
 - Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
 
 > ℹ️ This plugin contains only the integration of the area effect arrows, without any additional balance or visual tweaks.
 
 [**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. This alternative version of the [**official plugin**](https://en.uesp.net/wiki/Morrowind:Master_Index) includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
+Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. Official [**Master Index**](https://en.uesp.net/wiki/Morrowind:Master_Index) add-on, with fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
@@ -226,9 +226,6 @@ Implements and expands on the game's hinted at but missing mechanic of Hospitali
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
 
-[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
-Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
-
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
 - BAIN options to install:
@@ -243,6 +240,9 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
+
+[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
+Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
 
 [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
