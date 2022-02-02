@@ -34,9 +34,6 @@ Solves conflicts between the Book Typos and the Semi-Purist Fixes plugins.
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-[**The Publicans ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/The%20Publicans%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
-
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
@@ -151,6 +148,9 @@ Expands the amount of quick menu hotkeys available.
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
+[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
+Adds a hotkey to speed up time.
+
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
 Adds a hotkey for exiting any menu.
 
@@ -217,33 +217,6 @@ The Warp Script for the Propylon Indices will now prompt you before teleporting.
 
 > ℹ️ This plugin is compatible with the Master Index official plugin.
 
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
-Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
-
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
-Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
-
-[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
-Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
-
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions  
-    Adds effect labels to potion meshes.
-
-[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
-A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
-
-[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
-A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-
-> ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
-
-[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
-Allows you to drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu.
-
 [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
@@ -261,8 +234,6 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 - **Rename** the file to **Restocking Alchemy Essentials** on MO2 installation.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch  
-    Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
 
 ## OVERHAULS
 
@@ -498,7 +469,6 @@ Pixel Shader Style Water for MGE XE
 Patch for Purists
 Patch for Purists Merged Fixes
 The Publicans
-The Publicans ESP Replacer
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
@@ -524,6 +494,7 @@ Better Questlist
 Smart Journal
 What Are My Attributes
 Hotkeys Extended
+Pass the Time
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
@@ -541,13 +512,6 @@ Early Transport to Mournhold
 Area Effect Arrows Integrated
 Master Index (UMOPP)
 Better Propylon Teleport Script
-Brutal Backstabbing
-FMI - Hospitality Papers Expanded
-Lucky Strike - A Critical Hit Mod
-Pass the Time
-Poison Crafting
-Ashfall
-Skills Module
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
@@ -617,11 +581,7 @@ Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-mwse_PoisonCrafting.ESP
-Ashfall.ESP
 Restocking Alchemy Essentials.ESP
-Restocking Alchemy Essentials PoisonCrafting Patch.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
@@ -832,6 +792,16 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>02-02-2022</summary>
+
+- ⚠️ (User Interface) Moved **Pass the Time** under Hotkeys.
+- ⚠️ (Gameplay Add-on) Moved **Brutal Backstabbing**, **Lucky Strike**, and **Poison Crafting** under Combat mechanics. **Restocking Alchemy Essentials** now lists only the Core BAIN option, with the add-on guide additionally having the Poison Crafting Patch BAIN option.
+- ⚠️ (Gameplay Add-on) Moved **FMI - Hospitality Papers** under Service refusal.
+- ⚠️ (Overhauls Add-on) Moved **Ashfall** under Survival.
+- 🚫 (Patches) Removed **The Publicans ESP Replacer**, as the latest Nexus release includes the appropriate Patch for Purists fixes.
+</details>
 
 <details>
 	<summary>02-01-2022</summary>
