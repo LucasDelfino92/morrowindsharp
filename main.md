@@ -854,7 +854,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Visuals Add-on) Added **Nordic Chest Replacer ESP Replacer**.
 - ⚠️ (Visuals Add-on) Added **Complete Armor Joints ESP Replacer** and **Better Fitted Female Armors ESP Replacer**.
 - ⚠️ (Cities Add-on) Added **Solstheim - Tomb of the Snow Prince ESM Replacer**.
-- ⚠️ (OAAB_Data Add-on) Dropped most of **OAAB Integrations**, and updated **OAAB Weapons Integrated** installation instructions.
+- ⚠️ (OAAB_Data Add-on) Dropped most of **OAAB Integrations**, and updated **OAAB Weapons Integrated** installation instructions. Unlike **Scroll Qualities**, I don't feel the rest of the integrations are particularly necessary.
 </details>
 
 <details>
