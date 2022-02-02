@@ -1118,7 +1118,6 @@ Services Restored.ESP
 Silt Strider Animation Restored.ESP
 Under Construction.ESP
 chuzei_helm_no_neck.ESP
-Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 No Thank You.ESP
 Improved Temple Experience.ESP
