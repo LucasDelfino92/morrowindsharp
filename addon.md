@@ -186,6 +186,27 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/44615) to original mod by **Texafornian**. The featured version is compatible with **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**.
 
+### Combat mechanics
+
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
+Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
+
+[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
+Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
+
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions  
+    Adds effect labels to potion meshes.
+
+[**Restocking Alchemy Essentials + Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
+- **Rename** the file to **Restocking Alchemy Essentials + Poison Crafting Patch** on MO2 installation.
+- BAIN options to install:
+  - [X] 01 MWSE Poison Crafting Patch  
+
 ### Magic mechanics
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
@@ -226,6 +247,15 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 
 ### Services and service refusal
 
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
+Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
+
+[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
+
+[**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
+
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
@@ -241,12 +271,6 @@ Prevents the player from renting beds if diseased, be it Common, Blight, or Corp
 Adds healing services to healers.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
-
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
-
-[**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
 
 ### Misc tweaks
 
@@ -265,16 +289,11 @@ The radius of a hand-held light will gradually diminish and eventually go out wh
 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)  
 At higher Luck you will have a better chance to obtain better items from a container that would spawn them at higher levels.
 
-[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
-Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
-
-[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
+Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
@@ -283,6 +302,11 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
+
+[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
+Levitation speed is now based on Willpower attribute instead of Speed.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 
 ## OVERHAULS ADD-ON
 
@@ -327,6 +351,16 @@ Adds new, immersive work stations throughout the world; search for new grindston
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
+
+### Survival
+
+[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
+A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
+
+[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
+A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
+
+> ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
 ## VISUALS ADD-ON
 
@@ -799,7 +833,6 @@ Patch for Purists
 Patch for Purists - Merged Fixes
 Expansion Delay
 The Publicans
-The Publicans ESP Replacer
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
@@ -838,7 +871,7 @@ I Lava Good Mesh Replacer
 Improved Thrown Weapon Projectiles
 Better Readable Beauty Font
 Better Daedric Font
-Magic Icons (Sigourn Edit)
+Magic Icons
 Continue
 New Game Confirmation
 UI Expansion
@@ -846,7 +879,7 @@ Companion Health Bars
 Alchemical Knowledge
 Better Questlist
 Smart Journal
-What Are My Attributes (Sigourn Edit)
+What Are My Attributes
 Character Creation Name Generator
 Map and Compass
 Map Replacements for Maps and Compass
@@ -860,6 +893,7 @@ Shrine Tooltips
 Clock Block
 HUD Weapon Charge
 Hotkeys Extended
+Pass the Time
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
@@ -882,27 +916,25 @@ Early Transport to Mournhold
 Area Effect Arrows Integrated
 Master Index (UMOPP)
 Better Propylon Teleport Script
-Brutal Backstabbing
-FMI - Hospitality Papers Expanded
-Lucky Strike - A Critical Hit Mod
-Pass the Time
-Poison Crafting
-Ashfall
-Skills Module
 Character Backgrounds
-Chargen Revamped - Expanded Lands STOTSP 2.2.2
+Chargen Revamped - Expanded Lands STOTSP
+Brutal Backstabbing
+Lucky Strike - A Critical Hit Mod
+Poison Crafting
+Restocking Alchemy Essentials + Poison Crafting Patch
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
+FMI - Hospitality Papers Expanded
+FMI - Service Refusal and Contraband
+FMI - Service Refusal and Contraband ESP Replacer
 More Exclusive Factions
 Nerevarine Service Refusal
 No Beds for the Diseased
 Religions Elaborated (Healers)
-FMI - Service Refusal and Contraband
-FMI - Service Refusal and Contraband ESP Replacer
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
@@ -913,22 +945,22 @@ Drop Light
 Hold Your Breath
 Light Decay
 Lucky Loot
-Smarter Soultrap
-Wings of Will (Necro Edit)
 Realistic Movement Speeds
+Smarter Soultrap
 Speed and Movement Rebalanced
 Wading in Water MW
+Wings of Will
 MULE - Mort's Ultimate Leveling Experience 
 Class Skill Limit
 Nimble Armor
-Pickpocket (Sigourn Edit)
-Stealth Improved (Necro Edit)
+Pickpocket
+Stealth Improved
 Locks and Traps Detection
 Visually Trapped Objects
 Alchemy Takes Time
-Controlled Consumption (MMC Edit)
+Controlled Consumption
 Dungeons Rest
-Harder Barter (Sigourn Edit)
+Harder Barter
 Morrowind Anti-Cheese
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
@@ -938,7 +970,9 @@ No Rest Without Beds
 Reactive Resistance
 Realistic Repair
 Realistic Repair - Add-on
-Silver Tongue (Necro Edit)
+Silver Tongue
+Skills Module
+Ashfall
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
@@ -994,7 +1028,7 @@ Bloodmoon Hide Replacer
 Subtle Magic Glow
 Subtle Smoke
 Bitter Coast Sounds (UMOPP)
-Flies (ProfArmitage Edit)
+Flies
 Glowbugs
 Heat Haze
 Mistify
@@ -1092,25 +1126,25 @@ Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-mwse_PoisonCrafting.ESP
-Ashfall.ESP
+Restocking Alchemy Essentials.ESP
 Character Backgrounds.ESP
 CREL Solstheim - Tomb of the Snow Prince 2.2.2.ESP
-Enhanced Light.ESP
-Restocking Alchemy Essentials.ESP
+mwse_PoisonCrafting.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
+Enhanced Light.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_ServiceRefusal_Contraband.ESP
 More Exclusive Factions.ESP
 Clean Temple Service Refusal.ESP
 No Beds for the Diseased.ESP
 Religions Elaborated.ESP
-FMI_ServiceRefusal_Contraband.ESP
 Speed and Movement.ESP
 Morrowind Anti-Cheese.ESP
 Beware the Sixth House.ESP
 tribunal rebalance.ESP
 Bloodmoon Rebalance.ESP
 Realistic_Repair_Add-on.ESP
+Ashfall.ESP
 Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
