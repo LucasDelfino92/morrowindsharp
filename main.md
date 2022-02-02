@@ -800,6 +800,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Gameplay Add-on) Moved **Brutal Backstabbing**, **Lucky Strike**, and **Poison Crafting** under Combat mechanics. **Restocking Alchemy Essentials** now lists only the Core BAIN option, with the add-on guide additionally having the Poison Crafting Patch BAIN option.
 - ⚠️ (Gameplay Add-on) Moved **FMI - Hospitality Papers** under Service refusal.
 - ⚠️ (Overhauls Add-on) Moved **Ashfall** under Survival.
+- ⚠️ (Load order Add-on) Removed **Lake Fjalding Anti-Suck.ESP**, as it is included in **STOTSP**.
 - 🚫 (Patches) Removed **The Publicans ESP Replacer**, as the latest Nexus release includes the appropriate Patch for Purists fixes.
 </details>
 
