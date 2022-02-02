@@ -126,7 +126,6 @@ Patch for Purists
 Patch for Purists - Merged Fixes
 Expansion Delay
 The Publicans
-The Publicans ESP Replacer
 Expeditious Exit
 Memory Monitor
 Sophisticated Save System
@@ -165,7 +164,7 @@ I Lava Good Mesh Replacer
 Improved Thrown Weapon Projectiles
 Better Readable Beauty Font
 Better Daedric Font
-Magic Icons (Sigourn Edit)
+Magic Icons
 Continue
 New Game Confirmation
 UI Expansion
@@ -173,7 +172,7 @@ Companion Health Bars
 Alchemical Knowledge
 Better Questlist
 Smart Journal
-What Are My Attributes (Sigourn Edit)
+What Are My Attributes
 Character Creation Name Generator
 Map and Compass
 Map Replacements for Maps and Compass
@@ -187,6 +186,7 @@ Shrine Tooltips
 Clock Block
 HUD Weapon Charge
 Hotkeys Extended
+Pass the Time
 Quick Equip
 Right Click Menu Exit
 Security Enhanced
@@ -208,27 +208,24 @@ Smart Ammo
 Early Transport to Mournhold
 Master Index (UMOPP)
 Better Propylon Teleport Script
-Brutal Backstabbing
-FMI - Hospitality Papers Expanded
-Lucky Strike - A Critical Hit Mod
-Pass the Time
-Poison Crafting
-Ashfall
-Skills Module
 Character Backgrounds
-Chargen Revamped - Expanded Lands STOTSP 2.2.2
+Chargen Revamped - Expanded Lands STOTSP
+Brutal Backstabbing
+Lucky Strike - A Critical Hit Mod
+Poison Crafting
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
 MM - Enhanced Light
 MM - Enhanced Invisibility
 MM - Enhanced Telekinesis
+FMI - Hospitality Papers Expanded
+FMI - Service Refusal and Contraband
+FMI - Service Refusal and Contraband ESP Replacer
 More Exclusive Factions
 Nerevarine Service Refusal
 No Beds for the Diseased
 Religions Elaborated (Healers)
-FMI - Service Refusal and Contraband
-FMI - Service Refusal and Contraband ESP Replacer
 Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
@@ -238,21 +235,21 @@ Drop Light
 Hold Your Breath
 Light Decay
 Lucky Loot
-Smarter Soultrap
-Wings of Will (Necro Edit)
 Realistic Movement Speeds
+Smarter Soultrap
 Speed and Movement Rebalanced
 Wading in Water MW
+Wings of Will
 Class Skill Limit
 Nimble Armor
-Pickpocket (Sigourn Edit)
-Stealth Improved (Necro Edit)
+Pickpocket
+Stealth Improved
 Locks and Traps Detection
 Visually Trapped Objects
 Alchemy Takes Time
-Controlled Consumption (MMC Edit)
+Controlled Consumption
 Dungeons Rest
-Harder Barter (Sigourn Edit)
+Harder Barter
 Beware the Sixth House (Sixth House Overhaul)
 Tribunal Rebalance
 Bloodmoon Rebalance
@@ -261,7 +258,9 @@ No Rest Without Beds
 Reactive Resistance
 Realistic Repair
 Realistic Repair - Add-on
-Silver Tongue (Necro Edit)
+Silver Tongue
+Skills Module
+Ashfall
 Title Screen Reworked
 Widescreen Splash Replacer
 Comrade Raven's Book Arts Replacer
@@ -317,7 +316,7 @@ Bloodmoon Hide Replacer
 Subtle Magic Glow
 Subtle Smoke
 Bitter Coast Sounds (UMOPP)
-Flies (ProfArmitage Edit)
+Flies
 Glowbugs
 Heat Haze
 Mistify
@@ -413,24 +412,22 @@ Services Restored.ESP
 Silt Strider Animation Restored.ESP
 Under Construction.ESP
 chuzei_helm_no_neck.ESP
-Lake Fjalding Anti-Suck.ESP
 Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 No Thank You.ESP
 Improved Temple Experience.ESP
 Early Transport to Mournhold.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-mwse_PoisonCrafting.ESP
-Ashfall.ESP
 Character Backgrounds.ESP
 CREL Solstheim - Tomb of the Snow Prince 2.2.2.ESP
+mwse_PoisonCrafting.ESP
 Enhanced Light.ESP
+Hospitality_Papers_Expanded_v2.7.ESP
+FMI_ServiceRefusal_Contraband.ESP
 More Exclusive Factions.ESP
 Clean Temple Service Refusal.ESP
 No Beds for the Diseased.ESP
 Religions Elaborated.ESP
-FMI_ServiceRefusal_Contraband.ESP
 Speed and Movement.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.esp
 BTBGI Poison Crafting Patch.ESP
@@ -443,6 +440,7 @@ Mort's Rebalance Series BTBGI Patch.ESP
 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
 Realistic_Repair_Add-on.ESP
 Realistic Repair Add-on BTBGI Patch.ESP
+Ashfall.ESP
 Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
