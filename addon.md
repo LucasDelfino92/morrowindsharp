@@ -170,7 +170,8 @@ Adds a hotkey to open and close any book and scroll in the game.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Closed Book Icons
-  - [X] 03 Melchior's Magnificent Manuscripts
+  - [X] 03 Melchior's Magnificent Manuscripts  
+    Compatibility patch for Melchior's Magnificent Manuscripts. Makes books and scrolls use the improvement meshes from the mod.
 
 > ℹ️ We will install **Melchior's Magnificent Manuscripts** in the **Visuals Add-on** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
 
@@ -205,7 +206,7 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
 Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
 - **Rename** the file to **Restocking Alchemy Essentials + Poison Crafting Patch** on MO2 installation.
 - BAIN options to install:
-  - [X] 01 MWSE Poison Crafting Patch  
+  - [X] 01 MWSE Poison Crafting Patch
 
 ### Magic mechanics
 
@@ -490,11 +491,6 @@ Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including N
 [**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z)  
 Addresses a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
 
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
-Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
-
-> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
-
 ### Items
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
@@ -519,11 +515,6 @@ Upscaled **Simple Golden Gold** textures.
 [**Throbbing Meat - a Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)  
 Replaces corprus meat models with animated, twitching ones ones.
 
-[**Bloodmoon Hide Replacer**](https://www.nexusmods.com/morrowind/mods/21725)  
-Replaces the Bear, Snow Bear, Wolf, and Snow Wolf ingredients so that they look like pelts instead of mutilated heads.
-
-> ⚠️ **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on**, already includes this mod.
-
 ### VFX
 
 [**Bitter Coast Sounds (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Bitter%20Coast%20Sounds%20(UMOPP).7z)  
@@ -538,8 +529,10 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 Adds firefly-like insects called glowbugs across the Bitter Coast region. Only coming out on calm nights, these passive insects congregate in clusters across the coast creating magical vistas for players to soak in.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Glowbugs BC
-  - [X] 02 Glowbugs AI
+  - [X] 01 Glowbugs BC  
+    Adds glowbugs in the Bitter Coast.
+  - [X] 02 Glowbugs AI  
+    Adds glowbugs in the Ascadian Isles.
 
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a configurable heat haze shader with region and weather conditions selectable in the mod configuration menu. The shader gets faster and stronger when closer to lava pools.
@@ -665,23 +658,23 @@ Files to install:
     - [X] 000 Core
     - [X] 010 Solstheim - Tomb of the Snow Prince
     - [X] 011 TOTSP Patches
-    - [X] 013 Fierce Wolf Helms
-    - [X] 014 Hide-Like Animal Pelts
-  - Hide all plugins minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
-  - Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. This plugin is not compatible with Solstheim - Tomb of the Snow Prince.
+    - [X] 013 Fierce Wolf Helms  
+      Mesh and icon replacer for the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
+    - [X] 014 Hide-Like Animal Pelts  
+      Mesh and icon replacer for the Bear, Snow Bear, Wolf, and Snow Wolf Pelt ingredients so that they look like pelts instead of mutilated heads.
+  - Hide all plugins from the mod minus **Solstheim Tomb of The Snow Prince.esm** and **TOTSP_Patch_for_Purists_4.0.2.esp**.
+  - Hide **Laje Fjalding Anti-Suck.esp** from **Morrowind Optimization Patch**. The functionality of this plugin is included in Solstheim - Tomb of the Snow Prince.
 - **Solstheim Graphical Replacer**  
   Includes a compatible version of Remiros' Groundcover's Solstheim plugin.
   - BAIN options to install:
     - [X] 012 Remiros' Groundcover for TOTSP
   - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. Solstheim - Tomb of the Snow Prince already includes its own compatible grass plugin.
 
-> ℹ️ The **Fierce Wolf Helms** and **Hide-Like Animal Pelts** options are identical to the **Wolf Helmet Replacer** and **Bloodmoon Hide Replacer** mods from **Visuals Add-on**.
-
 [**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
 Forwards PfP fixes to the plugin and removes dirty records.
 
 [**Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
-Address an AI package conflict with the unique Horker.
+Address a conflict with a Shipmaster NPC, which would cause the player to land on water after using her services.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
 Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
@@ -1018,13 +1011,11 @@ LeFemmRedacted
 Imperial Steel Cuirass Tweaks
 Pincushion
 Pincushion - Improved Thrown Weapon Projectiles Patch
-Wolf Helmet Replacer
 Arukinns Better Books and Scrolls
 Melchior's Magnificent Manuscripts
 Simple Golden Gold
 Intelligent Textures - Simple Golden Gold
 Throbbing Meat - a Corprus Meat Replacer
-Bloodmoon Hide Replacer
 Subtle Magic Glow
 Subtle Smoke
 Bitter Coast Sounds (UMOPP)
