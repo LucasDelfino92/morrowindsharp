@@ -383,11 +383,22 @@ Replaces the ashmires found throughout the ashen regions of Vvardenfell with mod
 - BAIN options to install:
   - [X] 01 Still Mire
 
+[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
+Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+
+> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
+
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426)  
 Gives the rock in the Maar Gan shrine an actual inscription like how it is described.
 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
+
+[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
+Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
+
+[**Nordic Chest Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Chest%20Replacer%20ESP%20Replacer.7z)  
+Forwards PfP fixes to the plugin.
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
@@ -412,21 +423,11 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 00 Core
   - [X] 01 Original Color
 
-[**Well Diversified**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Well%20Diversified%20(Beta).zip)  
+[**Well Diversified**](https://www.nexusmods.com/morrowind/mods/50725)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-
-> ⚠️ This mod is not compatible with **Solstheim - Tomb of the Snow Prince**, which we will install in the **Cities and Towns Add-on** and which already includes it.
-
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
-
-[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
-Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
-
-[**Nordic Chest Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Chest%20Replacer%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Option 2 STOTSP
 
 ### Weather and lighting
 
@@ -980,16 +981,16 @@ Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Ashmire Replacer
+Distant Mournhold
 Inscribed Maar Gan Rock
 Know Thy Ancestors
+Nordic Chest Replacer
+Nordic Chest Replacer ESP Replacer
 Trackless Grazeland
 Grass for Trackless Grazeland
 3D Vines Vanilla Mushroom Trees
 Vivec Palace Water Replacer
 Well Diversified
-Distant Mournhold
-Nordic Chest Replacer
-Nordic Chest Replacer ESP Replacer
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
@@ -1139,11 +1140,12 @@ Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
-Know Thy Ancestors.ESP
-Inscribed Maar Gan Rock.ESP
-Trackless Grazeland.ESP
 Mournhold LOD.ESP
+Inscribed Maar Gan Rock.ESP
+Know Thy Ancestors.ESP
 Nordic Chest Replacer.ESP
+Trackless Grazeland.ESP
+Well Diversified STOTSP.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 Complete Armor Joints.ESP
