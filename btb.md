@@ -23,8 +23,6 @@ These mods are:
   This guide will recommend a BTBGI-compatible version of the mod.
 - (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
   BTBGI already includes this mod.
-- (Add-on) [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-  This guide will recommend a BTBGI-compatible install of this mod.
 
 # BTBGI ADD-ON
 
@@ -63,43 +61,15 @@ Files to install:
       Addresses conflicts with Better Fitted Female Armors.
     - [X] 11 Properly Fitted Female Pants Patch  
       Addresses conflicts with Properly Fitted Female Pants.
-    - [X] 12 RuffinVangarr Armors Integrated Patch  
-      Addresses leveled list conflicts with RuffinVangarr Armors Integrated.
-    - [X] 13 Antares' Mage Robes Patch  
-      Includes stat and enchantment tweaks for Antares' Mage Robes, as well as dialogue and journal tweaks.
-    - [X] 14 OAAB Weapons Integrated Patch  
-      Addresses skill conflicts with OAAB Weapons Integrated.
 - **BTBGI Loot Patch** (Main files)  
   Slows down the appearance of high quality loot drops from Dremoras and Golden Saints.
   - BAIN options to install:
     - [X] 00 Core  
       Contains the main plugin and the readme.
-    - [X] 01 Weapons Integrated Patch  
-      Patches the plugin for OAAB Weapons Integrated and Oriental Ebony Weapons Integrated.
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
 - Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
-[**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307)  
-Integrates **OAAB_Data** weapons into the game, as well as those from [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720).
-- BAIN options to install:
-  - [X] 00 Core  
-    Contains the main plugin, as well as the readme.
-  - [X] 01 Mort's Rebalance Series Patch  
-    Addresses conflicts with Tribunal Rebalance and Bloodmoon Rebalance.
-  - [X] 02 Yet Another Guard Diversity Patch  
-    Distributes the Imperial Shortbow across Yet Another Guard Diversity's Imperial archers.
-  - [X] 03 STOTSP TD Content Integration Patch  
-    To be used instead of Solstheim - Tomb of the Snow Prince's TD Content Integration plugins. Replaces the Tamriel_Data weapons with those from OAAB_Data, and expands on the integration of Tamriel_Data creatures and ingredients into Solstheim.
-  - [X] 04 Nordic Chest Replacer + STOTSP TD Content Integration Patch  
-    Adresses conflicts with Nordic Chest Replacer.
-  - [X] 05 RV Duke's Guard Silver Patch  
-    Addresses conflicts with Ruffin Vangarr Armors Integrated.
-  - [X] 07 Area Effect Projectiles Integrated Patch  
-    Addresses leveled list conflicts with Area Effect Projectiles Integrated.
-
-> ℹ️ Note that **06 Oriental Ebony Weapons Integrated Patch** isn't necessary as the **BTBGI Loot Patch** we installed earlier supersedes this patch, not only solving conflicts between leveled lists but also adjusting the player level necessary for the weapons to spawn.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
@@ -209,10 +179,11 @@ Early Transport to Mournhold
 Master Index (UMOPP)
 Better Propylon Teleport Script
 Character Backgrounds
-Chargen Revamped - Expanded Lands STOTSP
+Chargen Revamped - Expanded Lands
 Brutal Backstabbing
 Lucky Strike - A Critical Hit Mod
 Poison Crafting
+Restocking Alchemy Essentials + Poison Crafting Patch
 Magicka Expanded
 Miscast Enhanced
 MM - Enhanced Detection
@@ -274,9 +245,7 @@ Incarnates Overhauled
 Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
-Ashmire Replacer
 Distant Mournhold
-Inscribed Maar Gan Rock
 Know Thy Ancestors
 Nordic Chest Replacer
 Nordic Chest Replacer ESP Replacer
@@ -306,22 +275,16 @@ LeFemmRedacted
 Imperial Steel Cuirass Tweaks
 Pincushion
 Pincushion - Improved Thrown Weapon Projectiles Patch
+Wolf Helmet Replacer
 Arukinns Better Books and Scrolls
 Melchior's Magnificent Manuscripts
 Simple Golden Gold
 Intelligent Textures - Simple Golden Gold
-Throbbing Meat - a Corprus Meat Replacer
 Subtle Magic Glow
 Subtle Smoke
-Bitter Coast Sounds (UMOPP)
 Flies
-Glowbugs
-Heat Haze
-Mistify
 Mist Retexture
-Shattered Stones - An Earthquake Mod
 The Dream is the Door
-Unto Dust
 No Female Nord Screeching
 Sheep-no-More
 Shut the Fuck up Cliff Racers
@@ -329,8 +292,6 @@ AURA
 Quieter Doors and Spells
 Spell Sounds Enhanced
 Character Sound Overhaul
-Haunted Barrows
-Heartthrum
 Outdoor Banners With Sound
 Water Sounds
 MUSE 2 - Morrowind Music System Extended
@@ -342,36 +303,10 @@ LDM - Context Matters
 Idle Talk
 Its a Deal
 FMI - NotAllDunmer
-Greetings for No Lore
 Outfit Greetings Tweaked
-Tamriel_Data (HD)
-Solstheim - Tomb of the Snow Prince
-Solstheim - Tomb of the Snow Prince Graphical Replacer
-Solstheim - Tomb of the Snow Prince ESM Replacer
-STOTSP Bloodmoon Rebalance Patch
-Nordic Dagon Fel
-Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
 Ownership Overhaul Patches
-Complete and Revised Dreugh Armor
-Complete and Revised Imperial Studded Leather Armor
-Complete and Revised Nordic Iron Armor
-Complete Duke's Guard Silver
-Concept Art Daedric Helmets
-Redoran War Armor and Sathil Mercenary Equipment
-Sathil Mercenary Armor
-Redoran War Armor
-Oriental Ebony Weapons
-RuffinVangarr Armors Integrated
-Redoran War Armor and Sathil Mercenary Equipment Integrated
-Oriental Ebony Weapons Integrated
-Antares' Mage Robes
-OAAB_Data
-OAAB Scroll Qualities
-OAAB Dwemer Lightning Rods
-OAAB Dwemer Pavements
-OAAB Weapons Integrated
 Class-Conscious Character Progression
 BTBGI (Necro Edit) Tweaked and Patches
 BTBGI Loot Patch
@@ -391,11 +326,8 @@ MWSE Config
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
-OAAB_Data.esm
-Tamriel_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
-Solstheim Tomb of The Snow Prince.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Patch for Purists - Merged Fixes.ESP
@@ -412,10 +344,11 @@ Glowing Flames - NoMoreLightlessFlames v1.1.ESP
 No Thank You.ESP
 Improved Temple Experience.ESP
 Early Transport to Mournhold.ESP
+Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 Character Backgrounds.ESP
-CREL Solstheim - Tomb of the Snow Prince 2.2.2.ESP
+CREL_Vanilla_v3.1.ESP
 mwse_PoisonCrafting.ESP
 Enhanced Light.ESP
 Hospitality_Papers_Expanded_v2.7.ESP
@@ -430,20 +363,21 @@ BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.esp
 Morrowind Anti-Cheese Tweaked.ESP
 Beware the Sixth House.ESP
-Tribunal Rebalance.ESP
-Bloodmoon Rebalance.esp
+tribunal rebalance.ESP
+Bloodmoon Rebalance.ESP
 Mort's Rebalance Series BTBGI Patch.ESP
 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
 Realistic_Repair_Add-on.ESP
 Realistic Repair Add-on BTBGI Patch.ESP
 Ashfall.ESP
+Area Effect Projectiles Integrated.esp
+EcoAdjCrime (Necro Edit).esp
 Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
 Mournhold LOD.ESP
 Know Thy Ancestors.ESP
-Inscribed Maar Gan Rock.ESP
 Nordic Chest Replacer.ESP
 Trackless Grazeland.ESP
 Well Diversified.ESP
@@ -455,54 +389,20 @@ Alex's Better Fitted Female Armors.ESP
 Alex's Better Fitted Female Armors BTBGI Patch.ESP
 FemalePants.ESP
 FemalePants BTBGI Patch.ESP
-bcsounds.ESP
 Flies.ESP
-Glowbugs AI.ESP
-Glowbugs BC.ESP
-mistify.ESP
-Shattered Stones - An Earthquake Mod.ESP
 The Dream is the Door.ESP
 No Female Nord Screeching.ESP
 Quieter Doors and Spells.ESP
-Haunted Barrows.ESP
-RFD_Heartthrum.ESP
 Outdoor Banners With Sound.ESP
 Great Service.ESP
 LDM - Context Matters 1.5.ESP
 Idle Talk.ESP
 Its a deal.ESP
 FMI_#NotAllDunmer.ESP
-Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
-Nordic Dagon Fel.ESP
-ShrineOfAzura.ESP
 No-Frills Closed Molag Mar.ESP
 No-Frills Open Vivec.ESP
 No-Frills Series Ownership Overhaul Patch.ESP
-TOTSP_Patch_for_Purists_4.0.2.ESP
-STOTSP Ownership Overhaul Patch.ESP
-STOTSP Bloodmoon Rebalance Patch.ESP
-RV Armors Integrated.ESP
-RV Armors Integrated BTBGI Patch.ESP
-RV Armors Integrated BM Rebalance Patch.ESP
-RV Armors Integrated YAGD Patch.ESP
-Redoran War and Sathil Mercenary Armor Integrated.ESP
-Redoran War and Sathil Mercenary Armor Integrated Temple Service Refusal Patch.ESP
-Oriental Ebony Weapons Integrated.ESP
-Antares' Mage Robes.ESP
-Antares' Mages Robes BTBGI Patch.ESP
-OAAB Dwemer Pavements.ESP
-Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
-OAAB Weapons Integrated.ESP
-OAAB Weapons Integrated BTBGI Patch.esp
-OAAB Weapons Integrated Mort's Rebalance Series Patch.ESP
-OAAB Weapons Integrated YAGD Patch.ESP
-OAAB Weapons Integrated STOTSP TD Content Integration.ESP
-OAAB Weapons Integrated STOTSP TD Content Integration Nordic Chest Patch.ESP
-OAAB Weapons Integrated RV Duke's Guard Patch.ESP
-Area Effect Projectiles Integrated.esp
-Area Effect Projectiles and OAAB Weapons Integrated Patch.ESP
-EcoAdjCrime (Necro Edit).esp
 BTBGI Loot Patch.ESP
 ```
 </details>
