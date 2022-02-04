@@ -648,7 +648,7 @@ Files to install:
 - **Tamriel Data (HD)** (Main files)
   - [**Register the mod's BSA.**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#modding-tips)
 
-> ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince**, **Dagon Fel Mill Redux** and **Nordic Dagon Fel**.
+> ℹ️ This asset repository is a pre-requisite for **Solstheim - Tomb of the Snow Prince** and **Nordic Dagon Fel**.
 
 [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
 Improves the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
@@ -677,14 +677,8 @@ Forwards PfP fixes to the plugin and removes dirty records.
 [**Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/STOTSP%20Bloodmoon%20Rebalance%20Patch.7z)  
 Address a conflict with a Shipmaster NPC, which would cause the player to land on water after using her services.
 
-[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067)  
-Cleaned, fixed, and improved version of [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981), which adds a water wheel powered mill with a smith and an armory shop in Dagon Fel.
-
 [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
 Swaps some assets in Dagon Fel to make it feel more nordic, and expands on the “fishing town” theme of the town.
-
-[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
-A fan-made restoration of Ald Redaynia, missing from the released game. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders.
 
 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
 Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
@@ -1059,9 +1053,7 @@ Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
 Solstheim - Tomb of the Snow Prince ESM Replacer
 STOTSP Bloodmoon Rebalance Patch
-Dagon Fel Mill Redux
 Nordic Dagon Fel
-Redaynia Restored
 Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
@@ -1174,9 +1166,7 @@ Its a deal.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
-Dagon Fel Mill.ESP
 Nordic Dagon Fel.ESP
-Redaynia Restored.ESP
 ShrineOfAzura.ESP
 No-Frills Closed Molag Mar.ESP
 No-Frills Open Vivec.ESP
