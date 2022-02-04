@@ -306,13 +306,11 @@ LeFemmRedacted
 Imperial Steel Cuirass Tweaks
 Pincushion
 Pincushion - Improved Thrown Weapon Projectiles Patch
-Wolf Helmet Replacer
 Arukinns Better Books and Scrolls
 Melchior's Magnificent Manuscripts
 Simple Golden Gold
 Intelligent Textures - Simple Golden Gold
 Throbbing Meat - a Corprus Meat Replacer
-Bloodmoon Hide Replacer
 Subtle Magic Glow
 Subtle Smoke
 Bitter Coast Sounds (UMOPP)
