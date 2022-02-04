@@ -794,6 +794,48 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>02-04-2022</summary>
+
+- 🆕 (Visuals Add-on) Re-added **Wolf Helmet Replacer**, as Solstheim - Tomb of the Snow Prince was removed.
+- ⚠️ (Gameplay Add-on) Modified **Chargen Revamped - Expanded Lands** installation instructions.
+- ⚠️ (Visuals Add-on) Modified **Well Diversified** installation instructions.
+- ⚠️ (Cities and Towns Add-on) Modified **Ownership Overhaul Patches** installation instructions.
+- 🚫 (Visuals Add-on) **Ashmire Replacer**
+- 🚫 (Visuals Add-on) **Inscribed Maar Gan Rock**
+- 🚫 (Visuals Add-on) **Throbbing Meat - a Corprus Meat Replacer**
+- 🚫 (Visuals Add-on) **Bitter Coast Sounds (UMOPP)**
+- 🚫 (Visuals Add-on) **Glowbugs**
+- 🚫 (Visuals Add-on) **Heat Haze**
+- 🚫 (Visuals Add-on) **Mistify**
+- 🚫 (Visuals Add-on) **Shattered Stones - An Earthquake Mod**
+- 🚫 (Visuals Add-on) **Unto Dust**
+- 🚫 (Audio Add-on) **Haunted Barrows**
+- 🚫 (Audio Add-on) **Heartthrum**
+- 🚫 (Dialogue Add-on) **Greetings for No Lore**
+- 🚫 (Cities and Towns Add-on) **Tamriel_Data**
+- 🚫 (Cities and Towns Add-on) **Solstheim - Tomb of the Snow Prince**
+- 🚫 (Cities and Towns Add-on) **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**
+- 🚫 (Cities and Towns Add-on) **Nordic Dagon Fel**
+- 🚫 (Cities and Towns Add-on) **Shrine of Azura**
+- 🚫 (Equipment Add-on) **Complete and Revised Dreugh Armor**
+- 🚫 (Equipment Add-on) **Complete and Revised Imperial Studded Leather Armor**
+- 🚫 (Equipment Add-on) **Complete and Revised Nordic Iron Armor**
+- 🚫 (Equipment Add-on) **Complete Duke's Guard Silver**
+- 🚫 (Equipment Add-on) **Concept Art Daedric Helmets**
+- 🚫 (Equipment Add-on) **Redoran War Armor and Sathil Mercenary Equipment**
+- 🚫 (Equipment Add-on) **Redoran War Armor**
+- 🚫 (Equipment Add-on) **Sathil Mercenary Armor**
+- 🚫 (Equipment Add-on) **Oriental Ebony Weapons**
+- 🚫 (Equipment Add-on) **Community Equipment Integration**
+- 🚫 (Equipment Add-on) **Antares' Mage Robes**
+- 🚫 (OAAB_Data Add-on) **OAAB_Data**
+- 🚫 (OAAB_Data Add-on) **OAAB Integrations**
+- 🚫 (OAAB_Data Add-on) **OAAB Dwemer Lightning Rods**
+- 🚫 (OAAB_Data Add-on) **OAAB Dwemer Pavements**
+- 🚫 (OAAB_Data Add-on) **OAAB Weapons Integrated**
+</details>
+
+<details>
 	<summary>02-02-2022</summary>
 
 - ⚠️ (User Interface) Moved **Pass the Time** under Hotkeys.
