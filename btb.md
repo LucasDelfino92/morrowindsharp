@@ -275,16 +275,16 @@ Better Waterfalls
 Near Vanilla Road Sign Replacer
 Remiros' Groundcover
 Ashmire Replacer
+Distant Mournhold
 Inscribed Maar Gan Rock
 Know Thy Ancestors
+Nordic Chest Replacer
+Nordic Chest Replacer ESP Replacer
 Trackless Grazeland
 Grass for Trackless Grazeland
 3D Vines Vanilla Mushroom Trees
 Vivec Palace Water Replacer
 Well Diversified
-Distant Mournhold
-Nordic Chest Replacer
-Nordic Chest Replacer ESP Replacer
 Nords Shut Your Windows
 Let There Be Darkness
 Watch the Skies
@@ -441,11 +441,12 @@ Better_Typography_Bookarts_Fix.ESP
 Yet Another Guard Diversity - Regular.ESP
 Incarnates Overhauled.ESP
 NearVanillaRoadSigns.ESP
+Mournhold LOD.ESP
 Know Thy Ancestors.ESP
 Inscribed Maar Gan Rock.ESP
-Trackless Grazeland.ESP
-Mournhold LOD.ESP
 Nordic Chest Replacer.ESP
+Trackless Grazeland.ESP
+Well Diversified.ESP
 GITD_WL_RR_Interiors.ESP
 TheMidnightOil.ESP
 Complete Armor Joints.ESP
@@ -532,6 +533,9 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+02-04-2022
+- Updated mod and load order for the latest addon.md.
 
 01-28-2022
 - Updated BTBGI (Necro Edit) Tweaked and OAAB Weapons Integrated installation instructions.
