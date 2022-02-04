@@ -351,9 +351,7 @@ Solstheim - Tomb of the Snow Prince
 Solstheim - Tomb of the Snow Prince Graphical Replacer
 Solstheim - Tomb of the Snow Prince ESM Replacer
 STOTSP Bloodmoon Rebalance Patch
-Dagon Fel Mill Redux
 Nordic Dagon Fel
-Redaynia Restored
 Shrine of Azura
 No-Frills Open Vivec
 No-Frills Closed Molag Mar
@@ -477,9 +475,7 @@ Its a deal.ESP
 FMI_#NotAllDunmer.ESP
 Greetings for No Lore.ESP
 outfit greetings tweaked.ESP
-Dagon Fel Mill.ESP
 Nordic Dagon Fel.ESP
-Redaynia Restored.ESP
 ShrineOfAzura.ESP
 No-Frills Closed Molag Mar.ESP
 No-Frills Open Vivec.ESP
