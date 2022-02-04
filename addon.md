@@ -748,11 +748,15 @@ Ongoing project dedicated to integrating into the game a variety of community-ma
 Files to install:
 - **RuffinVangarr Armors Integrated** (Main files)  
   Merge of Complete Dreugh Armor, Complete Imperial Studded Leather Armor, Complete Nordic Iron Armor, Complete Duke's Guard Silver, and Concept Art Daedric Helmets, with expanded integration.
-- **Redoran War Armor and Sathil Mercenary Equipment Integrated** (Main files)  
+  - BAIN options to install:
+    - [X] 00 Core
+    - [X] 01 Bloodmoon Rebalance Patch
+    - [X] 02 Yet Another Guard Diversity Patch
+- **Redoran War and Sathil Mercenary Armor Integrated** (Main files)  
   Expands on the in-game integration of Redoran War Armor. Also fixes journal issues with the armor's quest.
   - BAIN options to install:
-    - [X] Core
-    - [X] Nerevarine Service Refusal Patch
+    - [X] 00 Core
+    - [X] 01 Nerevarine Service Refusal Patch
 - **Oriental Ebony Weapons Integrated** (Main files)  
   Expands on the in-game integration of oriental ebony weapons from natinnet.
   - BAIN options to install:
