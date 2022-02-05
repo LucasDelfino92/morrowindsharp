@@ -800,6 +800,9 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Gameplay Add-on) Modified **Chargen Revamped - Expanded Lands** installation instructions.
 - ⚠️ (Visuals Add-on) Modified **Well Diversified** installation instructions.
 - ⚠️ (Cities and Towns Add-on) Modified **Ownership Overhaul Patches** installation instructions.
+- 🚫 (Gameplay Add-on) **Character Backgrounds**
+- 🚫 (Gameplay Add-on) **Actually Unlimited Skeleton Keys**
+- 🚫 (Gameplay Add-on) **Drop Light**
 - 🚫 (Visuals Add-on) **Ashmire Replacer**
 - 🚫 (Visuals Add-on) **Inscribed Maar Gan Rock**
 - 🚫 (Visuals Add-on) **Throbbing Meat - a Corprus Meat Replacer**
@@ -811,6 +814,8 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 (Visuals Add-on) **Unto Dust**
 - 🚫 (Audio Add-on) **Haunted Barrows**
 - 🚫 (Audio Add-on) **Heartthrum**
+- 🚫 (Audio Add-on) **Outdoor Banners With Sound**
+- 🚫 (Audio Add-on) **Water Sounds**
 - 🚫 (Dialogue Add-on) **Greetings for No Lore**
 - 🚫 (Cities and Towns Add-on) **Tamriel_Data**
 - 🚫 (Cities and Towns Add-on) **Solstheim - Tomb of the Snow Prince**
