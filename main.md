@@ -456,148 +456,55 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 
 ## FINISHING TOUCHES
 
+### Mod config
+
+[**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
+Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
+- BAIN options to install:
+  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
+
+> ℹ️ This file includes configuration for mods not present in this guide.
+
+<details>
+	<summary>List of configured mods</summary>
+
+- [ ] 01 Sophisticated Save System  
+  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
+- [ ] 02 Continue  
+  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
+- [ ] 02 Quick Equip  
+  Assigns the E key as the key for equipping items.
+- [ ] 02 Smart Journal  
+  Disables immersion breaking options and quest prefixes, removing lag when opening the journal and quests menues.
+- [ ] 03 GMST Menu  
+  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
+- [ ] 03 Security Enhanced  
+  Disables automatic probe-equip on trapped object activation.
+- [ ] 04 Lucky Strike  
+  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
+- [ ] 04 Magicka Based Skill Progression  
+  Disables logging, and slows down skill experience gain per magicka spent.
+- [ ] 04 Ashfall  
+  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
+- [ ] 05 Controlled Consumption  
+  Sets the consumption module to Vanilla NPC Style (Necro Edit).
+- [ ] 06 Let There Be Darkness  
+  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
+- [ ] 06 Watch the Skies  
+  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
+- [ ] 06 Weather Adjuster  
+  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
+</details>
+
 ### Mod order and load order
 
-The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
+[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
+Adjusts mod order and load order for Morrowind Sharp to work as intended.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
 
-<details>
-	<summary>Mod order</summary>
-
-```
-DLC: Tribunal
-DLC: Bloodmoon
-MGE XE Shader Pack
-Pixel Shader Style Water for MGE XE
-Patch for Purists
-Patch for Purists Merged Fixes
-The Publicans
-Expeditious Exit
-Memory Monitor
-Sophisticated Save System
-Correct UV Rocks
-Creature VFX Restoration
-Rope Fence Fix
-Weapon Sheathing
-Morrowind Optimization Patch
-Graphic Herbalism
-Intelligent Textures
-Glow in the Dahrk 
-Project Atlas
-Project Atlas - Intelligent Textures Fix
-Better Readable Beauty Font
-Better Daedric Font
-Magic Icons
-Continue
-New Game Confirmation
-UI Expansion
-Companion Health Bars
-Alchemical Knowledge
-Better Questlist
-Smart Journal
-What Are My Attributes
-Hotkeys Extended
-Pass the Time
-Quick Equip
-Right Click Menu Exit
-Security Enhanced
-Torch Hotkey
-Diligent Defenders
-Easy Escort
-GMST Menu
-Graphic Herbalism - Ash Yam Collision Switch
-Graphic Herbalism Lighting
-Hide the Skooma
-Improved Temple Experience
-Smart Ammo
-Expansion Delay
-Early Transport to Mournhold
-Area Effect Arrows Integrated
-Master Index (UMOPP)
-Better Propylon Teleport Script
-Magicka Based Skill Progression
-Marksman Rebalanced
-Sneaky Strike
-Useful Bound Armor
-Restocking Alchemy Essentials
-MULE - Mort's Ultimate Leveling Experience
-Pickpocket
-Stealth Improved
-Alchemy Takes Time
-Controlled Consumption
-Dungeons Rest
-Harder Barter
-Morrowind Anti-Cheese
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
-Title Screen Reworked
-Widescreen Splash Replacer
-Comrade Raven's Book Arts Replacer
-Comrade Raven's Book Arts Replacer ESP Replacer
-Pete's Scroll 2018 ...in 2020
-Familiar Faces
-Facelift Meshes
-Yet Another Guard Diversity
-Better Waterfalls
-Near Vanilla Road Sign Replacer
-Remiros' Groundcover
-Nords Shut Your Windows
-Let There Be Darkness
-Watch the Skies
-Weather Adjuster
-Weapon Sheathing Bow Position Edit
-Weapon Sheathing Additions
-Subtle Magic Glow
-Subtle Smoke
-No Female Nord Screeching
-Sheep-no-More
-Shut the Fuck up Cliff Racers
-MUSE 2 - Morrowind Music System Extended
-MUSE 2.0.2 - Necro Sig Edit
-TUBES4MUSE
-Great Service
-LDM - Context Matters
-MWSE Config
-```
-</details>
-
-The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
-
-<details>
-<summary>Load order</summary>
-
-```
-Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
-Patch for Purists.esm
-Patch for Purists - Book Typos.ESP
-Patch for Purists - Semi-Purist Fixes.ESP
-Patch for Purists - Merged Fixes.ESP
-The Publicans.ESP
-chuzei_helm_no_neck.ESP
-Lake Fjalding Anti-Suck.ESP
-Improved Temple Experience.ESP
-Expansion Delay.ESP
-Early Transport to Mournhold.ESP
-Area Effect Arrows Integrated.ESP
-master_index.ESP
-Better Propylon Teleport Warp-Master Index.ESP
-Restocking Alchemy Essentials.ESP
-Morrowind Anti-Cheese.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
-Better_Typography_Bookarts_Fix.ESP
-Yet Another Guard Diversity - Regular.ESP
-NearVanillaRoadSigns.ESP
-GITD_WL_RR_Interiors.ESP
-No Female Nord Screeching.ESP
-Great Service.ESP
-LDM - Context Matters 1.5.ESP
-```
-
-</details>
+> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
+ 
+> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Synchronizing mod masters
 
@@ -689,48 +596,6 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
-
-### Mod config
-
-A number of mods require additional in-game configuration.
-	
-[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
-Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
-- BAIN options to install:
-  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
-
-> ℹ️ This file includes configuration for mods not present in this guide.
-
-<details>
-	<summary>List of configured mods</summary>
-
-- [ ] 01 Sophisticated Save System  
-  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
-- [ ] 02 Continue  
-  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
-- [ ] 02 Quick Equip  
-  Assigns the E key as the key for equipping items.
-- [ ] 02 Smart Journal  
-  Disables immersion breaking options and quest prefixes, removing lag when opening the journal and quests menues.
-- [ ] 03 GMST Menu  
-  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
-- [ ] 03 Security Enhanced  
-  Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Lucky Strike  
-  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
-- [ ] 04 Magicka Based Skill Progression  
-  Disables logging, and slows down skill experience gain per magicka spent.
-- [ ] 04 Ashfall  
-  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
-- [ ] 05 Controlled Consumption  
-  Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 06 Let There Be Darkness  
-  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- [ ] 06 Watch the Skies  
-  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
-- [ ] 06 Weather Adjuster  
-  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
-</details>
 
 ### Additional MCP patches
 
