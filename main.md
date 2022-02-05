@@ -726,16 +726,9 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Gameplay Add-on) Moved **Brutal Backstabbing**, **Lucky Strike**, and **Poison Crafting** under Combat mechanics. **Restocking Alchemy Essentials** now lists only the Core BAIN option, with the add-on guide additionally having the Poison Crafting Patch BAIN option.
 - ⚠️ (Gameplay Add-on) Moved **FMI - Hospitality Papers** under Service refusal.
 - ⚠️ (Overhauls Add-on) Moved **Ashfall** under Survival.
-- ⚠️ (Load order Add-on) Removed **Lake Fjalding Anti-Suck.ESP**, as it is included in **STOTSP**.
 - 🚫 (Patches) Removed **The Publicans ESP Replacer**, as the latest Nexus release includes the appropriate Patch for Purists fixes.
 </details>
 
-<details>
-	<summary>02-01-2022</summary>
-
-- Elaborated on what certain BAIN options do in cases when it wasn't very clear.
-- ⚠️ (Visuals) **Intelligent Textures**. The Atlas option is no longer needed in the BAIN installer as Project Atlas overwrites it entirely.
-</details>
 
 <details>
 	<summary>01-28-2022</summary>
@@ -750,8 +743,6 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Gameplay Add-on) Added **FMI - Service Refusal and Contraband ESP Replacer**.
 - ⚠️ (Visuals Add-on) Added **Nordic Chest Replacer ESP Replacer**.
 - ⚠️ (Visuals Add-on) Added **Complete Armor Joints ESP Replacer** and **Better Fitted Female Armors ESP Replacer**.
-- ⚠️ (Cities Add-on) Added **Solstheim - Tomb of the Snow Prince ESM Replacer**.
-- ⚠️ (OAAB_Data Add-on) Dropped most of **OAAB Integrations**, and updated **OAAB Weapons Integrated** installation instructions. Unlike **Scroll Qualities**, I don't feel the rest of the integrations are particularly necessary.
 </details>
 
 <details>
@@ -762,13 +753,6 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 </details>
 
 <details>
-	<summary>01-20-2022</summary>
-
-- ⚠️ (Visuals) Moved **Incarnates Overhauled** to the add-on guide.
-- ⚠️ (Mod Config) Removed non-main guide BAIN options.
-</details>
-
-<details>
 	<summary>01-19-2022</summary>
 
 - ⚠️ (Setup) Added link to **.NET 6 Runtime**, required for latest **TES3Merge**.
@@ -776,7 +760,6 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - ⚠️ (Gameplay QOL) Updated **Graphic Herbalism**'s installation instructions. The patches collection is no longer needed, as **Project Atlas** already includes a patch for the mod. The mod order has been updated as a consequence, with the mod requiring to be loaded before **Project Atlas**.
 - ⚠️ (Overhauls) Updated **Controlled Consumption**.
 - ⚠️ (Overhauls Add-on) Updated **Silver Tongue** to address a MWSE.log issue.
-- ⚠️ (Visuals Add-on) Updated **Glowbugs** BAIN instructions.
 </details>
 
 <details>
@@ -791,15 +774,6 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 (User Interface) **Companion Health Bars**.
 - 🆕 (User Interface Add-on) **Quick Loadouts**.
 - 🆕 (User Interface Add-on) **Character Creation Name Generator**.
-- 🆕 (Gameplay Add-on) **Merlord's Character Backgrounds**.
-</details>
-
-<details>
-	<summary>01-07-2022</summary>
-
-- ⚠️ (Patches) **AtlAd**. Updated install instructions to include **02 GITD**.
-- ⚠️ (OAAB_Data Add-on) **OAAB_Data**. Updated BAIN instructions for latest release.
-- ⚠️ (OAAB_Data Add-on) **OAAB Scroll Qualities**. Added missing BAIN instructions.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
