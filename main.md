@@ -257,15 +257,15 @@ Provides a configurable restriction on the amount of potions and ingredients the
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
 - Install as **Harder Barter (Sigourn Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version makes its price progression slightly more forgiving but much more consistent at low value ranges.
 
-[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
-- Install as **Morrowind Anti-Cheese**.
+- Install as **Morrowind Anti-Cheese (Sig Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
