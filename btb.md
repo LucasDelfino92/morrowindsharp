@@ -178,7 +178,6 @@ Smart Ammo
 Early Transport to Mournhold
 Master Index (UMOPP)
 Better Propylon Teleport Script
-Character Backgrounds
 Chargen Revamped - Expanded Lands
 Brutal Backstabbing
 Lucky Strike - A Critical Hit Mod
@@ -201,8 +200,6 @@ Magicka Based Skill Progression
 Marksman Rebalanced
 Sneaky Strike
 Useful Bound Armor
-Actually Unlimited Skeleton Keys
-Drop Light
 Hold Your Breath
 Light Decay
 Lucky Loot
@@ -292,8 +289,6 @@ AURA
 Quieter Doors and Spells
 Spell Sounds Enhanced
 Character Sound Overhaul
-Outdoor Banners With Sound
-Water Sounds
 MUSE 2 - Morrowind Music System Extended
 MUSE 2.02 - Necro Edit
 MUSE 2 - Vanilla Intro Music
@@ -347,7 +342,6 @@ Early Transport to Mournhold.ESP
 Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
-Character Backgrounds.ESP
 CREL_Vanilla_v3.1.ESP
 mwse_PoisonCrafting.ESP
 Enhanced Light.ESP
@@ -393,7 +387,6 @@ Flies.ESP
 The Dream is the Door.ESP
 No Female Nord Screeching.ESP
 Quieter Doors and Spells.ESP
-Outdoor Banners With Sound.ESP
 Great Service.ESP
 LDM - Context Matters 1.5.ESP
 Idle Talk.ESP
