@@ -103,40 +103,6 @@ MWSE Config
 	<summary>Load order</summary>
 
 ```
-Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
-Patch for Purists.esm
-Ownership Overhaul.esm
-Patch for Purists - Book Typos.ESP
-Patch for Purists - Semi-Purist Fixes.ESP
-Patch for Purists - Merged Fixes.ESP
-Expansion Delay.ESP
-The Publicans.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
-Dubdilla Location Fix.ESP
-Services Restored.ESP
-Silt Strider Animation Restored.ESP
-Under Construction.ESP
-chuzei_helm_no_neck.ESP
-Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-No Thank You.ESP
-Improved Temple Experience.ESP
-Early Transport to Mournhold.ESP
-Area Effect Arrows Integrated.ESP
-master_index.ESP
-Better Propylon Teleport Warp-Master Index.ESP
-CREL_Vanilla_v3.1.ESP
-mwse_PoisonCrafting.ESP
-Enhanced Light.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-FMI_ServiceRefusal_Contraband.ESP
-More Exclusive Factions.ESP
-Clean Temple Service Refusal.ESP
-No Beds for the Diseased.ESP
-Religions Elaborated.ESP
-Speed and Movement.ESP
 BTB's Game Improvements (Necro Edit) Tweaked.esp
 BTBGI Poison Crafting Patch.ESP
 Balanced Passive Races and Birthsigns Tweaked.esp
@@ -148,39 +114,14 @@ Mort's Rebalance Series BTBGI Patch.ESP
 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
 Realistic_Repair_Add-on.ESP
 Realistic Repair Add-on BTBGI Patch.ESP
-Ashfall.ESP
 Area Effect Projectiles Integrated.esp
 EcoAdjCrime (Necro Edit).esp
-Better_Typography_Bookarts_Fix.ESP
-Yet Another Guard Diversity - Regular.ESP
-Incarnates Overhauled.ESP
-NearVanillaRoadSigns.ESP
-Mournhold LOD.ESP
-Know Thy Ancestors.ESP
-Nordic Chest Replacer.ESP
-Trackless Grazeland.ESP
-Well Diversified.ESP
-GITD_WL_RR_Interiors.ESP
-TheMidnightOil.ESP
 Complete Armor Joints.ESP
 Complete Armor Joints BTBGI Patch.ESP
 Alex's Better Fitted Female Armors.ESP
 Alex's Better Fitted Female Armors BTBGI Patch.ESP
 FemalePants.ESP
 FemalePants BTBGI Patch.ESP
-Flies.ESP
-The Dream is the Door.ESP
-No Female Nord Screeching.ESP
-Quieter Doors and Spells.ESP
-Great Service.ESP
-LDM - Context Matters 1.5.ESP
-Idle Talk.ESP
-Its a deal.ESP
-FMI_#NotAllDunmer.ESP
-outfit greetings tweaked.ESP
-No-Frills Closed Molag Mar.ESP
-No-Frills Open Vivec.ESP
-No-Frills Series Ownership Overhaul Patch.ESP
 BTBGI Loot Patch.ESP
 ```
 </details>
@@ -189,7 +130,7 @@ BTBGI Loot Patch.ESP
 
 A number of mods require additional in-game configuration.
 	
-[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
+[**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
