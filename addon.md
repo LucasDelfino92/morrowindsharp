@@ -179,9 +179,6 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 ### Character creation
 
-[**Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795)  
-Adds a new Background Menu, triggered at the end of character generation. Select from 27 different backgrounds, each with their own unique effects. Backgrounds range from simple stat changes to fully scripted events that completely change the way you play the game.
-
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell or Solstheim.
 - Hide all plugins minus **CREL_Vanilla_v3.1.ESP**.
@@ -245,7 +242,7 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 - BAIN options to install:
   - [X] 00 - Core
 
-### Services and service refusal
+### Service mechanics
 
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
@@ -272,13 +269,7 @@ Adds healing services to healers.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
 
-### Misc tweaks
-
-[**Actually Unlimited Skeleton Keys**](https://www.nexusmods.com/morrowind/mods/47972)  
-Gives the Skeleton Key infinite uses and a unique tooltip to reflect this.
-
-[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694)  
-Causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.
+### Misc mechanics
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
@@ -563,13 +554,6 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 
 > ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
 
-[**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)  
-Outdoor banners now play sound alongside their animations. The sounds are noticeable, but not overly loud.
-- **Rename** to **Outdoor Banners With Sound**.
-
-[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794)  
-Simulates water sounds when colliding with generic fake animated water meshes, like those in Vivec's Palace.
-
 ## DIALOGUE ADD-ON
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
@@ -703,7 +687,6 @@ Early Transport to Mournhold
 Area Effect Arrows Integrated
 Master Index (UMOPP)
 Better Propylon Teleport Script
-Character Backgrounds
 Chargen Revamped - Expanded Lands
 Brutal Backstabbing
 Lucky Strike - A Critical Hit Mod
@@ -727,8 +710,6 @@ Marksman Rebalanced
 Sneaky Strike
 Useful Bound Armor
 Restocking Alchemy Essentials
-Actually Unlimited Skeleton Keys
-Drop Light
 Hold Your Breath
 Light Decay
 Lucky Loot
@@ -820,8 +801,6 @@ AURA
 Quieter Doors and Spells
 Spell Sounds Enhanced
 Character Sound Overhaul
-Outdoor Banners With Sound
-Water Sounds
 MUSE 2 - Morrowind Music System Extended
 MUSE 2.02 - Necro Edit
 MUSE 2 - Vanilla Intro Music
@@ -870,7 +849,6 @@ Area Effect Arrows Integrated.ESP
 master_index.ESP
 Better Propylon Teleport Warp-Master Index.ESP
 Restocking Alchemy Essentials.ESP
-Character Backgrounds.ESP
 CREL_Vanilla_v3.1.ESP
 mwse_PoisonCrafting.ESP
 Restocking Alchemy Essentials PoisonCrafting Patch.ESP
@@ -906,7 +884,6 @@ Flies.ESP
 The Dream is the Door.ESP
 No Female Nord Screeching.ESP
 Quieter Doors and Spells.ESP
-Outdoor Banners With Sound.ESP
 Great Service.ESP
 LDM - Context Matters 1.5.ESP
 Idle Talk.ESP
