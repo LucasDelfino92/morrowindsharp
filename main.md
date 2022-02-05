@@ -11,7 +11,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 ## SHADERS
 
-[**MGE XE Shader Pack (26-11-2021)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack%20Rev%20(26-11-2021).7z)  
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
@@ -30,6 +30,7 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 
 [**Patch for Purists - Merged Fixes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Patch%20for%20Purists%20-%20Merged%20Fixes.7z)  
 Solves conflicts between the Book Typos and the Semi-Purist Fixes plugins.
+- Install as **Patch for Purists - Merged Fixes**.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -45,7 +46,7 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 
 ### Mesh fixes and optimization
 
-[**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks%201.0.1.7z)  
+[**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks.7z)  
 Fixes UV mapping on rocks and stones.
 
 > ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
@@ -53,7 +54,7 @@ Fixes UV mapping on rocks and stones.
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures that weren't displayed for technical reasons.
 
-[**Rope Fence Fix**](https://www.nexusmods.com/morrowind/mods/45741)  
+[**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)  
@@ -71,24 +72,20 @@ Greatly improves performance and fixes some mesh errors.
 
 > ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
-[**Project Atlas**](https://github.com/revenorror/Project-Atlas)  
+[**Project Atlas Master**](https://github.com/revenorror/Project-Atlas)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. The mod mantains parity with the **Morrowind Optimization Patch**, further improving performance on existing meshes.
 - Click on the green **Code** button at the top of the page and then **Download ZIP**.
 - Extract the contents of the archive.
-- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
+- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas Master**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Textures - Intelligent Textures  
-    Compatibility patch for Intelligent Textures. Uses compatible texture atlases.
+  - [X] 01 Textures - Vanilla
   - [X] 05 Glow in the Dahrk Patch  
     Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
   - [X] 06 Graphic Herbalism Patch  
     Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
-[**Project Atlas - Intelligent Textures Fix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Project%20Atlas%20-%20Intelligent%20Textures%20Fix.7z)  
-Fixes the buggy atlased texture for shacks.
-
-> ℹ️ We will install **Graphic Herbalism**, **Intelligent Textures**, and **Glow in the Dahrk** in upcoming sections, and load them before **Project Atlas** for it to patch them as intended.
+> ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before **Project Atlas** for it to patch them as intended.
 
 > ⚠️ Note **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
@@ -123,7 +120,7 @@ Adds a confirmation popup when you click on the New Game button.
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
+[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
@@ -171,18 +168,18 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
 In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
-[**Graphic Herbalism MWSE**](https://www.nexusmods.com/morrowind/mods/46599)  
+[**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - BAIN options to install:
   - [X] 00 Core + Vanilla Meshes
  
-[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+[**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
 Fixes a collision bug with harvested Ash Yams.
 
 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
 Makes picking a glowing plant also remove the glow-light.
 
-[**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
+[**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
@@ -202,22 +199,22 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-Adds new arrows that explode on impact. Based on the official [**Area Effect Arrows**](https://en.uesp.net/wiki/Morrowind:Area_Effect_Arrows) add-on.
+Official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
 - Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
 
 > ℹ️ This plugin contains only the integration of the area effect arrows, without any additional balance or visual tweaks.
 
-[**Master Index (UMOPP)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index%20(UMOPP).7z)  
-Adds a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. Official [**Master Index**](https://en.uesp.net/wiki/Morrowind:Master_Index) add-on, with fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
+[**Master Index**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index.7z)  
+Official plugin adding a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. Includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
-- **Rename** the file to **Better Propylon Teleport Script** on MO2 installation.
+- Install as **Better Propylon Teleport Script**.
 - Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
 > ℹ️ This plugin is compatible with the Master Index official plugin.
 
-[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
+[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
@@ -231,7 +228,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
-- **Rename** the file to **Restocking Alchemy Essentials** on MO2 installation.
+- Install as **Restocking Alchemy Essentials**.
 - BAIN options to install:
   - [X] 00 Core
 
@@ -248,27 +245,27 @@ Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time me
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-[**Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/50446)  
+[**MWSE Alchemy Takes Time (inpv edit)**](https://www.nexusmods.com/morrowind/mods/50446)  
 Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
-- **Rename** the file to **Controlled Consumption** on MO2 installation.
+- Install as **Controlled Consumption (G7 - Sig- Necro Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
-[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Harder Barter (Sigourn Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
-- **Rename** the file to **Harder Barter** on MO2 installation.
+- Install as **Harder Barter (Sigourn Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version makes its price progression slightly more forgiving but much more consistent at low value ranges.
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
-- **Rename** the file to **Morrowind Anti-Cheese** on MO2 installation.
+- Install as **Morrowind Anti-Cheese**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
@@ -285,14 +282,19 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Texture packs
 
-[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. The only texture pack you will ever need.
-- BAIN options to install:
-  - [X] 00 Core
+[**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+
+Files to install:
+- **Morrowind Enhanced Textures** (Main files)
+- **Indoril shield hotfix* (Optional files)
+  - Install as **Indoril shield hotfix**.
+- **Atlas textures** (Optional files)
+  - Install as **Atlas textures**.
 
 ### Menus and splash screens
 
-[**Title Screen Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
 
 Files to install:
@@ -321,7 +323,7 @@ Files to install:
 
 ### Characters and NPCs
 
-[**Familiar Faces**](https://www.nexusmods.com/morrowind/mods/50093)  
+[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
@@ -329,7 +331,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 Files to install:
 - **kart_facelift_meshes** (Main files)
-- **Rename** the file to **Facelift Meshes** on MO2 installation.
 
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
@@ -360,6 +361,17 @@ Adds groundcover to almost all regions.
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
+### VFX
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- BAIN options to install:
+  - [X] fade  
+    Non-moving effect that fades in and out.
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
+
 ### Weather and lighting
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
@@ -379,7 +391,7 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
   - [X] 03 Vanilla style sunrays  
     Adds interior sunrays. Windows use the original vanilla stones.
 
-[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
+[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
@@ -403,22 +415,11 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
-[**Weapon Sheathing Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
 Tweaks bows so that they line up better with the sheathing animation.
 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
 Adds sheaths to weapons not covered by Weapon Sheathing.
-
-### VFX
-
-[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- BAIN options to install:
-  - [X] fade  
-    Non-moving effect that fades in and out.
-
-[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
-Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ## AUDIO
 
@@ -435,10 +436,11 @@ Reduces the frequency of idle Cliff Racer screeches.
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
-[**MUSE 2.0.2 - Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
+[**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
 Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
+- Install as **MUSE 2.0.2 Necro-Sig Edit**.
 
-[**TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
+[**TUBES4MUSE**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
 - After installing the mod, copy the files from **Music/MS/general/Dungeon General** into **Music/MS/general/underwater**.
 
@@ -792,6 +794,13 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>02-05-2022</summary>
+
+- 🆕 (Visuals) **Morrowind Enhanced Textures**
+- 🚫 (Visuals) **Intelligent Textures**
+</details>
 
 <details>
 	<summary>02-04-2022</summary>
