@@ -14,25 +14,22 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 ### Bug fixes
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- **Rename** the file to **Adamantium Ore Fix** on MO2 installation.
-
 [**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
 
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
 
 [**Divayth Fyr Puzzle Fixed ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Divayth%20Fyr%20Puzzle%20Fixed%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened. Includes fixes from Patch for Purists. Also includes patch for Ownership Overhaul.
+
+> [**Link**](https://www.nexusmods.com/morrowind/mods/45155) to original mod by **Remiros**.
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- **Rename** the file to **Services Restored** on MO2 installation.
+- Install as **Services Restored**.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -49,19 +46,19 @@ Carries over unique item information, such as condition and script data when enc
 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
+[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
-[**Putting Power In Willpower**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%202.0%20(Necro%20Edit).7z)  
+[**Putting Power In Willpower**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
@@ -116,7 +113,7 @@ Replaces the in-game world map with a realistic map, based on the paper maps tha
 
 > ℹ️ Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
 
-[**Map Replacements for Maps and Compass Wagner Style**](https://www.nexusmods.com/morrowind/mods/48460)  
+[**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
 - BAIN options to install:
   - [X] 00 Yellowed Maps
@@ -181,7 +178,9 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell or Solstheim.
-- Hide all plugins minus **CREL_Vanilla_v3.1.ESP**.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
+- Uncheck all plugins minus **CREL_Vanilla_v3.1.ESP**. Click **OK**.
 
 ### Combat mechanics
 
@@ -198,11 +197,14 @@ Grants the ability to use potions offensively, as poisons applied to your weapon
   - [X] 01 Labelled Potions  
     Adds effect labels to potion meshes.
 
-[**Restocking Alchemy Essentials + Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Restocking Alchemy Essentials Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
-- **Rename** the file to **Restocking Alchemy Essentials + Poison Crafting Patch** on MO2 installation.
+- Right-click on your installed **Restocking Alchemy Essentials** mod. Click **Reinstall Mod**.
 - BAIN options to install:
+  - [X] 00 Core
   - [X] 01 MWSE Poison Crafting Patch
+- Click **OK**.
+- Click **Replace** when asked about the mod already existing.
 
 ### Magic mechanics
 
@@ -225,12 +227,13 @@ Adds negative consequences to casting spells that are beyond the caster's abilit
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 - BAIN options to install:
   - [X] 00 - Core
-  - [X] 01 - Cast VFX
 
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell. 
 - BAIN options to install:
   - [X] 00 - Core Files
+  - [X] 01 - Optional FPS  
+    Improves performance at the cost of visuals.
 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
@@ -247,11 +250,11 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
 
-[**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal.
-
 [**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. Includes fixes from Patch for Purists.
+- Install as **FMI - Service Refusal and Contraband ESP Replacer**.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47456) to original mod by **PoodleSandwich**.
 
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
@@ -263,9 +266,11 @@ Adds extra service refusal dialogue once you progress further into the main ques
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
+- Install as **No Beds for the Diseased**.
 
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers.
+- Install as **Religions Elaborated (Healers)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
 
@@ -294,7 +299,7 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%201.1%20(Necro%20Edit).7z)  
+[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
@@ -584,311 +589,6 @@ Compatibility patches for a series of mods.
 ## FINISHING TOUCHES
 
 ### Mod order and load order
-
-The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
-
-<details>
-	<summary>Mod order</summary>
-
-```
-DLC: Tribunal
-DLC: Bloodmoon
-MGE XE Shader Pack
-Pixel Shader Style Water for MGE XE
-Patch for Purists
-Patch for Purists - Merged Fixes
-Expansion Delay
-The Publicans
-Expeditious Exit
-Memory Monitor
-Sophisticated Save System
-Adamantium Ore Fix
-Adamantium Ore Fix ESP Replacer
-Divayth Fyr Puzzle Fixed
-Divayth Fyr Puzzle Fixed ESP Replacer
-Dubdilla Location Fix
-Services Restored
-Silt Strider Animation Restored
-Under Construction
-Borrowed Time
-Consistent Enchanting
-Fortify MAX
-Just Drop It
-Loading Doors Lock Tune
-Putting Power in Willpower
-Run Fix
-Quest Skill Reward Fix
-Skill Increase GMST Fix
-Thrown Projectiles Revamped
-Correct UV Rocks
-Creature VFX Restoration
-Rope Fence Fix
-Weapon Sheathing
-Morrowind Optimization Patch
-Graphic Herbalism
-Intelligent Textures
-Glow in the Dahrk
-Project Atlas
-Project Atlas - Intelligent Textures Fix
-Better Scamps
-Correct UV Mudcrabs
-Glowing Flames
-I Lava Good Mesh Replacer
-Improved Thrown Weapon Projectiles
-Better Readable Beauty Font
-Better Daedric Font
-Magic Icons
-Continue
-New Game Confirmation
-UI Expansion
-Companion Health Bars
-Alchemical Knowledge
-Better Questlist
-Smart Journal
-What Are My Attributes
-Character Creation Name Generator
-Map and Compass
-Map Replacements for Maps and Compass
-Book Worm
-Essential Indicators
-Consistent Keys
-Propylon Index Renamer
-Soulgem Renamer
-No Thank You
-Shrine Tooltips
-Clock Block
-HUD Weapon Charge
-Hotkeys Extended
-Pass the Time
-Quick Equip
-Right Click Menu Exit
-Security Enhanced
-Torch Hotkey
-Better Buoyancy
-Book Pickup
-Kill Command
-Quick Loadouts
-Melchior's Magnificent Manuscripts
-Switchable Scriptures
-Diligent Defenders
-Easy Escort
-GMST Menu
-Graphic Herbalism - Ash Yam Collision Switch
-Graphic Herbalism Lighting
-Hide the Skooma
-Improved Temple Experience
-Smart Ammo
-Early Transport to Mournhold
-Area Effect Arrows Integrated
-Master Index (UMOPP)
-Better Propylon Teleport Script
-Chargen Revamped - Expanded Lands
-Brutal Backstabbing
-Lucky Strike - A Critical Hit Mod
-Poison Crafting
-Restocking Alchemy Essentials + Poison Crafting Patch
-Magicka Expanded
-Miscast Enhanced
-MM - Enhanced Detection
-MM - Enhanced Light
-MM - Enhanced Invisibility
-MM - Enhanced Telekinesis
-FMI - Hospitality Papers Expanded
-FMI - Service Refusal and Contraband
-FMI - Service Refusal and Contraband ESP Replacer
-More Exclusive Factions
-Nerevarine Service Refusal
-No Beds for the Diseased
-Religions Elaborated (Healers)
-Magicka Based Skill Progression
-Marksman Rebalanced
-Sneaky Strike
-Useful Bound Armor
-Restocking Alchemy Essentials
-Hold Your Breath
-Light Decay
-Lucky Loot
-Realistic Movement Speeds
-Smarter Soultrap
-Speed and Movement Rebalanced
-Wading in Water MW
-Wings of Will
-MULE - Mort's Ultimate Leveling Experience 
-Class Skill Limit
-Nimble Armor
-Pickpocket
-Stealth Improved
-Locks and Traps Detection
-Visually Trapped Objects
-Alchemy Takes Time
-Controlled Consumption
-Dungeons Rest
-Harder Barter
-Morrowind Anti-Cheese
-Beware the Sixth House (Sixth House Overhaul)
-Tribunal Rebalance
-Bloodmoon Rebalance
-Ownership Overhaul
-No Rest Without Beds
-Reactive Resistance
-Realistic Repair
-Realistic Repair - Add-on
-Silver Tongue
-Skills Module
-Ashfall
-Title Screen Reworked
-Widescreen Splash Replacer
-Comrade Raven's Book Arts Replacer
-Comrade Raven's Book Arts Replacer ESP Replacer
-Pete's Scroll 2018 ...in 2020
-Widescreen Splash Additions
-Familiar Faces
-Facelift
-Yet Another Guard Diversity
-Incarnates Overhauled
-Better Waterfalls
-Near Vanilla Road Sign Replacer
-Remiros' Groundcover
-Distant Mournhold
-Know Thy Ancestors
-Nordic Chest Replacer
-Nordic Chest Replacer ESP Replacer
-Trackless Grazeland
-Grass for Trackless Grazeland
-Vivec Palace Water Replacer
-Well Diversified
-Nords Shut Your Windows
-Let There Be Darkness
-Watch the Skies
-Weather Adjuster
-Better Sun
-Dying Worlds - Moons Retexture
-Skies .IV Night Sky Mesh
-Better Night Sky
-The Midnight Oil
-Transporter Lights
-Weapon Sheathing Bow Position Edit
-Weapon Sheathing Additions
-Complete Armor Joints
-Complete Armor Joints ESP Replacer
-Better Fitted Female Armors
-Better Fitted Female Armors ESP Replacer
-Properly Fitted Female Pants
-LeFemmRedacted
-Imperial Steel Cuirass Tweaks
-Pincushion
-Pincushion - Improved Thrown Weapon Projectiles Patch
-Wolf Helmet Replacer
-Arukinns Better Books and Scrolls
-Melchior's Magnificent Manuscripts
-Simple Golden Gold
-Intelligent Textures - Simple Golden Gold
-Subtle Magic Glow
-Subtle Smoke
-Flies
-Mist Retexture
-The Dream is the Door
-No Female Nord Screeching
-Sheep-no-More
-Shut the Fuck up Cliff Racers
-AURA
-Quieter Doors and Spells
-Spell Sounds Enhanced
-Character Sound Overhaul
-MUSE 2 - Morrowind Music System Extended
-MUSE 2.02 - Necro Edit
-MUSE 2 - Vanilla Intro Music
-TUBES4MUSE - The Unofficial Bootleg Extended Soundtrack for MUSE 2
-Great Service
-LDM - Context Matters
-Idle Talk
-Its a Deal
-FMI - NotAllDunmer
-Outfit Greetings Tweaked
-No-Frills Open Vivec
-No-Frills Closed Molag Mar
-Ownership Overhaul Patches
-MWSE Config
-```
-</details>
-
-The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
-
-<details>
-<summary>Load order</summary>
-
-```
-Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
-Patch for Purists.esm
-Ownership Overhaul.esm
-Patch for Purists - Book Typos.ESP
-Patch for Purists - Semi-Purist Fixes.ESP
-Patch for Purists - Merged Fixes.ESP
-Expansion Delay.ESP
-The Publicans.ESP
-Adamantium Ore Fix.ESP
-Divayth Fyr Puzzle Fixed.ESP
-Dubdilla Location Fix.ESP
-Services Restored.ESP
-Silt Strider Animation Restored.ESP
-Under Construction.ESP
-chuzei_helm_no_neck.ESP
-Glowing Flames - NoMoreLightlessFlames v1.1.ESP
-No Thank You.ESP
-Improved Temple Experience.ESP
-Early Transport to Mournhold.ESP
-Area Effect Arrows Integrated.ESP
-master_index.ESP
-Better Propylon Teleport Warp-Master Index.ESP
-Restocking Alchemy Essentials.ESP
-CREL_Vanilla_v3.1.ESP
-mwse_PoisonCrafting.ESP
-Restocking Alchemy Essentials PoisonCrafting Patch.ESP
-Enhanced Light.ESP
-Hospitality_Papers_Expanded_v2.7.ESP
-FMI_ServiceRefusal_Contraband.ESP
-More Exclusive Factions.ESP
-Clean Temple Service Refusal.ESP
-No Beds for the Diseased.ESP
-Religions Elaborated.ESP
-Speed and Movement.ESP
-Morrowind Anti-Cheese.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
-Realistic_Repair_Add-on.ESP
-Ashfall.ESP
-Better_Typography_Bookarts_Fix.ESP
-Yet Another Guard Diversity - Regular.ESP
-Incarnates Overhauled.ESP
-NearVanillaRoadSigns.ESP
-Mournhold LOD.ESP
-Know Thy Ancestors.ESP
-Nordic Chest Replacer.ESP
-Trackless Grazeland.ESP
-Well Diversified.ESP
-GITD_WL_RR_Interiors.ESP
-TheMidnightOil.ESP
-Complete Armor Joints.ESP
-Alex's Better Fitted Female Armors.ESP
-FemalePants.ESP
-Flies.ESP
-The Dream is the Door.ESP
-No Female Nord Screeching.ESP
-Quieter Doors and Spells.ESP
-Great Service.ESP
-LDM - Context Matters 1.5.ESP
-Idle Talk.ESP
-Its a deal.ESP
-FMI_#NotAllDunmer.ESP
-outfit greetings tweaked.ESP
-No-Frills Closed Molag Mar.ESP
-No-Frills Open Vivec.ESP
-No-Frills Series Ownership Overhaul Patch.ESP
-```
-</details>
 
 ### Synchronizing mod masters
 
