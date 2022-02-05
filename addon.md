@@ -583,7 +583,7 @@ Compatibility patches for a series of mods.
 
 ### Mod config
 
-[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
+[**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
