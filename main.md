@@ -663,8 +663,12 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 <details>
 	<summary>02-05-2022</summary>
 
+- Mod order and load order are now provided as text files to be dumped into your Profile folder in Mod Organizer 2. This will automatically enable and re-order all mods featured in Morrowind Sharp.
 - 🆕 (Visuals) **Morrowind Enhanced Textures**
 - 🚫 (Visuals) **Intelligent Textures**
+- 🚫 (Visuals Add-on) **Incarnates Overhauled**
+- 🚫 (Visuals Add-on) **Flies**
+- 🚫 (Visuals Add-on) **Pincushion**
 </details>
 
 <details>
