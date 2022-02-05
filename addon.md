@@ -343,7 +343,7 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
-[**Silver Tongue**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%201.1%20(Necro%20Edit).7z)  
+[**Silver Tongue**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%20(Necro%20Edit).7z)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
@@ -353,7 +353,7 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
-[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)  
+[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
@@ -365,11 +365,6 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
 Adds three missing Bethesda splash screens in widescreen resolution.
 - Create a **Splash** folder and move the **.tga** files inside.
-
-### Characters and NPCs
-
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)  
-Changes the armor and clothes of the Failed Incarnates to reflect their backgrounds.
 
 ### Environment
 
@@ -385,7 +380,7 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
 
 [**Nordic Chest Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Chest%20Replacer%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+Forwards Patch for Purists fixes to the plugin.
 
 [**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
 Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
@@ -395,17 +390,19 @@ Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the
 
 Files to install:
 - **Remiros Groundcover** (Main files)
+  - Disable **Rem_GL_Trackless_GL.ESP**. ⚠️ Do not hide or delete it.
   - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
+- Install as **Vivec Palace Water Replacer**.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Original Color
 
-[**Well Diversified**](https://www.nexusmods.com/morrowind/mods/50725)  
+[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)  
 Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
 - BAIN options to install:
   - [X] 00 Core
@@ -416,47 +413,51 @@ Creates variants of the well mesh to better fit Imperial and Solstheim architect
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
 Retextures the sun to make it more realistic and detailed.
 
+Files to install:
+- **Better Sun** (Main files)
+
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
 Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
 
-[**Skies .IV Night Sky Mesh**](https://www.nexusmods.com/morrowind/mods/43311)  
-Required mesh for **Better Night Sky**.
+[**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311)  
+Contains the reworked night sky mesh required mesh **Better Night Sky**.
 
 Files to install:
 - **Skies .IV Resource Pack** (Optional files)
-  - **Rename** to **Skies .IV Night Sky Mesh**.
-  - Hide **ashcloud.nif**, **raindrop.nif**, and **sky_clouds_01.nif**.
+  - Hide all files inside the **meshes** folder minus **sky_night_02.nif**.
 
 [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
-A high resolution night sky replacer. Requires **Skies .IV's Night Sky Mesh**.
+A high resolution night sky replacer.
 
 Files to install:
 - **Better Night Sky (darker)** (Optional files)
 
-[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293)  
+[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
 
-[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
+[**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
 ### Equipment
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+- Install as **Complete Armor Joints**.
 
 [**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin.
+Forwards Patch for Purists fixes to the plugin.
 
-[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)  
-Forwards PfP fixes to the plugin, and removes edits to cuirasses that already had a female variant.
+[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)  
+Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
+- Install as **Alex's Better Fitted Female Armors ESP Replacer**.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
-[**LeFemmRedacted**](https://www.nexusmods.com/morrowind/mods/50361)  
+[**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
 - Hide **meshes\a\imperial_c_female.nif**.
 
@@ -464,25 +465,15 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
+- Install as **Imperial Steel Cuirass Tweaks**.
 - BAIN options to install:
   - [X] 00 Male Belt
   - [X] 01 Female Dark Cuirass
-
-[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862)  
-Projectiles (arrows, bolts, darts, and more) will stick on surfaces, including NPCs and creatures. These projectiles, however, can't be picked up.
-
-[**Pincushion - Improved Thrown Weapon Projectiles Patch**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Pincushion%201.0%20Improved%20Thrown%20Weapon%20Projectiles%20Patch.7z)  
-Addresses a compatibility issue with **Improved Thrown Weapon Projectiles**, which caused projectiles stuck on surfaces to be facing backwards.
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, analogous to the Bear and Snow Bear Helmet.
 
 ### VFX
-
-[**Flies**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%201.2%20(ProfArmitage%20Edit).zip)  
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43481/) to original mod by **R-Zero**. The featured version includes fixes by **ProfArmitage**.
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
@@ -513,6 +504,7 @@ Files to install:
 
 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
 Upscaled **Simple Golden Gold** textures.
+- Install as **Intelligent Textures - Simple Golden Gold**.
 
 ## AUDIO ADD-ON
 
@@ -525,7 +517,7 @@ Files to install:
 - **AURA 3.0.2 - full**
 - **AURA 3.0 - replacer** (Optional files)  
   Replaces some of the worst sounds from Morrowind.
-  - **Merge** into the main file.
+  - Install as **AURA 3.0 - replacer**.
   - BAIN options to install:
     - [X] 00 Waves
     - [X] 01 Boat waves
@@ -543,7 +535,7 @@ Files to install:
 
 > ℹ️ On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
 
-[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells%201.1.7z)  
+[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells.7z)  
 Reduces the volume of doors and spells. Mod by **Sigourn**.
 
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
@@ -568,7 +560,7 @@ Improves idle dialogue filtering so that not all Dunmer refer to themselves as s
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
-## CITIES AND TOWNS ADD-ON
+## CANTONS ADD-ON
 
 [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
 Opens Vivec's cantons.
@@ -583,12 +575,71 @@ Closes Molag Mar's canton.
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for a series of mods.
+- Install as **Ownership Overhaul Patches**.
 - BAIN options to install:
   - [X] 01 No-Frills Series
 
 ## FINISHING TOUCHES
 
+### Mod config
+
+[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
+Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
+- BAIN options to install:
+  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
+
+<details>
+	<summary>List of configured mods</summary>
+
+- [ ] 01 Sophisticated Save System  
+  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
+- [ ] 02 Clock Block  
+  Sets the clock type to game time.
+- [ ] 02 Continue  
+  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
+- [ ] 02 Essential Indicators  
+  Disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
+- [ ] 02 Quick Equip  
+  Assigns the E key as the key for equipping items.
+- [ ] 02 Smart Journal  
+  Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
+- [ ] 03 GMST Menu  
+  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
+- [ ] 03 Security Enhanced  
+  Disables automatic probe-equip on trapped object activation.
+- [ ] 04 Lucky Strike  
+  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
+- [ ] 04 Magicka Based Skill Progression  
+  Disables logging, and slows down skill experience gain per magicka spent.
+- [ ] 04 Smarter Soultrap  
+  Enables enforced skill requirements for soul displacement.
+- [ ] 04 Ashfall  
+  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
+- [ ] 05 Controlled Consumption  
+  Sets the consumption module to Vanilla NPC Style (Necro Edit).
+- [ ] 05 Map and Compass  
+  Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
+- [ ] 06 Let There Be Darkness  
+  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
+- [ ] 06 Watch the Skies  
+  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
+- [ ] 06 Weather Adjuster  
+  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
+- [ ] 07 AURA  
+  Disables player voice taunts.
+- [ ] 07 Character Sound overhaul  
+  Comments out a line in the **main.lua** to disable MWSE.log spam.
+</details>
+
 ### Mod order and load order
+
+[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
+Adjusts mod order and load order for Morrowind Sharp to work as intended.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
+
+> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
+ 
+> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Synchronizing mod masters
 
@@ -704,58 +755,6 @@ When you installed MGE XE, it automatically downloaded the latest MWSE update. H
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
-
-### Mod config
-
-A number of mods require additional in-game configuration.
-	
-[**MWSE Config 3.1.3**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config%203.1.3.7z)  
-Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
-- BAIN options to install:
-  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
-
-<details>
-	<summary>List of configured mods</summary>
-
-- [ ] 01 Sophisticated Save System  
-  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
-- [ ] 02 Clock Block  
-  Sets the clock type to game time.
-- [ ] 02 Continue  
-  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
-- [ ] 02 Essential Indicators  
-  Disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
-- [ ] 02 Quick Equip  
-  Assigns the E key as the key for equipping items.
-- [ ] 02 Smart Journal  
-  Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
-- [ ] 03 GMST Menu  
-  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
-- [ ] 03 Security Enhanced  
-  Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Lucky Strike  
-  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
-- [ ] 04 Magicka Based Skill Progression  
-  Disables logging, and slows down skill experience gain per magicka spent.
-- [ ] 04 Smarter Soultrap  
-  Enables enforced skill requirements for soul displacement.
-- [ ] 04 Ashfall  
-  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
-- [ ] 05 Controlled Consumption  
-  Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 05 Map and Compass  
-  Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
-- [ ] 06 Let There Be Darkness  
-  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- [ ] 06 Watch the Skies  
-  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
-- [ ] 06 Weather Adjuster  
-  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
-- [ ] 07 AURA  
-  Disables player voice taunts.
-- [ ] 07 Character Sound overhaul  
-  Comments out a line in the **main.lua** to disable MWSE.log spam.
-</details>
 
 ### Additional MCP patches
 
