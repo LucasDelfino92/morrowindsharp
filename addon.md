@@ -235,7 +235,7 @@ Replaces the Light magic effect with a Skyrim-style magelight effect. Using the 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
 
 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
 Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
@@ -991,8 +991,6 @@ Underwater Effects
 Sunshafts
 Special Process
 Eye Adaptation (HDR)
-heathaze
-r0_qk_shaker
 ```
 - Click **Save** after setting up your shader chain.
 
