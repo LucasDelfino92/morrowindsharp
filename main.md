@@ -805,6 +805,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 (Gameplay Add-on) **Drop Light**
 - 🚫 (Visuals Add-on) **Ashmire Replacer**
 - 🚫 (Visuals Add-on) **Inscribed Maar Gan Rock**
+- 🚫 (Visuals Add-on) **3D Vines Vanilla Mushroom Trees**
 - 🚫 (Visuals Add-on) **Throbbing Meat - a Corprus Meat Replacer**
 - 🚫 (Visuals Add-on) **Bitter Coast Sounds (UMOPP)**
 - 🚫 (Visuals Add-on) **Glowbugs**
