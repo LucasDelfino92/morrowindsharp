@@ -394,11 +394,6 @@ Files to install:
 
 > ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
 
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
-Adds 3D vines and falling particles to Emperor Parasol trees.
-- BAIN options to install:
-  - [X] 00 Core
-
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - BAIN options to install:
@@ -760,7 +755,6 @@ Nordic Chest Replacer
 Nordic Chest Replacer ESP Replacer
 Trackless Grazeland
 Grass for Trackless Grazeland
-3D Vines Vanilla Mushroom Trees
 Vivec Palace Water Replacer
 Well Diversified
 Nords Shut Your Windows
