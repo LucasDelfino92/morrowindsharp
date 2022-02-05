@@ -142,11 +142,11 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
 
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
-Adds a hotkey for equipping a selected inventory item.
-
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Adds a hotkey to speed up time.
+
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
+Adds a hotkey for equipping a selected inventory item.
 
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
 Adds a hotkey for exiting any menu.
