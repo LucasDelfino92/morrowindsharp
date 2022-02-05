@@ -248,7 +248,6 @@ Nordic Chest Replacer
 Nordic Chest Replacer ESP Replacer
 Trackless Grazeland
 Grass for Trackless Grazeland
-3D Vines Vanilla Mushroom Trees
 Vivec Palace Water Replacer
 Well Diversified
 Nords Shut Your Windows
