@@ -295,8 +295,6 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 Files to install:
 - **Morrowind Enhanced Textures** (Main files)
-- **Indoril shield hotfix** (Optional files)
-  - Install as **Indoril shield hotfix**.
 
 [**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1ff48PJWoGODWmYf94fvBt5UZe2eUKcLB/view?usp=sharing)  
 Compatibility patch for Project Atlas.
