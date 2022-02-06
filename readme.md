@@ -1,6 +1,6 @@
 # MORROWIND#: A Morrowind Modding Guide
 
-Last updated: February 4th, 2022.
+Last updated: February 5th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
@@ -65,7 +65,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-There are roughly 100 mods and 30 plugins total.
+There are roughly 90 mods and 30 plugins total.
 
 ### How much space do I need to install these mods?
 
