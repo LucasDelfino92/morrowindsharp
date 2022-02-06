@@ -291,10 +291,7 @@ Files to install:
 > ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
-Files to install:
-- **Morrowind Enhanced Textures** (Main files)
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
 [**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1ff48PJWoGODWmYf94fvBt5UZe2eUKcLB/view?usp=sharing)  
 Compatibility patch for Project Atlas.
