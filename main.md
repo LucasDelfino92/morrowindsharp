@@ -236,11 +236,6 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 
 ## OVERHAULS
 
-[**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
-A fully customizable leveling mod that removes the level-up screen entirely. You won't have to min/max to make sure you're gaining health properly, or getting enough strength per level. Instead, progress in skills gives you progress towards attribute gains.
-
-> ℹ️ The author recommends the use of [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133), which calculates your max health based on your current Endurance, Strength, and Level. However, this makes your health fluctuate radically, which is why I don't recommend it.
-
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
@@ -284,6 +279,17 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Texture packs
 
+[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+
+Files to install:
+- **kart_facelift_meshes** (Main files)
+
+> ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
@@ -291,8 +297,9 @@ Files to install:
 - **Morrowind Enhanced Textures** (Main files)
 - **Indoril shield hotfix** (Optional files)
   - Install as **Indoril shield hotfix**.
-- **Atlas textures** (Optional files)
-  - Install as **Atlas textures**.
+
+[**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1ff48PJWoGODWmYf94fvBt5UZe2eUKcLB/view?usp=sharing)  
+Compatibility patch for Project Atlas.
 
 ### Menus and splash screens
 
@@ -323,18 +330,7 @@ Files to install:
 - BAIN options to install:
   - [X] 01 Journal and Scroll - 2K
 
-### Characters and NPCs
-
-[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-
-Files to install:
-- **kart_facelift_meshes** (Main files)
-
-> ℹ️ Unlike **Familiar Faces**, this mod doesn't touch on hair or Khajiit head meshes, which is why we want to install it later and overwrite **Familiar Faces**' other head meshes.
+### NPCs
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
@@ -661,6 +657,16 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>02-06-2022</summary>
+
+- 🆕 (Visuals) **Morrowind Enhanced Textures Atlased**
+- 🆕 (Overhauls Add-on) **Class-Conscious Character Progression**
+- ⚠️ (Visuals) **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
+- ⚠️ (Visuals) **Morrowind Enhanced Textures** no longer includes instructions to install the Project Atlas patch from its Nexus page.
+- 🚫 (Gameplay) **Mort's Ultimate Leveling Experience**
+</details>
 
 <details>
 	<summary>02-05-2022</summary>
