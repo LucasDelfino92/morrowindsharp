@@ -17,17 +17,12 @@ This guide recommends a number of mods in favor of others already installed in M
 These mods are:
 - (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
   This guide will recommend a BTBGI-compatible version of this mod.
-- (Main) [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452)  
-  This guide will recommend a much more role-playing friendly mod.
 - (Main) [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
   This guide will recommend a BTBGI-compatible version of the mod.
 - (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
   BTBGI already includes this mod.
 
 # BTBGI ADD-ON
-
-[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
-Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements.
@@ -88,7 +83,6 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 	<summary>Mod order</summary>
 
 ```
-Class-Conscious Character Progression
 BTBGI (Necro Edit) Tweaked and Patches
 BTBGI Loot Patch
 Area Effect Projectiles Integrated
@@ -149,19 +143,14 @@ Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the
 
 # CHANGELOG
 
-- 🆕 Mod has been added to the guide.
-- ⚠️ Mod has been updated or its installation/configuration instructions have changed.
-- 🚫 Mod has been removed from the guide.
-
-02-04-2022
-- Updated mod and load order for the latest addon.md.
+02-06-2022
+- Removed **Class-Conscious Character Progression** as it has been included in the add-on guide.
 
 01-28-2022
-- Updated BTBGI (Necro Edit) Tweaked and OAAB Weapons Integrated installation instructions.
-- Listed complete mod order and load order to minimize user error.
+- Updated **BTBGI (Necro Edit) Tweaked** installation instructions.
 
 12-20-2021
-- Moved almost all mods to the Morrowind# Add-on guide. This is now a CCCP and BTBGI exclusive guide.
+- Moved almost all mods to the Morrowind# Add-on guide. This is now a BTBGI exclusive guide.
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
