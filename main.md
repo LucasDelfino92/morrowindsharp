@@ -655,64 +655,57 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
 - **Morrowind Enhanced Textures** no longer includes instructions to install the Project Atlas patch from its Nexus page.
 
-<details>
-	<summary>02-05-2022</summary>
-
+02-05-2022
 - Mod order and load order are now provided as text files to be dumped into your Profile folder in Mod Organizer 2. This will automatically enable and re-order all mods featured in Morrowind Sharp.
-- 🆕 (Visuals) **Morrowind Enhanced Textures**
-- 🚫 (Visuals) **Intelligent Textures**
-- 🚫 (Visuals Add-on) **Incarnates Overhauled**
-- 🚫 (Visuals Add-on) **Flies**
-- 🚫 (Visuals Add-on) **Pincushion**
-</details>
+- Added **Morrowind Enhanced Textures** (Visuals). Replaces **Intelligent Textures**.
+- Removed **Incarnates Overhauled** (Visuals).
+- Removed **Flies** (Add-on guide).
+- Removed **Pincushion** (Add-on guide).
 
-<details>
-	<summary>02-04-2022</summary>
-
-- 🆕 (Visuals Add-on) Re-added **Wolf Helmet Replacer**, as Solstheim - Tomb of the Snow Prince was removed.
-- ⚠️ (Gameplay Add-on) Modified **Chargen Revamped - Expanded Lands** installation instructions.
-- ⚠️ (Visuals Add-on) Modified **Well Diversified** installation instructions.
-- ⚠️ (Cities and Towns Add-on) Modified **Ownership Overhaul Patches** installation instructions.
-- 🚫 (Gameplay Add-on) **Character Backgrounds**
-- 🚫 (Gameplay Add-on) **Actually Unlimited Skeleton Keys**
-- 🚫 (Gameplay Add-on) **Drop Light**
-- 🚫 (Visuals Add-on) **Ashmire Replacer**
-- 🚫 (Visuals Add-on) **Inscribed Maar Gan Rock**
-- 🚫 (Visuals Add-on) **3D Vines Vanilla Mushroom Trees**
-- 🚫 (Visuals Add-on) **Throbbing Meat - a Corprus Meat Replacer**
-- 🚫 (Visuals Add-on) **Bitter Coast Sounds (UMOPP)**
-- 🚫 (Visuals Add-on) **Glowbugs**
-- 🚫 (Visuals Add-on) **Heat Haze**
-- 🚫 (Visuals Add-on) **Mistify**
-- 🚫 (Visuals Add-on) **Shattered Stones - An Earthquake Mod**
-- 🚫 (Visuals Add-on) **Unto Dust**
-- 🚫 (Audio Add-on) **Haunted Barrows**
-- 🚫 (Audio Add-on) **Heartthrum**
-- 🚫 (Audio Add-on) **Outdoor Banners With Sound**
-- 🚫 (Audio Add-on) **Water Sounds**
-- 🚫 (Dialogue Add-on) **Greetings for No Lore**
-- 🚫 (Cities and Towns Add-on) **Tamriel_Data**
-- 🚫 (Cities and Towns Add-on) **Solstheim - Tomb of the Snow Prince**
-- 🚫 (Cities and Towns Add-on) **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch**
-- 🚫 (Cities and Towns Add-on) **Nordic Dagon Fel**
-- 🚫 (Cities and Towns Add-on) **Shrine of Azura**
-- 🚫 (Equipment Add-on) **Complete and Revised Dreugh Armor**
-- 🚫 (Equipment Add-on) **Complete and Revised Imperial Studded Leather Armor**
-- 🚫 (Equipment Add-on) **Complete and Revised Nordic Iron Armor**
-- 🚫 (Equipment Add-on) **Complete Duke's Guard Silver**
-- 🚫 (Equipment Add-on) **Concept Art Daedric Helmets**
-- 🚫 (Equipment Add-on) **Redoran War Armor and Sathil Mercenary Equipment**
-- 🚫 (Equipment Add-on) **Redoran War Armor**
-- 🚫 (Equipment Add-on) **Sathil Mercenary Armor**
-- 🚫 (Equipment Add-on) **Oriental Ebony Weapons**
-- 🚫 (Equipment Add-on) **Community Equipment Integration**
-- 🚫 (Equipment Add-on) **Antares' Mage Robes**
-- 🚫 (OAAB_Data Add-on) **OAAB_Data**
-- 🚫 (OAAB_Data Add-on) **OAAB Integrations**
-- 🚫 (OAAB_Data Add-on) **OAAB Dwemer Lightning Rods**
-- 🚫 (OAAB_Data Add-on) **OAAB Dwemer Pavements**
-- 🚫 (OAAB_Data Add-on) **OAAB Weapons Integrated**
-</details>
+02-04-2022
+- Modified **Chargen Revamped - Expanded Lands** installation instructions (Add-on guide).
+- Modified **Well Diversified STOTSP** installation instructions (Add-on guide).
+- Modified **Ownership Overhaul Patches** installation instructions (Add-on guide).
+- Re-added **Wolf Helmet Replacer** (Add-on guide).
+- Removed **Character Backgrounds** (Add-on guide).
+- Removed **Actually Unlimited Skeleton Keys** (Add-on guide).
+- Removed **Drop Light** (Add-on guide).
+- Removed **Ashmire Replacer** (Add-on guide).
+- Removed **Inscribed Maar Gan Rock** (Add-on guide).
+- Removed **3D Vines Vanilla Mushroom Trees** (Add-on guide).
+- Removed **Throbbing Meat - a Corprus Meat Replacer** (Add-on guide).
+- Removed **Bitter Coast Sounds (UMOPP)** (Add-on guide).
+- Removed **Glowbugs** (Add-on guide).
+- Removed **Heat Haze** (Add-on guide).
+- Removed **Mistify** (Add-on guide).
+- Removed **Shattered Stones - An Earthquake Mod** (Add-on guide).
+- Removed **Unto Dust** (Add-on guide).
+- Removed **Haunted Barrows** (Add-on guide).
+- Removed **Heartthrum** (Add-on guide).
+- Removed **Outdoor Banners With Sound** (Add-on guide).
+- Removed **Water Sounds** (Add-on guide).
+- Removed **Greetings for No Lore** (Add-on guide).
+- Removed **Tamriel_Data** (Add-on guide).
+- Removed **Solstheim - Tomb of the Snow Prince** (Add-on guide).
+- Removed **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch** (Add-on guide).
+- Removed **Nordic Dagon Fel** (Add-on guide).
+- Removed **Shrine of Azura** (Add-on guide).
+- Removed **Complete and Revised Dreugh Armor** (Add-on guide).
+- Removed **Complete and Revised Imperial Studded Leather Armor** (Add-on guide).
+- Removed **Complete and Revised Nordic Iron Armor** (Add-on guide).
+- Removed **Complete Duke's Guard Silver** (Add-on guide).
+- Removed **Concept Art Daedric Helmets** (Add-on guide).
+- Removed **Redoran War Armor and Sathil Mercenary Equipment** (Add-on guide).
+- Removed **Redoran War Armor** (Add-on guide).
+- Removed **Sathil Mercenary Armor** (Add-on guide).
+- Removed **Oriental Ebony Weapons** (Add-on guide).
+- Removed **Community Equipment Integration** (Add-on guide).
+- Removed **Antares' Mage Robes** (Add-on guide).
+- Removed **OAAB_Data** (Add-on guide).
+- Removed **OAAB Integrations** (Add-on guide).
+- Removed **OAAB Dwemer Lightning Rods** (Add-on guide).
+- Removed **OAAB Dwemer Pavements** (Add-on guide).
+- Removed **OAAB Weapons Integrated** (Add-on guide).
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
