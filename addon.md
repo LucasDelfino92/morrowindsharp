@@ -553,9 +553,6 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 
 ## DIALOGUE ADD-ON
 
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
 [**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
 Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
 
