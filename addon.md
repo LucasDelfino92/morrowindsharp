@@ -553,9 +553,6 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 
 ## DIALOGUE ADD-ON
 
-[**Its a Deal**](https://www.nexusmods.com/morrowind/mods/47968)  
-Shopkeepers will now comment with a line of voiced dialogue on a successful trade.
-
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
 
