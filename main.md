@@ -7,7 +7,21 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Morrowind and the recommended tools.
 
-By default, mods will be installed with a predetermined name in Mod Organizer 2. Unless explicitly told, do not modified this default name, as the files provided at the end of the guide rely on these names to sort your mods accordingly.
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+
+This guide is organized so that whenever you are asked to install a mod from any source, or multiple mods from the same Nexus page, the name should be the one **highlighted in blue** which leads you to their respective pages. This is the default name I was referring to back in the previous paragraph. All files installed from a Nexus page should thus be merged with each other using Mod Organizer 2's merge feature, and always merged in the order they are listed in this guide.
+
+An example of how the guide structures its mods is as follows.
+
+[**The Name Under Which You Should Install Me**]()  
+My description, what I do as a mod. By default, you should always install the main file from my Nexus page.
+
+Additional files to install (found in the same Nexus page):
+- **Install Me And Merge Me With The Main File** (Where you can find me in the Nexus page)
+- **Install Me Second And Merge Me Too**
+- **Install Me Third And Merge Me Too**
+
+> ℹ️ When in doubt, refer back to this section.
 
 # MORROWIND#
 
