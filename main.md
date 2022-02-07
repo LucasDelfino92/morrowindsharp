@@ -293,7 +293,7 @@ Files to install:
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-[**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1ff48PJWoGODWmYf94fvBt5UZe2eUKcLB/view?usp=sharing)  
+[**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1dC0NPeiSf89Rene_jjD4v9jJKutGCU56/view?usp=sharing)  
 Compatibility patch for Project Atlas.
 
 ### Menus and splash screens
@@ -649,19 +649,11 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 
 # CHANGELOG
 
-- 🆕 Mod has been added to the guide.
-- ⚠️ Mod has been updated or its installation/configuration instructions have changed.
-- 🚫 Mod has been removed from the guide.
-
-<details>
-	<summary>02-06-2022</summary>
-
-- 🆕 (Visuals) **Morrowind Enhanced Textures Atlased**
-- 🆕 (Overhauls Add-on) **Class-Conscious Character Progression**
-- ⚠️ (Visuals) **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
-- ⚠️ (Visuals) **Morrowind Enhanced Textures** no longer includes instructions to install the Project Atlas patch from its Nexus page.
-- 🚫 (Gameplay) **Mort's Ultimate Leveling Experience**
-</details>
+02-06-2022
+- Added **Morrowind Enhanced Textures Atlased** (Visuals).
+- Added **Class-Conscious Character Progression** (Add-on guide). Replaces **Mort's Ultimate Leveling Experience** from the main guide.
+- **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
+- **Morrowind Enhanced Textures** no longer includes instructions to install the Project Atlas patch from its Nexus page.
 
 <details>
 	<summary>02-05-2022</summary>
@@ -720,63 +712,6 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - 🚫 (OAAB_Data Add-on) **OAAB Dwemer Lightning Rods**
 - 🚫 (OAAB_Data Add-on) **OAAB Dwemer Pavements**
 - 🚫 (OAAB_Data Add-on) **OAAB Weapons Integrated**
-</details>
-
-<details>
-	<summary>02-02-2022</summary>
-
-- ⚠️ (User Interface) Moved **Pass the Time** under Hotkeys.
-- ⚠️ (Gameplay Add-on) Moved **Brutal Backstabbing**, **Lucky Strike**, and **Poison Crafting** under Combat mechanics. **Restocking Alchemy Essentials** now lists only the Core BAIN option, with the add-on guide additionally having the Poison Crafting Patch BAIN option.
-- ⚠️ (Gameplay Add-on) Moved **FMI - Hospitality Papers** under Service refusal.
-- ⚠️ (Overhauls Add-on) Moved **Ashfall** under Survival.
-- 🚫 (Patches) Removed **The Publicans ESP Replacer**, as the latest Nexus release includes the appropriate Patch for Purists fixes.
-</details>
-
-
-<details>
-	<summary>01-28-2022</summary>
-
-- ⚠️ (Patches) Added **Patch for Purists - Merged Fixes**.
-- ⚠️ (Patches) Added **The Publicans ESP Replacer**.
-- ⚠️ (Patches) Added **Adamantium Ore Fix ESP Replacer**.
-- ⚠️ (Patches) Added **Divayth Fyr Puzzle Fixed ESP Replacer**.
-- ⚠️ (Overhauls) Added **Bloodmoon Rebalance ESP Replacer**.
-- ⚠️ (Visuals) Added **Comrade Raven's Book Art Replacer ESP Replacer**.
-- ⚠️ (Gameplay Add-on) Replaced **Chargen Revamped - Expanded Lands** installation instructions. Now only one download is necessary, with the new plugin being patched and compatible with the rest of the guide.
-- ⚠️ (Gameplay Add-on) Added **FMI - Service Refusal and Contraband ESP Replacer**.
-- ⚠️ (Visuals Add-on) Added **Nordic Chest Replacer ESP Replacer**.
-- ⚠️ (Visuals Add-on) Added **Complete Armor Joints ESP Replacer** and **Better Fitted Female Armors ESP Replacer**.
-</details>
-
-<details>
-	<summary>01-25-2022</summary>
-
-- ⚠️ (Audio) **MUSE 2.0.2 Necro Edit** now includes the optimization from the Necro Edit sub-package, instead of just the bug fixes, as well as the vanilla music for the introductory Imperial Prison Ship scene.
-- 🚫 (Audio) Moved **Idle Talk** to the add-on guide.
-</details>
-
-<details>
-	<summary>01-19-2022</summary>
-
-- ⚠️ (Setup) Added link to **.NET 6 Runtime**, required for latest **TES3Merge**.
-- ⚠️ (Patches) Updated **Project Atlas**' installation instructions. AtlAd has been merged into it, and as a result no longer are two separate downloads required. The mod order has been updated as a consequence.
-- ⚠️ (Gameplay QOL) Updated **Graphic Herbalism**'s installation instructions. The patches collection is no longer needed, as **Project Atlas** already includes a patch for the mod. The mod order has been updated as a consequence, with the mod requiring to be loaded before **Project Atlas**.
-- ⚠️ (Overhauls) Updated **Controlled Consumption**.
-- ⚠️ (Overhauls Add-on) Updated **Silver Tongue** to address a MWSE.log issue.
-</details>
-
-<details>
-	<summary>01-12-2022</summary>
-
-- 🚫 (Overhauls) **Magicka Regeneration Suite**. I never added configuration instructions for it, but most importantly I don't think magicka regeneration is that important anymore with **Restocking Alchemy Essentials**.
-</details>
-
-<details>
-	<summary>01-10-2022</summary>
-
-- 🆕 (User Interface) **Companion Health Bars**.
-- 🆕 (User Interface Add-on) **Quick Loadouts**.
-- 🆕 (User Interface Add-on) **Character Creation Name Generator**.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
