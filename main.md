@@ -308,6 +308,9 @@ Files to install:
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
+[**MET Atlas Add-on**](https://drive.google.com/file/d/1SfBDULLU_3tXsOSNQDsWHUG04CQBmA-0/view?usp=sharing)  
+Additional atlased textures not included in Morrowind Enhanced Textures.
+
 ### Menus and splash screens
 
 [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
@@ -663,8 +666,9 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
-- Removed **Morrowind Enhanced Textures Atlased**, as for the time being it is buggy (Visuals).
+- **MET Atlas Add-on** was updated to remove buggy textures and duplicate textures from Morrowind Enhanced Textures (Visuals).
 - Removed **Idle Talk**, as I was informed there were problems with the mod which caused dialogue repetition (Add-on guide).
+- Removed **Its a Deal**, as Character Sound Overhaul includes a better implementation of this mod (Add-on guide).
 
 02-06-2022
 - Added **Morrowind Enhanced Textures Atlased** (Visuals).
