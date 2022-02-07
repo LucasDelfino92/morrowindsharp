@@ -77,48 +77,13 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 
 ### Mod order and load order
 
-> ℹ️ Note that these are just a basic mod order and load order in relation to mods installed in Morrowind#.
+[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
+Adjusts mod order and load order for Morrowind Sharp to work as intended.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
 
-<details>
-	<summary>Mod order</summary>
-
-```
-BTBGI (Necro Edit) Tweaked and Patches
-BTBGI Loot Patch
-Area Effect Projectiles Integrated
-OAAB Weapons Integrated
-Enchanted Weapon Resistance
-Economy Adjuster Adjustments
-MWSE Config
-```
-</details>
-	
-<details>
-	<summary>Load order</summary>
-
-```
-BTB's Game Improvements (Necro Edit) Tweaked.esp
-BTBGI Poison Crafting Patch.ESP
-Balanced Passive Races and Birthsigns Tweaked.esp
-Morrowind Anti-Cheese Tweaked.ESP
-Beware the Sixth House.ESP
-tribunal rebalance.ESP
-Bloodmoon Rebalance.ESP
-Mort's Rebalance Series BTBGI Patch.ESP
-Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch.ESP
-Realistic_Repair_Add-on.ESP
-Realistic Repair Add-on BTBGI Patch.ESP
-Area Effect Projectiles Integrated.esp
-EcoAdjCrime (Necro Edit).esp
-Complete Armor Joints.ESP
-Complete Armor Joints BTBGI Patch.ESP
-Alex's Better Fitted Female Armors.ESP
-Alex's Better Fitted Female Armors BTBGI Patch.ESP
-FemalePants.ESP
-FemalePants BTBGI Patch.ESP
-BTBGI Loot Patch.ESP
-```
-</details>
+> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
+ 
+> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Mod config
 
