@@ -81,7 +81,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 - From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas Master**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
 - BAIN options to install:
   - [X] 00 Core
-  - [X] 01 Textures - Vanilla
+  - [X] 01 Textures - Intelligent Textures  
+    High resolution atlases based off Intelligent Textures. Does not require the original mod.
   - [X] 05 Glow in the Dahrk Patch  
     Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
   - [X] 06 Graphic Herbalism Patch  
@@ -292,9 +293,6 @@ Files to install:
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
-
-[**Morrowind Enhanced Textures Atlased**](https://drive.google.com/file/d/1dC0NPeiSf89Rene_jjD4v9jJKutGCU56/view?usp=sharing)  
-Compatibility patch for Project Atlas.
 
 ### Menus and splash screens
 
@@ -648,6 +646,9 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 For additional mods that are compatible and supported by Morrowind#, [**follow this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md).
 
 # CHANGELOG
+
+02-07-2022
+- Removed **Morrowind Enhanced Textures Atlased**, as for the time being it is buggy (Visuals).
 
 02-06-2022
 - Added **Morrowind Enhanced Textures Atlased** (Visuals).
