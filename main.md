@@ -664,6 +664,7 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
 - Removed **Morrowind Enhanced Textures Atlased**, as for the time being it is buggy (Visuals).
+- Removed **Idle Talk**, as I was informed there were problems with the mod which caused dialogue repetition (Add-on guide).
 
 02-06-2022
 - Added **Morrowind Enhanced Textures Atlased** (Visuals).
