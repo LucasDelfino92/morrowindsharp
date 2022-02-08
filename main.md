@@ -652,10 +652,6 @@ That said, here is a list of mods in the guide that tend to have compatibility i
 
 My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look for conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
-# ADDITIONAL MODS
-
-For additional mods that are compatible and supported by Morrowind#, [**follow this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md).
-
 # CHANGELOG
 
 02-07-2022
@@ -721,6 +717,10 @@ For additional mods that are compatible and supported by Morrowind#, [**follow t
 - Removed **OAAB Dwemer Lightning Rods** (Add-on guide).
 - Removed **OAAB Dwemer Pavements** (Add-on guide).
 - Removed **OAAB Weapons Integrated** (Add-on guide).
+
+# ADDITIONAL MODS
+
+For additional mods that tackle more specific aspects of the game, [**check out the addendum guide**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md).
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
