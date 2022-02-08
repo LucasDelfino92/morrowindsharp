@@ -46,7 +46,6 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 
 [**Patch for Purists - Merged Fixes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Patch%20for%20Purists%20-%20Merged%20Fixes.7z)  
 Solves conflicts between the Book Typos and the Semi-Purist Fixes plugins.
-- Install as **Patch for Purists - Merged Fixes**.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -226,7 +225,6 @@ Official plugin adding a new quest to find all ten Propylon Indices. Talk to Fol
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
-- Install as **Better Propylon Teleport Script**.
 - Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
 > ℹ️ This plugin is compatible with the Master Index official plugin.
@@ -245,7 +243,6 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
-- Install as **Restocking Alchemy Essentials**.
 - BAIN options to install:
   - [X] 00 Core
 
@@ -262,7 +259,6 @@ Alchemical process now takes time, based on potion's value and player's skill. T
 
 [**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
-- Install as **Controlled Consumption (G7 - Sig- Necro Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
@@ -277,7 +273,6 @@ Dynamically adjusts how much merchants will pay for items. Items worth more than
 
 [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
-- Install as **Morrowind Anti-Cheese (Sig Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
@@ -446,7 +441,6 @@ Extended and flexible music system for Morrowind, allows you to easily customize
 
 [**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
 Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
-- Install as **MUSE 2.0.2 Necro-Sig Edit**.
 
 [**TUBES4MUSE**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
