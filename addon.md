@@ -8,9 +8,9 @@
 
 The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind# guide. It includes optional, quality mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
 
-# MORROWIND# ADD-ON
+# MORROWIND# ADDENDUM
 
-## PATCHES ADD-ON
+## PATCHES
 
 ### Bug fixes
 
@@ -29,7 +29,6 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- Install as **Services Restored**.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -99,7 +98,7 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-## USER INTERFACE ADD-ON
+## USER INTERFACE
 
 ### Menus
 
@@ -172,7 +171,7 @@ Adds a hotkey to open and close any book and scroll in the game.
 
 > ℹ️ We will install **Melchior's Magnificent Manuscripts** in the **Visuals Add-on** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
 
-## GAMEPLAY ADD-ON
+## GAMEPLAY
 
 ### Character creation
 
@@ -255,7 +254,6 @@ Implements and expands on the game's hinted at but missing mechanic of Hospitali
 
 [**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
 Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. Includes fixes from Patch for Purists.
-- Install as **FMI - Service Refusal and Contraband ESP Replacer**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47456) to original mod by **PoodleSandwich**.
 
@@ -269,11 +267,9 @@ Adds extra service refusal dialogue once you progress further into the main ques
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
-- Install as **No Beds for the Diseased**.
 
 [**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
 Adds healing services to healers.
-- Install as **Religions Elaborated (Healers)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
 
@@ -307,7 +303,7 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 
-## OVERHAULS ADD-ON
+## OVERHAULS
 
 ### Character progression
 
@@ -363,7 +359,7 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
-## VISUALS ADD-ON
+## VISUALS
 
 ### Splash screens
 
@@ -402,7 +398,6 @@ Files to install:
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
-- Install as **Vivec Palace Water Replacer**.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Original Color
@@ -447,7 +442,6 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-- Install as **Complete Armor Joints**.
 
 [**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)  
 Forwards Patch for Purists fixes to the plugin.
@@ -457,7 +451,6 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 
 [**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)  
 Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
-- Install as **Alex's Better Fitted Female Armors ESP Replacer**.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
@@ -470,7 +463,6 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
-- Install as **Imperial Steel Cuirass Tweaks**.
 - BAIN options to install:
   - [X] 00 Male Belt
   - [X] 01 Female Dark Cuirass
@@ -509,9 +501,8 @@ Files to install:
 
 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
 Upscaled **Simple Golden Gold** textures.
-- Install as **Intelligent Textures - Simple Golden Gold**.
 
-## AUDIO ADD-ON
+## AUDIO
 
 ### SFX
 
@@ -522,7 +513,6 @@ Files to install:
 - **AURA 3.0.2 - full**
 - **AURA 3.0 - replacer** (Optional files)  
   Replaces some of the worst sounds from Morrowind.
-  - Install as **AURA 3.0 - replacer**.
   - BAIN options to install:
     - [X] 00 Waves
     - [X] 01 Boat waves
@@ -551,7 +541,7 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 
 > ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
 
-## DIALOGUE ADD-ON
+## DIALOGUE
 
 [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
 Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
@@ -559,7 +549,7 @@ Improves idle dialogue filtering so that not all Dunmer refer to themselves as s
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
-## CANTONS ADD-ON
+## CANTONS
 
 [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
 Opens Vivec's cantons.
@@ -574,7 +564,6 @@ Closes Molag Mar's canton.
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for a series of mods.
-- Install as **Ownership Overhaul Patches**.
 - BAIN options to install:
   - [X] 01 No-Frills Series
 
