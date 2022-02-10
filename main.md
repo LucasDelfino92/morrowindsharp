@@ -652,20 +652,20 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 - Remind me to never let anyone else tell me what should or what shouldn't be in the guide, unless the mod has bugs.
 - Removed **Character Creation Name Generator** (Addendum).
 - Removed **Chargen Revamped - Expanded Lands** (Addendum).
-- Reomved **Quick Loadouts** (Addendum).
+- Removed **Quick Loadouts** (Addendum).
 - Removed **Switchable Scriptures** (Addendum).
-- Removed **MM - Enhanced Light** (Addendum).
-- Removed **MM - Enhanced Telekinesis** (Addendum).
-- Removed **Religions Elaborated (Healers)** (Addendum).
+- Removed **Light Decay** (Addendum).
+- Removed **Lucky Loot** (Addendum).
 - Removed **Brutal Backstabbing** (Addendum).
 - Removed **Lucky Strike - A Critical Hit Mod** (Addendum).
 - Removed **Poison Crafting** (Addendum).
 - Removed **Restocking Alchemy Essentials Poison Crafting Patch** (Addendum).
- -Removed **FMI - Hospitality Papers Expanded** (Addendum).
+- Removed **MM - Enhanced Light** (Addendum).
+- Removed **MM - Enhanced Telekinesis** (Addendum).
+- Removed **FMI - Hospitality Papers Expanded** (Addendum).
 - Removed **FMI - Service Refusal and Contraband ESP Replacer** (Addendum).
 - Removed **No Beds for the Diseased** (Addendum).
-- Removed **Light Decay** (Addendum).
-- Removed **Lucky Loot** (Addendum).
+- Removed **Religions Elaborated (Healers)** (Addendum).
 
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
