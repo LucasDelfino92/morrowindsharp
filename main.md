@@ -661,12 +661,12 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
 - **MET Atlas Add-on** was updated to remove buggy textures and duplicate textures from Morrowind Enhanced Textures (Visuals).
-- Removed **Idle Talk**, as I was informed there were problems with the mod which caused dialogue repetition (Add-on guide).
-- Removed **Its a Deal**, as Character Sound Overhaul includes a better implementation of this mod (Add-on guide).
+- Removed **Idle Talk**, as I was informed there were problems with the mod which caused dialogue repetition (Addendum).
+- Removed **Its a Deal**, as Character Sound Overhaul includes a better implementation of this mod (Addendum).
 
 02-06-2022
 - Added **Morrowind Enhanced Textures Atlased** (Visuals).
-- Added **Class-Conscious Character Progression** (Add-on guide). Replaces **Mort's Ultimate Leveling Experience** from the main guide.
+- Added **Class-Conscious Character Progression** (Addendum). Replaces **Mort's Ultimate Leveling Experience** from the main guide.
 - **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
 - **Morrowind Enhanced Textures** no longer includes instructions to install the Project Atlas patch from its Nexus page.
 
@@ -674,53 +674,52 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 - Mod order and load order are now provided as text files to be dumped into your Profile folder in Mod Organizer 2. This will automatically enable and re-order all mods featured in Morrowind Sharp.
 - Added **Morrowind Enhanced Textures** (Visuals). Replaces **Intelligent Textures**.
 - Removed **Incarnates Overhauled** (Visuals).
-- Removed **Flies** (Add-on guide).
-- Removed **Pincushion** (Add-on guide).
+- Removed **Flies** (Addendum).
+- Removed **Pincushion** (Addendum).
 
 02-04-2022
-- Modified **Chargen Revamped - Expanded Lands** installation instructions (Add-on guide).
-- Modified **Well Diversified STOTSP** installation instructions (Add-on guide).
-- Modified **Ownership Overhaul Patches** installation instructions (Add-on guide).
-- Re-added **Wolf Helmet Replacer** (Add-on guide).
-- Removed **Character Backgrounds** (Add-on guide).
-- Removed **Actually Unlimited Skeleton Keys** (Add-on guide).
-- Removed **Drop Light** (Add-on guide).
-- Removed **Ashmire Replacer** (Add-on guide).
-- Removed **Inscribed Maar Gan Rock** (Add-on guide).
-- Removed **3D Vines Vanilla Mushroom Trees** (Add-on guide).
-- Removed **Throbbing Meat - a Corprus Meat Replacer** (Add-on guide).
-- Removed **Bitter Coast Sounds (UMOPP)** (Add-on guide).
-- Removed **Glowbugs** (Add-on guide).
-- Removed **Heat Haze** (Add-on guide).
-- Removed **Mistify** (Add-on guide).
-- Removed **Shattered Stones - An Earthquake Mod** (Add-on guide).
-- Removed **Unto Dust** (Add-on guide).
-- Removed **Haunted Barrows** (Add-on guide).
-- Removed **Heartthrum** (Add-on guide).
-- Removed **Outdoor Banners With Sound** (Add-on guide).
-- Removed **Water Sounds** (Add-on guide).
-- Removed **Greetings for No Lore** (Add-on guide).
-- Removed **Tamriel_Data** (Add-on guide).
-- Removed **Solstheim - Tomb of the Snow Prince** (Add-on guide).
-- Removed **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch** (Add-on guide).
-- Removed **Nordic Dagon Fel** (Add-on guide).
-- Removed **Shrine of Azura** (Add-on guide).
-- Removed **Complete and Revised Dreugh Armor** (Add-on guide).
-- Removed **Complete and Revised Imperial Studded Leather Armor** (Add-on guide).
-- Removed **Complete and Revised Nordic Iron Armor** (Add-on guide).
-- Removed **Complete Duke's Guard Silver** (Add-on guide).
-- Removed **Concept Art Daedric Helmets** (Add-on guide).
-- Removed **Redoran War Armor and Sathil Mercenary Equipment** (Add-on guide).
-- Removed **Redoran War Armor** (Add-on guide).
-- Removed **Sathil Mercenary Armor** (Add-on guide).
-- Removed **Oriental Ebony Weapons** (Add-on guide).
-- Removed **Community Equipment Integration** (Add-on guide).
-- Removed **Antares' Mage Robes** (Add-on guide).
-- Removed **OAAB_Data** (Add-on guide).
-- Removed **OAAB Integrations** (Add-on guide).
-- Removed **OAAB Dwemer Lightning Rods** (Add-on guide).
-- Removed **OAAB Dwemer Pavements** (Add-on guide).
-- Removed **OAAB Weapons Integrated** (Add-on guide).
+- Modified **Well Diversified STOTSP** installation instructions (Addendum).
+- Modified **Ownership Overhaul Patches** installation instructions (Addendum).
+- Re-added **Wolf Helmet Replacer** (Addendum).
+- Removed **Character Backgrounds** (Addendum).
+- Removed **Actually Unlimited Skeleton Keys** (Addendum).
+- Removed **Drop Light** (Addendum).
+- Removed **Ashmire Replacer** (Addendum).
+- Removed **Inscribed Maar Gan Rock** (Addendum).
+- Removed **3D Vines Vanilla Mushroom Trees** (Addendum).
+- Removed **Throbbing Meat - a Corprus Meat Replacer** (Addendum).
+- Removed **Bitter Coast Sounds (UMOPP)** (Addendum).
+- Removed **Glowbugs** (Addendum).
+- Removed **Heat Haze** (Addendum).
+- Removed **Mistify** (Addendum).
+- Removed **Shattered Stones - An Earthquake Mod** (Addendum).
+- Removed **Unto Dust** (Addendum).
+- Removed **Haunted Barrows** (Addendum).
+- Removed **Heartthrum** (Addendum).
+- Removed **Outdoor Banners With Sound** (Addendum).
+- Removed **Water Sounds** (Addendum).
+- Removed **Greetings for No Lore** (Addendum).
+- Removed **Tamriel_Data** (Addendum).
+- Removed **Solstheim - Tomb of the Snow Prince** (Addendum).
+- Removed **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch** (Addendum).
+- Removed **Nordic Dagon Fel** (Addendum).
+- Removed **Shrine of Azura** (Addendum).
+- Removed **Complete and Revised Dreugh Armor** (Addendum).
+- Removed **Complete and Revised Imperial Studded Leather Armor** (Addendum).
+- Removed **Complete and Revised Nordic Iron Armor** (Addendum).
+- Removed **Complete Duke's Guard Silver** (Addendum).
+- Removed **Concept Art Daedric Helmets** (Addendum).
+- Removed **Redoran War Armor and Sathil Mercenary Equipment** (Addendum).
+- Removed **Redoran War Armor** (Addendum).
+- Removed **Sathil Mercenary Armor** (Addendum).
+- Removed **Oriental Ebony Weapons** (Addendum).
+- Removed **Community Equipment Integration** (Addendum).
+- Removed **Antares' Mage Robes** (Addendum).
+- Removed **OAAB_Data** (Addendum).
+- Removed **OAAB Integrations** (Addendum).
+- Removed **OAAB Dwemer Lightning Rods** (Addendum).
+- Removed **OAAB Dwemer Pavements** (Addendum).
+- Removed **OAAB Weapons Integrated** (Addendum).
 
 # ADDITIONAL MODS
 
