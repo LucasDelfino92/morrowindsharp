@@ -36,8 +36,6 @@ Files to install:
       Contains the main plugin, as well as the lua equipment patch.
     - [X] 01 MM - Enhanced Detection Patch  
       Patches effect costs, spell costs, and magnitudes of the new Detect spells from MM - Enhanced Detection Patch.
-    - [X] 02 Poison Crafting Patch  
-      Patches alchemy effect costs, poison values, and poison names from Poison Crafting, and creates new poisons.
     - [X] 03 Ashfall Patch  
       Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
     - [X] 04 Balanced Passive Races and Birthsigns Tweaked  
@@ -107,6 +105,9 @@ Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Bal
 Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
 
 # CHANGELOG
+
+02-10-2022
+- Removed **Poison Crafting Patch** option from the BAIN installer.
 
 02-06-2022
 - Removed **Class-Conscious Character Progression** as it has been included in the add-on guide.
