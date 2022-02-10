@@ -69,7 +69,7 @@ There are roughly 90 mods and 30 plugins total.
 
 ### How much space do I need to install these mods?
 
-Roughly 23GB, of which **Morrowind Enhanced Textures**, **AURA**, and **TUBES4MUSE** account the majority of. However, only the former is strongly encouraged that you install if this is your first time playing Morrowind.
+Roughly 18GB, of which **Morrowind Enhanced Textures**, **AURA**, and **TUBES4MUSE** account the majority of. However, only the former is strongly encouraged that you install if this is your first time playing Morrowind.
 
 ### How much time will it take me to install all mods?
 
