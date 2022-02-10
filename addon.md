@@ -100,9 +100,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 ### Menus
 
-[**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
-Adds a character name generator menu on starting the game, allowing you to randomize it based on race, including Ashlander and Jel names for Dunmer and Argonians.
-
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
@@ -154,57 +151,13 @@ Adds a hotkey for picking up books.
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a hotkey for summons, followers and companions to attack the selected target.
 
-[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708)  
-Adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu.
-
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)    
-Adds a hotkey to open and close any book and scroll in the game.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Closed Book Icons
-  - [X] 03 Melchior's Magnificent Manuscripts  
-    Compatibility patch for Melchior's Magnificent Manuscripts. Makes books and scrolls use the improvement meshes from the mod.
-
-> ℹ️ We will install **Melchior's Magnificent Manuscripts** in the **Visuals Add-on** section, and load it before this mod for **Switchable Scriptures** to patch it as intended.
-
 ## GAMEPLAY
-
-### Character creation
-
-[**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615)  
-Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell or Solstheim.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-- Uncheck all plugins minus **CREL_Vanilla_v3.1.ESP**. Click **OK**.
-
-### Combat mechanics
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
 
 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
 Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
-
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions  
-    Adds effect labels to potion meshes.
-
-[**Restocking Alchemy Essentials Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
-- Right-click on your installed **Restocking Alchemy Essentials** mod. Click **Reinstall Mod**.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch
-- Click **OK**.
-- Click **Replace** when asked about the mod already existing.
-
-### Magic mechanics
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -226,24 +179,31 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
 - BAIN options to install:
   - [X] 00 - Core
 
-[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
-Replaces the Light magic effect with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell. 
-- BAIN options to install:
-  - [X] 00 - Core Files
-  - [X] 01 - Optional FPS  
-    Improves performance at the cost of visuals.
-
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
 > ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
 
-[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
-Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
-- BAIN options to install:
-  - [X] 00 - Core
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
-### Service mechanics
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions  
+    Adds effect labels to potion meshes.
+
+[**Restocking Alchemy Essentials Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
+- Right-click on your installed **Restocking Alchemy Essentials** mod. Click **Reinstall Mod**.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 MWSE Poison Crafting Patch
+- Click **OK**.
+- Click **Replace** when asked about the mod already existing.
+
+### Service refusal
 
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
@@ -263,11 +223,6 @@ Adds extra service refusal dialogue once you progress further into the main ques
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
 Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
-
-[**Religions Elaborated (Healers)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Religions%20Elaborated%20(Healers).7z)  
-Adds healing services to healers.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47843) to original mod by **Caeris**. The featured version omits all other features from the mod, such as temple markers (which **Improved Temple Experience** already includes) and supply chests.
 
 ### Misc mechanics
 
