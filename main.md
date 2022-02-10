@@ -218,16 +218,12 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 Official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
 - Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
 
-> ℹ️ This plugin contains only the integration of the area effect arrows, without any additional balance or visual tweaks.
-
 [**Master Index**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index.7z)  
 Official plugin adding a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. Includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
 - Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
-
-> ℹ️ This plugin is compatible with the Master Index official plugin.
 
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
@@ -267,7 +263,6 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 [**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
-- Install as **Harder Barter (Sigourn Edit)**.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version makes its price progression slightly more forgiving but much more consistent at low value ranges.
 
