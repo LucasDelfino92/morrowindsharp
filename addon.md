@@ -189,12 +189,6 @@ Adds extra service refusal dialogue once you progress further into the main ques
 - BAIN options to install:
   - [X] 00 Morrowind Only
 
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
 Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
@@ -223,6 +217,9 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 
 > ℹ️ For a vanilla-friendlier alternative that also removes level up screens, see [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452).
 
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
 ### Stealth mechanics
 
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
@@ -242,6 +239,9 @@ Prevents the player from resting unless they activate a bed.
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
