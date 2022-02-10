@@ -100,16 +100,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 ### Menus
 
-[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
-Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
-
-> ℹ️ Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
-
-[**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
-Replaces the maps from **Map and Compass** to give them a more immersive look.
-- BAIN options to install:
-  - [X] 00 Yellowed Maps
-
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 
@@ -153,11 +143,8 @@ Adds a hotkey for summons, followers and companions to attack the selected targe
 
 ## GAMEPLAY
 
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
-Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Includes option for Short Blades only or all weapons. NPCs can backstab you as well.
-
-[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
-Add as Luck-based Critical Strike mechanic. The higher your Luck, the greater your chances to inflict a critical attack that deals extra damage. This applies to both you *and* your enemies.
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
+Endurance determines how long you can hold your breath under water.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -184,34 +171,15 @@ Using invisibility changes the way you view the world. Instead of only becoming 
 
 > ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#shader-setup) section.
 
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
+Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
 
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Grants the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole. 
+> ℹ️ Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed further ahead.
+
+[**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
+Replaces the maps from **Map and Compass** to give them a more immersive look.
 - BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions  
-    Adds effect labels to potion meshes.
-
-[**Restocking Alchemy Essentials Poison Crafting Patch**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patch for Poison Crafting. Merges edits to potion leveled lists, ensuring restocking potions as well new poisons available for purchase.
-- Right-click on your installed **Restocking Alchemy Essentials** mod. Click **Reinstall Mod**.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 MWSE Poison Crafting Patch
-- Click **OK**.
-- Click **Replace** when asked about the mod already existing.
-
-### Service refusal
-
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
-Implements and expands on the game's hinted at but missing mechanic of Hospitality Papers being required to conduct business in Sadrith Mora.
-
-[**FMI - Service Refusal and Contraband ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/FMI%20-%20Service%20Refusal%20and%20Contraband%20ESP%20Replacer.7z)  
-Fixes lore to gameplay inconsistencies pertaining to contraband items and service refusal. Includes fixes from Patch for Purists.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47456) to original mod by **PoodleSandwich**.
+  - [X] 00 Yellowed Maps
 
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
@@ -221,19 +189,8 @@ Adds extra service refusal dialogue once you progress further into the main ques
 - BAIN options to install:
   - [X] 00 Morrowind Only
 
-[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
-Prevents the player from renting beds if diseased, be it Common, Blight, or Corprus disease.
-
-### Misc mechanics
-
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
-Endurance determines how long you can hold your breath under water.
-
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
-The radius of a hand-held light will gradually diminish and eventually go out when the light extinguishes.
-
-[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)  
-At higher Luck you will have a better chance to obtain better items from a container that would spawn them at higher levels.
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -728,7 +685,6 @@ Y | Fast forward time | Pass the Time
 K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
-B | Opens/closes books and scrolls | Switchable Scriptures
 C | Equips light sources | Torch Hotkey
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
