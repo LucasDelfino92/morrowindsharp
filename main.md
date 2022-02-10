@@ -657,6 +657,15 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 - Removed **MM - Enhanced Light** (Addendum).
 - Removed **MM - Enhanced Telekinesis** (Addendum).
 - Removed **Religions Elaborated (Healers)** (Addendum).
+- Removed **Brutal Backstabbing** (Addendum).
+- Removed **Lucky Strike - A Critical Hit Mod** (Addendum).
+- Removed **Poison Crafting** (Addendum).
+- Removed **Restocking Alchemy Essentials Poison Crafting Patch** (Addendum).
+ -Removed **FMI - Hospitality Papers Expanded** (Addendum).
+- Removed **FMI - Service Refusal and Contraband ESP Replacer** (Addendum).
+- Removed **No Beds for the Diseased** (Addendum).
+- Removed **Light Decay** (Addendum).
+- Removed **Lucky Loot** (Addendum).
 
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
