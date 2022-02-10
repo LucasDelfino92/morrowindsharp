@@ -648,6 +648,16 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 
 # CHANGELOG
 
+02-10-2022
+- Remind me to never let anyone else tell me what should or what shouldn't be in the guide, unless the mod has bugs.
+- Removed **Character Creation Name Generator** (Addendum).
+- Removed **Chargen Revamped - Expanded Lands** (Addendum).
+- Reomved **Quick Loadouts** (Addendum).
+- Removed **Switchable Scriptures** (Addendum).
+- Removed **MM - Enhanced Light** (Addendum).
+- Removed **MM - Enhanced Telekinesis** (Addendum).
+- Removed **Religions Elaborated (Healers)** (Addendum).
+
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
 - **MET Atlas Add-on** was updated to remove buggy textures and duplicate textures from Morrowind Enhanced Textures (Visuals).
