@@ -423,7 +423,6 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- **Rename** the file to **No Female Nord Screeching** on MO2 installation.
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes sheep sounds from Morrowind.	
