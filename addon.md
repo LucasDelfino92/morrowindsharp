@@ -86,8 +86,6 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
-> ℹ️ This omits tweaks that are meant to be used alongside **True Lights and Darkness**.
-
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - BAIN options to install:
@@ -104,8 +102,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 [**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
 Adds a character name generator menu on starting the game, allowing you to randomize it based on race, including Ashlander and Jel names for Dunmer and Argonians.
-
-> ℹ️ Because this mod triggers before you even choose your race, it is recommended you plan ahead which character you want to build before settling on a name.
 
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
 Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
