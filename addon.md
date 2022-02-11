@@ -359,17 +359,6 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
 
-### VFX
-
-[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
-Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-
-Files to install:
-- **Mist Retexture** (Main files)
-
-[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
-Makes the entrance to the Cavern of the Incarnate visible only during the magical hours of twilight.
-
 ### Misc
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
@@ -429,14 +418,6 @@ Vanilla-friendly replacer of each vanilla spell sound.
 Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
 
 > ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
-
-## DIALOGUE
-
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
-[**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
-Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
 ## FINISHING TOUCHES
 
