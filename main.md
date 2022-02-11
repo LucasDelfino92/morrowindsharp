@@ -373,6 +373,12 @@ Replaces the water in the Palace of Vivec's canals.
 
 ### VFX
 
+[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+
+Files to install:
+- **Mist Retexture** (Main files)
+
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - BAIN options to install:
@@ -461,6 +467,9 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
 
 ## FINISHING TOUCHES
 
@@ -664,11 +673,15 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 - Added **Give or Take** (User interface).
 - Added **Bitter Coast Scum Replacer** (Visuals).
 - Moved **Vivec Palace Water Replacer** to the main guide (Visuals).
+- Moved **Mist Retexture** to the main guide (Visuals).
+- Moved **FMI - NotAllDunmer** to the main guide (Dialogue).
 - Removed **MWSE Alchemy Takes Time (inpv edit)** (Overhauls).
 - Removed **Nordic Chest Replacer** (Addendum).
 - Removed **Trackless Grazeland** (Addendum).
 - Removed **Grass for Trackless Grazeland** (Addendum). Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate distant land.
 - Removed **Well Diversified STOTSP** (Addendum).
+- Removed **The Dream is the Door** (Addendum).
+- Removed **Outfit Greetings Tweaked** (Addendum).
 - Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted** (Addendum). Make sure to unhide this mesh.
 - Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks** (Addendum). Make sure to reinstall this mod.
 
