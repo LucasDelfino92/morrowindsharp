@@ -285,6 +285,22 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
+[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
+Opens Vivec's cantons.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Vanilla Placement (ESP)
+
+[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
+Closes Molag Mar's canton.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patches for both canton mods.
+- BAIN options to install:
+  - [X] 01 No-Frills Series
+
 ### Weather and lighting
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
@@ -421,24 +437,6 @@ Improves idle dialogue filtering so that not all Dunmer refer to themselves as s
 
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)  
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
-
-## CANTONS
-
-[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
-Opens Vivec's cantons.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Vanilla Placement (ESP)
-
-[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
-Closes Molag Mar's canton.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patches for a series of mods.
-- BAIN options to install:
-  - [X] 01 No-Frills Series
 
 ## FINISHING TOUCHES
 
