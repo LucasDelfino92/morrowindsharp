@@ -329,7 +329,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
-- Download and run the **Wrye Mash 2019 x64 - Installer** main file.
+- Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
 - Eventually the installation wizard will ask you to fill the following entries:
@@ -337,15 +337,14 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
    - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
 - Click **Next** and then click **Finish**.
 - Wrye Mash x64 will now launch. Close the program.
-
-> ℹ️ The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
-
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
-
-- Download the **Wrye Mash 2021 - x64 - beta6 - manual installation archive** update file.
+- Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
 > ℹ️ This will update WryeMash to the latest version.
+
+> ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
+
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
 
 ### tes3cmd
 
