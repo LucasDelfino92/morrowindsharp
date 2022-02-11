@@ -285,12 +285,6 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
-Replaces the water in the Palace of Vivec's canals.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Original Color
-
 ### Weather and lighting
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
