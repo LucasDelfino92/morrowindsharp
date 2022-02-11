@@ -285,36 +285,11 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
-[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383)  
-Replaces the standard wooden chests in Nordic Tombs with a unique model that blends in better with the environment.
-
-[**Nordic Chest Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Chest%20Replacer%20ESP%20Replacer.7z)  
-Forwards Patch for Purists fixes to the plugin.
-
-[**Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/44194)  
-Removes the track textures and road markers from the Grazeland to align with in-game dialogue.
-
-[**Grass for Trackless Grazeland**](https://www.nexusmods.com/morrowind/mods/48857)  
-Modifies Remiros' Groundcover Grazeland plugin so that grass is generated in the (now grassy) tracks.
-
-Files to install:
-- **Remiros Groundcover** (Main files)
-  - Disable **Rem_GL_Trackless_GL.ESP**. ⚠️ Do not hide or delete it.
-  - Hide **Rem_GL.esp** from **Remiros' Groundcover**.
-
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
-
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 01 Original Color
-
-[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)  
-Creates variants of the well mesh to better fit Imperial and Solstheim architecture.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Option 1 Vanilla
 
 ### Weather and lighting
 
@@ -354,6 +329,14 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 [**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)  
 Forwards Patch for Purists fixes to the plugin.
 
+[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+Adds the missing belt to the male Imperial Steel Cuirass.
+- BAIN options to install:
+  - [X] 00 Male Belt
+
+[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
+Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
+
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
@@ -365,18 +348,6 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
-- Hide **meshes\a\imperial_c_female.nif**.
-
-> ℹ️ This omits the edit to the female Imperial Steel Cuirass.
-
-[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Adds the missing belt to the male Imperial Steel Cuirass, and turns the pink female Imperial Steel Cuirass into a dark shade of brown/black. You can choose which ones you want through the BAIN installer.
-- BAIN options to install:
-  - [X] 00 Male Belt
-  - [X] 01 Female Dark Cuirass
-
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
-Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, analogous to the Bear and Snow Bear Helmet.
 
 ### VFX
 
