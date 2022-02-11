@@ -342,6 +342,12 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 - BAIN options to install:
   - [X] 00 Core
 
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
+Replaces the scum in the Bitter Coast.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Animated Replacer - Original Color
+
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 - BAIN options to install:
@@ -358,6 +364,12 @@ Adds groundcover to almost all regions.
 - Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
+Replaces the water in the Palace of Vivec's canals.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 01 Original Color
 
 ### VFX
 
@@ -647,6 +659,16 @@ That said, here is a list of mods in the guide that tend to have compatibility i
 My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look for conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 # CHANGELOG
+
+02-11-2022
+- Added **Bitter Coast Scum Replacer** (Visuals).
+- Moved **Vivec Palace Water Replacer** to the main guide (Visuals).
+- Removed **Nordic Chest Replacer** (Addendum).
+- Removed **Trackless Grazeland** (Addendum).
+- Removed **Grass for Trackless Grazeland** (Addendum). Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate distant land.
+- Removed **Well Diversified STOTSP** (Addendum).
+- Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted** (Addendum). Make sure to unhide this mesh.
+- Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks** (Addendum). Make sure to reinstall this mod.
 
 02-10-2022
 - Remind me to never let anyone else tell me what should or what shouldn't be in the guide, unless the mod has bugs.
