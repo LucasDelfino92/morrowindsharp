@@ -1,4 +1,4 @@
-## BTBGI ADD-ON
+## BTB's GAME IMPROVEMENTS
 
 ### Preliminary steps
 
