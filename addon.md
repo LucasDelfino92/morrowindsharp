@@ -86,16 +86,6 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 Flames are now glow mapped and/or properly illuminated.
 - Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
 
-[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
-Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- BAIN options to install:
-  - [X] 00 Core
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-
 ## USER INTERFACE
 
 ### Menus
@@ -138,13 +128,7 @@ Add hotkeys for swimming and levitating. Use the jump key to float upwards, and 
 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
 Adds a hotkey for picking up books.
 
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-Adds a hotkey for summons, followers and companions to attack the selected target.
-
 ## GAMEPLAY
-
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
-Endurance determines how long you can hold your breath under water.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -189,8 +173,8 @@ Adds extra service refusal dialogue once you progress further into the main ques
 - BAIN options to install:
   - [X] 00 Morrowind Only
 
-[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
-Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
+Endurance determines how long you can hold your breath under water.
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
@@ -207,8 +191,6 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 ## OVERHAULS
 
-### Character progression
-
 [**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
 
@@ -217,31 +199,24 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 
 > ℹ️ For a vanilla-friendlier alternative that also removes level up screens, see [**MULE - Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452).
 
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-### Stealth mechanics
-
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps. Compatible and complemented by **Locks and Traps Detection**.
 
-### Balance
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from resting unless they activate a bed.
+
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - Hide **Ownership Overhaul.ESP**.
 
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-Prevents the player from resting unless they activate a bed.
-
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
@@ -256,8 +231,6 @@ Adds new, immersive work stations throughout the world; search for new grindston
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
-
-### Survival
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
@@ -277,14 +250,6 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 
 ### Environment
 
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
-
-[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
-Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
-
 [**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
 Opens Vivec's cantons.
 - BAIN options to install:
@@ -300,36 +265,6 @@ Closes Molag Mar's canton.
 Compatibility patches for both canton mods.
 - BAIN options to install:
   - [X] 01 No-Frills Series
-
-### Weather and lighting
-
-[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
-Retextures the sun to make it more realistic and detailed.
-
-Files to install:
-- **Better Sun** (Main files)
-
-[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
-Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
-
-[**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311)  
-Contains the reworked night sky mesh required mesh **Better Night Sky**.
-
-Files to install:
-- **Skies .IV Resource Pack** (Optional files)
-  - Hide all files inside the **meshes** folder minus **sky_night_02.nif**.
-
-[**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
-A high resolution night sky replacer.
-
-Files to install:
-- **Better Night Sky (darker)** (Optional files)
-
-[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
-Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
-
-[**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
 ### Equipment
 
@@ -380,45 +315,6 @@ Files to install:
 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
 Upscaled **Simple Golden Gold** textures.
 
-## AUDIO
-
-### SFX
-
-[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
-Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
-
-Files to install:
-- **AURA 3.0.2 - full**
-- **AURA 3.0 - replacer** (Optional files)  
-  Replaces some of the worst sounds from Morrowind.
-  - BAIN options to install:
-    - [X] 00 Waves
-    - [X] 01 Boat waves
-    - [X] 02 Underwater
-    - [X] 03 Rain
-    - [X] 04 Heavy Rain
-    - [X] 05 Small Waterfall
-    - [X] 06 Fire
-    - [X] 07 Jump (land)
-    - [X] 08 Barefoot
-    - [X] 09 Ashstorm loop
-    - [X] 10 Blight storm loop
-    - [X] 11 Blizzard loop
-    - [X] 12 Swimming
-
-> ℹ️ On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
-
-[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells.7z)  
-Reduces the volume of doors and spells. Mod by **Sigourn**.
-
-[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
-Vanilla-friendly replacer of each vanilla spell sound.
-
-[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
-Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
-
-> ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
-
 ## FINISHING TOUCHES
 
 ### Mod config
@@ -447,8 +343,6 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
   Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Lucky Strike  
-  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
 - [ ] 04 Smarter Soultrap  
@@ -491,8 +385,6 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
 
-> ℹ️ **Trackless Grazeland.ESP** will appear unticked, because it is missing a master file. However, following the steps mentioned above will remove the dependency on **Texture Fix 2.0.esm**, allowing you to play the mod without said mod installed.
-
 ### Manually cleaning plugins
 
 Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) to delete the unwanted records.
@@ -503,65 +395,6 @@ Some of our installed plugins contain changes we are not really interested in. T
 - Save the plugin as **Services Restored.ESP**, overwriting the original.
 
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
-
-### Automatically cleaning plugins
-
-**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3cmd).
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on each of the following plugins:
-  - **TheMidnightOil.ESP**
-- With all of them selected, right-clik and click **Clean with tes3cmd**.
-- After the process is over, close the window.
-
-### Conflict resolution
-
-> ⚠️ This section is only required if you use mods not featured in this guide. From January 28th and on, none of these tools are necessary to ensure maximum compatibility with the featured mods.
-
-**tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-- **multipatch.esp** will now be present at the end of your load order.
-
-**TES3Merge** lets us merge conflicting record edits in our active plugins in order to minimize them, generating a **Merged Objects.esp** file which we will have to place at the end of our load order.
-
-- Run TES3Merge in Mod Organizer 2. Once it's finished, press any key to exit.
-- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
-
-### Updating and repairing saves
-
-When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
-```
-The currently selected master files and plugins do not match the ones used by this save game. 
-Errors may occur during load or game play. Do you wish to continue?
-```
-To fix this, we have to synchronize our save's plugins to our current load order. In addition, we will also want to repair our save to fix any potential leftover issues from updating it. To do this, we will use **Wrye Mash**.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
-- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
-- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
-- Click on the **Save** button further below the same panel.
-- Right click on the save you just updated, and click on **Repair All**. Wrye Mash will repair your save file.
-- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
-
-You do not need to repeat this process for each of your outdated saves, just the ones you are planning to load.
-
-### Re-running Distant Land
-
-MGE XE's Distant Land setup should be rerun. If you followed the steps [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab) earlier, the process will be much easier.
-
-- Run MGE XE in Mod Organizer 2.
-- In the **Distant Land** tab, click **Distant land generator wizard**.
-- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
-- Click **Continue**.
-- Click **Run above steps using saved / default settings**.
-- Click **Finish** when the process is over.
-
-> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
 
 ### Shader setup
 
@@ -587,15 +420,6 @@ Eye Adaptation (HDR)
 
 > ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
-### Updating MWSE
-
-When you installed MGE XE, it automatically downloaded the latest MWSE update. However, by the time you are done following this guide, it's perfectly possible that a new MWSE update has already been released. This means you will have to update MWSE yourself.
-
-- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
-- A command window will open and close shortly after, having updated MWSE to the latest version.
-
-> ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
-
 ### Additional MCP patches
 
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended. Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
@@ -606,37 +430,6 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
-### Closing comments
-
-Broadly speaking, these are the steps you should follow whenever you install new mods. To summarize:
-
-1. Get a reliable mod order and load order working.
-2. Synchronize mod masters to avoid in-game warnings.
-3. Clean dirty plugins.
-4. Solve conflicts.
-5. Update and repair your saves.
-6. Re-run Distant Land.
-7. Update MWSE.
-8. Configure the installed mods, if applicable.
-
-# MOD KEYBINDINGS
-
-This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
-
-Key | Function | Added by
------------- | ------------- | -------------
-Y | Fast forward time | Pass the Time
-K | Orders followers to attack the current target | Kill Command
-L | Equips lockpicks | Security Enhanced
-P | Equips probes | Security Enhanced
-C | Equips light sources | Torch Hotkey
-V | Opens shader controller | MGE XE Shader Pack
-Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
-Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
-Ctrl+Y | Turbo fast forward time | Pass the Time
-Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
-Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
-Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Shift+E | Equips/unequips item in inventory | Quick Equip
-Shift+E | Use potion/ingredient in inventory | Quick Equip
-Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
+[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
