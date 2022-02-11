@@ -155,6 +155,9 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ### Hotkeys
 
+[**Give or Take**](https://www.nexusmods.com/morrowind/mods/50716)  
+Adds "Give" and "Take" buttons to any suitable actor/container, so you can easily move (all/all filtered) things in and out.
+
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
 
@@ -249,9 +252,6 @@ Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time me
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**MWSE Alchemy Takes Time (inpv edit)**](https://www.nexusmods.com/morrowind/mods/50446)  
-Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.
 
 [**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
@@ -661,8 +661,10 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 # CHANGELOG
 
 02-11-2022
+- Added **Give or Take** (User interface).
 - Added **Bitter Coast Scum Replacer** (Visuals).
 - Moved **Vivec Palace Water Replacer** to the main guide (Visuals).
+- Removed **MWSE Alchemy Takes Time (inpv edit)** (Overhauls).
 - Removed **Nordic Chest Replacer** (Addendum).
 - Removed **Trackless Grazeland** (Addendum).
 - Removed **Grass for Trackless Grazeland** (Addendum). Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate distant land.
