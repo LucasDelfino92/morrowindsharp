@@ -72,6 +72,11 @@ Restores visual effects on creatures that weren't displayed for technical reason
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
+
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)  
 Greatly improves performance and fixes some mesh errors.
 - BAIN options to install:
@@ -161,6 +166,9 @@ Adds "Give" and "Take" buttons to any suitable actor/container, so you can easil
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
 
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
+Adds a hotkey for summons, followers and companions to attack the selected target.
+
 [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 Adds a hotkey to speed up time.
 
@@ -233,6 +241,9 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use.
@@ -348,6 +359,19 @@ Replaces the scum in the Bitter Coast.
   - [X] 00 Core
   - [X] 01 Animated Replacer - Original Color
 
+[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
+Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+
+> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md#re-running-distant-land) section.
+
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
+Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
+
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 - BAIN options to install:
@@ -410,6 +434,12 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
+[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
+Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
+
+[**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - BAIN options to install:
@@ -426,6 +456,28 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
+[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
+Retextures the sun to make it more realistic and detailed.
+
+Files to install:
+- **Better Sun** (Main files)
+
+[**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)  
+Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
+
+[**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311)  
+Contains the reworked night sky mesh required mesh **Better Night Sky**.
+
+Files to install:
+- **Skies .IV Resource Pack** (Optional files)
+  - Hide all files inside the **meshes** folder minus **sky_night_02.nif**.
+
+[**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
+A high resolution night sky replacer.
+
+Files to install:
+- **Better Night Sky (darker)** (Optional files)
+
 ### Equipment
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
@@ -439,6 +491,8 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 
 ## AUDIO
 
+### SFX
+
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
@@ -447,6 +501,43 @@ Removes sheep sounds from Morrowind.
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 Reduces the frequency of idle Cliff Racer screeches.
+
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
+Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
+
+Files to install:
+- **AURA 3.0.2 - full**
+- **AURA 3.0 - replacer** (Optional files)  
+  Replaces some of the worst sounds from Morrowind.
+  - BAIN options to install:
+    - [X] 00 Waves
+    - [X] 01 Boat waves
+    - [X] 02 Underwater
+    - [X] 03 Rain
+    - [X] 04 Heavy Rain
+    - [X] 05 Small Waterfall
+    - [X] 06 Fire
+    - [X] 07 Jump (land)
+    - [X] 08 Barefoot
+    - [X] 09 Ashstorm loop
+    - [X] 10 Blight storm loop
+    - [X] 11 Blizzard loop
+    - [X] 12 Swimming
+
+> ℹ️ On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
+
+[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells.7z)  
+Reduces the volume of doors and spells. Mod by **Sigourn**.
+
+[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)  
+Vanilla-friendly replacer of each vanilla spell sound.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
+Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
+
+> ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
+
+### Music
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)  
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
@@ -497,8 +588,6 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
   Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Lucky Strike  
-  Nerfs critical strike damage, and comments out a line to disable MWSE.log spam.
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
 - [ ] 04 Ashfall  
@@ -511,6 +600,10 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
 - [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
+- [ ] 07 AURA  
+  Disables player voice taunts.
+- [ ] 07 Character Sound overhaul  
+  Comments out a line in the **main.lua** to disable MWSE.log spam.
 </details>
 
 ### Mod order and load order
@@ -532,6 +625,16 @@ Wrye Mash lets us synchronize the masters of mods we have installed. This will p
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
+
+### Automatically cleaning plugins
+
+**tes3cmd** lets us clean all active plugins in our load order, either individually or in mass. The latter process can take quite a while. For the purpose of this guide, we will only clean the plugins we know are dirty. For more information on how to clean plugins in mass, [**check the tes3cmd section**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3cmd).
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, CTRL+left click on each of the following plugins:
+  - **TheMidnightOil.ESP**
+- With all of them selected, right-clik and click **Clean with tes3cmd**.
+- After the process is over, close the window.
 
 ### Conflict resolution
 
@@ -642,6 +745,7 @@ This is a handy reference table which will hopefully help you have a better idea
 Key | Function | Added by
 ------------ | ------------- | -------------
 Y | Fast forward time | Pass the Time
+K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
@@ -655,6 +759,7 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+E | Equips/unequips item in inventory | Quick Equip
 Shift+E | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # COMPATIBILITY
 
@@ -668,6 +773,25 @@ That said, here is a list of mods in the guide that tend to have compatibility i
 My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tes3view) to look for conflicts and determine the best course of action, whether that is modifying your load order, using TESAME to delete conflicting records, or create a patch using the Construction Set.
 
 # CHANGELOG
+
+02-12-2022
+- Moved **Improved Thrown Weapon Projectiles** to the main guide (Patches).
+- Moved **Kill Command** to the main guide (User interface).
+- Moved **Realistic Movement Speeds** to the main guide (Gameplay).
+- Moved **Distant Mournhold** to the main guide (Visuals).
+- Moved **Know Thy Ancestors** to the main guide (Visuals).
+- Moved **I Lava Good Mesh Replacer** to the main guide (Visuals).
+- Moved **The Midnight Oil - Lighting Overhaul** to the main guide (Visuals).
+- Moved **Transporter Lights - MWSE** to the main guide (Visuals).
+- Moved **Better Sun** to the main guide (Visuals).
+- Moved **Dying Worlds - Moons Retexture** to the main guide (Visuals).
+- Moved **Skies .IV Resource Pack** to the main guide (Visuals).
+- Moved **Better Night Sky** to the main guide (Visuals).
+- Moved **AURA** to the main guide (Audio).
+- Moved **Quieter Doors and Spells** to the main guide (Audio).
+- Moved **Spell Sounds Enhanced** to the main guide (Audio).
+- Moved **Character Sound Overhaul** to the main guide (Audio).
+- Removed **Smarter Soultrap** (Addendum).
 
 02-11-2022
 - Added **Give or Take** (User interface).
