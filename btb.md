@@ -1,10 +1,6 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
+# BTBGI ADD-ON
 
-> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
-
-# PRELIMINARY STEPS
+## PRELIMINARY STEPS
 
 This guide recommends a number of mods in favor of others already installed in Morrowind Sharp (both Main and Add-on guides), or different versions of already installed mods. Thus, you should uninstall them.
 
@@ -15,8 +11,6 @@ These mods are:
   This guide will recommend a BTBGI-compatible version of the mod.
 - (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
   BTBGI already includes this mod.
-
-# BTBGI ADD-ON
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements.
@@ -65,15 +59,8 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
-### Mod config
-
-A number of mods require additional in-game configuration.
-	
-[**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
-Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
-- BAIN options to install:
-  - [X] 00 All in One: recommended option. Includes all configuration options, minus the last one.
-  - [X] 08 Sneaky Strike: adjusts the critical strike damage range to play better with **BTB's Game Improvements**. Not included in **All in One**.
+[**Sneak Strike Mod Config**]()
+Adjusts the critical strike damage range to play better with **BTB's Game Improvements**.
 
 ### Additional MCP patches
 
@@ -85,7 +72,3 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
-
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
