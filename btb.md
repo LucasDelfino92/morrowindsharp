@@ -1,8 +1,8 @@
-# BTBGI ADD-ON
+## BTBGI ADD-ON
 
-## PRELIMINARY STEPS
+### Preliminary steps
 
-This guide recommends a number of mods in favor of others already installed in Morrowind Sharp (both Main and Add-on guides), or different versions of already installed mods. Thus, you should uninstall them.
+Some of the mods installed in Morrowind Sharp should be uninstalled for this section. They will be replaced in favor of more compatible versions.
 
 These mods are:
 - (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
@@ -11,6 +11,8 @@ These mods are:
   This guide will recommend a BTBGI-compatible version of the mod.
 - (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
   BTBGI already includes this mod.
+
+### BTB's Game Improvements
 
 [**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements.
@@ -47,6 +49,8 @@ Files to install:
   - BAIN options to install:
     - [X] 00 Core  
       Contains the main plugin and the readme.
+
+### Complementary mods
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
