@@ -4,12 +4,6 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# DISCLAIMER
-
-The guide presented here assumes you have already followed all instructions found in [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Please abstain from using this guide until you've correctly set up Morrowind Sharp.
-
-At the request of many users, this document will guide you through the installation of BTBGI (Necro Edit) and related mods, which I suggest using alongside it for a complete experience.
-
 # PRELIMINARY STEPS
 
 This guide recommends a number of mods in favor of others already installed in Morrowind Sharp (both Main and Add-on guides), or different versions of already installed mods. Thus, you should uninstall them.
@@ -71,18 +65,6 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
-## FINISHING TOUCHES
-
-### Mod order and load order
-
-[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
-
-> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
- 
-> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
-
 ### Mod config
 
 A number of mods require additional in-game configuration.
@@ -103,20 +85,6 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
 Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
-
-# CHANGELOG
-
-02-10-2022
-- Removed **Poison Crafting Patch** option from the BAIN installer.
-
-02-06-2022
-- Removed **Class-Conscious Character Progression** as it has been included in the add-on guide.
-
-01-28-2022
-- Updated **BTBGI (Necro Edit) Tweaked** installation instructions.
-
-12-20-2021
-- Moved almost all mods to the Morrowind# Add-on guide. This is now a BTBGI exclusive guide.
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
