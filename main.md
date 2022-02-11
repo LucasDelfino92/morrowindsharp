@@ -782,6 +782,9 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 
 # CHANGELOG
 
+<details>
+	<summary>Click to expand changelog</summary>
+
 02-12-2022
 - Moved **Improved Thrown Weapon Projectiles** to the main guide (Patches).
 - Moved **Kill Command** to the main guide (User interface).
@@ -898,7 +901,8 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 - Removed **OAAB Dwemer Lightning Rods** (Addendum).
 - Removed **OAAB Dwemer Pavements** (Addendum).
 - Removed **OAAB Weapons Integrated** (Addendum).
-
+</details>
+	
 # ADDITIONAL MODS
 
 For additional mods that tackle more specific aspects of the game, [**check out the addendum guide**](https://github.com/Sigourn/morrowind-sharp/blob/master/addon.md).
