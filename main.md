@@ -92,21 +92,21 @@ Greatly improves performance and fixes some mesh errors.
 
 > ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
-[**Project Atlas Master**](https://github.com/revenorror/Project-Atlas)  
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases. The mod mantains parity with the **Morrowind Optimization Patch**, further improving performance on existing meshes.
-- Click on the green **Code** button at the top of the page and then **Download ZIP**.
-- Extract the contents of the archive.
-- From the extracted archive, select all individual folders and the README.md (do *not* select the folder containing all these) and create a new archive called **Project Atlas Master**. If done correctly, you should be prompted to install this file as a BAIN installer in MO2.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Textures - Intelligent Textures  
-    High resolution atlases based off Intelligent Textures. Does not require the original mod.
-  - [X] 05 Glow in the Dahrk Patch  
-    Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
-  - [X] 06 Graphic Herbalism Patch  
-    Compatibility patch for Graphic Herbalism. Uses compatible meshes.
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
 
-> ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before **Project Atlas** for it to patch them as intended.
+Files to install:
+- **Project Atlas** (Main files)
+  - BAIN options to install:
+    - [X] 00 BATs
+    - [X] 00 Core
+    - [X] 01 Textures - Vanilla
+    - [X] 06 Glow in the Dahrk Patch  
+      Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
+    - [X] 07 Graphic Herbalism Patch  
+      Compatibility patch for Graphic Herbalism. Uses compatible meshes.
+
+> ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
 > ⚠️ Note **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
@@ -309,8 +309,11 @@ Files to install:
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-[**MET Atlas Add-on**](https://drive.google.com/file/d/1SfBDULLU_3tXsOSNQDsWHUG04CQBmA-0/view?usp=sharing)  
-Additional atlased textures not included in Morrowind Enhanced Textures.
+[**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
+Compatibility patch for Morrowind Enhanced Textures.
+
+Files to install:
+- **Textures - MET** (Main files)
 
 ### Menus and splash screens
 
