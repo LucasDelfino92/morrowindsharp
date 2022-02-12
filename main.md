@@ -789,6 +789,10 @@ My recommendation is using [**TES3View**](https://github.com/Sigourn/morrowind-s
 	<summary>Click to expand changelog</summary>
 
 02-12-2022
+- Updated **Project Atlas** installation instructions.
+- Added **Project Atlas - MET** (Visuals).
+
+02-12-2022
 - Moved **Improved Thrown Weapon Projectiles** to the main guide (Patches).
 - Moved **Kill Command** to the main guide (User interface).
 - Moved **Realistic Movement Speeds** to the main guide (Gameplay).
