@@ -6,7 +6,7 @@
 
 # DISCLAIMER
 
-The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind# guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
+The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind# guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document.
 
 # MORROWIND# ADDENDUM
 
@@ -319,6 +319,8 @@ Upscaled **Simple Golden Gold** textures.
 
 ### Mod config
 
+> ℹ️ This section replaces the one from the main guide.
+
 [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
@@ -367,6 +369,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ### Mod order and load order
 
+> ℹ️ This section replaces the one from the main guide.
+
 [**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
@@ -376,6 +380,8 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Manually cleaning plugins
+
+> ℹ️ This section should be run after the **Automatically cleaning plugins** section from the main guide.
 
 Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) to delete the unwanted records.
 
@@ -387,6 +393,8 @@ Some of our installed plugins contain changes we are not really interested in. T
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
 ### Shader setup
+
+> ℹ️ This section replaces the one from the main guide.
 
 We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
@@ -412,11 +420,12 @@ Eye Adaptation (HDR)
 
 ### Additional MCP patches
 
+> ℹ️ This section is an addendum to the one from the main guide.
+
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended. Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
 Category | Patch | Description
 ------------ | ------------- | -------------
-Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
