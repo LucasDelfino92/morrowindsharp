@@ -21,7 +21,7 @@ I want to thank the following people for their support. Not only for their kind 
 
 ## About
 
-Morrowind# (pronounced *Sharp*) is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind# is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
+**Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind# is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
 
 This guide is split in two sections:
 
@@ -57,7 +57,7 @@ No. I suggest following RandomPal's [**An Alternative to Morrowind Rebirth**](ht
 
 Yes. That said, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
 
-### Is this mod compatible with Morrowind#?
+### Is this mod compatible with Morrowind Sharp?
 
 I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#checking-for-conflicts). For instructions on how to install this tool, check the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) page.
 
