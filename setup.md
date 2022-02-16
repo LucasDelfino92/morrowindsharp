@@ -200,13 +200,7 @@ Morrowind# will be the profile we'll be modding. You can always revert to the **
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
 
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
-
-**Options**
-- Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
-
-**Morrowind engine settings**
-- You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
+> ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ### Config tab
 
