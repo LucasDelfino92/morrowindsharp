@@ -508,8 +508,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
-Files to install:
-- **AURA 3.0.2 - full**
+Additional files to install:
 - **AURA 3.0 - replacer** (Optional files)  
   Replaces some of the worst sounds from Morrowind.
   - BAIN options to install:
