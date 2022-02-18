@@ -1,4 +1,4 @@
-# MORROWIND#: A Morrowind Modding Guide
+# MORROWIND SHARP: A Morrowind Modding Guide
 
 Last updated: February 13th, 2022.
 
@@ -21,7 +21,7 @@ I want to thank the following people for their support. Not only for their kind 
 
 ## About
 
-**Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind# is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
+**Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind Sharp is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
 
 This guide is split in two sections:
 
@@ -77,7 +77,7 @@ Depends on how thorough you are about it. It shouldn't take you longer than four
 
 ### How often is the guide updated?
 
-Morrowind# is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
 ### Is there a Wabbajack installer for the guide available?
 
