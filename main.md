@@ -23,7 +23,7 @@ Additional files to install (found in the same Nexus page):
 
 > ℹ️ When in doubt, refer back to this section.
 
-# MORROWIND#
+# MORROWIND SHARP
 
 ## SHADERS
 
@@ -620,7 +620,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 [**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
  
@@ -697,7 +697,7 @@ MGE XE's Distant Land setup should be rerun. If you followed the steps [**in thi
 
 ### Shader setup
 
-We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
+We installed a number of shaders at the beginning of Morrowind Sharp. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
@@ -773,7 +773,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # COMPATIBILITY
 
-Morrowind# is presented "as is": expect no support from me if you decide to install hundreds of mods on top.
+**Morrowind Sharp** is presented "as is": expect no support from me if you decide to install hundreds of mods on top.
 
 That said, here is a list of mods in the guide that tend to have compatibility issues with other mods.
 
