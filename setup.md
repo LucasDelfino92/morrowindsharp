@@ -184,10 +184,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [ ] Use profile-specific Save Games.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind#** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Morrowind#** profile.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**. Close the window.
+- On the **Profile** tab, select the **Morrowind Sharp** profile.
 
-Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ## MGE Configuration
 
@@ -466,5 +466,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
+[To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
