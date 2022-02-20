@@ -4,11 +4,13 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# DISCLAIMER
+# PREAMBLE
 
-The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind# guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document.
+## Disclaimer
 
-# MORROWIND# ADDENDUM
+The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind Sharp guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document.
+
+# MORROWIND SHARP ADDENDUM
 
 ## PATCHES
 
@@ -315,9 +317,7 @@ Files to install:
 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
 Upscaled **Simple Golden Gold** textures.
 
-## FINISHING TOUCHES
-
-### Mod config
+## MOD CONFIG
 
 > ℹ️ This section replaces the one from the main guide.
 
@@ -367,36 +367,9 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Comments out a line in the **main.lua** to disable MWSE.log spam.
 </details>
 
-### Mod order and load order
-
-> ℹ️ This section replaces the one from the main guide.
-
-[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind#**, overwriting when prompted.
-
-> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
- 
-> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
-
-### Manually cleaning plugins
-
-> ℹ️ This section should be run after the **Automatically cleaning plugins** section from the main guide.
-
-Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) to delete the unwanted records.
-
-- Run TESAME in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
-  - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original.
-
-> ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
+## SHADERS
 
 ### Shader setup
-
-> ℹ️ This section replaces the one from the main guide.
-
-We installed a number of shaders at the beginning of Morrowind#. If you've followed the optional sections of the guide, then there are a couple of mods that install additional shaders.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
@@ -417,6 +390,90 @@ Eye Adaptation (HDR)
 - Click **Save** after setting up your shader chain.
 
 > ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+
+## FINISHING TOUCHES
+
+### Adjusting mod order and load order
+
+[**Morrowind Sharp Modlist and Loadorder**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20Modlist%20and%20Loadorder.7z)  
+Adjusts mod order and load order for Morrowind Sharp to work as intended.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+
+### Synchronizing mod masters
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
+- Repeat this process for each of the faulty plugins.
+
+### Cleaning plugins
+
+- Run [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) in Mod Organizer 2.
+- Delete the following record from **Services Restored.ESP**:
+  - NPC **hecerinde**
+- Save the plugin as **Services Restored.ESP**, overwriting the original.
+
+> ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
+
+### Conflict resolution
+
+> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
+
+For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
+- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
+- **multipatch.esp** will now be present at the end of your load order.
+
+For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
+
+- Run TES3Merge in Mod Organizer 2. Once the tool as finished its conflict solving process, press any key to exit.
+- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
+
+> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures.
+
+### Updating and repairing saves
+
+When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
+```
+The currently selected master files and plugins do not match the ones used by this save game. 
+Errors may occur during load or game play. Do you wish to continue?
+```
+This means we need to synchronize our save's plugins to our current load order.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
+- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
+- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
+- Click on the **Save** button further below the same panel.
+
+The next step is to repair our updated save.
+
+- Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
+- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
+
+### Re-running Distant Land
+
+> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab). Otherwise, proceed as follows.
+
+- Run MGE XE in Mod Organizer 2.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
+- Click **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Click **Finish** when the process is over.
+
+> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
+
+### Updating MWSE
+
+- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
+- A command window will open and close shortly after, having updated MWSE to the latest version.
+
+> ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
 ### Additional MCP patches
 
