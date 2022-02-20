@@ -697,7 +697,7 @@ For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** 
 - Run TES3Merge in Mod Organizer 2. Once the tool as finished its conflict solving process, press any key to exit.
 - **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
 
-> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures
+> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures.
 
 ### Updating and repairing saves
 
