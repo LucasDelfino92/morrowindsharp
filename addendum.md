@@ -10,6 +10,18 @@
 
 The guide presented here is a more thorough alternative to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind Sharp guide. It includes mods that are not present in **Main**, for the sake of streamlining and accessibility to new players of the game.
 
+## Installing mods appropriately
+
+When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
+
+![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+
+All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
+
+By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
+
 # MORROWIND SHARP EXTENDED
 
 ## PATCHES
