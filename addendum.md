@@ -580,7 +580,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addendum.md#re-running-distant-land) section.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -621,7 +621,7 @@ Adds groundcover to almost all regions.
     Uses thicker grass meshes, and omits the static mushrooms.
 - Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
-> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/addendum.md#re-running-distant-land) section.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
