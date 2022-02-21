@@ -485,10 +485,11 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 
 ### Cleaning plugins
 
+> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
+
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on the following plugin:
-  - **TheMidnightOil.ESP**
-- With the plugin selected, right-clik and click **Clean with tes3cmd**.
+- In the **Mods** tab, CTRL+left click on the plugins you want to clean.
+- With the plugins selected, right-click and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
 ### Conflict resolution
