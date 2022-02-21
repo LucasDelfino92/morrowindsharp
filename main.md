@@ -566,11 +566,12 @@ C | Equips light sources | Torch Hotkey
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
+Alt + F4 | Creates a permanent save | Sophisticated Save System
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Shift+E | Equips/unequips item in inventory | Quick Equip
-Shift+E | Use potion/ingredient in inventory | Quick Equip
+E+Left Click | Equips/unequips item in inventory | Quick Equip
+E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # COMPATIBILITY
