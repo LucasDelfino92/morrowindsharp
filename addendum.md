@@ -694,8 +694,8 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 03 Rain mesh replacer - regular
   - [X] 05 IT Vanilla sky texture replacer 1k  
     Reworked Intelligent Textures sky textures.
-- Hide **textures\tw\Watch the Skies\blight\tew_blight_3.dds**
-- Hide **textures\tw\Watch the Skies\foggy\tew_foggy_6.dds**
+- Hide **textures\tew\Watch the Skies\blight\tew_blight_3.dds**
+- Hide **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds**
 
 > ℹ️ The hidden textures make for very jarring skies.
 
@@ -728,6 +728,8 @@ Files to install:
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+- Right-click on **Data Files**.
+- Click **Set as data files directory** and click **OK**.
 
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
 Tweaks bows so that they line up better with the sheathing animation.
@@ -897,6 +899,16 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ## SHADERS
 
+### Updated MGE XE shaders
+
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
+A compilation of a handful of community-made shaders.
+- BAIN options to install:
+  - [X] 00 Core
+
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+
 ### Shader setup
 
 - Run MGE XE in Mod Organizer 2.
@@ -909,7 +921,7 @@ SSAO HQ
 Underwater Interior Effects
 Invisibility
 EdgeAA
-deband_fogawarev2
+deband_fogawarev3
 Underwater Effects
 Sunshafts
 Special Process
