@@ -326,20 +326,20 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
-- Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
-- Click **Next** and then click **Finish**.
-- Wrye Mash x64 will now launch. Close the program.
+- When installation has finished, uncheck the option and click **Finish**.
 - Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
-
-> ℹ️ This will update WryeMash to the latest version.
+- Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
+- Eventually the installation wizard will ask you to fill the following entries:
+   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
+   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
+- Click **Next** and then click **Finish**.
+- Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support.
+- Close the program.
 
 > ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
 
 ### tes3cmd
 
