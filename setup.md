@@ -54,12 +54,12 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
-- Manually download the **Morrowind Code Patch** main file.
+- Manually download **Morrowind Code Patch** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
 
 [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
 Repository for the Beta update for the Morrowind Code Patch.
-- Manually download the **MCP beta** update file.
+- Manually download **MCP beta** (Update files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
 > ℹ️ This will update the **Morrowind Code Patch** to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
@@ -77,11 +77,11 @@ Repository for the Beta update for the Morrowind Code Patch.
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
-- Manually download the **MGE XE Installer** main file.
+- Manually download **MGE XE Installer** (Main files).
 - Extract the contents of the file and run the **MGE XE Installer.exe**.
 - When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck both options and click **Finish**.
-- Go to your **Morrowind\Data** folder and delete **XE Sky Variations.esp**.
+- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
 
 > ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
 
@@ -89,7 +89,8 @@ Because Morrowind wasn't designed with distant land in mind, certain in-game sce
 
 [**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
 **Necrolesian**'s edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-- Extract the contents of the necro_distant_statics_override folder to your Morrowind\mge3 directory, overwriting when prompted.
+- Extract the contents of the file.
+- Place the contents of the **necro_distant_statics_override** folder in your **Morrowind\mge3** directory, overwriting when prompted.
 
 This file contemplates the following landscape-altering scenarios:
 
@@ -106,7 +107,7 @@ This file contemplates the following landscape-altering scenarios:
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
-- Manually download the **Mod Organizer 2** main file.
+- Manually download **Mod Organizer 2** (Main files).
 - Run the **Mod Organizer 2.exe**.
 - When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
@@ -189,7 +190,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-## MGE Configuration
+## MGE XE Configuration
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
