@@ -914,8 +914,7 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 - Run MGE XE in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
 - Click **Shader setup...**.
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- Set your shader combination as follows.
+- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
 ```
 SSAO HQ
 Underwater Interior Effects
