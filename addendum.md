@@ -22,7 +22,7 @@ All files installed from a same Nexus page should be merged into a single mod wh
 
 By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
 
-# MORROWIND SHARP EXTENDED
+# MORROWIND SHARP ADDENDUM
 
 ## PATCHES
 
