@@ -191,47 +191,44 @@ It's time to finally run Morrowind.
 
 # TOOLS
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
+## Preamble
 
-## TES3View, TES3Merge, TESAME
+Because mods can conflict with one another, or have bugs/unintended changes themselves, a number of tools have been installed to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
+
+The following tools have already been installed to your **Morrowind Sharp\tools** folder.
 
 [**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
 Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
-
-> ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)  
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
 
-### Registering tools in Mod Organizer 2
+## Registering tools in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
+- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp\tools**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
 ## Wrye Mash
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
-Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
+Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**. It is also the only major tool that you will need to download and install manually.
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- When prompted to choose an install location, choose your Morrowind **Root** folder, found in **C:\Games\Morrowind**.
 - When installation has finished, uncheck the option and click **Finish**.
 - Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
+- Extract the contents of the file in your Morrowind **Root** folder, found in **C:\Games\Morrowind**, and overwrite when prompted.
 - Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
 - Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
+   - **Morrowind directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**. A message should state that morrowind.ini and the Data files folder were found.
+   - **Mods Installers directory**: select your Mod Organizer 2 **downloads** folder, found in **C:\Games\Morrowind Sharp\downloads**.
 - Click **Next** and then click **Finish**.
 - Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support.
 - Close the program.
@@ -240,14 +237,14 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
 
-### tes3cmd
+## tes3cmd
 
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
-This tool is used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+This tool is used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**. Alongside **Wrye Ma**, it is the second tool you will have to download and install manually.
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
-> ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
+> ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash.
 
 ### Registering Wrye Mash in Mod Organizer 2
 
