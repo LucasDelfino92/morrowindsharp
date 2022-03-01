@@ -57,7 +57,7 @@ No. I suggest following RandomPal's [**An Alternative to Morrowind Rebirth**](ht
 
 Yes. That said, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
 
-### Is this mod compatible with Morrowind Sharp?
+### Is (X) mod compatible with Morrowind Sharp?
 
 I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#checking-for-conflicts). Instructions on how to use this tool are provided in this link.
 
