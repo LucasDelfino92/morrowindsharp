@@ -467,16 +467,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-Morrowind Sharp is offered in two versions:
-- The standard **Morrowind Sharp** profile.
-- The extended **Morrowind Sharper** profile.
-
-The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
-
-The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
-
-Which one you choose to use is up to you. Make sure to only follow one of the following two links and stick to it through the end.
-
-[To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
-[To Morrowind Sharper >>](https://github.com/Sigourn/morrowind-sharp/blob/master/addendum.md)  
+[To Morrowind Sharp Part 2 >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
