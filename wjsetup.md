@@ -211,7 +211,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, a number of tools have been installed to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
 
-The following tools have already been installed to your **Morrowind Sharp\tools** folder.
+> ℹ️ The following tools have already been installed to your **Morrowind Sharp\tools** folder, and are listed solely for information purposes.
 
 [**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
 Used to see the structure of mods and detect conflicts.
