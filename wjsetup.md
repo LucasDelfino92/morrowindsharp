@@ -29,7 +29,6 @@ For the purpose of this guide, this will be our **Root** folder and where you sh
 ```
 C:\Games\Morrowind
 ```
-
 ### Cleaning up your GOG installation
 
 Delete the following from your **Morrowind\Data Files** folder:
