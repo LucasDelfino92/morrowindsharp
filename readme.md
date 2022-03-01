@@ -25,8 +25,8 @@ I want to thank the following people for their support. Not only for their kind 
 
 There are two ways to follow this guide:
 
-- [**Wabbajack Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/wjsetup.md). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes both the **Morrowind Sharp** and **Morrowind Sharper** modlists, set up in different profiles for ease of selection.
-- [**Manual Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md). The classic way, estimated to take around 3 to 4 hours. The first section (Setup) will list the installation of Morrowind, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
+- [**Wabbajack Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/wjsetup.md). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes the standard modlist as well as an abridged version, set up in different profiles for ease of selection.
+- [**Manual Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md). The classic way, estimated to take around 4 to 5 hours. The first section (Setup) will list the installation of Morrowind, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
 
 I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
@@ -65,7 +65,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-There are roughly 75 mods and 25 plugins total.
+There are roughly 150 mods and 50 plugins total.
 
 ### How much space do I need to install these mods?
 
