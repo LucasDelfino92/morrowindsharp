@@ -77,7 +77,7 @@ This tool is invaluable for setting up Morrowind Sharp, drastically reducing the
 
 ## Installation
 
-[**Morrowind Sharp Wabbajack**](https://drive.google.com/file/d/1yzqvzxuISTD7QoXOPEaafngqnXmravij/view?usp=sharing)  
+[**Morrowind Sharp Wabbajack**](https://drive.google.com/file/d/1nF-zViYRP7uqiurqUiGFwlx3SJMeuxP0/view?usp=sharing)  
 The official Wabbajack files for Morrowind Sharp.
 - Download the file and extract its contents to your **C:\Games** folder.
 
@@ -330,7 +330,19 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 # CHANGELOG
 
 03-01-2022
-- Update 1.1 of the Wabbajack list, including **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
+- Update 1.2 of the Wabbajack list.
+- Expanded Morrowind Sharper profile with the following mods:
+  - Added **Randomised Chargen** (Gameplay QOL).
+  - Added **Enhanced Detection Lite** (Gameplay).
+  - Added **FMI - Hospitality Papers Expanded** (Gameplay).
+  - Added **Better Character Classes** (Overhauls).
+  - Added **Blighted Blight** (Survival).
+  - Added **Creeping Blight** (Survival).
+  - Added **The Dream is the Door** (Visuals).
+
+03-01-2022
+- Update 1.1 of the Wabbajack list.
+- Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
 03-01-2022
