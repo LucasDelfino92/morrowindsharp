@@ -38,7 +38,7 @@ C:\Games\Morrowind Mods
 
 ### Cleaning up your GOG installation
 
-To clean up your GOG installation of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
+Delete the following from your **Morrowind\Data Files** folder:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
@@ -50,6 +50,26 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 > ℹ️ Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
+### Setting up your GOG installation for Wabbajack
+
+To fix issues with Wabbajack not detecting the install of a game purchased from GOG, perform the following steps:
+- Open your registry. To do so, perform either of the following steps:
+  - In the search box on the taskbar, type **regedit**, then select **Registry Editor** from the results.
+  - Right-click Start, then select Run. Type **regedit** in the **Open:** box, and then select OK.
+- Navigate to the following path.
+```
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\GOG.com\Games
+```
+- Find and select Morrowind. The folders are numbered, so scroll through them to find the game.
+- Once there, right-click anywhere on the right pane, and click **New -> String**.
+  - Add a string named **ProductID**.
+  - Add a string named **BuildID**.
+- Repeat the following steps for both strings:
+  - Right-click the newly created string, and click **Modify...**.
+  - Under the value field, type **1** and click OK.
+
+> ℹ️ Failing to perform these steps will cause Wabbajack not to detect your installed game, and thus fail to run altogether.
+
 # WABBAJACK
 
 ## Preamble
@@ -58,7 +78,9 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 This tool is invaluable for setting up Morrowind Sharp, drastically reducing the amount of time and effort required to get it working, minimizing user error, and ensuring things work smoothly.
 
-[**Morrowind Sharp Wabbajack**]()  
+## Installation
+
+[**Morrowind Sharp Wabbajack**](https://drive.google.com/file/d/1XTuZVBDykEKsyKzifPi02kTdAc_fk5cT/view?usp=sharing)  
 The official Wabbajack files for Morrowind Sharp.
 - Download the file and extract its contents to your **C:\Games** folder.
 
