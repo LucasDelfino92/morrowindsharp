@@ -80,7 +80,11 @@ C:\Games\Morrowind Sharp.wabbajack
 C:\Games\Morrowind Sharp
 ```
 
-> ℹ️ You can safely delete the installer we downloaded in the first step.
+- With our modlist configured, click the play button to the right.
+
+> ℹ️ The installation process, which includes download, extraction, and installation of mods and required tool, can take anywhere from 20 minutes to an hour. Once the process is finished, as indicated by the log, you can close **Wabbajack**. It is encouraged that you take this time to check out the mod slideshow, as it will give you an idea of what mods are included in the guide.
+
+> ℹ️ You can safely delete the installer we downloaded in the first step. It is of no use to us anymore.
 
 # MORROWIND CODE PATCH AND MGE XE
 
