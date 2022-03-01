@@ -299,10 +299,6 @@ Having installed Morrowind Sharp with Wabbajack, there are a number of steps we 
 
 - **Synchronizing mod masters**  
   Unsynchronized mod masters can cause many annoying in-game warnings that are harmless by themselves, but annoying in the long run.
-- **Cleaning plugins**  
-  A dirty plugin is a plugin that contains unintentional changes performed by the mod author. Some of these changes can be automatically detected by tools; others require a closer inspection of the mod's inner workings.
-- **Conflict resolution**  
-  While adjusting your mod order and load order, as well as installing the appropriate patches, can solve many basic conflicts, other conflicts require automated resolution through the use of tools.
 - **Updating and repairing saves**  
   When uninstalling mods, left-over changes can remain in your game. Updating and repairing your save helps remove these pesky left-overs.
 - **Re-running Distant Land**  
