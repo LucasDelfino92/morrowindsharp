@@ -45,6 +45,20 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ## Frequently asked questions
 
+### How many plugins and mods are there?
+
+I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
+
+There are roughly 180 mods and 55 plugins total.
+
+### How much space do I need to install these mods?
+
+The totality of the guide requires 12.5GB installation space.
+
+### How often is the guide updated?
+
+Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+
 ### Is this guide compatible with OpenMW?
 
 No. Many modern mods (though not all) rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW.
@@ -60,20 +74,6 @@ Yes. That said, many of the mods featured in the guide are Vvardenfell-specific,
 ### Is (X) mod compatible with Morrowind Sharp?
 
 I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#checking-for-conflicts). Instructions on how to use this tool are provided in this link.
-
-### How many plugins and mods are there?
-
-I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
-
-There are roughly 180 mods and 55 plugins total.
-
-### How much space do I need to install these mods?
-
-Roughly 8GB, of which **Morrowind Enhanced Textures** accounts the majority of.
-
-### How often is the guide updated?
-
-Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
 ### Do you have a Patreon I can contribute to?
 
