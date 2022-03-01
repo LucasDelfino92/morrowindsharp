@@ -54,15 +54,33 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 ## Preamble
 
-[**Wabbajack**](https://www.wabbajack.org/#/) is an installation tool that can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods. It can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods.
+**Wabbajack** is an installation tool that can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods. It can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods.
 
 This tool is invaluable for setting up Morrowind Sharp, drastically reducing the amount of time and effort required to get it working, minimizing user error, and ensuring things work smoothly.
 
-- Click the **Download** button on the main page to download **Wabbajack.exe**.
-- Launch **Wabbajack.exe**. This will download the tool and place it on a folder named after the current version number (e.g. **2.5.3.9**).
-
 [**Morrowind Sharp Wabbajack**]()  
 The official Wabbajack files for Morrowind Sharp.
+- Download the file and extract its contents to your **C:\Games** folder.
+
+[**Wabbajack**](https://www.wabbajack.org/#/)  
+Automated installer for mod lists. Used to install Morrowind Sharp.
+- Click the **Download** button on the main page to download the **Wabbajack.exe** installer.
+- Launch **Wabbajack.exe**. This will download the tool and place it on a folder named after the current version number (e.g. **2.5.3.9**).
+- **Wabbajack.exe**, found in the aforementioned folder, will be launched.
+- Click the **Install From Disk** button.
+- Under the **Target Modlist** path, paste the following path:
+
+```
+C:\Games\Morrowind Sharp.wabbajack
+```
+
+- Under the **Installation Location** path, paste the following path:
+
+```
+C:\Games\Morrowind Sharp
+```
+
+> ℹ️ You can safely delete the installer we downloaded in the first step.
 
 # MORROWIND CODE PATCH AND MGE XE
 
