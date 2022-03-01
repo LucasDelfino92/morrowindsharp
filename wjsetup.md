@@ -25,7 +25,11 @@ You should install Morrowind outside all default Windows folders (Program Files,
 
 Your Morrowind **Root** folder is where Morrowind will be installed, and where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 
-For the purpose of this guide, this will be our **Root** folder and where you should install Morrowind:
+By default, GOG will install Morrowind to the next directory:
+```
+C:\Games
+```
+This will create a folder in the following path, which we will refer to as our **Root** folder.
 ```
 C:\Games\Morrowind
 ```
@@ -101,7 +105,7 @@ C:\Games\Morrowind Sharp
 
 > ℹ️ You can safely delete the installer we downloaded in the first step. It is of no use to us anymore.
 
-# MORROWIND CODE PATCH AND MGE XE
+# UTILITIES AND TOOLS
 
 ## Preamble
 
@@ -122,9 +126,28 @@ The files contemplate the following landscape-altering scenarios:
 
 > ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
+Because mods can conflict with one another, or have bugs/unintended changes themselves, a number of tools have been installed to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
+
+> ℹ️ The following tools have already been installed to your **Morrowind Sharp\tools** folder, and are listed solely for information purposes.
+
+[**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
+Used to see the structure of mods and detect conflicts.
+
+[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
+Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+
+[**TESAME**](http://mw.modhistory.com/download-95-15443)  
+Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+
+[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
+Mod manager and tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins.
+
+[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
+Tool used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+
 ## Installation
 
-All these aforementioned tools have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
+All these aforementioned utilities have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
 
 - Copy the contents of **Morrowind Sharp\Game Folder Files** and paste them inside the **Morrowind** folder.
 - Allow merge and overwrite when prompted.
@@ -136,6 +159,18 @@ All these aforementioned tools have been downloaded and their files placed insid
 - Click **Apply chosen patches** when you are finished. Close the application.
 
 > ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
+
+## Wrye Mash setup
+
+- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
+- Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
+- Click **Run** to run the executable.
+- Eventually the installation wizard will ask you to fill the following entries:
+   - **Morrowind directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**. A message should state that morrowind.ini and the Data files folder were found.
+   - **Mods Installers directory**: select your Mod Organizer 2 **downloads** folder, found in **C:\Games\Morrowind Sharp\downloads**.
+- Click **Next** and then click **Finish**.
+
+> ℹ️ If at any point Wrye Mashs asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **mash64** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**.
 
 ## MGE XE setup
 
@@ -227,80 +262,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
-# TOOLS
-
-## Preamble
-
-Because mods can conflict with one another, or have bugs/unintended changes themselves, a number of tools have been installed to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
-
-> ℹ️ The following tools have already been installed to your **Morrowind Sharp\tools** folder, and are listed solely for information purposes.
-
-[**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
-Used to see the structure of mods and detect conflicts.
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
-Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-
-[**TESAME**](http://mw.modhistory.com/download-95-15443)  
-Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-
-## Registering tools in Mod Organizer 2
-
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp\tools**) and double click its .exe file.
-- In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- Click **Apply**, and repeat the process for the remaining tools.
-
-## Wrye Mash
-
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
-Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**. It is also the only major tool that you will need to download and install manually.
-- Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
-- When prompted to choose an install location, choose your Morrowind **Root** folder, found in **C:\Games\Morrowind**.
-- When installation has finished, uncheck the option and click **Finish**.
-- Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder, found in **C:\Games\Morrowind**, and overwrite when prompted.
-- Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
-- Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**. A message should state that morrowind.ini and the Data files folder were found.
-   - **Mods Installers directory**: select your Mod Organizer 2 **downloads** folder, found in **C:\Games\Morrowind Sharp\downloads**.
-- Click **Next** and then click **Finish**.
-- Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support.
-- Close the program.
-
-> ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
-
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
-
-## tes3cmd
-
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
-This tool is used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**. Alongside **Wrye Ma**, it is the second tool you will have to download and install manually.
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
-
-> ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash.
-
-### Registering Wrye Mash in Mod Organizer 2
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply** and then **OK**.
-
-> ℹ️ Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
-
 # FINISHING TOUCHES
-
-Having installed Morrowind Sharp with Wabbajack, there are a number of steps we need to take care of next.
-
-- **Synchronizing mod masters**  
-  Unsynchronized mod masters can cause many annoying in-game warnings that are harmless by themselves, but annoying in the long run.
-- **Updating MWSE**  
-  Many recently released MWSE mods are developed with the latest version in mind. It's important to keep your MWSE up to date when installing mods that make use of its features.
 
 ### Synchronizing mod masters
 
@@ -316,6 +278,24 @@ Having installed Morrowind Sharp with Wabbajack, there are a number of steps we 
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
+
+# IN-GAME CONFIGURATION
+
+It's time to finally run Morrowind.
+
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
+- Click **Run** to run the executable.
+
+> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
+
+- Once the game has finished loading, click **Options** and click the **Video** tab.
+- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
+- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
+
+> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+
+> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
 # MOD KEYBINDINGS
 
@@ -338,24 +318,6 @@ E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
-# IN-GAME CONFIGURATION
-
-It's time to finally run Morrowind.
-
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the executable.
-
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
-
-- Once the game has finished loading, click **Options** and click the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
-- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
-
-> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
-
 # MOD ORGANIZER 2 PROFILES
 
 Morrowind Sharp is offered in two versions:
@@ -369,6 +331,15 @@ The second profile expands on Morrowind Sharp. It adds many minor bug fixes and 
 Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
+
+# CHANGELOG
+
+03-01-2022
+- Update 1.1 of the Wabbajack list, including **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
+- Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
+
+03-01-2022
+- First release of the Wabbajack list.
 
 # INCLUDED MODS
 
