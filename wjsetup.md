@@ -77,7 +77,7 @@ This tool is invaluable for setting up Morrowind Sharp, drastically reducing the
 
 ## Installation
 
-[**Morrowind Sharp Wabbajack**](https://drive.google.com/file/d/1XTuZVBDykEKsyKzifPi02kTdAc_fk5cT/view?usp=sharing)  
+[**Morrowind Sharp Wabbajack**](https://drive.google.com/file/d/1yzqvzxuISTD7QoXOPEaafngqnXmravij/view?usp=sharing)  
 The official Wabbajack files for Morrowind Sharp.
 - Download the file and extract its contents to your **C:\Games** folder.
 
