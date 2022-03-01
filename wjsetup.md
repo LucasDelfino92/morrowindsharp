@@ -291,6 +291,8 @@ It's time to finally run Morrowind.
 
 # GENERAL TIPS
 
+> ℹ️ The following section is not required for the use of Morrowind Sharp. However, it will be of great use for anyone looking to install mods in the future.
+
 ## Mod Organizer 2 tips
 
 ### Mod manager download installation
