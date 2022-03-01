@@ -180,12 +180,6 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 > ⚠️ MGE XE should always be run through Mod Organizer 2 to detect the Virtual Files folder.
 
-### In-game tab
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
-
-> ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
-
 ### Config tab
 
 **Information**
