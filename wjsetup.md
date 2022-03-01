@@ -52,6 +52,18 @@ This will free about 700 MBs of space from your Morrowind installation. You shou
 
 # WABBAJACK
 
+## Preamble
+
+[**Wabbajack**](https://www.wabbajack.org/#/) is an installation tool that can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods. It can reproduce an entire modding setup on another machine without bundling any assets or re-distributing any mods.
+
+This tool is invaluable for setting up Morrowind Sharp, drastically reducing the amount of time and effort required to get it working, minimizing user error, and ensuring things work smoothly.
+
+- Click the **Download** button on the main page to download **Wabbajack.exe**.
+- Launch **Wabbajack.exe**. This will download the tool and place it on a folder named after the current version number (e.g. **2.5.3.9**).
+
+[**Morrowind Sharp Wabbajack**]()  
+The official Wabbajack files for Morrowind Sharp.
+
 # MORROWIND CODE PATCH AND MGE XE
 
 ## Preamble
@@ -82,7 +94,7 @@ All these aforementioned tools have been downloaded and their files placed insid
 
 ## Morrowind Code Patch setup
 
-- Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
+- Execute **Morrowind Code Patch.exe**, found in your **Morrowind** folder.
 - The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Click **Apply chosen patches** when you are finished. Close the application.
 
