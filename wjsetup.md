@@ -29,12 +29,6 @@ For the purpose of this guide, this will be our **Root** folder and where you sh
 ```
 C:\Games\Morrowind
 ```
-Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
-```
-C:\Games\Morrowind Mods
-```
-
-> ⚠️ Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
 
 ### Cleaning up your GOG installation
 
