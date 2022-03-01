@@ -293,9 +293,9 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 
 > ℹ️ Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
-## FINISHING TOUCHES
+# FINISHING TOUCHES
 
-Having installed all the mods in the, we proceed to the finishing touches. These finishing touches are, broadly speaking, steps you should always take when installing new mods. Having installed Morrowind Sharp with Wabbajack, these are the steps we need to take care of next.
+Having installed Morrowind Sharp with Wabbajack, there are a number of steps we need to take care of next.
 
 - **Synchronizing mod masters**  
   Unsynchronized mod masters can cause many annoying in-game warnings that are harmless by themselves, but annoying in the long run.
@@ -317,33 +317,6 @@ Having installed all the mods in the, we proceed to the finishing touches. These
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
-
-### Cleaning plugins
-
-> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on the plugins you want to clean.
-- With the plugins selected, right-click and click **Clean with tes3cmd**.
-- After the process is over, close the window.
-
-### Conflict resolution
-
-> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
-
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-- **multipatch.esp** will now be present at the end of your load order.
-
-For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
-
-- Run TES3Merge in Mod Organizer 2. Once the tool as finished its conflict solving process, press any key to exit.
-- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
-
-> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures.
 
 ### Updating and repairing saves
 
@@ -368,7 +341,7 @@ The next step is to repair our updated save.
 
 ### Re-running Distant Land
 
-> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab). Otherwise, proceed as follows.
+> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/wjsetup.md#distant-land-tab). Otherwise, proceed as follows.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
