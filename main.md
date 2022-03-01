@@ -349,6 +349,9 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 - Hide **Quick Char (Necro Timescale6 Edit).esp**
 
+⭐ [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
+Adds buttons to randomise race, appearance, class, and birthsign during character generation.
+
 ⭐ [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
 - BAIN options to install:
@@ -436,6 +439,11 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
 - BAIN options to install:
   - [X] 00 - Core
 
+[**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
+Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
+- BAIN options to install:
+  - [X] Enhanced Detection Less Lite
+
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
@@ -455,6 +463,9 @@ Replaces the maps from **Map and Compass** to give them a more immersive look.
 
 ### Service mechanics
 
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
+Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
+
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
@@ -466,6 +477,9 @@ Adds extra service refusal dialogue once you progress further into the main ques
 ## OVERHAULS
 
 ### Character progression
+
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
+Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
@@ -544,7 +558,7 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 ⭐ [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
-### Ashfall
+### Survival
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
@@ -553,6 +567,15 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
+
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
+Implements the possibility of contracting blight diseases while out in a blight storm.
+
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+
+Files to install:
+- **Creeping Blight - MWSE Version** (Main files)
 
 ## VISUALS
 
@@ -658,6 +681,9 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 ⭐ [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
+To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 
 ### Weather and lighting
 
@@ -1056,6 +1082,17 @@ E+Left Click | Equips/unequips item in inventory | ⭐ Quick Equip
 E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
+
+# CHANGELOG
+
+03-01-2022
+- Added **Randomised Chargen** (Gameplay QOL).
+- Added **Enhanced Detection Lite** (Gameplay).
+- Added **FMI - Hospitality Papers Expanded** (Gameplay).
+- Added **Better Character Classes** (Overhauls).
+- Added **Blighted Blight** (Survival).
+- Added **Creeping Blight** (Survival).
+- Added **The Dream is the Door** (Visuals).
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
