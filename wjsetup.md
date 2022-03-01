@@ -151,7 +151,6 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 - Copy the contents of **Morrowind Sharp\Game Folder Files** and paste them inside the **Morrowind** folder.
 - Allow merge and overwrite when prompted.
-- Place the **tes3cmd.exe** in your **Morrowind\Data Files** folder.
 
 ## Morrowind Code Patch setup
 
@@ -339,6 +338,7 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
   - Added **Blighted Blight** (Survival).
   - Added **Creeping Blight** (Survival).
   - Added **The Dream is the Door** (Visuals).
+- **tes3cmd.exe** has been moved inside **Game Folder Files\Data Files**, as intended.
 
 03-01-2022
 - Update 1.1 of the Wabbajack list.
