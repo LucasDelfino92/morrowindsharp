@@ -850,8 +850,6 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ## MOD CONFIG
 
-> ℹ️ This section replaces the one from the main guide.
-
 [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
@@ -1024,8 +1022,6 @@ The next step is to repair our updated save.
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
 ### Additional MCP patches
-
-> ℹ️ This section is an addendum to the one from the main guide.
 
 We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended. Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
 
