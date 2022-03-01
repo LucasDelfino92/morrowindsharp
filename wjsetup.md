@@ -403,8 +403,7 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 # INCLUDED MODS
 
-For a list of all included mods and the steps that were taken to install them in both **Morrowind Sharp** and **Morrowind Sharper**, feel free to browse the following links, intended for manual installation of the guide.
+For a list of all included mods and the steps that were taken to install them, feel free to browse the following link, intended for manual installation of the guide.
 
 [To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
-[To Morrowind Sharper >>](https://github.com/Sigourn/morrowind-sharp/blob/master/addendum.md)  
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
