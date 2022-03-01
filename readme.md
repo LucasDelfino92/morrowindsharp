@@ -1,6 +1,6 @@
 # MORROWIND SHARP: A Morrowind Modding Guide
 
-Last updated: February 20th, 2022.
+Last updated: February 28th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
 
@@ -81,7 +81,7 @@ Morrowind Sharp is regularly updated as I find new mods to install, old mods tha
 
 ### Is there a Wabbajack installer for the guide available?
 
-No. I already have enough questions asked because users installed a mod without reading what it did. I don't want those questions to increase tenfold by providing an automated installer.
+A Morrowind Sharp Wabbajack is on the works and it is expected to release during the first week of March 2022.
 
 ### Do you have a Patreon I can contribute to?
 
