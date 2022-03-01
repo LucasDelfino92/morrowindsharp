@@ -293,6 +293,120 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 
 > ℹ️ Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
 
+## FINISHING TOUCHES
+
+Having installed all the mods in the, we proceed to the finishing touches. These finishing touches are, broadly speaking, steps you should always take when installing new mods. Having installed Morrowind Sharp with Wabbajack, these are the steps we need to take care of next.
+
+- **Synchronizing mod masters**  
+  Unsynchronized mod masters can cause many annoying in-game warnings that are harmless by themselves, but annoying in the long run.
+- **Cleaning plugins**  
+  A dirty plugin is a plugin that contains unintentional changes performed by the mod author. Some of these changes can be automatically detected by tools; others require a closer inspection of the mod's inner workings.
+- **Conflict resolution**  
+  While adjusting your mod order and load order, as well as installing the appropriate patches, can solve many basic conflicts, other conflicts require automated resolution through the use of tools.
+- **Updating and repairing saves**  
+  When uninstalling mods, left-over changes can remain in your game. Updating and repairing your save helps remove these pesky left-overs.
+- **Re-running Distant Land**  
+  When installing mods that alter the landscape in one way or another, it is recommended to regenerate Distant Land to account for these changes.
+- **Updating MWSE**  
+  Many recently released MWSE mods are developed with the latest version in mind. It's important to keep your MWSE up to date when installing mods that make use of its features.
+
+### Synchronizing mod masters
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
+- Once the window has closed, click on the **Save** button further below the same panel.
+- Repeat this process for each of the faulty plugins.
+
+### Cleaning plugins
+
+> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, CTRL+left click on the plugins you want to clean.
+- With the plugins selected, right-click and click **Clean with tes3cmd**.
+- After the process is over, close the window.
+
+### Conflict resolution
+
+> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
+
+For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
+- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
+- **multipatch.esp** will now be present at the end of your load order.
+
+For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
+
+- Run TES3Merge in Mod Organizer 2. Once the tool as finished its conflict solving process, press any key to exit.
+- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
+
+> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures.
+
+### Updating and repairing saves
+
+When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
+```
+The currently selected master files and plugins do not match the ones used by this save game. 
+Errors may occur during load or game play. Do you wish to continue?
+```
+This means we need to synchronize our save's plugins to our current load order.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
+- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
+- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
+- Click on the **Save** button further below the same panel.
+
+The next step is to repair our updated save.
+
+- Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
+- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
+
+### Re-running Distant Land
+
+> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab). Otherwise, proceed as follows.
+
+- Run MGE XE in Mod Organizer 2.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
+- Click **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Click **Finish** when the process is over.
+
+> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
+
+### Updating MWSE
+
+- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
+- A command window will open and close shortly after, having updated MWSE to the latest version.
+
+> ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
+
+# MOD KEYBINDINGS
+
+This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
+
+Key | Function | Added by
+------------ | ------------- | -------------
+K | Orders followers to attack the current target | Kill Command
+L | Equips lockpicks | Security Enhanced
+P | Equips probes | Security Enhanced
+C | Equips light sources | Torch Hotkey
+V | Opens shader controller | MGE XE Shader Pack
+Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
+Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
+Alt + F4 | Creates a permanent save | Sophisticated Save System
+Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
+Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
+Alt+Left Click | Transfer entire stack | Morrowind Code Patch
+E+Left Click | Equips/unequips item in inventory | Quick Equip
+E+Left Click | Use potion/ingredient in inventory | Quick Equip
+Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+
 # IN-GAME CONFIGURATION
 
 It's time to finally run Morrowind.
