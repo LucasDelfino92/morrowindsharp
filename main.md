@@ -1,6 +1,5 @@
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -8,7 +7,7 @@
 
 ## Disclaimer
 
-The guide presented here is a more thorough alternative to the [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) Morrowind Sharp guide. It includes mods that are not present in **Main**, for the sake of streamlining and accessibility to new players of the game.
+The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) section before proceeding.
 
 ## Installing mods appropriately
 
@@ -22,7 +21,7 @@ All files installed from a same Nexus page should be merged into a single mod wh
 
 By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
 
-# MORROWIND SHARP ADDENDUM
+# MORROWIND SHARP
 
 ## PATCHES
 
@@ -1062,4 +1061,3 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
