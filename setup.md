@@ -467,5 +467,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind Sharp Part 2 >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
+[To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
