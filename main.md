@@ -900,12 +900,12 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ### Updated MGE XE shaders
 
-[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
+⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - BAIN options to install:
   - [X] 00 Core
 
-[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 ### Shader setup
@@ -1039,22 +1039,22 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+K | Orders followers to attack the current target | ⭐ Kill Command
+L | Equips lockpicks | ⭐ Security Enhanced
+P | Equips probes | ⭐ Security Enhanced
+C | Equips light sources | ⭐ Torch Hotkey
+V | Opens shader controller | ⭐ MGE XE Shader Pack
 Y | Fast forward time | Pass the Time
-K | Orders followers to attack the current target | Kill Command
-L | Equips lockpicks | Security Enhanced
-P | Equips probes | Security Enhanced
-C | Equips light sources | Torch Hotkey
-V | Opens shader controller | MGE XE Shader Pack
-Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
-Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
-Alt + F4 | Creates a permanent save | Sophisticated Save System
 Ctrl+Y | Turbo fast forward time | Pass the Time
-Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
-Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
-Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-E+Left Click | Equips/unequips item in inventory | Quick Equip
-E+Left Click | Use potion/ingredient in inventory | Quick Equip
-Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+Up/Down | Scrolls through shaders on the shader controller menu | ⭐ MGE XE Shader Pack
+Left/Right | Disables/enables shaders on the shader controller menu | ⭐ MGE XE Shader Pack
+Alt + F4 | Creates a permanent save | ⭐ Sophisticated Save System
+Ctrl+Left Click | Select individual item in stack in inventory | ⭐ Morrowind Code Patch
+Shift+Left Click | Select entire stack in inventory | ⭐ Morrowind Code Patch
+Alt+Left Click | Transfer entire stack | ⭐ Morrowind Code Patch
+E+Left Click | Equips/unequips item in inventory | ⭐ Quick Equip
+E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
+Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
