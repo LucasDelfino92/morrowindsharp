@@ -180,9 +180,14 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 - For now, set your shader combination as follows.
 ```
 SSAO HQ
-Underwater Effects
 Underwater Interior Effects
+Invisibility
+EdgeAA
+deband_fogawarev3
+Underwater Effects
 Sunshafts
+Special Process
+Eye Adaptation (HDR)
 ```
 - Click **Save** after setting up your shader chain.
 
