@@ -83,7 +83,7 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
-[**Putting Power In Willpower**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
@@ -262,7 +262,7 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
 
-[**What Are My Attributes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
@@ -408,7 +408,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-[**Wings of Will**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20(Necro%20Edit).7z)  
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
@@ -497,7 +497,7 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
-[**Silver Tongue**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%20(Necro%20Edit).7z)  
+[**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%20(Necro%20Edit).7z)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
