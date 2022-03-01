@@ -151,6 +151,7 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 - Copy the contents of **Morrowind Sharp\Game Folder Files** and paste them inside the **Morrowind** folder.
 - Allow merge and overwrite when prompted.
+- Place the **tes3cmd.exe** in your **Morrowind\Data Files** folder.
 
 ## Morrowind Code Patch setup
 
