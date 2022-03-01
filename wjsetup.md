@@ -205,24 +205,6 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
-# IN-GAME CONFIGURATION
-
-It's time to finally run Morrowind.
-
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the executable.
-
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
-
-- Once the game has finished loading, click **Options** and click the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
-- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
-
-> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
-
 # TOOLS
 
 ## Preamble
@@ -288,6 +270,24 @@ This tool is used to clean plugins by automatically deleting identical-to-master
 - Click **Apply** and then **OK**.
 
 > ℹ️ Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
+
+# IN-GAME CONFIGURATION
+
+It's time to finally run Morrowind.
+
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
+- Click **Run** to run the executable.
+
+> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
+
+- Once the game has finished loading, click **Options** and click the **Video** tab.
+- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
+- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
+- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
+
+> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+
+> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
 # GENERAL TIPS
 
