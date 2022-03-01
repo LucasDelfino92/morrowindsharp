@@ -23,10 +23,10 @@ I want to thank the following people for their support. Not only for their kind 
 
 **Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind Sharp is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
 
-This guide is split in two sections:
+There are two ways to follow this guide:
 
-- [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md). Includes setting up utilities and tools, as well as Mod Organizer 2. This section will be useful to anyone deciding to get into Morrowind, regardless of whether they want to install more mods on top or not.
-- [**Main**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and Distant Land generation.
+- [**Wabbajack Setup**](). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes both the **Morrowind Sharp** and **Morrowind Sharper** modlists, set up in different profiles for ease of selection.
+- [**Manual Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md). The classic way, estimated to take around 3 to 4 hours. The first section (Setup) will be common for the **Morrowind Sharp** and **Morrowind Sharper** modlists, with the user having to select their modlist of choice at the end of this section to proceed with mod installation.
 
 I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
@@ -71,17 +71,9 @@ There are roughly 75 mods and 25 plugins total.
 
 Roughly 8GB, of which **Morrowind Enhanced Textures** accounts the majority of.
 
-### How much time will it take me to install all mods?
-
-Depends on how thorough you are about it. It shouldn't take you longer than four hours to set everything up. Even then, I don't suggest installing everything in one go. Resist the urge to rush through this guide. It's better to pace yourself, make sure everything is set up correctly. It will save you headaches down the road.
-
 ### How often is the guide updated?
 
 Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
-
-### Is there a Wabbajack installer for the guide available?
-
-A Morrowind Sharp Wabbajack is on the works and it is expected to release during the first week of March 2022.
 
 ### Do you have a Patreon I can contribute to?
 
