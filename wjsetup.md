@@ -217,6 +217,8 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
+> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
+
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
@@ -297,10 +299,6 @@ Having installed Morrowind Sharp with Wabbajack, there are a number of steps we 
 
 - **Synchronizing mod masters**  
   Unsynchronized mod masters can cause many annoying in-game warnings that are harmless by themselves, but annoying in the long run.
-- **Updating and repairing saves**  
-  When uninstalling mods, left-over changes can remain in your game. Updating and repairing your save helps remove these pesky left-overs.
-- **Re-running Distant Land**  
-  When installing mods that alter the landscape in one way or another, it is recommended to regenerate Distant Land to account for these changes.
 - **Updating MWSE**  
   Many recently released MWSE mods are developed with the latest version in mind. It's important to keep your MWSE up to date when installing mods that make use of its features.
 
@@ -311,40 +309,6 @@ Having installed Morrowind Sharp with Wabbajack, there are a number of steps we 
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
-
-### Updating and repairing saves
-
-When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
-```
-The currently selected master files and plugins do not match the ones used by this save game. 
-Errors may occur during load or game play. Do you wish to continue?
-```
-This means we need to synchronize our save's plugins to our current load order.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
-- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
-- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
-- Click on the **Save** button further below the same panel.
-
-The next step is to repair our updated save.
-
-- Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
-- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
-
-### Re-running Distant Land
-
-> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/wjsetup.md#distant-land-tab). Otherwise, proceed as follows.
-
-- Run MGE XE in Mod Organizer 2.
-- In the **Distant Land** tab, click **Distant land generator wizard**.
-- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
-- Click **Continue**.
-- Click **Run above steps using saved / default settings**.
-- Click **Finish** when the process is over.
-
-> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
 
 ### Updating MWSE
 
