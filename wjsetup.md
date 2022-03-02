@@ -67,6 +67,8 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\GOG.com\Games
 
 > ℹ️ Failing to perform these steps will cause Wabbajack not to detect your installed game, and thus fail to run altogether.
 
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/registry.png)
+
 # WABBAJACK
 
 ## Preamble
@@ -148,6 +150,8 @@ Tool used to clean plugins by automatically deleting identical-to-master records
 ## Installation
 
 All these aforementioned utilities have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
+
+![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/gameFolderFiles.png)
 
 - Copy the contents of **Morrowind Sharp\Game Folder Files** and paste them inside the **Morrowind** folder.
 - Allow merge and overwrite when prompted.
