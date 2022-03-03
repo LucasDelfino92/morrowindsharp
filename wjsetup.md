@@ -284,7 +284,7 @@ It's time to finally run Morrowind.
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
 - Click **Run** to run the executable.
 
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
+> ℹ️ Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
 
 - Once the game has finished loading, click **Options** and click the **Video** tab.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
