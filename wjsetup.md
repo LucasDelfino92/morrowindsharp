@@ -81,7 +81,7 @@ This tool is invaluable for setting up Morrowind Sharp, drastically reducing the
 
 [**Morrowind Sharp Wabbajack**](https://drive.google.com/drive/folders/1UN3IGnf9ZQLbyemHoxtT78cynmS2v9yB?usp=sharing)  
 The official Wabbajack files for Morrowind Sharp.
-- Download the file and extract its contents to your **C:\Games** folder.
+- Download the file and place it in your **C:\Games** folder.
 
 [**Wabbajack**](https://www.wabbajack.org/#/)  
 Automated installer for mod lists. Used to install Morrowind Sharp.
@@ -331,6 +331,11 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
 
 # CHANGELOG
+
+03-03-2022
+- Update 1.2.1 of the Wabbajack list.
+- Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
+- Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
 - Update 1.2 of the Wabbajack list.
