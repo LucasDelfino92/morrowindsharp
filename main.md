@@ -228,11 +228,6 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 ⭐ [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
 Adds a continue button to the main menu to instantly load your most recent save.
 
-⭐ [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693)  
-Adds a confirmation popup when you click on the New Game button.
-
-> ⚠️ Certain users have reported being unable to start a new game when using this mod. If this is your case, disable the mod.
-
 ⭐ [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -512,10 +507,8 @@ Adds new, immersive work stations throughout the world; search for new grindston
 
 > ℹ️ This mod is an improved and more extensive version of the plugin we hid earlier.
 
-[**Silver Tongue (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Silver%20Tongue%20(Necro%20Edit).7z)  
+[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49086) to original mod by **VitruvianGuar**. The featured version includes fixes by **Necrolesian**.
 
 ### Anti-cheese
 
@@ -1084,6 +1077,10 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-03-2022
+- Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
+- Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
 - Added **Randomised Chargen** (Gameplay QOL).
