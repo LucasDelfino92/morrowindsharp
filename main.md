@@ -225,9 +225,6 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 
 ### Menus
 
-⭐ [**Continue**](https://www.nexusmods.com/morrowind/mods/45952)  
-Adds a continue button to the main menu to instantly load your most recent save.
-
 ⭐ [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -1077,6 +1074,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-04-2022
+- Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
 
 03-03-2022
 - Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
