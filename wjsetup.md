@@ -2,7 +2,7 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# MORROWIND WABBAJACK SETUP
+# MORROWIND SHARP WABBAJACK SETUP
 
 ![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20GOG%20Banner.jpg)
 
