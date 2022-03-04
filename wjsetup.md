@@ -332,13 +332,18 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 # CHANGELOG
 
+03-04-2022
+- Update 1.2.2.
+- Updated **Loading Doors Lock Tune** (Patches).
+- Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
+
 03-03-2022
-- Update 1.2.1 of the Wabbajack list.
+- Update 1.2.1.
 - Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
 - Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
-- Update 1.2 of the Wabbajack list.
+- Update 1.2.
 - Expanded Morrowind Sharper profile with the following mods:
   - Added **Randomised Chargen** (Gameplay QOL).
   - Added **Enhanced Detection Lite** (Gameplay).
@@ -350,12 +355,12 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 - **tes3cmd.exe** has been moved inside **Game Folder Files\Data Files**, as intended.
 
 03-01-2022
-- Update 1.1 of the Wabbajack list.
+- Update 1.1.
 - Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
 03-01-2022
-- First release of the Wabbajack list.
+- Initial release.
 
 # INCLUDED MODS
 
