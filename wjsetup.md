@@ -360,6 +360,7 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
 03-01-2022
+- 1.0.0.
 - Initial release.
 
 # INCLUDED MODS
