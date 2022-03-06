@@ -354,6 +354,10 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 # CHANGELOG
 
+03-06-2022
+- 1.2.3.
+- Updated **Map and Compass** mod config so that the Vvardenfell map is selected by default on a new game.
+
 03-04-2022
 - 1.2.2 Hotfix.
 - Updated **Loading Doors Lock Tune** (Patches).
