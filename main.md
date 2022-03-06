@@ -1100,6 +1100,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 <details>
 	<summary>Older entries</summary>
+
 02-12-2022
 - Updated **Project Atlas** installation instructions.
 - Added **Project Atlas - MET** (Visuals).
