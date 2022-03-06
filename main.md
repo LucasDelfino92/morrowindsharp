@@ -23,7 +23,7 @@ By default, this guide will always require you to download the main file. On the
 
 # MORROWIND SHARP
 
-> ℹ️ The ⭐ icon denotes mods present in the abridged version of the guide.
+> ℹ️ The ⭐ icon denotes highly recommended mods fit for any first time player.
 
 ## PATCHES
 
