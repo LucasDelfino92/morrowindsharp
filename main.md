@@ -178,12 +178,12 @@ Flames are now glow mapped and/or properly illuminated.
 
 ### Fonts and icons
 
-[**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
+⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
 
 > ℹ️ A more purist alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
 
-[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
+⭐ [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
 - Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
 
