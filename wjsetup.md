@@ -248,6 +248,8 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
   - Click **Create Statics**.
 - Once the statics have been created, click **Finish**.
 
+> ℹ️ The generated statics will be found in the **MGE XE Distant Land** mod under the **MGE XE** separator, in Mod Organizer 2's left pane.
+
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
 > ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of the plugins), you will find missing meshes during gameplay.
@@ -353,6 +355,10 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
 
 # CHANGELOG
+
+03-06-2022
+- 1.2.4.
+- Added **MGE XE Distant Land**, an empty mod which will store MGE XE's Distant Land statics when generated.
 
 03-06-2022
 - 1.2.3.
