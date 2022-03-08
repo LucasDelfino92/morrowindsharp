@@ -356,6 +356,12 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 # CHANGELOG
 
+03-07-2022
+- 1.2.5.
+- Registered **TES Construction Set** executable on MO2.
+- Added **MGE XE Distant Land** for the missing profile.
+- Added **Yet Another Guard Diversity - Uniform Ordinators**.
+
 03-06-2022
 - 1.2.4.
 - Added **MGE XE Distant Land**, an empty mod which will store MGE XE's Distant Land statics when generated.
