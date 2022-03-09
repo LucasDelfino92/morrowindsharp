@@ -596,6 +596,9 @@ Files to install:
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
+⭐ [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
+Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
+
 ### Environment
 
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -860,7 +863,7 @@ Extended and flexible music system for Morrowind, allows you to easily customize
 [**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)  
 Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
 
-[**TUBES4MUSE**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
+[**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
 - After installing the mod, copy the files from **Music/MS/general/Dungeon General** into **Music/MS/general/underwater**.
 
@@ -1076,6 +1079,10 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-09-2022
+- Updated **TUBES4MUSE** (Audio). The user no longer has to modify the mod post-installation.
+- Added **Yet Another Guard Diversity - Uniform Ordinators** (Visuals).
 
 03-04-2022
 - Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
