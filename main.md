@@ -888,6 +888,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Assigns the E key as the key for equipping items.
 - [ ] 02 Smart Journal  
   Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
+- [ ] 02 UI Expansion  
+  Disables auto-select search bar, disables verbose buttons in favor of icons.
 - [ ] 03 GMST Menu  
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
