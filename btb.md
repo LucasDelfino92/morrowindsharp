@@ -24,8 +24,6 @@ Files to install:
   - BAIN options to install:
     - [X] 00 Core  
       Contains the main plugin, as well as the lua equipment patch.
-    - [X] 01 MM - Enhanced Detection Patch  
-      Patches effect costs, spell costs, and magnitudes of the new Detect spells from MM - Enhanced Detection Patch.
     - [X] 03 Ashfall Patch  
       Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
     - [X] 04 Balanced Passive Races and Birthsigns Tweaked  
