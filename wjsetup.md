@@ -264,6 +264,17 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 # FINISHING TOUCHES
 
+### Installing TUBES4MUSE
+
+[**TUBES4MUSE**](https://drive.google.com/file/d/1z2w5TH-xW4-yuROJhlSI4sNVS4kepOZu/view?usp=sharing)  
+Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
+
+- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- Navigate to the folder where **TUBES4MUSE.7z** is stored and double click on it.
+- MO2 will prompt you to give the mod a name. The default name is okay.
+- Click **OK**.
+- **TUBES4MUSE** will appear in the left pane. Check the box next to it to activate the mod.
+
 ### Synchronizing mod masters
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
@@ -400,6 +411,11 @@ Implements the possibility of contracting blight diseases while out in a blight 
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
 # CHANGELOG
+
+03-09-2022
+- 1.2.7.
+- Updated **Loading Doors Lock Tune**.
+- Added **TUBES4MUSE** manual installation.
 
 03-08-2022
 - 1.2.6.
