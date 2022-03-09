@@ -412,6 +412,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+03-98-2022
+- 1.3.0.
+- Added **Sigourn's Cut** profile. It includes previous equipment mods featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**), as well as **BTB's Game Improvements (Necro Edit) Tweaked**.
+
 03-09-2022
 - 1.2.7.
 - Updated **Loading Doors Lock Tune**.
