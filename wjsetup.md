@@ -297,28 +297,6 @@ It's time to finally run Morrowind.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
-# MODS YOU SHOULD KNOW ABOUT
-
-As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your TES III: Morrowind experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md).
-
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-
-[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game.
-
-[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
-Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
-Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
@@ -343,8 +321,8 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 # MOD ORGANIZER 2 PROFILES
 
 Morrowind Sharp is offered in two versions:
-- The standard **Morrowind Sharp** profile.
-- The extended **Morrowind Sharper** profile.
+- The **Morrowind Sharp** standard profile.
+- The **Morrowind Sharp - Extended** profile.
 
 The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
 
@@ -353,6 +331,73 @@ The second profile expands on Morrowind Sharp. It adds many minor bug fixes and 
 Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
+
+# MODS YOU SHOULD KNOW ABOUT
+
+As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your TES III: Morrowind experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md).
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+
+[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
+Makes the Sixth House, properly, the most difficult content in the game.
+
+[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
+Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
+Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+> ℹ️ The **Extended** profile adds numerous gameplay mods that make drastic changes to the moment to moment experience. The following mods are exclusive to the **Extended** profile.
+
+[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)  
+Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
+
+[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
+Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
+
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
+Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
+
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
+
+[**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
+Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
+
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
+Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
+
+[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
+Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
+
+[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
+
+[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
+
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from resting unless they activate a bed.
+
+[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+- Hide **Ownership Overhaul.ESP**.
+
+[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
+A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
+
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
+Implements the possibility of contracting blight diseases while out in a blight storm.
+
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
 # CHANGELOG
 
