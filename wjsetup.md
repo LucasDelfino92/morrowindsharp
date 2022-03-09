@@ -401,6 +401,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+03-08-2022
+- 1.2.6.
+- Added **UI Expansion** MWSE configuration. Disables auto-select search bar, disables verbose buttons in favor of icons.
+
 03-07-2022
 - 1.2.5.
 - Registered **TES Construction Set** executable on MO2.
