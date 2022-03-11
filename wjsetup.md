@@ -427,7 +427,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-09-2022
 - 1.3.0.
-- Added **Sigourn's Cut** profile. It includes previous equipment mods featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**), as well as **BTB's Game Improvements (Necro Edit) Tweaked**.
+- Added **Sigourn's Cut** profile. It includes **BTB's Game Improvements (Necro Edit) Tweaked**, as well as BTBGI-compatible equipment mods previously featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**).
 
 03-09-2022
 - 1.2.7.
