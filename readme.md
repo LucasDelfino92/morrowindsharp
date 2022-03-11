@@ -1,8 +1,8 @@
 # MORROWIND SHARP: A Morrowind Modding Guide
 
-Last updated: March 1st, 2022.
+Last updated: March 10th, 2022.
 
-![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Main%20Banner.jpg)
+![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
 ## Contact info
 
