@@ -1055,6 +1055,16 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
+# IN-GAME CONFIGURATION
+
+One of the mods featured in the guide, **Map and Compass**, requires in-game configuration to set it up as intended.
+
+- Enter the **Mod config** menu in-game.
+- Select **Map and Compass** from the mod list to the left.
+- Click the **mapsWagner** tab.
+- Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
+- Exit the menu.
+
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
@@ -1080,6 +1090,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-11-2022
+- Added instructions to set up **Map and Compass** (In-game Configuration).
 
 03-10-2022
 - Added instructions to hide textures from **Smart Journal** (User Interface).
