@@ -50,7 +50,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-There are roughly 180 mods and 55 plugins total.
+The standard installation has 75 mods and 24 plugins. The extended installation has 190 mods and 60 plugins.
 
 ### How much space do I need to install these mods?
 
