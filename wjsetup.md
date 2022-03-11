@@ -312,6 +312,14 @@ It's time to finally run Morrowind.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
+One of our installed mods from the **Morrowind Sharp - Extended** profile, **Map and Compass**, requires in-game configuration to set it up as intended.
+
+- Enter the **Mod config** menu.
+- Select **Map and Compass** from the mod list to the left.
+- Click the **mapsWagner** tab.
+- Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
+- Exit the menu.
+
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
@@ -418,6 +426,9 @@ Implements the possibility of contracting blight diseases while out in a blight 
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
 # CHANGELOG
+
+03-11-2022
+- Added instructions to set up **Map and Compass** (In-game Configuration).
 
 03-09-2022
 - 1.3.1.
