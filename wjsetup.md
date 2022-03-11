@@ -337,13 +337,16 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # MOD ORGANIZER 2 PROFILES
 
-Morrowind Sharp is offered in two versions:
+Morrowind Sharp is offered in three versions:
 - The **Morrowind Sharp** standard profile.
 - The **Morrowind Sharp - Extended** profile.
+- The **Morrowind Sharp - Sigourn's Cut** profile.
 
 The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
 
 The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
+
+The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
 
 Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
 
@@ -420,7 +423,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-09-2022
 - 1.3.1.
-- Unchecked problematic **Profile Specific Saves** option in MO2.
+- Unchecked problematic **Use profile-specific Save Games** option in MO2.
 
 03-09-2022
 - 1.3.0.
