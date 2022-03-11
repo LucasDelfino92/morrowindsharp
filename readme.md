@@ -1,4 +1,4 @@
-# MORROWIND SHARP: A Morrowind Modding Guide
+# MORROWIND S#ARP: A Morrowind Modding Guide
 
 Last updated: March 10th, 2022.
 
