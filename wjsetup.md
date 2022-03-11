@@ -81,7 +81,7 @@ This tool is invaluable for setting up Morrowind Sharp, drastically reducing the
 
 [**Morrowind Sharp Wabbajack**](https://drive.google.com/drive/folders/1UN3IGnf9ZQLbyemHoxtT78cynmS2v9yB?usp=sharing)  
 The official Wabbajack files for Morrowind Sharp.
-- Download the file and place it in your **C:\Games** folder.
+- Download **Morrowind S#ARP.wabbajack** and place it in your **C:\Games** folder.
 
 [**Wabbajack**](https://www.wabbajack.org/#/)  
 Automated installer for mod lists. Used to install Morrowind Sharp.
@@ -99,6 +99,12 @@ C:\Games\Morrowind Sharp.wabbajack
 
 ```
 C:\Games\Morrowind Sharp
+```
+
+- Under the **Download Location** path, paste the following path:
+
+```
+C:\Games\Morrowind Sharp\downloads
 ```
 
 - With our modlist configured, click the play button to the right.
