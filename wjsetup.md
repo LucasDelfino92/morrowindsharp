@@ -41,7 +41,7 @@ Delete the following from your **Morrowind\Data Files** folder:
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
 - All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
 
-This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
+This will free about 700 MBs of space from your Morrowind installation. Your Data Files folder should now look like this:
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
 
@@ -174,7 +174,7 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
 - Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
-- Click **Run** to run the executable.
+- Click **Run** to launch Wrye Mash.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**. A message should state that morrowind.ini and the Data files folder were found.
    - **Mods Installers directory**: select your Mod Organizer 2 **downloads** folder, found in **C:\Games\Morrowind Sharp\downloads**.
@@ -185,10 +185,8 @@ All these aforementioned utilities have been downloaded and their files placed i
 ## MGE XE setup
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Once in Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
-- Click **Run** to run the executable.
-
-> ⚠️ MGE XE should always be run through Mod Organizer 2 to detect the Virtual Files folder.
+- Click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**.
+- Click **Run** to launch MGE XE.
 
 ### Config tab
 
@@ -274,8 +272,8 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 [**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
-
-- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- Download **TUBES4MUSE** from the Google Drive link.
+- In MO2, click the **Install a new mod from archive** button ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png).
 - Navigate to the folder where **TUBES4MUSE.7z** is stored and double click on it.
 - MO2 will prompt you to give the mod a name. The default name is okay.
 - Click **OK**.
@@ -283,7 +281,9 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ### Synchronizing mod masters
 
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
+- Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
+- Click **Run** to launch Wrye Mash.
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
@@ -300,11 +300,9 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 It's time to finally run Morrowind.
 
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the executable.
-
-> ℹ️ Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
-
+- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
+- Click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
+- Click **Run** to launch Morrowind.
 - Once the game has finished loading, click **Options** and click the **Video** tab.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
