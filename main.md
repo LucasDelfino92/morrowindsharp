@@ -467,6 +467,9 @@ Adds extra service refusal dialogue once you progress further into the main ques
 - BAIN options to install:
   - [X] 00 Morrowind Only
 
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
+Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
+
 ## OVERHAULS
 
 ### Character progression
@@ -586,6 +589,9 @@ Files to install:
 ⭐ [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
+⭐ [**MET Hofix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MET%20Hotfix.7z)  
+Hotfix for two textures which lacked mipmaps.
+
 ⭐ [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
 
@@ -593,6 +599,9 @@ Files to install:
 - **Textures - MET** (Main files)
 
 ### NPCs
+
+[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?)  
+Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes, faces and hairs on some of the ghosts has been changed, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Leed wears his robe, and so forth.
 
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
@@ -1090,6 +1099,11 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-11-2022
+- Added **No Beds for the Diseased** (Gameplay).
+- Added **MET Hofix** (Visuals).
+- Added **Incarnates Overhauled** (Visuals).
 
 03-11-2022
 - Added instructions to set up **Map and Compass** (In-game Configuration).
