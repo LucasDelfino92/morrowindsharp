@@ -19,28 +19,29 @@ Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www
 
 Files to install:
 
-- **BTBGI (Necro Edit) Tweaked and Patches** (Main files)  
-  The main file. Contains the core mod and all its patches.
+- **BTBGI (Necro Edit) Tweaked** (Main files)  
+  Includes the main file and a number of patches for essential mods.
   - BAIN options to install:
     - [X] 00 Core  
-      Contains the main plugin, as well as the lua equipment patch.
-    - [X] 03 Ashfall Patch  
-      Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
-    - [X] 04 Balanced Passive Races and Birthsigns Tweaked  
+      Contains the main plugin.
+    - [X] 01 Balanced Passive Races and Birthsigns Tweaked  
       Personal edit of Balanced Passive Races and Birthsigns to better suit my tastes.
-    - [X] 05 Morrowind Anti-Cheese Tweaked  
+    - [X] 02 Morrowind Anti-Cheese Tweaked  
       Personal edit of Morrowind Anti-Cheese for improved BTBGI compatibility.
-    - [X] 06 Mort's Rebalance Series Patch  
-      Addresses conflicts with Beware the Sixth House, Tribunal Rebalance, and Bloodmoon Rebalance.
-    - [X] 07 Tribunal Rebalance Morrowind Anti-Cheese Tweaked Patch  
-      Addresses conflicts between Morrowind Anti-Cheese Tweaked and Tribunal Rebalance. 
-    - [X] 08 Realistic Repair Add-on Patch  
+    - [X] 03 Rebalance Series Patch  
+      Addresses conflicts with Morrowind Anti-Cheese Tweaked, Beware the Sixth House, Tribunal Rebalance, and Bloodmoon Rebalance.    
+- **BTBGI (Necro Edit) Tweaked Patches** (Main files)  
+  Includes patches for a number of mods.
+  - BAIN options to install:
+    - [X] 03 Realistic Repair Add-on Patch  
       Addresses inventory conflicts with Arrille when using Realistic Repair - Add-on.
-    - [X] 09 Complete Armor Joints Patch  
+    - [X] 04 Ashfall Patch  
+      Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
+    - [X] 06 Complete Armor Joints Patch  
       Addresses conflicts with Complete Armor Joints.
-    - [X] 10 Better Fitted Female Armors Patch  
+    - [X] 07 Better Fitted Female Armors Patch  
       Addresses conflicts with Better Fitted Female Armors.
-    - [X] 11 Properly Fitted Female Pants Patch  
+    - [X] 08 Properly Fitted Female Pants Patch  
       Addresses conflicts with Properly Fitted Female Pants.
 - **BTBGI Loot Patch** (Main files)  
   Slows down the appearance of high quality loot drops from Dremoras and Golden Saints.
