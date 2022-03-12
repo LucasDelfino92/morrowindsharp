@@ -427,6 +427,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 # CHANGELOG
 
 03-11-2022
+- 1.3.3.
+- Added **No Beds for the Diseased** and **Incarnates Overhauled**.
+
+03-11-2022
 - Added instructions to set up **Map and Compass** (In-game Configuration).
 
 03-09-2022
