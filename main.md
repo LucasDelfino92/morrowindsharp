@@ -1156,7 +1156,6 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Trackless Grazeland** (Visuals).
 - Removed **Grass for Trackless Grazeland** (Visuals). Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate distant land.
 - Removed **Well Diversified STOTSP** (Visuals).
-- Removed **The Dream is the Door** (Visuals).
 - Removed **Outfit Greetings Tweaked** (Dialogue).
 - Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted** (Addendum). Make sure to unhide this mesh.
 - Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks** (Addendum). Make sure to reinstall this mod.
@@ -1175,19 +1174,15 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Restocking Alchemy Essentials Poison Crafting Patch** (Gameplay).
 - Removed **MM - Enhanced Light** (Gameplay).
 - Removed **MM - Enhanced Telekinesis** (Gameplay).
-- Removed **FMI - Hospitality Papers Expanded** (Gameplay).
 - Removed **FMI - Service Refusal and Contraband ESP Replacer** (Gameplay).
-- Removed **No Beds for the Diseased** (Gameplay).
 - Removed **Religions Elaborated (Healers)** (Gameplay).
 
 02-07-2022
 - **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
-- **MET Atlas Add-on** was updated to remove buggy textures and duplicate textures from Morrowind Enhanced Textures (Visuals).
 - Removed **Idle Talk** (Audio), as I was informed there were problems with the mod which caused dialogue repetition.
 - Removed **Its a Deal** (Audio), as **Character Sound Overhaul** includes a better implementation of this mod.
 
 02-06-2022
-- Added **Morrowind Enhanced Textures Atlased** (Visuals).
 - Added **Class-Conscious Character Progression** (Overhauls). Replaces **Mort's Ultimate Leveling Experience**.
 - **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
 - **Morrowind Enhanced Textures** (Visuals) no longer includes instructions to install the Project Atlas patch from its Nexus page.
@@ -1195,12 +1190,10 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 02-05-2022
 - Mod order and load order are now provided as text files to be dumped into your Profile folder in Mod Organizer 2. This will automatically enable and re-order all mods featured in Morrowind Sharp.
 - Added **Morrowind Enhanced Textures** (Visuals). Replaces **Intelligent Textures**.
-- Removed **Incarnates Overhauled** (Visuals).
 - Removed **Flies** (Visuals).
 - Removed **Pincushion** (Visuals).
 
 02-04-2022
-- Modified **Well Diversified STOTSP** installation instructions (Visuals).
 - Modified **Ownership Overhaul Patches** installation instructions (Visuals).
 - Re-added **Wolf Helmet Replacer** (Visuals).
 - Removed **Character Backgrounds** (Gameplay).
