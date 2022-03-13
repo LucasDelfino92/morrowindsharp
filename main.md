@@ -460,6 +460,9 @@ Replaces the maps from **Map and Compass** to give them a more immersive look.
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
 Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
 
+[**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870)  
+Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit unless at a very high disposition.
+
 [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
@@ -1105,6 +1108,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 # CHANGELOG
 
 03-12-2022
+- Added **LDM - Racist Service Refusal** (Gameplay).
 - Added **Service Requirements Revised** (Gameplay).
 - Added instructions to hide the MWSE folder from **Speed and Movement Rebalanced** (Gameplay).
 
