@@ -396,6 +396,7 @@ Modifies critical strike coefficient depending on the weapon you use.
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+- Hide the **MWSE** folder.
 
 > ⚠️ Note that this mod is *not* meant to make movement faster, only more natural.
 
@@ -469,6 +470,9 @@ Adds extra service refusal dialogue once you progress further into the main ques
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
 Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
+
+[**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715)  
+Factions will refuse services to the player depending on their faction affiliation and rank. Certain services, such as guild travel and healer services, are exempt from such restrictions.
 
 ## OVERHAULS
 
@@ -1099,6 +1103,10 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-12-2022
+- Added **Service Requirements Revised** (Gameplay).
+- Added instructions to hide the MWSE folder from **Speed and Movement Rebalanced** (Gameplay).
 
 03-11-2022
 - Added **No Beds for the Diseased** (Gameplay).
