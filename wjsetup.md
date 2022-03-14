@@ -450,6 +450,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+03-13-2022
+- 1.3.5.
+- Properly excluded mods that shouldn't ship with Wabbajack.
+
 03-12-2022
 - 1.3.4.
 - Added **Mlox**.
