@@ -331,6 +331,10 @@ It's time to finally run Morrowind.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 - Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
+- Now click on the **Audio** tab, and set your **Master** and **Effects** volume to max, and your **Footsteps** volume to min.
+- Click **OK** to apply your changes.
+
+> ℹ️ The audio volume tweaks are required by AURA and Character Sound Overhaul.
 
 > ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
