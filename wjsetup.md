@@ -454,6 +454,14 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+03-14-2022
+- 1.3.6.
+- Cloud movement shader is now enabled by default.
+- Added **Class Description Tooltip**.
+- Added **Clocks**.
+- Added **Sprinting**.
+- Removed **MWSE Clock Block**.
+
 03-13-2022
 - 1.3.5.
 - Properly excluded mods that shouldn't ship with Wabbajack.
@@ -462,6 +470,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - 1.3.4.
 - Added **Mlox**.
 - Updated **Improved Main Menu**.
+
+<details>
+  <summary>Older entries - Click to expand</summary>
 
 03-11-2022
 - 1.3.3.
@@ -531,5 +542,6 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 03-01-2022
 - 1.0.0.
 - Initial release.
-
+</details>
+  
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
