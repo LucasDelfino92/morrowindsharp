@@ -462,8 +462,22 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - 1.3.7.
 - Updated [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z) with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies. The option used is **00 All in One**.
 - Updated [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307).
+  - BAIN options installed:
+    - [X] 00 Core
+    - [X] 02 Yet Another Guard Diversity Patch
+    - [X] 05 RV Duke's Guard Silver Patch
+    - [X] 06 Oriental Ebony Weapons Integrated Patch
+    - [X] 07 Area Effect Projectiles Integrated
 - Updated [**BTBGI (Necro Edit) Tweaked Patches**](https://www.nexusmods.com/morrowind/mods/50308).
-- Added [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931). Omitted the Adamantium Armor, Area Effect Arrows, LeFemm Armor, Entertainers, and Siege at Firemoth plugins.
+  - BAIN options installed:
+    - [X] 03 Realistic Repair Add-on Patch
+    - [X] 04 Ashfall Patch
+    - [X] 05 Equipment Patches
+    - [X] 06 Complete Armor Joints Patch
+    - [X] 07 Better Fitted Female Armors Patch
+    - [X] 08 Properly Fitted Female Pants Patch
+- Added [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
+  - Hide **adamantiumarmor.esp**, **AreaEffectArrows.esp**, **entertainers.esp**, **LeFemmArmor.esp**, and **Siege at Firemoth.esp**.
 - Added [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731).
 
 03-14-2022
@@ -500,7 +514,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-09-2022
 - 1.3.0.
-- Added **Sigourn's Cut** profile. It includes **BTB's Game Improvements (Necro Edit) Tweaked**, as well as BTBGI-compatible equipment mods previously featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**).
+- Added **Sigourn's Cut** profile, with the following mods:
 
 03-09-2022
 - 1.2.7.
