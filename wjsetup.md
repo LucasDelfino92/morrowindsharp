@@ -460,33 +460,19 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-15-2022
 - 1.3.7.
-- Updated [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z) with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies. The option used is **00 All in One**.
-- Updated [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307).
-  - BAIN options installed:
-    - [X] 00 Core
-    - [X] 02 Yet Another Guard Diversity Patch
-    - [X] 05 RV Duke's Guard Silver Patch
-    - [X] 06 Oriental Ebony Weapons Integrated Patch
-    - [X] 07 Area Effect Projectiles Integrated
-- Updated [**BTBGI (Necro Edit) Tweaked Patches**](https://www.nexusmods.com/morrowind/mods/50308).
-  - BAIN options installed:
-    - [X] 03 Realistic Repair Add-on Patch
-    - [X] 04 Ashfall Patch
-    - [X] 05 Equipment Patches
-    - [X] 06 Complete Armor Joints Patch
-    - [X] 07 Better Fitted Female Armors Patch
-    - [X] 08 Properly Fitted Female Pants Patch
-- Added [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
-  - Hide **adamantiumarmor.esp**, **AreaEffectArrows.esp**, **entertainers.esp**, **LeFemmArmor.esp**, and **Siege at Firemoth.esp**.
-- Added [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731).
+- Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
+- Updated **OAAB Weapons Integrated**.
+- Updated **BTBGI (Necro Edit) Tweaked Patches**.
+- Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
+- Added **Adamantium Armor Integrated**.
 
 03-14-2022
 - 1.3.6.
 - Cloud movement shader is now enabled by default.
-- Added [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527).
-- Added [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840).
-- Added [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839).
-- Removed [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292).
+- Added **Class Description Tooltip**.
+- Added **Clocks**.
+- Added **Sprinting**.
+- Removed **MWSE Clock Block**.
 
 03-13-2022
 - 1.3.5.
@@ -494,16 +480,15 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-12-2022
 - 1.3.4.
-- Added [**Mlox**](https://github.com/mlox/mlox/releases), including [**Mlox updated rules**](https://github.com/DanaePlays/mlox-rules).
-- Updated [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856).
+- Added **Mlox**.
+- Updated **Improved Main Menu**.
 
 <details>
   <summary>Older entries - Click to expand</summary>
 
 03-11-2022
 - 1.3.3.
-- Added [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?).
-- Added [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?).
+- Added **No Beds for the Diseased** and **Incarnates Overhauled**.
 
 03-11-2022
 - Added instructions to set up **Map and Compass** (In-game Configuration).
@@ -513,51 +498,57 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Unchecked problematic **Use profile-specific Save Games** option in MO2.
 
 03-09-2022
+- 1.3.0.
+- Added **Sigourn's Cut** profile. It includes **BTB's Game Improvements (Necro Edit) Tweaked**, as well as BTBGI-compatible equipment mods previously featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**).
+
+03-09-2022
 - 1.2.7.
-- Updated [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094).
+- Updated **Loading Doors Lock Tune**.
 - Added **TUBES4MUSE** manual installation.
 
 03-08-2022
 - 1.2.6.
-- Updated [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z) with **UI Expansion** configuration. It disables auto-select search bar and verbose buttons in favor of icons.
+- Added **UI Expansion** MWSE configuration. Disables auto-select search bar, disables verbose buttons in favor of icons.
 
 03-07-2022
 - 1.2.5.
 - Registered **TES Construction Set** executable on MO2.
 - Added **MGE XE Distant Land** for the missing profile.
-- Added [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232).
+- Added **Yet Another Guard Diversity - Uniform Ordinators**.
 
 03-06-2022
 - 1.2.4.
 - Added **MGE XE Distant Land**, an empty mod which will store MGE XE's Distant Land statics when generated.
 
+03-06-2022
+- 1.2.3.
+- Updated **Map and Compass** mod config so that the Vvardenfell map is selected by default on a new game.
+
 03-04-2022
 - 1.2.2 Hotfix.
-- Updated [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094).
-- Removed [**Continue**](https://www.nexusmods.com/morrowind/mods/45952). Users reported similar problems as with **New Game Confirmation**.
+- Updated **Loading Doors Lock Tune** (Patches).
+- Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
 
 03-03-2022
 - 1.2.1 Hotfix.
-- Updated [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086). It now links to the Nexus version, which includes Necro's fixes.
-- Removed [**New Game Confirmation**](https://www.nexusmods.com/morrowind/mods/47693). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
+- Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
+- Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
 - 1.2.0.
-- Morrowind Sharp - Extended profile includes the following mods:
-  - Added [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915).
-  - Added [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471).
-  - Added [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107).
-  - Added [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078).
-  - Added [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631).
-  - Added [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) (MWSE Version). 
-  - Added [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)
+- Expanded Morrowind Sharper profile with the following mods:
+  - Added **Randomised Chargen** (Gameplay QOL).
+  - Added **Enhanced Detection Lite** (Gameplay).
+  - Added **FMI - Hospitality Papers Expanded** (Gameplay).
+  - Added **Better Character Classes** (Overhauls).
+  - Added **Blighted Blight** (Survival).
+  - Added **Creeping Blight** (Survival).
+  - Added **The Dream is the Door** (Visuals).
 - **tes3cmd.exe** has been moved inside **Game Folder Files\Data Files**, as intended.
 
 03-01-2022
 - 1.1.0.
-- Added [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439). The files installed are **Wrye Mash 2019 x64 - Installer** (Main Files) and **Wrye Mash 2021 - x86 - beta6 - manual installation archive** (Update Files).
-- Added [**tes3cmd.exe**](https://github.com/john-moonsugar/tes3cmd/releases).
-- Added **Widescreen Splash Replacer**, [**Part 1**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Widescreen%20Splash%20Replacer%20Part%201.7z) and [**Part 2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Widescreen%20Splash%20Replacer%20Part%202.7z).
+- Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
 03-01-2022
