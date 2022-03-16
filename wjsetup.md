@@ -461,8 +461,6 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 03-15-2022
 - 1.3.7.
 - Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
-- Updated **OAAB Weapons Integrated**.
-- Updated **BTBGI (Necro Edit) Tweaked Patches**.
 - Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
 - Added **Adamantium Armor Integrated**.
 
@@ -481,14 +479,14 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 03-12-2022
 - 1.3.4.
 - Added **Mlox**.
-- Updated **Improved Main Menu**.
 
 <details>
   <summary>Older entries - Click to expand</summary>
 
 03-11-2022
 - 1.3.3.
-- Added **No Beds for the Diseased** and **Incarnates Overhauled**.
+- Added **No Beds for the Diseased**.
+- Added **Incarnates Overhauled**.
 
 03-11-2022
 - Added instructions to set up **Map and Compass** (In-game Configuration).
@@ -498,12 +496,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Unchecked problematic **Use profile-specific Save Games** option in MO2.
 
 03-09-2022
-- 1.3.0.
-- Added **Sigourn's Cut** profile. It includes **BTB's Game Improvements (Necro Edit) Tweaked**, as well as BTBGI-compatible equipment mods previously featured in the guide (**Antares' Mage Robes**, **RuffinVangarr Armors Integrated**, **Oriental Ebony Weapons Integrated**, **OAAB Weapons Integrated**).
-
-03-09-2022
 - 1.2.7.
-- Updated **Loading Doors Lock Tune**.
 - Added **TUBES4MUSE** manual installation.
 
 03-08-2022
@@ -520,18 +513,12 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - 1.2.4.
 - Added **MGE XE Distant Land**, an empty mod which will store MGE XE's Distant Land statics when generated.
 
-03-06-2022
-- 1.2.3.
-- Updated **Map and Compass** mod config so that the Vvardenfell map is selected by default on a new game.
-
 03-04-2022
 - 1.2.2 Hotfix.
-- Updated **Loading Doors Lock Tune** (Patches).
 - Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
 
 03-03-2022
 - 1.2.1 Hotfix.
-- Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
 - Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
