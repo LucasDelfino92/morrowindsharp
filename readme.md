@@ -1,6 +1,6 @@
 # MORROWIND S#ARP: A Morrowind Modding Guide
 
-Last updated: March 10th, 2022.
+Last updated: March 16th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
