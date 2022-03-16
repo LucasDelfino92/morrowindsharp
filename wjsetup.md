@@ -456,12 +456,14 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
+
 03-15-2022
 - 1.3.7.
 - Updated [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z) with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies. The option used is **00 All in One**.
 - Updated [**OAAB Weapons Integrated**](https://www.nexusmods.com/morrowind/mods/50307).
 - Updated [**BTBGI (Necro Edit) Tweaked Patches**](https://www.nexusmods.com/morrowind/mods/50308).
-- Added [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931). Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual file is no longer needed.
+- Added [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931). Omitted the Adamantium Armor, Area Effect Arrows, LeFemm Armor, Entertainers, and Siege at Firemoth plugins.
 - Added [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731).
 
 03-14-2022
@@ -531,7 +533,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-01-2022
 - 1.2.0.
-- Expanded Morrowind Sharp - Extended profile with the following mods:
+- Morrowind Sharp - Extended profile includes the following mods:
   - Added [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915).
   - Added [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471).
   - Added [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107).
@@ -543,7 +545,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 03-01-2022
 - 1.1.0.
-- Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
+- Added [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439). The files installed are **Wrye Mash 2019 x64 - Installer** (Main Files) and **Wrye Mash 2021 - x86 - beta6 - manual installation archive** (Update Files).
+- Added [**tes3cmd.exe**](https://github.com/john-moonsugar/tes3cmd/releases).
+- Added **Widescreen Splash Replacer**, [**Part 1**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Widescreen%20Splash%20Replacer%20Part%201.7z) and [**Part 2**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Widescreen%20Splash%20Replacer%20Part%202.7z).
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
 03-01-2022
