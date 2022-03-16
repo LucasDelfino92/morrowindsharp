@@ -35,6 +35,24 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 ⭐ [**Patch for Purists - Merged Fixes**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Patch%20for%20Purists%20-%20Merged%20Fixes.7z)  
 Solves conflicts between the Book Typos and the Semi-Purist Fixes plugins.
 
+[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)  
+Fixes many issues present in Bethesda's original Official Plugins.
+
+Files to install:
+- **UMOPP 3.1.0** (Main files)
+  - Hide all plugins minus **bcsounds.esp**, **EBQ_Artifact.esp**, and **master_index.esp**.
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
+Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
+- Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
+
+[**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
+Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
+
+[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
+The Warp Script for the Propylon Indices will now prompt you before teleporting.
+- Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
+
 ⭐ [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -205,8 +223,8 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 
 Files to install:
 - **Pete's Journal and Scroll** (Optional files)
-- BAIN options to install:
-  - [X] 01 Journal and Scroll - 2K
+  - BAIN options to install:
+    - [X] 01 Journal and Scroll - 2K
 
 ⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
@@ -225,6 +243,9 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 
 ### Menus
 
+⭐ [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
+Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
+
 ⭐ [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -237,11 +258,14 @@ Allows highlighting and hiding quests in the Journal questlist.
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
 
+[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)  
+Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with. 
+
+[**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
+Adds a clock to the UI that displays either game world time or real time.
+
 ⭐ [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds bars to the UI that displays your companions and summoned creatures' health.
-
-[**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292)  
-Adds a clock to the UI that displays either game world time or real time.
 
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
@@ -355,24 +379,13 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ## GAMEPLAY
 
-### Expansions and add-ons
+### Expansion implementation
 
 ⭐ [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-Official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
-- Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
-
-[**Master Index**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Master%20Index.7z)  
-Official plugin adding a new quest to find all ten Propylon Indices. Talk to Folms Mirel at the Guild of Mages in Caldera. Includes fixes from [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931).
-
-[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
-The Warp Script for the Propylon Indices will now prompt you before teleporting.
-- Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
 ### Gameplay tweaks
 
@@ -395,10 +408,15 @@ Modifies movement speeds when strafing or backpedaling so that they are more rea
 Modifies critical strike coefficient depending on the weapon you use.
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural, and adds a sprint feature.
+Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
 - Hide the **MWSE** folder.
 
+> ℹ️ This disables the sprinting feature in favor of **Sprinting**, which we will install next.
+
 > ⚠️ Note that this mod is *not* meant to make movement faster, only more natural.
+
+[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
+Adds a feature-rich sprinting functionality to the game.
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
@@ -1087,7 +1105,9 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+Alt + Movement | Sprint | Sprinting
 K | Orders followers to attack the current target | ⭐ Kill Command
+N | Switch between in-game/real time clock | Clocks
 L | Equips lockpicks | ⭐ Security Enhanced
 P | Equips probes | ⭐ Security Enhanced
 C | Equips light sources | ⭐ Torch Hotkey
@@ -1106,6 +1126,17 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-16-2022
+- Features parity with Morrowind Sharp Wabbajack 1.3.7 release.
+- Added **Unofficial Morrowind Official Plugins Patched** (Patches).
+- Added **Adamantium Armor Integrated** (Patches).
+- Added **Improved Main Menu** (User Interface).
+- Added **Class Description Tooltip** (User Interface).
+- Added **Clocks** (User Interface).
+- Added **Sprinting** (Gameplay).
+- Removed **MWSE Clock Block** (User Interface).
+- Removed **Master Index** (Gameplay).
 
 03-12-2022
 - Added **LDM - Racist Service Refusal** (Gameplay).
