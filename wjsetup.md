@@ -456,6 +456,14 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
+03-15-2022
+- 1.3.7.
+- Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
+- Updated **OAAB Weapons Integrated**.
+- Updated **BTBGI (Necro Edit) Tweaked Patches**.
+- Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
+- Added **Adamantium Armor Integrated**.
+
 03-14-2022
 - 1.3.6.
 - Cloud movement shader is now enabled by default.
