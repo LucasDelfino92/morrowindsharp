@@ -458,71 +458,58 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
 
-03-15-2022
-- 1.3.7.
+1.3.7
 - Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
 - Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
 - Added **Adamantium Armor Integrated**.
 
-03-14-2022
-- 1.3.6.
+1.3.6
 - Cloud movement shader is now enabled by default.
 - Added **Class Description Tooltip**.
 - Added **Clocks**.
 - Added **Sprinting**.
 - Removed **MWSE Clock Block**.
 
-03-13-2022
-- 1.3.5.
+1.3.5
 - Properly excluded mods that shouldn't ship with Wabbajack.
 
-03-12-2022
-- 1.3.4.
+1.3.4
 - Added **Mlox**.
 
 <details>
   <summary>Older entries - Click to expand</summary>
 
-03-11-2022
-- 1.3.3.
+1.3.3
 - Added **No Beds for the Diseased**.
 - Added **Incarnates Overhauled**.
 
-03-11-2022
+1.3.2
 - Added instructions to set up **Map and Compass** (In-game Configuration).
 
-03-09-2022
-- 1.3.1.
+1.3.1
 - Unchecked problematic **Use profile-specific Save Games** option in MO2.
 
-03-09-2022
-- 1.2.7.
+1.2.7
 - Added **TUBES4MUSE** manual installation.
 
-03-08-2022
-- 1.2.6.
+1.2.6
 - Added **UI Expansion** MWSE configuration. Disables auto-select search bar, disables verbose buttons in favor of icons.
 
-03-07-2022
-- 1.2.5.
+1.2.5
 - Registered **TES Construction Set** executable on MO2.
 - Added **MGE XE Distant Land** for the missing profile.
 - Added **Yet Another Guard Diversity - Uniform Ordinators**.
 
-03-06-2022
-- 1.2.4.
+1.2.4
 - Added **MGE XE Distant Land**, an empty mod which will store MGE XE's Distant Land statics when generated.
 
-03-04-2022
-- 1.2.2 Hotfix.
+1.2.2 Hotfix
 - Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
 
-03-03-2022
-- 1.2.1 Hotfix.
+1.2.1 Hotfix
 - Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
-03-01-2022
-- 1.2.0.
+1.2.0.
 - Expanded Morrowind Sharper profile with the following mods:
   - Added **Randomised Chargen** (Gameplay QOL).
   - Added **Enhanced Detection Lite** (Gameplay).
@@ -533,13 +520,11 @@ Changes weather chances, including an increasing chance of blight throughout Vva
   - Added **The Dream is the Door** (Visuals).
 - **tes3cmd.exe** has been moved inside **Game Folder Files\Data Files**, as intended.
 
-03-01-2022
-- 1.1.0.
+1.1.0.
 - Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
-03-01-2022
-- 1.0.0.
+1.0.0
 - Initial release.
 </details>
   
