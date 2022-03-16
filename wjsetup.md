@@ -513,10 +513,6 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Unchecked problematic **Use profile-specific Save Games** option in MO2.
 
 03-09-2022
-- 1.3.0.
-- Added **Sigourn's Cut** profile, with the following mods:
-
-03-09-2022
 - 1.2.7.
 - Updated [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094).
 - Added **TUBES4MUSE** manual installation.
