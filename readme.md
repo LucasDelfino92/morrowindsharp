@@ -6,10 +6,7 @@ Last updated: March 16th, 2022.
 
 ## Contact info
 
-You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
-
-- Discord: **Lucas92#3154**
-- Nexus Mods: [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
+- Discord: [Morrowind Modding Community](https://discord.me/mwmods)
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
