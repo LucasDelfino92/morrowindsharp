@@ -460,10 +460,13 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 1.4.0
 - THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
-- Added **Glass Domes of Vivec**.
-- Added **No-Frills Open Arena**.
-- Updated **Ownership Overhaul Patches**.
-- Removed **No-Frills Open Vivec**.
+- The following changes apply to the Extended and Sigourn's Cut profiles:
+  - Added **Glass Domes of Vivec**.
+  - Added **No-Frills Open Arena**.
+  - Updated **Ownership Overhaul Patches**.
+  - Removed **No-Frills Open Vivec**.
+- The following change applies to the Sigourn's Cut profile:
+  - Added **Concept Art Ordinators**.
 
 1.3.7
 - Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
