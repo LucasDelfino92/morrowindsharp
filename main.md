@@ -666,7 +666,7 @@ Closes Molag Mar's canton.
 - BAIN options to install:
   - [X] 00 Core
 
-[**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/43714)  
+[**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
 Opens the Vivec Arena canton.
 
 [**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
