@@ -458,6 +458,13 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
 
+1.4.0
+- THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
+- Added **Glass Domes of Vivec**.
+- Added **No-Frills Open Arena**.
+- Updated **Ownership Overhaul Patches**.
+- Removed **No-Frills Open Vivec**.
+
 1.3.7
 - Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
 - Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
