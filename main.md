@@ -661,21 +661,32 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**No-Frills Open Vivec**](https://www.nexusmods.com/morrowind/mods/43714)  
-Opens Vivec's cantons.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Vanilla Placement (ESP)
-
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
 - BAIN options to install:
   - [X] 00 Core
 
-[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patches for both canton mods.
+[**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/43714)  
+Opens the Vivec Arena canton.
+
+[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
+Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
+
+[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
+Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
 - BAIN options to install:
-  - [X] 01 No-Frills Series
+  - [X] 00 Core Visual Assets
+  - [X] 01 Glow in the Dahrk Patch - flickering
+  - [X] 01 Optional Green Glow for GitD Patch - flickering
+  - [X] 02 New Weather Mechanics (requires MWSE)
+  - [X] 07 Optional Thinner Interior Texture
+
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
+Compatibility patches for canton mods.
+- BAIN options to install:
+  - [X] 00 Glass Domes of Vivec
+  - [X] 01 No-Frills Closed Molag Mar
+  - [X] 01 No-Frills Open Arena
 
 ⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
@@ -1126,6 +1137,14 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-17-2022
+- THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
+- Features parity with Morrowind Sharp Wabbajack 1.4.0 release.
+- Added **Glass Domes of Vivec**.
+- Added **No-Frills Open Arena**.
+- Updated **Ownership Overhaul Patches** BAIN installation instructions.
+- Removed **No-Frills Open Vivec**.
 
 03-16-2022
 - Features parity with Morrowind Sharp Wabbajack 1.3.7 release.
