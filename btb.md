@@ -28,8 +28,8 @@ Files to install:
       Personal edit of Balanced Passive Races and Birthsigns to better suit my tastes.
     - [X] 02 Morrowind Anti-Cheese Tweaked  
       Personal edit of Morrowind Anti-Cheese for improved BTBGI compatibility.
-    - [X] 03 Rebalance Series Patch  
-      Addresses conflicts with Morrowind Anti-Cheese Tweaked, Beware the Sixth House, Tribunal Rebalance, and Bloodmoon Rebalance.    
+    - [X] 03 Beware the Sixth House Patch  
+      Addresses conflicts with Beware the Sixth House. Place this plugin after Merged Objects.
 - **BTBGI (Necro Edit) Tweaked Patches** (Main files)  
   Includes patches for a number of mods.
   - BAIN options to install:
@@ -37,12 +37,6 @@ Files to install:
       Addresses inventory conflicts with Arrille when using Realistic Repair - Add-on.
     - [X] 04 Ashfall Patch  
       Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
-    - [X] 06 Complete Armor Joints Patch  
-      Addresses conflicts with Complete Armor Joints.
-    - [X] 07 Better Fitted Female Armors Patch  
-      Addresses conflicts with Better Fitted Female Armors.
-    - [X] 08 Properly Fitted Female Pants Patch  
-      Addresses conflicts with Properly Fitted Female Pants.
 - **BTBGI Loot Patch** (Main files)  
   Slows down the appearance of high quality loot drops from Dremoras and Golden Saints.
   - BAIN options to install:
@@ -64,6 +58,20 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 
 [**Sneak Strike Mod Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/Sneaky%20Strike%20Mod%20Config.7z)  
 Adjusts the critical strike damage range to play better with **BTB's Game Improvements**.
+
+[**Enhanced Detection Lite Mod Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
+Enables the BTBGI-compatible mode.
+
+## FINISHING TOUCHES
+
+### Conflict resolution
+
+For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
+
+- Run TES3Merge in Mod Organizer 2.
+- The tool will generate a Merged Objects.esp, solving conflicts in your load order.
+- Activate **Merged Objects.esp** at the end of your load order.
+- Place **Beware the Sixth House BTBGI Patch** after **Merged Objects.esp**. This will ensure improper record merges are overwritten by the intended custom merge.
 
 ### Additional MCP patches
 
