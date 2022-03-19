@@ -64,6 +64,23 @@ Enables the BTBGI-compatible mode.
 
 ## FINISHING TOUCHES
 
+### Adjusting mod order and load order
+
+The proper load order for these mods is:
+
+```
+Realistic_Repair_Add-on.ESP
+BTB's Game Improvements (Necro Edit) Tweaked.ESP
+BTBGI Realistic Repair Add-on Patch.ESP
+Balance Passive Races and Birthsigns Tweaked.ESP
+Morrowind Anti-Cheese Tweaked.ESP
+Beware the Sixth House.ESP
+Beware the Sixth House Tweaks.ESP
+Beware the Sixth House BTBGI Patch.ESP
+```
+
+The mod order is indistinct.
+
 ### Conflict resolution
 
 For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
