@@ -186,6 +186,8 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 > ℹ️ If at any point Wrye Mashs asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **mash64** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**.
 
+> ⚠️ Failing to enable this option can cause you to be unable to repair your saves.
+
 ## Mlox setup
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
