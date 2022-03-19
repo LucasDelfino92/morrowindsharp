@@ -1138,6 +1138,9 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # CHANGELOG
 
+03-18-2022
+- Updated **MET Hotfix**. Fixes a mesh from Morrowind Enhanced Textures that would cause an error.
+
 03-17-2022
 - THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
 - Features parity with Morrowind Sharp Wabbajack 1.4.0 release.
