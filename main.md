@@ -67,10 +67,11 @@ Allows the player to find the exact amount of Adamantium Ore needed to craft Bol
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
 
-[**Divayth Fyr Puzzle Fixed ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Divayth%20Fyr%20Puzzle%20Fixed%20ESP%20Replacer.7z)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened. Includes fixes from Patch for Purists. Also includes patch for Ownership Overhaul.
-
-> [**Link**](https://www.nexusmods.com/morrowind/mods/45155) to original mod by **Remiros**.
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- FOMOD options to install:
+  - [X] Patch for Purists
+  - [X] Ownership Overhaul
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
@@ -1138,6 +1139,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 # CHANGELOG
 
 03-19-2022
+- Updated **Divayth Fyr Puzzle Fixed** installation instructions.
 - Removed **Blighted Blight**. Ashfall already implements the possibility of contracting blight disease while out in a blight storm.
 
 03-18-2022
