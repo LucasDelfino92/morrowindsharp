@@ -63,7 +63,11 @@ No. Many modern mods (though not all) rely on the Morrowind Script Extender (MWS
 
 ### Is this guide compatible with Morrowind Rebirth?
 
-No. I suggest following RandomPal's [**An Alternative to Morrowind Rebirth**](https://www.nexusmods.com/morrowind/mods/48812) guide instead.
+No.
+
+### Is this mod compatible with Beautiful Cities of Morrowind?
+
+According to RandomPal, it is. However, expect no support from me if you decide to install it.
 
 ### Is this guide compatible with Tamriel Rebuilt?
 
