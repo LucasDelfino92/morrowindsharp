@@ -70,14 +70,16 @@ The proper load order for these mods is:
 
 ```
 Realistic_Repair_Add-on.ESP
-BTB's Game Improvements (Necro Edit) Tweaked.ESP
-BTBGI Realistic Repair Add-on Patch.ESP
-Balance Passive Races and Birthsigns Tweaked.ESP
-Morrowind Anti-Cheese Tweaked.ESP
+* BTB's Game Improvements (Necro Edit) Tweaked.ESP
+* BTBGI Realistic Repair Add-on Patch.ESP
+* Balance Passive Races and Birthsigns Tweaked.ESP
+* Morrowind Anti-Cheese Tweaked.ESP
 Beware the Sixth House.ESP
 Beware the Sixth House Tweaks.ESP
-Beware the Sixth House BTBGI Patch.ESP
+* Beware the Sixth House BTBGI Patch.ESP
 ```
+
+> ℹ️ * Denotes a plugin added by this guide. Place these plugins in this order in relation to the plugins from Morrowind Sharp.
 
 The mod order is indistinct.
 
