@@ -571,6 +571,9 @@ Assigns ownership to the many, many items and containers that rightly should be 
 ⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
 
+⭐ [**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes a number of inconsistencies with the mod's creature edits.
+
 ⭐ [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -1140,6 +1143,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 03-18-2022
 - Updated **MET Hotfix**. Fixes a mesh from Morrowind Enhanced Textures that would cause an error.
+- Added **Beware the Sixth House Tweaks*.
 
 03-17-2022
 - THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
