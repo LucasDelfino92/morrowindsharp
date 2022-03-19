@@ -1036,8 +1036,6 @@ For specific records we want to delete, we use **TESAME**.
 
 ### Conflict resolution
 
-> ℹ️ This section is listed as a reference for people installing mods not listed in this guide.
-
 For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
@@ -1047,10 +1045,9 @@ For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** 
 
 For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
 
-- Run TES3Merge in Mod Organizer 2. Once the tool as finished its conflict solving process, press any key to exit.
-- **Merged Objects.ESP** will now be present at the end of your load order. Activate the plugin.
-
-> ℹ️ A leveled list conflicts means certain items, NPCs, or creatures.
+- Run TES3Merge in Mod Organizer 2.
+- The tool will generate a Merged Objects.esp, solving conflicts in your load order.
+- Activate **Merged Objects.esp** at the end of your load order.
 
 ### Updating and repairing saves
 
