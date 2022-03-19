@@ -313,6 +313,14 @@ Selection of songs from various different game soundtracks that all fit in with 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
 
+### Running TES3Merge
+
+- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
+- Click on the executables dropdown menu to the left of the **Run** button, and select **TES3Merge**. 
+- Click **Run** to launch TES3Merge.
+- The tool will generate a Merged Objects.esp, solving conflicts in your load order.
+- Activate **Merged Objects.esp** at the end of your load order.
+
 ### Updating MWSE
 
 - Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
@@ -457,6 +465,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 # CHANGELOG
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
+
+1.4.1
+- Added TES3Merge instructions in Finishing touches.
 
 1.4.0
 - THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
