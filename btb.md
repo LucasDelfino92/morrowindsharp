@@ -21,27 +21,16 @@ Files to install:
 
 - **BTBGI (Necro Edit) Tweaked** (Main files)  
   Includes the main file and a number of patches for essential mods.
-  - BAIN options to install:
-    - [X] 00 Core  
-      Contains the main plugin.
-    - [X] 01 Balanced Passive Races and Birthsigns Tweaked  
-      Personal edit of Balanced Passive Races and Birthsigns to better suit my tastes.
-    - [X] 02 Morrowind Anti-Cheese Tweaked  
-      Personal edit of Morrowind Anti-Cheese for improved BTBGI compatibility.
-    - [X] 03 Beware the Sixth House Patch  
-      Addresses conflicts with Beware the Sixth House. Place this plugin after Merged Objects.
+  - FOMOD options to install:
+    - [X] Balanced Passive Races and Birthsigns Tweaked  
+    - [X] Morrowind Anti-Cheese Tweaked  
+    - [X] Beware the Sixth House Patch
+    - [X] Standard Loot Patch
 - **BTBGI (Necro Edit) Tweaked Patches** (Main files)  
   Includes patches for a number of mods.
-  - BAIN options to install:
-    - [X] 03 Realistic Repair Add-on Patch  
-      Addresses inventory conflicts with Arrille when using Realistic Repair - Add-on.
-    - [X] 04 Ashfall Patch  
-      Oerrides the value changes from Ashfall for Crab Meat, Hound Meat, and Rat Meat.
-- **BTBGI Loot Patch** (Main files)  
-  Slows down the appearance of high quality loot drops from Dremoras and Golden Saints.
-  - BAIN options to install:
-    - [X] 00 Core  
-      Contains the main plugin and the readme.
+  - FOMOD options to install:
+    - [X] Realistic Repair Add-on
+    - [X] Ashfall
 
 ### Complementary mods
 
