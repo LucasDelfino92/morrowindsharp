@@ -590,14 +590,13 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 
 > ℹ️ For detailed information on what this mod does and how to make use of its features, see its [**official wiki**](https://github.com/jhaakma/ashfall/wiki).
 
-[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm.
-
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
 Files to install:
 - **Creeping Blight - MWSE Version** (Main files)
+
+> ℹ️ This mod works very well alongside Ashfall, which implements the possibility of contracting blight diseases while out in a blight storm.
 
 ## VISUALS
 
@@ -1137,6 +1136,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+03-19-2022
+- Removed **Blighted Blight**. Ashfall already implements the possibility of contracting blight disease while out in a blight storm.
 
 03-18-2022
 - Updated **MET Hotfix**. Fixes a mesh from Morrowind Enhanced Textures that would cause an error.
