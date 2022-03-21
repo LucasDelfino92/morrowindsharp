@@ -176,7 +176,7 @@ All these aforementioned utilities have been downloaded and their files placed i
 ## Wrye Mash setup
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
+- Click on the executables dropdown menu to the left of the **Run** button, and select **Wrye Mash**. 
 - Click **Run** to launch Wrye Mash.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**. A message should state that morrowind.ini and the Data files folder were found.
@@ -184,14 +184,14 @@ All these aforementioned utilities have been downloaded and their files placed i
    - **Mlox directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**.
 - Click **Next** and then click **Finish**.
 
-> ℹ️ If at any point Wrye Mashs asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **mash64** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**.
+> ℹ️ If at any point Wrye Mashs asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **Wrye Mash** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**.
 
 > ⚠️ Failing to enable this option can cause you to be unable to repair your saves.
 
 ## Mlox setup
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
+- Click on the executables dropdown menu to the left of the **Run** button, and select **Wrye Mash**. 
 - Click **Run** to launch Wrye Mash.
 - Under the **Misc** tab, go to **Mlox** -> **Launch Mlox** in order to launch Mlox.
 - When the application has done loading, and it confirms the plugins are already in sorted order, close the application.
@@ -308,7 +308,7 @@ Selection of songs from various different game soundtracks that all fit in with 
 ### Synchronizing mod masters
 
 - Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Click on the executables dropdown menu to the left of the **Run** button, and select **mash64**. 
+- Click on the executables dropdown menu to the left of the **Run** button, and select **Wrye Mash**. 
 - Click **Run** to launch Wrye Mash.
 - In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
@@ -466,7 +466,10 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
-> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
+> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the listed mods instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+
+1.4.2
+- Renamed mash64 to Wrye Mash in MO2 executables.
 
 1.4.1
 - Added TES3Merge instructions in Finishing touches.
