@@ -914,7 +914,6 @@ Fixes a number of bugs with the original mod, and optimizes it by removing air/u
 
 [**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest. 
-- After installing the mod, copy the files from **Music/MS/general/Dungeon General** into **Music/MS/general/underwater**.
 
 > ℹ️ The filesize of this download is 2.34GB.
 
