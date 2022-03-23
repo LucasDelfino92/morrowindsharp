@@ -7,7 +7,7 @@
 
 ## Disclaimer
 
-The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) section before proceeding.
+The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
 
 ## Installing mods appropriately
 
