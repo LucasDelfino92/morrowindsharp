@@ -1183,152 +1183,143 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 03-18-2022
 - Updated **MET Hotfix**. Fixes a mesh from Morrowind Enhanced Textures that would cause an error.
 - Added **Beware the Sixth House Tweaks*.
-- Added **TES3Merge** instructions to Finishing touches.
+- Added **TES3Merge** instructions to **Finishing touches**.
 
 03-17-2022
 - THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
-- Features parity with Morrowind Sharp Wabbajack 1.4.0 release.
 - Added **Glass Domes of Vivec**.
 - Added **No-Frills Open Arena**.
 - Updated **Ownership Overhaul Patches** BAIN installation instructions.
 - Removed **No-Frills Open Vivec**.
 
 03-16-2022
-- Features parity with Morrowind Sharp Wabbajack 1.3.7 release.
-- Added **Unofficial Morrowind Official Plugins Patched** (Patches).
-- Added **Adamantium Armor Integrated** (Patches).
-- Added **Improved Main Menu** (User Interface).
-- Added **Class Description Tooltip** (User Interface).
-- Added **Clocks** (User Interface).
-- Added **Sprinting** (Gameplay).
-- Removed **MWSE Clock Block** (User Interface).
-- Removed **Master Index** (Gameplay).
+- Added **Unofficial Morrowind Official Plugins Patched**.
+- Added **Adamantium Armor Integrated**.
+- Added **Improved Main Menu**.
+- Added **Class Description Tooltip**.
+- Added **Clocks**.
+- Added **Sprinting**.
+- Removed **MWSE Clock Block**.
+- Removed **Master Index**.
 
 03-12-2022
-- Added **LDM - Racist Service Refusal** (Gameplay).
-- Added **Service Requirements Revised** (Gameplay).
-- Added instructions to hide the MWSE folder from **Speed and Movement Rebalanced** (Gameplay).
+- Added **LDM - Racist Service Refusal**.
+- Added **Service Requirements Revised**.
+- Added **Speed and Movement Rebalanced** instructions to hide the MWSE folder.
 
 03-11-2022
-- Added **No Beds for the Diseased** (Gameplay).
-- Added **MET Hofix** (Visuals).
-- Added **Incarnates Overhauled** (Visuals).
+- Added **No Beds for the Diseased**.
+- Added **MET Hofix**.
+- Added **Incarnates Overhauled**.
 
 03-11-2022
-- Added instructions to set up **Map and Compass** (In-game Configuration).
+- Added **Map and Compass** instructions to set up the mod.
 
 03-10-2022
-- Added instructions to hide textures from **Smart Journal** (User Interface).
+- Added **Smart Journal** instructions to hide the mod's textures.
 
 03-09-2022
-- Updated **TUBES4MUSE** (Audio). The user no longer has to modify the mod post-installation.
-- Added **Yet Another Guard Diversity - Uniform Ordinators** (Visuals).
+- Updated **TUBES4MUSE**. The user no longer has to modify the mod post-installation.
+- Added **Yet Another Guard Diversity - Uniform Ordinators**.
 
 03-04-2022
-- Removed **Continue** (User Interface). Users reported similar problems as with **New Game Confirmation**.
+- Removed **Continue**. Users reported similar problems as with **New Game Confirmation**.
 
 03-03-2022
-- Updated **Silver Tongue** (Overhauls). It now links to the Nexus version, which includes Necro's fixes.
-- Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
+- Updated **Silver Tongue**. It now links to the Nexus version, which includes Necro's fixes.
+- Removed **New Game Confirmation**. People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
 03-01-2022
-- Added **Enhanced Detection Lite** (Gameplay).
-- Re-added **Randomised Chargen** (Gameplay QOL).
-- Re-added **FMI - Hospitality Papers Expanded** (Gameplay).
-- Re-added **Better Character Classes** (Overhauls).
-- Re-added **Blighted Blight** (Survival).
-- Re-added **Creeping Blight** (Survival).
-- Re-added **The Dream is the Door** (Visuals).
+- Added **Enhanced Detection Lite**.
+- Added **Randomised Chargen**.
+- Added **FMI - Hospitality Papers Expanded**.
+- Added **Better Character Classes**.
+- Added **Blighted Blight**.
+- Added **Creeping Blight**.
+- Added **The Dream is the Door**.
+
+<details>
+	<summary>Older entries</summary>
 
 02-20-2022
 - Merged **Main** and **Addendum** guides into a single one.
 - Rewrote **Finishing Touches**.
 - **Mod Config** and **Shaders** have been moved to the bottom of the mod list.
-- Re-added **Quick Char (Necro Edit)**.
-- Removed **Bitter Coast Scum Replacer** (Visuals). Morrowind Enhanced Textures features a very good looking scum texture already.
-
-<details>
-	<summary>Older entries</summary>
+- Added **Quick Char (Necro Edit)**.
+- Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
 
 02-12-2022
 - Updated **Project Atlas** installation instructions.
-- Added **Project Atlas - MET** (Visuals).
+- Added **Project Atlas - MET**.
 
 02-12-2022
-- Removed **Smarter Soultrap** (Gameplay QOL).
+- Removed **Smarter Soultrap**.
 
 02-11-2022
-- Added **Give or Take** (User interface).
-- Added **Bitter Coast Scum Replacer** (Visuals).
-- Removed **MWSE Alchemy Takes Time (inpv edit)** (Overhauls).
-- Removed **Nordic Chest Replacer** (Visuals).
-- Removed **Trackless Grazeland** (Visuals).
-- Removed **Grass for Trackless Grazeland** (Visuals). Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate distant land.
-- Removed **Well Diversified STOTSP** (Visuals).
-- Removed **Outfit Greetings Tweaked** (Dialogue).
-- Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted** (Addendum). Make sure to unhide this mesh.
-- Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks** (Addendum). Make sure to reinstall this mod.
+- Added **Give or Take**.
+- Removed **MWSE Alchemy Takes Time (inpv edit)**.
+- Removed **Nordic Chest Replacer**.
+- Removed **Trackless Grazeland**.
+- Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
+- Removed **Well Diversified STOTSP**.
+- Removed **Outfit Greetings Tweaked**.
+- Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted**. Make sure to unhide this mesh.
+- Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks**. Make sure to reinstall this mod.
 
 02-10-2022
-- Remind me to never let anyone else tell me what should or what shouldn't be in the guide, unless the mod has bugs.
-- Removed **Character Creation Name Generator** (Gameplay QOL).
-- Removed **Chargen Revamped - Expanded Lands** (Gameplay).
-- Removed **Quick Loadouts** (User Interface).
-- Removed **Switchable Scriptures** (Gameplay).
-- Removed **Light Decay** (Gameplay).
-- Removed **Lucky Loot** (Gameplay).
-- Removed **Brutal Backstabbing** (Gameplay).
-- Removed **Lucky Strike - A Critical Hit Mod** (Gameplay).
-- Removed **Poison Crafting** (Gameplay).
-- Removed **Restocking Alchemy Essentials Poison Crafting Patch** (Gameplay).
-- Removed **MM - Enhanced Light** (Gameplay).
-- Removed **MM - Enhanced Telekinesis** (Gameplay).
-- Removed **FMI - Service Refusal and Contraband ESP Replacer** (Gameplay).
-- Removed **Religions Elaborated (Healers)** (Gameplay).
+- Removed **Character Creation Name Generator**.
+- Removed **Chargen Revamped - Expanded Lands**.
+- Removed **Quick Loadouts**.
+- Removed **Switchable Scriptures**.
+- Removed **Light Decay**.
+- Removed **Lucky Loot**.
+- Removed **Brutal Backstabbing**.
+- Removed **Lucky Strike - A Critical Hit Mod**.
+- Removed **Poison Crafting**.
+- Removed **Restocking Alchemy Essentials Poison Crafting Patch**.
+- Removed **MM - Enhanced Light**.
+- Removed **MM - Enhanced Telekinesis**.
+- Removed **FMI - Service Refusal and Contraband ESP Replacer**.
+- Removed **Religions Elaborated (Healers)**.
 
 02-07-2022
-- **Project Atlas** now uses the Intelligent Textures option instead of the vanilla option.
-- Removed **Idle Talk** (Audio), as I was informed there were problems with the mod which caused dialogue repetition.
-- Removed **Its a Deal** (Audio), as **Character Sound Overhaul** includes a better implementation of this mod.
+- Removed **Idle Talk**. I was informed there were problems with the mod which caused dialogue repetition.
+- Removed **Its a Deal**. **Character Sound Overhaul** includes a better implementation of this mod.
 
 02-06-2022
-- Added **Class-Conscious Character Progression** (Overhauls). Replaces **Mort's Ultimate Leveling Experience**.
-- **Familiar Faces by Caleb** and **Facelift** now load before **Morrowind Enhanced Textures**, as the latter already includes many meshes tweaked from Facelift.
-- **Morrowind Enhanced Textures** (Visuals) no longer includes instructions to install the Project Atlas patch from its Nexus page.
+- Added **Class-Conscious Character Progression**. Replaces **Mort's Ultimate Leveling Experience**.
 
 02-05-2022
-- Mod order and load order are now provided as text files to be dumped into your Profile folder in Mod Organizer 2. This will automatically enable and re-order all mods featured in Morrowind Sharp.
-- Added **Morrowind Enhanced Textures** (Visuals). Replaces **Intelligent Textures**.
-- Removed **Flies** (Visuals).
-- Removed **Pincushion** (Visuals).
+- Added **Morrowind Enhanced Textures**. Replaces **Intelligent Textures**.
+- Removed **Flies**.
+- Removed **Pincushion**.
 
 02-04-2022
-- Modified **Ownership Overhaul Patches** installation instructions (Visuals).
-- Re-added **Wolf Helmet Replacer** (Visuals).
-- Removed **Character Backgrounds** (Gameplay).
-- Removed **Actually Unlimited Skeleton Keys** (Gameplay).
-- Removed **Drop Light** (Gameplay).
-- Removed **Ashmire Replacer** (Visuals).
-- Removed **Inscribed Maar Gan Rock** (Visuals).
-- Removed **3D Vines Vanilla Mushroom Trees** (Visuals).
-- Removed **Throbbing Meat - a Corprus Meat Replacer** (Visuals).
-- Removed **Bitter Coast Sounds (UMOPP)** (Visuals).
-- Removed **Glowbugs** (Visuals).
-- Removed **Heat Haze** (Visuals).
-- Removed **Mistify** (Visuals).
-- Removed **Shattered Stones - An Earthquake Mod** (Visuals).
-- Removed **Unto Dust** (Visuals).
-- Removed **Haunted Barrows** (Audio).
-- Removed **Heartthrum** (Audio).
-- Removed **Outdoor Banners With Sound** (Audio).
-- Removed **Water Sounds** (Audio).
-- Removed **Greetings for No Lore** (Audio).
-- Removed **Nordic Dagon Fel** (Visuals).
-- Removed **Shrine of Azura** (Visuals).
-- Removed **OAAB_Data** (OAAB_Data).
-- Removed **OAAB Integrations** (OAAB_Data).
-- Removed **OAAB Dwemer Lightning Rods** (OAAB_Data).
-- Removed **OAAB Dwemer Pavements** (OAAB_Data).
+- Updated **Ownership Overhaul Patches** installation instructions.
+- Added **Wolf Helmet Replacer**.
+- Removed **Character Backgrounds**.
+- Removed **Actually Unlimited Skeleton Keys**.
+- Removed **Drop Light**.
+- Removed **Ashmire Replacer**.
+- Removed **Inscribed Maar Gan Rock**.
+- Removed **3D Vines Vanilla Mushroom Trees**.
+- Removed **Throbbing Meat - a Corprus Meat Replacer**.
+- Removed **Glowbugs**.
+- Removed **Heat Haze**.
+- Removed **Mistify**.
+- Removed **Shattered Stones - An Earthquake Mod**.
+- Removed **Unto Dust**.
+- Removed **Haunted Barrows**.
+- Removed **Heartthrum**.
+- Removed **Outdoor Banners With Sound**.
+- Removed **Water Sounds**.
+- Removed **Greetings for No Lore**.
+- Removed **Nordic Dagon Fel**.
+- Removed **Shrine of Azura**.
+- Removed **OAAB_Data**.
+- Removed **OAAB Integrations**.
+- Removed **OAAB Dwemer Lightning Rods**.
+- Removed **OAAB Dwemer Pavements**.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
