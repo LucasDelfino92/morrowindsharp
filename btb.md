@@ -45,7 +45,7 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
-[**Sneak Strike Mod Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/Sneaky%20Strike%20Mod%20Config.7z)  
+[**Sneak Strike Mod Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Sneaky%20Strike%20Mod%20Config.7z)  
 Adjusts the critical strike damage range to play better with **BTB's Game Improvements**.
 
 [**Enhanced Detection Lite Mod Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
