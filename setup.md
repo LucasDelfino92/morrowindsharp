@@ -31,10 +31,10 @@ C:\Games\Morrowind
 ```
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 ```
-C:\Games\Morrowind Mods
+C:\Games\Morrowind Sharp
 ```
 
-> ⚠️ Make sure you don't create your Morrowind Mods folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
+> ⚠️ Make sure you don't create your Morrowind Sharp folder inside your Morrowind folder. **Mod Organizer 2** will fail to register your installed mods.
 
 ### Cleaning up your GOG installation
 
@@ -109,7 +109,7 @@ This file contemplates the following landscape-altering scenarios:
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 - Manually download **Mod Organizer 2** (Main files).
 - Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
+- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Sharp\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
 > ⚠️ Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
@@ -118,7 +118,7 @@ This file contemplates the following landscape-altering scenarios:
 
 ### Administrator privileges
 
-- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
+- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Sharp\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
 - In the **Compatibility** tab, check **Run this program as an administrator** and click **Apply**.
 - Click **Accept** to close this window.
 
@@ -298,17 +298,17 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 
 [**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
 Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
+- Extract the contents of the file in **Morrowind Sharp\TES3View**. 
 
 > ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
+- Extract the contents of the file in **Morrowind Sharp\TES3Merge**.
 
 [**TESAME**](http://mw.modhistory.com/download-95-15443)  
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
+- Extract the contents of the file in **Morrowind Sharp\TESAME**.
 
 ### Registering tools in Mod Organizer 2
 
@@ -316,7 +316,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
+- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
@@ -332,7 +332,7 @@ Wrye Mash is a mod manager and a tool used to repair and update saves, update th
 - Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
+   - **Mods Installers directory**: select your Morrowind Sharp folder (**C:\Games\Morrowind Sharp**).
 - Click **Next** and then click **Finish**.
 - Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support.
 - Close the program.
