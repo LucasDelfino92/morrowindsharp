@@ -2,7 +2,7 @@
 
 ### Preliminary steps
 
-Some of the mods installed in Morrowind Sharp should be uninstalled for this section. They will be replaced in favor of more compatible versions.
+Some of the mods installed in Morrowind Sharp should be disabled for this section. They will be replaced in favor of more compatible versions.
 
 These mods are:
 - (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
@@ -14,19 +14,19 @@ These mods are:
 
 ### BTB's Game Improvements
 
-[**BTBGI (Necro Edit) Tweaked and Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
+[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements.
 
 Files to install:
 
-- **BTBGI (Necro Edit) Tweaked** (Main files)  
+- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
   Includes the main file and a number of patches for essential mods.
   - FOMOD options to install:
     - [X] Balanced Passive Races and Birthsigns Tweaked  
     - [X] Morrowind Anti-Cheese Tweaked  
     - [X] Beware the Sixth House Patch
     - [X] Standard Loot Patch
-- **BTBGI (Necro Edit) Tweaked Patches** (Main files)  
+- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)  
   Includes patches for a number of mods.
   - FOMOD options to install:
     - [X] Realistic Repair Add-on
@@ -54,23 +54,6 @@ Enables the BTBGI-compatible mode.
 ## FINISHING TOUCHES
 
 ### Adjusting mod order and load order
-
-The proper load order for these mods is:
-
-```
-Realistic_Repair_Add-on.ESP
-* BTB's Game Improvements (Necro Edit) Tweaked.ESP
-* BTBGI Realistic Repair Add-on Patch.ESP
-* Balance Passive Races and Birthsigns Tweaked.ESP
-* Morrowind Anti-Cheese Tweaked.ESP
-Beware the Sixth House.ESP
-Beware the Sixth House Tweaks.ESP
-* Beware the Sixth House BTBGI Patch.ESP
-```
-
-> ℹ️ * Denotes a plugin added by this guide. Place these plugins in this order in relation to the plugins from Morrowind Sharp.
-
-The mod order is indistinct.
 
 ### Conflict resolution
 
