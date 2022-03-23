@@ -468,6 +468,15 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the listed mods instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.0
+- Added **Qwerty's Various Graphics - Bridgeropes** (Extended and Sigourn's Cut).
+- Added **MWSE Blood Diversity** (Extended and Sigourn's Cut).
+- Added **Tamriel_Data (HD)** (Extended and Sigourn's Cut).
+- Added **Solstheim - Tomb of the Snow Prince** (Extended and Sigourn's Cut). Also installed is the Graphical Replacer, using the Skyrim-like Trees and Remiros' Groundcover for TOTSP options.
+  - ⚠️ Please remember to generate Distant Land using the VSW-Rem-Anthology Solstheim plugin *instead* of the Rem_Solstheim plugin.
+  - ⚠️ Also make sure to regenerate your Merged Objects, as there's a conflict with Bloodmoon Rebalance which will cause Veresa Alver to teleport you into the wrong spot.
+- Added **STOTSP Ownership Overhaul Patch** (Extended and Sigourn's Cut).
+
 1.4.2
 - Renamed mash64 to Wrye Mash in MO2 executables.
 
