@@ -126,9 +126,9 @@ The second profile expands on Morrowind Sharp. It adds many minor bug fixes and 
 
 The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
 
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
+Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharp - Extended** to **Morrowind Sharp**.
 
-![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
+![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_profileSelection.png)
 
 # UTILITIES AND TOOLS
 
