@@ -1,17 +1,5 @@
 ## BTB's GAME IMPROVEMENTS
 
-### Preliminary steps
-
-Some of the mods installed in Morrowind Sharp should be disabled for this section. They will be replaced in favor of more compatible versions.
-
-These mods are:
-- (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
-  This guide will recommend a BTBGI-compatible version of this mod.
-- (Main) [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-  This guide will recommend a BTBGI-compatible version of the mod.
-- (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
-  BTBGI already includes this mod.
-
 ### BTB's Game Improvements
 
 [**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
@@ -54,6 +42,16 @@ Enables the BTBGI-compatible mode.
 ## FINISHING TOUCHES
 
 ### Adjusting mod order and load order
+
+### Disabling unnecessary mods
+
+The following mods should be disabled post mod order and load order adjustment:
+- (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
+  Replaced in favor of Area Effect Projectiles Integrated.
+- (Main) [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+  Replaced in favor of Morrowind Anti-Cheese Tweaked.
+- (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
+  BTBGI (Necro Edit) Tweaked already includes this mod.
 
 ### Conflict resolution
 
