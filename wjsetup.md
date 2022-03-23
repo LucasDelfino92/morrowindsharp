@@ -113,6 +113,23 @@ C:\Games\Morrowind Sharp\downloads
 
 > ℹ️ You can safely delete the installer we downloaded in the first step. It is of no use to us anymore.
 
+# MOD ORGANIZER 2 PROFILES
+
+Morrowind Sharp is offered in three versions:
+- The **Morrowind Sharp** standard profile.
+- The **Morrowind Sharp - Extended** profile.
+- The **Morrowind Sharp - Sigourn's Cut** profile.
+
+The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
+
+The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
+
+The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
+
+Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
+
+![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
+
 # UTILITIES AND TOOLS
 
 ## Preamble
@@ -381,23 +398,6 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
-
-# MOD ORGANIZER 2 PROFILES
-
-Morrowind Sharp is offered in three versions:
-- The **Morrowind Sharp** standard profile.
-- The **Morrowind Sharp - Extended** profile.
-- The **Morrowind Sharp - Sigourn's Cut** profile.
-
-The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
-
-The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
-
-The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
-
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
-
-![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
 
 # MODS YOU SHOULD KNOW ABOUT
 
