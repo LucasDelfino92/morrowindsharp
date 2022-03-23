@@ -264,7 +264,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-  - ⚠️ If you use the **Extended** or **Sigourn's Cut** profiles, you should uncheck the Rem_Solstheim.esp. This plugin should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
+  - ⚠️ If you use the **Extended** or **Sigourn's Cut** profiles, you should uncheck the Lake Fjalding Anti-Suck.esp and Rem_Solstheim.esp plugins. They should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
 - Click **Continue**. This will open the **Distant Land Generation** window.
 - In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
@@ -471,6 +471,9 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 # CHANGELOG
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the listed mods instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+
+1.5.0 Hotfix
+- ⚠️ If using the **Extended** or **Sigourn's Cut** profiles, disable **Lake Fjalding Anti-Suck.ESP**. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
 
 1.5.0
 - Added **Qwerty's Various Graphics - Bridgeropes** (Extended and Sigourn's Cut).
