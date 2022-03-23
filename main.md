@@ -644,6 +644,11 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 - BAIN options to install:
   - [X] 00 Core
 
+[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)  
+Retexture of bridgeropes.
+- BAIN options to install:
+  - [X] 01 Dark
+
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
@@ -742,6 +747,41 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 01 Original Color
 
 ### VFX
+
+[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)  
+Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
+
+> ℹ️ After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
+
+<details>
+	<summary>Click to expand</summary>
+
+```
+[Blood]
+Model 0=BloodSplat.nif
+Model 1=BloodSplat2.nif
+Model 2=BloodSplat3.nif
+
+Texture 0=Anu\Blood\Tx_Blood.dds
+Texture 1=Anu\Blood\Tx_Blood_Dust.dds
+Texture 2=Anu\Blood\Tx_Blood_Sparks.dds
+Texture 3=Anu\Blood\Tx_Blood_Ichor.dds
+Texture 4=Anu\Blood\Tx_Blood_Ecto.dds
+Texture 5=Anu\Blood\Tx_Blood_Blue.dds
+Texture 6=Anu\Blood\Tx_Blood_Insect.dds
+Texture 7=Anu\Blood\Tx_Blood_Energy.dds
+
+Texture Name 0=Red Blood
+Texture Name 1=Dust
+Texture Name 2=Metal Sparks
+Texture Name 3=Ichor
+Texture Name 4=Ectoplasm
+Texture Name 5=Blue Blood
+Texture Name 6=Orange Blood
+Texture Name 7=Energy
+```
+
+</details>
 
 ⭐ [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
@@ -1174,6 +1214,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 03-23-2022
 - Added **Tamriel_Data**.
 - Added **Solstheim - Tomb of the Snow Prince**.
+- Added **Qwerty's Various Graphics - Bridgeropes**.
+- Added **MWSE Blood Diversity**.
 - Updated **Ownership Overhaul**'s installation instructions.
 
 03-19-2022
@@ -1242,9 +1284,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 	<summary>Older entries</summary>
 
 02-20-2022
-- Merged **Main** and **Addendum** guides into a single one.
-- Rewrote **Finishing Touches**.
-- **Mod Config** and **Shaders** have been moved to the bottom of the mod list.
+- Merged **Main** and **Addendum** guides into a single one. Rewrote **Finishing Touches**.
+- Moved **Mod Config** and **Shaders** sections to the bottom of the mod list.
 - Added **Quick Char (Necro Edit)**.
 - Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
 
