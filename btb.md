@@ -1,7 +1,5 @@
 ## BTB's GAME IMPROVEMENTS
 
-### BTB's Game Improvements
-
 [**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Set of personal tweaks to [**BTB's Game Improvements - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47129), which makes significant changes to the game's birthsigns, races, spells, spell effects, alchemy ingredients, potions, equipment, enchantments, GMSTs, and faction requirements.
 
@@ -19,8 +17,6 @@ Files to install:
   - FOMOD options to install:
     - [X] Realistic Repair Add-on
     - [X] Ashfall
-
-### Complementary mods
 
 [**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
