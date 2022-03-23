@@ -264,6 +264,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
+  - ⚠️ If you use the **Extended** or **Sigourn's Cut** profiles, you should uncheck the Rem_Solstheim.esp. This plugin should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
 - Click **Continue**. This will open the **Distant Land Generation** window.
 - In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
