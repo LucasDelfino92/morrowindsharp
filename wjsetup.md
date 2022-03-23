@@ -473,7 +473,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the listed mods instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
 1.5.0 Hotfix
-- ⚠️ If using the **Extended** or **Sigourn's Cut** profiles, disable **Lake Fjalding Anti-Suck.ESP**. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
+- ⚠️ If using the **Extended** or **Sigourn's Cut** profiles, don't enable **Lake Fjalding Anti-Suck.ESP** for gameplay and for Distant Land generation. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
 
 1.5.0
 - Added **Qwerty's Various Graphics - Bridgeropes** (Extended and Sigourn's Cut).
