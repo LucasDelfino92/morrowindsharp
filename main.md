@@ -750,6 +750,9 @@ Replaces the water in the Palace of Vivec's canals.
 
 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)  
 Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
+- BAIN options to install:
+  - [X] 00 Core
+  - [X] 04 Qwertyquit's Textures
 
 > ℹ️ After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
 
