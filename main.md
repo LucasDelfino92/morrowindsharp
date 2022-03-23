@@ -684,12 +684,46 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   - [X] 02 New Weather Mechanics (requires MWSE)
   - [X] 07 Optional Thinner Interior Texture
 
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository required for Solstheim - Tomb of the Snow Prince.
+
+Files to install:
+- **Tamriel Data (HD)** (Main files)
+
+> ℹ️ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
+
+[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
+Worldspace overhaul of Solstheim, improving the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
+
+Files to install:
+- **Solstheim Tomb of the Snow Prince** (Main files)
+  - BAIN options to install:
+    - [X] 000 Core
+    - [X] 010 Solstheim - Tomb of the Snow Prince
+    - [X] 011 TOTSP Patches
+    - [X] 013 Fierce Wolf Helms
+    - [X] 014 Hide-Like Animal Pelts
+  - Hide all plugins minus **TOTSP_Patch_for_Purists_4.0.2.esp**.
+  - Hide **Lake Fjalding Anti-Suck** from **Morrowind Optimization Patch**. It is already included in STOTSP.
+- **Solstheim Graphical Replacer** (Main files)
+  - BAIN options to install:
+    - [X] 011 Skyrim-Like Trees
+    - [X] 012 Remiros' Groundcover for TOTSP
+  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. It is not compatible with STOTSP.
+
+[**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
+Clean replacer for the main ESM file.
+
+[**Solstheim Graphical Replacer - Skyrim-like Trees Textures**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z)  
+Allows installation of the Skyrim-like Trees option without having to install the core mesh and texture replacer.
+
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
 - BAIN options to install:
   - [X] 00 Glass Domes of Vivec
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
+  - [X] 02 Solstheim Tomb of the Snow Prince
 
 ⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
@@ -1137,6 +1171,11 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # CHANGELOG
 
+03-23-2022
+- Added **Tamriel_Data**.
+- Added **Solstheim - Tomb of the Snow Prince**.
+- Updated **Ownership Overhaul**'s installation instructions.
+
 03-19-2022
 - Updated **Divayth Fyr Puzzle Fixed** installation instructions.
 - Removed **Blighted Blight**. Ashfall already implements the possibility of contracting blight disease while out in a blight storm.
@@ -1284,27 +1323,12 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Outdoor Banners With Sound** (Audio).
 - Removed **Water Sounds** (Audio).
 - Removed **Greetings for No Lore** (Audio).
-- Removed **Tamriel_Data** (Visuals).
-- Removed **Solstheim - Tomb of the Snow Prince** (Visuals).
-- Removed **Solstheim - Tomb of the Snow Prince - Bloodmoon Rebalance Patch** (Visuals).
 - Removed **Nordic Dagon Fel** (Visuals).
 - Removed **Shrine of Azura** (Visuals).
-- Removed **Complete and Revised Dreugh Armor** (Equipment).
-- Removed **Complete and Revised Imperial Studded Leather Armor** (Equipment).
-- Removed **Complete and Revised Nordic Iron Armor** (Equipment).
-- Removed **Complete Duke's Guard Silver** (Equipment).
-- Removed **Concept Art Daedric Helmets** (Equipment).
-- Removed **Redoran War Armor and Sathil Mercenary Equipment** (Equipment).
-- Removed **Redoran War Armor** (Equipment).
-- Removed **Sathil Mercenary Armor** (Equipment)..
-- Removed **Oriental Ebony Weapons** (Equipment).
-- Removed **Community Equipment Integration** (Equipment).
-- Removed **Antares' Mage Robes** (Equipment).
 - Removed **OAAB_Data** (OAAB_Data).
 - Removed **OAAB Integrations** (OAAB_Data).
 - Removed **OAAB Dwemer Lightning Rods** (OAAB_Data).
 - Removed **OAAB Dwemer Pavements** (OAAB_Data).
-- Removed **OAAB Weapons Integrated** (OAAB_Data).
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
