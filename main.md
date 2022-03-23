@@ -1002,7 +1002,7 @@ Eye Adaptation (HDR)
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
