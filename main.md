@@ -1227,7 +1227,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 03-18-2022
 - Updated **MET Hotfix**. Fixes a mesh from Morrowind Enhanced Textures that would cause an error.
-- Added **Beware the Sixth House Tweaks*.
+- Added **Beware the Sixth House Tweaks**.
 - Added **TES3Merge** instructions to **Finishing touches**.
 
 03-17-2022
@@ -1244,8 +1244,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Class Description Tooltip**.
 - Added **Clocks**.
 - Added **Sprinting**.
-- Removed **MWSE Clock Block**.
-- Removed **Master Index**.
+- Removed **MWSE Clock Block**. Replaced with Clocks.
+- Removed **Master Index**. Replaced with UMOPP.
 
 03-12-2022
 - Added **LDM - Racist Service Refusal**.
@@ -1268,11 +1268,11 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Yet Another Guard Diversity - Uniform Ordinators**.
 
 03-04-2022
-- Removed **Continue**. Users reported similar problems as with **New Game Confirmation**.
+- Removed **Continue**. Users reported issues difficulty to troubleshoot.
 
 03-03-2022
 - Updated **Silver Tongue**. It now links to the Nexus version, which includes Necro's fixes.
-- Removed **New Game Confirmation**. People keep getting issues with the mod, and there's no apparent reason as to what causes them.
+- Removed **New Game Confirmation**. Users reported issues difficulty to troubleshoot.
 
 03-01-2022
 - Added **Enhanced Detection Lite**.
