@@ -1284,30 +1284,21 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **The Dream is the Door**.
 
 <details>
-	<summary>Older entries</summary>
+	<summary>February 2022 entries</summary>
 
-02-20-2022
-- Merged **Main** and **Addendum** guides into a single one. Rewrote **Finishing Touches**.
+- Merged **Main** and **Addendum** guides into a single one.
+- Rewrote **Finishing Touches** section.
 - Moved **Mod Config** and **Shaders** sections to the bottom of the mod list.
-- Added **Quick Char (Necro Edit)**.
-- Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
-
-02-12-2022
 - Updated **Project Atlas** installation instructions.
-- Added **Project Atlas - MET**.
-
-02-12-2022
-- Removed **Smarter Soultrap**.
-
-02-11-2022
+- Updated **Ownership Overhaul Patches** installation instructions.
+- Added **Quick Char (Necro Edit)**.
 - Added **Give or Take**.
+- Added **Class-Conscious Character Progression**. Replaces Mort's Ultimate Leveling Experience.
+- Added **Morrowind Enhanced Textures**. Replaces Intelligent Textures.
+- Added **Project Atlas - MET**.
+- Added **Wolf Helmet Replacer**.
+- Removed **Smarter Soultrap**.
 - Removed **MWSE Alchemy Takes Time (inpv edit)**.
-- Removed **Trackless Grazeland**.
-- Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
-- Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted**. Make sure to unhide this mesh.
-- Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks**. Make sure to reinstall this mod.
-
-02-10-2022
 - Removed **Character Creation Name Generator**.
 - Removed **Chargen Revamped - Expanded Lands**.
 - Removed **Quick Loadouts**.
@@ -1322,25 +1313,18 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **MM - Enhanced Telekinesis**.
 - Removed **FMI - Service Refusal and Contraband ESP Replacer**.
 - Removed **Religions Elaborated (Healers)**.
-
-02-07-2022
 - Removed **Idle Talk**. I was informed there were problems with the mod which caused dialogue repetition.
 - Removed **Its a Deal**. **Character Sound Overhaul** includes a better implementation of this mod.
-
-02-06-2022
-- Added **Class-Conscious Character Progression**. Replaces **Mort's Ultimate Leveling Experience**.
-
-02-05-2022
-- Added **Morrowind Enhanced Textures**. Replaces **Intelligent Textures**.
-- Removed **Pincushion**.
-
-02-04-2022
-- Updated **Ownership Overhaul Patches** installation instructions.
-- Added **Wolf Helmet Replacer**.
 - Removed **Character Backgrounds**.
 - Removed **Actually Unlimited Skeleton Keys**.
 - Removed **Drop Light**.
+- Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
 - Removed **Inscribed Maar Gan Rock**.
+- Removed **Trackless Grazeland**.
+- Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
+- Removed **LeFemm Redacted** instructions to hide **meshes\a\imperial_c_female.nif**. Make sure to unhide this mesh.
+- Removed **Imperial Steel Cuirass Tweaks** instructions to install the **01 Female Dark Cuirass** BAIN option. Make sure to reinstall this mod.
+- Removed **Pincushion**.
 - Removed **Water Sounds**.
 - Removed **OAAB Integrations**.
 </details>
