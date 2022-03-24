@@ -1297,12 +1297,14 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Morrowind Enhanced Textures**. Replaces Intelligent Textures.
 - Added **Project Atlas - MET**.
 - Added **Wolf Helmet Replacer**.
+- Removed **Quick Loadouts**.
 - Removed **Smarter Soultrap**.
-- Removed **MWSE Alchemy Takes Time (inpv edit)**.
+- Removed **Switchable Scriptures**.
 - Removed **Character Creation Name Generator**.
 - Removed **Chargen Revamped - Expanded Lands**.
-- Removed **Quick Loadouts**.
-- Removed **Switchable Scriptures**.
+- Removed **Actually Unlimited Skeleton Keys**.
+- Removed **Character Backgrounds**.
+- Removed **Drop Light**.
 - Removed **Light Decay**.
 - Removed **Lucky Loot**.
 - Removed **Brutal Backstabbing**.
@@ -1313,18 +1315,16 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **MM - Enhanced Telekinesis**.
 - Removed **FMI - Service Refusal and Contraband ESP Replacer**.
 - Removed **Religions Elaborated (Healers)**.
-- Removed **Idle Talk**. I was informed there were problems with the mod which caused dialogue repetition.
-- Removed **Its a Deal**. **Character Sound Overhaul** includes a better implementation of this mod.
-- Removed **Character Backgrounds**.
-- Removed **Actually Unlimited Skeleton Keys**.
-- Removed **Drop Light**.
+- Removed **MWSE Alchemy Takes Time (inpv edit)**.
 - Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
 - Removed **Inscribed Maar Gan Rock**.
 - Removed **Trackless Grazeland**.
 - Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
+- Removed **Pincushion**.
 - Removed **LeFemm Redacted** instructions to hide **meshes\a\imperial_c_female.nif**. Make sure to unhide this mesh.
 - Removed **Imperial Steel Cuirass Tweaks** instructions to install the **01 Female Dark Cuirass** BAIN option. Make sure to reinstall this mod.
-- Removed **Pincushion**.
+- Removed **Idle Talk**. I was informed there were problems with the mod which caused dialogue repetition.
+- Removed **Its a Deal**. **Character Sound Overhaul** includes a better implementation of this mod.
 - Removed **Water Sounds**.
 - Removed **OAAB Integrations**.
 </details>
