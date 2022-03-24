@@ -1302,11 +1302,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 02-11-2022
 - Added **Give or Take**.
 - Removed **MWSE Alchemy Takes Time (inpv edit)**.
-- Removed **Nordic Chest Replacer**.
 - Removed **Trackless Grazeland**.
 - Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
-- Removed **Well Diversified STOTSP**.
-- Removed **Outfit Greetings Tweaked**.
 - Removed instructions to hide **meshes\a\imperial_c_female.nif** from **LeFemm Redacted**. Make sure to unhide this mesh.
 - Removed instructions to install **01 Female Dark Cuirass** from **Imperial Steel Cuirass Tweaks**. Make sure to reinstall this mod.
 
@@ -1335,7 +1332,6 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 02-05-2022
 - Added **Morrowind Enhanced Textures**. Replaces **Intelligent Textures**.
-- Removed **Flies**.
 - Removed **Pincushion**.
 
 02-04-2022
@@ -1344,26 +1340,9 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Character Backgrounds**.
 - Removed **Actually Unlimited Skeleton Keys**.
 - Removed **Drop Light**.
-- Removed **Ashmire Replacer**.
 - Removed **Inscribed Maar Gan Rock**.
-- Removed **3D Vines Vanilla Mushroom Trees**.
-- Removed **Throbbing Meat - a Corprus Meat Replacer**.
-- Removed **Glowbugs**.
-- Removed **Heat Haze**.
-- Removed **Mistify**.
-- Removed **Shattered Stones - An Earthquake Mod**.
-- Removed **Unto Dust**.
-- Removed **Haunted Barrows**.
-- Removed **Heartthrum**.
-- Removed **Outdoor Banners With Sound**.
 - Removed **Water Sounds**.
-- Removed **Greetings for No Lore**.
-- Removed **Nordic Dagon Fel**.
-- Removed **Shrine of Azura**.
-- Removed **OAAB_Data**.
 - Removed **OAAB Integrations**.
-- Removed **OAAB Dwemer Lightning Rods**.
-- Removed **OAAB Dwemer Pavements**.
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
