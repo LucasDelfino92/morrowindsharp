@@ -1,6 +1,6 @@
 # MORROWIND S#ARP: A Morrowind Modding Guide
 
-Last updated: March 19th, 2022.
+Last updated: March 24th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
@@ -57,6 +57,10 @@ The totality of the guide requires 12.5GB installation space.
 
 Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
+### Is this guide compatible with Tamriel Rebuilt?
+
+Yes. That said, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
+
 ### Is this guide compatible with OpenMW?
 
 No. Many modern mods (though not all) rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW.
@@ -65,13 +69,9 @@ No. Many modern mods (though not all) rely on the Morrowind Script Extender (MWS
 
 No.
 
-### Is this mod compatible with Beautiful Cities of Morrowind?
+### Is this guide compatible with Beautiful Cities of Morrowind?
 
 According to RandomPal, it is. However, expect no support from me if you decide to install it.
-
-### Is this guide compatible with Tamriel Rebuilt?
-
-Yes. That said, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
 
 ### Is (X) mod compatible with Morrowind Sharp?
 
