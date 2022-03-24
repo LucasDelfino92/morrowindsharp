@@ -477,6 +477,30 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.2  
+- The following changes apply to the Extended and Sigourn's Cut profiles:
+  - Added **Ashmire Replacer**.
+  - Added **3D Vines Vanilla Mushroom Trees**.
+  - Added **Throbbing Meat - a Corprus Meat Replacer**.
+  - Added **Flies**.
+  - Added **Glowbugs**.
+  - Added **Heat Haze**.
+  - Added **Mistify**.
+  - Added **Nordic Chest Replacer**.
+  - Added **Shattered Stones - An Earthquake Mod**.
+  - Added **Unto Dust**.
+  - Added **Well Diversified STOTSP**.
+  - Added **Haunted Barrows**.
+  - Added **Heartthrum**.
+  - Added **Outdoor Banners With Sound**.
+  - Added **Store Entrance Chimes**.
+  - Added **Greetings for No Lore**.
+  - Added **Outfit Greetings Tweaked**.
+  - Added **Nordic Dagon Fel**.
+  - Added **Shrine of Azura**.
+  - Added **Dwemer Lightning Rods**.
+  - Added **OAAB Dwemer Pavements**.
+
 1.5.0 Hotfix
 - ⚠️ If using the **Extended** or **Sigourn's Cut** profiles, don't enable **Lake Fjalding Anti-Suck.ESP** for gameplay and for Distant Land generation. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
 
