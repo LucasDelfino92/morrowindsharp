@@ -996,7 +996,7 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ## MOD CONFIG
 
-⭐ [**MWSE Config**](https://github.com/Sigourn/morrowind-sharp/blob/master/MWSE%20Config.7z)  
+⭐ [**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - BAIN options to install:
   - [X] 00 All in One: recommended option. Includes all configuration options.
