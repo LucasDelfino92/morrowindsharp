@@ -1506,8 +1506,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 	<summary>February 2022 entries</summary>
 
 - Merged **Main** and **Addendum** guides into a single one.
-- Rewrote **Finishing Touches** section.
 - Moved **Mod Config** and **Shaders** sections to the bottom of the mod list.
+- Rewrote **Finishing Touches** section.
 - Updated **Project Atlas** installation instructions.
 - Updated **Ownership Overhaul Patches** installation instructions.
 - Added **Quick Char (Necro Edit)**.
@@ -1517,26 +1517,17 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Project Atlas - MET**.
 - Added **Wolf Helmet Replacer**.
 - Removed **Quick Loadouts**.
-- Removed **Smarter Soultrap**.
-- Removed **Switchable Scriptures**.
 - Removed **Character Creation Name Generator**.
 - Removed **Chargen Revamped - Expanded Lands**.
 - Removed **Actually Unlimited Skeleton Keys**.
 - Removed **Character Backgrounds**.
 - Removed **Drop Light**.
-- Removed **Light Decay**.
 - Removed **Lucky Loot**.
-- Removed **Brutal Backstabbing**.
-- Removed **Lucky Strike - A Critical Hit Mod**.
-- Removed **Poison Crafting**.
-- Removed **Restocking Alchemy Essentials Poison Crafting Patch**.
-- Removed **MM - Enhanced Light**.
-- Removed **MM - Enhanced Telekinesis**.
 - Removed **FMI - Service Refusal and Contraband ESP Replacer**.
 - Removed **Religions Elaborated (Healers)**.
 - Removed **MWSE Alchemy Takes Time (inpv edit)**.
 - Removed **Bitter Coast Scum Replacer**. Morrowind Enhanced Textures features a very good looking scum texture already.
-- Removed **Inscribed Maar Gan Rock**.
+- Removed **Inscribed Maar Gan Rock**. There are other alternatives available for those who are interested in a mod overhauling the shrine.
 - Removed **Trackless Grazeland**.
 - Removed **Grass for Trackless Grazeland**. Make sure to unhide **Rem_GL.esp** from **Remiros' Groundcover** and regenerate Distant Land.
 - Removed **Pincushion**.
