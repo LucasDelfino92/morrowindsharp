@@ -477,6 +477,26 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.3.
+- The following changes apply to the Extended and Sigourn's Cut profiles:
+  - Added **Poison Crafting**. The Extended profile features a patch from Restocking Alchemy Essentials. The Sigourn's Cut profile features a patch from BTB's Game Improvements (Necro Edit) Tweaked.
+  - Added **Brutal Backstabbing**.
+  - Added **Light Decay**.
+  - Added **MM - Enhanced Telekinesis**.
+  - Added **MM - Enhanced Light**.
+  - Added **Lucky Strike - A Critical Hit Mod**.
+  - Added **Smarter Soultrap**.
+  - Added **Switchable Scriptures**.
+  - Added **Sounds of Souls**.
+- The following changes apply to the Sigourn's Cut profile:
+  - Added **Clear Your Name**.
+  - Added **Redaynia Restored**.
+  - Added **Save the Date**.
+  - Added **Settled Jiub**.
+  - Added **Almalexia Redone**.
+  - Added **By Azura**.
+  - Added **Vivec Remade**.
+
 1.5.2  
 - The following changes apply to the Extended and Sigourn's Cut profiles:
   - Added **Ashmire Replacer**.
