@@ -1249,6 +1249,8 @@ Underwater Effects
 Sunshafts
 Special Process
 Eye Adaptation (HDR)
+heathaze
+r0_qk_shaker
 ```
 - Click **Save** after setting up your shader chain.
 
