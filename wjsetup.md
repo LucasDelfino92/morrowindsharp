@@ -118,7 +118,7 @@ C:\Games\Morrowind Sharp\downloads
 Morrowind Sharp is offered in three versions:
 - The **Morrowind Sharp** standard profile.
 - The **Morrowind Sharp - Extended** profile.
-- The **Morrowind Sharp - Sigourn's Cut** profile.
+- The **Morrowind Sharp - Extended BTBGI** profile.
 
 The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
 
@@ -286,7 +286,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-  - ⚠️ If you use the **Extended** or **Sigourn's Cut** profiles, you should uncheck the Lake Fjalding Anti-Suck.esp and Rem_Solstheim.esp plugins. They should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
+  - ⚠️ If you use the **Extended** profiles, you should uncheck the Lake Fjalding Anti-Suck.esp and Rem_Solstheim.esp plugins. They should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
 - Click **Continue**. This will open the **Distant Land Generation** window.
 - In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
@@ -477,9 +477,14 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
-1.5.3.
-- The following changes apply to the Extended and Sigourn's Cut profiles:
-  - Added **Poison Crafting**. The Extended profile features a patch from Restocking Alchemy Essentials. The Sigourn's Cut profile features a patch from BTB's Game Improvements (Necro Edit) Tweaked.
+1.5.4
+- Renamed **Sigourn's Cut** profile to **Extended BTBGI**.
+- Renamed **TES Advanced Mod Editor** to **TESAME**.
+- Added **Nordic Dagon Fel - Warm Nords** (Extended profiles).
+
+1.5.3
+- The following changes apply to the Extended profiles:
+  - Added **Poison Crafting**. The Extended profile features a patch from Restocking Alchemy Essentials. The Extended BTBGI profile features a patch from BTB's Game Improvements (Necro Edit) Tweaked.
   - Added **Brutal Backstabbing**.
   - Added **Light Decay**.
   - Added **MM - Enhanced Telekinesis**.
@@ -488,7 +493,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
   - Added **Smarter Soultrap**.
   - Added **Switchable Scriptures**.
   - Added **Sounds of Souls**.
-- The following changes apply to the Sigourn's Cut profile:
+- The following changes apply to the Extended BTBGI profile:
   - Added **Clear Your Name**.
   - Added **Redaynia Restored**.
   - Added **Save the Date**.
@@ -498,7 +503,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
   - Added **Vivec Remade**.
 
 1.5.2  
-- The following changes apply to the Extended and Sigourn's Cut profiles:
+- The following changes apply to the Extended profiles:
   - Added **Ashmire Replacer**.
   - Added **3D Vines Vanilla Mushroom Trees**.
   - Added **Throbbing Meat - a Corprus Meat Replacer**.
@@ -522,17 +527,17 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
   - Added **OAAB Dwemer Pavements**.
 
 1.5.0 Hotfix
-- ⚠️ If using the **Extended** or **Sigourn's Cut** profiles, don't enable **Lake Fjalding Anti-Suck.ESP** for gameplay and for Distant Land generation. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
+- ⚠️ If using the **Extended** profiles, don't enable **Lake Fjalding Anti-Suck.ESP** for gameplay and for Distant Land generation. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
 
 1.5.0
-- Added **Qwerty's Various Graphics - Bridgeropes** (Extended and Sigourn's Cut).
-- Added **MWSE Blood Diversity** (Extended and Sigourn's Cut).
+- Added **Qwerty's Various Graphics - Bridgeropes** (Extended profiles).
+- Added **MWSE Blood Diversity** (Extended profiles).
 - ⚠️ THE FOLLOWING MODS ARE NOT COMPATIBLE WITH AN ONGOING SAVE.
-- Added **Tamriel_Data (HD)** (Extended and Sigourn's Cut).
-- Added **Solstheim - Tomb of the Snow Prince** (Extended and Sigourn's Cut). Also installed is the Graphical Replacer, using the Skyrim-like Trees and Remiros' Groundcover for TOTSP options.
+- Added **Tamriel_Data (HD)** (Extended profiles).
+- Added **Solstheim - Tomb of the Snow Prince** (Extended profiles). Also installed is the Graphical Replacer, using the Skyrim-like Trees and Remiros' Groundcover for TOTSP options.
   - ⚠️ Please remember to generate Distant Land using the VSW-Rem-Anthology Solstheim plugin *instead* of the Rem_Solstheim plugin.
   - ⚠️ Also make sure to regenerate your Merged Objects, as there's a conflict with Bloodmoon Rebalance which will cause Veresa Alver to teleport you into the wrong spot.
-- Added **STOTSP Ownership Overhaul Patch** (Extended and Sigourn's Cut).
+- Added **STOTSP Ownership Overhaul Patch** (Extended profiles).
 
 1.4.2
 - Renamed mash64 to Wrye Mash in MO2 executables.
@@ -542,12 +547,12 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 1.4.0
 - ⚠️ THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
-- The following changes apply to the Extended and Sigourn's Cut profiles:
+- The following changes apply to the Extended profiles:
   - Added **Glass Domes of Vivec**.
   - Added **No-Frills Open Arena**.
   - Updated **Ownership Overhaul Patches**.
   - Removed **No-Frills Open Vivec**.
-- The following change applies to the Sigourn's Cut profile:
+- The following change applies to the Extended BTBGI profile:
   - Added **Concept Art Ordinators**.
 
 1.3.7
