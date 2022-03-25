@@ -1090,6 +1090,8 @@ Files to install:
 
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 Asset repository required for OAAB mods and Nordic Dagon Fel.
+- BAIN options to install:
+  - [X] 00 Core
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -1409,13 +1411,14 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Poison Crafting**.
 - Added **Switchable Scriptures**.
 - Added **3D Vines Vanilla Mushroom Trees**.
-- Added **Throbbing Meat - a Corprus Meat Replacer**.
+- Added **Fallen Ash**.
 - Added **Flies**.
 - Added **Glowbugs**.
 - Added **Heat Haze**.
 - Added **Mistify**.
 - Added **Nordic Chest Replacer**.
 - Added **Shattered Stones - An Earthquake Mod**.
+- Added **Throbbing Meat - a Corprus Meat Replacer**.
 - Added **Unto Dust**.
 - Added **Well Diversified STOTSP**.
 - Added **Haunted Barrows**.
