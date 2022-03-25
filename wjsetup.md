@@ -388,6 +388,7 @@ This is a handy reference table which will hopefully help you have a better idea
 Key | Function | Added by
 ------------ | ------------- | -------------
 Alt + Movement | Sprint | Sprinting
+B | Switch book/scroll open/close | Switchable Scriptures
 K | Orders followers to attack the current target | Kill Command
 N | Switch between in-game/real time clock | Clocks
 L | Equips lockpicks | Security Enhanced
