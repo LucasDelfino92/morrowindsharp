@@ -478,6 +478,12 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.5
+- The following changes apply to the Extended profiles:
+  - Reorganized mods as per the manual guide.
+  - Removed **Ashmire Replacer**, as there were concerns with FPS drops when using this mod.
+  - **Redaynia Restored** has been added to the standard Extended profile.
+
 1.5.4
 - Renamed **Sigourn's Cut** profile to **Extended BTBGI**.
 - Renamed **TES Advanced Mod Editor** to **TESAME**.
