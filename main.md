@@ -1408,7 +1408,6 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Lucky Strike - A Critical Hit Mod**.
 - Added **Poison Crafting**.
 - Added **Switchable Scriptures**.
-- Added **Ashmire Replacer**.
 - Added **3D Vines Vanilla Mushroom Trees**.
 - Added **Throbbing Meat - a Corprus Meat Replacer**.
 - Added **Flies**.
