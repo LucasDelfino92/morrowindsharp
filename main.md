@@ -1398,6 +1398,9 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # CHANGELOG
 
+03-27-2022
+- Morrowind Sharp MO2 Profile Files: fixed Solstheim - Tomb of the Snow Prince load order. Now it loads after Patch for Purists and Ownership Overhaul.
+
 03-25-2022
 - **Immersion**, new section that groups mods that don't necessarily address issues but instead add flavor and hopefully contribute to an heightened sense of immersion.
 - Organized core mods to appear first in their respective sections.
