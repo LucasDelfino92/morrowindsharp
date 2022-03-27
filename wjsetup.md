@@ -481,6 +481,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 1.5.6
 - The following changes apply to the Extended profiles:
   - Fixed Solstheim - Tomb of the Snow Prince load order. Now it loads after Patch for Purists and Ownership Overhaul.
+  - Removed **Fallen Ash**, as the effect would not consistently apply as intended and could lead to jarring clashes between ashy and non-ashy objects.
 
 1.5.5
 - The following changes apply to the Extended profiles:
