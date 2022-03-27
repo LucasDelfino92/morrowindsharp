@@ -47,11 +47,12 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
 
-The standard installation has 75 mods and 24 plugins. The extended installation has 190 mods and 60 plugins.
+The standard installation, consisting of the highly recommended mods for a first-time playthrough, has 75 mods and 24 plugins. The extended installation, which includes every mod listed in the guide, has 240 mods and 95 plugins.
 
 ### How much space do I need to install these mods?
 
-The totality of the guide requires 12.5GB installation space.
+The totality of the guide requires 21GB of installation space.
+Don't panic. Three mods account for 14GB: Morrowind Enhanced Textures, AURA, and Tamriel_Data. Only the latter comes highly recommended for a first-time playthrough, but none are strictly needed.
 
 ### How often is the guide updated?
 
