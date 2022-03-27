@@ -56,15 +56,15 @@ Don't panic. Three mods account for 14GB: Morrowind Enhanced Textures, AURA, and
 
 ### How often is the guide updated?
 
-Morrowind Sharp is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+Regularly, as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
 ### Is this guide compatible with Tamriel Rebuilt?
 
-Yes. That said, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
+Yes. *That said*, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
 
 ### Is this guide compatible with OpenMW?
 
-No. Many modern mods (though not all) rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW.
+No. Many mods rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW.
 
 ### Is this guide compatible with Morrowind Rebirth?
 
@@ -72,11 +72,12 @@ No.
 
 ### Is this guide compatible with Beautiful Cities of Morrowind?
 
-According to RandomPal, it is. However, expect no support from me if you decide to install it.
+Short answer: no.
+Long answer: according to RandomPal, it is. But I'm not going to waste supporting such an installation if you decide to go through with it.
 
 ### Is (X) mod compatible with Morrowind Sharp?
 
-I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in [**TES3View**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#checking-for-conflicts). Instructions on how to use this tool are provided in this link.
+If you have to ask, then no.
 
 ### Do you have a Patreon I can contribute to?
 
