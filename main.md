@@ -986,9 +986,6 @@ Adds falling spores particle effects to the emperor parasol mushrooms. Also repl
 - BAIN options to install:
   - [X] 00 Core
 
-[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711)  
-Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
-
 [**Flies**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20(PfP%20Edit).7z)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
 
@@ -1399,7 +1396,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 # CHANGELOG
 
 03-27-2022
-- Morrowind Sharp MO2 Profile Files: fixed Solstheim - Tomb of the Snow Prince load order. Now it loads after Patch for Purists and Ownership Overhaul.
+- Morrowind Sharp MO2 Profile Files: fixed **Solstheim - Tomb of the Snow Prince** load order. Now it loads after Patch for Purists and Ownership Overhaul.
+- Removed **Fallen Ash**, as the effect would not consistently apply as intended and could lead to jarring clashes between ashy and non-ashy objects.
 
 03-25-2022
 - **Immersion**, new section that groups mods that don't necessarily address issues but instead add flavor and hopefully contribute to an heightened sense of immersion.
