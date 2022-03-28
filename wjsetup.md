@@ -33,17 +33,17 @@ C:\Games\Morrowind
 ```
 ### Cleaning up your GOG installation
 
-Delete the following from your **Morrowind\Data Files** folder:
+The GOG release of Morrowind shipped with files that are of no use to the average player. These files are not necessary and do nothing but clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. These are to be considered low quality mods, with some having received a rework from fans to make them actually worth your while. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
+
+All said, delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
 - All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
 
-This will free about 700 MBs of space from your Morrowind installation. Your Data Files folder should now look like this:
+Your Data Files folder should now look like this.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
-
-> ℹ️ Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
 
 ### Setting up your GOG installation for Wabbajack
 
@@ -199,9 +199,7 @@ All these aforementioned utilities have been downloaded and their files placed i
    - **Mlox directory**: select your Morrowind **Root** folder, found in **C:\Games\Morrowind**.
 - Click **Next** and then click **Finish**.
 
-> ℹ️ If at any point Wrye Mashs asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **Wrye Mash** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**.
-
-> ⚠️ Failing to enable this option can cause you to be unable to repair your saves.
+> ℹ️ If at any point Wrye Mash asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **Wrye Mash** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**. Failing to enable this option can cause you to be unable to repair your saves.
 
 ## Mlox setup
 
