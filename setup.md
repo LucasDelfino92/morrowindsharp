@@ -164,7 +164,7 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 - When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Sharp\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
-> ⚠️ Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
+> ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
 ## Mod Organizer 2 setup
 
@@ -261,12 +261,10 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 
 > ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
 
-## MGE XE Configuration
+## Configuring MGE XE in Mod Organizer 2
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
 - Click **Run** to run the executable.
-
-> ⚠️ Always remember to run MGE XE through Mod Organizer 2 to detect the Virtual Files folder.
 
 ### In-game tab
 
