@@ -111,23 +111,6 @@ C:\Games\Morrowind Sharp\downloads
 
 > ℹ️ You can safely delete the installer we downloaded in the first step. It is of no use to us anymore.
 
-# MOD ORGANIZER 2 PROFILES
-
-Morrowind Sharp is offered in three versions:
-- The **Morrowind Sharp** standard profile.
-- The **Morrowind Sharp - Extended** profile.
-- The **Morrowind Sharp - Extended BTBGI** profile.
-
-The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
-
-The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
-
-The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
-
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharp - Extended** to **Morrowind Sharp**.
-
-![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_profileSelection.png)
-
 # UTILITIES AND TOOLS
 
 ## Preamble
@@ -282,7 +265,6 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-  - ⚠️ If you use the **Extended** profiles, you should uncheck the Lake Fjalding Anti-Suck.esp and Rem_Solstheim.esp plugins. They should not be used alongside Solstheim - Tomb of the Snow Prince, which both profiles have installed. 
 - Click **Continue**. This will open the **Distant Land Generation** window.
 - In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
 - In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
@@ -401,6 +383,23 @@ E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
+# MOD ORGANIZER 2 PROFILES
+
+Morrowind Sharp is offered in three versions:
+- The **Morrowind Sharp** standard profile.
+- The **Morrowind Sharp - Extended** profile.
+- The **Morrowind Sharp - Extended BTBGI** profile.
+
+The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
+
+The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
+
+The third profile is based off the Extended profile. It includes BTB's Game Improvements, a massive rebalance of Morrowind and its mechanics, as well as a number of BTBGI-compatible equipment mods. If you have to ask what BTBGI does, then you shouldn't be using this profile *at all*. It is included solely for the dedicated few who use and enjoy this mod.
+
+Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharp - Extended** to **Morrowind Sharp**.
+
+![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_profileSelection.png)
+
 # MODS YOU SHOULD KNOW ABOUT
 
 As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your TES III: Morrowind experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md).
@@ -473,6 +472,10 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 # CHANGELOG
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+
+1.5.8
+- Updated **Morrowind Optimization Patch**.
+- (Extended and BTB) The user no longer has to manually avoid using Lake Fjalding Anti-Suck and Rem_Solstheim plugins, as they are now installed as separate mods and deactivated for these plugins.
 
 1.5.7
 - Updated **mlox rules**.
