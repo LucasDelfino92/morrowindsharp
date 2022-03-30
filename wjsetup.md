@@ -169,6 +169,8 @@ All these aforementioned utilities have been downloaded and their files placed i
 - The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Click **Apply chosen patches** when you are finished. Close the application.
 
+> ⚠️ "Install" means *install*. Do not skip any of the patches advised to install. Doing so will make it that much harder for me to troubleshoot your issues. At least two of the patches (Hidden traps and Hidden locks) are *required* for the Extended profile.
+
 > ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
 ## Wrye Mash setup
