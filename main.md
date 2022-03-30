@@ -565,6 +565,8 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
+> ⚠️ This mod requires the **Hidden locks** and **Hidden traps** features to be enabled in the Morrowind Code Patch. Failing to enabling them can cause you to be unable to start a new game or resume a game when paired alongside Improved Main Menu.
+
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps. Compatible and complemented by **Locks and Traps Detection**.
 
