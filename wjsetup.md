@@ -475,6 +475,11 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.9
+- Removed magic item recharge time tweak from **MWSE Config**.
+- (Extended and BTB) Replaced **Harder Barter** with **Buying Game**.
+- (BTB) Updated **BTB's Game Improvements (Necro Edit) Tweaked**.
+
 1.5.8
 - Updated **Morrowind Optimization Patch**.
 - (Extended and BTB) The user no longer has to manually avoid using Lake Fjalding Anti-Suck and Rem_Solstheim plugins, as they are now installed as separate mods and deactivated for these plugins.
