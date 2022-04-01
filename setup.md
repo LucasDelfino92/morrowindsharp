@@ -1,4 +1,4 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)
+[<< Back to Readme](readme.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -115,7 +115,7 @@ This file contemplates the following landscape-altering scenarios:
 
 ## Conflict resolution tools
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](tools.md) guide, however, you will be redirected to them when the time is right to use them.
 
 [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
 Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
@@ -467,5 +467,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
+[To Morrowind Sharp >>](main.md)  
+[<< Back to Readme](readme.md)
