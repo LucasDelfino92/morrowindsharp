@@ -1,5 +1,5 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Readme](readme.md)  
+[<< Back to Setup](setup.md)  
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -7,7 +7,7 @@
 
 ## Disclaimer
 
-The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
+The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](setup.md) section before proceeding.
 
 ## Installing mods appropriately
 
@@ -467,7 +467,7 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](main.md#shader-setup) section.
 
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect, which creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.
@@ -713,7 +713,7 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
 
-> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#re-running-distant-land) section.
 
 [**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)  
 Retexture of bridgeropes.
@@ -1002,7 +1002,7 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
 
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](main.md#shader-setup) section.
 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
@@ -1021,7 +1021,7 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](main.md#shader-setup) section.
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
@@ -1094,7 +1094,7 @@ Asset repository required for OAAB mods and Nordic Dagon Fel.
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#re-running-distant-land) section.
 
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
@@ -1284,7 +1284,7 @@ For general dirty records, we use **Wrye Mash**, automatically cleaning them.
 
 For specific records we want to delete, we use **TESAME**.
 
-- Run [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) in Mod Organizer 2.
+- Run [**TESAME**](tools.md#tesame) in Mod Organizer 2.
 - Delete the following record from **Services Restored.ESP**:
   - NPC **hecerinde**
 - Save the plugin as **Services Restored.ESP**, overwriting the original.
@@ -1329,7 +1329,7 @@ The next step is to repair our updated save.
 
 ### Re-running Distant Land
 
-> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab). Otherwise, proceed as follows.
+> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](setup.md#distant-land-tab). Otherwise, proceed as follows.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -1544,5 +1544,5 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **OAAB Integrations**.
 </details>
 
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Readme](readme.md)  
+[<< Back to Setup](setup.md)  
