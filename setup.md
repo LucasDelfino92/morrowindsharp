@@ -407,7 +407,7 @@ The rest of the steps work exactly as during mod manager download installation.
 
 BAIN and FOMOD installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required. FOMOD installers are much more detailed, generally intuitive as opposed to BAIN installers, but sadly these aren't as common in the Morrowind modding scene.
 
-This guide will always list the options you should install. If missing, the options should be skipped.
+Mod Organizer 2 supports both types of mod installers. Note that this guide will always list the options you should install. If missing, the options should be skipped.
 
 ### Repackaging mods
 
