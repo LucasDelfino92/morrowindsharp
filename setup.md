@@ -369,11 +369,18 @@ Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using
 
 - In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
 - Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name (e.g. **Patch for Purists 4.0.2**).
 - Click **OK**.
-- The mod will appear in the left pane. To finish installation, check the box next to it.
+- The mod will appear in the left pane. To activate the mod, check the box next to it by clicking the box.
 
-There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+When installing a mod, use the name provided for it in the guide's **hyperlink**. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
+
+![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+
+### Multiple files installation
+
+There will be times when you will need to install multiple files from a single mod page. Mod Organizer 2 will prompt you with the following box.
 
 ![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
 
@@ -383,7 +390,9 @@ What these options do is simple:
 - **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
 - **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> ℹ️ By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
+All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
+
+When the guide asks no specific file to be installed, it is implicit that the file you should download and install is the only main file available for download. Elsewhere, specific instructions will point you in the right direction.
 
 ### Manual download installation
 
@@ -394,15 +403,11 @@ Sometimes authors will block the **Mod manager download** option in Nexus, and y
 
 The rest of the steps work exactly as during mod manager download installation.
 
-- MO2 will prompt you to give the mod a name. As before, I suggest giving it a descriptive name (e.g. **Correct UV Rocks 1.0**).
-- Click **OK**.
-- The mod will appear in the left pane. To finish installation, check the box next to it.
+### BAIN and FOMOD installers
 
-### BAIN installers
+BAIN and FOMOD installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required. FOMOD installers are much more detailed, generally intuitive as opposed to BAIN installers, but sadly these aren't as common in the Morrowind modding scene.
 
-BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
-
-> ℹ️ This guide will list the options you should install. If missing, the options should be skipped.
+This guide will always list the options you should install. If missing, the options should be skipped.
 
 ### Repackaging mods
 
@@ -439,15 +444,6 @@ Mod Organizer 2 lets you hide specific files from your installed mods, be it ass
 - Right click on your installed mod and click **Information...**.
 - On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
-
-### Creating a separator
-
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
-
-- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
-- Name your separator and click **OK**.
-
-I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
 
 ### Overwrite folder
 
