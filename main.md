@@ -7,7 +7,7 @@
 
 ## Disclaimer
 
-The guide presented here is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the steps listed in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
+This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
 
 ## Installing mods appropriately
 
@@ -37,18 +37,18 @@ Fixes many issues present in Bethesda's original Official Plugins.
 
 Files to install:
 - **UMOPP 3.1.0** (Main files)
-  - Hide all plugins minus **bcsounds.esp**, **EBQ_Artifact.esp**, and **master_index.esp**.
+- After installation, hide all of the mod's plugins minus **bcsounds.esp**, **EBQ_Artifact.esp**, and **master_index.esp**.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
-- Hide all plugins minus **Area Effect Arrows Integrated.ESP**.
+- After installation, hide all of the mod's plugins minus **Area Effect Arrows Integrated.ESP**.
 
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
 Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
-- Hide all plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
+- After installation, hide all of the mod's plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
 ### Dialogue fixes
 
@@ -79,7 +79,7 @@ Allows the player to find the exact amount of Adamantium Ore needed to craft Bol
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- FOMOD options to install:
+- On MO2 installation, check the following options in the FOMOD installer:
   - [X] Patch for Purists
   - [X] Ownership Overhaul
 
@@ -142,12 +142,12 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 
 ⭐ [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- Right-click on **Data Files**.
+- On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
 ⭐ [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)  
 Greatly improves performance and fixes some mesh errors.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Lake Fjalding Anti-Suck  
     Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
@@ -165,14 +165,14 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 Files to install:
 - **Project Atlas** (Main files)
-  - BAIN options to install:
-    - [X] 00 BATs
-    - [X] 00 Core
-    - [X] 01 Textures - Vanilla
-    - [X] 06 Glow in the Dahrk Patch  
-      Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
-    - [X] 07 Graphic Herbalism Patch  
-      Compatibility patch for Graphic Herbalism. Uses compatible meshes.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 BATs
+  - [X] 00 Core
+  - [X] 01 Textures - Vanilla
+  - [X] 06 Glow in the Dahrk Patch  
+    Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
+  - [X] 07 Graphic Herbalism Patch  
+    Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
@@ -180,19 +180,19 @@ Files to install:
 
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
-- Hide/delete the **Textures** folder.
+- After installation, delete the mod's **Textures** folder.
 
 > ℹ️ This omits the Scamp's retexture, since **Intelligent Textures** uses a vanilla-friendly high resolution texture.
 
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
-- Expand the **Correct Mudcrab** and **Regular** folders.
+- On MO2 installation, expand the **Correct Mudcrab** and **Regular** folders.
 - Right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
 [**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
 Flames are now glow mapped and/or properly illuminated.
-- Hide **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP**
+- After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
 
 ## USER INTERFACE
 
@@ -205,11 +205,12 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 ⭐ [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
-- Create a **Fonts** folder and move **daedric_font.fnt** and **daedric_font_obw.tex** inside.
+- On MO2 installation, create a **Fonts** folder.
+- Move the **daedric_font.fnt** and **daedric_font_obw.tex** files inside.
 
 ⭐ [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
 Replaces most of the original book arts with hi-res images redrawn from scratch.
-- Right-click on **Data Files**.
+- On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
 ⭐ [**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Comrade%20Raven's%20Book%20Arts%20ESP%20Replacer.7z)  
@@ -220,8 +221,8 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 
 Files to install:
 - **Pete's Journal and Scroll** (Optional files)
-  - BAIN options to install:
-    - [X] 01 Journal and Scroll - 2K
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 01 Journal and Scroll - 2K
 
 ⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
@@ -236,11 +237,12 @@ Replaces the default splash screens with better quality widescreen versions (16:
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
 Adds three missing Bethesda splash screens in widescreen resolution.
-- Create a **Splash** folder and move the **.tga** files inside.
+- On MO2 installation, create a **Splash** folder.
+- Move the **.tga** files inside.
 
 [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Original Blue Color
 
 ### Menus
@@ -285,7 +287,7 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 
 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
 Adds several new options for the journal and quest pages.
-- Hide the **Textures** folder.
+- After installation, hide the mod's **Textures** folder.
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
@@ -347,7 +349,7 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 
 ⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
  
 ⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
@@ -361,7 +363,7 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 
 ⭐ [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Vanilla Ghostgate
 
 ⭐ [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
@@ -369,7 +371,7 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 
 ⭐ [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 ⭐ [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
@@ -377,7 +379,7 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-- Hide **Quick Char (Necro Timescale6 Edit).esp**
+- After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
 
 ## GAMEPLAY
 
@@ -417,11 +419,9 @@ Modifies critical strike coefficient depending on the weapon you use.
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-- Hide the **MWSE** folder.
+- After installation, hide the mod's **MWSE** folder. This disables the sprinting feature.
 
-> ℹ️ This disables the sprinting feature in favor of **Sprinting**, which we will install next.
-
-> ⚠️ Note that this mod is *not* meant to make movement faster, only more natural.
+> ℹ️ Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
 Adds a feature-rich sprinting functionality to the game.
@@ -441,27 +441,25 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Framework
 
 > ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
 
 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)  
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
-- Open **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** in a text editor.
+- After installation, open the **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** file in a text editor.
 - In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
-- Save your changes.
-
-> ℹ️ This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
+- Save your changes. This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
 
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Core
 
 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
 Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
@@ -471,7 +469,7 @@ Using invisibility changes the way you view the world. Instead of only becoming 
 
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect, which creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Optional FPS
 
@@ -479,7 +477,7 @@ Replaces the Light magic effect with a Skyrim-style magelight effect, which crea
 
 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
 Using Telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Cast VFX
 
@@ -492,7 +490,7 @@ Replaces the in-game world map with a realistic map, based on the paper maps tha
 
 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Yellowed Maps
 
 ### Service mechanics
@@ -508,7 +506,7 @@ Some factions will now refuse you membership if you have already joined other fa
 
 [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
 Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Morrowind Only
 
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
@@ -527,13 +525,13 @@ Adds a Luck-based Critical Strike mechanic.
 
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Labelled Potions
 
 [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale. Includes patch for Poison Crafting.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Poison Crafting Patch
 
@@ -575,7 +573,7 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
-- Hide **Realistic_Repair_Optional.ESP**.
+- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
 
 [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment.
@@ -615,7 +613,7 @@ Fixes some of the biggest exploits and balance issues in the game.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- Hide **Ownership Overhaul.ESP**.
+- After installation, hide the **Ownership Overhaul.ESP** plugin.
 
 ### Rebalances
 
@@ -691,38 +689,38 @@ Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes
 
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 ⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Meshes
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
 ⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
-- Disable all **.esps** added by this mod. ⚠️ **Do not hide or delete them.**
+- After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 
 > ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
 
 [**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)  
 Retexture of bridgeropes.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 01 Dark
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Original Color
 
@@ -736,7 +734,7 @@ Files to install:
 
 ⭐ [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] fade  
     Non-moving effect that fades in and out.
 
@@ -745,11 +743,10 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)  
 Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 04 Qwertyquit's Textures
-
-> ℹ️ After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
+- After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
 
 <details>
 	<summary>Click to expand</summary>
@@ -785,7 +782,7 @@ Texture Name 7=Energy
 
 ⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
-- FOMOD options to install:
+- On MO2 installation, check the following options in the FOMOD installer:
   - [X] Nord Glass Windows  
     Replaces the wooden shuttered Nord windows in the vanilla game with glass panes.
   - [X] Raven Rock Glass Windows  
@@ -798,16 +795,13 @@ Configurable mod for automatic adjustment of lighting, including override values
 
 ⭐ [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Lua core
   - [X] 01 Textures 1k
   - [X] 03 Rain mesh replacer - regular
   - [X] 05 IT Vanilla sky texture replacer 1k  
     Reworked Intelligent Textures sky textures.
-- Hide **textures\tew\Watch the Skies\blight\tew_blight_3.dds**
-- Hide **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds**
-
-> ℹ️ The hidden textures make for very jarring skies.
+- After installation, delete the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -826,7 +820,7 @@ Contains the reworked night sky mesh required mesh **Better Night Sky**.
 
 Files to install:
 - **Skies .IV Resource Pack** (Optional files)
-  - Hide all files inside the **meshes** folder minus **sky_night_02.nif**.
+- After installation, hide all files inside the mod's **meshes** folder minus **sky_night_02.nif**.
 
 [**Better Night Sky**](https://www.nexusmods.com/morrowind/mods/44717)  
 A high resolution night sky replacer.
@@ -836,7 +830,7 @@ Files to install:
 
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
 Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 03 Vanilla style sunrays  
     Adds interior sunrays. Windows use the original vanilla stones.
@@ -851,7 +845,7 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 ⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Right-click on **Data Files**.
+- On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
 ⭐ [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
@@ -868,7 +862,7 @@ Forwards Patch for Purists fixes to the plugin.
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Male Belt
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
@@ -895,12 +889,12 @@ Replaces all the bookcovers, bookpages and scrolls.
 
 [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)  
 Model replacer for book and scroll models.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)  
 Lets you open or close any book or scroll in the game.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Closed Book Icons
   - [X] 03 Melchior's Magnificent Manuscripts
@@ -936,21 +930,20 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 Files to install:
 - **AURA 3.0.2 - full** (Main files)
 - **AURA 3.0 - replacer** (Optional files)  
-  Replaces some of the worst sounds from Morrowind.
-  - BAIN options to install:
-    - [X] 00 Waves
-    - [X] 01 Boat waves
-    - [X] 02 Underwater
-    - [X] 03 Rain
-    - [X] 04 Heavy Rain
-    - [X] 05 Small Waterfall
-    - [X] 06 Fire
-    - [X] 07 Jump (land)
-    - [X] 08 Barefoot
-    - [X] 09 Ashstorm loop
-    - [X] 10 Blight storm loop
-    - [X] 11 Blizzard loop
-    - [X] 12 Swimming
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Waves
+  - [X] 01 Boat waves
+  - [X] 02 Underwater
+  - [X] 03 Rain
+  - [X] 04 Heavy Rain
+  - [X] 05 Small Waterfall
+  - [X] 06 Fire
+  - [X] 07 Jump (land)
+  - [X] 08 Barefoot
+  - [X] 09 Ashstorm loop
+  - [X] 10 Blight storm loop
+  - [X] 11 Blizzard loop
+  - [X] 12 Swimming
 
 > ℹ️ On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
 
@@ -984,7 +977,7 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
 Adds falling spores particle effects to the emperor parasol mushrooms. Also replaces the 2D vines with 3D vines.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 [**Flies**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20(PfP%20Edit).7z)  
@@ -994,7 +987,7 @@ Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can
 
 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)  
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Glowbugs BC
   - [X] 02 Glowbugs AI
@@ -1009,13 +1002,13 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)  
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Vanilla Mist Replacer
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)  
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
-- FOMOD options to install:
+- On MO2 installation, check the following options in the FOMOD installer:
   - [X] Patch for Purists Plugin
 
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
@@ -1031,13 +1024,13 @@ Replaces corprus meat models with animated, twitching ones ones.
 
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435)  
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Default Dust
 
 [**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)  
 Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [ ] 01 Option 1 Vanilla
   - [ ] 01 Option 2 STOTSP
@@ -1048,7 +1041,7 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)  
 Gives Nord barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Fire Sound Replacer
 
@@ -1088,7 +1081,7 @@ Files to install:
 
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 Asset repository required for OAAB mods and Nordic Dagon Fel.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
@@ -1098,7 +1091,7 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 [**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -1109,7 +1102,7 @@ Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza inter
 
 [**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
 Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core Visual Assets
   - [X] 01 Glow in the Dahrk Patch - flickering
   - [X] 01 Optional Green Glow for GitD Patch - flickering
@@ -1118,22 +1111,21 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 
 [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
 Worldspace overhaul of Solstheim, improving the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
+- Prior installation, hide the **Lake Fjalding Anti-Suck.esp** plugin from **Morrowind Optimization Patch**, and the **Rem_Solstheim.esp** plugin from **Remiros' Groundcover**. Their functionality is already included in Solstheim - Tomb of the Snow Prince.
 
 Files to install:
 - **Solstheim Tomb of the Snow Prince** (Main files)
-  - BAIN options to install:
-    - [X] 000 Core
-    - [X] 010 Solstheim - Tomb of the Snow Prince
-    - [X] 011 TOTSP Patches
-    - [X] 013 Fierce Wolf Helms
-    - [X] 014 Hide-Like Animal Pelts
-  - Hide all plugins minus **TOTSP_Patch_for_Purists_4.0.2.esp**.
-  - Hide **Lake Fjalding Anti-Suck** from **Morrowind Optimization Patch**. It is already included in STOTSP.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 000 Core
+  - [X] 010 Solstheim - Tomb of the Snow Prince
+  - [X] 011 TOTSP Patches
+  - [X] 013 Fierce Wolf Helms
+  - [X] 014 Hide-Like Animal Pelts
+  - After installation, hide all of the mod's plugins minus **TOTSP_Patch_for_Purists_4.0.2.esp**.
 - **Solstheim Graphical Replacer** (Main files)
-  - BAIN options to install:
-    - [X] 011 Skyrim-Like Trees
-    - [X] 012 Remiros' Groundcover for TOTSP
-  - Hide **Rem_Solstheim.esp** from **Remiros' Groundcover**. It is not compatible with STOTSP.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 011 Skyrim-Like Trees
+  - [X] 012 Remiros' Groundcover for TOTSP
 
 [**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
 Clean replacer for the main ESM file.
@@ -1143,7 +1135,7 @@ Allows installation of the Skyrim-like Trees option without having to install th
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Glass Domes of Vivec
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
@@ -1151,12 +1143,12 @@ Compatibility patches for canton mods.
 
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
 If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 MWSE
 
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)  
 Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
@@ -1175,7 +1167,7 @@ Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a prie
 
 ⭐ [**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 All in One: recommended option. Includes all configuration options.
 
 <details>
@@ -1227,7 +1219,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
-- BAIN options to install:
+- On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
 ⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
