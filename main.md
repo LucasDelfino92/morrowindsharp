@@ -3,27 +3,25 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# PREAMBLE
+# MORROWIND S#ARP
 
 ## Disclaimer
 
 This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
 
-## Installing mods appropriately
+## Creating a separator
 
-When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
 
-![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
 
-Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
 
-All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
+## Abridged guide
 
-When the guide asks no specific file to be installed, it is implicit that the file you should download and install is the only main file available for download. Elsewhere, specific instructions will be given to point you in the right direction.
-
-# MORROWIND S#ARP
-
-> ℹ️ The ⭐ icon denotes highly recommended mods fit for any first time player.
+Because maintaining two separate guides proved to be rather difficult and tiresome, Morrowind Sharp is presented as a single, unified guide.
+However, people new to Morrowind, or simply those who want the most out of the mods they install, are encouraged to install only the starred (⭐) mods. These come highly recommended, and barely affect the game's gameplay mechanics and balance.
 
 ## PATCHES
 
