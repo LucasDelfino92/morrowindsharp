@@ -474,31 +474,39 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.10
+- (Extended) Added **Absorb Effects Rebalanced**.
+- (Extended) Added **Doors Anti Stuck**.
+- (Extended) Added **Real Fire Damage - MWSE Edition**.
+- (Extended) Added **Seph's Library**.
+- (Extended) Added **Seph's NPC Soul Trapping**.
+- (Extended) Added **Distant Thunder**.
+- (Extended) Added **Silt Strider**.
+- (Extended) Added **OAAB Scroll Qualities**.
+
 1.5.9
 - Removed magic item recharge time tweak from **MWSE Config**.
-- (Extended and BTB) Replaced **Harder Barter** with **Buying Game**.
-- (BTB) Updated **BTB's Game Improvements (Necro Edit) Tweaked**.
+- (Extended) Replaced **Harder Barter** with **Buying Game**.
+- (BTB only) Updated **BTB's Game Improvements (Necro Edit) Tweaked**.
 
 1.5.8
 - Updated **Morrowind Optimization Patch**.
-- (Extended and BTB) The user no longer has to manually avoid using Lake Fjalding Anti-Suck and Rem_Solstheim plugins, as they are now installed as separate mods and deactivated for these plugins.
+- (Extended) The user no longer has to manually avoid using Lake Fjalding Anti-Suck and Rem_Solstheim plugins, as they are now installed as separate mods and deactivated for these plugins.
 
 1.5.7
 - Updated **mlox rules**.
 - Updated **MWSE Config** with Lua Lockbashing config.
-- (Extended and BTB) Added **Lua Lockbashing**.
-- (BTB) Moved BTBGI mods to their respective categories.
+- (Extended) Added **Lua Lockbashing**.
+- (BTB only) Moved BTBGI mods to their respective categories.
 
 1.5.6
-- The following changes apply to the Extended profiles:
-  - Fixed Solstheim - Tomb of the Snow Prince load order. Now it loads after Patch for Purists and Ownership Overhaul.
-  - Removed **Fallen Ash**, as the effect would not consistently apply as intended and could lead to jarring clashes between ashy and non-ashy objects.
+- (Extended) Fixed **Solstheim - Tomb of the Snow Prince** load order. Now it loads after Patch for Purists and Ownership Overhaul.
+- (Extended) Removed **Fallen Ash**, as the effect would not consistently apply as intended and could lead to jarring clashes between ashy and non-ashy objects.
 
 1.5.5
-- The following changes apply to the Extended profiles:
-  - Reorganized mods as per the manual guide.
-  - Removed **Ashmire Replacer**, as there were concerns with FPS drops when using this mod.
-  - **Redaynia Restored** has been added to the standard Extended profile.
+- (Extended) Reorganized mods as per the manual guide.
+- (Extended) Removed **Ashmire Replacer**, as there were concerns with FPS drops when using this mod.
+- (Extended) Added **Redaynia Restored**.
 
 1.5.4
 - Renamed **Sigourn's Cut** profile to **Extended BTBGI**.
