@@ -180,7 +180,7 @@ Files to install:
 
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
-- After installation, delete the mod's **Textures** folder.
+- After installation, hide the mod's **Textures** folder.
 
 > ℹ️ This omits the Scamp's retexture, since **Intelligent Textures** uses a vanilla-friendly high resolution texture.
 
@@ -801,7 +801,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 03 Rain mesh replacer - regular
   - [X] 05 IT Vanilla sky texture replacer 1k  
     Reworked Intelligent Textures sky textures.
-- After installation, delete the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
+- After installation, hide the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -885,7 +885,7 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Replaces all the bookcovers, bookpages and scrolls.
 
-> ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily delete these textures, named **Tx_book_pages_**.
+> ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named **Tx_book_pages_**.
 
 [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)  
 Model replacer for book and scroll models.
