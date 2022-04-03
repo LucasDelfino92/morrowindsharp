@@ -11,6 +11,11 @@
 
 This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
 
+### Abridged guide
+
+Because maintaining two separate guides proved to be rather difficult and tiresome, Morrowind Sharp is presented as a single, unified guide.
+However, people new to Morrowind, or simply those who want the most out of the mods they install, are encouraged to install only the starred (⭐) mods. These come highly recommended, and barely affect the game's gameplay mechanics and balance.
+
 ### Creating a separator
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
@@ -19,11 +24,6 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Name your separator and click **OK**.
 
 I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
-
-### Abridged guide
-
-Because maintaining two separate guides proved to be rather difficult and tiresome, Morrowind Sharp is presented as a single, unified guide.
-However, people new to Morrowind, or simply those who want the most out of the mods they install, are encouraged to install only the starred (⭐) mods. These come highly recommended, and barely affect the game's gameplay mechanics and balance.
 
 ## PATCHES
 
@@ -69,9 +69,6 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
-
-[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
@@ -342,8 +339,18 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 ⭐ [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
+[**Absorb Effects Rebalanced**](https://www.nexusmods.com/morrowind/mods/50941)  
+Absorb Health effect spells will no longer work against the enemy if the caster has full health. The optional plugin gives vampire casters a Fortify Health buff based on the magnitude of the effect.
+
+Files to install:
+- **Absorb Rebalanced** (Main files)
+- **Optional Files for Vampires** (Optional files)
+
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+
+[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
+Avoids actors getting stuck while opening doors.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
@@ -359,6 +366,9 @@ Removes "Diseased", "Blighted", and similar adjectives from creature names using
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
+Makes fire sources damage the player when standing too close to them.
 
 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
 Allows Soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
@@ -429,6 +439,14 @@ Using Telekinesis will now propel objects towards you with new VFX instead of im
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Cast VFX
+
+[**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708)  
+A lua-based framework required for Seph's mods.
+
+> ℹ️ This framework is a pre-requisite for **Seph's NPC Soul Trapping**.
+
+[**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)  
+Allows the player to soul trap NPCs. It also adds Black Soul Gems, and makes Azura's Star work as one. By default an NPC's soul is worth 10 times its level. All these options are configurable.
 
 ### Map mechanics
 
@@ -736,9 +754,6 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
   - [X] 04 Qwertyquit's Textures
 - After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
 
-<details>
-	<summary>Click to expand</summary>
-
 ```
 [Blood]
 Model 0=BloodSplat.nif
@@ -763,9 +778,6 @@ Texture Name 5=Blue Blood
 Texture Name 6=Orange Blood
 Texture Name 7=Energy
 ```
-
-</details>
-
 ### Weather and lighting
 
 ⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
@@ -961,6 +973,21 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ## IMMERSION
 
+### Repositories
+
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
+
+Files to install:
+- **Tamriel Data (HD)** (Main files)
+
+> ℹ️ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
+
+[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
+Asset repository required for OAAB mods and Nordic Dagon Fel.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+
 ### Visuals
 
 [**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)  
@@ -999,10 +1026,31 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Patch for Purists Plugin
 
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
+If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 MWSE
+
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)  
+Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+
+[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)  
+Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Icons
+
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 > ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+
+[**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)  
+Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
+
+Files to install:
+- **Silt Strider with vanilla textures** (Main files)
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
@@ -1027,6 +1075,19 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
 ### Audio
 
+[**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)  
+Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
+
+Files to install:
+- **Distant Thunder v1.1 (No Scripts)** (Optional files)
+- After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the Thunder Sound IDs of your Morrowind.ini with the following:
+
+```
+Thunder Sound ID 0=Distant_Thunder_00
+Thunder Sound ID 1=Distant_Thunder_01
+Thunder Sound ID 2=Distant_Thunder_02
+Thunder Sound ID 3=Distant_Thunder_03
+```
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)  
 Gives Nord barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -1051,6 +1112,9 @@ Adds entrance bell chimes with sound effects to imperial town tradehouses and ta
 
 > ℹ️ This section includes no dialogue mods by Von Django. This is because they were made with less than ideal dialogue editing methods, leading to unnecessary conflicts.
 
+[**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)  
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
+
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)  
 Replaces the three standard No Lore greetings with over sixty new ones, adding variety to dialogue.
 
@@ -1058,19 +1122,6 @@ Replaces the three standard No Lore greetings with over sixty new ones, adding v
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
 ### Cities, towns, landscape
-
-[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
-Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
-
-Files to install:
-- **Tamriel Data (HD)** (Main files)
-
-> ℹ️ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
-
-[**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
-Asset repository required for OAAB mods and Nordic Dagon Fel.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -1128,16 +1179,6 @@ Compatibility patches for canton mods.
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
   - [X] 02 Solstheim Tomb of the Snow Prince
-
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)  
-If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 MWSE
-
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)  
-Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
 
 [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
 Makes Dagon Fel a bit more nordic, by swapping some of the shacks for nordic/common style buildings, replacing dunmer lanterns and by using assets from the Bloodmoon expansion and from TR_data for interior cluttering. Also expands on the fishing town theme.
@@ -1376,9 +1417,22 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # CHANGELOG
 
+04-03-2022
+- Added **Absorb Effects Rebalanced**.
+- Added **Doors Anti Stuck**.
+- Added **Real Fire Damage - MWSE Edition**.
+- Added **Seph's Library**.
+- Added **Seph's NPC Soul Trapping**.
+- Added **Distant Thunder**.
+- Added **Silt Strider**.
+- Added **OAAB Scroll Qualities**.
+
 04-02-2022
 - Added **Buying Game**.
 - Removed **Harder Barter (Sig Edit)**:
+
+<details>
+	<summary>March 2022 entries</summary>
 
 03-27-2022
 - Morrowind Sharp MO2 Profile Files: fixed **Solstheim - Tomb of the Snow Prince** load order. Now it loads after Patch for Purists and Ownership Overhaul.
@@ -1490,6 +1544,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Added **Blighted Blight**.
 - Added **Creeping Blight**.
 - Added **The Dream is the Door**.
+</details>
 
 <details>
 	<summary>February 2022 entries</summary>
