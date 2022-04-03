@@ -567,16 +567,16 @@ Prevents the player from resting unless they activate a bed.
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
-[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
-
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
 ### Rebalances
+
+⭐ [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
 ⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
@@ -1418,6 +1418,7 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 # CHANGELOG
 
 04-03-2022
+- ⭐ **Morrowind Anti-Cheese (Sig Edit)**.
 - Added **Absorb Effects Rebalanced**.
 - Added **Doors Anti Stuck**.
 - Added **Real Fire Damage - MWSE Edition**.
