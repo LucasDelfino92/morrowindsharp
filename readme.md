@@ -1,6 +1,6 @@
 # MORROWIND S#ARP: A Morrowind Modding Guide
 
-Last updated: March 27th, 2022.
+Last updated: April 3rd, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
@@ -45,40 +45,29 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-I tried to keep the amount of recommended mods relatively short and to the point. Most guides include a *huge* amount of graphic mods (retextures and mesh improvements), whereas I prefer to focus on specific graphical tweaks or visual effects that add to the game instead of changing what's already there.
-
-The standard installation, consisting of the highly recommended mods for a first-time playthrough, has 75 mods and 24 plugins. The extended installation, which includes every mod listed in the guide, has 240 mods and 95 plugins.
+There are 75 highly recommended mods, 24 plugins total. The complete guide has 250 mods, 95 plugins total.
 
 ### How much space do I need to install these mods?
 
-The totality of the guide requires 21GB of installation space.
-Don't panic. Three mods account for 14GB: Morrowind Enhanced Textures, AURA, and Tamriel_Data. Only the latter comes highly recommended for a first-time playthrough, but none are strictly needed.
+The totality of the guide requires 21GB of installation space. However, Morrowind Enhanced Textures, AURA, and Tamriel_Data account for 14GB, and only the first comes highly recommended for a first-time playthrough.
 
 ### How often is the guide updated?
 
-Regularly, as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
-
-### Is this guide compatible with Tamriel Rebuilt?
-
-Yes. *That said*, many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them.
+Regularly, on a week to week basis.
 
 ### Is this guide compatible with OpenMW?
 
-No. Many mods rely on the Morrowind Script Extender (MWSE), which is incompatible with OpenMW.
+No. No MWSE, no Morrowind Sharp.
 
-### Is this guide compatible with Morrowind Rebirth?
+### Is this mod compatible with Morrowind Sharp?
 
-No.
+This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use TES3View and Mod Organizer 2 to check for yourself and solve conflicts.
 
-### Is this guide compatible with Beautiful Cities of Morrowind?
-
-Short answer: no.
-Long answer: according to RandomPal, it is. But I'm not going to waste supporting such an installation if you decide to go through with it.
-
-### Is (X) mod compatible with Morrowind Sharp?
-
-If you have to ask, then no.
+For a short break down:
+- Tamriel Rebuilt: many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them. But the guide should be 99% compatible.
+- Morrowind Rebirth: no.
+- Beautiful Cities of Morrowind: according to RandomPal, author of BCoM, it is. But refer to the disclaimer above.
 
 ### Do you have a Patreon I can contribute to?
 
-No. I'm always open to be given a game as a gift from my [**GOG Wishlist**](https://www.gog.com/u/Lucas9/wishlist), though. Argentina charges an extra 80% on purchasing foreign products, so you can imagine it adds up over time (if not discourages such purchases altogether).
+No.
