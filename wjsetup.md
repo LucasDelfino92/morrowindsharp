@@ -474,6 +474,15 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.5.11
+- (BTB) Removed **By Azura**.
+- (BTB) Removed **Vivec Remade**.
+- (BTB) Removed **Almalexia Redone**.
+- (BTB) Removed **Clear Your Name**.
+- (BTB) Removed **Save the Date**.
+- (BTB) Removed **Settled Jiub**.
+- Adjusted mod and load order as per latest update of the Morrowind Sharp manual guide.
+
 1.5.10
 - (Extended) Added **Absorb Effects Rebalanced**.
 - (Extended) Added **Doors Anti Stuck**.
