@@ -353,14 +353,6 @@ It's time to finally run Morrowind.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
-One of our installed mods from the **Morrowind Sharp - Extended** profile, **Map and Compass**, requires in-game configuration to set it up as intended.
-
-- Enter the **Mod config** menu.
-- Select **Map and Compass** from the mod list to the left.
-- Click the **mapsWagner** tab.
-- Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
-- Exit the menu.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
@@ -465,12 +457,15 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
-[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
-Worldspace overhaul of Solstheim, improving the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
-
 # CHANGELOG
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+
+1.6.1
+- (Extended) Removed **Map and Compass**.
+- (Extended) Removed **Map Replacements for Maps and Compass**.
+- (Extended) Removed **Glass Domes of Vivec - Performance-friendly Open-ish Cantons**.
+- (Extended) Removed **Glass Domes of Vivec - Moonrain Edition**.
 
 1.5.11
 - (Extended) Removed **Tamriel_Data**.
