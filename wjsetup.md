@@ -475,6 +475,13 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
 1.5.11
+- (Extended) Removed **Tamriel_Data**.
+- (Extended) Removed **Solstheim - Tomb of the Snow Prince**.
+- (Extended) Removed **Solstheim - Tomb of the Snow Prince ESM Replacer**.
+- (Extended) Removed **Solstheim Graphical Replacer - Skyrim-like Trees Textures**.
+- (Extended) Removed **Nordic Dagon Fel**.
+- (Extended) Removed **Nordic Dagon Fel - Warm Nords**.
+- (Extended) Removed **Redaynia Restored**.
 - (BTB) Removed **By Azura**.
 - (BTB) Removed **Vivec Remade**.
 - (BTB) Removed **Almalexia Redone**.
