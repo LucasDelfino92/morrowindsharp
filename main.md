@@ -1114,22 +1114,9 @@ Closes Molag Mar's canton.
 [**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
 Opens the Vivec Arena canton.
 
-[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
-Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
-
-[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
-Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core Visual Assets
-  - [X] 01 Glow in the Dahrk Patch - flickering
-  - [X] 01 Optional Green Glow for GitD Patch - flickering
-  - [X] 02 New Weather Mechanics (requires MWSE)
-  - [X] 07 Optional Thinner Interior Texture
-
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
 - On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Glass Domes of Vivec
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
 
@@ -1355,6 +1342,8 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Solstheim - Tomb of the Snow Prince**.
 - Removed **Solstheim - Tomb of the Snow Prince ESM Replacer**.
 - Removed **Solstheim Graphical Replacer - Skyrim-like Trees Textures**.
+- Removed **Glass Domes of Vivec - Performance-friendly Open-ish Cantons**
+- Removed **Glass Domes of Vivec - Moonrain Edition**
 - Removed **Nordic Dagon Fel**.
 - Removed **Nordic Dagon Fel - Warm Nords**.
 - Removed **Redaynia Restored**.
