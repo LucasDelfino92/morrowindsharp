@@ -995,7 +995,7 @@ Adds falling spores particle effects to the emperor parasol mushrooms. Also repl
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
-[**Flies**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20(PfP%20Edit).7z)  
+[**Flies (PfP Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20(PfP%20Edit).7z)  
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43481) to original mod by **R-Zero**.
