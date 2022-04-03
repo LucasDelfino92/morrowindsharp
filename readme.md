@@ -1,4 +1,4 @@
-# MORROWIND S#ARP: A Morrowind Modding Guide
+# MORROWIND S#ARP – A Morrowind Modding Guide
 
 Last updated: April 3rd, 2022.
 
@@ -7,7 +7,6 @@ Last updated: April 3rd, 2022.
 ## Contact info
 
 - Discord: [Morrowind Modding Community](https://discord.me/mwmods)
-- Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
 ## Acknowledgments
