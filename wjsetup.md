@@ -453,8 +453,6 @@ Provides a configurable restriction on the amount of potions and ingredients the
 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)  
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
-> ℹ️ Note that the Wabbajack also includes [**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232), a simpler and more unforgiving alternative to Buying Game. This mod dynamically adjusts how much merchants will pay for items. Items worth more than 10 gold will be considerably less valuable as they rise in price.
-
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
 
