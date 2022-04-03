@@ -60,19 +60,17 @@ In order to address a handful of issues with the Morrowind program (Morrowind.ex
 
 In addition, we will install a mod manager to help us keep our mods organized, and a series of additional tools to help us fix conflicts between our mods to get our install running as smoothly as possible.
 
-## Morrowind Code Patch
+## [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510)
 
-[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
 - Manually download **Morrowind Code Patch** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
 
-[**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
-Repository for the Beta update for the Morrowind Code Patch.
+## [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348)
+
+Repository for the Beta update for the Morrowind Code Patch. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 - Manually download **MCP beta** (Update files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
-
-> ℹ️ This will update the **Morrowind Code Patch** to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 
 ### Morrowind Code Patch setup
 
@@ -82,9 +80,8 @@ Repository for the Beta update for the Morrowind Code Patch.
 
 > ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
-## MGE XE and MWSE
+## [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 - Manually download **MGE XE Installer** (Main files).
@@ -113,11 +110,8 @@ This file contemplates the following landscape-altering scenarios:
 
 > ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
-## Conflict resolution tools
+## [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md) guide, however, you will be redirected to them when the time is right to use them.
-
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
 Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
@@ -136,29 +130,32 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
 
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
+## [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
+
 Used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
 - Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
-[**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)  
+## [**TES3View**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/TES3View%204.1.4.7z)
+
 Used to see the structure of mods and detect conflicts.
 - Extract the contents of the file in **Morrowind Sharp\Tools\ES3View**. 
 
 > ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
+## [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 - Extract the contents of the file in **Morrowind Sharp\Tools\TES3Merge**.
 
-[**TESAME**](http://mw.modhistory.com/download-95-15443)  
+## [**TESAME**](http://mw.modhistory.com/download-95-15443)
+
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
 - Extract the contents of the file in **Morrowind Sharp\Tools\TESAME**.
 
-# MOD ORGANIZER 2
+## [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
-[**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
-**Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
+An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 - Manually download **Mod Organizer 2** (Main files).
 - Run the **Mod Organizer 2.exe**.
 - When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Sharp\MO2**).
@@ -166,15 +163,7 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 
 > ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
-## Mod Organizer 2 setup
-
-### Administrator privileges
-
-- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Sharp\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
-- In the **Compatibility** tab, check **Run this program as an administrator** and click **Apply**.
-- Click **Accept** to close this window.
-
-### Initial setup
+### Mod Organizer 2 initial setup
 
 - Run **ModOrganizer.exe**.
 - Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
