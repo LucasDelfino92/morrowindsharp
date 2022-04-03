@@ -975,14 +975,6 @@ Selection of songs from various different game soundtracks that all fit in with 
 
 ### Repositories
 
-[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
-Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
-
-Files to install:
-- **Tamriel Data (HD)** (Main files)
-
-> ℹ️ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
-
 [**OAAB_Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -1068,10 +1060,8 @@ Adds floating dust to areas where dead are entombed similar to what is seen in S
 Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
-  - [ ] 01 Option 1 Vanilla
+  - [X] 01 Option 1 Vanilla
   - [ ] 01 Option 2 STOTSP
-
-> ℹ️ Install the corresponding option based on whether you use Solstheim - Tomb of the Snow Prince or not. It will omit replacing the wells in Solstheim as the mod already adds Solstheim variants to the wells.
 
 ### Audio
 
@@ -1148,46 +1138,12 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   - [X] 02 New Weather Mechanics (requires MWSE)
   - [X] 07 Optional Thinner Interior Texture
 
-[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)  
-Worldspace overhaul of Solstheim, improving the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
-- Prior installation, hide the **Lake Fjalding Anti-Suck.esp** plugin from **Morrowind Optimization Patch**, and the **Rem_Solstheim.esp** plugin from **Remiros' Groundcover**. Their functionality is already included in Solstheim - Tomb of the Snow Prince.
-
-Files to install:
-- **Solstheim Tomb of the Snow Prince** (Main files)
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 000 Core
-  - [X] 010 Solstheim - Tomb of the Snow Prince
-  - [X] 011 TOTSP Patches
-  - [X] 013 Fierce Wolf Helms
-  - [X] 014 Hide-Like Animal Pelts
-  - After installation, hide all of the mod's plugins minus **TOTSP_Patch_for_Purists_4.0.2.esp**.
-- **Solstheim Graphical Replacer** (Main files)
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 011 Skyrim-Like Trees
-  - [X] 012 Remiros' Groundcover for TOTSP
-
-[**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
-Clean replacer for the main ESM file.
-
-[**Solstheim Graphical Replacer - Skyrim-like Trees Textures**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z)  
-Allows installation of the Skyrim-like Trees option without having to install the core mesh and texture replacer.
-
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Glass Domes of Vivec
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
-  - [X] 02 Solstheim Tomb of the Snow Prince
-
-[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)  
-Makes Dagon Fel a bit more nordic, by swapping some of the shacks for nordic/common style buildings, replacing dunmer lanterns and by using assets from the Bloodmoon expansion and from TR_data for interior cluttering. Also expands on the fishing town theme.
-
-[**Nordic Dagon Fel - Warm Nords**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Nordic%20Dagon%20Fel%20-%20Warm%20Nords.7z)  
-Gives Nordic attire to NPCs walking around Dagon Fel and those who own houses.
-
-[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646)  
-Adds the missing village of Ald Redaynia. This incarnation of Ald Redaynia is a very old, dilapidated, isolated place, settled by only the local Dunmer and hostile to outsiders.
 
 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
 Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
@@ -1417,6 +1373,16 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 
 # CHANGELOG
 
+04-03-2022 Hotfix
+- Removed many mods which I feel aren't the most vanilla-friendly.
+- Removed **Tamriel_Data**.
+- Removed **Solstheim - Tomb of the Snow Prince**.
+- Removed **Solstheim - Tomb of the Snow Prince ESM Replacer**.
+- Removed **Solstheim Graphical Replacer - Skyrim-like Trees Textures**.
+- Removed **Nordic Dagon Fel**.
+- Removed **Nordic Dagon Fel - Warm Nords**.
+- Removed **Redaynia Restored**.
+
 04-03-2022
 - ⭐ **Morrowind Anti-Cheese (Sig Edit)**.
 - Added **Absorb Effects Rebalanced**.
@@ -1436,7 +1402,6 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 	<summary>March 2022 entries</summary>
 
 03-27-2022
-- Morrowind Sharp MO2 Profile Files: fixed **Solstheim - Tomb of the Snow Prince** load order. Now it loads after Patch for Purists and Ownership Overhaul.
 - Removed **Fallen Ash**, as the effect would not consistently apply as intended and could lead to jarring clashes between ashy and non-ashy objects.
 
 03-25-2022
