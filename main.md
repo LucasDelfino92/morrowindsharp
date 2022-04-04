@@ -43,14 +43,11 @@ Fixes many issues present in Bethesda's original Official Plugins.
 
 Files to install:
 - **UMOPP 3.1.0** (Main files)
-- After installation, hide all of the mod's plugins minus **bcsounds.esp**, **EBQ_Artifact.esp**, and **master_index.esp**.
+- After installation, hide all of the mod's plugins minus **bcsounds.esp** and **master_index.esp**.
 
 [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
 Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
 - After installation, hide all of the mod's plugins minus **Area Effect Arrows Integrated.ESP**.
-
-[**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
-Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)  
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
@@ -1105,9 +1102,6 @@ Compatibility patches for canton mods.
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
 
-[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)  
-Populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits. 
-
 ## MOD CONFIG
 
 ⭐ [**MWSE Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MWSE%20Config.7z)  
@@ -1329,6 +1323,11 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+04-04-2022
+- Removed **Adamantium Armor Integrated**.
+- Removed **Helm of Tohan plugin**.
+- Removed **Shrine of Azura**.
 
 04-03-2022 Hotfix
 - Removed many mods which I feel aren't the most vanilla-friendly.
