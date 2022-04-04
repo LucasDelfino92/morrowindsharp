@@ -421,11 +421,6 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
-[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
-Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
-
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
-
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect, which creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -987,11 +982,6 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
   - [X] 01 Glowbugs BC
   - [X] 02 Glowbugs AI
 
-[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
-Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
-
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
-
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
@@ -1020,11 +1010,6 @@ Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. 
 Uses the new scroll models in OAAB_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Icons
-
-[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
-
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
 
 [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)  
 Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
@@ -1173,15 +1158,24 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 
 ## SHADERS
 
-### Updated MGE XE shaders
+### Shaders
+
+⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 ⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
-⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
+Adds an invisibility shader. Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
+Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
+
+[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
+Adds an earthquake shader. The mod adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 ### Shader setup
 
