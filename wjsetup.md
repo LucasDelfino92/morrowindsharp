@@ -151,9 +151,6 @@ Mod manager and tool for repairing and updating saves, update the masters of mod
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
 Tool for cleaning plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
 
-[**mlox**](https://github.com/mlox/mlox)  
-Tool for sorting and analyzing Morrowind plugin load order.
-
 ## Installation
 
 All these aforementioned utilities have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
@@ -185,26 +182,6 @@ All these aforementioned utilities have been downloaded and their files placed i
 - Click **Next** and then click **Finish**.
 
 > ℹ️ If at any point Wrye Mash asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **Wrye Mash** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**. Failing to enable this option can cause you to be unable to repair your saves.
-
-## Mlox setup
-
-- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Click on the executables dropdown menu to the left of the **Run** button, and select **Wrye Mash**. 
-- Click **Run** to launch Wrye Mash.
-- Under the **Misc** tab, go to **Mlox** -> **Launch Mlox** in order to launch Mlox.
-- When the application has done loading, and it confirms the plugins are already in sorted order, close the application.
-- Copy the **mlox_base.txt** and **mlox_user.txt** files from the following directory:
-```
-C:\Games\Morrowind\Mlox rules
-```
-- Into the following folder, overwriting when prompted:
-```
-C:\Users\[User Name]\AppData\Local\mlox\mlox
-```
-
-> ℹ️ This will update the rules Mlox uses to determine load order to the latest community rules.
-
-> ℹ️ If you have trouble accessing the AppData folder, use the **Run Program** (Windows key + R) to execute **AppData** in Windows 8, or **%AppData%** in Windows 10 and 11.
 
 ## MGE XE setup
 
@@ -461,6 +438,17 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
+1.6.2
+- Removed **mlox** and **mlox rules**. This ensures the guide will no longer break out of outdated mlox rules.
+- Moved all unused mods to the Unused mods separator.
+- (Extended) Properly activated the previously disabled **Lake Fjalding Anti-Suck** plugin.
+- (Extended) Disabled **MWSE Hide the Skooma**, as **Buying Game** doesn't require it.
+- (Extended) Removed **Adamantium Armor Integrated**.
+- (Extended) Removed **Helm of Tohan** plugin.
+- (Extended) Removed **Shrine of Azura**.
+- (Extended) Added **Shining Interface**.
+- (BTB) Removed all equipment mods. This considerably reduces the amount of plugins in the load order. BTBGI Loot Patch has been correctly switched to the standard version.
+
 1.6.1
 - (Extended) Removed **Map and Compass**.
 - (Extended) Removed **Map Replacements for Maps and Compass**.
@@ -496,7 +484,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 1.5.9
 - Removed magic item recharge time tweak from **MWSE Config**.
 - (Extended) Replaced **Harder Barter** with **Buying Game**.
-- (BTB only) Updated **BTB's Game Improvements (Necro Edit) Tweaked**.
+- (BTB) Updated **BTB's Game Improvements (Necro Edit) Tweaked**.
 
 1.5.8
 - Updated **Morrowind Optimization Patch**.
@@ -506,7 +494,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Updated **mlox rules**.
 - Updated **MWSE Config** with Lua Lockbashing config.
 - (Extended) Added **Lua Lockbashing**.
-- (BTB only) Moved BTBGI mods to their respective categories.
+- (BTB) Moved BTBGI mods to their respective categories.
 
 1.5.6
 - (Extended) Fixed **Solstheim - Tomb of the Snow Prince** load order. Now it loads after Patch for Purists and Ownership Overhaul.
@@ -518,66 +506,60 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - (Extended) Added **Redaynia Restored**.
 
 1.5.4
-- Renamed **Sigourn's Cut** profile to **Extended BTBGI**.
 - Renamed **TES Advanced Mod Editor** to **TESAME**.
-- Added **Nordic Dagon Fel - Warm Nords** (Extended profiles).
+- (Extended) Added **Nordic Dagon Fel - Warm Nords**.
+- (BTB) Renamed **Sigourn's Cut** profile to **Extended BTBGI**.
 
 1.5.3
-- The following changes apply to the Extended profiles:
-  - Added **Poison Crafting**. The Extended profile features a patch from Restocking Alchemy Essentials. The Extended BTBGI profile features a patch from BTB's Game Improvements (Necro Edit) Tweaked.
-  - Added **Brutal Backstabbing**.
-  - Added **Light Decay**.
-  - Added **MM - Enhanced Telekinesis**.
-  - Added **MM - Enhanced Light**.
-  - Added **Lucky Strike - A Critical Hit Mod**.
-  - Added **Smarter Soultrap**.
-  - Added **Switchable Scriptures**.
-  - Added **Sounds of Souls**.
-- The following changes apply to the Extended BTBGI profile:
-  - Added **Clear Your Name**.
-  - Added **Redaynia Restored**.
-  - Added **Save the Date**.
-  - Added **Settled Jiub**.
-  - Added **Almalexia Redone**.
-  - Added **By Azura**.
-  - Added **Vivec Remade**.
+- (Extended) Added **Poison Crafting**. The Extended profile features a patch from Restocking Alchemy Essentials. The Extended BTBGI profile features a patch from BTB's Game Improvements (Necro Edit) Tweaked.
+- (Extended) Added **Brutal Backstabbing**.
+- (Extended) Added **Light Decay**.
+- (Extended) Added **MM - Enhanced Telekinesis**.
+- (Extended) Added **MM - Enhanced Light**.
+- (Extended) Added **Lucky Strike - A Critical Hit Mod**.
+- (Extended) Added **Smarter Soultrap**.
+- (Extended) Added **Switchable Scriptures**.
+- (Extended) Added **Sounds of Souls**.
+- (BTB) Added **Clear Your Name**.
+- (BTB) Added **Redaynia Restored**.
+- (BTB) Added **Save the Date**.
+- (BTB) Added **Settled Jiub**.
+- (BTB) Added **Almalexia Redone**.
+- (BTB) Added **By Azura**.
+- (BTB) Added **Vivec Remade**.
 
 1.5.2  
-- The following changes apply to the Extended profiles:
-  - Added **Ashmire Replacer**.
-  - Added **3D Vines Vanilla Mushroom Trees**.
-  - Added **Throbbing Meat - a Corprus Meat Replacer**.
-  - Added **Flies**.
-  - Added **Glowbugs**.
-  - Added **Heat Haze**.
-  - Added **Mistify**.
-  - Added **Nordic Chest Replacer**.
-  - Added **Shattered Stones - An Earthquake Mod**.
-  - Added **Unto Dust**.
-  - Added **Well Diversified STOTSP**.
-  - Added **Haunted Barrows**.
-  - Added **Heartthrum**.
-  - Added **Outdoor Banners With Sound**.
-  - Added **Store Entrance Chimes**.
-  - Added **Greetings for No Lore**.
-  - Added **Outfit Greetings Tweaked**.
-  - Added **Nordic Dagon Fel**.
-  - Added **Shrine of Azura**.
-  - Added **Dwemer Lightning Rods**.
-  - Added **OAAB Dwemer Pavements**.
-
-1.5.0 Hotfix
-- ⚠️ If using the **Extended** profiles, don't enable **Lake Fjalding Anti-Suck.ESP** for gameplay and for Distant Land generation. This plugin shouldn't be used alongside **Solstheim - Tomb of the Snow Prince**.
+- (Extended) Added **Ashmire Replacer**.
+- (Extended) Added **3D Vines Vanilla Mushroom Trees**.
+- (Extended) Added **Throbbing Meat - a Corprus Meat Replacer**.
+- (Extended) Added **Flies**.
+- (Extended) Added **Glowbugs**.
+- (Extended) Added **Heat Haze**.
+- (Extended) Added **Mistify**.
+- (Extended) Added **Nordic Chest Replacer**.
+- (Extended) Added **Shattered Stones - An Earthquake Mod**.
+- (Extended) Added **Unto Dust**.
+- (Extended) Added **Well Diversified STOTSP**.
+- (Extended) Added **Haunted Barrows**.
+- (Extended) Added **Heartthrum**.
+- (Extended) Added **Outdoor Banners With Sound**.
+- (Extended) Added **Store Entrance Chimes**.
+- (Extended) Added **Greetings for No Lore**.
+- (Extended) Added **Outfit Greetings Tweaked**.
+- (Extended) Added **Nordic Dagon Fel**.
+- (Extended) Added **Shrine of Azura**.
+- (Extended) Added **Dwemer Lightning Rods**.
+- (Extended) Added **OAAB Dwemer Pavements**.
 
 1.5.0
-- Added **Qwerty's Various Graphics - Bridgeropes** (Extended profiles).
-- Added **MWSE Blood Diversity** (Extended profiles).
-- ⚠️ THE FOLLOWING MODS ARE NOT COMPATIBLE WITH AN ONGOING SAVE.
-- Added **Tamriel_Data (HD)** (Extended profiles).
-- Added **Solstheim - Tomb of the Snow Prince** (Extended profiles). Also installed is the Graphical Replacer, using the Skyrim-like Trees and Remiros' Groundcover for TOTSP options.
-  - ⚠️ Please remember to generate Distant Land using the VSW-Rem-Anthology Solstheim plugin *instead* of the Rem_Solstheim plugin.
-  - ⚠️ Also make sure to regenerate your Merged Objects, as there's a conflict with Bloodmoon Rebalance which will cause Veresa Alver to teleport you into the wrong spot.
-- Added **STOTSP Ownership Overhaul Patch** (Extended profiles).
+- (Extended) Added **Qwerty's Various Graphics - Bridgeropes**.
+- (Extended) Added **MWSE Blood Diversity**.
+- (Extended) Added **Tamriel_Data (HD)**.
+- (Extended) Added **Solstheim - Tomb of the Snow Prince**. Also installed is the Graphical Replacer, using the Skyrim-like Trees and Remiros' Groundcover for TOTSP options.
+- (Extended) Added **STOTSP Ownership Overhaul Patch**.
+
+<details>
+  <summary>Older entries - Click to expand</summary>
 
 1.4.2
 - Renamed mash64 to Wrye Mash in MO2 executables.
@@ -586,26 +568,23 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Added TES3Merge instructions in Finishing touches.
 
 1.4.0
-- ⚠️ THIS UPDATE IS NOT COMPATIBLE WITH AN ONGOING SAVE.
-- The following changes apply to the Extended profiles:
-  - Added **Glass Domes of Vivec**.
-  - Added **No-Frills Open Arena**.
-  - Updated **Ownership Overhaul Patches**.
-  - Removed **No-Frills Open Vivec**.
-- The following change applies to the Extended BTBGI profile:
-  - Added **Concept Art Ordinators**.
+- (Extended) Added **Glass Domes of Vivec**.
+- (Extended) Added **No-Frills Open Arena**.
+- (Extended) Updated **Ownership Overhaul Patches**.
+- (Extended) Removed **No-Frills Open Vivec**.
+- (BTB) Added **Concept Art Ordinators**.
 
 1.3.7
 - Updated **MWSE Config** with **MWSE** (letterboxed cutscenes) and **Clocks** (24-hour clock) configs, and new **Weather Adjuster** settings for more visible skies.
 - Added **Unofficial Morrowind Official Plugins Patched**. Omitted the LeFemm Armor, Entertainers, and Siege at Firemoth plugins. The Adamantium Armor and and Area Effect Arrows use alternative versions by Necrolesian. The Master Index individual download has been removed.
-- Added **Adamantium Armor Integrated**.
+- (Extended) Added **Adamantium Armor Integrated**.
 
 1.3.6
-- Cloud movement shader is now enabled by default.
-- Added **Class Description Tooltip**.
-- Added **Clocks**.
-- Added **Sprinting**.
-- Removed **MWSE Clock Block**.
+- (Extended) Cloud movement shader is now enabled by default.
+- (Extended) Added **Class Description Tooltip**.
+- (Extended) Added **Clocks**.
+- (Extended) Added **Sprinting**.
+- (Extended) Removed **MWSE Clock Block**.
 
 1.3.5
 - Properly excluded mods that shouldn't ship with Wabbajack.
@@ -613,15 +592,12 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 1.3.4
 - Added **Mlox**.
 
-<details>
-  <summary>Older entries - Click to expand</summary>
-
 1.3.3
-- Added **No Beds for the Diseased**.
-- Added **Incarnates Overhauled**.
+- (Extended) Added **No Beds for the Diseased**.
+- (Extended) Added **Incarnates Overhauled**.
 
 1.3.2
-- Added instructions to set up **Map and Compass** (In-game Configuration).
+- (Extended) Added instructions to set up **Map and Compass** (In-game Configuration).
 
 1.3.1
 - Unchecked problematic **Use profile-specific Save Games** option in MO2.
@@ -646,18 +622,17 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 1.2.1 Hotfix
 - Removed **New Game Confirmation** (User Interface). People keep getting issues with the mod, and there's no apparent reason as to what causes them.
 
-1.2.0.
-- Expanded Morrowind Sharper profile with the following mods:
-  - Added **Randomised Chargen** (Gameplay QOL).
-  - Added **Enhanced Detection Lite** (Gameplay).
-  - Added **FMI - Hospitality Papers Expanded** (Gameplay).
-  - Added **Better Character Classes** (Overhauls).
-  - Added **Blighted Blight** (Survival).
-  - Added **Creeping Blight** (Survival).
-  - Added **The Dream is the Door** (Visuals).
+1.2.0
 - **tes3cmd.exe** has been moved inside **Game Folder Files\Data Files**, as intended.
+- (Extended) Added **Randomised Chargen**.
+- (Extended) Added **Enhanced Detection Lite**.
+- (Extended) Added **FMI - Hospitality Papers Expanded**.
+- (Extended) Added **Better Character Classes**.
+- (Extended) Added **Blighted Blight**.
+- (Extended) Added **Creeping Blight**.
+- (Extended) Added **The Dream is the Door**.
 
-1.1.0.
+1.1.0
 - Included **Wrye Mash**, **tes3cmd.exe**, and **Widescreen Splash Replacer** as part of the download.
 - Removed instructions to register tools in Mod Organizer 2, as they are handled by the Wabbajack now.
 
