@@ -448,18 +448,6 @@ A lua-based framework required for Seph's mods.
 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)  
 Allows the player to soul trap NPCs. It also adds Black Soul Gems, and makes Azura's Star work as one. By default an NPC's soul is worth 10 times its level. All these options are configurable.
 
-### Map mechanics
-
-[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)  
-Replaces the in-game world map with a realistic map, based on the paper maps that came with Morrowind and its expansions, and the in-game minimap with a compass.
-
-> ℹ️ Because the minimap is no longer accessible with this mod installed, Detect spells will no longer have a use unless you use **MM - Enhanced Detection**, listed earlier.
-
-[**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
-Replaces the maps from **Map and Compass** to give them a more immersive look.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Yellowed Maps
-
 ### Service mechanics
 
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
@@ -1126,22 +1114,9 @@ Closes Molag Mar's canton.
 [**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
 Opens the Vivec Arena canton.
 
-[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
-Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
-
-[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
-Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core Visual Assets
-  - [X] 01 Glow in the Dahrk Patch - flickering
-  - [X] 01 Optional Green Glow for GitD Patch - flickering
-  - [X] 02 New Weather Mechanics (requires MWSE)
-  - [X] 07 Optional Thinner Interior Texture
-
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
 - On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Glass Domes of Vivec
   - [X] 01 No-Frills Closed Molag Mar
   - [X] 01 No-Frills Open Arena
 
@@ -1184,8 +1159,6 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 05 Map and Compass  
-  Disables the local and world maps in favor of the new compass and paper maps; reduces max zoom magnification; selects the Vvardenfell world map by default.
 - [ ] 06 Let There Be Darkness  
   Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
 - [ ] 06 Watch the Skies  
@@ -1334,16 +1307,6 @@ Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving i
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
 
-# IN-GAME CONFIGURATION
-
-One of the mods featured in the guide, **Map and Compass**, requires in-game configuration to set it up as intended.
-
-- Enter the **Mod config** menu in-game.
-- Select **Map and Compass** from the mod list to the left.
-- Click the **mapsWagner** tab.
-- Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
-- Exit the menu.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
@@ -1379,9 +1342,13 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **Solstheim - Tomb of the Snow Prince**.
 - Removed **Solstheim - Tomb of the Snow Prince ESM Replacer**.
 - Removed **Solstheim Graphical Replacer - Skyrim-like Trees Textures**.
+- Removed **Glass Domes of Vivec - Performance-friendly Open-ish Cantons**
+- Removed **Glass Domes of Vivec - Moonrain Edition**
 - Removed **Nordic Dagon Fel**.
 - Removed **Nordic Dagon Fel - Warm Nords**.
 - Removed **Redaynia Restored**.
+- Removed **Map and Compass**.
+- Removed **Map Replacements for Maps and Compass**.
 
 04-03-2022
 - ⭐ **Morrowind Anti-Cheese (Sig Edit)**.

@@ -1,4 +1,4 @@
-# MORROWIND S#ARP: A Morrowind Modding Guide
+# MORROWIND S#ARP – A Morrowind Modding Guide
 
 Last updated: April 3rd, 2022.
 
@@ -7,7 +7,6 @@ Last updated: April 3rd, 2022.
 ## Contact info
 
 - Discord: [Morrowind Modding Community](https://discord.me/mwmods)
-- Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
 ## Acknowledgments
@@ -45,11 +44,11 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-There are 75 highly recommended mods, 24 plugins total. The complete guide has 250 mods, 95 plugins total.
+There are 75 highly recommended mods, 24 plugins total. The complete guide has 240 mods, 90 plugins total.
 
 ### How much space do I need to install these mods?
 
-The totality of the guide requires 21GB of installation space. However, Morrowind Enhanced Textures, AURA, and Tamriel_Data account for 14GB, and only the first comes highly recommended for a first-time playthrough.
+The totality of the guide requires 15.6GB of installation space. However, Morrowind Enhanced Textures, AURA, and TUBES4MUSE account for 12GB, and only the first comes highly recommended for a first-time playthrough.
 
 ### How often is the guide updated?
 
