@@ -151,9 +151,6 @@ Mod manager and tool for repairing and updating saves, update the masters of mod
 [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
 Tool for cleaning plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
 
-[**mlox**](https://github.com/mlox/mlox)  
-Tool for sorting and analyzing Morrowind plugin load order.
-
 ## Installation
 
 All these aforementioned utilities have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
@@ -185,26 +182,6 @@ All these aforementioned utilities have been downloaded and their files placed i
 - Click **Next** and then click **Finish**.
 
 > ℹ️ If at any point Wrye Mash asks you to enable the MWSE 1024 plugin support, click **Yes**. Assuming it does not, you can always enable it by launching **Wrye Mash** from Mod Organizer 2, clicking the **Settings Window** icon at the bottom of the window, and the going to the **Advanced** tab and checking **Add support for up to 1024 plugins**. Failing to enable this option can cause you to be unable to repair your saves.
-
-## Mlox setup
-
-- Run **Mod Organizer 2.exe**, found in your **Morrowind Sharp** folder.
-- Click on the executables dropdown menu to the left of the **Run** button, and select **Wrye Mash**. 
-- Click **Run** to launch Wrye Mash.
-- Under the **Misc** tab, go to **Mlox** -> **Launch Mlox** in order to launch Mlox.
-- When the application has done loading, and it confirms the plugins are already in sorted order, close the application.
-- Copy the **mlox_base.txt** and **mlox_user.txt** files from the following directory:
-```
-C:\Games\Morrowind\Mlox rules
-```
-- Into the following folder, overwriting when prompted:
-```
-C:\Users\[User Name]\AppData\Local\mlox\mlox
-```
-
-> ℹ️ This will update the rules Mlox uses to determine load order to the latest community rules.
-
-> ℹ️ If you have trouble accessing the AppData folder, use the **Run Program** (Windows key + R) to execute **AppData** in Windows 8, or **%AppData%** in Windows 10 and 11.
 
 ## MGE XE setup
 
@@ -460,6 +437,17 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 # CHANGELOG
 
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+
+1.6.2
+- Removed **mlox** and **mlox rules**. This ensures the guide will no longer break out of outdated mlox rules.
+- Moved all unused mods to the Unused mods separator.
+- (Extended) Properly activated the previously disabled **Lake Fjalding Anti-Suck** plugin.
+- (Extended) Disabled **MWSE Hide the Skooma**, as **Buying Game** doesn't require it.
+- (Extended) Removed **Adamantium Armor Integrated**.
+- (Extended) Removed **Helm of Tohan** plugin.
+- (Extended) Removed **Shrine of Azura**.
+- (Extended) Added **Shining Interface**.
+- (BTB) Removed all equipment mods. This considerably reduces the amount of plugins in the load order. BTBGI Loot Patch has been correctly switched to the standard version.
 
 1.6.1
 - (Extended) Removed **Map and Compass**.
