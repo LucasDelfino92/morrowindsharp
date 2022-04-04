@@ -1,6 +1,6 @@
 # MORROWIND S#ARP – A Morrowind Modding Guide
 
-Last updated: April 3rd, 2022.
+Last updated: April 4th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
@@ -44,7 +44,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-There are 75 highly recommended mods, 24 plugins total. The complete guide has 240 mods, 90 plugins total.
+There are 75 highly recommended mods, 24 plugins total. The complete guide has 235 mods, 85 plugins total.
 
 ### How much space do I need to install these mods?
 
