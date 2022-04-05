@@ -4,18 +4,6 @@ Last updated: April 5th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MW%20Banner%20GIT.jpg)
 
-## Contact info
-
-- Discord: [Morrowind Modding Community](https://discord.me/mwmods)
-- RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
-
-## Acknowledgments
-
-I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
-
-- **Tythesly** (August 11th, 2021)
-- **JFS** (August 24th, 2021)
-
 ## About
 
 **Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind Sharp is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
@@ -59,7 +47,3 @@ For a short break down:
 - Tamriel Rebuilt: many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them. But the guide should be 99% compatible.
 - Morrowind Rebirth: no.
 - Beautiful Cities of Morrowind: according to RandomPal, author of BCoM, it is. But refer to the disclaimer above.
-
-### Do you have a Patreon I can contribute to?
-
-No.
