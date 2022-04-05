@@ -20,12 +20,9 @@ I want to thank the following people for their support. Not only for their kind 
 
 **Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind Sharp is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
 
-There are two ways to follow this guide:
-
-- [**Manual Setup**](setup.md). The recommended way, estimated to take around 4 to 5 hours. The first section (Setup) will list the installation of Morrowind, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods. It is ideal for people who want to learn to mod Morrowind, knowing how to properly install and configure mods, and so forth. Most important of all, you decide how far you want to go through with it.
-- [**Wabbajack Setup**](wjsetup.md). The fast and easy way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes the standard modlist as well as an abridged version, set up in different profiles for ease of selection.
-
 I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
+
+[**Click here to get started**](setup.md).
 
 ## My setup
 
