@@ -1,4 +1,4 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)
+[<< Back to Readme](readme.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -15,7 +15,7 @@
 
 > ⚠️ Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
 
-> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
 ## Installation
 
@@ -43,7 +43,7 @@ All said, delete the following from your **Morrowind\Data Files** folder in orde
 
 Your Data Files folder should now look like this.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
+![Screenshot](Data%20Files.png)
 
 ### Setting up your GOG installation for Wabbajack
 
@@ -65,7 +65,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\GOG.com\Games
 
 > ℹ️ Failing to perform these steps will cause Wabbajack not to detect your installed game, and thus fail to run altogether.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/registry.png)
+![Screenshot](registry.png)
 
 # WABBAJACK
 
@@ -155,7 +155,7 @@ Tool for cleaning plugins by automatically deleting identical-to-master records 
 
 All these aforementioned utilities have been downloaded and their files placed inside the **Morrowind Sharp\Game Folder Files** folder.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/gameFolderFiles.png)
+![Screenshot](gameFolderFiles.png)
 
 - Copy the contents of **Morrowind Sharp\Game Folder Files** and paste them inside the **Morrowind** folder.
 - Allow merge and overwrite when prompted.
@@ -196,7 +196,7 @@ All these aforementioned utilities have been downloaded and their files placed i
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20Graphics%20272.png)
+![Screenshot](MGE%20XE%20Graphics%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -264,7 +264,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of the plugins), you will find missing meshes during gameplay.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
+![Screenshot](MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
@@ -279,7 +279,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 [**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)  
 Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
 - Download **TUBES4MUSE** from the Google Drive link.
-- In MO2, click the **Install a new mod from archive** button ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png).
+- In MO2, click the **Install a new mod from archive** button ![Archive](MO_Archive.png).
 - Navigate to the folder where **TUBES4MUSE.7z** is stored and double click on it.
 - MO2 will prompt you to give the mod a name. The default name is okay.
 - Click **OK**.
@@ -369,11 +369,11 @@ The third profile is based off the Extended profile. It includes BTB's Game Impr
 
 Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharp - Extended** to **Morrowind Sharp**.
 
-![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_profileSelection.png)
+![Profiles](MO_profileSelection.png)
 
 # MODS YOU SHOULD KNOW ABOUT
 
-As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your TES III: Morrowind experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md).
+As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your TES III: Morrowind experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](main.md).
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
@@ -436,7 +436,7 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 # CHANGELOG
 
-> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
+> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to [**manually update your setup by downloading the listed mods**](main.md) instead of reinstalling the provided Wabbajack every single time, risking losing your custom mods and savegames in the process.
 
 1.6.2
 - Removed **mlox** and **mlox rules**. This ensures the guide will no longer break out of outdated mlox rules.
@@ -640,4 +640,4 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 - Initial release.
 </details>
   
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
+[<< Back to Readme](readme.md)
