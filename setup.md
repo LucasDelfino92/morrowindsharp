@@ -1,4 +1,4 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)
+[<< Back to Readme](readme.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -15,7 +15,7 @@
 
 > ⚠️ Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
 
-> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 
 ## Installation
 
@@ -50,7 +50,7 @@ All said, delete the following from your **Morrowind\Data Files** folder in orde
 
 Your Data Files folder should now look like this.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
+![Screenshot](Data%20Files.png)
 
 # UTILITIES AND TOOLS
 
@@ -198,7 +198,7 @@ Bloodmoon.esm
 
 One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
 
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
+- Click the **Tools** ![Tools](MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
 - Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
 ```
@@ -221,7 +221,7 @@ Max Snowflakes=1500
 
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
-- Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Profiles.png) button.
+- Click the **Configure profiles** ![Profiles](MO_Profiles.png) button.
 - Check the following options:
   - [X] Use profile-specific Game INI files.
   - [ ] Use profile-specific Save Games.
@@ -236,14 +236,14 @@ Morrowind Sharp will be the profile we'll be modding. You can always revert to t
 For our modding tools to work in Mod Organizer 2, we need to register and configure them.
 
 Follow these steps for **Wrye Mash**:
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply** and then **OK**.
 
 Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Modify Executables** ![Executables](MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](MO2_Add_File.png) button and select *Add from file...*.
 - Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
@@ -257,7 +257,7 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 
 ### In-game tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
+![Screenshot](MGE%20XE%20In-game%20272.png)
 
 > ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
@@ -268,7 +268,7 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20Graphics%20272.png)
+![Screenshot](MGE%20XE%20Graphics%20272.png)
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
@@ -322,7 +322,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
+![Screenshot](MGE%20XE%20272.png)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
@@ -363,7 +363,7 @@ Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using
 
 When installing a mod, use the name provided for it in the guide's **hyperlink**. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
 
-![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+![Example](modexample.png)
 
 Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
 
@@ -371,7 +371,7 @@ Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a defa
 
 There will be times when you will need to install multiple files from a single mod page. Mod Organizer 2 will prompt you with the following box.
 
-![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
+![ModExists](MO2_ModExists.png)
 
 What these options do is simple:
 
@@ -387,7 +387,7 @@ When the guide asks no specific file to be installed, it is implicit that the fi
 
 Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
 
-- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- In MO2, click the **Install a new mod from archive** ![Archive](MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
 
 The rest of the steps work exactly as during mod manager download installation.
@@ -402,7 +402,7 @@ Mod Organizer 2 supports both types of mod installers. Note that this guide will
 
 There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-![InvalidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_InvalidContent.png)
+![InvalidContent](MO2_InvalidContent.png)
 
 In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
 
@@ -417,7 +417,7 @@ In the case shown above, the mod contains a **Data Files** folder and a loose **
 - Click **Set as data files directory**.
 - Click **OK** to install the mod.
 
-![ValidContent](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ValidContent.png)
+![ValidContent](MO2_ValidContent.png)
 
 In other cases, mods contain loose assets, and you will have to create folders to package them properly.
 
@@ -452,5 +452,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)  
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#)
+[To Morrowind Sharp >>](main.md)  
+[<< Back to Readme](readme.md)
