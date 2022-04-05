@@ -120,21 +120,6 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)  
-Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
-- After installation, hide the mod's **Textures** folder.
-
-> ℹ️ This omits the Scamp's retexture, since **Intelligent Textures** uses a vanilla-friendly high resolution texture.
-
-[**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
-Fixes the Mudcrab mesh, reducing distortion and other UV errors.
-- On MO2 installation, expand the **Correct Mudcrab** and **Regular** folders.
-- Right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
 	
@@ -230,6 +215,9 @@ Expands the amount of quick menu hotkeys available.
 ⭐ [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a hotkey for summons, followers and companions to attack the selected target.
 
+⭐ [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+
 ⭐ [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
@@ -242,22 +230,10 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 ⭐ [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
-[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)  
-Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
-
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
-Adds a hotkey for picking up books.
-
-[**Give or Take**](https://www.nexusmods.com/morrowind/mods/50716)  
-Adds "Give" and "Take" buttons to any suitable actor/container, so you can easily move (all/all filtered) things in and out.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-
-[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
-Adds a hotkey to speed up time.
-
 ## GAMEPLAY QOL
+
+⭐ [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
+Enables picking up books by default.
 
 ⭐ [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -287,15 +263,15 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 ⭐ [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+⭐ [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
+Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
+- After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
+
 ⭐ [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
 ⭐ [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-[**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-- After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
 
 ## GAMEPLAY
 
@@ -328,14 +304,11 @@ Avoids actors getting stuck while opening doors.
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
-Makes fire sources damage the player when standing too close to them.
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
+Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -345,12 +318,6 @@ Allows Soultrap to make more intelligent use of available soul gems, including s
 
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use.
-
-[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)  
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-- After installation, hide the mod's **MWSE** folder. This disables the sprinting feature.
-
-> ℹ️ Note that this mod is *not* meant to make movement faster, only more natural.
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
@@ -362,64 +329,6 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-
-### Game mechanics
-
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)  
-Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Config menu includes option for Short Blades only or all weapons.
-
-[**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)  
-Adds a Luck-based Critical Strike mechanic.
-
-[**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-A lua-based framework for creating new, fully functional magic effects.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Framework
-
-> ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
-
-[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
-Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Core
-
-[**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
-Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] Enhanced Detection Less Lite
-
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions
-
-[**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708)  
-A lua-based framework required for Seph's mods.
-
-> ℹ️ This framework is a pre-requisite for **Seph's NPC Soul Trapping**.
-
-[**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)  
-Allows the player to soul trap NPCs. It also adds Black Soul Gems, and makes Azura's Star work as one. By default an NPC's soul is worth 10 times its level. All these options are configurable.
-
-[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
-Adds a feature-rich sprinting functionality to the game.
-
-### Service mechanics
-
-[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)  
-Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
-
-[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)  
-Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
-
-[**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)  
-Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Morrowind Only
-
-[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
-Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
 
 ## OVERHAULS
 
@@ -437,6 +346,23 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
 
 ### Game mechanics
+
+⭐ [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
+A lua-based framework for creating new, fully functional magic effects.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Framework
+
+> ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
+
+⭐ [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
+Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+
+⭐ [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
+Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] Enhanced Detection Less Lite
 
 ⭐ [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -456,17 +382,17 @@ Applies the enchanted effect to any doors or containers with traps. Compatible a
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
+Damages NPCs' equipped gear on death.
 - After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
-
-[**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461)  
-Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment. A rework of the optional plugin from Realistic Repair.
 
 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)  
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
-Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates. 
+Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
+
+[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
+Adds a feature-rich sprinting functionality to the game.
 
 ### Anti-cheese
 
@@ -520,6 +446,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
 
 Files to install:
 - **Creeping Blight - MWSE Version** (Main files)
+
+[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
+Makes fire sources damage the player when standing too close to them. This mod pairs great with Ashfall, as it prevents the player from cheesing fire sources by standing right on top of them.
 
 ## VISUALS
 
@@ -641,11 +570,6 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
-[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)  
-Retexture of bridgeropes.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 01 Dark
-
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 
@@ -654,13 +578,6 @@ Replaces the water in the Palace of Vivec's canals.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Original Color
-
-[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)  
-Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Option 1 Vanilla
-  - [ ] 01 Option 2 STOTSP
 
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
@@ -765,9 +682,6 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
   - [X] 03 Vanilla style sunrays  
     Adds interior sunrays. Windows use the original vanilla stones.
 
-[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
-Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.	
-
 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
@@ -794,9 +708,6 @@ Forwards Patch for Purists fixes to the plugin.
 Adds the missing belt to the male Imperial Steel Cuirass.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Male Belt
-
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)  
-Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
@@ -828,15 +739,6 @@ Lets you open or close any book or scroll in the game.
   - [X] 00 Core
   - [X] 01 Closed Book Icons
   - [X] 03 Melchior's Magnificent Manuscripts
-
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)  
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-
-Files to install:
-- **Gold coins** (Main files)
-
-[**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)  
-Upscaled **Simple Golden Gold** textures.
 
 ## AUDIO
 
@@ -880,8 +782,6 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
   Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Lucky Strike
-  Configures the mod to reduce maximum damage.
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
 - [ ] 04 Ashfall  
@@ -894,10 +794,6 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
 - [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
-- [ ] 07 AURA  
-  Disables player voice taunts.
-- [ ] 07 Character Sound overhaul  
-  Comments out a line in the **main.lua** to disable MWSE.log spam.
 </details>
 
 ## SHADERS
@@ -950,11 +846,10 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 
 ### Cleaning plugins
 
-For general dirty records, we use **Wrye Mash**, automatically cleaning them.
+For general dirty records, we use **Wrye Mash**, automatically cleaning them. This step is not necessary when using Morrowind Sharp.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on the following plugin:
-  - **TheMidnightOil.ESP**
+- In the **Mods** tab, CTRL+left click on the plugin you want to clean.
 - With the plugin selected, right-click and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
@@ -969,7 +864,7 @@ For specific records we want to delete, we use **TESAME**.
 
 ### Conflict resolution
 
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
+For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order. This step is not necessary when using Morrowind Sharp.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
@@ -1047,8 +942,6 @@ L | Equips lockpicks | ⭐ Security Enhanced
 P | Equips probes | ⭐ Security Enhanced
 C | Equips light sources | ⭐ Torch Hotkey
 V | Opens shader controller | ⭐ MGE XE Shader Pack
-Y | Fast forward time | Pass the Time
-Ctrl+Y | Turbo fast forward time | Pass the Time
 Up/Down | Scrolls through shaders on the shader controller menu | ⭐ MGE XE Shader Pack
 Left/Right | Disables/enables shaders on the shader controller menu | ⭐ MGE XE Shader Pack
 Alt + F4 | Creates a permanent save | ⭐ Sophisticated Save System
@@ -1058,9 +951,33 @@ Alt+Left Click | Transfer entire stack | ⭐ Morrowind Code Patch
 E+Left Click | Equips/unequips item in inventory | ⭐ Quick Equip
 E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
-Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # CHANGELOG
+
+04-05-2022
+- Removed **Silt Strider Animation Restored**.
+- Removed **Better Scamps**.
+- Removed **Correct UV Mudcrabs**.
+- Removed **Better Buoyancy**.
+- Removed **Give or Take**.
+- Removed **Pass the Time**.
+- Removed **Light Decay**.
+- Removed **Speed and Movement Rebalanced**.
+- Removed **Brutal Backstabbing**.
+- Removed **Lucky Strike - A Critical Hit Mod**.
+- Removed **Poison Crafting**.
+- Removed **Seph's Library**.
+- Removed **Seph's NPC Soul Trapping**.
+- Removed **FMI - Hospitality Papers Expanded**.
+- Removed **More Exclusive Factions**.
+- Removed **Nerevarine Service Refusal**.
+- Removed **Realistic Repair - Add-on**.
+- Removed **Qwerty's Various Graphics - Bridgeropes**.
+- Removed **Well Diversified STOTSP**.
+- Removed **The Midnight Oil - Lighting Overhaul**.
+- Removed **Wolf Helmet Replacer**.
+- Removed **Simple Golden Gold**.
+- Removed **Intelligent Textures - Simple Golden Gold**.
 
 04-05-2022
 - A blank slate.
