@@ -1,5 +1,5 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Readme](readme.md)  
+[<< Back to Setup](setup.md)  
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -9,7 +9,7 @@
 
 ### Disclaimer
 
-This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md) section before proceeding.
+This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 
 ### Abridged guide
 
@@ -732,7 +732,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 04 Qwertyquit's Textures
-- After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
+- After installation, use the **INI Editor** under **Tools** ![Tools](MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
 
 ```
 [Blood]
@@ -1086,7 +1086,7 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#re-running-distant-land) section.
 
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
 Closes Molag Mar's canton.
@@ -1222,7 +1222,7 @@ For general dirty records, we use **Wrye Mash**, automatically cleaning them.
 
 For specific records we want to delete, we use **TESAME**.
 
-- Run [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/tools.md#tesame) in Mod Organizer 2.
+- Run [**TESAME**](tools.md#tesame) in Mod Organizer 2.
 - Delete the following record from **Services Restored.ESP**:
   - NPC **hecerinde**
 - Save the plugin as **Services Restored.ESP**, overwriting the original.
@@ -1267,7 +1267,7 @@ The next step is to repair our updated save.
 
 ### Re-running Distant Land
 
-> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#distant-land-tab). Otherwise, proceed as follows.
+> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](setup.md#distant-land-tab). Otherwise, proceed as follows.
 
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -1509,5 +1509,5 @@ Shift+Activate | Activates/deactivates placed/static light sources | The Midnigh
 - Removed **OAAB Integrations**.
 </details>
 
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)  
+[<< Back to Readme](readme.md)  
+[<< Back to Setup](setup.md)  
