@@ -18,10 +18,6 @@ Files to install:
     - [X] Realistic Repair Add-on
     - [X] Ashfall
 
-[**Area Effect Projectiles Integrated**](https://www.nexusmods.com/morrowind/mods/47745)  
-An alternative version of the official plugin **Area Effect Arrows** that distributes the new projectiles throughout the game world rather than dumping them all in one shop, and includes an integrated version of BTB's Area Effect Projectiles.
-- Hide all plugins except **Area Effect Projectiles Integrated.ESP**.
-
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
@@ -39,19 +35,15 @@ Enables the BTBGI-compatible mode.
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
 ### Disabling unnecessary mods
 
 The following mods should be disabled post mod order and load order adjustment:
-- (Main) [**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)    
-  Replaced in favor of Area Effect Projectiles Integrated.
 - (Main) [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
   Replaced in favor of Morrowind Anti-Cheese Tweaked.
-- (Add-on) [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)  
-  BTBGI (Necro Edit) Tweaked already includes this mod.
 
 ### Conflict resolution
 
