@@ -309,9 +309,6 @@ Endurance determines how long you can hold your breath under water.
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)  
-Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
-
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
@@ -1011,6 +1008,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 - Removed **FMI - Hospitality Papers Expanded**.
 - Removed **More Exclusive Factions**.
 - Removed **Nerevarine Service Refusal**.
+- Removed **No Beds for the Diseased**.
 - Removed **Realistic Repair - Add-on**.
 - Removed **Qwerty's Various Graphics - Bridgeropes**.
 - Removed **Well Diversified STOTSP**.
