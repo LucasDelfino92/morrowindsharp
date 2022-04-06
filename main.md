@@ -148,9 +148,6 @@ Makes the game treat skill increases from quests as if there were raised via nor
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)  
-Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
-
 ## USER INTERFACE
 
 ### Menus
@@ -192,10 +189,6 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)  
-Adds several new options for the journal and quest pages.
-- After installation, hide the mod's **Textures** folder.
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
@@ -612,7 +605,7 @@ Closes Molag Mar's canton.
 [**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
 Opens the Vivec Arena canton.
 
-[**Link**](https://www.nexusmods.com/morrowind/mods/43714?) to original mod by **Atrayonis**, which opens *all* Vivec cantons. 
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43714?) to original mod by **Atrayonis**, which opens *all* Vivec cantons. 
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
@@ -637,37 +630,13 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 ⭐ [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
-[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)  
-Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 04 Qwertyquit's Textures
-- After installation, use the **INI Editor** under **Tools** ![Tools](MO2/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
+[**Qwerty's Various Graphics**](https://www.nexusmods.com/morrowind/mods/46026?)  
+Povides high resolution blood and bridgerope textures, which are lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
 
-```
-[Blood]
-Model 0=BloodSplat.nif
-Model 1=BloodSplat2.nif
-Model 2=BloodSplat3.nif
+Files to install:
+- **Blood** (Main files)
+- **Bridgeropes** (Main files)
 
-Texture 0=Anu\Blood\Tx_Blood.dds
-Texture 1=Anu\Blood\Tx_Blood_Dust.dds
-Texture 2=Anu\Blood\Tx_Blood_Sparks.dds
-Texture 3=Anu\Blood\Tx_Blood_Ichor.dds
-Texture 4=Anu\Blood\Tx_Blood_Ecto.dds
-Texture 5=Anu\Blood\Tx_Blood_Blue.dds
-Texture 6=Anu\Blood\Tx_Blood_Insect.dds
-Texture 7=Anu\Blood\Tx_Blood_Energy.dds
-
-Texture Name 0=Red Blood
-Texture Name 1=Dust
-Texture Name 2=Metal Sparks
-Texture Name 3=Ichor
-Texture Name 4=Ectoplasm
-Texture Name 5=Blue Blood
-Texture Name 6=Orange Blood
-Texture Name 7=Energy
-```
 ### Weather and lighting
 
 ⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
@@ -741,7 +710,9 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 ### Misc
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
-Replaces all the bookcovers, bookpages and scrolls.
+Povides high resolution bookcover, bookpage, and scroll textures, which are lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
+
+Files to install:
 
 > ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named **Tx_book_pages_**.
 
@@ -974,6 +945,12 @@ E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
 
 # CHANGELOG
+
+04-06-2022
+- Added **Qwerty's Various Graphics** (Blood and Bridgeropes).
+- Removed **Smart Journal**, because the mod simply isn't that useful compared to other QoL improvements.
+- Removed **Thrown Projectiles Revamped**, because halving the damage of thrown weapons was a bad idea.
+- Removed **MWSE Blood Diversity**, because it was more trouble than it was worth compared to a simple retexture.
 
 04-05-2022
 - A blank slate.
