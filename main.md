@@ -9,7 +9,7 @@
 
 ### Disclaimer
 
-This guide is the second step in the manual installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 
 ### Abridged guide
 
