@@ -436,7 +436,7 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
 [**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players. This version features my own personal tweaks.
+Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks.
 
 Files to install:
 
@@ -447,7 +447,7 @@ Files to install:
   - [X] Beware the Sixth House Patch
   - [X] Standard Loot Patch
 
-> ⚠️ This mod is listed solely for those who use this mod. I won't answer any questions people have about it.
+> ℹ️ Note that this mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime. For use with BTB's Game Improvements (Necro Edit) Tweaked.
@@ -909,6 +909,7 @@ For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** 
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
+- If using **BTB's Game Improvements**, place **Beware the Sixth House BTBGI Patch** after **Merged Objects.esp**. This will ensure improper record merges are overwritten by the intended custom merge.
 
 ### Updating and repairing saves
 
@@ -960,6 +961,9 @@ Category | Patch | Description
 Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
 Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
 Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
+Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
+Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
+Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
 
 # MOD KEYBINDINGS
 
