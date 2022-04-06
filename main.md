@@ -435,6 +435,27 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 ⭐ [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
+[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
+Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players. This version features my own personal tweaks.
+
+Files to install:
+
+- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Balanced Passive Races and Birthsigns Tweaked  
+  - [X] Morrowind Anti-Cheese Tweaked  
+  - [X] Beware the Sixth House Patch
+  - [X] Standard Loot Patch
+
+> ⚠️ This mod is listed solely for those who use this mod. I won't answer any questions people have about it.
+
+[**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
+Increases the penalties for crime. For use with BTB's Game Improvements (Necro Edit) Tweaked.
+- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+
+[**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
+Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with BTB's Game Improvements (Necro Edit) Tweaked.
+
 ### Survival
 
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
@@ -442,6 +463,11 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 
 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
+
+[**BTB's Game Improvements (Necro Edit) Tweaked - Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
+Includes patches for a number of mods.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Ashfall
 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
@@ -796,6 +822,12 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 - [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
 </details>
+
+[**Sneak Strike Mod Config**](mods/Sneaky%20Strike%20Mod%20Config.7z)  
+For use with **BTB's Game Improvements**. Adjusts the critical strike damage range to play better with the mod.
+
+[**Enhanced Detection Lite Mod Config**](mods/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
+For use with **BTB's Game Improvements**. Enables the BTBGI-compatible mode.
 
 ## SHADERS
 
