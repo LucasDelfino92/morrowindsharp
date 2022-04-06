@@ -464,11 +464,6 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
-[**BTB's Game Improvements (Necro Edit) Tweaked - Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
-Includes patches for a number of mods.
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Ashfall
-
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
@@ -477,6 +472,11 @@ Files to install:
 
 [**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
 Makes fire sources damage the player when standing too close to them. This mod pairs great with Ashfall, as it prevents the player from cheesing fire sources by standing right on top of them.
+
+[**BTB's Game Improvements (Necro Edit) Tweaked - Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
+Includes patches for a number of mods.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Ashfall
 
 ## VISUALS
 
@@ -992,6 +992,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 # CHANGELOG
 
 04-05-2022
+- Added **BTB's Game Improvements (Necro Edit) Tweaked**.
+- Added **Economy Adjuster Adjustments**.
+- Added **Enchanted Weapon Resistance**.
 - Removed **Silt Strider Animation Restored**.
 - Removed **Better Scamps**.
 - Removed **Correct UV Mudcrabs**.
