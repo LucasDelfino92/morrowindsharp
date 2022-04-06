@@ -37,7 +37,7 @@ The totality of the guide requires 9GB of installation space. However, Morrowind
 
 ### Is this guide compatible with OpenMW?
 
-No. No MWSE, no Morrowind Sharp.
+No. Many mods require MWSE to work.
 
 ### Is this mod compatible with Morrowind Sharp?
 
