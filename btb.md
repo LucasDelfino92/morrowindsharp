@@ -34,9 +34,9 @@ Enables the BTBGI-compatible mode.
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+[**Nerevar Rising MO2 Profile Files**](mods/Nerevar%20Rising%20MO2%20Profile%20Files.7z)  
+Adjusts mod order and load order for Nerevar Rising to work as intended.
+- Extract the files into **C:\Games\Nerevar Rising\MO2\profiles\Nerevar Rising**, overwriting when prompted.
 
 ### Disabling unnecessary mods
 
