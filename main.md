@@ -974,37 +974,6 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 # CHANGELOG
 
 04-05-2022
-- Added **BTB's Game Improvements (Necro Edit) Tweaked**.
-- Added **Economy Adjuster Adjustments**.
-- Added **Enchanted Weapon Resistance**.
-- Removed **Silt Strider Animation Restored**.
-- Removed **Better Scamps**.
-- Removed **Correct UV Mudcrabs**.
-- Removed **Better Buoyancy**.
-- Removed **Give or Take**.
-- Removed **Pass the Time**.
-- Removed **Light Decay**.
-- Removed **Speed and Movement Rebalanced**.
-- Removed **Brutal Backstabbing**.
-- Removed **Lucky Strike - A Critical Hit Mod**.
-- Removed **Poison Crafting**.
-- Removed **Seph's Library**.
-- Removed **Seph's NPC Soul Trapping**.
-- Removed **FMI - Hospitality Papers Expanded**.
-- Removed **More Exclusive Factions**.
-- Removed **Nerevarine Service Refusal**.
-- Removed **No Beds for the Diseased**.
-- Removed **Realistic Repair - Add-on**.
-- Removed **Qwerty's Various Graphics - Bridgeropes**.
-- Removed **Well Diversified STOTSP**.
-- Removed **The Midnight Oil - Lighting Overhaul**.
-- Removed **Nords Shut Your Windows**.
-- Removed **Wolf Helmet Replacer**.
-- Removed **Switchable Scriptures**.
-- Removed **Simple Golden Gold**.
-- Removed **Intelligent Textures - Simple Golden Gold**.
-
-04-05-2022
 - A blank slate.
 
 [<< Back to Readme](readme.md)  
