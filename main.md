@@ -351,7 +351,7 @@ A lua-based framework for creating new, fully functional magic effects.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Framework
 
-> ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
+> ℹ️ This framework is a pre-requisite for **MM - Enhanced Detection**.
 
 ⭐ [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
