@@ -3,17 +3,17 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# MORROWIND S#ARP
+# NEREVAR RISING
 
 ## PREAMBLE
 
 ### Disclaimer
 
-This guide is the second step in the installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of **Nerevar Rising**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 
 ### Abridged guide
 
-Because maintaining two separate guides proved to be rather difficult and tiresome, Morrowind Sharp is presented as a single, unified guide.
+Because maintaining two separate guides proved to be rather difficult and tiresome, Nerevar Rising is presented as a single, unified guide.
 However, people new to Morrowind, or simply those who want the most out of the mods they install, are encouraged to install only the starred (⭐) mods. These come highly recommended, and barely affect the game's gameplay mechanics and balance.
 
 ### Creating a separator
@@ -833,9 +833,9 @@ Eye Adaptation (HDR)
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+[**Nerevar Rising MO2 Profile Files**](mods/Nerevar%20Rising%20MO2%20Profile%20Files.7z)  
+Adjusts mod order and load order for Nerevar Rising to work as intended.
+- Extract the files into **C:\Games\Nerevar Rising\MO2\profiles\Nerevar Rising**, overwriting when prompted.
 
 ### Synchronizing mod masters
 
@@ -847,7 +847,7 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 
 ### Cleaning plugins
 
-For general dirty records, we use **Wrye Mash**, automatically cleaning them. This step is not necessary when using Morrowind Sharp.
+For general dirty records, we use **Wrye Mash**, automatically cleaning them. This step is not necessary when using Nerevar Rising.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, CTRL+left click on the plugin you want to clean.
@@ -865,7 +865,7 @@ For specific records we want to delete, we use **TESAME**.
 
 ### Conflict resolution
 
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order. This step is not necessary when using Morrowind Sharp.
+For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order. This step is not necessary when using Nerevar Rising.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
