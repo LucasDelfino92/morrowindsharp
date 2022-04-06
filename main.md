@@ -27,7 +27,7 @@ I suggest creating a separator for each mod category we will be installing. Sepa
 
 ## PATCHES
 
-### Bug fixes
+### Major fixes
 
 ⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
@@ -102,6 +102,8 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 ⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
+
+### Minor fixes
 
 [**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
