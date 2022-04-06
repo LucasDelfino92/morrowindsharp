@@ -1,5 +1,5 @@
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
+[<< Back to Readme](readme.md)  
+[<< Back to Main](main.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -7,9 +7,9 @@
 
 ## Cleaning plugins
 
-Nearing the end of **Morrowind#** you may or may not find a section of plugins that that require cleaning, separated into [**manual cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#manually-cleaning-plugins) and [**automatically cleaning**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#automatically-cleaning-plugins), and you will be redirected here.
+Nearing the end of **Morrowind Sharp** you may or may not find a section of plugins that that require cleaning, separated into [**manual cleaning**](main.md#manually-cleaning-plugins) and [**automatically cleaning**](main.md#automatically-cleaning-plugins), and you will be redirected here.
 
-We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Setup [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#tools) section. If not, go back and install them.
+We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Setup [**Tools**](setup.md#tools) section. If not, go back and install them.
 
 ### tes3cmd
 
@@ -86,5 +86,5 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 
 While you will never be asked to use this tool when following **Morrowind#**, it pays to get used to it when installing mods on your own.
 
-[<< Back to Readme](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md)
+[<< Back to Readme](readme.md)  
+[<< Back to Main](main.md)
