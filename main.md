@@ -190,18 +190,6 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
-Renames keys so they'll have a consistent naming scheme.
-
-Files to install:
-- **Consistent Keys - MWSE Version** (Main files)
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
-Renames propylon indexes so they'll group together in the inventory.
-
-[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
-Renames soulgems so they'll group together in the inventory.
-
 ### Hotkeys
 
 ⭐ [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
@@ -267,6 +255,18 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 
 ⭐ [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
+Renames keys so they'll have a consistent naming scheme.
+
+Files to install:
+- **Consistent Keys - MWSE Version** (Main files)
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
+Renames soulgems so they'll group together in the inventory.
 
 ## GAMEPLAY
 
@@ -470,7 +470,7 @@ Includes patches for a number of mods.
 
 ## VISUALS
 
-### Fonts and icons
+### Interface
 
 ⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
