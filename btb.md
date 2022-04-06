@@ -1,9 +1,3 @@
-The following mods should be disabled post mod order and load order adjustment:
-- (Main) [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-  Replaced in favor of Morrowind Anti-Cheese Tweaked.
-
-### Conflict resolution
-
 For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
 
 - Run TES3Merge in Mod Organizer 2.
