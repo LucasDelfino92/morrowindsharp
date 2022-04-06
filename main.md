@@ -41,7 +41,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 ⭐ [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
-⭐ [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks.7z)  
+⭐ [**Correct UV Rocks**](mods/Correct%20UV%20Rocks.7z)  
 Fixes UV mapping on rocks and stones.
 
 > ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
@@ -103,7 +103,7 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 ⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
-[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)  
+[**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
@@ -135,7 +135,7 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+[**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
@@ -168,7 +168,7 @@ Allows highlighting and hiding quests in the Journal questlist.
 ⭐ [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
-⭐ [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+⭐ [**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
@@ -325,7 +325,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20(Necro%20Edit).7z)  
+[**Wings of Will (Necro Edit)**](mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
@@ -469,7 +469,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 - On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-⭐ [**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Comrade%20Raven's%20Book%20Arts%20ESP%20Replacer.7z)  
+⭐ [**Comrade Raven's Book Arts Replacer (PfP Edit)**](mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
 Forwards PfP fixes to the plugin.
 
 ⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
@@ -517,7 +517,7 @@ Files to install:
 ⭐ [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-⭐ [**MET Hofix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MET%20Hotfix.7z)  
+⭐ [**MET Hofix**](mods/MET%20Hotfix.7z)  
 Hotfix for two textures which lacked mipmaps.
 
 ⭐ [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
@@ -560,7 +560,7 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 
-> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#re-running-distant-land) section.
+> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#re-running-distant-land) section.
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -698,11 +698,8 @@ Tweaks bows so that they line up better with the sheathing animation.
 ⭐ [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)  
-Forwards Patch for Purists fixes to the plugin.
+[**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. Includes fixes from Patch for Purists.
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
 Adds the missing belt to the male Imperial Steel Cuirass.
@@ -712,7 +709,7 @@ Adds the missing belt to the male Imperial Steel Cuirass.
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)  
+[**Alex's Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
 Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
@@ -756,7 +753,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## MOD CONFIG
 
-⭐ [**MWSE Config**](MWSE%20Config.7z)  
+⭐ [**MWSE Config**](mods/MWSE%20Config.7z)  
 Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 All in One: recommended option. Includes all configuration options.
@@ -803,7 +800,7 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
 ⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)  
+⭐ [**MGE XE Shader Pack**](mods/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
@@ -832,7 +829,7 @@ Eye Adaptation (HDR)
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
