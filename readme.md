@@ -1,7 +1,5 @@
 # NEREVAR RISING – A Morrowind Modding Guide
 
-Last updated: April 5th, 2022.
-
 ![Banner](pictures/banner.jpg)
 
 ## About
