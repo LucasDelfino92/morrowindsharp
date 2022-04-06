@@ -114,7 +114,6 @@ Allows the player to find the exact amount of Adamantium Ore needed to craft Bol
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Patch for Purists
-  - [X] Ownership Overhaul
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
@@ -405,6 +404,14 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Patch for Purists
+  - [X] Ownership Overhaul
+
+> ℹ️ We installed this mod earlier. We will reinstall it for compatibility with Ownership Overhaul.
 
 ### Rebalances
 
