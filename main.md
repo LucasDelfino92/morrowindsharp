@@ -766,8 +766,8 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## MOD CONFIG
 
-⭐ [**MWSE Config**](mods/MWSE%20Config.7z)  
-Includes **Mod Config** tweaks for the following mods, as well as additional edits not available through the in-game menu.
+⭐ [**Mod Config**](mods/Mod%20Config.7z)  
+Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 All in One: recommended option. Includes all configuration options.
 
@@ -794,6 +794,8 @@ Includes **Mod Config** tweaks for the following mods, as well as additional edi
   Disables automatic probe-equip on trapped object activation.
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
+- [ ] 04 Realistic Repair  
+  Disables the realistic repair mechanic, and decreases max condition of enemy loot to 20%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
 - [ ] 05 Ashfall  
