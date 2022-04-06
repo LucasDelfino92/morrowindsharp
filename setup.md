@@ -94,7 +94,7 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 
 Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
 
-[**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
+[**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z)  
 **Necrolesian**'s edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
 - Extract the contents of the file.
 - Place the contents of the **necro_distant_statics_override** folder in your **Morrowind\mge3** directory, overwriting when prompted.
