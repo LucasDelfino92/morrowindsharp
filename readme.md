@@ -39,6 +39,6 @@ The totality of the guide requires 9GB of installation space. However, Morrowind
 
 No. Many mods require MWSE to work.
 
-### Is this mod compatible with Morrowind Sharp?
+### Is this guide compatible with...?
 
 This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use TES3View and Mod Organizer 2 to check for yourself and solve conflicts.
