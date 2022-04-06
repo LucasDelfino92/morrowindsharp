@@ -42,8 +42,3 @@ No. No MWSE, no Morrowind Sharp.
 ### Is this mod compatible with Morrowind Sharp?
 
 This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use TES3View and Mod Organizer 2 to check for yourself and solve conflicts.
-
-For a short break down:
-- Tamriel Rebuilt: many of the mods featured in the guide are Vvardenfell-specific, meaning Tamriel Rebuilt will not benefit from them. But the guide should be 99% compatible.
-- Morrowind Rebirth: no.
-- Beautiful Cities of Morrowind: according to RandomPal, author of BCoM, it is. But refer to the disclaimer above.
