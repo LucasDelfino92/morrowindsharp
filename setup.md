@@ -148,6 +148,11 @@ Used to see the structure of mods and detect conflicts.
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 - Extract the contents of the file in **Nerevar Rising\Tools\TES3Merge**.
 
+Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactly to make of certain record conflicts, I've devised a set of custom rules to ensure it works as intended with the guide.
+
+[**TES3Merge Custom INI**](mods/TES3Merge.ini)  
+- Copy the contents of the file into the **TES3Merge.ini** found in your **TES3Merge** folder.
+
 ## [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
