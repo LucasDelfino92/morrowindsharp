@@ -1,4 +1,4 @@
-# MORROWIND S#ARP – A Morrowind Modding Guide
+# NEREVAR RISING – A Morrowind Modding Guide
 
 Last updated: April 5th, 2022.
 
@@ -6,7 +6,7 @@ Last updated: April 5th, 2022.
 
 ## About
 
-**Morrowind Sharp** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Morrowind Sharp is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
+**Nerevar Rising** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Nerevar Rising is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
 
 I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
