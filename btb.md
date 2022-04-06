@@ -25,17 +25,17 @@ Increases the penalties for crime.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh.
 
-[**Sneak Strike Mod Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Sneaky%20Strike%20Mod%20Config.7z)  
+[**Sneak Strike Mod Config**](mods/Sneaky%20Strike%20Mod%20Config.7z)  
 Adjusts the critical strike damage range to play better with **BTB's Game Improvements**.
 
-[**Enhanced Detection Lite Mod Config**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
+[**Enhanced Detection Lite Mod Config**](mods/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
 Enables the BTBGI-compatible mode.
 
 ## FINISHING TOUCHES
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowind-sharp/blob/master/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
