@@ -15,7 +15,6 @@ Files to install:
 - **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)  
   Includes patches for a number of mods.
   - FOMOD options to install:
-    - [X] Realistic Repair Add-on
     - [X] Ashfall
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
