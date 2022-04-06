@@ -683,6 +683,12 @@ Makes vanilla windows glow in the dark.
 ⭐ [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
+⭐ [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
+Retextures the sun to make it more realistic and detailed.
+
+Files to install:
+- **Better Sun** (Main files)
+
 ⭐ [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -696,21 +702,8 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
-[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
-Retextures the sun to make it more realistic and detailed.
-
-Files to install:
-- **Better Sun** (Main files)
-
-[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)  
-Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 03 Vanilla style sunrays  
-    Adds interior sunrays. Windows use the original vanilla stones.
-
 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
 ### Equipment
 
@@ -756,13 +749,6 @@ Replaces all the bookcovers, bookpages and scrolls.
 Model replacer for book and scroll models.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
-
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)  
-Lets you open or close any book or scroll in the game.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Closed Book Icons
-  - [X] 03 Melchior's Magnificent Manuscripts
 
 ## AUDIO
 
@@ -969,7 +955,6 @@ This is a handy reference table which will hopefully help you have a better idea
 Key | Function | Added by
 ------------ | ------------- | -------------
 Alt + Movement | Sprint | Sprinting
-B | Switch book/scroll open/close | Switchable Scriptures
 K | Orders followers to attack the current target | ⭐ Kill Command
 N | Switch between in-game/real time clock | Clocks
 L | Equips lockpicks | ⭐ Security Enhanced
@@ -1013,7 +998,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 - Removed **Qwerty's Various Graphics - Bridgeropes**.
 - Removed **Well Diversified STOTSP**.
 - Removed **The Midnight Oil - Lighting Overhaul**.
+- Removed **Nords Shut Your Windows**.
 - Removed **Wolf Helmet Replacer**.
+- Removed **Switchable Scriptures**.
 - Removed **Simple Golden Gold**.
 - Removed **Intelligent Textures - Simple Golden Gold**.
 
