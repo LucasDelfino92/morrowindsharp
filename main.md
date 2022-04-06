@@ -589,6 +589,8 @@ Closes Molag Mar's canton.
 [**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
 Opens the Vivec Arena canton.
 
+[**Link**](https://www.nexusmods.com/morrowind/mods/43714?) to original mod by **Atrayonis**, which opens *all* Vivec cantons. 
+
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
 Compatibility patches for canton mods.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -617,7 +619,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 04 Qwertyquit's Textures
-- After installation, use the **INI Editor** under **Tools** ![Tools](MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
+- After installation, use the **INI Editor** under **Tools** ![Tools](MO2/MO_ini.png) to replace the [Blood] section of your Morrowind.ini with the following:
 
 ```
 [Blood]
