@@ -53,14 +53,10 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 Greatly improves performance and fixes some mesh errors.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
-  - [X] 01 Lake Fjalding Anti-Suck  
-    Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
-  - [X] 02 Weapon Sheathing Patch  
-    Compatibility patch for Weapon Sheathing. Makes weapon sheaths show the fixed MOP weapon meshes instead of the vanilla ones.
-  - [X] 03 Chuzei Fix  
-    Fixes neck problems with the Native Chuzei Bonemold Helm.
-  - [X] 04 Better Vanilla Textures  
-    Includes several vanilla textures with fixed alphas and several other changes made specifically for MOP. Also fixes a lot of broken textures and makes textures that were supposed to be seamless actually seamless.
+  - [X] 01 Lake Fjalding Anti-Suck
+  - [X] 02 Weapon Sheathing Patch
+  - [X] 03 Chuzei Fix
+  - [X] 04 Better Vanilla Textures
 
 > ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
 
@@ -73,10 +69,8 @@ Files to install:
   - [X] 00 BATs
   - [X] 00 Core
   - [X] 01 Textures - Vanilla
-  - [X] 06 Glow in the Dahrk Patch  
-    Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
-  - [X] 07 Graphic Herbalism Patch  
-    Compatibility patch for Graphic Herbalism. Uses compatible meshes.
+  - [X] 06 Glow in the Dahrk Patch
+  - [X] 07 Graphic Herbalism Patch
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
@@ -123,7 +117,10 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
-	
+
+[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
+Avoids actors getting stuck while opening doors.
+
 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
@@ -163,7 +160,7 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 ⭐ [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
 
-⭐ [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
+⭐ [**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
 ⭐ [**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
@@ -231,7 +228,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
  
-⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+⭐ [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
 Fixes a collision bug with harvested Ash Yams.
 
 ⭐ [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
@@ -292,13 +289,10 @@ Files to install:
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
-[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
-Avoids actors getting stuck while opening doors.
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
-[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
+[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
@@ -650,11 +644,8 @@ Files to install:
 Makes vanilla windows glow in the dark.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Nord Glass Windows  
-    Replaces the wooden shuttered Nord windows in the vanilla game with glass panes.
   - [X] Raven Rock Glass Windows  
-    Raven Rock windows will glow at night. Without this, the Raven Rock buildings will be shuttered like they are in the base game.
   - [X] No Telvanni Dormers on Vvardenfell  
-    Omits the unused Telvanni dormers in settlements.
 
 ⭐ [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -672,7 +663,6 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 01 Textures 1k
   - [X] 03 Rain mesh replacer - regular
   - [X] 05 IT Vanilla sky texture replacer 1k  
-    Reworked Intelligent Textures sky textures.
 - After installation, hide the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
