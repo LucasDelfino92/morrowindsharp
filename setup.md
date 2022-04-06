@@ -2,7 +2,7 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# MORROWIND S#ARP SETUP
+# NEREVAR RISING SETUP
 
 ## Requirements
 
@@ -33,10 +33,10 @@ C:\Games\Morrowind
 ```
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 ```
-C:\Games\Morrowind Sharp
+C:\Games\Nerevar Rising
 ```
 
-> ⚠️ Make sure you don't create your Morrowind Sharp folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+> ⚠️ Make sure you don't create your Nerevar Rising folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
 
 ### Cleaning up your GOG installation
 
@@ -121,14 +121,14 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 - Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
-   - **Mods Installers directory**: select your Morrowind Sharp folder (**C:\Games\Morrowind Sharp**).
+   - **Mods Installers directory**: select your Nerevar Rising folder (**C:\Games\Nerevar Rising**).
 - Click **Next** and then click **Finish**.
 - Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support. Failing to enable this option can cause you to be unable to repair your saves.
 - Close the program.
 
 > ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we will use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Nerevar Rising**.
 
 ## [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
@@ -139,26 +139,26 @@ Used to clean plugins by automatically deleting identical-to-master records (rec
 ## [**TES3View**](mods/TES3View%204.1.4.7z)
 
 Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Morrowind Sharp\Tools\ES3View**. 
+- Extract the contents of the file in **Nerevar Rising\Tools\ES3View**. 
 
 > ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 ## [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Morrowind Sharp\Tools\TES3Merge**.
+- Extract the contents of the file in **Nerevar Rising\Tools\TES3Merge**.
 
 ## [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Morrowind Sharp\Tools\TESAME**.
+- Extract the contents of the file in **Nerevar Rising\Tools\TESAME**.
 
 ## [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 - Manually download **Mod Organizer 2** (Main files).
 - Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Sharp\MO2**).
+- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Nerevar Rising\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
 > ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
@@ -226,10 +226,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [ ] Use profile-specific Save Games.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Morrowind Sharp** profile.
+- With the **Default** profile selected, click **Copy**. Type in **Nerevar Rising** and click **OK**. Close the window.
+- On the **Profile** tab, select the **Nerevar Rising** profile.
 
-Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Nerevar Rising will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Registering tools in Mod Organizer 2
 
@@ -244,7 +244,7 @@ Follow these steps for **Wrye Mash**:
 Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp**) and double click its .exe file.
+- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Nerevar Rising**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
@@ -452,5 +452,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind Sharp >>](main.md)  
+[To Nerevar Rising >>](main.md)  
 [<< Back to Readme](readme.md)
