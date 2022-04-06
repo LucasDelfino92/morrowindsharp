@@ -358,7 +358,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
-> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#additional-mcp-patches) section.
+> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps.
@@ -386,7 +386,7 @@ Provides a configurable restriction on the amount of potions and ingredients the
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
 
-> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Re-running Distant Land**](main.md#additional-mcp-patches) section.
+> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -442,7 +442,7 @@ Files to install:
 
 > ℹ️ Note that this mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
 
-> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Re-running Distant Land**](main.md#additional-mcp-patches) section.
+> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime. For use with BTB's Game Improvements (Necro Edit) Tweaked.
@@ -451,7 +451,7 @@ Increases the penalties for crime. For use with BTB's Game Improvements (Necro E
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with BTB's Game Improvements (Necro Edit) Tweaked.
 
-> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#additional-mcp-patches) section.
+> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 ### Survival
 
