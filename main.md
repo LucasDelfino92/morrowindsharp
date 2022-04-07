@@ -684,8 +684,6 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution bookcover, bookpage, and scroll textures, which are lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
 
-Files to install:
-
 > ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named **Tx_book_pages_**.
 
 ## AUDIO
