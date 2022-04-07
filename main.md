@@ -401,14 +401,6 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Patch for Purists
-  - [X] Ownership Overhaul
-
-> ℹ️ We installed this mod earlier. We will reinstall it for compatibility with Ownership Overhaul.
-
 ### Rebalances
 
 ⭐ [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -595,9 +587,6 @@ Adds distant buildings to Mournhold, letting you see the temple from almost any 
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
-[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)  
-To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
-
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -718,11 +707,6 @@ Povides high resolution bookcover, bookpage, and scroll textures, which are lack
 Files to install:
 
 > ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named **Tx_book_pages_**.
-
-[**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)  
-Model replacer for book and scroll models.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
 
 ## AUDIO
 
@@ -948,6 +932,11 @@ E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
 
 # CHANGELOG
+
+04-07-2022
+- Removed **Divayth Fyr Puzzle Fixed Ownership Overhaul**, because the Ownership Overhaul tweaks to the containers don't make much sense (Divayth Fyr encourages you to steal from him, he shouldn't aggro because of it).
+- Removed **The Dream is the Door**, because it addresses a tiny immersion issue.
+- Removed **Melchior's Magnificent Manuscripts**, because high quality meshes aren't part of the guide.
 
 04-06-2022
 - Added **Qwerty's Various Graphics** (Blood and Bridgeropes).
