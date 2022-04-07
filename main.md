@@ -317,7 +317,49 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 ## OVERHAULS
 
-### Character progression
+### Rebalances
+
+⭐ [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
+
+⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
+Makes the Sixth House, properly, the most difficult content in the game.
+
+⭐ [**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes a number of inconsistencies with the mod's creature edits.
+
+⭐ [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
+Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+⭐ [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
+Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
+Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks.
+
+Files to install:
+
+- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Balanced Passive Races and Birthsigns Tweaked  
+  - [X] Morrowind Anti-Cheese Tweaked  
+  - [X] Beware the Sixth House Patch
+  - [X] Standard Loot Patch
+
+> ℹ️ Note that this mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
+
+> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
+
+[**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
+Increases the penalties for crime. For use with BTB's Game Improvements (Necro Edit) Tweaked.
+- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+
+[**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
+Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with BTB's Game Improvements (Necro Edit) Tweaked.
+
+> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
 Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
@@ -329,6 +371,26 @@ Attribute gains are no longer derived from level ups, but directly from skill in
 
 [**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
 Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
+
+[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
+
+> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
+
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
+
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from resting unless they activate a bed.
+
+[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
+Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
+
+[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+- After installation, hide the **Ownership Overhaul.ESP** plugin.
 
 ### Game mechanics
 
@@ -378,72 +440,6 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 
 [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
 Adds a feature-rich sprinting functionality to the game.
-
-### Anti-cheese
-
-[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
-
-> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
-
-[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
-Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-Prevents the player from resting unless they activate a bed.
-
-[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
-Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
-
-[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- After installation, hide the **Ownership Overhaul.ESP** plugin.
-
-### Rebalances
-
-⭐ [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
-
-⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game.
-
-⭐ [**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes a number of inconsistencies with the mod's creature edits.
-
-⭐ [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
-Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-⭐ [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
-Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks.
-
-Files to install:
-
-- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Balanced Passive Races and Birthsigns Tweaked  
-  - [X] Morrowind Anti-Cheese Tweaked  
-  - [X] Beware the Sixth House Patch
-  - [X] Standard Loot Patch
-
-> ℹ️ Note that this mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
-
-> ℹ️ Certain Morrowind Code Patch options are recommended for use with this mod. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
-
-[**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
-Increases the penalties for crime. For use with BTB's Game Improvements (Necro Edit) Tweaked.
-- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-
-[**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
-Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with BTB's Game Improvements (Necro Edit) Tweaked.
-
-> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
 
 ### Survival
 
@@ -548,7 +544,7 @@ Files to install:
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
-⭐ [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
+[**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
 Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
 
 ### Environment
@@ -934,6 +930,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 # CHANGELOG
 
 04-07-2022
+- Adjusted mod order from the Overhauls section.
 - Removed **Divayth Fyr Puzzle Fixed Ownership Overhaul**, because the Ownership Overhaul tweaks to the containers don't make much sense (Divayth Fyr encourages you to steal from him, he shouldn't aggro because of it).
 - Removed **The Dream is the Door**, because it addresses a tiny immersion issue.
 - Removed **Melchior's Magnificent Manuscripts**, because high quality meshes aren't part of the guide.
