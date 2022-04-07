@@ -115,6 +115,9 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
+[**Imperial Steel Cuirass Fix**](mods/Imperial%20Steel%20Cuirass%20Fix.7z)  
+Adds the missing belt to the male Imperial Steel Cuirass.
+
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
 
@@ -662,11 +665,6 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 [**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. Includes fixes from Patch for Purists.
 
-[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Adds the missing belt to the male Imperial Steel Cuirass.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Male Belt
-
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
@@ -913,6 +911,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 
 04-07-2022
 - Adjusted mod order from the Overhauls section.
+- Added **Imperial Steel Cuirass Fix** (replaces **Imperial Steel Cuirass Tweaks**).
 - Removed **Divayth Fyr Puzzle Fixed Ownership Overhaul** (the OO tweaks don't make much sense, as Divayth Fyr encourages you to steal from him).
 - Removed **The Dream is the Door** (addresses a tiny immersion issue, not needed).
 - Removed **No-Frills Closed Molag Mar** (major location overhaul which doesn't belong in the guide)
