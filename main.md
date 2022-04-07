@@ -589,22 +589,6 @@ Replaces the water in the Palace of Vivec's canals.
   - [X] 00 Core
   - [X] 01 Original Color
 
-[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)  
-Closes Molag Mar's canton.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-
-[**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)  
-Opens the Vivec Arena canton.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43714?) to original mod by **Atrayonis**, which opens *all* Vivec cantons. 
-
-[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)  
-Compatibility patches for canton mods.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 01 No-Frills Closed Molag Mar
-  - [X] 01 No-Frills Open Arena
-
 ### VFX
 
 ⭐ [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
@@ -931,15 +915,18 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 
 04-07-2022
 - Adjusted mod order from the Overhauls section.
-- Removed **Divayth Fyr Puzzle Fixed Ownership Overhaul**, because the Ownership Overhaul tweaks to the containers don't make much sense (Divayth Fyr encourages you to steal from him, he shouldn't aggro because of it).
-- Removed **The Dream is the Door**, because it addresses a tiny immersion issue.
-- Removed **Melchior's Magnificent Manuscripts**, because high quality meshes aren't part of the guide.
+- Removed **Divayth Fyr Puzzle Fixed Ownership Overhaul** (the OO tweaks don't make much sense, as Divayth Fyr encourages you to steal from him).
+- Removed **The Dream is the Door** (addresses a tiny immersion issue, not needed).
+- Removed **No-Frills Closed Molag Mar** (major location overhaul which doesn't belong in the guide)
+- Removed **No-Frills Open Arena** (see above).
+- Removed **Ownership Overhaul Patches** (no longer needed).
+- Removed **Melchior's Magnificent Manuscripts** (high quality meshes don't belong in the guide).
 
 04-06-2022
 - Added **Qwerty's Various Graphics** (Blood and Bridgeropes).
-- Removed **Smart Journal**, because the mod simply isn't that useful compared to other QoL improvements.
-- Removed **Thrown Projectiles Revamped**, because halving the damage of thrown weapons was a bad idea.
-- Removed **MWSE Blood Diversity**, because it was more trouble than it was worth compared to a simple retexture.
+- Removed **Smart Journal** (it issn't that useful compared to other QoL improvements).
+- Removed **Thrown Projectiles Revamped** (halving the damage of thrown weapons is a bad idea).
+- Removed **MWSE Blood Diversity** (I only care about the actual retexture, not the different blood types).
 
 04-05-2022
 - A blank slate.
