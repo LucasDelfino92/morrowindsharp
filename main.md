@@ -646,6 +646,12 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
+Provides a subtle, immersive, and useful visual signal for when a light source in the player's hand is about to run out: the radius of the light will gradually diminish and eventually go out when the light extinguishes.
+
+[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+
 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
@@ -903,11 +909,16 @@ Alt + F4 | Creates a permanent save | ⭐ Sophisticated Save System
 Ctrl+Left Click | Select individual item in stack in inventory | ⭐ Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | ⭐ Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | ⭐ Morrowind Code Patch
+Activate+Left Shift | Toggles light on/off | The Midnight Oil
 E+Left Click | Equips/unequips item in inventory | ⭐ Quick Equip
 E+Left Click | Use potion/ingredient in inventory | ⭐ Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Better Questlist
 
 # CHANGELOG
+
+04-09-2022
+- Added **The Midnight Oil - Lighting Overhaul**.
+- Added **Light Decay**.
 
 04-07-2022
 - Adjusted mod order from the Overhauls section.
