@@ -13,17 +13,16 @@ This guide is the second step in the installation of **Nerevar Rising**. Please 
 
 ### Abridged guide
 
-Because maintaining two separate guides proved to be rather difficult and tiresome, Nerevar Rising is presented as a single, unified guide.
-However, people new to Morrowind, or simply those who want the most out of the mods they install, are encouraged to install only the starred (⭐) mods. These come highly recommended, and barely affect the game's gameplay mechanics and balance.
+People new to Morrowind are encouraged to install only the starred (⭐) mods. These come highly recommended, make a significant impact to the whole experience, and barely affect the game's mechanics and balance.
 
 ### Creating a separator
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be. Separators can also be collapsed to keep your mod list clean and tidy.
 
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
 
-I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
+I suggest creating a separator for each mod category we will be installing (categories highlighted in CAPS).
 
 ## PATCHES
 
