@@ -395,7 +395,7 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
-### Game mechanics
+### Reworked mechanics
 
 ⭐ [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
@@ -453,16 +453,16 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete. Intended for use with Ashfall, which enables blight diseases while out in a blight storm.
 
 Files to install:
 - **Creeping Blight - MWSE Version** (Main files)
 
 [**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
-Makes fire sources damage the player when standing too close to them. This mod pairs great with Ashfall, as it prevents the player from cheesing fire sources by standing right on top of them.
+Makes fire sources damage the player when standing too close to them. Intended for use with Ashfall, as it prevents the player from cheesing fire sources by standing right on top of them.
 
 [**BTB's Game Improvements (Necro Edit) Tweaked - Patches**](https://www.nexusmods.com/morrowind/mods/50308)  
-Includes patches for a number of mods.
+Includes a patch for Ashfall.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Ashfall
 
@@ -501,8 +501,6 @@ HD recreation of the Title and Logo Intro, in widescreen.
 
 Files to install:
 - **Title Screen Reworked (Widescreen)** (Main files)
-
-> ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 
 ⭐ [**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
@@ -688,7 +686,7 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution bookcover, bookpage, and scroll textures, which are lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
 
-> ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named **Tx_book_pages_**.
+> ℹ️ Note that this mod contains lore-unfriendly textures for the books' pages. You can hide these textures, named **Tx_book_pages_**.
 
 ## AUDIO
 
@@ -937,7 +935,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | ⭐ Bette
 - Removed **MWSE Blood Diversity** (I only care about the actual retexture, not the different blood types).
 
 04-05-2022
-- A blank slate.
+- Reworked guide. A new save is recommended.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
