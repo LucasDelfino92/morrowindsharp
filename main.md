@@ -703,7 +703,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## MOD CONFIG
 
-⭐ [**Mod Config**](mods/Mod%20Config.7z)  
+⭐ [**Nerevar Rising Mod Config**](mods/Nerevar%20Rising%20Mod%20Config.7z)  
 Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 All in One: recommended option. Includes all configuration options.
