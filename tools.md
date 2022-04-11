@@ -7,9 +7,9 @@
 
 ## Cleaning plugins
 
-Nearing the end of **Nerevar Rising** you may or may not find a section of plugins that that require cleaning, separated into [**manual cleaning**](main.md#manually-cleaning-plugins) and [**automatically cleaning**](main.md#automatically-cleaning-plugins), and you will be redirected here.
+Nearing the end of **Nerevar Rising** you will find a section of plugins that [**require cleaning**](main.md#cleaning-plugins), and you will be redirected here.
 
-We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the Setup [**Tools**](setup.md#tools) section. If not, go back and install them.
+We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the [**Utilities and Tools**](setup.md#utilities-and-tools) section. If not, go back and install them.
 
 ### tes3cmd
 
@@ -23,7 +23,7 @@ There are two ways to clean plugins using tes3cmd. We will look at both of them.
 
 There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) edits. In **Morrowind#**, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
 
-> Note that if you reinstall a mod, their plugins will be dirty again, and you will have to repeat the process.
+> ℹ️ Note that if you reinstall a mod, their plugins will be dirty again, and you will have to repeat the process.
 
 ### TESAME
 
@@ -37,7 +37,7 @@ There are times when mods intentionally add duplicate-to-master records, which t
 
 The edited plugin will have overwritten the existing plugin.
 
-> TESAME doubles down as a conflict solving utility. Using TESAME, you can delete records from a mod which conflict with another mod's.
+> ℹ️ TESAME doubles down as a conflict solving utility. Using TESAME, you can delete records from a mod which conflict with another mod's.
 
 ## Updating saves
 
@@ -84,7 +84,7 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when launching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-While you will never be asked to use this tool when following **Morrowind#**, it pays to get used to it when installing mods on your own.
+> ℹ️ While you will never be asked to use this tool when following **Morrowind#**, it pays to get used to it when installing mods on your own.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Main](main.md)
