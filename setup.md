@@ -36,7 +36,7 @@ Additional, you will need a folder where to install our mod manager and keep you
 C:\Games\Nerevar Rising
 ```
 
-> ⚠️ Make sure you don't create your Nerevar Rising folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+> ⚠️ Make sure you *don't* create your Nerevar Rising folder *inside* your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
 
 ### Cleaning up your GOG installation
 
@@ -161,23 +161,23 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 ## [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
-- Manually download **Mod Organizer 2** (Main files).
-- Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Nerevar Rising\MO2**).
-- When installation has finished, uncheck the option and click **Finish**.
+- Run the downloaded **Mod Organizer 2** executable.
+- When prompted to choose an install location, choose **C:\Games\Nerevar Rising\MO2**.
+- When installation has finished, click **Finish**. Mod Organizer 2 will now launch.
 
 > ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
 ### Mod Organizer 2 initial setup
 
-- Run **ModOrganizer.exe**.
-- Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
-- You will be asked to select a game to manage. Click **Browse...** and select your Morrowind **Root** folder.
-- You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
+- The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left.
+- Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
+- You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Nerevar Rising\MO2**) is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
-- From the pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
-> ℹ️ If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
+
+> ℹ️ If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
+
+> ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
 ### Adjusting mod and load order
 
@@ -244,7 +244,7 @@ Follow these steps for **Wrye Mash**:
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and select *Add from file...*.
 - Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply** and then **OK**.
+- Click **Apply**.
 
 Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
@@ -252,6 +252,7 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 - Navigate to the folder of the tool you want to install (each found inside **C:\Games\Nerevar Rising**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
+- Click **OK** to close the window.
 
 > ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
 
