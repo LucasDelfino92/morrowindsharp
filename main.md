@@ -801,16 +801,16 @@ Adjusts mod order and load order for Nerevar Rising to work as intended.
 
 ### Cleaning plugins
 
-For general dirty records, we use **Wrye Mash**, automatically cleaning them. This step is not necessary when using Nerevar Rising.
+For general dirty records, we use [**tes3cmd**](tools.md#tes3cmd), automatically cleaning them. This step is not necessary when using Nerevar Rising.
 
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - In the **Mods** tab, CTRL+left click on the plugin you want to clean.
 - With the plugin selected, right-click and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
-For specific records we want to delete, we use **TESAME**.
+For specific records we want to delete, we use [**TESAME**](tools.md#tesame).
 
-- Run [**TESAME**](tools.md#tesame) in Mod Organizer 2.
+- Run **TESAME** in Mod Organizer 2.
 - Delete the following record from **Services Restored.ESP**:
   - NPC **hecerinde**
 - Save the plugin as **Services Restored.ESP**, overwriting the original.
