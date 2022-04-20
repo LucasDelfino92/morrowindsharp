@@ -27,7 +27,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-There are 90 highly recommended mods, 30 plugins total. The complete guide has 160 mods, 50 plugins total.
+There are 50 mods and 20 plugins total.
 
 ### How much space do I need to install these mods?
 
