@@ -23,8 +23,6 @@ I suggest creating a separator for each mod category we will be installing (cate
 
 ## PATCHES
 
-### Essential
-
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
