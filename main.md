@@ -367,7 +367,7 @@ Eye Adaptation (HDR)
 
 [**Nerevar Rising MO2 Profile Files**](mods/Nerevar%20Rising%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Nerevar Rising to work as intended.
-- Extract the files into **C:\Games\Nerevar Rising\MO2\profiles\Nerevar Rising**, overwriting when prompted.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Nerevar Rising**, overwriting when prompted.
 
 ### Synchronizing mod masters
 
