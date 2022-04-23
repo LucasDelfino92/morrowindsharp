@@ -123,7 +123,7 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 - Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
-   - **Mods Installers directory**: select your Nerevar Rising folder (**C:\Games\Nerevar Rising**).
+   - **Mods Installers directory**: select your Morrowind Mods folder (**C:\Games\Morrowind Mods**).
 - Click **Next** and then click **Finish**.
 - Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support. Failing to enable this option can cause you to be unable to repair your saves.
 - Close the program.
@@ -141,14 +141,14 @@ Used to clean plugins by automatically deleting identical-to-master records (rec
 ### [**TES3View**](mods/TES3View%204.1.4.7z)
 
 Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Nerevar Rising\Tools\ES3View**. 
+- Extract the contents of the file in **Morrowind Mods\TES3View**. 
 
 > ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 ### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Nerevar Rising\Tools\TES3Merge**.
+- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
 
 Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactly to make of certain record conflicts, I've devised a set of custom rules to ensure it works as intended with the guide.
 
@@ -158,13 +158,13 @@ Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactl
 ### [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Nerevar Rising\Tools\TESAME**.
+- Extract the contents of the file in **Morrowind Mods\TESAME**.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 - Run the downloaded **Mod Organizer 2** executable.
-- When prompted to choose an install location, choose **C:\Games\Nerevar Rising\MO2**.
+- When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
 - When installation has finished, click **Finish**. Mod Organizer 2 will now launch.
 
 > ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
@@ -173,7 +173,7 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 - The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left.
 - Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
-- You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Nerevar Rising\MO2**) is fine.
+- You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Morrowind Mods\MO2**) is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 
 
