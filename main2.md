@@ -407,6 +407,9 @@ Adds a feature-rich sprinting functionality to the game.
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
+[**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009?)  
+A lua-based framework that allows you to easily implement new complex crafting mechanics in Morrowind. This framework is a pre-requisite for **Ashfall**.
+
 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
@@ -889,6 +892,9 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+04-23-2022
+- Added **The Crafting Framework**.
 
 04-20-2022
 - Initial release.
