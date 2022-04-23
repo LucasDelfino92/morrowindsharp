@@ -33,9 +33,7 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 [**Correct UV Rocks**](mods/Correct%20UV%20Rocks.7z)  
-Fixes UV mapping on rocks and stones.
-
-> ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
+Fixes UV mapping on rocks and stones. [**Original mod by Nich**](https://mw.modhistory.com/download-56-12003).
 
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -136,9 +134,7 @@ Allows highlighting and hiding quests in the Journal questlist.
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
 [**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Original mod by RingComics**](https://www.nexusmods.com/morrowind/mods/49912). The Necro Edit includes fixes by **Necrolesian**.
 
 ### Hotkeys
 
@@ -240,7 +236,7 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 
-> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the [**Re-running Distant Land**](main.md#re-running-distant-land) section.
+> ⚠️ This mod requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
 ### Equipment
 
