@@ -379,7 +379,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
-> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main.md#additional-mcp-patches).
+> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps.
@@ -434,7 +434,7 @@ Imposes configurable skill caps for major, minor and misc skills, making the cla
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Original mod by NullCascade**](https://www.nexusmods.com/morrowind/mods/45624). The G7- Sig - Necro Edit includes tweaks by **Greatness7**, **Sigourn**, and **Necrolesian**. 
 
-> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main.md#additional-mcp-patches).
+> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -481,7 +481,7 @@ Files to install:
 
 > ℹ️ This mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
 
-> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main.md#additional-mcp-patches).
+> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime. For use with **BTB's Game Improvements**.
@@ -490,7 +490,7 @@ Increases the penalties for crime. For use with **BTB's Game Improvements**.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with **BTB's Game Improvements**.
 
-> ℹ️ Certain Morrowind Code Patch options are required to make this mod work as intended. Instructions will be given in the [**Additional MCP Patches**](main.md#additional-mcp-patches) section.
+> ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
 ## VISUALS
 
@@ -537,7 +537,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
 
-> ⚠️ This mod requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
+> ⚠️ This mod requires [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -561,7 +561,7 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 
-> ⚠️ This mod requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
+> ⚠️ This mod requires [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
