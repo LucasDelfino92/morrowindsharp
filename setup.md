@@ -132,10 +132,9 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Nerevar Rising**.
 
-### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
+### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
 Used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
 ### [**TES3View**](mods/TES3View%204.1.4.7z)
@@ -153,7 +152,7 @@ Used to solve conflicts by merging conflicting records into a separate plugin, *
 Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactly to make of certain record conflicts, I've devised a set of custom rules to ensure it works as intended with the guide.
 
 [**TES3Merge Custom INI**](mods/TES3Merge.ini)  
-- Copy the contents of the file into the **TES3Merge.ini** found in your **TES3Merge** folder.
+- Copy the file into your **TES3Merge** folder, and overwrite when prompted.
 
 ### [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
@@ -175,7 +174,6 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 - Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Morrowind Mods\MO2**) is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
-
 
 > ℹ️ If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
