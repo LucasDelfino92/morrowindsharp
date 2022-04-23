@@ -1,12 +1,25 @@
-# NEREVAR RISING – A Morrowind Modding Guide
+# NEREVAR RISING – An Elder Scrolls III: Morrowind Modlist
 
 ![Banner](pictures/banner.jpg)
 
 ## About
 
-**Nerevar Rising** is a modular modding guide for **The Elder Scrolls III: Morrowind**. Nerevar Rising is a highly compatible, highly stable, vanilla-friendly guide focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay and town overhauls, as well as the hundreds of texture and mesh replacers that make up the majority of most Morrowind modding guides.
+**Nerevar Rising** is a modular modlist for **The Elder Scrolls III: Morrowind**. It addresses a number of significant issues with the game:
 
-I've worked on this guide for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
+- Bugs and stability: includes all major bug fixes released for the game so far.
+- DLCs: reworked implementation, expansions delayed in the most immersive way possible.
+- User interface: high resolution assets, improved functionality, and expanded hotkeys.
+- Gameplay: basic quality of life improvements brought over from modern TES titles.
+- Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
+
+What this modlist doesn't do:
+
+- Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
+- Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority.
+- Nitpick over individual meshes or textures: unless it's an actual fix, this modlist won't bother. And even then, it probably won't bother either.
+- Improve the meshes and textures of everything in the game: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
+
+I've worked on this modlist for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
 [**Click here to get started**](setup.md).
 
