@@ -25,7 +25,7 @@ I've worked on this modlist for a few years already. All I ask in return is your
 
 ## My setup
 
-When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
+When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
 
 System | My Specs
 ------------ | -------------
@@ -44,12 +44,12 @@ There are 50 mods and 20 plugins total.
 
 ### How much space do I need to install these mods?
 
-The totality of the guide requires 9GB of installation space. However, Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
+Roughly 9GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
 
-### Is this guide compatible with OpenMW?
+### Is this modlist compatible with OpenMW?
 
 No. Many mods require MWSE to work.
 
-### Is this guide compatible with...?
+### Is this modlist compatible with...?
 
-This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use TES3View and Mod Organizer 2 to check for yourself and solve conflicts.
+This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use **TES3View** to check for yourself and solve conflicts.
