@@ -9,7 +9,7 @@
 
 ### Disclaimer
 
-This guide is the second step in the installation of **Nerevar Rising**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of our modlist. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 For an expanded installation, intended for experienced users, see [**Hail Resdaynia**](main2.md).
 
 ### Creating a separator
