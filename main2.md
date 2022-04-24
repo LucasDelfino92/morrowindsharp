@@ -9,7 +9,7 @@
 
 ### Disclaimer
 
-This guide is the second step in the installation of **Nerevar Rising**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of **Nerevar Rising**. Please make sure to follow the [**Setup**](setup.md) section before proceeding. For an abridged installation, intended for new users, see [**Nerevar Rising**](main.md).
 
 ### Creating a separator
 
