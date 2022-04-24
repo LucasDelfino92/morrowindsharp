@@ -68,12 +68,6 @@ Files to install:
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
-[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
-Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
-
 ## USER INTERFACE
 
 ### Visuals
@@ -111,13 +105,8 @@ HD recreation of the Title and Logo Intro, in widescreen.
 Files to install:
 - **Title Screen Reworked (Widescreen)** (Main files)
 
-[**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)  
+[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
-Adds three missing Bethesda splash screens in widescreen resolution.
-- On MO2 installation, create a **Splash** folder.
-- Move the **.tga** files inside.
 
 ### Menus
 
@@ -242,6 +231,9 @@ Adds groundcover to almost all regions.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+
+Files to install:
+- **WeaponSheathing1.6-MWSE** (Main files)
 - On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
@@ -365,22 +357,7 @@ Eye Adaptation (HDR)
 Adjusts mod order and load order for Nerevar Rising to work as intended.
 - Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Nerevar Rising**, overwriting when prompted.
 
-### Synchronizing mod masters
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
-- Once the window has closed, click on the **Save** button further below the same panel.
-- Repeat this process for each of the faulty plugins.
-
 ### Conflict resolution
-
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order. This step is not necessary when using Nerevar Rising.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-- **multipatch.esp** will now be present at the end of your load order.
 
 For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
 
@@ -451,6 +428,14 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+04-23-2022
+- Updated link to **Widescreen Splash Replacer**.
+- Removed **Memory Monitor** (with the current setup it should be pretty much impossible to run into memory issues).
+- Removed **Sophisticated Save System** (not everyone's cup of tea).
+- Removed **Widescreen Splash Additions** (prioritize is to get the existing ones improved).
+- Removed **Synchronizing mod masters** (not needed for this modlist).
+- Removed **tes3cmd** conflict solving (not needed for this modlist).
 
 04-20-2022
 - Abridged guide for new users.
