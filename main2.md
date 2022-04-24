@@ -338,9 +338,6 @@ Takes into account the distance to target when calculating the hit chance for ra
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
-[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
-Allows Soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
-
 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 Modifies critical strike coefficient depending on the weapon you use.
 
@@ -428,9 +425,6 @@ Balances and improves the vanilla default classes. Improves selection of armor a
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
 Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
 
-[**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
-Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
-
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Original mod by NullCascade**](https://www.nexusmods.com/morrowind/mods/45624). The G7- Sig - Necro Edit includes tweaks by **Greatness7**, **Sigourn**, and **Necrolesian**. 
 
@@ -441,9 +435,6 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
-
-[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)  
-Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -891,8 +882,13 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # CHANGELOG
 
+04-24-2022
+- Removed **Smarter Soultrap** (takes away what I feel is the interesting aspects of carefully managing your Soul Gems).
+- Removed **Reactive Resistance** (it would make many encounters much easier than in vanilla).
+- Removed **Class Skill Limit** (the tweaks from BTB's Game Improvements, as well as CCCP, already address leveling in a sensible way).
+
 04-23-2022
-- Added **The Crafting Framework**.
+- Added **The Crafting Framework** (required by Ashfall).
 
 04-20-2022
 - Initial release.
