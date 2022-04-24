@@ -80,12 +80,44 @@ Repository for the Beta update for the Morrowind Code Patch. Despite being a bet
 
 > ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
+### [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+
+The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
+
+- Manually download **MGE XE Installer** (Main files).
+- Extract the contents of the file and run the **MGE XE Installer.exe**.
+- When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
+- When installation has finished, uncheck the option to launch MGE XE Config and click **Finish**.
+- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
+
+> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
+
+### [**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z)  
+
+Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
+
+The custom static overrides linked above account for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
+
+- Extract the contents of the file.
+- Place the contents of the **necro_distant_statics_override** folder in your **Morrowind\mge3** directory, overwriting when prompted.
+
+This file contemplates the following landscape-altering scenarios:
+
+- The completion of the Main Quest.
+- The completion of Bloodmoon's Main Quest.
+- The progress and completion of Boethiah's Daedric Quest.
+- The completion of the Siege at Firemoth official plugin.
+- The completion of the construction of each Great House Stronghold.
+- The completion of Raven Rock's construction.
+
+> ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
+
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
 Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck the option and click **Finish**.
+- When installation has finished, uncheck the option to launch Wrye Mash and click **Finish**.
 - Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 - Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
@@ -196,11 +228,11 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 - Click the **Configure profiles** ![Profiles](MO2/MO_Profiles.png) button.
 - Check the following options:
-  - [X] Use profile-specific Game INI files.
   - [ ] Use profile-specific Save Games.
+  - [X] Use profile-specific Game INI files.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Nerevar Rising** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Nerevar Rising** profile.
+- With the **Default** profile selected, click **Copy**. Type in **Nerevar Rising** and click **OK**.
+- With the **Nerevar Rising** profile highlighted, click **Select**. Close the window.
 
 Nerevar Rising will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
@@ -226,38 +258,6 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 - Click **OK** to close the window.
 
 > ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
-
-### [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
-
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
-
-- Manually download **MGE XE Installer** (Main files).
-- Extract the contents of the file and run the **MGE XE Installer.exe**.
-- When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck both options and click **Finish**.
-- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
-
-> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
-
-### [**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z)  
-
-Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
-
-The custom static overrides linked above account for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-
-- Extract the contents of the file.
-- Place the contents of the **necro_distant_statics_override** folder in your **Morrowind\mge3** directory, overwriting when prompted.
-
-This file contemplates the following landscape-altering scenarios:
-
-- The completion of the Main Quest.
-- The completion of Bloodmoon's Main Quest.
-- The progress and completion of Boethiah's Daedric Quest.
-- The completion of the Siege at Firemoth official plugin.
-- The completion of the construction of each Great House Stronghold.
-- The completion of Raven Rock's construction.
-
-> ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 
 ### Configuring MGE XE in Mod Organizer 2
 
