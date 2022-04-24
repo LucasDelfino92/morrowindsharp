@@ -459,5 +459,13 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
+We've just covered the first step, which is to get our Morrowind and tools set up. From this point on, the guide splits into two separate options.
+
+- The first option is **Nerevar Rising**, the modlist proper as advertised on the readme. It is meant for players new to the game, or those who simply like a more vanilla approach to Morrowind.
+- The second option is **Hail Resdaynia**, an expanded modlist meant for experienced players, or those who want an overhauled approach to Morrowind. Note that, visually speaking, both modlists are very similar to each other – the key differences lie in the gameplay.
+
+Whichever option you choose to pursue, you will thorough instructions on how to install these modlists.
+
 [To Nerevar Rising >>](main.md)  
+[To Hail Resdaynia >>](main2.md)  
 [<< Back to Readme](readme.md)
