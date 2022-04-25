@@ -320,13 +320,6 @@ Renames soulgems so they'll group together in the inventory.
 
 ### Tweaks
 
-[**Absorb Effects Rebalanced**](https://www.nexusmods.com/morrowind/mods/50941)  
-Absorb Health effect spells will no longer work against the enemy if the caster has full health. The optional plugin gives vampire casters a Fortify Health buff based on the magnitude of the effect.
-
-Files to install:
-- **Absorb Rebalanced** (Main files)
-- **Optional Files for Vampires** (Optional files)
-
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
@@ -388,26 +381,6 @@ Allows you to have a chance to successfully detect traps and locks based on your
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps.
 
-### Survival
-
-[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)  
-A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
-
-[**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009?)  
-A lua-based framework that allows you to easily implement new complex crafting mechanics in Morrowind. This framework is a pre-requisite for **Ashfall**.
-
-[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
-A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
-
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)  
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete. Intended for use with Ashfall, which enables blight diseases while out in a blight storm.
-
-Files to install:
-- **Creeping Blight - MWSE Version** (Main files)
-
-[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)  
-Makes fire sources damage the player when standing too close to them. Intended for use with Ashfall, as it prevents the player from cheesing fire sources by standing right on top of them.
-
 ## OVERHAULS
 
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
@@ -458,9 +431,6 @@ Files to install:
   - [X] Morrowind Anti-Cheese Tweaked  
   - [X] Beware the Sixth House Patch
   - [X] Standard Loot Patch
-- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Ashfall
 
 > ℹ️ This mod includes its own compatible version of **Morrowind Anti-Cheese**, meaning you should uninstall the version listed earlier.
 
@@ -601,6 +571,9 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 05 IT Vanilla sky texture replacer 1k  
 - After installation, hide the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
 
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
+Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete.
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
@@ -695,12 +668,10 @@ Includes configuration for the following mods, as well as additional edits not a
   Disables the realistic repair mechanic, and decreases max condition of enemy loot to 20%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 05 Ashfall  
-  Enables death by hunger and thirst; disables potion hydration; slows down tiredness rate by 20%.
 - [ ] 06 Let There Be Darkness  
   Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
 - [ ] 06 Watch the Skies  
-  Sets the chance for vanilla cloud textures to 10%; disables seasonal weather and seasonal daytime hours.
+  Sets the chance for vanilla cloud textures to 10%.
 - [ ] 06 Weather Adjuster  
   Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
 </details>
@@ -879,8 +850,14 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Moved **Sprinting** to Gameplay QOL.
 - Moved **Realistic Repair** to Overhauls.
 - Moved **Distant Mournhold** and **Remiros' Groundcover** to a Distant Land section in Visuals.
+- Removed **Absorb Effects Rebalanced**.
 - Removed **Buying Game**.
 - Removed **Silver Tongue**.
+- Removed **Skills Module**.
+- Removed **The Crafting Framework**.
+- Removed **Ashfall - A Camping Survival and Needs Mod** (dramatically changes the gameplay loop of the game, and at this point I can't really say it's for the best; these kind of mods can be very divisive).
+- Removed **Creeping Blight** (re-enabled Watch the Skies' seasonal weather's feature instead).
+- Removed **Real Fire Damage - MWSE Edition**.
 - Removed **Familiar Faces by Caleb**.
 
 04-24-2022
