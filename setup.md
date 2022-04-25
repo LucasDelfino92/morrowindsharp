@@ -64,7 +64,7 @@ In addition, we will install a mod manager to help us keep our mods organized, a
 
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
 - Manually download **Morrowind Code Patch** (Main files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **Morrowind Code Patch.exe** in the same folder as your **Morrowind.exe**.
 
 ### [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348)
 
