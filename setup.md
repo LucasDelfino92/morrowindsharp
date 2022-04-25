@@ -70,11 +70,11 @@ Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot oth
 
 Repository for the Beta update for the Morrowind Code Patch. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 - Manually download **MCP beta** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update the Morrowind Code Patch to the latest beta version.
 
 ### Morrowind Code Patch setup
 
-- Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
+- Execute **Morrowind Code Patch.exe**, found in your Morrowind **Root** folder (**C:\Games\Morrowind**)
 - The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Click **Apply chosen patches** when you are finished. Close the application.
 
@@ -99,7 +99,7 @@ Because Morrowind wasn't designed with distant land in mind, certain in-game sce
 The custom static overrides linked above account for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
 
 - Extract the contents of the file.
-- Place the contents of the **necro_distant_statics_override** folder in your **Morrowind\mge3** directory, overwriting when prompted.
+- Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory, overwriting when prompted.
 
 This file contemplates the following landscape-altering scenarios:
 
@@ -118,11 +118,11 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck the option to launch Wrye Mash and click **Finish**.
-- Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
-- Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
+- Download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files) from the same page linked above.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update Wrye Mash to the latest beta version.
+- Execute **mash64.exe**, found in your **C:\Games\Morrowind\Mopy** folder.
 - Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
+   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that **morrowind.ini** and the **Data files** folder were found.
    - **Mods Installers directory**: select your Morrowind Mods folder (**C:\Games\Morrowind Mods**).
 - Click **Next** and then click **Finish**.
 - Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support. Failing to enable this option can cause you to be unable to repair your saves.
@@ -135,29 +135,29 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 ### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
 Used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
+- Place tes3cmd.exe in your **C:\Games\Morrowind\Data Files** folder.
 
 ### [**TES3View**](mods/TES3View%204.1.4.7z)
 
 Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
+- Extract the contents of the file in your **Morrowind Mods\TES3View** folder. 
 
 > ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 ### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
+- Extract the contents of the file in your **Morrowind Mods\TES3Merge** folder.
 
 Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactly to make of certain record conflicts, I've devised a set of custom rules to ensure it works as intended with the guide.
 
 [**TES3Merge Custom INI**](mods/TES3Merge.ini)  
-- Copy the file into your **TES3Merge** folder, and overwrite when prompted.
+- Overwrite the contents of your TES3Merge.ini found in your **Morrowind Mods\TES3Merge** folder with those from the .ini linked above.
 
 ### [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
+- Extract the contents of the file in your **Morrowind Mods\TESAME** folder.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
