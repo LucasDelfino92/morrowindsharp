@@ -491,8 +491,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 Files to install:
 - **kart_facelift_meshes** (Main files)
 
-> ℹ️ **Facelift** doesn't include hair and Khajiit meshes, hence why **Familiar Faces** is still recommended for installation.
-
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
