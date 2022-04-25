@@ -608,7 +608,7 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 
 ### Misc
 
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
+[**Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
 
 > ℹ️ This mod contains lore-unfriendly textures for the books' pages. You can hide the textures named **Tx_book_pages_** in Data Files\Textures.
@@ -619,13 +619,6 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 Files to install:
 - **Mist Retexture** (Main files)
 
-[**Qwerty's Various Graphics**](https://www.nexusmods.com/morrowind/mods/46026?)  
-Povides high resolution textures for blood and bridgeropes, which were lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
-
-Files to install:
-- **Blood** (Main files)
-- **Bridgeropes** (Main files)
-
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -634,6 +627,13 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+[**Various Graphics**](https://www.nexusmods.com/morrowind/mods/46026?)  
+Povides high resolution textures for blood and bridgeropes, which were lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
+
+Files to install:
+- **Blood** (Main files)
+- **Bridgeropes** (Main files)
 
 ### Distant Land
 
