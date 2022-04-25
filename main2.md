@@ -64,6 +64,7 @@ Files to install:
   - [X] 01 Textures - Vanilla
   - [X] 06 Glow in the Dahrk Patch
   - [X] 07 Graphic Herbalism Patch
+- **Hotfix 0.7.2** (Update files)
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
@@ -300,6 +301,9 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
+[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
+Adds a feature-rich sprinting functionality to the game.
+
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
 
@@ -367,6 +371,9 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
@@ -380,22 +387,6 @@ Allows you to have a chance to successfully detect traps and locks based on your
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps.
-
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-Damages NPCs' equipped gear on death, helping balance economy.
-- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
-
-[**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)  
-Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
-
-[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)  
-Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
-
-[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
-Adds a feature-rich sprinting functionality to the game.
 
 ### Survival
 
@@ -419,12 +410,6 @@ Makes fire sources damage the player when standing too close to them. Intended f
 
 ## OVERHAULS
 
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
-Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
-
-[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
-Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
-
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Original mod by NullCascade**](https://www.nexusmods.com/morrowind/mods/45624). The G7- Sig - Necro Edit includes tweaks by **Greatness7**, **Sigourn**, and **Necrolesian**. 
 
@@ -433,8 +418,15 @@ Provides a configurable restriction on the amount of potions and ingredients the
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
+[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
+
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
+
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
+Damages NPCs' equipped gear on death, helping balance economy.
+- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -474,6 +466,12 @@ Files to install:
 
 > ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
+Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
+
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
+
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime. For use with **BTB's Game Improvements**.
 - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
@@ -486,9 +484,6 @@ Changes all enchanted weapons Ignore normal weapon resistance flag to be the sam
 ## VISUALS
 
 ### Texture packs
-
-[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
@@ -525,11 +520,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-
-> ⚠️ This mod requires [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
-
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -544,15 +534,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 00 Meshes
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
-
-[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
-Adds groundcover to almost all regions.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core MGE XE
-  - [X] 01b Thicker Grass MGE XE
-- After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
-
-> ⚠️ This mod requires [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
 Replaces the water in the Palace of Vivec's canals.
@@ -655,6 +636,20 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+### Distant Land
+
+> ⚠️ These mods require [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
+
+[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
+Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
+Adds groundcover to almost all regions.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core MGE XE
+  - [X] 01b Thicker Grass MGE XE
+- After installation, *disable* (do not hide or delete) all of the mod's plugins in your load order.
 
 ## AUDIO
 
@@ -881,6 +876,16 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+04-25-2022
+- Added **Hotfix 0.7.2** to Project Atlas.
+- Re-added **Harder Barter (Sig Edit)**.
+- Moved **Sprinting** to Gameplay QOL.
+- Moved **Realistic Repair** to Overhauls.
+- Moved **Distant Mournhold** and **Remiros' Groundcover** to a Distant Land section in Visuals.
+- Removed **Buying Game**.
+- Removed **Silver Tongue**.
+- Removed **Familiar Faces by Caleb**.
 
 04-24-2022
 - Removed **Smarter Soultrap** (takes away what I feel is the interesting aspects of carefully managing your Soul Gems).
