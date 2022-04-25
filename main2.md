@@ -572,7 +572,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 - After installation, hide the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete.
+Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete. For a standalone implementation of said feature, check out [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904).
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
