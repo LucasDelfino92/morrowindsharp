@@ -544,17 +544,17 @@ Replaces the water in the Palace of Vivec's canals.
 [**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. [**Original mod by Kahkahra**](https://mw.modhistory.com/download-4-12572). The PfP Edit includes Patch for Purists fixes.
 
-[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
+[**Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
 Includes Patch for Purists fixes, and removes edits to cuirasses that already had a female variant in Tribunal.
-
-[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
-Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
+
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
+Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
