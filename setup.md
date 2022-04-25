@@ -268,6 +268,8 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 
 ![Screenshot](pictures/In-game.png)
 
+> ℹ️ **Disable MGE in-game** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to enable basic visual features such as resolution changes, antialiasing, anisotropic filtering, and VSync in the **Graphics** tab.
+
 > ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ### Config tab
