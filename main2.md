@@ -503,14 +503,6 @@ Compatibility patch for Morrowind Enhanced Textures.
 Files to install:
 - **Textures - MET** (Main files)
 
-### NPCs
-
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
-
-[**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
-Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
-
 ### Environment
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -566,6 +558,12 @@ Tweaks bows so that they line up better with the sheathing animation.
 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
 Adds sheaths to weapons not covered by Weapon Sheathing.
+
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+
+[**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
+Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
 
 ### Weather and lighting
 
