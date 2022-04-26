@@ -22,7 +22,7 @@ I suggest creating a separator for each mod category we will be installing (cate
 
 ## PATCHES
 
-### Essential
+### Essential fixes
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
@@ -79,7 +79,7 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
-### Optional plugin fixes
+### Additional fixes
 
 [**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. [**Original mod by Half11**](https://www.nexusmods.com/morrowind/mods/47068). The PfP Edit includes Patch for Purists fixes.
@@ -92,6 +92,11 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
+[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
+Adds shrines and Almsivi Intervention markers to temples that were missing them.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Vanilla Ghostgate
+
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
@@ -101,7 +106,7 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
-### Optional mesh fixes
+### Additional mesh fixes
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures that weren't displayed for technical reasons.
@@ -118,16 +123,13 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 - On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-### Optional MWSE fixes
+### Additional MWSE fixes
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
 
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
-
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
 
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
@@ -138,9 +140,6 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
-[**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. [**Original mod by R-Zero**](https://www.nexusmods.com/morrowind/mods/45742). The Necro Edit includes fixes by **Necrolesian**.
-
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
@@ -149,7 +148,7 @@ Fixes several engines related to GMSTs used when raising skills via NPC training
 
 ## USER INTERFACE
 
-### Visuals
+### High resolution UI
 
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
@@ -197,7 +196,7 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Original Blue Color
 
-### Menus
+### UI additions and improvements
 
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
@@ -286,11 +285,6 @@ Makes picking a glowing plant also remove the glow-light.
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
-[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
-Adds shrines and Almsivi Intervention markers to temples that were missing them.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Vanilla Ghostgate
-
 [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 - After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
@@ -323,6 +317,9 @@ Renames soulgems so they'll group together in the inventory.
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
+
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
@@ -331,6 +328,9 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+
+[**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. [**Original mod by R-Zero**](https://www.nexusmods.com/morrowind/mods/45742). The Necro Edit includes fixes by **Necrolesian**.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -342,12 +342,12 @@ Modifies critical strike coefficient depending on the weapon you use.
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
-Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
+Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
 [**Wings of Will (Necro Edit)**](mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed. [**Original mod by Sataniel**](https://www.nexusmods.com/morrowind/mods/46626). The Necro Edit includes fixes by **Necrolesian**.
 
-### Mechanics
+### Revamped mechanics
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **MM - Enhanced Detection**.
@@ -360,7 +360,7 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
   - [X] 00 - Core
 
 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
-Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
+Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
@@ -392,13 +392,16 @@ Provides a configurable restriction on the amount of potions and ingredients the
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything. [**Original mod by mort**](https://www.nexusmods.com/morrowind/mods/46188). The Sig Edit includes fixes by **Sigourn**:
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
 
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
+Prevents the player from renting beds if diseased, be it common, Blight, or Corprus disease.
+
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-Damages NPCs' equipped gear on death, helping balance economy.
+Damages NPCs' equipped gear on death, helping balance economy by nerfing one of the biggest sources of player income.
 - After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
@@ -485,7 +488,7 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
-[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)  
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678)  
 Adds a banner displaying the family name of every Ancestral Tomb in Vvardenfell.
 
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
@@ -500,6 +503,36 @@ Replaces the water in the Palace of Vivec's canals.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Original Color
+
+### Misc retextures
+
+[**Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
+Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
+
+> ℹ️ This mod contains lore-unfriendly textures for the books' pages. You can hide the textures named **Tx_book_pages_** in Data Files\Textures.
+
+[**Blood Retexture**](https://www.nexusmods.com/morrowind/mods/46026)  
+Improves the texture for blood, so that it doesn't look like a puff of red dust.
+
+[**Bridgeropes Retexture**](https://www.nexusmods.com/morrowind/mods/46026?)  
+Improves the texture for bridgeropes, which was lacking detail compared to the other textures from Morrowind Enhanced Textures.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 01 Dark
+
+[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+
+Files to install:
+- **Mist Retexture** (Main files)
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] fade  
+    Non-moving effect that fades in and out.
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ### Equipment
 
@@ -554,7 +587,7 @@ Makes vanilla windows glow in the dark.
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
-Provides a subtle, immersive, and useful visual signal for when a light source in the player's hand is about to run out: the radius of the light will gradually diminish and eventually go out when the light extinguishes.
+The radius of light sources will gradually diminish and eventually go out when the light extinguishes.
 
 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
@@ -575,38 +608,9 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete. For a standalone implementation of said feature, check out [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904).
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
-Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
+Visual weather editor which allows for user-made presets.
 
-### Misc
-
-[**Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
-Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
-
-> ℹ️ This mod contains lore-unfriendly textures for the books' pages. You can hide the textures named **Tx_book_pages_** in Data Files\Textures.
-
-[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
-Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-
-Files to install:
-- **Mist Retexture** (Main files)
-
-[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] fade  
-    Non-moving effect that fades in and out.
-
-[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
-Makes it so many smoke effects are much more laid back and easier on the eyes.
-
-[**Various Graphics**](https://www.nexusmods.com/morrowind/mods/46026?)  
-Povides high resolution textures for blood and bridgeropes, which were lacking compared to the rest of the upscaled textures from Morrowind Enhanced Textures.
-
-Files to install:
-- **Blood** (Main files)
-- **Bridgeropes** (Main files)
-
-### Distant Land
+### Distant land
 
 > ⚠️ These mods require [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
 
@@ -847,6 +851,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 04-25-2022
 - Added **Hotfix 0.7.2** to Project Atlas.
 - Re-added **Harder Barter (Sig Edit)**.
+- Re-added **No Beds for the Diseased**.
 - Moved **Sprinting** to Gameplay QOL.
 - Moved **Realistic Repair** to Overhauls.
 - Moved **Distant Mournhold** and **Remiros' Groundcover** to a Distant Land section in Visuals.
