@@ -547,6 +547,9 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+
+Files to install:
+- **WeaponSheathing1.6-MWSE** (Main files)
 - On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
