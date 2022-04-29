@@ -164,7 +164,7 @@ Used to clean plugins and solve conflicts by manually deleting conflicting or di
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
 - Run the downloaded **Mod Organizer 2** executable.
 - When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
-- When installation has finished, click **Finish**. Mod Organizer 2 will now launch.
+- When installation has finished, click **Finish**. Mod Organizer 2's instance manager will now launch.
 
 > ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
@@ -270,6 +270,8 @@ Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
 
 > ℹ️ **Disable MGE in-game** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to change your resolution in the **Graphics** tab.
 
+> ⚠️ Do note that certain mods *require* MGE XE to work as intended, and your game may crash with MGE disabled in-game.
+
 > ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
 ### Config tab
@@ -354,8 +356,6 @@ It's time to finally run Morrowind.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 - Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
