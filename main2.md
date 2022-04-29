@@ -68,6 +68,8 @@ Files to install:
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
+> ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk** or omit installing the patch for now.
+
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
@@ -166,7 +168,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 - On MO2 installation, right-click on **Data Files**.
 - Click **Set as data files directory** and click **OK**.
 
-[**Comrade Raven's Book Arts Replacer (PfP Edit)**](mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
+[**Comrade Raven's Book Arts (PfP Edit)**](mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
 Includes Patch for Purists fixes.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
@@ -183,7 +185,7 @@ HD recreation of the Title and Logo Intro, in widescreen.
 Files to install:
 - **Title Screen Reworked (Widescreen)** (Main files)
 
-[**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
+[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
@@ -191,7 +193,7 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 - On MO2 installation, create a **Splash** folder.
 - Move the **.tga** files inside.
 
-[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)  
+[**Magic Icons (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Original Blue Color
@@ -219,7 +221,7 @@ Restores the class description tooltip to the class selection menu, making it ea
 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
 Adds a clock to the UI that displays either game world time or real time.
 
-[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136)  
+[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
@@ -323,7 +325,7 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
-[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
+[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
@@ -468,7 +470,7 @@ Files to install:
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
 [**MET Hotfix**](mods/MET%20Hotfix.7z)  
-Hotfix for two textures wood which lacked mipmaps, leading to odd aliasing.
+Hotfix for two textures wood which lacked mipmaps, leading to odd aliasing, as well as a Nord head mesh that pointed to an incorrect filepath.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
@@ -506,18 +508,10 @@ Replaces the water in the Palace of Vivec's canals.
 
 ### Misc retextures
 
-[**Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
+[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
 
 > ℹ️ This mod contains lore-unfriendly textures for the books' pages. You can hide the textures named **Tx_book_pages_** in Data Files\Textures.
-
-[**Blood Retexture**](https://www.nexusmods.com/morrowind/mods/46026)  
-Improves the texture for blood, so that it doesn't look like a puff of red dust.
-
-[**Bridgeropes Retexture**](https://www.nexusmods.com/morrowind/mods/46026?)  
-Improves the texture for bridgeropes, which was lacking detail compared to the other textures from Morrowind Enhanced Textures.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 01 Dark
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
@@ -539,10 +533,10 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 [**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. [**Original mod by Kahkahra**](https://mw.modhistory.com/download-4-12572). The PfP Edit includes Patch for Purists fixes.
 
-[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
+[**Alex's Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
 Includes Patch for Purists fixes, and removes edits to cuirasses that already had a female variant in Tribunal.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
@@ -847,6 +841,10 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+04-29-2022
+- Removed **Blood Retexture**.
+- Removed **Bridgeropes Retexture**.
 
 04-25-2022
 - Added **Hotfix 0.7.2** to Project Atlas.
