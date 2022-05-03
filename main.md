@@ -63,6 +63,8 @@ Files to install:
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
+> ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk** or omit installing the patch for now.
+
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
@@ -112,6 +114,8 @@ Replaces the default splash screens with better quality widescreen versions (16:
 
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
+
+> ℹ️ The dialog menu component, toggleable from the mod's configuration menu, highlights topics with unseen unique dialogue. For a closer to vanilla experience, you may want to disable this component.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -191,7 +195,7 @@ Files to install:
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
 [**MET Hotfix**](mods/MET%20Hotfix.7z)  
-Hotfix for two textures which lacked mipmaps.
+Hotfix for two textures wood which lacked mipmaps, leading to odd aliasing, as well as a Nord head mesh that pointed to an incorrect filepath.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
@@ -218,14 +222,22 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
-Adds groundcover to almost all regions.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core MGE XE
-  - [X] 01b Thicker Grass MGE XE
-- After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
+### Misc retextures
 
-> ⚠️ This mod requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
+[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+
+Files to install:
+- **Mist Retexture** (Main files)
+
+[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] fade  
+    Non-moving effect that fades in and out.
+
+[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
+Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ### Equipment
 
@@ -258,22 +270,16 @@ Configurable mod for automatic adjustment of lighting, including override values
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
-### Misc
+### Distant land
 
-[**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
-Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+> ⚠️ These mods require [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
-Files to install:
-- **Mist Retexture** (Main files)
-
-[**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
+Adds groundcover to almost all regions.
 - On MO2 installation, check the following options in the BAIN installer:
-  - [X] fade  
-    Non-moving effect that fades in and out.
-
-[**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
-Makes it so many smoke effects are much more laid back and easier on the eyes.
+  - [X] 00 Core MGE XE
+  - [X] 01b Thicker Grass MGE XE
+- After installation, *disable* (do not hide or delete) all of the mod's plugins in your load order.
 
 ## AUDIO
 
