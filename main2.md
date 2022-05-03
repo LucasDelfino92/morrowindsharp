@@ -206,6 +206,8 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
+> ℹ️ The dialog menu component, toggleable from the mod's configuration menu, highlights topics with unseen unique dialogue. For a closer to vanilla experience, you may want to disable this component.
+
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
@@ -511,7 +513,12 @@ Replaces the water in the Palace of Vivec's canals.
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
 
-> ℹ️ This mod contains lore-unfriendly textures for the books' pages. You can hide the textures named **Tx_book_pages_** in Data Files\Textures.
+> ℹ️ This mod contains lore-unfriendly textures for the books' pages, notably, the depiction of Jesus Christ in one of the textures. For consistency, you may wish to hide all textures related to book pages. For the most egregious examples, I suggest hiding the following textures. 
+
+```
+textures\tx_book_pages_03.dds
+textures\tx_book_pages_08.dds
+```
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
@@ -599,7 +606,22 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   - [X] 01 Textures 1k
   - [X] 03 Rain mesh replacer - regular
   - [X] 05 IT Vanilla sky texture replacer 1k  
-- After installation, hide the **textures\tew\Watch the Skies\blight\tew_blight_3.dds** and **textures\tew\Watch the Skies\foggy\tew_foggy_6.dds** files. These sky textures are very jarring when compared with the rest.
+
+> ℹ️ Some of the sky textures included in this mod can be very jarring. I suggest hiding the following textures.
+
+```
+textures\tew\Watch the Skies\ash\tew_ash_8.dds
+textures\tew\Watch the Skies\ash\tew_ash_9.dds
+textures\tew\Watch the Skies\ash\tew_ash_10.dds
+textures\tew\Watch the Skies\ash\tew_ash_11.dds
+textures\tew\Watch the Skies\ash\tew_ash_14.dds
+textures\tew\Watch the Skies\blight\tew_blight_3.dds
+textures\tew\Watch the Skies\blight\tew_blight_10.dds
+textures\tew\Watch the Skies\blight\tew_blight_11.dds
+textures\tew\Watch the Skies\clear\tew_clear_7.dds
+textures\tew\Watch the Skies\foggy\tew_foggy_6.dds
+textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
+```
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
 Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete. For a standalone implementation of said feature, check out [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904).
@@ -844,6 +866,11 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+05-02-2022
+- Elaborated on blacklist of **Arukkins Better Books and Scrolls** textures.
+- Expanded blacklist of **Watch the Skies** textures.
+- Added small note to **UI Expansion**.
 
 04-29-2022
 - Removed **Blood Retexture**.
