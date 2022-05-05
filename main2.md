@@ -669,6 +669,8 @@ Includes configuration for the following mods, as well as additional edits not a
 
 - [ ] 01 Sophisticated Save System  
   Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
+- [ ] 01 Loading Doors Lock Tune  
+  Disables MWSE logging.
 - [ ] 02 Clocks
   Sets the clock type to game time.
 - [ ] 02 Continue  
@@ -681,6 +683,8 @@ Includes configuration for the following mods, as well as additional edits not a
   Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
 - [ ] 02 UI Expansion  
   Disables auto-select search bar, disables verbose buttons in favor of icons.
+- [ ] 03 Book Pickup  
+  Sets books to be read by default.
 - [ ] 03 GMST Menu  
   Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
 - [ ] 03 Security Enhanced  
@@ -688,7 +692,7 @@ Includes configuration for the following mods, as well as additional edits not a
 - [ ] 04 Magicka Based Skill Progression  
   Disables logging, and slows down skill experience gain per magicka spent.
 - [ ] 04 Realistic Repair  
-  Disables the realistic repair mechanic, and decreases max condition of enemy loot to 20%.
+  Disables the realistic repair mechanic, increases min condition of enemy loot to 5% and sets max condition of enemy loot to 30%.
 - [ ] 05 Controlled Consumption  
   Sets the consumption module to Vanilla NPC Style (Necro Edit).
 - [ ] 06 Let There Be Darkness  
@@ -861,6 +865,7 @@ Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code 
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Activate+Left Shift | Toggles light on/off | The Midnight Oil
+Activate+Left Shift | Pickup books without opening them | Book Pickup
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
@@ -870,28 +875,28 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 05-02-2022
 - Elaborated on blacklist of **Arukkins Better Books and Scrolls** textures.
 - Expanded blacklist of **Watch the Skies** textures.
-- Added small note to **UI Expansion**.
+- Added small note to **UI Expansion** for vanilla purists (the dialog component makes vanilla dialogue feel more repetitive by virtue of immediately showing the player when an NPC has nothing new to say, discouraging clicking on topics not highlighted blue).
 
 04-29-2022
-- Removed **Blood Retexture**.
-- Removed **Bridgeropes Retexture**.
+- Removed **Blood Retexture** (the vanilla puff is fine).
+- Removed **Bridgeropes Retexture** (the vanilla ropes are fine).
 
 04-25-2022
 - Added **Hotfix 0.7.2** to Project Atlas.
-- Re-added **Harder Barter (Sig Edit)**.
-- Re-added **No Beds for the Diseased**.
+- Re-added **Harder Barter (Sig Edit)** (replaces Buying Game).
+- Re-added **No Beds for the Diseased** (does help nail down the usefulness of inns and the importance of getting cured, after Ashfall was removed).
 - Moved **Sprinting** to Gameplay QOL.
 - Moved **Realistic Repair** to Overhauls.
 - Moved **Distant Mournhold** and **Remiros' Groundcover** to a Distant Land section in Visuals.
-- Removed **Absorb Effects Rebalanced**.
-- Removed **Buying Game**.
-- Removed **Silver Tongue**.
-- Removed **Skills Module**.
-- Removed **The Crafting Framework**.
+- Removed **Absorb Effects Rebalanced** (tackles a very specific spell which I feel didn't need to be rebalanced anyway).
+- Removed **Buying Game** (dramatic rework of a base game mechanic, which I think doesn't need such a rework).
+- Removed **Silver Tongue** (same as Buying Game).
 - Removed **Ashfall - A Camping Survival and Needs Mod** (dramatically changes the gameplay loop of the game, and at this point I can't really say it's for the best; these kind of mods can be very divisive).
+- Removed **Skills Module** (Ashfall requirement).
+- Removed **The Crafting Framework** (Ashfall requirement).
+- Removed **Real Fire Damage - MWSE Edition** (meant to be used with Ashfall, otherwise just a neat mod).
 - Removed **Creeping Blight** (re-enabled Watch the Skies' seasonal weather's feature instead).
-- Removed **Real Fire Damage - MWSE Edition**.
-- Removed **Familiar Faces by Caleb**.
+- Removed **Familiar Faces by Caleb** (wasn't too kind on the hair and Khajiit tweaks after a while).
 
 04-24-2022
 - Removed **Smarter Soultrap** (takes away what I feel is the interesting aspects of carefully managing your Soul Gems).
