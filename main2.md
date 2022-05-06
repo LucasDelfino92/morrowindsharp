@@ -621,6 +621,7 @@ textures\tew\Watch the Skies\blight\tew_blight_11.dds
 textures\tew\Watch the Skies\clear\tew_clear_7.dds
 textures\tew\Watch the Skies\foggy\tew_foggy_6.dds
 textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
+textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
 ```
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
