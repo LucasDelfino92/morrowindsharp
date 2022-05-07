@@ -37,7 +37,7 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 [**Correct UV Rocks**](mods/Correct%20UV%20Rocks.7z)  
-Fixes UV mapping on rocks and stones. [**Original mod by Nich**](https://mw.modhistory.com/download-56-12003).
+Fixes UV mapping on rocks and stones. [**Original mod**](https://mw.modhistory.com/download-56-12003) by **Nich**.
 
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -84,7 +84,7 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 ### Additional fixes
 
 [**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. [**Original mod by Half11**](https://www.nexusmods.com/morrowind/mods/47068). The PfP Edit includes Patch for Purists fixes.
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. [**Original mod**](https://www.nexusmods.com/morrowind/mods/47068) by **Half11**. The PfP Edit includes Patch for Purists fixes.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -236,7 +236,7 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
 [**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Original mod by RingComics**](https://www.nexusmods.com/morrowind/mods/49912). The Necro Edit includes fixes by **Necrolesian**.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. [**Original mod**](https://www.nexusmods.com/morrowind/mods/49912) by **RingComics**. The Necro Edit includes fixes by **Necrolesian**.
 
 ### Hotkeys
 
@@ -318,6 +318,9 @@ Renames soulgems so they'll group together in the inventory.
 
 ### Tweaks
 
+[**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
+Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify MAX** and **Class-Conscious Character Progression**.
+
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
@@ -334,7 +337,7 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
 [**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. [**Original mod by R-Zero**](https://www.nexusmods.com/morrowind/mods/45742). The Necro Edit includes fixes by **Necrolesian**.
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. [**Original mod**](https://www.nexusmods.com/morrowind/mods/45742) by **R-Zero**. The Necro Edit includes fixes by **Necrolesian**.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -349,12 +352,12 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
 [**Wings of Will (Necro Edit)**](mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed. [**Original mod by Sataniel**](https://www.nexusmods.com/morrowind/mods/46626). The Necro Edit includes fixes by **Necrolesian**.
+Levitation speed is now based on Willpower attribute instead of Speed. [**Original mod**](https://www.nexusmods.com/morrowind/mods/46626) by **Sataniel**. The Necro Edit includes fixes by **Necrolesian**.
 
 ### Revamped mechanics
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-A lua-based framework for creating new, fully functional magic effects. This framework is a pre-requisite for **MM - Enhanced Detection**.
+A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Framework
 
@@ -388,7 +391,7 @@ Applies the enchanted effect to any doors or containers with traps.
 ## OVERHAULS
 
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Original mod by NullCascade**](https://www.nexusmods.com/morrowind/mods/45624). The G7- Sig - Necro Edit includes tweaks by **Greatness7**, **Sigourn**, and **Necrolesian**. 
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. [**Original mod**](https://www.nexusmods.com/morrowind/mods/45624) by **NullCascade**. The G7- Sig - Necro Edit includes tweaks by **Greatness7**, **Sigourn**, and **Necrolesian**. 
 
 > ℹ️ This mod comes with recommended Morrowind Code Patch options, [**available here**](main2.md#additional-mcp-patches).
 
@@ -396,7 +399,7 @@ Provides a configurable restriction on the amount of potions and ingredients the
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything. [**Original mod by mort**](https://www.nexusmods.com/morrowind/mods/46188). The Sig Edit includes fixes by **Sigourn**:
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything. [**Original mod**](https://www.nexusmods.com/morrowind/mods/46188) by **mort**. The Sig Edit includes fixes by **Sigourn**.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
@@ -413,7 +416,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
 [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game. [**Original mod by Half11 and Remiros**](https://www.nexusmods.com/morrowind/mods/47305). The Sig Edit includes fixes and tweaks by **Sigourn**. 
+Fixes some of the biggest exploits and balance issues in the game. [**Original mod**](https://www.nexusmods.com/morrowind/mods/47305) by **Half11** and **Remiros**. The Sig Edit includes fixes and tweaks by **Sigourn**. 
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
@@ -538,7 +541,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 ### Equipment
 
 [**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. [**Original mod by Kahkahra**](https://mw.modhistory.com/download-4-12572). The PfP Edit includes Patch for Purists fixes.
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. [**Original mod**](https://mw.modhistory.com/download-4-12572) by **Kahkahra**. The PfP Edit includes Patch for Purists fixes.
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
@@ -872,6 +875,9 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+05-07-2022
+- Added **Attribute Effect Tweaks**.
 
 05-02-2022
 - Elaborated on blacklist of **Arukkins Better Books and Scrolls** textures.
