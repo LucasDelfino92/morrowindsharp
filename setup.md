@@ -130,7 +130,7 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 
 > ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we will use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Nerevar Rising**.
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
 
 ### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
@@ -231,10 +231,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [ ] Use profile-specific Save Games.
   - [X] Use profile-specific Game INI files.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Nerevar Rising** and click **OK**.
-- With the **Nerevar Rising** profile highlighted, click **Select**. Close the window.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**.
+- With the **Morrowind Sharp** profile highlighted, click **Select**. Close the window.
 
-Nerevar Rising will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Registering tools in Mod Organizer 2
 
@@ -365,13 +365,5 @@ If you are new to modding games and to using Mod Organizer 2, make sure to [**re
 
 # MOVING ON TO THE NEXT SECTION
 
-We've just covered the first step, which is to get our Morrowind and tools set up. From this point on, the guide splits into two separate options.
-
-- The first option is **Nerevar Rising**, the modlist proper as advertised on the readme. It is meant for players new to the game, or those who simply like a more vanilla approach to Morrowind.
-- The second option is **Hail Resdaynia**, an expanded modlist meant for experienced players, or those who want an overhauled approach to Morrowind. Note that, visually speaking, both modlists are very similar to each other – the key differences lie in the gameplay.
-
-Whichever option you choose to pursue, you will thorough instructions on how to install these modlists.
-
-[To Nerevar Rising >>](main.md)  
-[To Hail Resdaynia >>](main2.md)  
+[To Morrowind Sharp >>](main.md)  
 [<< Back to Readme](readme.md)
