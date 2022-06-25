@@ -51,8 +51,6 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
 
-> ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
-
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
 
@@ -65,8 +63,6 @@ Files to install:
   - [X] 06 Glow in the Dahrk Patch
   - [X] 07 Graphic Herbalism Patch
 - **Hotfix 0.7.2** (Update files)
-
-> ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
 
 > ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk** or omit installing the patch for now.
 
@@ -665,53 +661,14 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 [**Morrowind Sharp Mod Config**](mods/Morrowind%20Sharp%20Mod%20Config.7z)  
 Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 All in One: recommended option. Includes all configuration options.
-
-<details>
-	<summary>List of configured mods</summary>
-
-- [ ] 01 Sophisticated Save System  
-  Sets a minimum time between autosaves of 5 seconds; increases the autosave timer duration to 20 seconds; disables creation of autosaves before and after combat; enables creating of autosaves after changing cells.
-- [ ] 01 Loading Doors Lock Tune  
-  Disables MWSE logging.
-- [ ] 02 Clocks
-  Sets the clock type to game time.
-- [ ] 02 Continue  
-  Hides the New Game button while in-game to prevent accidental misclicks, and hides the Credits button in the main menu.
-- [ ] 02 Essential Indicators  
-  Disables immersion breaking indicators, new sneak indicators, and messages; sets the crosshair to Oblivion-style.
-- [ ] 02 Quick Equip  
-  Assigns the E key as the key for equipping items.
-- [ ] 02 Smart Journal  
-  Disables unnecessary immersion breaking options and quest prefixes, removing lag when opening the quests and journal menues.
-- [ ] 02 UI Expansion  
-  Disables auto-select search bar, disables verbose buttons in favor of icons.
-- [ ] 03 Book Pickup  
-  Sets books to be read by default.
-- [ ] 03 GMST Menu  
-  Makes NPCs less likely to greet you when walking past them; lowers camera view while sneaking; increases the time it takes for containers to respawn to 7 days (from 3).
-- [ ] 03 Security Enhanced  
-  Disables automatic probe-equip on trapped object activation.
-- [ ] 04 Magicka Based Skill Progression  
-  Disables logging, and slows down skill experience gain per magicka spent.
-- [ ] 04 Realistic Repair  
-  Disables the realistic repair mechanic, increases min condition of enemy loot to 5% and sets max condition of enemy loot to 30%.
-- [ ] 05 Controlled Consumption  
-  Sets the consumption module to Vanilla NPC Style (Necro Edit).
-- [ ] 06 Let There Be Darkness  
-  Sets the cell lighting overrides to use True Lights and Darkness'; comments out a line in the **main.lua** to disable the Lighting Preview feature in order to increase compatibility with **Security Enhanced**.
-- [ ] 06 Watch the Skies  
-  Sets the chance for vanilla cloud textures to 10%.
-- [ ] 06 Weather Adjuster  
-  Makes nights darker; makes fog nicer. [**Comparison slides available here.**](https://imgsli.com/MTUwMjI)
-</details>
-
-[**Sneak Strike Mod Config**](mods/Sneaky%20Strike%20Mod%20Config.7z)  
-For use with **BTB's Game Improvements**. Adjusts the critical strike damage range to play better with the mod.
-
-[**Enhanced Detection Lite Mod Config**](mods/Enhanced%20Detection%20Lite%20Mod%20Config.7z)  
-For use with **BTB's Game Improvements**. Enables the BTBGI-compatible mode.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Patches - All-in-one
+  - [X] User Interface - All-in-one
+  - [X] Gameplay QOL - All-in-one
+  - [X] Gameplay - All-in-one
+  - [X] Gameplay - Enhanced Detection Lite
+  - [X] Gameplay - Sneaky Strike
+  - [X] Visuals - All-in-one
 
 ## SHADERS
 
@@ -875,6 +832,9 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+06-25-2022
+- Mod Config set up as a FOMOD installer. Contents are otherwise identical.
 
 05-30-2022
 - Renamed guide to **Morrowind Sharp**.
