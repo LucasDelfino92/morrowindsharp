@@ -65,6 +65,12 @@ Files to install:
 
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
+[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
+Avoids actors getting stuck while opening doors.
+
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
@@ -106,12 +112,11 @@ Construction materials and scaffolding are now visible at the Great House strong
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures that weren't displayed for technical reasons.
 
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)  
-Flames are now glow mapped and/or properly illuminated.
-- After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
-
 [**Imperial Steel Cuirass Fix**](mods/Imperial%20Steel%20Cuirass%20Fix.7z)  
 Adds the missing belt to the male Imperial Steel Cuirass.
+
+[**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
+Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
@@ -123,17 +128,8 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
 
-[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
-Avoids actors getting stuck while opening doors.
-
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)  
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.	
 
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
@@ -829,6 +825,12 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+06-28-2022
+- Removed **Loading Doors Lock Tune**. Some of the cases the mod "fixes" are actually intentional.
+- Added **Improved Lights for All Shaders**. Replaces **Glowing Flames**.
+- Moved **Doors Anti Stuck** and **Just Drop It** to essential fixes.
+- Not to be considered a complete update, just some minor updating.
 
 06-26-2022
 - Removed **Correct UV Rocks**. Covered by Morrowind Optimization Patch.
