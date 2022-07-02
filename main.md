@@ -83,7 +83,9 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 ### Optional fixes
 
 [**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes Patch for Purists fixes. [**Original mod**](https://www.nexusmods.com/morrowind/mods/47068) by Half11.
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**. The featured version includes **Patch for Purists** fixes.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -117,6 +119,9 @@ Adds the missing belt to the male Imperial Steel Cuirass.
 
 [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Smoke and Steam Emitters
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
@@ -158,7 +163,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 - Click **Set as data files directory** and click **OK**.
 
 [**Comrade Raven's Book Arts (PfP Edit)**](mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
-Patches the mod to include Patch for Purists fixes.
+Patches the mod for compatibility with Patch for Purists.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -212,8 +217,11 @@ Restores the class description tooltip to the class selection menu, making it ea
 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
 Adds a clock to the UI that displays either game world time or real time.
 
-[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)  
-Adds bars to the UI that displays your companions and summoned creatures' health.
+[**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
+Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
+
+Files to install:
+- **Compact Version** (Main files)
 
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
@@ -225,7 +233,9 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
 [**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. Includes fixes by Necrolesian. [**Original mod**](https://www.nexusmods.com/morrowind/mods/49912) by RingComics.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
 
 ### Hotkeys
 
@@ -322,11 +332,13 @@ Endurance determines how long you can hold your breath under water.
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-
 [**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description. Includes fixes by Necrolesian. [**Original mod**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero.
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+
+[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -341,7 +353,9 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
 [**Wings of Will (Necro Edit)**](mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed. Includes fixes by Necrolesian. [**Original mod**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel.
+Levitation speed is now based on Willpower attribute instead of Speed.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 
 ### Revamped mechanics
 
@@ -380,7 +394,9 @@ Applies the enchanted effect to any doors or containers with traps.
 ## OVERHAULS
 
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game. Includes limited ingredient consumption and fixes by Greatness7, Sigourn, and Necrolesian. [**Original mod**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade.
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes ingredient consumption restrictions by **Greatness7** and **Sigourn**, and fixes by **Necrolesian**.
 
 > ℹ️ Morrowind Code Patch configuration [**available**](main2.md#additional-mcp-patches).
 
@@ -388,7 +404,9 @@ Provides a configurable restriction on the amount of potions and ingredients the
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything. Includes fixes by Sigourn. [**Original mod**](https://www.nexusmods.com/morrowind/mods/46188) by mort.
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
@@ -405,7 +423,9 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
 [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game. Includes additional fixes and tweaks by Sigourn. [**Original mod**](https://www.nexusmods.com/morrowind/mods/47305) by Half11 and Remiros.
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
 > ℹ️ If using **BTB's Game Improvements** listed below, you can safely skip this mod in favor of the compatible version offered there.
 
@@ -530,13 +550,15 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 ### Equipment
 
 [**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath. Includes Patch for Purists fixes. [**Original mod**](https://mw.modhistory.com/download-4-12572) by Kahkahra.
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
+> ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
 [**Alex's Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
-Patches the mod to include Patch for Purists fixes, and removes edits to cuirasses that already had a female variant in Tribunal.
+Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
@@ -825,6 +847,10 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-02-2022
+- Added **Realistic Archery**. Replaces **Marksman Rebalanced**.
+- Not to be considered a complete update, just some minor updating.
 
 06-28-2022
 - Removed **Loading Doors Lock Tune**. Some of the cases the mod "fixes" are actually intentional.
