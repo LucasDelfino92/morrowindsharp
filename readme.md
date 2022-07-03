@@ -18,14 +18,7 @@ Because his guide has a considerably different scope than the one presented here
 - Gameplay: basic quality of life improvements brought over from modern TES titles.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
 
-What this modlist doesn't do:
-
-- Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
-- Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority.
-- Nitpick over individual meshes or textures: unless it's an actual fix, this modlist won't bother. And even then, it probably won't bother either.
-- Improve the meshes and textures of everything in the game: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
-
-I've worked on this modlist for a few years already. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
+This modlist is meant to address issues with the game, as well as perceived shortcomings. Because it is offered "as is", I won't be answering compatibility questions: the modlist is to be considered complete. For compatibility questions, the modlist includes instructions on the installation of **TES3View**.
 
 [**Click here to get started**](setup.md).
 
@@ -55,10 +48,6 @@ Roughly 9GB. Morrowind Enhanced Textures accounts for most of that space, and it
 ### Is this modlist compatible with OpenMW?
 
 No. Many mods require MWSE to work.
-
-### Is this modlist compatible with...?
-
-This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use **TES3View** to check for yourself and solve conflicts.
 
 ## Appendix
 
