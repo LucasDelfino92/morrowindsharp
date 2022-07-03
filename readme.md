@@ -37,10 +37,6 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ## Frequently asked questions
 
-### How many plugins and mods are there?
-
-There are 50 mods and 20 plugins total.
-
 ### How much space do I need to install these mods?
 
 Roughly 9GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
