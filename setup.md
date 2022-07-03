@@ -13,21 +13,19 @@
 - A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
 - [**.NET 6 Runtime**](https://dotnet.microsoft.com/en-us/download) (for TES3Merge, a conflict resolution tool).
 
-> ⚠️ Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
-
 > ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](pictures/map.jpg)
 
 ## INSTALLATION
 
-You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+### Initial installation
 
-Your **Root** folder is where Morrowind will be installed, and where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
+You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
 By default, GOG will install Morrowind to the next directory:
 ```
 C:\Games
 ```
-This will create a folder in the following path, which we will refer to as our **Root** folder.
+This will create a folder in the following path, which we will refer to as our **Root** folder. This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 ```
 C:\Games\Morrowind
 ```
@@ -40,9 +38,9 @@ C:\Games\Morrowind Mods
 
 ### Cleaning up your GOG installation
 
-The GOG release of Morrowind shipped with files that are of no use to the average player. These files are not necessary and do nothing but clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. These are to be considered low quality mods, and not worth your time. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
+The GOG release of Morrowind shipped with files that are of no use to the average player, and which serve only to clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. These are to be considered low quality mods, and not worth your time. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) In the event that you wish to play with the official plugins, you should know that there are better alternatives out there, which I will mention in due time.
 
-All said, delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
+Delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
 - The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 - All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
@@ -54,26 +52,14 @@ Your Data Files folder should now look like this.
 
 ## UTILITIES AND TOOLS
 
-### Preamble
-
-In order to address a handful of issues with the Morrowind program (Morrowind.exe), and improve the visual fidelity of our game, we will install a number of tools.
-
-In addition, we will install a mod manager to help us keep our mods organized, and a series of additional tools to help us fix conflicts between our mods to get our install running as smoothly as possible.
-
 ### [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510)
 
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
+
 - Manually download **Morrowind Code Patch** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **Morrowind Code Patch.exe** in the same folder as your **Morrowind.exe**.
-
-### [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348)
-
-Repository for the Beta update for the Morrowind Code Patch. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
-- Manually download **MCP beta** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update the Morrowind Code Patch to the latest beta version.
-
-### Morrowind Code Patch setup
-
+- Manually download **MCP beta** (Update files) from [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348).
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update the Morrowind Code Patch to the latest beta version. Despite being a beta version, it is perfectly stable and encouraged to install.
 - Execute **Morrowind Code Patch.exe**, found in your Morrowind **Root** folder (**C:\Games\Morrowind**)
 - The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
 - Click **Apply chosen patches** when you are finished. Close the application.
@@ -82,7 +68,7 @@ Repository for the Beta update for the Morrowind Code Patch. Despite being a bet
 
 ### [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
+Allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 - Manually download **MGE XE Installer** (Main files).
 - Extract the contents of the file and run the **MGE XE Installer.exe**.
@@ -90,14 +76,11 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 - When installation has finished, uncheck the option to launch MGE XE Config and click **Finish**.
 - Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
 
-> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later) and MWSE to be installed. However, a more modern alternative in the form of **Weather Adjuster**, a mod we will install further ahead, is available.
+> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. However, we will install **Weather Adjuster** in due time, a modern alternative.
 
-### [**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z)  
+MGE XE doesn't account for in-game scenarios which affect the landscape of Morrowind, and which can cause discrepancies between the distant statics generated with MGE XE and the actual landscape (such as a static disappearing once you get too close to it, or a static popping in out of nowhere). **Distant static overrides** allow MGE XE to bypass the generation of certain statics in order to account for these scenarios.
 
-Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. **Distant static overrides** tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
-
-The custom static overrides linked above account for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-
+- Download [**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z).
 - Extract the contents of the file.
 - Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory, overwriting when prompted.
 
@@ -114,7 +97,8 @@ This file contemplates the following landscape-altering scenarios:
 
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
-Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
+Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
+
 - Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 - When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - When installation has finished, uncheck the option to launch Wrye Mash and click **Finish**.
@@ -134,42 +118,42 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 
 ### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
-Used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solves a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+
 - Place tes3cmd.exe in your **C:\Games\Morrowind\Data Files** folder.
 
 ### [**TES3View**](mods/TES3View%204.1.4.7z)
 
-Used to see the structure of mods and detect conflicts.
+Allows the user to see the structure of mods and detect conflicts.
+
 - Extract the contents of the file in your **Morrowind Mods\TES3View** folder. 
 
-> ℹ️ The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
+> ℹ️ The version hosted can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 ### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
-Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+
 - Extract the contents of the file in your **Morrowind Mods\TES3Merge** folder.
+- Download [**TES3Merge Custom INI**](mods/TES3Merge%20Custom%20INI.7z).
+- Extract the contents of the file.
+- Place TES3Merge.ini in your **C:\Games\Morrowind Mods\TES3Merge** directory, overwriting when prompted.
 
-Because TES3Merge isn't a perfect tool and sometimes it doesn't know what exactly to make of certain record conflicts, I've devised a set of custom rules to ensure it works as intended with the guide.
-
-[**TES3Merge Custom INI**](mods/TES3Merge.ini)  
-- Overwrite the contents of your TES3Merge.ini found in your **Morrowind Mods\TES3Merge** folder with those from the .ini linked above.
+> ℹ️ The modified file includes custom rules to ensure TES3Merge's merges work as intended with the guide.
 
 ### [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
-Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+Cleans plugins and solves conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+
 - Extract the contents of the file in your **Morrowind Mods\TESAME** folder.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
+
 - Run the downloaded **Mod Organizer 2** executable.
 - When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
-- When installation has finished, click **Finish**. Mod Organizer 2's instance manager will now launch.
-
-> ⚠️ It is imperative that, from this point on, you always use Mod Organizer 2 to run the game and to launch any tools you need to use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
-
-### Mod Organizer 2 initial setup
-
+- When installation has finished, click **Finish**.
 - The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left.
 - Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Morrowind Mods\MO2**) is fine.
@@ -179,6 +163,7 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
+> ⚠️ From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 ### Adjusting mod and load order
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
@@ -348,10 +333,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 It's time to finally run Morrowind.
 
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the executable.
-
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
-
+- Click **Run** to run the game.
 - Once the game has finished loading, click **Options** and click the **Video** tab.
 - The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
