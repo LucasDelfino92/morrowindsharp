@@ -80,7 +80,7 @@ Allows Morrowind to render distant views, scenery shadows, high quality shaders 
 
 MGE XE doesn't account for in-game scenarios which affect the landscape of Morrowind, and which can cause discrepancies between the distant statics generated with MGE XE and the actual landscape (such as a static disappearing once you get too close to it, or a static popping in out of nowhere). **Distant static overrides** allow MGE XE to bypass the generation of certain statics in order to account for these scenarios.
 
-- Download [**abot Distant Static Overrides - Necro Edit 2.0**](mods/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z).
+- Download [**Abot Distant Statics Overrides - Necro Edit 2.0.1**](https://www.dropbox.com/s/9rgwv9yjbipp5gi/Abot%20Distant%20Statics%20Overrides%20-%20Necro%20Edit%202.0.1.7z?dl=1).
 - Extract the contents of the file.
 - Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory, overwriting when prompted.
 
