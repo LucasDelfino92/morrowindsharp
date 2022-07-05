@@ -9,29 +9,26 @@
 
 ### Disclaimer
 
-This guide is the second step in the installation of our modlist. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 
 ### Creating a separator
 
-Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be. Separators can also be collapsed to keep your mod list clean and tidy.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be. Separators can also be collapsed to keep your mod list clean and tidy. I suggest creating a separator for each mod category we will be installing (category names are highlighted in CAPS).
+
+To create a separator, follow these stpes:
 
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
-
-I suggest creating a separator for each mod category we will be installing (categories highlighted in CAPS).
 
 ## PATCHES
 
 ### Essential fixes
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
-Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
+Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -53,12 +50,12 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 Files to install:
 - **Project Atlas** (Main files)
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 BATs
-  - [X] 00 Core
-  - [X] 01 Textures - Vanilla
-  - [X] 06 Glow in the Dahrk Patch
-  - [X] 07 Graphic Herbalism Patch
+  - On MO2 installation, check the following options in the BAIN installer:
+    - [X] 00 BATs
+    - [X] 00 Core
+    - [X] 01 Textures - Vanilla
+    - [X] 06 Glow in the Dahrk Patch
+    - [X] 07 Graphic Herbalism Patch
 - **Hotfix 0.7.2** (Update files)
 
 > ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk** or omit installing the patch for now.
@@ -170,8 +167,8 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 
 Files to install:
 - **Pete's Journal and Scroll** (Optional files)
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 01 Journal and Scroll - 2K
+  - On MO2 installation, check the following options in the BAIN installer:
+    - [X] 01 Journal and Scroll - 2K
 
 [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 HD recreation of the Title and Logo Intro, in widescreen.
@@ -438,6 +435,9 @@ Fixes a number of inconsistencies with the mod's creature edits.
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
+
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -446,11 +446,11 @@ Massive game balance overhaul that touches on just about every aspect of Morrowi
 
 Files to install:
 - **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Balanced Passive Races and Birthsigns Tweaked  
-  - [X] Morrowind Anti-Cheese Tweaked  
-  - [X] Beware the Sixth House Patch
-  - [X] Standard Loot Patch
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Balanced Passive Races and Birthsigns Tweaked  
+    - [X] Morrowind Anti-Cheese Tweaked  
+    - [X] Beware the Sixth House Patch
+    - [X] Standard Loot Patch
 
 > ℹ️ Morrowind Code Patch configuration [**available**](main2.md#additional-mcp-patches).
 
@@ -571,8 +571,8 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 Files to install:
 - **WeaponSheathing1.6-MWSE** (Main files)
-- On MO2 installation, right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
+  - On MO2 installation, right-click on **Data Files**.
+  - Click **Set as data files directory** and click **OK**.
 
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
 Tweaks bows so that they line up better with the sheathing animation.
