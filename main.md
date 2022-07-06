@@ -315,22 +315,10 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
-[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
-
 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
-Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
-Modifies critical strike coefficient depending on the weapon you use.
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
@@ -344,6 +332,9 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 
 ### Revamped mechanics
+
+[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
@@ -365,6 +356,15 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+
+[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
+Modifies critical strike coefficient depending on the weapon you use.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
