@@ -336,6 +336,12 @@ Rebalances the willpower-based spell resist mechanic, giving all in-game actors,
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
+[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
+Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
+
+[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
+Applies the enchanted effect to any doors or containers with traps.
+
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
@@ -351,14 +357,6 @@ Modifies critical strike coefficient depending on the weapon you use.
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
-Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
-
-> ℹ️ Morrowind Code Patch configuration [**available**](main.md#additional-mcp-patches).
-
-[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
-Applies the enchanted effect to any doors or containers with traps.
-
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
@@ -373,8 +371,6 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes ingredient consumption restrictions by **Greatness7** and **Sigourn**, and fixes by **Necrolesian**.
-
-> ℹ️ Morrowind Code Patch configuration [**available**](main.md#additional-mcp-patches).
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -414,11 +410,11 @@ Fixes a number of inconsistencies with the mod's creature edits.
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
-
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
 
 [**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
@@ -430,8 +426,6 @@ Files to install:
     - [X] Morrowind Anti-Cheese Tweaked  
     - [X] Beware the Sixth House Patch
     - [X] Standard Loot Patch
-
-> ℹ️ Morrowind Code Patch configuration [**available**](main.md#additional-mcp-patches).
 
 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
 Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
@@ -447,11 +441,7 @@ Increases the penalties for crime. For use with **BTB's Game Improvements**.
 [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
 Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with **BTB's Game Improvements**.
 
-> ℹ️ Morrowind Code Patch configuration [**available**](main.md#additional-mcp-patches).
-
 ## VISUALS
-
-### Texture packs
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
@@ -472,7 +462,15 @@ Compatibility patch for Morrowind Enhanced Textures.
 Files to install:
 - **Textures - MET** (Main files)
 
-### Environment
+[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
+Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
+
+> ℹ️ This mod contains lore-unfriendly textures for the books' pages, notably, the depiction of Jesus Christ in one of the textures. For consistency, you may wish to hide all textures related to book pages. For the most egregious examples, I suggest hiding the following textures. 
+
+```
+textures\tx_book_pages_03.dds
+textures\tx_book_pages_08.dds
+```
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -494,24 +492,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
-Replaces the water in the Palace of Vivec's canals.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Original Color
-
-### Misc retextures
-
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
-Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
-
-> ℹ️ This mod contains lore-unfriendly textures for the books' pages, notably, the depiction of Jesus Christ in one of the textures. For consistency, you may wish to hide all textures related to book pages. For the most egregious examples, I suggest hiding the following textures. 
-
-```
-textures\tx_book_pages_03.dds
-textures\tx_book_pages_08.dds
-```
-
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
@@ -527,7 +507,11 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
-### Equipment
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
+Replaces the water in the Palace of Vivec's canals.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Original Color
 
 [**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -565,8 +549,6 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 
 [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
 Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
-
-### Weather and lighting
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
 Retextures the sun to make it more realistic and detailed.
