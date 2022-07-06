@@ -167,6 +167,9 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 [**Comrade Raven's Book Arts (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
 Patches the mod for compatibility with Patch for Purists.
 
+[**Oblivion Crosshair**](https://www.nexusmods.com/morrowind/mods/45662)  
+Replaces the default crosshair in Morrowind (which would suit a shooter game better) with that of Oblivion's, which blends in nicely with the game's UI.
+
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
 
@@ -201,6 +204,9 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 > ℹ️ The dialog menu component, toggleable from the mod's configuration menu, highlights topics with unseen unique dialogue. For a closer to vanilla experience, you may want to disable this component.
 
+[**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
+Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
+
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
@@ -215,9 +221,6 @@ Restores the class description tooltip to the class selection menu, making it ea
 
 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
 Adds a clock to the UI that displays either game world time or real time.
-
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
@@ -403,6 +406,9 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
+
+[**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
+Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from resting unless they activate a bed.
@@ -805,6 +811,12 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-06-2022
+- Massive rearrangement of mods.
+- Added **Oblivion Crosshair**. Replaces **Essential Indicators**.
+- Added **Accurate Tooltip Stats**.
+- Added **Less Lame Leveled Spawns**.
 
 07-02-2022
 - Added **Realistic Archery**. Replaces **Marksman Rebalanced**.
