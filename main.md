@@ -315,14 +315,6 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
 
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
@@ -353,6 +345,14 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
