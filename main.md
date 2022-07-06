@@ -367,6 +367,13 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 ## OVERHAULS
 
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
+Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
+
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill.
+- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
+
 [**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
@@ -394,12 +401,25 @@ Damages NPCs' equipped gear on death, helping balance economy by nerfing one of 
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
+[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
+Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
+
+Files to install:
+- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Balanced Passive Races and Birthsigns Tweaked  
+    - [X] Morrowind Anti-Cheese Tweaked  
+    - [X] Beware the Sixth House Patch
+    - [X] Standard Loot Patch
+- Install [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130), and hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+- Install [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194).
+
 [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
 
-> ℹ️ If using **BTB's Game Improvements** listed below, you can safely skip this mod in favor of the compatible version offered there.
+> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
@@ -415,31 +435,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
-
-[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
-
-Files to install:
-- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
-  - On MO2 installation, check the following options in the FOMOD installer:
-    - [X] Balanced Passive Races and Birthsigns Tweaked  
-    - [X] Morrowind Anti-Cheese Tweaked  
-    - [X] Beware the Sixth House Patch
-    - [X] Standard Loot Patch
-
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
-Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
-
-[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
-Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill.
-- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
-
-[**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
-Increases the penalties for crime. For use with **BTB's Game Improvements**.
-- Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-
-[**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
-Changes all enchanted weapons Ignore normal weapon resistance flag to be the same as an unenchanted weapon with the same mesh. For use with **BTB's Game Improvements**.
 
 ## VISUALS
 
