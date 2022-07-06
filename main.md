@@ -30,6 +30,9 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -251,8 +254,10 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
-- Install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154).
-- Install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864).
+
+Additional files to install:
+- [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -262,6 +267,9 @@ Expands the amount of quick menu hotkeys available.
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a hotkey for summons, followers and companions to attack the selected target.
+
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
@@ -282,8 +290,14 @@ Adds a hotkey for exiting any menu.
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
+Removes sheep sounds from Morrowind.	
+
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
+Reduces the frequency of idle Cliff Racer screeches.
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
@@ -307,6 +321,9 @@ Renames soulgems so they'll group together in the inventory.
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## GAMEPLAY
+
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
+Implements the possibility of contracting blight diseases while out in a blight storm.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
@@ -411,8 +428,11 @@ Files to install:
     - [X] Morrowind Anti-Cheese Tweaked  
     - [X] Beware the Sixth House Patch
     - [X] Standard Loot Patch
-- Install [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130), and hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-- Install [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194).
+
+Additional files to install:
+- [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)
+  - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+- [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)
 
 [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes some of the biggest exploits and balance issues in the game.
@@ -457,6 +477,7 @@ Compatibility patch for Morrowind Enhanced Textures.
 
 Files to install:
 - **Textures - MET** (Main files)
+  - On MO2 installation, merge into **Project Atlas** when prompted.
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
@@ -532,17 +553,15 @@ Files to install:
 - **WeaponSheathing1.6-MWSE** (Main files)
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
 
-[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
-Tweaks bows so that they line up better with the sheathing animation.
-
-[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
-Adds sheaths to weapons not covered by Weapon Sheathing.
+Additional files to install:
+- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
+- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
-[**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
-Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
+Additional files to install:
+- [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
 Retextures the sun to make it more realistic and detailed.
@@ -555,7 +574,7 @@ Makes vanilla windows glow in the dark.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Nord Glass Windows  
   - [X] Raven Rock Glass Windows  
-  - [X] No Telvanni Dormers on Vvardenfell  
+  - [X] Telvanni Tower Interior Glow MGE XE
 
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -566,16 +585,15 @@ The radius of light sources will gradually diminish and eventually go out when t
 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 
-[**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)  
+[**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances and an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Lua core
-  - [X] 01 Textures 1k
-  - [X] 03 Rain mesh replacer - regular
-  - [X] 05 IT Vanilla sky texture replacer 1k  
+  - [X] 00 Core
+  - [X] 01 Clouds Textures 1k
+  - [X] 03 Weather particles replacer
 
 > ℹ️ Some of the sky textures included in this mod can be very jarring. I suggest hiding the following textures.
 
@@ -594,9 +612,6 @@ textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
 textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
 ```
 
-[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm.
-
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets.
 
@@ -613,20 +628,6 @@ Adds groundcover to almost all regions.
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order.
-
-## AUDIO
-
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
-
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
-Removes sheep sounds from Morrowind.	
-
-[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
-Reduces the frequency of idle Cliff Racer screeches.
 
 ## MOD CONFIG
 
