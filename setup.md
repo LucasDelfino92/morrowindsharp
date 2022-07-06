@@ -340,7 +340,7 @@ It's time to finally run Morrowind.
 
 # MODDING TIPS
 
-If you are new to modding games and to using Mod Organizer 2, make sure to [**read this document**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md) before proceeding.
+Before proceeding to the next section, make sure to [**read this document**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md), which includes basic Mod Organizer 2 tips and rules for installing mods when following this guide.
 
 # MOVING ON TO THE NEXT SECTION
 
