@@ -30,8 +30,26 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
+[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
+Adds shrines and Almsivi Intervention markers to temples that were missing them.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Vanilla Ghostgate
+
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
+
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
+Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
+Restores visual effects on creatures that weren't displayed for technical reasons.
 
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -57,10 +75,17 @@ Files to install:
     - [X] 06 Glow in the Dahrk Patch
     - [X] 07 Graphic Herbalism Patch
 - **Hotfix 0.7.2** (Update files)
+  - On MO2 installation, merge into **Project Atlas** when prompted.
 
 > ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk** or omit installing the patch for now.
 
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
+
+[**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
+Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Smoke and Steam Emitters
 
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
@@ -79,10 +104,13 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 
 ### Optional fixes
 
-[**Adamantium Ore Fix (PfP Edit)**](mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
+[**Adamantium Ore Fix (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**. The featured version includes **Patch for Purists** fixes.
+
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
+Carries over unique item information, such as condition and script data when enchanting items.
 
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
@@ -92,49 +120,17 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
-[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
-Adds shrines and Almsivi Intervention markers to temples that were missing them.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Vanilla Ghostgate
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
-Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
-
-### Optional mesh fixes
-
-[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
-Restores visual effects on creatures that weren't displayed for technical reasons.
-
-[**Imperial Steel Cuirass Fix**](mods/Imperial%20Steel%20Cuirass%20Fix.7z)  
-Adds the missing belt to the male Imperial Steel Cuirass.
-
-[**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
-Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Smoke and Steam Emitters
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- On MO2 installation, right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
-
-### Optional MWSE fixes
-
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
-Carries over unique item information, such as condition and script data when enchanting items.
-
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
+[**Imperial Steel Cuirass Fix**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Imperial%20Steel%20Cuirass%20Fix.7z)  
+Adds the missing belt to the male Imperial Steel Cuirass.
+
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
@@ -151,15 +147,14 @@ Files to install:
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
-- On MO2 installation, create a **Fonts** folder.
-- Move the **daedric_font.fnt** and **daedric_font_obw.tex** files inside.
+- On MO2 installation, right-click **data files** and create a **Fonts** folder.
+- Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
 
 [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
 Replaces most of the original book arts with hi-res images redrawn from scratch.
-- On MO2 installation, right-click on **Data Files**.
-- Click **Set as data files directory** and click **OK**.
+- On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
 
-[**Comrade Raven's Book Arts (PfP Edit)**](mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
+[**Comrade Raven's Book Arts (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
 Patches the mod for compatibility with Patch for Purists.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
@@ -181,8 +176,8 @@ Replaces the default splash screens with better quality widescreen versions (16:
 
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
 Adds three missing Bethesda splash screens in widescreen resolution.
-- On MO2 installation, create a **Splash** folder.
-- Move the **.tga** files inside.
+- On MO2 installation, right-click **data files** and create a **Splash** folder.
+- Drag and drop the **.tga** files into it.
 
 [**Magic Icons (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
@@ -190,9 +185,6 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
   - [X] 00 Original Blue Color
 
 ### UI additions and improvements
-
-[**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
-Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -214,48 +206,25 @@ Restores the class description tooltip to the class selection menu, making it ea
 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
 Adds a clock to the UI that displays either game world time or real time.
 
-[**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
-Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
-
-Files to install:
-- **Compact Version** (Main files)
-
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)  
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work. 
 
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
+[**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
+Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
-[**What Are My Attributes (Necro Edit)**](mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+[**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
+Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
+
+Files to install:
+- **Compact Version** (Main files)
+
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
-
-### Hotkeys
-
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
-Expands the amount of quick menu hotkeys available.
-
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-Adds a hotkey for summons, followers and companions to attack the selected target.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-
-[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
-Adds a hotkey for equipping a selected inventory item.
-
-[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
-Adds a hotkey for exiting any menu.
-
-[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-
-[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
-Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## GAMEPLAY QOL
 
@@ -275,22 +244,39 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
- 
-[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
-Fixes a collision bug with harvested Ash Yams.
-
-[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
-Makes picking a glowing plant also remove the glow-light.
+- Install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154).
+- Install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864).
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
+Expands the amount of quick menu hotkeys available.
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
+Adds a hotkey for summons, followers and companions to attack the selected target.
+
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 - After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
 
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
+Adds a hotkey for equipping a selected inventory item.
+
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
+
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)  
+Adds a hotkey for exiting any menu.
+
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
+Adds tooltips with the effect's name to shrines when hovering over the different options.
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
@@ -309,6 +295,9 @@ Renames propylon indexes so they'll group together in the inventory.
 
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
 Renames soulgems so they'll group together in the inventory.
+
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
+Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## GAMEPLAY
 
@@ -329,7 +318,7 @@ Endurance determines how long you can hold your breath under water.
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**Putting Power In Willpower (Necro Edit)**](mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
@@ -349,7 +338,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
 Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
 
-[**Wings of Will (Necro Edit)**](mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
@@ -549,7 +538,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ### Equipment
 
-[**Complete Armor Joints (PfP Edit)**](mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
+[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
 > ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
@@ -557,7 +546,7 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors (PfP Edit)**](mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
+[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
 Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
@@ -674,7 +663,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## MOD CONFIG
 
-[**Morrowind Sharp Mod Config**](mods/Morrowind%20Sharp%20Mod%20Config.7z)  
+[**Morrowind Sharp Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20Mod%20Config.7z)  
 Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Patches - All-in-one
@@ -692,7 +681,7 @@ Includes configuration for the following mods, as well as additional edits not a
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-[**MGE XE Shader Pack**](mods/MGE%20XE%20Shader%20Pack.7z)  
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
@@ -721,7 +710,7 @@ Eye Adaptation (HDR)
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
