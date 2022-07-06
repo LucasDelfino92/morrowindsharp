@@ -629,19 +629,6 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order.
 
-## MOD CONFIG
-
-[**Morrowind Sharp Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20Mod%20Config.7z)  
-Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
-- On MO2 installation, check the following options in the FOMOD installer:
-  - [X] Patches - All-in-one
-  - [X] User Interface - All-in-one
-  - [X] Gameplay QOL - All-in-one
-  - [X] Gameplay - All-in-one
-  - [X] Gameplay - Enhanced Detection Lite
-  - [X] Gameplay - Sneaky Strike
-  - [X] Visuals - All-in-one
-
 ## SHADERS
 
 ### Shaders
@@ -675,6 +662,20 @@ Eye Adaptation (HDR)
 > ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
 ## FINISHING TOUCHES
+
+### Mod configuration
+
+[**Morrowind Sharp Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20Mod%20Config.7z)  
+Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Patches - All-in-one
+  - [X] User Interface - All-in-one
+  - [X] Gameplay QOL - All-in-one
+  - [X] Gameplay - All-in-one
+  - [X] Gameplay - Enhanced Detection Lite
+  - [X] Gameplay - Sneaky Strike
+  - [X] Visuals - All-in-one
+
 
 ### Adjusting mod order and load order
 
