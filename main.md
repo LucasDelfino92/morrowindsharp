@@ -450,6 +450,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Files to install:
 - **Morrowind Enhanced Textures** (Main files)
 - **MET Meshes** (Optional files)
+  - On MO2 installation, merge into **Morrowind Enhanced Textures** when prompted.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
@@ -494,10 +495,9 @@ Files to install:
 - **Mist Retexture** (Main files)
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] fade  
-    Non-moving effect that fades in and out.
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
@@ -530,8 +530,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 
 Files to install:
 - **WeaponSheathing1.6-MWSE** (Main files)
-  - On MO2 installation, right-click on **Data Files**.
-  - Click **Set as data files directory** and click **OK**.
+  - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
 
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
 Tweaks bows so that they line up better with the sheathing animation.
@@ -571,7 +570,7 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
-Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
+Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances and an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Lua core
   - [X] 01 Textures 1k
@@ -596,7 +595,7 @@ textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
 ```
 
 [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm. For use with **Watch the Skies**, which includes an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete. For a standalone implementation of said feature, see [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904).
+Implements the possibility of contracting blight diseases while out in a blight storm.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets.
