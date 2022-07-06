@@ -109,6 +109,9 @@ Allows the player to find the exact amount of Adamantium Ore needed to craft Bol
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**. The featured version includes **Patch for Purists** fixes.
 
+[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
 
@@ -119,6 +122,10 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
+
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
+- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
 
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
@@ -301,40 +308,15 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## GAMEPLAY
 
-### Tweaks
-
-[**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
-Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify MAX** and **Class-Conscious Character Progression**.
-
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
-Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
-
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
 Endurance determines how long you can hold your breath under water.
-
-[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
-Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
-
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-
-### Revamped mechanics
 
 [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
-[**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Framework
-
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Core
 
@@ -376,6 +358,14 @@ Allows you to have a chance to successfully detect traps and locks based on your
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
 Applies the enchanted effect to any doors or containers with traps.
+
+[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
+Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
+
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
+Levitation speed is now based on Willpower attribute instead of Speed.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 
 ## OVERHAULS
 
@@ -447,7 +437,8 @@ Files to install:
 Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
 
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
-Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill. 
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill.
+- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
 
 [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
 Increases the penalties for crime. For use with **BTB's Game Improvements**.
