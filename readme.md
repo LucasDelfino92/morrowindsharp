@@ -9,8 +9,8 @@
 - Bugs and stability: includes all major bug fixes released for the game so far.
 - DLCs: reworked implementation, expansions delayed in the most immersive way possible.
 - User interface: high resolution assets, improved functionality, and expanded hotkeys.
-- Gameplay: basic quality of life improvements brought over from modern TES titles.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
+- Gameplay: basic quality of life improvements brought over from modern TES titles, as well as modern improvements to the gameplay and balance without sacrificing the authenticity of the game for the most part.
 
 This modlist is meant to address issues with the game, as well as perceived shortcomings. Because it is offered "as is", I won't be answering compatibility questions: the modlist is to be considered complete. For compatibility questions, the modlist includes instructions on the installation of **TES3View**.
 
