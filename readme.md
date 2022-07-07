@@ -2,12 +2,6 @@
 
 ![Banner](pictures/banner.jpg)
 
-## Important
-
-As of June 2022, this modlist will no longer be updated. At the moment of writing this, **rfuzzo**'s [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/) guide covers many mods featured in Morrowind Sharp, and more.
-
-Because his guide has a considerably different scope than the one presented here, Morrowind Sharp will remain on GitHub. I trust no pressing issues should be encountered by any using this guide.
-
 ## About
 
 **Morrowind Sharp** is a modular modlist for **The Elder Scrolls III: Morrowind**. It addresses a number of significant issues with the game:
@@ -39,7 +33,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How much space do I need to install these mods?
 
-Roughly 9GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
+Roughly 7GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
 
 ### Is this modlist compatible with OpenMW?
 
@@ -47,4 +41,8 @@ No. Many mods require MWSE to work.
 
 ## Appendix
 
-Morrowind Sharp isn't meant to be an exhaustive modlist. It attempts to cover the basics and go a little beyond that. For additional documents which tackle many mods not covered here, I suggest looking up **Lucevar**'s [**Themed Mod Lists**](https://github.com/Lucevar/mw-immersion-mods) (in particular, the [**SFX**](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md) article covers a lot of mods previously featured in my modlist) and **Danae**'s [**Modlists**](https://danaeplays.thenet.sk/tag/modding/) (I would also suggest checking out [**her YouTube channel**](https://www.youtube.com/user/terdanae) for cool Morrowind content). 
+Morrowind Sharp isn't meant to be an exhaustive modlist. It attempts to cover the basics and go a little beyond that. For additional documents which tackle many mods not covered here, I suggest looking up the following:
+
+- **Lucevar**'s [**Themed Mod Lists**](https://github.com/Lucevar/mw-immersion-mods) (in particular, the [**SFX**](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md) article covers a lot of mods previously featured in my modlist).
+- **Danae**'s [**Modlists**](https://danaeplays.thenet.sk/tag/modding/) (I would also suggest checking out [**her YouTube channel**](https://www.youtube.com/user/terdanae) for cool Morrowind content).
+- **rfuzzo**'s [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/) guide, which covers most mods featured in Morrowind Sharp, and more.
