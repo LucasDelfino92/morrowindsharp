@@ -491,6 +491,10 @@ Files to install:
 - **Textures - MET** (Main files)
   - On MO2 installation, merge into **Project Atlas** when prompted.
 
+Additional files to install:
+- [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
+  - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
+
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
 Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
 
@@ -794,6 +798,9 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-07-2022
+- Added **Project Atlas - MET Velothi Fix**.
 
 07-06-2022
 - Massive rearrangement of mods.
