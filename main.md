@@ -717,6 +717,7 @@ A compilation of a handful of community-made shaders.
 ```
 SSAO HQ
 Underwater Interior Effects
+Invisibility
 EdgeAA
 deband_fogawarev3
 Underwater Effects
