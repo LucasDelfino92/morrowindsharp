@@ -656,6 +656,15 @@ textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
 textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
 ```
 
+[**Lorkhan's Lunar Legacy**](https://www.nexusmods.com/morrowind/mods/45718?)  
+Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circling planet Nirn in the ethereal plane of Mundus.
+ 
+Files to install:
+- **LLL - Optimal HD pack** (Main files)
+ 
+[**Enhanced Night for skies.iv**](https://www.nexusmods.com/morrowind/mods/46850?)  
+Highly detailed starfield texture.
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets.
 
