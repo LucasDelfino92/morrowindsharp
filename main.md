@@ -148,6 +148,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
+Restores an unused Silt Strider animation. It also comes with a previously unused sound. Siltstriders now have 50/50 chances to play either the original animation or the restored one.
+
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 
@@ -345,14 +348,39 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
 - Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Core
+  - [X] 01 - Cast VFX
 
 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
 Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
+[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
+Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+
+[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
+Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Optional FPS
+
+[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
+Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Cast VFX
+
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions
 
 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
@@ -440,6 +468,9 @@ Files to install:
     - [X] Morrowind Anti-Cheese Tweaked  
     - [X] Beware the Sixth House Patch
     - [X] Standard Loot Patch
+- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Poison Crafting
 
 Additional files to install:
 - [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)
@@ -585,6 +616,12 @@ Retextures the sun to make it more realistic and detailed.
 Files to install:
 - **Better Sun** (Main files)
 
+[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816)  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] 00 Core - Vertical System
+  - [X] 01 Enlightened Flames
+
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - On MO2 installation, check the following options in the FOMOD installer:
@@ -603,6 +640,9 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 
 [**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
+
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437)  
+Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances and an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
@@ -627,6 +667,17 @@ textures\tew\Watch the Skies\foggy\tew_foggy_6.dds
 textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
 textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
 ```
+
+[**Lorkhan's Lunar Legacy**](https://www.nexusmods.com/morrowind/mods/45718?)  
+Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circling planet Nirn in the ethereal plane of Mundus.
+ 
+Files to install:
+- **LLL - Optimal HD pack** (Main files)
+
+[**Enhanced Night for skies.iv**](https://www.nexusmods.com/morrowind/mods/46850?)  
+Highly detailed starfield texture.
+- Requires [**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311) (Optional files).
+  - Delete all contents of the file minus **meshes\sky_night_02.nif**.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets.
@@ -798,6 +849,18 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-??-2022
+- Added **Silt Strider Animation Restored**.
+- Added **MM - Enhanced Invisibility**.
+- Added **MM - Enhanced Light**.
+- Added **MM - Enhanced Telekinesis**.
+- Added **Poison Crafting**.
+- Added **Enlightened Flames**
+- Added **Waterfall Lights Remover**.
+- Added **Skies .IV Resource Pack**.
+- Added **Lorkhan's Lunar Legacy**.
+- Added **Enhanced Night for skies .iv**.
 
 07-07-2022
 - Added **Project Atlas - MET Velothi Fix**.
