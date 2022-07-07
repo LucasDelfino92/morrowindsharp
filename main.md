@@ -148,6 +148,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
+Restores an unused Silt Strider animation. It also comes with a previously unused sound. Siltstriders now have 50/50 chances to play either the original animation or the restored one.
+
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 
@@ -604,6 +607,9 @@ Toggle lights on and off. Town lights turn off during the day. Lights no longer 
 [**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437)  
+Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
+
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances and an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 - On MO2 installation, check the following options in the BAIN installer:
@@ -798,6 +804,10 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-??-2022
+- Added **Silt Strider Animation Restored**.
+- Added **Waterfall Lights Remover**.
 
 07-07-2022
 - Added **Project Atlas - MET Velothi Fix**.
