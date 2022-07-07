@@ -477,13 +477,6 @@ Additional files to install:
   - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
 - [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)
 
-[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
-
-> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
-
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
 
@@ -498,6 +491,13 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
 Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
+
+[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and compatibility tweaks by **Sigourn**.
+
+> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
 
 ## VISUALS
 
