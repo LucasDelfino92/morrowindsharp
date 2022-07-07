@@ -348,11 +348,27 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
 - Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Core
+  - [X] 01 - Cast VFX
 
 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
 Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
+
+[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
+Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+
+[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
+Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Optional FPS
+
+[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
+Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Cast VFX
 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
@@ -807,6 +823,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 07-??-2022
 - Added **Silt Strider Animation Restored**.
+- Added **MM - Enhanced Invisibility**.
+- Added **MM - Enhanced Light**.
+- Added **MM - Enhanced Telekinesis**.
 - Added **Waterfall Lights Remover**.
 
 07-07-2022
