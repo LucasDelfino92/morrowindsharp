@@ -332,174 +332,9 @@ Renames soulgems so they'll group together in the inventory.
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
-## GAMEPLAY
-
-[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm.
-
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
-Endurance determines how long you can hold your breath under water.
-
-[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
-
-[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
-Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Cast VFX
-
-[**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
-Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] Enhanced Detection Less Lite
-
-[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
-Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
-
-[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
-Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Optional FPS
-
-[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
-Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Cast VFX
-
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions
-
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
-[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
-Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
-
-[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
-Applies the enchanted effect to any doors or containers with traps.
-
-[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-
-[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
-Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
-Modifies critical strike coefficient depending on the weapon you use.
-
-[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
-Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
-
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-
-## OVERHAULS
-
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
-Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
-
-[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
-Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill.
-- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
-
-[**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes ingredient consumption restrictions by **Greatness7** and **Sigourn**, and fixes by **Necrolesian**.
-
-[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
-Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
-
-[**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
-Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
-
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-Prevents the player from resting unless they activate a bed.
-
-[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
-Prevents the player from renting beds if diseased, be it common, Blight, or Corprus disease.
-
-[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-Damages NPCs' equipped gear on death, helping balance economy by nerfing one of the biggest sources of player income.
-- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
-
-[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-- After installation, hide the **Ownership Overhaul.ESP** plugin.
-
-[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
-
-Files to install:
-- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
-  - On MO2 installation, check the following options in the FOMOD installer:
-    - [X] Balanced Passive Races and Birthsigns Tweaked  
-    - [X] Morrowind Anti-Cheese Tweaked  
-    - [X] Beware the Sixth House Patch
-    - [X] Standard Loot Patch
-- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
-  - On MO2 installation, check the following options in the FOMOD installer:
-    - [X] Poison Crafting
-
-Additional files to install:
-- [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)
-  - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-- [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)
-
-[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game.
-
-[**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes a number of inconsistencies with the mod's creature edits.
-
-[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
-Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
-Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
-
-[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and compatibility tweaks by **Sigourn**.
-
-> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
-
 ## VISUALS
+
+### Meshes and textures
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
@@ -696,8 +531,6 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order.
 
-## SHADERS
-
 ### Shaders
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
@@ -708,26 +541,172 @@ A compilation of a handful of community-made shaders.
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 Core
 
-### Shader setup
+## GAMEPLAY
 
-- Run MGE XE in Mod Organizer 2.
-- In the **Graphics tab**, click **Enable shaders**.
-- Click **Shader setup...**.
-- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
-```
-SSAO HQ
-Underwater Interior Effects
-Invisibility
-EdgeAA
-deband_fogawarev3
-Underwater Effects
-Sunshafts
-Special Process
-Eye Adaptation (HDR)
-```
-- Click **Save** after setting up your shader chain.
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
+Implements the possibility of contracting blight diseases while out in a blight storm.
 
-> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
+Endurance determines how long you can hold your breath under water.
+
+[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330)  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
+Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Cast VFX
+
+[**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
+Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] Enhanced Detection Less Lite
+
+[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
+Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+
+[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
+Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Optional FPS
+
+[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
+Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Cast VFX
+
+[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
+Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
+
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions
+
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
+Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
+
+[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
+Applies the enchanted effect to any doors or containers with traps.
+
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
+
+[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
+Modifies critical strike coefficient depending on the weapon you use.
+
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+
+[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
+Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
+
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
+Levitation speed is now based on Willpower attribute instead of Speed.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
+
+## OVERHAULS
+
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
+Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
+
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110)  
+Attribute gains are no longer derived from level ups, but directly from skill increases; skill gains contribute to multiple attributes, to varying degrees depending on the skill; strong attributes increase faster than weak attributes; Luck automatically increases depending on the progression of your other attributes; skills and Endurnace contribute to determining your health; skills and Intelligence contribute to determining your magicka; Magicka regenerates over time, with the rate of regeneration determined by your initial and current skills in the magical arts and by your Willpower; each skill will start taking longer to increase once it reaches a certain threshold, which varies by skill.
+- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
+
+[**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes ingredient consumption restrictions by **Greatness7** and **Sigourn**, and fixes by **Necrolesian**.
+
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
+
+[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
+
+[**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
+Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
+
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from resting unless they activate a bed.
+
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
+Prevents the player from renting beds if diseased, be it common, Blight, or Corprus disease.
+
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
+Damages NPCs' equipped gear on death, helping balance economy by nerfing one of the biggest sources of player income.
+- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
+
+[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+- After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
+Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
+
+Files to install:
+- **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Balanced Passive Races and Birthsigns Tweaked  
+    - [X] Morrowind Anti-Cheese Tweaked  
+    - [X] Beware the Sixth House Patch
+    - [X] Standard Loot Patch
+- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Poison Crafting
+
+Additional files to install:
+- [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)
+  - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
+- [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)
+
+[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
+Makes the Sixth House, properly, the most difficult content in the game.
+
+[**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes a number of inconsistencies with the mod's creature edits.
+
+[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
+Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
+Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
+
+[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes some of the biggest exploits and balance issues in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and compatibility tweaks by **Sigourn**.
+
+> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
 
 ## FINISHING TOUCHES
 
@@ -804,6 +783,27 @@ The next step is to repair our updated save.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
 
+### Shader setup
+
+- Run MGE XE in Mod Organizer 2.
+- In the **Graphics tab**, click **Enable shaders**.
+- Click **Shader setup...**.
+- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
+```
+SSAO HQ
+Underwater Interior Effects
+Invisibility
+EdgeAA
+deband_fogawarev3
+Underwater Effects
+Sunshafts
+Special Process
+Eye Adaptation (HDR)
+```
+- Click **Save** after setting up your shader chain.
+
+> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+
 ### Updating MWSE
 
 - Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
@@ -862,6 +862,8 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **Skies .IV Resource Pack**.
 - Added **Lorkhan's Lunar Legacy**.
 - Added **Enhanced Night for skies .iv**.
+- Moved **Gameplay** and **Overhauls** sections after **Visuals**. This way the guide goes from purist to least purist, in order.
+- Shader setup instructions moved to **Finishing touches**, just after Distant Land setup instructions.
 
 07-07-2022
 - Added **Project Atlas - MET Velothi Fix**.
