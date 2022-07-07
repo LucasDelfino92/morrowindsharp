@@ -468,6 +468,9 @@ Files to install:
     - [X] Morrowind Anti-Cheese Tweaked  
     - [X] Beware the Sixth House Patch
     - [X] Standard Loot Patch
+- **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
+  - On MO2 installation, check the following options in the FOMOD installer:
+    - [X] Poison Crafting
 
 Additional files to install:
 - [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)
