@@ -352,14 +352,17 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detectio
 
 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
 Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] Enhanced Detection Less Lite
 
 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
 Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
+- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111).
 - On MO2 installation, check the following options in the BAIN installer:
   - [X] 00 - Core
   - [X] 01 - Optional FPS
@@ -661,9 +664,11 @@ Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circli
  
 Files to install:
 - **LLL - Optimal HD pack** (Main files)
- 
+
 [**Enhanced Night for skies.iv**](https://www.nexusmods.com/morrowind/mods/46850?)  
 Highly detailed starfield texture.
+- Requires [**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311) (Optional files).
+  - Delete all contents of the file minus **meshes\sky_night_02.nif**.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets.
