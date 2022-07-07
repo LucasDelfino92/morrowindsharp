@@ -141,6 +141,12 @@ Makes the game treat skill increases from quests as if there were raised via nor
 
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
+- After installation, run **TESAME** in Mod Organizer 2.
+- Delete the following record from **Services Restored.ESP**:
+  - NPC **hecerinde**
+- Save the plugin as **Services Restored.ESP**, overwriting the original.
+
+> ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
@@ -682,7 +688,6 @@ Includes configuration for the following mods, as well as additional edits not a
   - [X] Gameplay - Sneaky Strike
   - [X] Visuals - All-in-one
 
-
 ### Adjusting mod order and load order
 
 [**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
@@ -696,24 +701,6 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
-
-### Cleaning plugins
-
-For general dirty records, we use [**tes3cmd**](tools.md#tes3cmd), automatically cleaning them. This step is not necessary when following Morrowind Sharp.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, CTRL+left click on the plugin you want to clean.
-- With the plugin selected, right-click and click **Clean with tes3cmd**.
-- After the process is over, close the window.
-
-For specific records we want to delete, we use [**TESAME**](tools.md#tesame).
-
-- Run **TESAME** in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
-  - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original.
-
-> ℹ️ This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 
 ### Conflict resolution
 
@@ -754,16 +741,12 @@ The next step is to repair our updated save.
 
 ### Re-running Distant Land
 
-> ℹ️ If this is your first time generating Distant Land, follow the steps found [**in this section**](setup.md#distant-land-tab). Otherwise, proceed as follows.
-
 - Run MGE XE in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
 - Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
 - Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
-
-> ⚠️ For no reason should you ever enable **Remiros' Groundcover** plugins in Mod Organizer 2. These plugins are meant to be used for Distant Land generation only. If you enable them, you will find that you are unable to walk through grass. Likewise, if you generate Distant Land with the plugins enabled, but make the mistake of disabling the entire mod (instead of *just* the plugins) during gameplay, you will find missing meshes.
 
 ### Updating MWSE
 
