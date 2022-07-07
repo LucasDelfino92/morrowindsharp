@@ -616,6 +616,12 @@ Retextures the sun to make it more realistic and detailed.
 Files to install:
 - **Better Sun** (Main files)
 
+[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816)  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] 00 Core - Vertical System
+  - [X] 01 Enlightened Flames
+
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - On MO2 installation, check the following options in the FOMOD installer:
@@ -850,6 +856,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **MM - Enhanced Light**.
 - Added **MM - Enhanced Telekinesis**.
 - Added **Poison Crafting**.
+- Added **Enlightened Flames**
 - Added **Waterfall Lights Remover**.
 - Added **Skies .IV Resource Pack**.
 - Added **Lorkhan's Lunar Legacy**.
