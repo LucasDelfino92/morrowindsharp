@@ -373,6 +373,12 @@ Using telekinesis will now propel objects towards you with new VFX instead of im
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Labelled Potions
+
 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
@@ -826,7 +832,11 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **MM - Enhanced Invisibility**.
 - Added **MM - Enhanced Light**.
 - Added **MM - Enhanced Telekinesis**.
+- Added **Poison Crafting**.
 - Added **Waterfall Lights Remover**.
+- Added **Skies .IV Resource Pack**.
+- Added **Lorkhan's Lunar Legacy**.
+- Added **Enhanced Night for skies .iv**.
 
 07-07-2022
 - Added **Project Atlas - MET Velothi Fix**.
