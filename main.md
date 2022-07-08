@@ -374,7 +374,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
-- On MO2 installation, check the following option in the BAIN installer:
+- Check the following option in the BAIN installer:
   - [X] fade  
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
