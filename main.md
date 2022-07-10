@@ -272,6 +272,9 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
+[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
+Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
+
 [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
 Adds a feature-rich sprinting functionality to the game.
 
@@ -656,6 +659,11 @@ Provides functional and configurable magicka regeneration for the player, NPCs, 
 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)  
 Health is now calculated based on current Endurance, Strength and level.
 
+[**Black-Heart Blight Gimp**](https://www.nexusmods.com/morrowind/mods/48266)  
+Removes the Endurance drain from Black-Heart Blight, and adds it to Ash-chancre instead. Now Black-Heart Blight won't be as deadly to users of state-based health mods.
+
+> ℹ️ This mod can be safely skipped if you install **BTB's Game Improvements**.
+
 [**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
 Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
 - Install **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
@@ -693,7 +701,7 @@ Fixes some of the biggest exploits and balance issues in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and compatibility tweaks by **Sigourn**.
 
-> ℹ️ If you installed the **BTB's Game Improvements** compatible version as listed above, skip installing this mod.
+> ℹ️ This mod can be safely skipped if you installed the **BTB's Game Improvements** compatible version.
 
 ## FINISHING TOUCHES
 
@@ -838,6 +846,10 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # CHANGELOG
 
+07-10-2022
+- Added **Smarter Soultrap**.
+- Added **Black-Heart Blight Gimp**.
+
 07-09-2022
 - Updated **Morrowind Sharp Mod Config**.
 - Added **Magican't**.
@@ -850,7 +862,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **MWSE Magicka Mastery**. Replaces **Magicka Based Skill Progression -- MWSE-Lua Edition**.
 - Added **MWSE Magicka Regen**.
 - Added **MWSE State-Based Health**.
-- Removed **Know Thy Ancestors**. It was the only visual mod included because of immersion. rfuzzo's [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/fundamentals/visuals) covers these type of mods admirable.
+- Removed **Know Thy Ancestors**. It was the only visual mod included because of immersion. rfuzzo's [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/fundamentals/visuals) admirably covers this type of mods.
 - Organized mods inside categories to provide a better sense of direction. e.g. MWSE-based patches are grouped together, mesh fixes are grouped together, gameplay mods affecting the economy are gruoped together, etc.
 - Removed configuration files for mods no longer present in the guide.
 
@@ -872,32 +884,24 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **Project Atlas - MET Velothi Fix**.
 
 07-06-2022
-- Massive rearrangement of mods.
 - Added **Oblivion Crosshair**. Replaces **Essential Indicators**.
 - Added **Accurate Tooltip Stats**.
 - Added **Less Lame Leveled Spawns**.
 
 07-02-2022
 - Added **Realistic Archery**. Replaces **Marksman Rebalanced**.
-- Not to be considered a complete update, just some minor updating.
 
 06-28-2022
 - Removed **Loading Doors Lock Tune**. Some of the cases the mod "fixes" are actually intentional.
 - Added **Improved Lights for All Shaders**. Replaces **Glowing Flames**.
 - Moved **Doors Anti Stuck** and **Just Drop It** to essential fixes.
-- Not to be considered a complete update, just some minor updating.
 
 06-26-2022
 - Removed **Correct UV Rocks**. Covered by Morrowind Optimization Patch.
 - Removed **MET Hotfix**. No longer needed.
 
-06-25-2022
-- Mod Config set up as a FOMOD installer. Contents are otherwise identical.
-
 05-30-2022
-- Renamed guide to **Morrowind Sharp**.
-- Set extended guide as the default guide.
-- Final update.
+- Merged both guides into one.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
