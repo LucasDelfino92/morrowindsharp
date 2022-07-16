@@ -69,10 +69,8 @@ Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by instal
 
 Allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
-- Manually download **MGE XE Installer** (Main files).
-- Extract the contents of the file and run the **MGE XE Installer.exe**.
-- When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck the option to launch MGE XE Config and click **Finish**.
+- Manually download **MGE XE Manual Install** (Main files).
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
 - Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
 
 > ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. However, we will install **Weather Adjuster** in due time, a modern alternative.
@@ -98,9 +96,8 @@ This file contemplates the following landscape-altering scenarios:
 
 Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
 
-- Manually download and run **Wrye Mash 2019 x64 - Installer** (Main files).
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck the option to launch Wrye Mash and click **Finish**.
+- Manually download **Wrye Mash 2019 - x64 - manual installation archive** (Main files).
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 - Manually download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files) from the same page linked above.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update Wrye Mash to the latest beta version.
 - Execute **mash64.exe**, found in your **C:\Games\Morrowind\Mopy** folder.
