@@ -30,6 +30,25 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
+[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
+An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.
+- Check the following options in the FOMOD installer:
+  - [X] UMOPP Individual
+  - [X] Bitter Coast Sounds
+  - [X] Entertainers
+  - [X] (Compatibility Versions) LeFemm Armor
+  - [X] No Better Armor Compatibility
+
+[**Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107)  
+Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
+- Check the following options in the FOMOD installer:
+  - [X] Adamantium Armor
+  - [X] Area Effect Arrows
+  - [X] Helm of Tohan
+  - [X] Master Index
+  - [X] Siege at Firemoth
+  - [X] No High-Res Textures
+
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
@@ -731,22 +750,25 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
+- Close **Wrye Mash**.
+
+### Cleaning mods
+
+For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to clean.
+
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- Right-click **The Publicans.ESP**, and click **Clean with TES3cmd**.
+- After the process is finished, click **OK**.
+- Close **Wrye Mash**.
 
 ### Conflict resolution
 
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order. This step is not necessary when using Morrowind Sharp.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-- **multipatch.esp** will now be present at the end of your load order.
-
-For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
+For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
 
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
-- If using **BTB's Game Improvements**, place **Beware the Sixth House BTBGI Patch** after **Merged Objects.esp**. This will ensure improper record merges are overwritten by the intended custom merge.
+- If using **BTB's Game Improvements**, place both **Beware the Sixth House BTBGI Patch** and **BTBGI Loot Patch** after **Merged Objects.esp**. This will ensure improper record merges are overwritten by the intended custom merge.
 
 ### Updating and repairing saves
 
@@ -846,12 +868,25 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # CHANGELOG
 
+07-17-2022
+- Added **Unofficial Morrowind Official Plugins Patched**.
+- Added **Official Plugins Naturalized**.
+- Added **tes3cmd** cleaning instructions.
+- Reworked **TES3Merge** conflict solving instructions. Removed **multipatch** instructions.
+- Recently updated mods on **Nexus**:
+  - Improved Lights for All Shaders
+  - Just Drop it
+  - Magicka Expanded
+  - MM - Enhanced Detection
+  - MM - Enhanced Invisibility
+  - MM - Enhanced Telekinesis
+  - The Midnight Oil
+
 07-10-2022
 - Added **Smarter Soultrap**.
 - Added **Black-Heart Blight Gimp**.
 
 07-09-2022
-- Updated **Morrowind Sharp Mod Config**.
 - Added **Magican't**.
 - Added **MultiEnchant**.
 - Added **Character Creation Name Generator**.
@@ -862,9 +897,8 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **MWSE Magicka Mastery**. Replaces **Magicka Based Skill Progression -- MWSE-Lua Edition**.
 - Added **MWSE Magicka Regen**.
 - Added **MWSE State-Based Health**.
+- Updated **Morrowind Sharp Mod Config**. Includes removal of configuration files for mods no longer present in the guide.
 - Removed **Know Thy Ancestors**. It was the only visual mod included because of immersion. rfuzzo's [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/fundamentals/visuals) admirably covers this type of mods.
-- Organized mods inside categories to provide a better sense of direction. e.g. MWSE-based patches are grouped together, mesh fixes are grouped together, gameplay mods affecting the economy are gruoped together, etc.
-- Removed configuration files for mods no longer present in the guide.
 
 07-07-2022
 - Added **Silt Strider Animation Restored**.
@@ -877,8 +911,6 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **Skies .IV Resource Pack**.
 - Added **Lorkhan's Lunar Legacy**.
 - Added **Enhanced Night for skies .iv**.
-- Moved **Gameplay** and **Overhauls** sections after **Visuals**. This way the guide goes from purist to least purist, in order.
-- Shader setup instructions moved to **Finishing touches**, just after Distant Land setup instructions.
 
 07-07-2022
 - Added **Project Atlas - MET Velothi Fix**.
@@ -892,16 +924,12 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **Realistic Archery**. Replaces **Marksman Rebalanced**.
 
 06-28-2022
-- Removed **Loading Doors Lock Tune**. Some of the cases the mod "fixes" are actually intentional.
 - Added **Improved Lights for All Shaders**. Replaces **Glowing Flames**.
-- Moved **Doors Anti Stuck** and **Just Drop It** to essential fixes.
+- Removed **Loading Doors Lock Tune**. Some of the cases the mod "fixes" are actually intentional.
 
 06-26-2022
-- Removed **Correct UV Rocks**. Covered by Morrowind Optimization Patch.
+- Removed **Correct UV Rocks**. Now covered by **Morrowind Optimization Patch**.
 - Removed **MET Hotfix**. No longer needed.
-
-05-30-2022
-- Merged both guides into one.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
