@@ -868,6 +868,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # CHANGELOG
 
+07-18-2022
+- Updated **TES3Merge Custom INI**. Organized rules, added and removed some of them.
+
 07-17-2022
 - Added **Unofficial Morrowind Official Plugins Patched**.
 - Added **Official Plugins Naturalized**.
