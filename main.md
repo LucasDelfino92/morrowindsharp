@@ -209,9 +209,6 @@ Implements more accurate, context-dependent tooltip displays for weapon damage a
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
 
-[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
-Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
-
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
@@ -254,9 +251,6 @@ Adds a cancel button to Temple shrines and Imperial Cult altars.
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)  
-Enables picking up books by default.
-
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
 
@@ -296,8 +290,6 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## VISUALS
 
-### Meshes and textures
-
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install **kart_facelift_meshes** (Main files)
@@ -326,13 +318,6 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 - Check the following option in the BAIN installer:
   - [X] 00 Core
 
-[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
-Makes road signs legible. Uses high resolution vanilla-friendly textures.
-- Check the following options in the BAIN installer:
-  - [X] 00 Meshes
-  - [X] 01 Textures - High Resolution
-  - [X] 02 ESP - Vvardenfell only
-
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
@@ -349,6 +334,13 @@ Replaces the water in the Palace of Vivec's canals.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Original Color
+
+[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+- Check the following options in the BAIN installer:
+  - [X] 00 Meshes
+  - [X] 01 Textures - High Resolution
+  - [X] 02 ESP - Vvardenfell only
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
@@ -374,7 +366,7 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
   Ensures Ordinators always spawn with their helmets and shields.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
-Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install **WeaponSheathing1.6-MWSE** (Main files)
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
 - Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
@@ -387,20 +379,11 @@ Makes vanilla windows glow in the dark.
   - [X] Raven Rock Glass Windows  
   - [X] Telvanni Tower Interior Glow MGE XE
 
-[**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
-
-[**Lorkhan's Lunar Legacy**](https://www.nexusmods.com/morrowind/mods/45718?)  
-Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circling planet Nirn in the ethereal plane of Mundus.
-- Install **LLL - Optimal HD pack** (Main files)
-
-[**Enhanced Night for skies.iv**](https://www.nexusmods.com/morrowind/mods/46850?)  
-Highly detailed starfield texture.
-- Requires [**Skies .IV Resource Pack**](https://www.nexusmods.com/morrowind/mods/43311) (Optional files) to be installed.
-  - Delete all contents of the file minus **meshes\sky_night_02.nif**.
-
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
+
+[**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
+Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
 ### Distant land
 
@@ -573,7 +556,6 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Alt + Movement | Sprint | Sprinting
 K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
@@ -585,7 +567,6 @@ Alt + F4 | Creates a permanent save | Sophisticated Save System
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Activate+Left Shift | Pickup books without opening them | Book Pickup
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
@@ -599,9 +580,11 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Removed **Silt Strider Animation Restored**.
 - Removed **Oblivion Crosshair**.
 - Removed **Alchemical Knowledge**.
-- Removed **Clocks**. Not needed.
+- Removed **Book Worm**.
+- Removed **Clocks**.
 - Removed **Character Creation Name Generator**.
 - Removed **Quick Char (Necro Edit)**.
+- Removed **Book Pickup**.
 - Removed **Smarter Soultrap**.
 - Removed **Sprinting**.
 - Removed **Arukinns Better Books and Scrolls**.
@@ -609,10 +592,12 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Removed **Wolf Helmet Replacer**.
 - Removed **Better Sun**.
 - Removed **Enlightened Flames**.
-- Removed **Let There Be Darkness - Lua Lighting Overhaul**
+- Removed **Let There Be Darkness - Lua Lighting Overhaul**.
 - Removed **Light Decay**.
 - Removed **The Midnight Oil**.
 - Removed **Watch the Skies**.
+- Removed **Lorkhan's Lunar Legacy**.
+- Removed **Enhanced Night for skies.iv**.
 - Removed **Waterfall Lights Remover**
 - Removed **Blighted Blight**.
 - Removed **MM - Enhanced Detection**.
