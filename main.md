@@ -243,6 +243,8 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
+### Hotkeys
+
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a hotkey for summons, followers and companions to attack the selected target.
 
@@ -392,12 +394,6 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
-
-[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-
-[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
