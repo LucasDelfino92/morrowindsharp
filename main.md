@@ -127,9 +127,6 @@ Carries over unique item information, such as condition and script data when enc
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
 - Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) to be installed.
 
-[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
 [**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
 Empties the magic chance fillbar when you don't have enough magicka to cast the selected spell.
 
@@ -167,11 +164,6 @@ High resolution replacer for the Daedric font used in scrolls.
 - On MO2 installation, right-click **data files** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
 
-[**Magic Icons (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
-Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
-- Check the following option in the BAIN installer:
-  - [X] 00 Original Blue Color
-
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
 - Install **Pete's Journal and Scroll** (Optional files)
@@ -203,11 +195,21 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 > ℹ️ The dialog menu component, toggleable from the mod's configuration menu, highlights topics with unseen unique dialogue. For a closer to vanilla experience, you may want to disable this component.
 
-[**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
-Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
+Renames keys so they'll have a consistent naming scheme.
+- Install **Consistent Keys - MWSE Version** (Main files)
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
+Renames soulgems so they'll group together in the inventory.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
+
+[**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
+Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
 
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
@@ -268,16 +270,6 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
-
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
-Renames keys so they'll have a consistent naming scheme.
-- Install **Consistent Keys - MWSE Version** (Main files)
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
-Renames propylon indexes so they'll group together in the inventory.
-
-[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
-Renames soulgems so they'll group together in the inventory.
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
@@ -410,9 +402,6 @@ A compilation of a handful of community-made shaders.
   - [X] 00 Core
 
 ## GAMEPLAY
-
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
-Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -570,69 +559,6 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
-
-# CHANGELOG
-
-07-22-2022
-- Removed **Unofficial Morrowind Official Plugins Patched**.
-- Removed **Official Plugins Naturalized**.
-- Removed **Adamantium Ore Fix (PfP Edit)**.
-- Removed **Silt Strider Animation Restored**.
-- Removed **Oblivion Crosshair**.
-- Removed **Alchemical Knowledge**.
-- Removed **Book Worm**.
-- Removed **Clocks**.
-- Removed **Character Creation Name Generator**.
-- Removed **Quick Char (Necro Edit)**.
-- Removed **Book Pickup**.
-- Removed **Smarter Soultrap**.
-- Removed **Sprinting**.
-- Removed **Arukinns Better Books and Scrolls**.
-- Removed **Imperial Steel Cuirass Fix**.
-- Removed **Wolf Helmet Replacer**.
-- Removed **Better Sun**.
-- Removed **Enlightened Flames**.
-- Removed **Let There Be Darkness - Lua Lighting Overhaul**.
-- Removed **Light Decay**.
-- Removed **The Midnight Oil**.
-- Removed **Watch the Skies**.
-- Removed **Lorkhan's Lunar Legacy**.
-- Removed **Enhanced Night for skies.iv**.
-- Removed **Waterfall Lights Remover**
-- Removed **Blighted Blight**.
-- Removed **MM - Enhanced Detection**.
-- Removed **Enhanced Detection Lite**.
-- Removed **MM - Enhanced Invisibility**.
-- Removed **MM - Enhanced Light**.
-- Removed **MM - Enhanced Telekinesis**.
-- Removed **Nimble Armor**.
-- Removed **Locks and Traps Detection**.
-- Removed **Visually Trapped Objects**.
-- Removed **Poison Crafting**.
-- Removed **Realistic Archery**.
-- Removed **Sneaky Strike**.
-- Removed **Hold Your Breath**.
-- Removed **Putting Power in Willpower**.
-- Removed **Realistic Movement Speeds**.
-- Removed **Wading in Water**.
-- Removed **Wings of Will**.
-- Removed **Controlled Consumption**.
-- Removed **No Rest Without Beds**.
-- Removed **No Beds for the Diseased**.
-- Removed **Harder Barter**.
-- Removed **Realistic Repair**.
-- Removed **Better Character Classes**.
-- Removed **Improved Vanilla Leveling**.
-- Removed **Class Skill Limit**.
-- Removed **MWSE Magicka Mastery**.
-- Removed **MWSE Magicka Regen**.
-- Removed **MWSE State-Based Health**.
-- Removed **Black-Heart Blight Gimp**.
-- Removed **BTB's Game Improvements (Necro Edit) Tweaked**.
-- Removed **Economy Adjuster Adjustments**.
-- Removed **Enchanted Weapon Resistance**.
-- Removed **Early Transport to Mournhold**.
-- Removed **Morrowind Anti-Cheese**.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
