@@ -414,18 +414,13 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Mod configuration
 
-[**Morrowind Sharp Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20Mod%20Config.7z)  
+[**Morrowind Sharp Mod Config (Codex)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20Mod%20Config%20(Codex).7z)  
 Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
-- Check the following options in the FOMOD installer:
-  - [X] Patches - All-in-one
-  - [X] User Interface - All-in-one
-  - [X] Gameplay QOL - All-in-one
-  - [X] Gameplay - All-in-one
-  - [X] Visuals - All-in-one
+- Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files (Codex)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Morrowind%20Sharp%20MO2%20Profile%20Files%20(Codex).7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
