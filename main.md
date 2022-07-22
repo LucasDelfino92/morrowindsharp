@@ -22,13 +22,18 @@ To create a separator, follow these stpes:
 
 ## PATCHES
 
-### Essential fixes
+### General fixes
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
+- Check the following option in the FOMOD installer:
+  - [X] Patch for Purists
+
+[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
@@ -39,13 +44,22 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
   - [X] 00 Vanilla Ghostgate
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance. Consider it an unofficial dialogue patch.
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+- After installation, run **TESAME** in Mod Organizer 2.
+- Delete the following record from **Services Restored.ESP**:
+  - NPC **hecerinde**
+- Save the plugin as **Services Restored.ESP**, overwriting the original. This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
+### Mesh fixes
 
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
@@ -86,49 +100,29 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 - On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
 
-[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
-Avoids actors getting stuck while opening doors.
-
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
-Forces the game to instantly close on exit.
-
-[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
-Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
-
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
-### Optional fixes
-
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- Check the following option in the FOMOD installer:
-  - [X] Patch for Purists
-
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
-
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- After installation, run **TESAME** in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
-  - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original.
-
-> ℹ️ This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
+### MWSE fixes
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
+
+[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
+Avoids actors getting stuck while opening doors.
+
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
+Forces the game to instantly close on exit.
 
 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
 - Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) to be installed.
 
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
 [**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
 Empties the magic chance fillbar when you don't have enough magicka to cast the selected spell.
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
+Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
 [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 Multi-enchantments will no longer unfairly increase capacity consumption.
@@ -138,6 +132,9 @@ Makes the game treat skill increases from quests as if there were raised via nor
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
 Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
+
+[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
+Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
 ## USER INTERFACE
 
@@ -193,8 +190,6 @@ Restores the class description tooltip to the class selection menu, making it ea
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-> ℹ️ The dialog menu component, toggleable from the mod's configuration menu, highlights topics with unseen unique dialogue. For a closer to vanilla experience, you may want to disable this component.
-
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
 - Install **Consistent Keys - MWSE Version** (Main files)
@@ -218,7 +213,9 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 - Install **Compact Version** (Main files)
 
-## GAMEPLAY QOL
+## QOL IMPROVEMENTS
+
+### Gameplay
 
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
@@ -270,6 +267,8 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
+
+### Audio
 
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
@@ -424,6 +423,11 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+## EXPANSION HANDLING
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
