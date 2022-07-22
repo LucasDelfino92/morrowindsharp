@@ -30,25 +30,6 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
-[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
-An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.
-- Check the following options in the FOMOD installer:
-  - [X] UMOPP Individual
-  - [X] Bitter Coast Sounds
-  - [X] Entertainers
-  - [X] (Compatibility Versions) LeFemm Armor
-  - [X] No Better Armor Compatibility
-
-[**Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107)  
-Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
-- Check the following options in the FOMOD installer:
-  - [X] Adamantium Armor
-  - [X] Area Effect Arrows
-  - [X] Helm of Tohan
-  - [X] Master Index
-  - [X] Siege at Firemoth
-  - [X] No High-Res Textures
-
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
@@ -58,7 +39,7 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
   - [X] 00 Vanilla Ghostgate
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance. Consider it an unofficial dialogue patch.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -122,11 +103,6 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 ### Optional fixes
 
-[**Adamantium Ore Fix (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**. The featured version includes **Patch for Purists** fixes.
-
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -143,9 +119,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - Save the plugin as **Services Restored.ESP**, overwriting the original.
 
 > ℹ️ This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
-Restores an unused Silt Strider animation. It also comes with a previously unused sound. Siltstriders now have 50/50 chances to play either the original animation or the restored one.
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
@@ -194,9 +167,6 @@ High resolution replacer for the Daedric font used in scrolls.
 - On MO2 installation, right-click **data files** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
 
-[**Oblivion Crosshair**](https://www.nexusmods.com/morrowind/mods/45662)  
-Replaces the default crosshair in Morrowind (which would suit a shooter game better) with that of Oblivion's, which blends in nicely with the game's UI.
-
 [**Magic Icons (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/50223)  
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
 - Check the following option in the BAIN installer:
@@ -236,17 +206,11 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
 Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
 
-[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
-Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
-
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
 
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)  
 Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
-
-[**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)  
-Adds a clock to the UI that displays either game world time or real time.
 
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
@@ -257,15 +221,8 @@ Adds bars to the UI that displays your companions and summoned creatures' health
 
 ## GAMEPLAY QOL
 
-[**Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)  
-Allows generation of a random name for your character upon character creation.
-
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
-
-[**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-- After installation, hide the mod's **Quick Char (Necro Timescale6 Edit).esp** plugin.
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -290,12 +247,6 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-[**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)  
-Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
-
-[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)  
-Adds a feature-rich sprinting functionality to the game.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
@@ -365,16 +316,6 @@ Compatibility patch for Morrowind Enhanced Textures.
 - Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
   - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
 
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)  
-Povides high resolution textures for bookcovers, bookpages, and scrolls, which were lacking detail compared to the other textures from Morrowind Enhanced Textures.
-
-> ℹ️ This mod contains lore-unfriendly textures for the books' pages, notably, the depiction of Jesus Christ in one of the textures. For consistency, you may wish to hide all textures related to book pages. For the most egregious examples, I suggest hiding the following textures. 
-
-```
-textures\tx_book_pages_03.dds
-textures\tx_book_pages_08.dds
-```
-
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 - Check the following option in the BAIN installer:
@@ -426,12 +367,6 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 
 > ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
 
-[**Imperial Steel Cuirass Fix**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Imperial%20Steel%20Cuirass%20Fix.7z)  
-Adds the missing belt to the male Imperial Steel Cuirass.
-
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281/)  
-Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws.
-
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 - Install **Yet Another Guard Diversity - Regular** (Main files)
@@ -445,16 +380,6 @@ Equipped weapons will be shown on the character's hip or back. This new function
 - Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
 - Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
 
-[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)  
-Retextures the sun to make it more realistic and detailed.
-- Install **Better Sun** (Main files)
-
-[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816)  
-Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
-- Check the following options in the FOMOD installer:
-  - [X] 00 Core - Vertical System
-  - [X] 01 Enlightened Flames
-
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
 - Check the following options in the FOMOD installer:
@@ -462,44 +387,8 @@ Makes vanilla windows glow in the dark.
   - [X] Raven Rock Glass Windows  
   - [X] Telvanni Tower Interior Glow MGE XE
 
-[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)  
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)  
-The radius of light sources will gradually diminish and eventually go out when the light extinguishes.
-
-[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
-Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
-
 [**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
-
-[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437)  
-Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
-
-[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
-Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances and an increasing chance of Blight throughout Vvardenfell before the Main Quest is complete, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Clouds Textures 1k
-  - [X] 03 Weather particles replacer
-
-> ℹ️ Some of the sky textures included in this mod can be very jarring. I suggest hiding the following textures.
-
-```
-textures\tew\Watch the Skies\ash\tew_ash_8.dds
-textures\tew\Watch the Skies\ash\tew_ash_9.dds
-textures\tew\Watch the Skies\ash\tew_ash_10.dds
-textures\tew\Watch the Skies\ash\tew_ash_11.dds
-textures\tew\Watch the Skies\ash\tew_ash_14.dds
-textures\tew\Watch the Skies\blight\tew_blight_3.dds
-textures\tew\Watch the Skies\blight\tew_blight_10.dds
-textures\tew\Watch the Skies\blight\tew_blight_11.dds
-textures\tew\Watch the Skies\clear\tew_clear_7.dds
-textures\tew\Watch the Skies\foggy\tew_foggy_6.dds
-textures\tew\Watch the Skies\foggy\tew_foggy_7.dds
-textures\tew\Watch the Skies\thunder\tew_thunder_5.dds
-```
 
 [**Lorkhan's Lunar Legacy**](https://www.nexusmods.com/morrowind/mods/45718?)  
 Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circling planet Nirn in the ethereal plane of Mundus.
@@ -539,114 +428,11 @@ A compilation of a handful of community-made shaders.
 
 ## GAMEPLAY
 
-[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631)  
-Implements the possibility of contracting blight diseases while out in a blight storm.
-
-[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
-Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Cast VFX
-
-[**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)  
-Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only: Detect Trap and Detect Door.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-- Check the following option in the BAIN installer:
-  - [X] Enhanced Detection Less Lite
-
-[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
-Makes the Invisibility effect change the way you view the world, warping and twisting the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-
-[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)  
-Replaces the Light magic effect with a Skyrim-style magelight effect, creating an orb of light that will follow and float around you and other NPCs.
-- Requires [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) to be installed.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Optional FPS
-
-[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
-Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Cast VFX
-
-[**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)  
-Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
-
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
-[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)  
-Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
-
-[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)  
-Applies the enchanted effect to any doors or containers with traps.
-
-[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-
-[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Labelled Potions
-
-[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
-Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
-
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
-Modifies critical strike coefficient depending on the weapon you use.
-
 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)  
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
-[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)  
-Endurance determines how long you can hold your breath under water.
-
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)  
-Rebalances the Willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
-Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
-
-[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-[**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)  
-Slows down all creatures, NPCs, and the player when they are walking half-submerged in water.
-
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)  
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-
-## OVERHAULS
-
-[**Controlled Consumption (G7 - Sig - Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes ingredient consumption restrictions by **Greatness7** and **Sigourn**, and fixes by **Necrolesian**.
-
-[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-Prevents the player from resting unless they activate a bed.
-
-[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232)  
-Prevents the player from renting beds if diseased, be it common, Blight, or Corprus disease.
-
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-[**Harder Barter (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46188) to original mod by **mort**. The featured version includes fixes by **Sigourn**.
 
 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
 Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
@@ -655,50 +441,17 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
 
-[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-Damages NPCs' equipped gear on death, helping balance economy by nerfing one of the biggest sources of player income.
-- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
-[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078)  
-Balances and improves the vanilla default classes. Improves selection of armor and weapon skills, and removes "dead" skills when appropriate.
+[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
+Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
 
-[**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)  
-Preserves vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-[**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989)  
-Imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
-
-[**MWSE Magicka Mastery**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/magickaMastery.zip)  
-Spells cost less Magicka to cast the more skilled you are, and more expensive spells give more experience.
-- Install as **MWSE Magicka Mastery**.
-
-[**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129)  
-Provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind. 
-
-[**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)  
-Health is now calculated based on current Endurance, Strength and level.
-
-[**Black-Heart Blight Gimp**](https://www.nexusmods.com/morrowind/mods/48266)  
-Removes the Endurance drain from Black-Heart Blight, and adds it to Ash-chancre instead. Now Black-Heart Blight won't be as deadly to users of state-based health mods.
-
-> ℹ️ This mod can be safely skipped if you install **BTB's Game Improvements**.
-
-[**BTB's Game Improvements (Necro Edit) Tweaked**](https://www.nexusmods.com/morrowind/mods/50308)  
-Massive game balance overhaul that touches on just about every aspect of Morrowind. Not recommended for beginners, or purist players, or anyone who dislikes reading Readmes. This version features my own personal tweaks on top of Necrolesian's original mod.
-- Install **BTB's Game Improvements (Necro Edit) Tweaked** (Main files)  
-  - Check the following options in the FOMOD installer:
-    - [X] Balanced Passive Races and Birthsigns Tweaked  
-    - [X] Morrowind Anti-Cheese Tweaked  
-    - [X] Beware the Sixth House Patch
-    - [X] Standard Loot Patch
-- Install **BTB's Game Improvements (Necro Edit) Tweaked - Patches** (Main files)
-  - Check the following option in the FOMOD installer:
-    - [X] Poison Crafting
-- Install [**Economy Adjuster Adjustments**](https://www.nexusmods.com/morrowind/mods/47130)  
-  Increases the penalties for crime.
-  - Hide all plugins except **EcoAdjCrime (Necro Edit).ESP**.
-- Install [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194)  
-  Makes enchanted weapons made out of normal materials no longer ignore normal weapon resistance.
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
@@ -712,16 +465,6 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin. Recommended for use with **Expansion Delay** and **Tribunal Rebalance**.
-
-[**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes some of the biggest exploits and balance issues in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and compatibility tweaks by **Sigourn**.
-
-> ℹ️ This mod can be safely skipped if you installed the **BTB's Game Improvements** compatible version.
-
 ## FINISHING TOUCHES
 
 ### Mod configuration
@@ -733,8 +476,6 @@ Includes configuration for the following mods, as well as additional edits not a
   - [X] User Interface - All-in-one
   - [X] Gameplay QOL - All-in-one
   - [X] Gameplay - All-in-one
-  - [X] Gameplay - Enhanced Detection Lite
-  - [X] Gameplay - Sneaky Strike
   - [X] Visuals - All-in-one
 
 ### Adjusting mod order and load order
@@ -768,7 +509,6 @@ For record and leveled list conflicts we use **TES3Merge**, generating a **Merge
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
-- If using **BTB's Game Improvements**, place both **Beware the Sixth House BTBGI Patch** and **BTBGI Loot Patch** after **Merged Objects.esp**. This will ensure improper record merges are overwritten by the intended custom merge.
 
 ### Updating and repairing saves
 
@@ -809,7 +549,6 @@ The next step is to repair our updated save.
 ```
 SSAO HQ
 Underwater Interior Effects
-Invisibility
 EdgeAA
 deband_fogawarev3
 Underwater Effects
@@ -828,19 +567,6 @@ Eye Adaptation (HDR)
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-### Additional MCP patches
-
-We installed the Morrowind Code Patch in the **Setup** page. However, certain mods installed in this guide require specific patches to work as intended. Note that the Morrowind Code Patch **remembers** your **previously installed options**, meaning you just need to look for the ones mentioned below and install them accordingly.
-
-Category | Patch | Description
------------- | ------------- | -------------
-Game mechanics | Healthy appetite | Eating ingredients always succeeds, giving its first effect and skill advancement. **Controlled Consumption** prevents you from spamming their consumption for overpowered effects.
-Game mechanics | Hidden traps | Turns off the display of trap status on object tooltips. **Locks and Traps Detection** requires this patch.
-Game mechanics | Hidden locks | Turns off the display of lock status on object tooltips. **Locks and Traps Detection** requires this patch.
-Game mechanics | Attribute uncap | Allows levelling of the eight main attributes past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
-Game mechanics | Skill uncap | Allows levelling of player skills past 100. **Balanced Passive Races and Birthsigns** benefits from the use of this patch.
-Mod specific | Weapon resistance change | Enchanted weapons no longer bypass the "normal weapon resistance" that many daedra possess. **Enchanted Weapon Resistance** requires this patch for it to work.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
@@ -849,7 +575,6 @@ Key | Function | Added by
 ------------ | ------------- | -------------
 Alt + Movement | Sprint | Sprinting
 K | Orders followers to attack the current target | Kill Command
-N | Switch between in-game/real time clock | Clocks
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
@@ -860,13 +585,69 @@ Alt + F4 | Creates a permanent save | Sophisticated Save System
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Activate+Left Shift | Toggles light on/off | The Midnight Oil
 Activate+Left Shift | Pickup books without opening them | Book Pickup
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-22-2022
+- Removed **Unofficial Morrowind Official Plugins Patched**.
+- Removed **Official Plugins Naturalized**.
+- Removed **Adamantium Ore Fix (PfP Edit)**.
+- Removed **Silt Strider Animation Restored**.
+- Removed **Oblivion Crosshair**.
+- Removed **Alchemical Knowledge**.
+- Removed **Clocks**. Not needed.
+- Removed **Character Creation Name Generator**.
+- Removed **Quick Char (Necro Edit)**.
+- Removed **Smarter Soultrap**.
+- Removed **Sprinting**.
+- Removed **Arukinns Better Books and Scrolls**.
+- Removed **Imperial Steel Cuirass Fix**.
+- Removed **Wolf Helmet Replacer**.
+- Removed **Better Sun**.
+- Removed **Enlightened Flames**.
+- Removed **Let There Be Darkness - Lua Lighting Overhaul**
+- Removed **Light Decay**.
+- Removed **The Midnight Oil**.
+- Removed **Watch the Skies**.
+- Removed **Waterfall Lights Remover**
+- Removed **Blighted Blight**.
+- Removed **MM - Enhanced Detection**.
+- Removed **Enhanced Detection Lite**.
+- Removed **MM - Enhanced Invisibility**.
+- Removed **MM - Enhanced Light**.
+- Removed **MM - Enhanced Telekinesis**.
+- Removed **Nimble Armor**.
+- Removed **Locks and Traps Detection**.
+- Removed **Visually Trapped Objects**.
+- Removed **Poison Crafting**.
+- Removed **Realistic Archery**.
+- Removed **Sneaky Strike**.
+- Removed **Hold Your Breath**.
+- Removed **Putting Power in Willpower**.
+- Removed **Realistic Movement Speeds**.
+- Removed **Wading in Water**.
+- Removed **Wings of Will**.
+- Removed **Controlled Consumption**.
+- Removed **No Rest Without Beds**.
+- Removed **No Beds for the Diseased**.
+- Removed **Harder Barter**.
+- Removed **Realistic Repair**.
+- Removed **Better Character Classes**.
+- Removed **Improved Vanilla Leveling**.
+- Removed **Class Skill Limit**.
+- Removed **MWSE Magicka Mastery**.
+- Removed **MWSE Magicka Regen**.
+- Removed **MWSE State-Based Health**.
+- Removed **Black-Heart Blight Gimp**.
+- Removed **BTB's Game Improvements (Necro Edit) Tweaked**.
+- Removed **Economy Adjuster Adjustments**.
+- Removed **Enchanted Weapon Resistance**.
+- Removed **Early Transport to Mournhold**.
+- Removed **Morrowind Anti-Cheese**.
 
 07-18-2022
 - Updated **TES3Merge Custom INI**. Organized rules, added and removed some of them.
