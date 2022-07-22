@@ -243,9 +243,6 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
-Expands the amount of quick menu hotkeys available.
-
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a hotkey for summons, followers and companions to attack the selected target.
 
@@ -320,23 +317,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
-Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-
-[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
-Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
-
-[**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)  
-Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
-
-[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
-Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
-
-[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-> ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
-
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 - Install **Yet Another Guard Diversity - Regular** (Main files)
@@ -349,6 +329,20 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
 - Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
 - Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
+
+[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+
+[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
+Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
+
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
+Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
+
+[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+
+> ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
@@ -363,9 +357,9 @@ Visual weather editor which allows for user-made presets. Required for the confi
 [**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
 
-### Distant land
+### MGE XE
 
-> ⚠️ These mods require [**Distant Land**](main2.md#re-running-distant-land) generation to work as intended.
+> ⚠️ The following mods require [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
@@ -377,7 +371,7 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
 
-### Shaders
+> ⚠️ The following mods require [**Shader Setup**](main.md#shader-setup) to work as intended.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
@@ -404,8 +398,6 @@ Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time me
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-## EXPANSION HANDLING
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
