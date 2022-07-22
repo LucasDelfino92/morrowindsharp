@@ -105,9 +105,6 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 ### MWSE fixes
 
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
-Carries over unique item information, such as condition and script data when enchanting items.
-
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
 
@@ -120,18 +117,6 @@ Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the 
 
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
-Empties the magic chance fillbar when you don't have enough magicka to cast the selected spell.
-
-[**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
-Multi-enchantments will no longer unfairly increase capacity consumption.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
-Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
@@ -152,6 +137,9 @@ High resolution replacer for the Daedric font used in scrolls.
 
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
+
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
+Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
@@ -196,9 +184,6 @@ Adds tooltips with the effect's name to shrines when hovering over the different
 ## QOL IMPROVEMENTS
 
 ### Gameplay
-
-[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
-Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
