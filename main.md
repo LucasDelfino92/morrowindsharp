@@ -141,20 +141,6 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 ## USER INTERFACE
 
-### High resolution UI
-
-[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
-HD recreation of the Title and Logo Intro, in widescreen.
-- Install **Title Screen Reworked (Widescreen)** (Main files)
-
-[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)  
-Adds three missing Bethesda splash screens in widescreen resolution.
-- On MO2 installation, right-click **data files** and create a **Splash** folder.
-- Drag and drop the **.tga** files into it.
-
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
 - Install **Better Dialogue Font** (Main files)
@@ -163,8 +149,6 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 High resolution replacer for the Daedric font used in scrolls. 
 - On MO2 installation, right-click **data files** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
-
-### UI additions and improvements
 
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
