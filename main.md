@@ -46,6 +46,9 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
+[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
+Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
+
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - After installation, run **TESAME** in Mod Organizer 2.
@@ -121,9 +124,6 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
 Empties the magic chance fillbar when you don't have enough magicka to cast the selected spell.
 
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
 [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 Multi-enchantments will no longer unfairly increase capacity consumption.
 
@@ -135,6 +135,9 @@ Fixes several engines related to GMSTs used when raising skills via NPC training
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
+Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
 ## USER INTERFACE
 
@@ -160,19 +163,6 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 High resolution replacer for the Daedric font used in scrolls. 
 - On MO2 installation, right-click **data files** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
-
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install **Pete's Journal and Scroll** (Optional files)
-  - Check the following option in the BAIN installer:
-    - [X] 01 Journal and Scroll - 2K
-
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
-Replaces most of the original book arts with hi-res images redrawn from scratch.
-- On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
-
-[**Comrade Raven's Book Arts (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)  
-Patches the mod for compatibility with Patch for Purists.
 
 ### UI additions and improvements
 
@@ -249,6 +239,9 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
@@ -382,7 +375,7 @@ Adds groundcover to almost all regions.
 - Check the following options in the BAIN installer:
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
-- After installation, disable (do not hide or delete) all of the mod's plugins in your load order.
+- After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
 
 ### Shaders
 
@@ -409,14 +402,8 @@ Assigns ownership to the many, many items and containers that rightly should be 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
 
-[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
-Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
-
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 ## EXPANSION HANDLING
 
@@ -479,27 +466,6 @@ For record and leveled list conflicts we use **TES3Merge**, generating a **Merge
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
-
-### Updating and repairing saves
-
-When uninstalling or modifying plugins in an on-going save, Morrowind will greet us with the following message on loading our save:
-```
-The currently selected master files and plugins do not match the ones used by this save game. 
-Errors may occur during load or game play. Do you wish to continue?
-```
-This means we need to synchronize our save's plugins to our current load order.
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
-- Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
-- Once the window has closed, right click on the **Master** header above your save's masters and plugins, and click **Sync to Load List**.
-- Click on the **Save** button further below the same panel.
-
-The next step is to repair our updated save.
-
-- Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
-- You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
 ### Re-running Distant Land
 
