@@ -213,6 +213,12 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 - Install **Compact Version** (Main files)
 
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
+Adds tooltips with the effect's name to shrines when hovering over the different options.
+
 ## QOL IMPROVEMENTS
 
 ### Gameplay
@@ -243,12 +249,6 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-
-[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
 
 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)  
 Expands the amount of quick menu hotkeys available.
@@ -319,12 +319,6 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
-
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)  
-Replaces the water in the Palace of Vivec's canals.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Original Color
 
 [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
