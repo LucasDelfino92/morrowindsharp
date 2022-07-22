@@ -325,9 +325,6 @@ Makes vanilla windows glow in the dark.
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
-[**Transporter Lights (MWSE)**](https://www.nexusmods.com/morrowind/mods/48050)  
-Caravaners, Gondoliers, and Shipmasters equip lights at night to make them more visible.
-
 ### MGE XE
 
 > ⚠️ The following mods require [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
