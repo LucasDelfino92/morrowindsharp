@@ -400,6 +400,8 @@ For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to c
 
 For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
 
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3Merge%20Custom%20INI.7z).
+- Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
