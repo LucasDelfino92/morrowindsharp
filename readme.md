@@ -9,7 +9,7 @@
 - Bugs and stability: includes all major bug fixes released for the game so far, with an emphasis on squashing the most noticeable bugs.
 - User interface: improved functionality and expanded hotkeys.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
-- Gameplay: basic quality of life improvements, leaving the core experience intact.
+- Gameplay: basic quality of life improvements, leaving the core experience intact. My opinion is that Morrowind is not to be enjoyed because of its gameplay, so the best thing we can do is to accept it for what it is.
 - DLCs: reworked implementation, expansions delayed and rebalanced.
 
 This modlist is meant to address issues with the game, as well as perceived shortcomings. Because it is offered "as is", I won't be answering compatibility questions: the modlist is to be considered complete. For compatibility questions, the modlist includes instructions on the installation of **TES3View**.
