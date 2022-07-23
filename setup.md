@@ -70,7 +70,7 @@ Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by instal
 Allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 - Manually download **MGE XE Manual Install** (Main files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
 - Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
 
 > ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. However, we will install **Weather Adjuster** in due time, a modern alternative.
@@ -79,7 +79,7 @@ MGE XE doesn't account for in-game scenarios which affect the landscape of Morro
 
 - Download [**Abot Distant Statics Overrides - Necro Edit 2.0.1**](https://www.dropbox.com/s/9rgwv9yjbipp5gi/Abot%20Distant%20Statics%20Overrides%20-%20Necro%20Edit%202.0.1.7z?dl=1).
 - Extract the contents of the file.
-- Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory, overwriting when prompted.
+- Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory.
 
 This file contemplates the following landscape-altering scenarios:
 
@@ -114,7 +114,7 @@ Repairs and updates saves, updates the masters of mods, and runs tes3cmd in orde
 
 ### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
-Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solves a number of conflicts/issues by means of a plugin, **multipatch.esp**.
+Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods).
 
 - Place tes3cmd.exe in your **C:\Games\Morrowind\Data Files** folder.
 
