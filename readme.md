@@ -6,11 +6,11 @@
 
 **Morrowind Sharp** is a modular modlist for **The Elder Scrolls III: Morrowind**. It addresses a number of significant issues with the game:
 
-- Bugs and stability: includes all major bug fixes released for the game so far.
-- DLCs: reworked implementation, expansions delayed in the most immersive way possible.
-- User interface: high resolution assets, improved functionality, and expanded hotkeys.
+- Bugs and stability: includes all major bug fixes released for the game so far, with an emphasis on squashing the most noticeable bugs.
+- User interface: improved functionality and expanded hotkeys.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
-- Gameplay: basic quality of life improvements brought over from modern TES titles, as well as modern improvements to the gameplay and balance without sacrificing the authenticity of the game for the most part.
+- Gameplay: basic quality of life improvements, leaving the core experience intact.
+- DLCs: reworked implementation, expansions delayed and rebalanced.
 
 This modlist is meant to address issues with the game, as well as perceived shortcomings. Because it is offered "as is", I won't be answering compatibility questions: the modlist is to be considered complete. For compatibility questions, the modlist includes instructions on the installation of **TES3View**.
 
@@ -33,7 +33,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How much space do I need to install these mods?
 
-Roughly 7GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
+Roughly 6GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
 
 ### Is this modlist compatible with OpenMW?
 
