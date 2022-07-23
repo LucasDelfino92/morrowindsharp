@@ -206,6 +206,13 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+- Check the following options in the BAIN installer:
+  - [X] 00 Meshes
+  - [X] 01 Textures - High Resolution
+  - [X] 02 ESP - Vvardenfell only
+
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
@@ -277,13 +284,6 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
-
-[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
-Makes road signs legible. Uses high resolution vanilla-friendly textures.
-- Check the following options in the BAIN installer:
-  - [X] 00 Meshes
-  - [X] 01 Textures - High Resolution
-  - [X] 02 ESP - Vvardenfell only
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
