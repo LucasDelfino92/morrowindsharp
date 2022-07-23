@@ -152,6 +152,9 @@ Restores the class description tooltip to the class selection menu, making it ea
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
 
+[**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
+Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
+
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
 - Install **Consistent Keys - MWSE Version** (Main files)
@@ -162,18 +165,15 @@ Renames propylon indexes so they'll group together in the inventory.
 [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
 Renames soulgems so they'll group together in the inventory.
 
-[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
-Allows highlighting and hiding quests in the Journal questlist.
-
-[**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
-Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
-
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 - Install **Compact Version** (Main files)
+
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
+Allows highlighting and hiding quests in the Journal questlist.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
