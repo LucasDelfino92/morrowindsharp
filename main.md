@@ -284,9 +284,6 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
-- Install **Yet Another Guard Diversity - Regular** (Main files)
-- Install [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)  
-  Ensures Ordinators always spawn with their helmets and shields.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -297,9 +294,6 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-
-[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
-Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
@@ -364,9 +358,6 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game.
 
-[**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes a number of inconsistencies with the mod's creature edits.
-
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -377,13 +368,13 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 
 ### Mod configuration
 
-[**Morrowind Sharp Mod Config (Codex)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20Mod%20Config%20(Codex).7z)  
-Includes configuration for the following mods, as well as additional edits not available through the in-game menu.
+[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
+Includes configuration files and patches for mods included in the guide.
 - Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files (Codex)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20MO2%20Profile%20Files%20(Codex).7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
