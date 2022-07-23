@@ -33,7 +33,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How much space do I need to install these mods?
 
-Roughly 6GB. Morrowind Enhanced Textures accounts for most of that space, and it is entirely optional, even if thoroughly recommended.
+5.4GB. Morrowind Enhanced Textures accounts for most of that space (4.3GB), and it is entirely optional, even if thoroughly recommended.
 
 ### Is this modlist compatible with OpenMW?
 
