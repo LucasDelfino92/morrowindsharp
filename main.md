@@ -141,7 +141,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
@@ -261,7 +261,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files)
   - On MO2 installation, merge into **Project Atlas** when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
+- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
   - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -301,13 +301,13 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
+[**Alex's Better Fitted Female Armors (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)  
 Patches the mod for Patch for Purists compatibility, and removes edits to cuirasses that already had a female variant in Tribunal.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
-[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
+[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
 > ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
@@ -341,7 +341,7 @@ Adds groundcover to almost all regions.
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/MGE%20XE%20Shader%20Pack.7z)  
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - Check the following option in the BAIN installer:
   - [X] 00 Core
