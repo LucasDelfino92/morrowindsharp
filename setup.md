@@ -118,7 +118,7 @@ Cleans plugins by automatically deleting identical-to-master records (records th
 
 - Place tes3cmd.exe in your **C:\Games\Morrowind\Data Files** folder.
 
-### [**TES3View**](https://github.com/Sigourn/morrowindsharp/raw/master/mods/TES3View%204.1.4.7z)
+### [**TES3View**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3View%204.1.4.7z)
 
 Allows the user to see the structure of mods and detect conflicts.
 
