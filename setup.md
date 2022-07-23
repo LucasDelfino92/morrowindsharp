@@ -35,7 +35,7 @@ C:\Games\Morrowind Mods
 
 > ⚠️ Make sure you *don't* create your Morrowind Mods folder *inside* your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
 
-The GOG release of Morrowind shipped with files that are of no use to the average player, and which serve only to clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) The general opinion is that these plugins are glorified low quality mods, and not worth your time. Should you wish to play with these, know that there are better alternatives out there, which I will mention in the second part of this guide.
+The GOG release of Morrowind shipped with files that are of no use to the average player, and which serve only to clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) The general opinion is that these plugins are glorified low quality mods, and not worth your time. Because of this, no alternatives for these plugins are provided.
 
 Delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
