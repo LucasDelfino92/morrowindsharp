@@ -209,9 +209,6 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
 ### Hotkeys
 
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
@@ -360,6 +357,9 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
