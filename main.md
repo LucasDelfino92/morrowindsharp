@@ -235,9 +235,6 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ### Audio
 
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes sheep sounds from Morrowind.	
 
