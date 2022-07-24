@@ -198,6 +198,9 @@ Adds bars to the UI that displays your companions and summoned creatures' health
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
 
+[**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534)  
+Makes the cantons of Vivec and Molag Mar visible on the global map. Compatible with other mods that edit those cells, as long as they don't change the landscape (no such mods are featured in this guide).
+
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
 
@@ -235,6 +238,10 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 00 Meshes
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
+
+[**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
+Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
+- After installation, hide **QuickChar (Necro Timescale6 Edit).esp** in Mod Organizer 2.
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
@@ -274,7 +281,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Install **Morrowind Enhanced Textures** (Main files)
 - Install **MET Meshes** (Optional files)  
-  Includes many reworked face meshes based on those from **Facelift**.
+  Includes many reworked face meshes based on those from **Facelift**, as well as an improved scum mesh for transparency.
   - On MO2 installation, merge into **Morrowind Enhanced Textures** when prompted.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
@@ -386,14 +393,17 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended for use with **Expansion Delay**.
+
 [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
-Makes the Sixth House, properly, the most difficult content in the game.
+Makes the Sixth House, properly, the most difficult content in the game. Intended for use with mort's expansion rebalances, listed below.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
-Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+Rebalances Tribunal as if it shipped with Morrowind.
 
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
-Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
+Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ## FINISHING TOUCHES
 
@@ -497,13 +507,20 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 # CHANGELOG
 
 07-24-2022
+- Added **Cantons on the Global Map**.
 - Re-added **Adamantium Ore Fix**.
 - Re-added **IMMERSIVE RUN FIX**.
 - Re-added **Magican't**.
 - Re-added **MultiEnchant**.
 - Re-added **Quest Skill Reward Fix**.
 - Re-added **Skill Increase GMST Fix**.
+- Re-added **Quick Char (Necro Edit)**.
+- Re-added **Early Transport to Mournhold**.
+- No, this is not an indication that the guide is going back to the bloatfest it was.
 - **Patch for Purist**-compatible edits of mods have been removed in favor of the originals, as TES3Merge already addresses these conflicts.
+
+07-23-2022
+- Complete rewrite of the guide. Now focused on major improvements while keeping the core experience intact.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
