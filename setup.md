@@ -104,11 +104,10 @@ Repairs and updates saves, updates the masters of mods, and runs tes3cmd in orde
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that **morrowind.ini** and the **Data files** folder were found.
    - **Mods Installers directory**: select your Morrowind Mods folder (**C:\Games\Morrowind Mods**).
-- Click **Next** and then click **Finish**.
-- Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support. Failing to enable this option can cause you to be unable to repair your saves.
-- Close the program.
-
-> ℹ️ The **Mods Installers directory** we left empty above is redundant to us, as we will use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
+- Click **Next** and then click **Finish**. Wrye Mash will now launch.
+- Click the cog wheel button on the bottom of the window, opening the **Settings** window.
+- Click the **Advanced** tab, and check the option to add support for up to 1024 plugins. Failing to enable this option can cause you to be unable to repair your saves.
+- Click **OK**, and close the program.
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
 
