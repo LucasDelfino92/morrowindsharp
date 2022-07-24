@@ -32,6 +32,8 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 - Check the following option in the FOMOD installer:
   - [X] Patch for Purists
 
+> ℹ️ Later in the guide we will install **Ownership Overhaul**. The reason we are not installing the patch found in the FOMOD installer is that it allows Divayth Fyr to become hostile if he catches you opening his chests and stealing his keys.
+
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
