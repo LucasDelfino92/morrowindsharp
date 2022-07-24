@@ -27,6 +27,9 @@ To create a separator, follow these stpes:
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
+[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?)  
+Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
+
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -107,6 +110,9 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 ### MWSE fixes
 
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
+Carries over unique item information, such as condition and script data when enchanting items.
+
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
 
@@ -117,8 +123,23 @@ Forces the game to instantly close on exit.
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
 - Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) to be installed.
 
+[**IMMERSIVE RUN FIX**](https://www.nexusmods.com/morrowind/mods/45947)  
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+[**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
+Empties the magic chance fillbar when you don't have enough magicka to cast the spell.
+
+[**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
+Fixes a bug where the cost of the first effect is doubled in enchantments with multiple effects.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
+Makes the game treat skill increases from quests as if there were raised via normal means, solving bugs in the process.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
+Fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book. 
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
@@ -297,13 +318,21 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
+> ℹ️ This mod replaces the questionable female variants of armor that already existed in the vanilla game with versions adapted from their male counterparts. Should you wish to revert these edits, follow these instructions.
+
+- After installation, run **TESAME** in Mod Organizer 2.
+- Delete the following record from **Alex's Better Fitted Female Armors.ESP**:
+  - Armor **netch_leather_cuirass**
+  - Armor **imperial_chain_cuirass**
+  - Armor **steel_cuirass**
+  - Armor **imperial cuirass_armor**
+- Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
+
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
-[**Complete Armor Joints (PfP Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)  
+[**Complete Armor Joints**](https://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-> ℹ️ [**Link**](https://mw.modhistory.com/download-4-12572) to original mod by **Kahkahra**. The featured version includes **Patch for Purists** fixes.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
@@ -464,6 +493,17 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 E+Left Click | Equips/unequips item in inventory | Quick Equip
 E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+
+# CHANGELOG
+
+07-24-2022
+- Re-added **Adamantium Ore Fix**.
+- Re-added **IMMERSIVE RUN FIX**.
+- Re-added **Magican't**.
+- Re-added **MultiEnchant**.
+- Re-added **Quest Skill Reward Fix**.
+- Re-added **Skill Increase GMST Fix**.
+- **Patch for Purist**-compatible edits of mods have been removed in favor of the originals, as TES3Merge already addresses these conflicts.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
