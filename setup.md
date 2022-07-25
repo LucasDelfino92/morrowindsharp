@@ -222,7 +222,7 @@ Follow these steps for **Wrye Mash**:
 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate Wrye Mash's folder (**C:\Games\Morrowind\Mopy**) and double click **mash64.exe**.
+- Navigate to Wrye Mash's folder (**C:\Games\Morrowind\Mopy**) and double click **mash64.exe**.
 - Click **Apply**.
 
 Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
