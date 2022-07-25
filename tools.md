@@ -7,7 +7,7 @@
 
 ## Cleaning plugins
 
-Nearing the end of **Nerevar Rising** you will find a section of plugins that [**require cleaning**](main.md#cleaning-plugins), and you will be redirected here.
+Nearing the end of **Morrowind Sharp** you will find a section of plugins that [**require cleaning**](main.md#cleaning-plugins), and you will be redirected here.
 
 We will be using two tools to clean plugins: **tes3cmd** and **TESAME**. You should have already installed these in the [**Utilities and Tools**](setup.md#utilities-and-tools) section. If not, go back and install them.
 
@@ -21,7 +21,7 @@ There are two ways to clean plugins using tes3cmd. We will look at both of them.
   - To mass clean plugins, use SHIFT+left-click to select the plugins you want to clean and click **Clean with tes3cmd**.
 - After the process is over, close the window.
 
-There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) edits. In **Nerevar Rising**, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
+There are times when mods intentionally add duplicate-to-master records, which tes3cmd would interpret as "dirty" (unintentional) edits. In **Morrowind Sharp**, only one such mod exists: **Patch for Purists**, specifically its ESM file. Should you accidentally clean that ESM, reinstall the mod.
 
 > ℹ️ Note that if you reinstall a mod, their plugins will be dirty again, and you will have to repeat the process.
 
@@ -84,7 +84,7 @@ TES3View is a great tool that lets you visualize the changes done by plugins. By
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when launching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
 
-> ℹ️ While you will never be asked to use this tool when following **Nerevar Rising**, it pays to get used to it when installing mods on your own.
+> ℹ️ While you will never be asked to use this tool when following **Morrowind Sharp**, it pays to get used to it when installing mods on your own.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Main](main.md)
