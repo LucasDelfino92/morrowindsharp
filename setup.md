@@ -146,7 +146,7 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 - Run the downloaded **Mod Organizer 2** executable.
 - When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
 - When installation has finished, click **Finish**.
-- The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left.
+- The **Instance manager** window will appear. Click the **Create a new instance** button on the upper left.
 - Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Morrowind Mods\MO2**) is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
