@@ -100,7 +100,7 @@ Repairs and updates saves, updates the masters of mods, and runs tes3cmd in orde
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 - Manually download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files) from the same page linked above.
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update Wrye Mash to the latest beta version.
-- Execute **mash64.exe**, found in your **C:\Games\Morrowind\Mopy** folder.
+- Execute **mash64.exe**, found in **C:\Games\Morrowind\Mopy**.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that **morrowind.ini** and the **Data files** folder were found.
    - **Mods Installers directory**: select your Morrowind Mods folder (**C:\Games\Morrowind Mods**).
@@ -115,13 +115,13 @@ Repairs and updates saves, updates the masters of mods, and runs tes3cmd in orde
 
 Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods).
 
-- Place tes3cmd.exe in your **C:\Games\Morrowind\Data Files** folder.
+- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
 ### [**TES3View**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3View%204.1.4.7z)
 
 Allows the user to see the structure of mods and detect conflicts.
 
-- Extract the contents of the file in **Morrowind Mods\TES3View** folder. 
+- Extract the contents of the file to **Morrowind Mods\TES3View**. 
 
 > ℹ️ The version hosted can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
@@ -130,13 +130,13 @@ Allows the user to see the structure of mods and detect conflicts.
 Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
 - Manually download **TES3Merge** (Main files).
-- Extract the contents of the file in **Morrowind Mods\TES3Merge** folder.
+- Extract the contents of the file to **Morrowind Mods\TES3Merge**.
 
 ### [**TESAME**](http://mw.modhistory.com/download-95-15443)
 
 Cleans plugins and solves conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
 
-- Extract the contents of the file in **Morrowind Mods\TESAME** folder.
+- Extract the contents of the file to **Morrowind Mods\TESAME**.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
@@ -156,6 +156,7 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
 > ⚠️ From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
 ### Adjusting mod and load order
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
@@ -165,7 +166,7 @@ Reorganize it to read as follows using drag and drop.
 DLC: Tribunal
 DLC: Bloodmoon
 ```
-Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
+Your plugins are listed on the pane to the right. This is the order in which Morrowind loads its plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
 Reorganize it to read as follows using drag and drop.
 ```
