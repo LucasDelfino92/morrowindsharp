@@ -57,9 +57,14 @@ Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thie
 [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - After installation, run **TESAME** in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
+- Go to **Mods -> Open ..**
+- Browse for your **Morrowind\Data Files** folder, and select **Services Restored.ESP**.
+- Right click on the following records (alternatively, press spacebar with the records selected) and the records will turn black:
   - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original. This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
+- Now press **Delete**, and the records will be gone.
+- Go to **Mods -> Save as ..**
+- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
+- This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
@@ -328,12 +333,16 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 > ℹ️ This mod replaces the questionable female variants of armor that already existed in the vanilla game with versions adapted from their male counterparts. Should you wish to revert these edits, follow these instructions.
 
 - After installation, run **TESAME** in Mod Organizer 2.
-- Delete the following record from **Alex's Better Fitted Female Armors.ESP**:
+- Go to **Mods -> Open ..**
+- Browse for your **Morrowind\Data Files** folder, and select **Alex's Better Fitted Female Armors.ESP**.
+- Right click on each of the following records (alternatively, press spacebar with the records selected) and the records will turn black:
   - Armor **netch_leather_cuirass**
   - Armor **imperial_chain_cuirass**
   - Armor **steel_cuirass**
   - Armor **imperial cuirass_armor**
-- Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
+- Now press **Delete**, and the records will be gone.
+- Go to **Mods -> Save as ..**
+- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
