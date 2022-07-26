@@ -39,10 +39,10 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 No. Many mods require MWSE to work.
 
-## Appendix
+## Suggested readings
 
 Morrowind Sharp isn't meant to be an exhaustive modlist. It attempts to cover the basics and go a little beyond that. For additional documents which tackle many mods not covered here, I suggest looking up the following:
 
-- **Lucevar**'s [**Themed Mod Lists**](https://github.com/Lucevar/mw-immersion-mods) (in particular, the [**SFX**](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md) article covers a lot of mods previously featured in my modlist).
+- **Lucevar**'s [**Themed Mod Lists**](https://github.com/Lucevar/mw-immersion-mods).
 - **Danae**'s [**Modlists**](https://danaeplays.thenet.sk/tag/modding/) (I would also suggest checking out [**her YouTube channel**](https://www.youtube.com/user/terdanae) for cool Morrowind content).
-- **rfuzzo**'s [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/) guide, which covers most mods featured in Morrowind Sharp, and more.
+- **rfuzzo**'s [**Morrowind++**](https://r-fuzzo.gitbook.io/morrowind++/) guide, which covers most mods featured in Morrowind Sharp, and much more, for a less purist experience.
