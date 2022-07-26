@@ -12,7 +12,7 @@
 - Gameplay: basic quality of life improvements, leaving the core experience intact. My opinion is that Morrowind is not to be enjoyed because of its gameplay, so the best thing we can do is to accept it for what it is.
 - DLCs: reworked implementation, expansions delayed and rebalanced.
 
-Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](https://github.com/Sigourn/morrowindsharp/blob/codex/tools.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
+Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
 
 [**Click here to get started**](setup.md).
 
