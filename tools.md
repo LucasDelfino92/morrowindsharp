@@ -56,13 +56,28 @@ Whenever you uninstall or modify plugins in an on-going save, it is a good pract
 
 ## Checking for conflicts
 
-**TES3View** lets you visualize the changes done by plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts. When all else fails, you can still rely on **TES3Merge** for merging objects and leveled lists.
+To check for conflicts, we use [**TES3View**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3View%204.1.4.7z).
+
+- Extract the contents of the file to **Morrowind Mods\TES3View**. 
+
+For TES3View to work in Mod Organizer 2, we need to register it.
+
+- Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
+- Navigate to **C:\Games\Morrowind Mods\TES3View** and double click its .exe file.
+- In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- Click **Apply**.
+- Click **OK** to close the window.
+
+Make sure to follow these instructions whenever you install a new mod that includes plugins. By juggling your load order around using TES3View as a guide, you can minimize plenty of conflicts. When all else fails, you can still rely on **TES3Merge** for merging objects and leveled lists.
 
 - Run TES3View in Mod Organizer 2.
 - Right click on any plugin, and click **Select all**. Click **OK**.
 - Once TES3View has finished loading all your plugins, you can expand them and their individual records to see what a mod changes compared to the master files (Morrowind.esm, Tribunal.esm, Bloodmoon.esm) and other loaded plugins.
 - When right clicking on the large window to the right, you can choose **Hide no conflicts and empty rows**. It's very useful when you want to see only the conflicting changes between mods.
 - Right clicking on the plugins themselves lets you **Apply Filter to show Conflicts**. This will only show the conflicting plugins in your load order (assumed you loaded all of them when launching TES3View), and only the conflicting records at that. It's a vital feature when it comes to knowing how compatible your mod setup is, and whether the conflicts are major or can be easily ignored.
+
+> ℹ️ The **TES3View** version hosted can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Main](main.md)
