@@ -117,14 +117,6 @@ Cleans plugins by automatically deleting identical-to-master records (records th
 
 - Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
 
-### [**TES3View**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3View%204.1.4.7z)
-
-Allows the user to see the structure of mods and detect conflicts.
-
-- Extract the contents of the file to **Morrowind Mods\TES3View**. 
-
-> ℹ️ The version hosted can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
-
 ### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
@@ -225,7 +217,7 @@ Follow these steps for **Wrye Mash**:
 - Navigate to Wrye Mash's folder (**C:\Games\Morrowind\Mopy**) and double click **mash64.exe**.
 - Click **Apply**.
 
-Follow these steps for **TES3Merge**, **TESAME**, and **TES3View**:
+Follow these steps for **TES3Merge** and **TESAME**:
 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
