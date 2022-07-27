@@ -330,4 +330,5 @@ Before proceeding to the next section, make sure to [**read this document**](htt
 # MOVING ON TO THE NEXT SECTION
 
 [To Morrowind Sharp >>](main.md)  
+[To Morrowind Sharp Essentials >>](essentials.md)  
 [<< Back to Readme](readme.md)
