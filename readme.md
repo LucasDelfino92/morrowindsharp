@@ -14,6 +14,10 @@
 
 Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
 
+Two versions of this modlist are available:
+- The standard version, consisting of roughly 100 mods.
+- The essentials version, consisting of roughly 30 mods.
+
 [**Click here to get started**](setup.md).
 
 ## My setup
