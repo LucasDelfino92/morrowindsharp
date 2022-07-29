@@ -40,8 +40,10 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+[**Great Service (spockthewok Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Great%20Service%20(spockthewok%20Edit).7z)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
@@ -514,6 +516,9 @@ E+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+07-29-2022
+- Updated **Great Service** to **spockthewok**'s edited version.
 
 07-24-2022
 - Added **Cantons on the Global Map**.
