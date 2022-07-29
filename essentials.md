@@ -39,7 +39,7 @@ Greatly improves performance and fixes some mesh errors.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Lake Fjalding Anti-Suck
-  - [X] 02 Weapon Sheathing Patch
+  - [X] 02 Weapon Sheathing Patch (required for **Weapon Sheathing**, listed in the **Optional Vanilla+** section)
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
 
@@ -50,8 +50,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
     - [X] 00 BATs
     - [X] 00 Core
     - [X] 01 Textures - Vanilla
-    - [X] 06 Glow in the Dahrk Patch
-    - [X] 07 Graphic Herbalism Patch
+    - [X] 06 Glow in the Dahrk Patch (required for **Glow in the Dahrk**, listed in the **Optional Vanilla+** section)
+    - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **Optional Vanilla+** section)
 - Install **Hotfix 0.7.2** (Update files)
   - On MO2 installation, merge into **Project Atlas** when prompted.
 
