@@ -331,6 +331,8 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+- Install **Alex's Better Fitted Female Armors v.1.0** (Main files)
+- Install **Alex's Better Fitted Female Armors - Tribunal** (Main files)
 
 > ℹ️ This mod replaces the questionable female variants of armor that already existed in the vanilla game with versions adapted from their male counterparts. Should you wish to revert these edits, follow these instructions.
 
@@ -511,11 +513,15 @@ Alt + F4 | Creates a permanent save | Sophisticated Save System
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-E+Left Click | Equips/unequips item in inventory | Quick Equip
-E+Left Click | Use potion/ingredient in inventory | Quick Equip
+Alt+Left Click | Equips/unequips item in inventory | Quick Equip
+Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+08-03-2022
+- Updated **Alex's Better Fitted Female Armors** installation instructions.
+- Updated keybindings for **Quick Equip**.
 
 07-29-2022
 - Updated **Great Service** to **spockthewok**'s edited version.
