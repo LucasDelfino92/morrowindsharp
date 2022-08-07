@@ -204,7 +204,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 - With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**.
 - With the **Morrowind Sharp** profile highlighted, click **Select**. The window will now close.
 
-Morrowind Sharp will be the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Morrowind Sharp is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Registering tools in Mod Organizer 2
 
