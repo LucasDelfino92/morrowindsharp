@@ -430,7 +430,7 @@ Includes configuration files and patches for mods included in the guide.
 
 [**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
 ### Synchronizing mod masters
 
