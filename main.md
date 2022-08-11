@@ -30,6 +30,9 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?)  
 Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
 
+[**Calculated List Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
+Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
+
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -518,6 +521,9 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+08-11-2022
+- Added **Calculated List Fix**.
 
 08-03-2022
 - Updated **Alex's Better Fitted Female Armors** installation instructions.
