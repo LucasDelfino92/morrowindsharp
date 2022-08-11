@@ -40,7 +40,7 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
-[**Great Service (spockthewok Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Great%20Service%20(spockthewok%20Edit).7z)  
+[**Great Service (spockthewok Edit)**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service%20(spockthewok%20Edit).7z)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
@@ -171,7 +171,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
@@ -295,7 +295,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files)
   - On MO2 installation, merge into **Project Atlas** when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
+- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
   - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -383,7 +383,7 @@ Adds groundcover to almost all regions.
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/MGE%20XE%20Shader%20Pack.7z)  
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - Check the following option in the BAIN installer:
   - [X] 00 Core
@@ -422,13 +422,13 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ### Mod configuration
 
-[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
+[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
 Includes configuration files and patches for mods included in the guide.
 - Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
 ### Adjusting mod order and load order
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
@@ -454,7 +454,7 @@ For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to c
 
 For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
 
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3Merge%20Custom%20INI.7z).
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
 - Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
