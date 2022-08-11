@@ -93,15 +93,14 @@ Greatly improves performance and fixes some mesh errors.
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
-- Install **Project Atlas** (Main files)
+- Install **Project Atlas** (Main files).
   - Check the following options in the BAIN installer:
     - [X] 00 BATs
     - [X] 00 Core
     - [X] 01 Textures - Vanilla
     - [X] 06 Glow in the Dahrk Patch (required for **Glow in the Dahrk**, listed in the **Visuals** section)
     - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **QOL Improvements** section)
-- Install **Hotfix 0.7.2** (Update files)
-  - On MO2 installation, merge into **Project Atlas** when prompted.
+- Install **Hotfix 0.7.2** (Update files). Merge when prompted.
 
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod. Also bear in mind that attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
 
@@ -161,7 +160,7 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 High resolution replacer for the Magic Cards font, used in most of the user interface.
-- Install **Better Dialogue Font** (Main files)
+- Install **Better Dialogue Font** (Main files).
 
 [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 High resolution replacer for the Daedric font used in scrolls. 
@@ -190,7 +189,7 @@ Implements more accurate, context-dependent tooltip displays for weapon damage a
 
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
 Renames keys so they'll have a consistent naming scheme.
-- Install **Consistent Keys - MWSE Version** (Main files)
+- Install **Consistent Keys - MWSE Version** (Main files).
 
 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
 Renames propylon indexes so they'll group together in the inventory.
@@ -203,7 +202,7 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 
 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
-- Install **Compact Version** (Main files)
+- Install **Compact Version** (Main files).
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
@@ -285,21 +284,18 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-- Install **kart_facelift_meshes** (Main files)
+- Install **kart_facelift_meshes** (Main files).
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- Install **Morrowind Enhanced Textures** (Main files)
-- Install **MET Meshes** (Optional files)  
+- Install **Morrowind Enhanced Textures** (Main files).
+- Install **MET Meshes** (Optional files). Merge when prompted.  
   Includes many reworked face meshes based on those from **Facelift**, as well as an improved scum mesh for transparency.
-  - On MO2 installation, merge into **Morrowind Enhanced Textures** when prompted.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
-- Install **Textures - MET** (Main files)
-  - On MO2 installation, merge into **Project Atlas** when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
-  - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
+- Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
+- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z) as **Project Atlas**. Merge when prompted.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -327,15 +323,15 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Install **WeaponSheathing1.6-MWSE** (Main files)
+- Install **WeaponSheathing1.6-MWSE** (Main files).
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
-- Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
-- Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
+- Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473).
+- Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616).
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-- Install **Alex's Better Fitted Female Armors v.1.0** (Main files)
-- Install **Alex's Better Fitted Female Armors - Tribunal** (Main files)
+- Install **Alex's Better Fitted Female Armors v.1.0** (Main files).
+- Install **Alex's Better Fitted Female Armors - Tribunal** (Main files). Merge when prompted.
 
 > ℹ️ This mod replaces the questionable female variants of armor that already existed in the vanilla game with versions adapted from their male counterparts. Should you wish to revert these edits, follow these instructions.
 
