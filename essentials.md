@@ -127,7 +127,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files)
   - On MO2 installation, merge into **Project Atlas** when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
+- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
   - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -168,11 +168,11 @@ Adds groundcover to almost all regions.
 
 ### Mod setup
 
-[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
+[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
 Includes configuration files and patches for mods included in the guide.
 - Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
@@ -198,7 +198,7 @@ For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to c
 
 For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
 
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/codex/mods/TES3Merge%20Custom%20INI.7z).
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
 - Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
 - Run TES3Merge in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
