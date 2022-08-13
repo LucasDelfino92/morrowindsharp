@@ -71,6 +71,9 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
 - This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
 
+[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
+Restores a previously unused Silt Strider animation, which comes with a previously unused sound.
+
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -202,7 +205,10 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 
 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389?)  
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
-- Install **Compact Version** (Main files).
+- Install **Full Version** (Main files).
+
+[**QuickKeys Hotbar - MWSE**](https://www.nexusmods.com/morrowind/mods/51192)  
+Adds a hotbar to the game with all your hotkeys displayed.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
@@ -302,6 +308,16 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 - Check the following option in the BAIN installer:
   - [X] 00 Core
 
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
+Makes vanilla windows glow in the dark.
+- Check the following options in the FOMOD installer:
+  - [X] Nord Glass Windows  
+  - [X] Raven Rock Glass Windows  
+  - [X] Telvanni Tower Interior Glow MGE XE
+
+[**Here Comes the Sun... Glare**](https://www.nexusmods.com/morrowind/mods/49886)  
+Improves the Sun, particularly when using shaders.
+
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 - Check the following option in the BAIN installer:
@@ -317,6 +333,9 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
+Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
@@ -352,16 +371,6 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 
 [**Complete Armor Joints**](https://mw.modhistory.com/download-4-12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
-Makes vanilla windows glow in the dark.
-- Check the following options in the FOMOD installer:
-  - [X] Nord Glass Windows  
-  - [X] Raven Rock Glass Windows  
-  - [X] Telvanni Tower Interior Glow MGE XE
-
-[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
-Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
 ### MGE XE
 
@@ -442,8 +451,6 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 
 ### Cleaning mods
 
-For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to clean.
-
 - Run Wrye Mash (**mash64**) in Mod Organizer 2.
 - Right-click **The Publicans.ESP**, and click **Clean with TES3cmd**.
 - After the process is finished, click **OK**.
@@ -451,17 +458,15 @@ For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to c
 
 ### Conflict resolution
 
-For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
-
 - Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
 - Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
-- Run TES3Merge in Mod Organizer 2.
+- Run **TES3Merge** in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
 
 ### Re-running Distant Land
 
-- Run MGE XE in Mod Organizer 2.
+- Run **MGE XE** in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
 - Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
 - Click **Continue**.
@@ -470,7 +475,7 @@ For record and leveled list conflicts we use **TES3Merge**, generating a **Merge
 
 ### Shader setup
 
-- Run MGE XE in Mod Organizer 2.
+- Run **MGE XE** in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
 - Click **Shader setup...**.
 - On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
@@ -490,7 +495,7 @@ Eye Adaptation (HDR)
 
 ### Updating MWSE
 
-- Run **MWSE-Update.exe** in **C:\Games\Morrowind**.
+- Run **MWSE-Update.exe** from your game's **Root** folder.
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
@@ -517,6 +522,11 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+08-13-2022
+- Re-added **Silt Strider Animation Restored**.
+- Added **QuickKeys Hotbar - MWSE**.
+- Added **Here Comes the Sun... Glare**.
 
 08-11-2022
 - Added **Calculated List Fix**.
