@@ -52,8 +52,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
     - [X] 01 Textures - Vanilla
     - [X] 06 Glow in the Dahrk Patch (required for **Glow in the Dahrk**, listed in the **Optional Vanilla+** section)
     - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **Optional Vanilla+** section)
-- Install **Hotfix 0.7.2** (Update files)
-  - On MO2 installation, merge into **Project Atlas** when prompted.
+- Install **Hotfix 0.7.2** (Update files). Merge when prompted.
 
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod. Also bear in mind that attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
 
@@ -119,16 +118,14 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Install **Morrowind Enhanced Textures** (Main files)
-- Install **MET Meshes** (Optional files)  
+- Install **MET Meshes** (Optional files). Merge when prompted.  
   Includes many reworked face meshes based on those from **Facelift**, as well as an improved scum mesh for transparency.
-  - On MO2 installation, merge into **Morrowind Enhanced Textures** when prompted.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
-- Install **Textures - MET** (Main files)
-  - On MO2 installation, merge into **Project Atlas** when prompted.
+- Install **Textures - MET** (Main files). Merge when prompted.
 - Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
-  - On MO2 installation, rename to **Project Atlas** and merge into **Project Atlas** when prompted.
+  - On MO2 installation, rename to **Project Atlas** and merge when prompted.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
