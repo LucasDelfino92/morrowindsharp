@@ -147,8 +147,6 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
-> ⚠️ From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
-
 ### Adjusting mod and load order
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
@@ -167,7 +165,7 @@ Tribunal.esm
 Bloodmoon.esm
 ```
 
-> ℹ️ You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
+You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting Morrowind.ini
 
@@ -311,13 +309,15 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
-## IN-GAME CONFIGURATION
+## RUNNING THE GAME
 
-It's time to finally run Morrowind.
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the game.
-- Once the game has finished loading, click **Options** and click the **Video** tab.
+To launch the game, make sure to have the **Morrowind** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+
+![Executables](MO2/MO_Morrowind.png)
+
+Once the game has finished loading, click **Options** and click the **Video** tab.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 - Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 
