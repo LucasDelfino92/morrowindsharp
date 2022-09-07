@@ -500,7 +500,15 @@ Eye Adaptation (HDR)
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-# MOD KEYBINDINGS
+## RUNNING THE GAME
+
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
+To launch the game, make sure to have the **Morrowind** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+
+![Executables](MO2/MO_Morrowind.png)
+
+## MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
@@ -521,7 +529,10 @@ Alt+Left Click | Equips/unequips item in inventory | Quick Equip
 Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
-# CHANGELOG
+## CHANGELOG
+
+09-07-2022
+- Added **RUNNING THE GAME** section.
 
 08-13-2022
 - Re-added **Silt Strider Animation Restored**.
