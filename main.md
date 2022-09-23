@@ -315,7 +315,7 @@ Makes vanilla windows glow in the dark.
   - [X] Raven Rock Glass Windows  
   - [X] Telvanni Tower Interior Glow MGE XE
 
-[**Here Comes the Sun... Glare**](https://www.nexusmods.com/morrowind/mods/49886)  
+[**Here Comes the Sun... Glare**](https://www.nexusmods.com/morrowind/mods/48574)  
 Improves the Sun, particularly when using shaders.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
