@@ -4,6 +4,8 @@
 
 # THE ELDER SCROLLS III: MORROWIND SETUP
 
+![Banner](pictures/gog_banner.jpg)
+
 ## REQUIREMENTS
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
@@ -49,6 +51,20 @@ Delete the following from your **Morrowind\Data Files** folder in order to free 
 Your Data Files folder should now look like this.
 
 ![Screenshot](pictures/Data_Files.png)
+
+## NEXUS DOWNLOADS
+
+Most mods downloaded for New Vegas will be acquired through [**Nexus**](https://www.nexusmods.com/morrowind). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
+
+![Mod manager download](MO2/mod_manager_download.png)
+
+This option downloads the archive to your mod manager, from which you can install it. Most mods have this download option available, as the vast majority don't require specific installation instructions.
+
+![Manual download](MO2/manual_download.png)
+
+This option downloads the archive straight to your computer. To install it, you will need to add it to your mod manager, or follow the installation instructions provided by the mod author. For the most part, mods that should be installed *without* the use of a mod manager will have this download option as the only available method.
+
+For this first part of the guide, files will be downloaded using the manual download option exclusively. For the second part of the guide, files will be downloaded using the mod manager download option. All in all, this makes the first part of the guide more tedious in spite of its smaller size.
 
 ## UTILITIES AND TOOLS
 
