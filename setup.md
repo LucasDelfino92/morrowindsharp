@@ -20,8 +20,6 @@
 
 ## INSTALLATION
 
-You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
-
 By default, GOG will install Morrowind to the next directory:
 ```
 C:\Games
@@ -30,16 +28,14 @@ This will create a folder in the following path, which we will refer to as our *
 ```
 C:\Games\Morrowind
 ```
-Additional, you will need a folder where to install our mod manager and store your mods. I recommend the following path:
-```
-C:\Games\Morrowind Mods
-```
 
-> ⚠️ Make sure you *don't* create your Morrowind Mods folder *inside* your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-The GOG release of Morrowind shipped with files that are of no use to the average player, and which serve only to clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) The general opinion is that these plugins are glorified low quality mods, and not worth your time. Because of this, no alternatives for these plugins are provided.
+## POST-INSTALLATION
 
-Delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
+The GOG release of Morrowind ships with files we do not need. Some of these files are the official plugins Bethesda released for Morrowind. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) The general opinion is that these plugins are essentially low quality mods, and not worth your time.
+
+Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
 - **BookArt** folder.
 - **Icons** folder.
@@ -163,6 +159,8 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
+You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
+
 ### Adjusting mod and load order
 
 Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
@@ -174,14 +172,12 @@ DLC: Bloodmoon
 ```
 Your plugins are listed on the pane to the right. This is the order in which Morrowind loads its plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
-Reorganize it to read as follows using drag and drop.
+Reorganize it to read as follows using drag and drop, and enable the plugins.
 ```
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
 ```
-
-You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting Morrowind.ini
 
@@ -333,15 +329,13 @@ To launch the game, make sure to have the **Morrowind** executable selected from
 
 ![Executables](MO2/MO_Morrowind.png)
 
-Once the game has finished loading, click **Options** and click the **Video** tab.
+## IN-GAME CONFIGURATION
+
+- Click **Options** and select the **Video** tab.
 - Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 - Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
-
-# MODDING TIPS
-
-Before proceeding to the next section, make sure to [**read this document**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md), which includes basic Mod Organizer 2 tips and rules for installing mods when following this guide.
 
 # MOVING ON TO THE NEXT SECTION
 
