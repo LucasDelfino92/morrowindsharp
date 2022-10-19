@@ -51,6 +51,7 @@ Greatly improves performance and fixes some mesh errors.
   - [X] 02 Weapon Sheathing Patch (required for **Weapon Sheathing**, listed in the **Optional Vanilla+** section)
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
+  - [X] 05 Graphic Herbalism Patch (required for **Graphic Herbalism**, listed in the **Optional Vanilla+** section)
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
@@ -259,8 +260,11 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 # CHANGELOG
 
+10-18-2022
+- Updated **Morrowind Optimization Patch** instructions.
+
 07-27-2022
-- Initial release. Based off Half11's Essentials Morrowind mod list.
+- Initial release. Based off **Half11**'s Essentials Morrowind mod list.
 
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)
