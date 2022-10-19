@@ -99,9 +99,10 @@ Greatly improves performance and fixes some mesh errors.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Lake Fjalding Anti-Suck
-  - [X] 02 Weapon Sheathing Patch (required for **Weapon Sheathing**, listed in the **Optional Vanilla+** section)
+  - [X] 02 Weapon Sheathing Patch (required for **Weapon Sheathing**, listed in the **Visuals** section)
   - [X] 03 Chuzei Fix
   - [X] 04 Better Vanilla Textures
+  - [X] 05 Graphic Herbalism Patch (required for **Graphic Herbalism**, listed in the **QOL Improvements** section)
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
@@ -539,6 +540,9 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+10-18-2022
+- Updated **Morrowind Optimization Patch** instructions.
 
 09-07-2022
 - Added **RUNNING THE GAME** section.
