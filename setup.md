@@ -204,17 +204,22 @@ Max Snowflakes=1500
 
 ### Setting up Profiles
 
-Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
+Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another. **Morrowind Sharp** as two versions available:
+
+- The standard installation, which is considerably longer.
+- The essentials installation, much shorter, ideal if you want to keep your experience mostly intact.
+
+You can follow both versions of the guide by creating multiple profiles. The first step is to create them.
 
 - Click the **Configure profiles** ![Profiles](MO2/MO_Profiles.png) button.
 - Check the following options:
   - [ ] Use profile-specific Save Games.
   - [X] Use profile-specific Game INI files.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**.
-- With the **Morrowind Sharp** profile highlighted, click **Select**. The window will now close.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** or **Morrowind Sharp Essentials**, depending on which setup you want to follow, and click **OK**.
+- With this new profile highlighted, click **Select**. The window will now close.
 
-Morrowind Sharp is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+> ℹ️ Note that you can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Registering tools in Mod Organizer 2
 
@@ -339,6 +344,6 @@ To launch the game, make sure to have the **Morrowind** executable selected from
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Morrowind Sharp Essentials >>](essentials.md)  
 [To Morrowind Sharp >>](main.md)  
+[To Morrowind Sharp Essentials >>](essentials.md)  
 [<< Back to Readme](readme.md)
