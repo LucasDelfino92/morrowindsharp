@@ -9,7 +9,7 @@
 
 ### Disclaimer
 
-This guide is the second step in the installation of **Morrowind Sharp**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
+This guide is the second step in the installation of **Morrowind Sharp Essentials**. Please make sure to follow the [**Setup**](setup.md) section before proceeding.
 
 ### Creating a separator
 
@@ -173,15 +173,11 @@ Adds groundcover to almost all regions.
 
 ## FINISHING TOUCHES
 
-### Mod setup
+### MO2 Profile files
 
-[**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
-Includes configuration files and patches for mods included in the guide.
-- Check the corresponding options in the FOMOD installer based on the mods you have installed.
-
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+[**Morrowind Sharp Essentials**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Essentials.7z)  
+Adjusts mod order and load order for Morrowind Sharp Essentials to work as intended.
+- Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Morrowind Sharp Essentials**, overwriting when prompted.
 
 ### Synchronizing mod masters
 
@@ -200,16 +196,6 @@ For plugin cleaning we use **tes3cmd**, selecting the dirty plugins we want to c
 - Right-click **The Publicans.ESP**, and click **Clean with TES3cmd**.
 - After the process is finished, click **OK**.
 - Close **Wrye Mash**.
-
-### Conflict resolution
-
-For record and leveled list conflicts we use **TES3Merge**, generating a **Merged Objects.esp** file which we will place at the end of our load order.
-
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
-- Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
-- Run TES3Merge in Mod Organizer 2.
-- The tool will generate a Merged Objects.esp, solving conflicts in your load order.
-- Activate **Merged Objects.esp** at the end of your load order.
 
 ### Re-running Distant Land
 
@@ -259,6 +245,10 @@ Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 # CHANGELOG
+
+11-26-2022
+- Added **Morrowind Sharp Essentials**-specific MO2 profile files.
+- Removed conflict resolution and patches steps, as they are not necessary in this setup.
 
 10-18-2022
 - Updated **Morrowind Optimization Patch** instructions.
