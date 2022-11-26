@@ -444,9 +444,9 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 Includes configuration files and patches for mods included in the guide.
 - Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
-### Adjusting mod order and load order
+### MO2 Profile files
 
-[**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20MO2%20Profile%20Files.7z)  
+[**Morrowind Sharp**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
