@@ -36,8 +36,10 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068?)  
+[**Adamantium Ore Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Adamantium%20Ore%20Fix%20PFP.7z)  
 Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068?) to original mod by **Half11**. The featured version includes a Patch for Purists fix to a container.
 
 [**Calculated List Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
 Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
@@ -52,7 +54,7 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
-[**Great Service (spockthewok Edit)**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service%20(spockthewok%20Edit).7z)  
+[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service%20STW.7z)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
@@ -186,7 +188,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
-[**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)  
+[**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes%20Necro.7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
@@ -311,7 +313,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z) as **Project Atlas**. Merge when prompted.
+- Install [**Project Atlas MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z).
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
