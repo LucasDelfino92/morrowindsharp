@@ -38,6 +38,7 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 
 [**Adamantium Ore Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Adamantium%20Ore%20Fix%20PFP.7z)  
 Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
+- Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068?) to original mod by **Half11**. The featured version includes a Patch for Purists fix to a container.
 
@@ -56,6 +57,7 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service%20STW.7z)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
+- Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
 
@@ -190,6 +192,7 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 
 [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes%20Necro.7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+- Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
 
@@ -251,10 +254,12 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - Check the following option in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
-- Install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
-  Removes collision from harvested Ash Yams.
-- Install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
-  Removes the glow light from harvested glowing plants.
+
+[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+Removes collision from harvested Ash Yams.
+
+[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
+Removes the glow light from harvested glowing plants.
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -290,7 +295,7 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
-### Audio
+## AUDIO
 
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes sheep sounds from Morrowind.	
@@ -308,12 +313,13 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Install **Morrowind Enhanced Textures** (Main files).
 - Install **MET Meshes** (Optional files). Merge when prompted.  
-  Includes many reworked face meshes based on those from **Facelift**, as well as an improved scum mesh for transparency.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
-- Install [**Project Atlas MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z).
+
+[**Project Atlas MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)  
+Fixes a missing atlased texture in the latest Nexus release.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -356,8 +362,12 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install **WeaponSheathing1.6-MWSE** (Main files).
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
-- Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473).
-- Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616).
+
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
+Places the bows on the back of characters in a way that lines up with the animation. 
+
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
+Adds sheaths to weapons that previously didn't have any.
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
@@ -381,15 +391,15 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
-[**Complete Armor Joints**](https://mw.modhistory.com/download-4-12572)  
+[**Complete Armor Joints**](https://mw.modhistory.com/file.php?id=12572)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+- Install manually with MO2.
 
-### MGE XE
-
-> ⚠️ The following mods require [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
+## MGE XE
 
 [**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
 Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
+- Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
@@ -397,16 +407,17 @@ Adds groundcover to almost all regions.
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
-
-> ⚠️ The following mods require [**Shader Setup**](main.md#shader-setup) to work as intended.
+- Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.
 
 [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
 A compilation of a handful of community-made shaders.
 - Check the following option in the BAIN installer:
   - [X] 00 Core
+- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.  
 
 ## GAMEPLAY
 
@@ -444,6 +455,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 [**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
 Includes configuration files and patches for mods included in the guide.
+- Install manually with MO2.
 - Check the corresponding options in the FOMOD installer based on the mods you have installed.
 
 ### MO2 Profile files
@@ -542,6 +554,10 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+11-27-2022
+- Removed **Beware the Sixth House Tweaks** (no longer necessary).
+- Small rewriting of a few instructions for clarity.
 
 10-18-2022
 - Updated **Morrowind Optimization Patch** instructions.
