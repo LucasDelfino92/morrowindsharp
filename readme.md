@@ -2,6 +2,8 @@
 
 ![Banner](pictures/banner.jpg)
 
+*Last updated: November 27th, 2022*.
+
 ## About
 
 **Morrowind Sharp** is a modular modlist for **The Elder Scrolls III: Morrowind**. It addresses a number of significant issues with the game:
@@ -41,7 +43,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### Is this modlist compatible with OpenMW?
 
-No. Many mods require MWSE to work.
+Unfortunately many mods require MWSE to work, so the answer is "No".
 
 ## Suggested readings
 
