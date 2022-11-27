@@ -95,8 +95,15 @@ Construction materials and scaffolding are now visible at the Great House strong
 
 ### Mesh fixes
 
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
+Restores visual effects on creatures that weren't displayed for technical reasons.
+
 [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
+
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
+Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
+- On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
 
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)  
 Greatly improves performance and fixes some mesh errors.
@@ -121,18 +128,11 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod. Also bear in mind that attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
 
-[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
-Restores visual effects on creatures that weren't displayed for technical reasons.
-
 [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
 - Check the following options in the BAIN installer:
   - [X] 00 Core
   - [X] 01 Smoke and Steam Emitters
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-- On MO2 installation, right-click on **Data Files** and **Set as data files directory**. Click **OK**.
 
 ### MWSE fixes
 
@@ -557,6 +557,8 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 11-27-2022
 - Removed **Beware the Sixth House Tweaks** (no longer necessary).
+- Separated the audio section from QOL Improvements into its own section.
+- Moved a few mesh fixes before MOP since they don't need to load after it.
 - Small rewriting of a few instructions for clarity.
 
 10-18-2022
