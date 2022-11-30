@@ -50,7 +50,7 @@ Your Data Files folder should now look like this.
 
 ## NEXUS DOWNLOADS
 
-Most mods downloaded for New Vegas will be acquired through [**Nexus**](https://www.nexusmods.com/morrowind). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
+Most mods downloaded for Morrowind will be acquired through [**Nexus**](https://www.nexusmods.com/morrowind). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
 
 ![Mod manager download](MO2/mod_manager_download.png)
 
@@ -328,7 +328,7 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 ## RUNNING THE GAME
 
-From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
 
 To launch the game, make sure to have the **Morrowind** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
 
