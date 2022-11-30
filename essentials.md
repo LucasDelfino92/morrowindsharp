@@ -110,10 +110,12 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - Check the following option in the BAIN installer:
   - [X] 00 Core + Vanilla Meshes
-- Install [**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
-  Removes collision from harvested Ash Yams.
-- Install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
-  Removes the glow light from harvested glowing plants.
+
+[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
+Removes collision from harvested Ash Yams.
+
+[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
+Removes the glow light from harvested glowing plants.
 
 [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -127,15 +129,15 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-- Install **Morrowind Enhanced Textures** (Main files)
+- Install **Morrowind Enhanced Textures** (Main files).
 - Install **MET Meshes** (Optional files). Merge when prompted.  
-  Includes many reworked face meshes based on those from **Facelift**, as well as an improved scum mesh for transparency.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Compatibility patch for Morrowind Enhanced Textures.
-- Install **Textures - MET** (Main files). Merge when prompted.
-- Install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20-%20MET%20Velothi%20Fix.7z)
-  - On MO2 installation, rename to **Project Atlas** and merge when prompted.
+- Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
+
+[**Project Atlas MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)  
+Fixes a missing atlased texture in the latest Nexus release.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -152,10 +154,14 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-- Install **WeaponSheathing1.6-MWSE** (Main files)
+- Install **WeaponSheathing1.6-MWSE** (Main files).
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
-- Install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
-- Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
+
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
+Places the bows on the back of characters in a way that lines up with the animation. 
+
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
+Adds sheaths to weapons that previously didn't have any.
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
@@ -170,6 +176,7 @@ Adds groundcover to almost all regions.
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
+- Requires [**Distant Land**](essentials.md#re-running-distant-land) generation to work as intended.
 
 ## FINISHING TOUCHES
 
@@ -233,7 +240,15 @@ Eye Adaptation (HDR)
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-# MOD KEYBINDINGS
+## RUNNING THE GAME
+
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
+To launch the game, make sure to have the **Morrowind** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+
+![Executables](MO2/MO_Morrowind.png)
+
+## MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
@@ -244,7 +259,7 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
-# CHANGELOG
+## CHANGELOG
 
 11-26-2022
 - Added **Morrowind Sharp Essentials**-specific MO2 profile files.
