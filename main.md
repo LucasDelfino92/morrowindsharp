@@ -36,12 +36,6 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Adamantium Ore Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Adamantium%20Ore%20Fix%20PFP.7z)  
-Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
-- Install manually with MO2.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068?) to original mod by **Half11**. The featured version includes a Patch for Purists fix to a container.
-
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -58,20 +52,10 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
 
-[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
-Adds shrines and Almsivi Intervention markers to temples that were missing them.
-- Check the following option in the BAIN installer:
-  - [X] 00 Vanilla Ghostgate
-
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
-Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
-
-[**Half11's Misc Mods - Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- Install **Services Restored** (Main files).
+[**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068)  
+Small collection of miscellaneous mods.
+- Install **Adamantium Ore Fix** (Main files). Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
+- Install **Services Restored** (Main files). Merge when prompted. Adds the missing master trainer for Medium Armor, Cinia Urtius.
 - Optional steps:
   - After installation, run **TESAME** in Mod Organizer 2.
   - Go to **Mods -> Open ..**
@@ -83,6 +67,17 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
   - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
 
 > ℹ️ The optional steps omit the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
+
+[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
+Adds shrines and Almsivi Intervention markers to temples that were missing them.
+- Check the following option in the BAIN installer:
+  - [X] 00 Vanilla Ghostgate
+
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
+Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores a previously unused Silt Strider animation, which comes with a previously unused sound.
@@ -557,6 +552,9 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+11-30-2022
+- Removed **Adamantium Ore Fix PFP** (TES3Merge handles the conflict with the original mod just fine).
 
 11-27-2022
 - Removed **Beware the Sixth House Tweaks** (no longer necessary).
