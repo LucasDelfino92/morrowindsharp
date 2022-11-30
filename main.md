@@ -42,9 +42,6 @@ Allows the player to find the exact amount of Adamantium Ore needed (45) in the 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068?) to original mod by **Half11**. The featured version includes a Patch for Purists fix to a container.
 
-[**Calculated List Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
-Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
-
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -72,23 +69,29 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
 
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
+[**Half11's Misc Mods - Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)  
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- After installation, run **TESAME** in Mod Organizer 2.
-- Go to **Mods -> Open ..**
-- Browse for your **Morrowind\Data Files** folder, and select **Services Restored.ESP**.
-- Right click on the following records (alternatively, press spacebar with the records selected) and the records will turn black:
-  - NPC **hecerinde**
-- Now press **Delete**, and the records will be gone.
-- Go to **Mods -> Save as ..**
-- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
-- This omits the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
+- Install **Services Restored** (Main files).
+- Optional steps:
+  - After installation, run **TESAME** in Mod Organizer 2.
+  - Go to **Mods -> Open ..**
+  - Browse for your **Morrowind\Data Files** folder, and select **Services Restored.ESP**.
+  - Right click on the following records (alternatively, press spacebar with the records selected) and the records will turn black:
+    - NPC **hecerinde**
+  - Now press **Delete**, and the records will be gone.
+  - Go to **Mods -> Save as ..**
+  - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
+
+> ℹ️ The optional steps omit the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
 Restores a previously unused Silt Strider animation, which comes with a previously unused sound.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+[**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
+Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
