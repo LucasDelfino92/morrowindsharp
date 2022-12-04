@@ -136,7 +136,7 @@ Solves conflicts by merging conflicting records into a separate plugin, **Merged
 - Manually download **TES3Merge** (Main files).
 - Extract the contents of the file to **Morrowind Mods\TES3Merge**.
 
-### [**TESAME**](http://mw.modhistory.com/download-95-15443)
+### [**TESAME**](https://www.nexusmods.com/morrowind/mods/50810)
 
 Cleans plugins and solves conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
 
