@@ -168,9 +168,6 @@ Fixes a bug where GMST values are not applied properly when raising a skill via 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)  
-Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
-
 ## USER INTERFACE
 
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
@@ -193,9 +190,6 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 - Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes fixes by **Necrolesian**.
-
-[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)  
-Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -372,20 +366,6 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 - Install **Alex's Better Fitted Female Armors v.1.0** (Main files).
 - Install **Alex's Better Fitted Female Armors - Tribunal** (Main files). Merge when prompted.
 
-> ℹ️ This mod replaces the questionable female variants of armor that already existed in the vanilla game with versions adapted from their male counterparts. Should you wish to revert these edits, follow these instructions.
-
-- After installation, run **TESAME** in Mod Organizer 2.
-- Go to **Mods -> Open ..**
-- Browse for your **Morrowind\Data Files** folder, and select **Alex's Better Fitted Female Armors.ESP**.
-- Right click on each of the following records (alternatively, press spacebar with the records selected) and the records will turn black:
-  - Armor **netch_leather_cuirass**
-  - Armor **imperial_chain_cuirass**
-  - Armor **steel_cuirass**
-  - Armor **imperial cuirass_armor**
-- Now press **Delete**, and the records will be gone.
-- Go to **Mods -> Save as ..**
-- Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
-
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
@@ -552,6 +532,10 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+12-04-2022
+- Removed **Memory Monitor** (as most users won't ever need it).
+- Removed **Class Description Tooltip** (as background lore is not really needed to pick a class).
 
 11-30-2022
 - Removed **Adamantium Ore Fix PFP** (TES3Merge handles the conflict with the original mod just fine).
