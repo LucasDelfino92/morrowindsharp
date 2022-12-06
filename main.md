@@ -36,6 +36,9 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
+[**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
+Places Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
+
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
 Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 - Check the following option in the FOMOD installer:
@@ -46,28 +49,6 @@ Reworks Divayth Fyr’s puzzle so that you require the correct key to open the c
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
-[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service%20STW.7z)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
-- Install manually with MO2.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
-
-[**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068)  
-Small collection of miscellaneous mods.
-- Install **Adamantium Ore Fix** (Main files). Allows the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks. This way the crafting service at Bols Indalen is sufficient, without overflowing the player with pieces of ore that is precious by lore.
-- Install **Services Restored** (Main files). Merge when prompted. Adds the missing master trainer for Medium Armor, Cinia Urtius.
-- Optional steps:
-  - After installation, run **TESAME** in Mod Organizer 2.
-  - Go to **Mods -> Open ..**
-  - Browse for your **Morrowind\Data Files** folder, and select **Services Restored.ESP**.
-  - Right click on the following records (alternatively, press spacebar with the records selected) and the records will turn black:
-    - NPC **hecerinde**
-  - Now press **Delete**, and the records will be gone.
-  - Go to **Mods -> Save as ..**
-  - Remove the **Copy of** prefix from the plugin name and save it, **overwriting** the original .esp.
-
-> ℹ️ The optional steps omit the restoration of Hecerinde's Secret Master tools, as the rest of the Secret Master tools are unavailable in the game.
-
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
 - Check the following option in the BAIN installer:
@@ -75,6 +56,10 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+[**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
+In the vanilla game, the Willpower attribute is described as "Affecting your ability to resist magic". However, due to a programming error, this resist factor only worked on effects with no magnitude, such as Paralysis and Silence. This mod rebalances the spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+- Install manually with MO2.
 
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
@@ -90,6 +75,24 @@ Checks the "Calculate from level <= Player level" flag on a handful of leveled l
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
+[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
+An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. We will only be installing the plugins which I feel work well right off the bat. For the rest, we will use **Official Plugins Naturalized**.
+- Check the following options in the FOMOD installer:
+  - [X] UMOPP Individual
+    - [X] Bitter Coast Sounds
+    - [X] Entertainers
+    - [X] LeFemm Armor
+
+[**Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107)  
+A new implementation of most of Bethesda's Official Plugins to hopefully make them feel more natural in Morrowind's gamespace.
+- Check the following options in the FOMOD installer:
+  - [X] Adamantium Armor
+  - [X] Area Effect Arrows
+  - [X] Helm of Tohan
+  - [X] Master Index
+  - [X] Siege at Firemoth
+  - [X] High Res Textures
 
 ### Mesh fixes
 
@@ -185,7 +188,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
-[**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes%20Necro.7z)  
+[**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 - Install manually with MO2.
 
@@ -193,6 +196,9 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
+
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
+Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 
 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
 Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
@@ -289,6 +295,15 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## AUDIO
 
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
+
+[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
+- Install manually with MO2.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
+
 [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
 Removes sheep sounds from Morrowind.	
 
@@ -297,9 +312,31 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## VISUALS
 
+[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+Faithful, high resolution replacer for the main title screen.
+- Install **Title Screen Reworked (Widescreen)** (Main files).
+
+[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
+Faithful, high resolution replacer for the splash screens.
+
+[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
+Replaces most of original book arts with hi-res images redrawn from scratch.
+
+[**Comrade Raven's Book Arts Replacer PFP Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Comrade%20Ravens%20Book%20Arts%20PFP.7z)  
+Forwards Patch for Purists text edits to the mod.
+
+[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
+High resolution replacer for the scroll and journal textures.
+- Install **Pete's Journal and Scroll** (Optional files).
+- Check the following options in the BAIN installer:
+  - [X] 01 Journal and Scroll - 2K
+
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install **kart_facelift_meshes** (Main files).
+
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -344,11 +381,27 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
+[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
+A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
+- Check the following options in the BAIN installer:
+  - [X] 00 Core
+  - [X] 01 Clouds textures
+  - [X] 03 Weather particles replacer
+
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+[**Complete Armor Joints**](https://mw.modhistory.com/file.php?id=12572)  
+Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
+- Install manually with MO2.
+
+[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
+- Install **Alex's Better Fitted Female Armors v.1.0** (Main files).
+- Install **Alex's Better Fitted Female Armors - Tribunal** (Main files). Merge when prompted.
+
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
+Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -360,18 +413,6 @@ Places the bows on the back of characters in a way that lines up with the animat
 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
 Adds sheaths to weapons that previously didn't have any.
-
-[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
-Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-- Install **Alex's Better Fitted Female Armors v.1.0** (Main files).
-- Install **Alex's Better Fitted Female Armors - Tribunal** (Main files). Merge when prompted.
-
-[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
-Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
-
-[**Complete Armor Joints**](https://mw.modhistory.com/file.php?id=12572)  
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-- Install manually with MO2.
 
 ## MGE XE
 
@@ -408,6 +449,12 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 - After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.
+
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
@@ -532,6 +579,23 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+12-05-2022
+- Added **Unofficial Morrowind Official Plugins Patched**.
+- Added **Official Plugins Naturalized**.
+- Added **Cinia**.
+- Added **Putting Power in Willpower**.
+- Added **Title Screen and Logo Video Intro Reworked**.
+- Added **Wide Screen Splash Replacer**.
+- Added **Comrade Raven's Book Arts Replacer**.
+- Added **Pete's Scroll 2018 ...in 2020**.
+- Added **Alchemical Knowledge**.
+- Added **Idle Talk**.
+- Added **Watch the Skies**.
+- Added **Pickpocket**.
+- Added **Stealth Improved**.
+- Removed **Adamantium Ore Fix** (as Adamantium Armor Naturalized greatly lessens the need for raw Adamantium Ore).
+- Removed **Services Restored** (replaced with Cinia).
 
 12-04-2022
 - Removed **Memory Monitor** (as most users won't ever need it).
