@@ -579,8 +579,6 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Removed **Distant Mournhold**
 
 12-05-2022
-- Added **Unofficial Morrowind Official Plugins Patched**.
-- Added **Official Plugins Naturalized**.
 - Added **Cinia**.
 - Added **Putting Power in Willpower**.
 - Added **Title Screen and Logo Video Intro Reworked**.
@@ -604,7 +602,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 11-27-2022
 - Removed **Beware the Sixth House Tweaks** (no longer necessary).
-- Separated the audio section from QOL Improvements into its own section.
+- Separated the audio section from **QOL Improvements** into its own section.
 - Moved a few mesh fixes before MOP since they don't need to load after it.
 - Small rewriting of a few instructions for clarity.
 
@@ -615,7 +613,6 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **RUNNING THE GAME** section.
 
 08-13-2022
-- Re-added **Silt Strider Animation Restored**.
 - Added **QuickKeys Hotbar - MWSE**.
 - Added **Here Comes the Sun... Glare**.
 
@@ -630,16 +627,9 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Updated **Great Service** to **spockthewok**'s edited version.
 
 07-24-2022
-- Added **Cantons on the Global Map**.
-- Re-added **Adamantium Ore Fix**.
-- Re-added **IMMERSIVE RUN FIX**.
-- Re-added **Magican't**.
 - Re-added **MultiEnchant**.
-- Re-added **Quest Skill Reward Fix**.
-- Re-added **Skill Increase GMST Fix**.
 - Re-added **Quick Char (Necro Edit)**.
 - Re-added **Early Transport to Mournhold**.
-- No, this is not an indication that the guide is going back to the bloatfest it was.
 - **Patch for Purist**-compatible edits of mods have been removed in favor of the originals, as TES3Merge already addresses these conflicts.
 
 07-23-2022
