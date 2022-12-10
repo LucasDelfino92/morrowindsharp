@@ -39,13 +39,6 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
 Places Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
 
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-- Check the following option in the FOMOD installer:
-  - [X] Patch for Purists
-
-> ℹ️ Later in the guide we will install **Ownership Overhaul**. The reason we are not installing the patch found in the FOMOD installer is that it allows Divayth Fyr to become hostile if he catches you opening his chests and stealing his keys.
-
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
 
@@ -64,9 +57,6 @@ In the vanilla game, the Willpower attribute is described as "Affecting your abi
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
 
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)  
-Restores a previously unused Silt Strider animation, which comes with a previously unused sound.
-
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -75,24 +65,6 @@ Checks the "Calculate from level <= Player level" flag on a handful of leveled l
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
-
-[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
-An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. We will only be installing the plugins which I feel work well right off the bat. For the rest, we will use **Official Plugins Naturalized**.
-- Check the following options in the FOMOD installer:
-  - [X] UMOPP Individual
-    - [X] Bitter Coast Sounds
-    - [X] Entertainers
-    - [X] LeFemm Armor
-
-[**Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107)  
-A new implementation of most of Bethesda's Official Plugins to hopefully make them feel more natural in Morrowind's gamespace.
-- Check the following options in the FOMOD installer:
-  - [X] Adamantium Armor
-  - [X] Area Effect Arrows
-  - [X] Helm of Tohan
-  - [X] Master Index
-  - [X] Siege at Firemoth
-  - [X] High Res Textures
 
 ### Mesh fixes
 
@@ -137,36 +109,17 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 ### MWSE fixes
 
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
-Carries over unique item information, such as condition and script data when enchanting items.
-
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
 
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)  
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat, mirroring the Fortify Maximum Health feature from the Morrowind Code Patch.
-- Requires [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) to be installed.
-
-[**IMMERSIVE RUN FIX**](https://www.nexusmods.com/morrowind/mods/45947)  
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
-[**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
-Empties the magic chance fillbar when you don't have enough magicka to cast the spell.
-
 [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 Fixes a bug where the cost of the first effect is doubled in enchantments with multiple effects.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
-Makes the game treat skill increases from quests as if there were raised via normal means, solving bugs in the process.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
-Fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book. 
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
@@ -203,16 +156,6 @@ Fixes gameplay and interface inconsistencies in alchemy menu, provides it with b
 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
 Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
 
-[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)  
-Renames keys so they'll have a consistent naming scheme.
-- Install **Consistent Keys - MWSE Version** (Main files).
-
-[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
-Renames propylon indexes so they'll group together in the inventory.
-
-[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
-Renames soulgems so they'll group together in the inventory.
-
 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
@@ -225,9 +168,6 @@ Adds a hotbar to the game with all your hotkeys displayed.
 
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
-
-[**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534)  
-Makes the cantons of Vivec and Molag Mar visible on the global map. Compatible with other mods that edit those cells, as long as they don't change the landscape (no such mods are featured in this guide).
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
 Adds a cancel button to Temple shrines and Imperial Cult altars.
@@ -278,9 +218,6 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ### Hotkeys
 
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-Adds a hotkey for summons, followers and companions to attack the selected target.
-
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
@@ -295,6 +232,17 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## AUDIO
 
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
+Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
+- Install **AURA 5.2.1** (Main files).
+- Install **AURA 5.2.2 Patch** (Update files). Merge when prompted.
+
+[**Quieter Spell Sound Effects**](https://www.nexusmods.com/morrowind/mods/51790)  
+Because AURA is dependent on Master and Effects SFX being at 100%, it makes spells far too relatively loud. This mod addresses this by reducing spell sound effect files to about a third of their original volume.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
+Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
+
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
 
@@ -303,9 +251,6 @@ Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with
 - Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
-
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)  
-Removes sheep sounds from Morrowind.	
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 Reduces the frequency of idle Cliff Racer screeches.
@@ -373,6 +318,9 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862)  
+Makes projectiles visually stick to whatever they hit, be it creatures, NPCs, or surfaces. These projectiles can't be picked up, and disappear upon resting or reloading a save.
+
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
 - Check the following option in the BAIN installer:
@@ -416,10 +364,6 @@ Adds sheaths to weapons that previously didn't have any.
 
 ## MGE XE
 
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)  
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city. 
-- Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
-
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
 - Check the following options in the BAIN installer:
@@ -440,11 +384,26 @@ A compilation of a handful of community-made shaders.
 
 ## GAMEPLAY
 
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
+- Install as **Controlled Consumption**.
+
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
+Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
+- Install as **Harder Barter**.
+
 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
 Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
+
+[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes the biggest exploits and balance issues in the game.
+- Install as **Morrowind Anti-Cheese**.
+
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful, especially when combined with a needs mod that requires the player to sleep (such as [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)).
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -452,6 +411,15 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
 Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.
+
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+- Check the following options in the BAIN installer:
+  - [X] Core
+  - [X] Labelled Potions
+
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
+Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
@@ -563,7 +531,6 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
@@ -579,6 +546,37 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+12-10-2022
+- To prevent the guide from escalating past the 100 mod count range, many of the less important mods were removed in favor of the ones added in this update.
+- Added **AURA**.
+- Added **Quieter Spell Sound Effects**.
+- Added **Character Sound Overhaul**.
+- Added **Pincushion**.
+- Added **Controlled Consumption**.
+- Added **Harder Barter**.
+- Added **No Rest Without Beds**.
+- Added **Poison Crafting**.
+- Added **Realistic Repair**.
+- Added **Morrowind Anti-Cheese**.
+- Removed **Divayth Fyr Puzzle Fixed**
+- Removed **Silt Strider Animation Restored**
+- Removed **Unofficial Morrowind Official Plugins Patched**
+- Removed **Official Plugins Naturalized**
+- Removed **Consistent Enchanting**
+- Removed **Attribute Effect Tweaks**
+- Removed **Fortify MAX**
+- Removed **IMMERSIVE RUN FIX**
+- Removed **Magican't**
+- Removed **Quest Skill Reward Fix**
+- Removed **Skill Increase GMST Fix**
+- Removed **Consistent Keys**
+- Removed **Propylon Index Renamer**
+- Removed **Soulgem Renamer**
+- Removed **Cantons on the Global Map**
+- Removed **Kill Command**
+- Removed **Sheep-no-More**	
+- Removed **Distant Mournhold**
 
 12-05-2022
 - Added **Unofficial Morrowind Official Plugins Patched**.
