@@ -559,24 +559,24 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 - Added **Poison Crafting**.
 - Added **Realistic Repair**.
 - Added **Morrowind Anti-Cheese**.
-- Removed **Divayth Fyr Puzzle Fixed**
-- Removed **Silt Strider Animation Restored**
-- Removed **Unofficial Morrowind Official Plugins Patched**
-- Removed **Official Plugins Naturalized**
-- Removed **Consistent Enchanting**
-- Removed **Attribute Effect Tweaks**
-- Removed **Fortify MAX**
-- Removed **IMMERSIVE RUN FIX**
-- Removed **Magican't**
-- Removed **Quest Skill Reward Fix**
-- Removed **Skill Increase GMST Fix**
-- Removed **Consistent Keys**
-- Removed **Propylon Index Renamer**
-- Removed **Soulgem Renamer**
-- Removed **Cantons on the Global Map**
-- Removed **Kill Command**
-- Removed **Sheep-no-More**	
-- Removed **Distant Mournhold**
+- Removed **Divayth Fyr Puzzle Fixed**.
+- Removed **Silt Strider Animation Restored**.
+- Removed **Unofficial Morrowind Official Plugins Patched**.
+- Removed **Official Plugins Naturalized**.
+- Removed **Consistent Enchanting**.
+- Removed **Attribute Effect Tweaks**.
+- Removed **Fortify MAX**.
+- Removed **IMMERSIVE RUN FIX**.
+- Removed **Magican't**.
+- Removed **Quest Skill Reward Fix**.
+- Removed **Skill Increase GMST Fix**.
+- Removed **Consistent Keys**.
+- Removed **Propylon Index Renamer**.
+- Removed **Soulgem Renamer**.
+- Removed **Cantons on the Global Map**.
+- Removed **Kill Command**.
+- Removed **Sheep-no-More** (already included in AURA).
+- Removed **Distant Mournhold**.
 
 12-05-2022
 - Added **Cinia**.
