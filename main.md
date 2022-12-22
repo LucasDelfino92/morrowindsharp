@@ -24,8 +24,8 @@ To create a separator, follow these stpes:
 
 In part one of the guide, we installed mods manually, outside **Mod Organizer 2**. In part two, the vast majority of mods will be installed through our mod manager.
 
-- To install mods that were downloaded manually, be it from **Nexus** or from other sources lacking a mod manager download option, click the ![Install](MO2/MO_Archive.png) button in Mod Organizer 2. Browse to the location of the downloaded file, and double-click on it to add it to MO2. On the left pane, click the empty checkbox next to the mod to activate it.
-- To install mods downloaded through your mod manager, click the **Downloads** tab on the right pane of Mod Organizer 2. Right-click the downloaded mod, and select **Install**. On the left pane, click the empty checkbox next to the mod to activate it.
+- To install mods downloaded from **Nexus** through the mod manager download option, click the **Downloads** tab on the right pane of Mod Organizer 2. Right-click the downloaded mod, and select **Install**. On the left pane, click the empty checkbox next to the mod to activate it.
+- To manually install mods downloaded from **Nexus** or other sources lacking a mod manager download option, click the ![Install](MO2/MO_Archive.png) button in Mod Organizer 2. Browse to the location of the downloaded file, and double-click on it to add it to MO2. On the left pane, click the empty checkbox next to the mod to activate it.
 
 > ℹ️ By default, use the name provided by Mod Organizer 2 when installing a mod, unless stated otherwise. These names are required for the last step in our installation, that of sorting mods according to a provided text file, to work correctly.
 
@@ -53,6 +53,8 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
 In the vanilla game, the Willpower attribute is described as "Affecting your ability to resist magic". However, due to a programming error, this resist factor only worked on effects with no magnitude, such as Paralysis and Silence. This mod rebalances the spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 - Install manually with MO2.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
 
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
@@ -99,7 +101,9 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
     - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **QOL Improvements** section)
 - Install **Hotfix 0.7.2** (Update files). Merge when prompted.
 
-> ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod. Also bear in mind that attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
+> ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
+
+> ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. 
 
 [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
@@ -137,9 +141,6 @@ High resolution replacer for the Daedric font used in scrolls.
 
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
-
-[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)  
-Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
 [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
@@ -209,15 +210,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] 01 Textures - High Resolution
   - [X] 02 ESP - Vvardenfell only
 
-[**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-- After installation, hide **QuickChar (Necro Timescale6 Edit).esp** in Mod Organizer 2.
-
-[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
-Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-### Hotkeys
-
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
@@ -226,6 +218,9 @@ Adds a hotkey for exiting any menu.
 
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
@@ -242,6 +237,9 @@ Because AURA is dependent on Master and Effects SFX being at 100%, it makes spel
 
 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
 Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
+
+[**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z)  
+Implements footstep sounds for the atlased textures from Project Atlas.
 
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
@@ -268,7 +266,7 @@ Faithful, high resolution replacer for the splash screens.
 Replaces most of original book arts with hi-res images redrawn from scratch.
 
 [**Comrade Raven's Book Arts Replacer PFP Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Comrade%20Ravens%20Book%20Arts%20PFP.7z)  
-Forwards Patch for Purists text edits to the mod.
+Forwards Patch for Purists text fixes to the mod.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 High resolution replacer for the scroll and journal textures.
@@ -292,7 +290,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 Compatibility patch for Morrowind Enhanced Textures.
 - Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
 
-[**Project Atlas MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)  
+[**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)  
 Fixes a missing atlased texture in the latest Nexus release.
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
@@ -364,6 +362,15 @@ Adds sheaths to weapons that previously didn't have any.
 
 ## MGE XE
 
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
+A compilation of a handful of community-made shaders.
+- Check the following option in the BAIN installer:
+  - [X] 00 Core
+- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.  
+
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
 - Check the following options in the BAIN installer:
@@ -371,16 +378,6 @@ Adds groundcover to almost all regions.
   - [X] 01b Thicker Grass MGE XE
 - After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
 - Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
-
-[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
-- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.
-
-[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
-A compilation of a handful of community-made shaders.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
-- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.  
 
 ## GAMEPLAY
 
@@ -397,6 +394,12 @@ Dynamically adjusts how much merchants will pay for items. Expensive items are m
 
 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
 Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
+
+[**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes the biggest exploits and balance issues in the game.
@@ -546,6 +549,13 @@ Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 
 ## CHANGELOG
+
+12-22-2022
+- Added **Marskman Rebalanced**.
+- Added **Magicka Based Skill Progression**.
+- Added **Character Sound Overhaul - Project Atlas Patch**.
+- Removed **Randomised Chargen**.
+- Removed **Quick Char (Necro Edit)**.
 
 12-10-2022
 - To prevent the guide from escalating past the 100 mod count range, many of the less important mods were removed in favor of the ones added in this update.
