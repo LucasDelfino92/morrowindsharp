@@ -51,7 +51,7 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
-In the vanilla game, the Willpower attribute is described as "Affecting your ability to resist magic". However, due to a programming error, this resist factor only worked on effects with no magnitude, such as Paralysis and Silence. This mod rebalances the spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 - Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
@@ -164,9 +164,6 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 - Install **Full Version** (Main files).
 
-[**QuickKeys Hotbar - MWSE**](https://www.nexusmods.com/morrowind/mods/51192)  
-Adds a hotbar to the game with all your hotkeys displayed.
-
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 Allows highlighting and hiding quests in the Journal questlist.
 
@@ -174,11 +171,14 @@ Allows highlighting and hiding quests in the Journal questlist.
 Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
-Adds tooltips with the effect's name to shrines when hovering over the different options.
+Adds tooltips to shrines on hovering over the different options, describing the effects a blessing has.
 
 ## QOL IMPROVEMENTS
 
 ### Gameplay
+
+[**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
+Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -385,6 +385,9 @@ Adds groundcover to almost all regions.
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 - Install as **Controlled Consumption**.
 
+[**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
+Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
@@ -397,6 +400,17 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 
 [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
+A lua-based framework for creating new, fully functional magic effects.
+- Check the following options in the BAIN installer:
+  - [X] 00 - Framework
+
+[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
+Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
+- Check the following options in the BAIN installer:
+  - [X] 00 - Core
+  - [X] 01 - Cast VFX
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
@@ -551,11 +565,19 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 ## CHANGELOG
 
 12-22-2022
+- Added **Controlled Weapon Enchants**.
+- Added **Diseases Restored**.
 - Added **Marskman Rebalanced**.
 - Added **Magicka Based Skill Progression**.
+- Added **Magicka Expanded**.
+- Added **MM - Enhanced Detection**.
 - Added **Character Sound Overhaul - Project Atlas Patch**.
 - Removed **Randomised Chargen**.
 - Removed **Quick Char (Necro Edit)**.
+- Removed **QuickKeys Hotbar - MWSE**.
+
+<details>
+  <summary>Older entries - Click to expand</summary>
 
 12-10-2022
 - To prevent the guide from escalating past the 100 mod count range, many of the less important mods were removed in favor of the ones added in this update.
@@ -644,6 +666,7 @@ Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Qu
 
 07-23-2022
 - Complete rewrite of the guide. Now focused on major improvements while keeping the core experience intact.
-
+</details>
+  
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
