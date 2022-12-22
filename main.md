@@ -548,6 +548,7 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+G | Toggle cast-on-strike enchantments on/off | Controlled Weapon Enchants
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
