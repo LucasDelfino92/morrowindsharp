@@ -36,31 +36,31 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
-Places Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
-
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.	
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information. Made by the author of Patch for Purists, not included in the main mod because of the scope of the change.
+
+[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in. Made by the author of Patch for Purists, not included in the main mod for compatibility with other mods that edit inns.
+
+[**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
+Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
+
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
+Restores missing stages during the construction of Great House strongholds. Construction materials and scaffolding are now visible during construction of the later stages.
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
 - Check the following option in the BAIN installer:
   - [X] 00 Vanilla Ghostgate
 
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
-
-[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
 [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
 Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
 
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
-Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
 ### Mesh fixes
 
