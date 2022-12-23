@@ -376,7 +376,7 @@ Adds groundcover to almost all regions.
 - Check the following options in the BAIN installer:
   - [X] 00 Core MGE XE
   - [X] 01b Thicker Grass MGE XE
-- After installation, disable (do not hide or delete) all of the mod's plugins in your load order. This plugins are required for Distant Land generation, but shouldn't be active during normal gameplay.
+- After installation, uncheck the mod's plugins in your load order. They shouldn't be active during normal gameplay, but they still need to be present for Distant Land generation to use them.
 - Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
 ## GAMEPLAY
