@@ -64,7 +64,9 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
     - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **Optional Vanilla+** section)
 - Install **Hotfix 0.7.2** (Update files). Merge when prompted.
 
-> ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod. Also bear in mind that attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
+> ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
+
+> ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. 
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
