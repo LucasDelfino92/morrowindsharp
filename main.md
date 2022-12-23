@@ -552,16 +552,16 @@ G | Toggle cast-on-strike enchantments on/off | Controlled Weapon Enchants
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
-V | Opens shader controller | MGE XE Shader Pack
-Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
-Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
-Alt + F4 | Creates a permanent save | Sophisticated Save System
+Alt+Left Click | Equips/unequips item in inventory | Quick Equip
+Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
 Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Alt+Left Click | Equips/unequips item in inventory | Quick Equip
-Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+Alt + F4 | Creates a permanent save | Sophisticated Save System
+V | Opens shader controller | MGE XE Shader Pack
+Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
+Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 ## CHANGELOG
 
