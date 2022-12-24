@@ -542,6 +542,19 @@ To launch the game, make sure to have the **Morrowind** executable selected from
 
 ![Executables](MO2/MO_Morrowind.png)
 
+## IN-GAME CONFIGURATION
+
+- Click **Options**.
+- Select the **Video** tab.
+  - Set the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
+  - Set the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
+- Select the **Audio** tab.
+  - Set the **Master** slider all the way to the right. This is required for AURA.
+  - Set the **Effects** slider all the way to the right. This is required for AURA.
+  - Set the **Footsteps** slider all the way to the left. This is recommended for Character Sound Overhaul.
+
+> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
+
 ## MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
