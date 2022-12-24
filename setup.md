@@ -334,14 +334,6 @@ To launch the game, make sure to have the **Morrowind** executable selected from
 
 ![Executables](MO2/MO_Morrowind.png)
 
-## IN-GAME CONFIGURATION
-
-- Click **Options** and select the **Video** tab.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
-- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
-
 # MOVING ON TO THE NEXT SECTION
 
 [To Morrowind Sharp >>](main.md)  
