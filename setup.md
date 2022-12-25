@@ -32,6 +32,11 @@ This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind L
 
 Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
+Finally, we need to create a folder where to store our mods. Create it in the following path:
+```
+C:\Games\Morrowind Mods
+```
+
 ## POST-INSTALLATION
 
 The GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
