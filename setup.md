@@ -83,9 +83,6 @@ Allows Morrowind to render distant views, scenery shadows, high quality shaders 
 
 - Manually download **MGE XE Manual Install** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
-- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
-
-> ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. However, we will install **Weather Adjuster** in due time, a modern alternative.
 
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
