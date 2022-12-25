@@ -20,20 +20,21 @@
 
 ## INSTALLATION
 
-By default, GOG will install Morrowind to the next directory:
+Install Morrowind to GOG's default directory:
 ```
 C:\Games
 ```
-This will create a folder in the following path, which we will refer to as our **Root** folder. This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
+This will create a folder in the following path, which we will refer to as our **Root** folder.
 ```
 C:\Games\Morrowind
 ```
+This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 
 Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
 ## POST-INSTALLATION
 
-The GOG release of Morrowind ships with files we do not need. Some of these files are the official plugins Bethesda released for Morrowind. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins) The general opinion is that these plugins are essentially low quality mods, and not worth your time.
+The GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
 
 Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
@@ -50,7 +51,7 @@ Your Data Files folder should now look like this.
 
 ## NEXUS DOWNLOADS
 
-Most mods downloaded for Morrowind will be acquired through [**Nexus**](https://www.nexusmods.com/morrowind). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
+Most mods downloaded for Morrowind will be acquired through [**Nexus**](https://www.nexusmods.com/morrowind). To download a mod, access the **Files** tab on the mod's Nexus page.
 
 ![Mod manager download](MO2/mod_manager_download.png)
 
@@ -58,15 +59,15 @@ This option downloads the archive to your mod manager, from which you can instal
 
 ![Manual download](MO2/manual_download.png)
 
-This option downloads the archive straight to your computer. To install it, you will need to add it to your mod manager, or follow the installation instructions provided by the mod author. For the most part, mods that should be installed *without* the use of a mod manager will have this download option as the only available method.
+This option downloads the archive to your computer. You will need to manually add the mod to your mod manager in order to install it. For the most part, mods that should be installed *without* the use of a mod manager will have this download option as the only available method.
 
-For this first part of the guide, files will be downloaded using the manual download option exclusively. For the second part of the guide, files will be downloaded using the mod manager download option. All in all, this makes the first part of the guide more tedious in spite of its smaller size.
+For this first part of the guide, files will be downloaded using the manual download option exclusively. For the second part of the guide, files will be downloaded using the mod manager download option.
 
 ## UTILITIES AND TOOLS
 
 ### [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510)
 
-Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by installing mods. It is a must-have utility for anyone who plays Morrowind.
+Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by installing mods.
 
 - Manually download **Morrowind Code Patch** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **Morrowind Code Patch.exe** in the same folder as your **Morrowind.exe**.
@@ -124,10 +125,9 @@ Cleans plugins and solves conflicts by manually deleting conflicting or dirty re
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
-An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
+An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
 
-- Manually download **Mod Organizer 2** (Main files).
-- Run the downloaded **Mod Organizer 2** executable.
+- Manually download **Mod Organizer 2** (Main files), and run the executable.
 - When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
 - When installation has finished, click **Finish**.
 - The **Instance manager** window will appear. Click the **Create a new instance** button on the upper left.
@@ -143,7 +143,7 @@ You can hide unnecessary information in Mod Organizer 2 by right clicking on the
 
 ### Adjusting mod and load order
 
-Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
+Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their files, with mods closer to the bottom overwriting the files of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
 
 Reorganize it to read as follows using drag and drop.
 ```
@@ -184,10 +184,10 @@ Max Snowflakes=1500
 
 ### Setting up Profiles
 
-Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another. **Morrowind Sharp** as two versions available:
+Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another. **Morrowind Sharp** has two versions available:
 
 - The standard installation, which is considerably longer.
-- The essentials installation, much shorter, ideal if you want to keep your experience mostly intact.
+- The essentials installation, much shorter, ideal if you want to keep your experience mostly intact or you simply want to dive in quickly into the game.
 
 You can follow both versions of the guide by creating multiple profiles. The first step is to create them.
 
@@ -276,7 +276,7 @@ Sunshafts
 
 ### Distant Land tab
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
 
