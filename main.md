@@ -342,9 +342,9 @@ Visual weather editor which allows for user-made presets. Required for the confi
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 - Install manually with MO2.
 
-[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
+[**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)  
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-- Install **Alex's Better Fitted Female Armors v.1.0** (Main files).
+- Install **Alex's Better Fitted Female Armors v.1.1** (Main files).
 - Install **Alex's Better Fitted Female Armors - Tribunal** (Main files). Merge when prompted.
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)  
