@@ -333,6 +333,7 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
   - [X] 00 Core
   - [X] 01 Clouds textures
   - [X] 03 Weather particles replacer
+- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**. This MGE XE plugin randomizes the sky colour and sunrise/sunset every day. However, it is no longer needed with Watch the Skies.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
