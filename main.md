@@ -250,19 +250,6 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## VISUALS
 
-[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
-Faithful, high resolution replacer for the main title screen.
-- Install **Title Screen Reworked (Widescreen)** (Main files).
-
-[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
-Faithful, high resolution replacer for the splash screens.
-
-[**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)  
-Replaces most of original book arts with hi-res images redrawn from scratch.
-
-[**Comrade Raven's Book Arts Replacer PFP Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Comrade%20Ravens%20Book%20Arts%20PFP.7z)  
-Forwards Patch for Purists text fixes to the mod.
-
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 High resolution replacer for the scroll and journal textures.
 - Install **Pete's Journal and Scroll** (Optional files).
@@ -272,9 +259,6 @@ High resolution replacer for the scroll and journal textures.
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 - Install **kart_facelift_meshes** (Main files).
-
-[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -442,6 +426,9 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
