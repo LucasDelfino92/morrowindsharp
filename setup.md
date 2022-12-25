@@ -87,23 +87,6 @@ Allows Morrowind to render distant views, scenery shadows, high quality shaders 
 
 > ℹ️ **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. However, we will install **Weather Adjuster** in due time, a modern alternative.
 
-MGE XE doesn't account for in-game scenarios which affect the landscape of Morrowind, and which can cause discrepancies between the distant statics generated with MGE XE and the actual landscape (such as a static disappearing once you get too close to it, or a static popping in out of nowhere). **Distant static overrides** allow MGE XE to bypass the generation of certain statics in order to account for these scenarios.
-
-- Download [**Abot Distant Statics Overrides - Necro Edit 2.0.1**](https://www.dropbox.com/s/9rgwv9yjbipp5gi/Abot%20Distant%20Statics%20Overrides%20-%20Necro%20Edit%202.0.1.7z?dl=1).
-- Extract the contents of the file.
-- Place the contents of the **necro_distant_statics_override** folder in your **C:\Games\Morrowind\mge3** directory.
-
-This file contemplates the following landscape-altering scenarios:
-
-- The completion of the Main Quest.
-- The completion of Bloodmoon's Main Quest.
-- The progress and completion of Boethiah's Daedric Quest.
-- The completion of the Siege at Firemoth official plugin.
-- The completion of the construction of each Great House Stronghold.
-- The completion of Raven Rock's construction.
-
-> ℹ️ The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
-
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
 Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
