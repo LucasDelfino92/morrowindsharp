@@ -175,11 +175,6 @@ Adds tooltips to shrines on hovering over the different options, describing the 
 
 ## QOL IMPROVEMENTS
 
-### Gameplay
-
-[**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
-Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
-
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 
@@ -385,6 +380,9 @@ Adds groundcover to almost all regions.
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 - Install as **Controlled Consumption**.
+
+[**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
+Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
 
 [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
