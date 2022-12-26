@@ -90,6 +90,19 @@ Allows Morrowind to render distant views, scenery shadows, high quality shaders 
 - Manually download **MGE XE Manual Install** (Main files).
 - Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
 
+### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
+
+Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods).
+
+- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
+
+### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
+
+Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
+
+- Manually download **TES3Merge** (Main files).
+- Extract the contents of the file to **Morrowind Mods\TES3Merge**.
+
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
 Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
@@ -108,19 +121,6 @@ Repairs and updates saves, updates the masters of mods, and runs tes3cmd in orde
 - Click **OK**, and close the program.
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
-
-### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
-
-Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods).
-
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
-
-### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
-
-Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-
-- Manually download **TES3Merge** (Main files).
-- Extract the contents of the file to **Morrowind Mods\TES3Merge**.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
