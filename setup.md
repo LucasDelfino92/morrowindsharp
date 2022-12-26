@@ -122,12 +122,6 @@ Solves conflicts by merging conflicting records into a separate plugin, **Merged
 - Manually download **TES3Merge** (Main files).
 - Extract the contents of the file to **Morrowind Mods\TES3Merge**.
 
-### [**TESAME**](https://www.nexusmods.com/morrowind/mods/50810)
-
-Cleans plugins and solves conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-
-- Extract the contents of the file to **Morrowind Mods\TESAME**.
-
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
@@ -217,7 +211,7 @@ Follow these steps for **Wrye Mash**:
 - Navigate to Wrye Mash's folder (**C:\Games\Morrowind\Mopy**) and double click **mash64.exe**.
 - Click **Apply**.
 
-Follow these steps for **TES3Merge** and **TESAME**:
+Follow these steps for **TES3Merge**:
 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
