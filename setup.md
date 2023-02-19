@@ -287,11 +287,6 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 - In the **Statics** tab:
   - Set **Minimum Static Size** to 100.
   - Check **Include reflective water in interiors**.
-  - Check **Use lists of statics overriding parameters set above**.
-  - Click **Edit list**.
-    - Click **Add**.
-    - Navigate to your **Morrowind\mge3** folder, and double-click **00_main.ovr**.
-    - Click **Save**.
   - Click **Create Statics**.
 - Once the statics have been created, click **Finish**.
 
