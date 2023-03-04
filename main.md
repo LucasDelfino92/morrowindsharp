@@ -317,7 +317,7 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
-[**Complete Armor Joints**](https://mw.modhistory.com/file.php?id=12572)  
+[**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete_Armor_Joints.rar)  
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 - Install manually with MO2.
 
