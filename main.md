@@ -420,6 +420,7 @@ Opens up an entire new facet of gameplay by granting the ability to use potions 
 
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
+- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
