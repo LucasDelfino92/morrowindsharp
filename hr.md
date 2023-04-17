@@ -280,7 +280,7 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ### MO2 Profile files
 
-[**Hail Resdaynia**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Hail%20Resdaynia.7z.7z)  
+[**Hail Resdaynia**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Hail%20Resdaynia.7z)  
 Adjusts mod order and load order for Hail Resdaynia to work as intended.
 - Extract the files into **C:\Games\Morrowind Sharp\MO2\profiles\Hail Resdaynia**, overwriting when prompted.
 
