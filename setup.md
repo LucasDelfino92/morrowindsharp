@@ -107,10 +107,8 @@ Solves conflicts by merging conflicting records into a separate plugin, **Merged
 
 Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
 
-- Manually download **Wrye Mash 2019 - x64 - manual installation archive** (Main files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
-- Manually download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files) from the same page linked above.
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update Wrye Mash to the latest beta version.
+- Manually download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
+- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This is the latest beta version of Wrye Mash, so none of the main files are needed.
 - Execute **mash64.exe**, found in **C:\Games\Morrowind\Mopy**.
 - Eventually the installation wizard will ask you to fill the following entries:
    - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that **morrowind.ini** and the **Data files** folder were found.
