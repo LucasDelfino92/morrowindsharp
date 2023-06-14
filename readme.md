@@ -2,7 +2,7 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: December 26th, 2022*.
+*Last updated: June 14th, 2023*.
 
 ## About
 
@@ -16,24 +16,20 @@
 
 Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
 
-Two versions of this modlist are available:
-- The Morrowind Sharp version, consisting of roughly 100 mods.
-- The Hail Resdaynia version, consisting of roughly 60 mods.
-
 [**Click here to get started**](setup.md).
 
-## My setup
+## Performance
 
-When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
+When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 30fps (at worst, in the Grazelands) to 60fps (indoors), through 50fps outdoors.
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 8.1 Pro 64-bit
-CPU | Intel Core i5 4440
-RAM | 8GB
-Graphics | 1GB ATI AMD Radeon HD 7700 Series
-HDD | 1TB
+OS | Windows 10 Pro 64-bit
+CPU | AMD Ryzen 5 5600
+GPU | ASUS DUAL OC RX 6600 XT 8GB 
 Monitor | Samsung 24" 1080p @ 60Hz
+RAM | 16GB DDR4
+SSD | Kingston KC3000 1TB
 
 ## Frequently asked questions
 
@@ -43,7 +39,7 @@ Roughly 9GB. Morrowind Enhanced Textures and AURA accounts for most of the space
 
 ### Is this modlist compatible with OpenMW?
 
-Unfortunately many mods require MWSE to work, so the answer is "No".
+No. Many mods require MWSE to work, which isn't supported by OpenMW.
 
 ## Suggested readings
 
