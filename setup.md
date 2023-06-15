@@ -225,7 +225,6 @@ Follow these steps for **TES3Merge**:
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
 - Navigate to TES3Merge's folder (**Morrowind\TES3Merge**) and double click **TES3Merge.exe**.
-- In the **Start In** field, select your Morrowind **Root** folder.
 - Click **Apply**.
 
 ### Configuring MGE XE in Mod Organizer 2
