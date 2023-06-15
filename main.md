@@ -348,6 +348,12 @@ Restores diseases by assigning them to existing creatures and fixes some other (
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 - BAIN setup:
   - [X] Core + Vanilla Meshes
+- Additionally install **Morrowind Optimization Patch Graphic Herbalism Patch**:
+  - Under your MO2 Downloads tab, click the **Morrowind Optimization Patch** file and install it.
+    - BAIN setup:
+      - [X] Graphic Herbalism Patch
+    - Rename the mod to **Morrowind Optimization Patch Graphic Herbalism Patch** before clicking Ok.
+    - This will install the patch as a separate mod.
 - Additionally install [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154).
 - Additionally install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864).
 
