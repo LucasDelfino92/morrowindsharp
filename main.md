@@ -373,14 +373,12 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended f
 
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
-- Install as **Controlled Consumption**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
 Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
-- Install as **Harder Barter**.
 
 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
 Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
@@ -391,7 +389,7 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
 - BAIN setup:
-   Framework
+   - [X] Framework
 
 [**Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
@@ -404,7 +402,6 @@ Takes into account the distance to target when calculating the hit chance for ra
 
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 Fixes the biggest exploits and balance issues in the game.
-- Install as **Morrowind Anti-Cheese**.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful, especially when combined with a needs mod that requires the player to sleep (such as [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)).
@@ -463,13 +460,6 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 - Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**. 
 - Once the window has closed, click on the **Save** button further below the same panel.
 - Repeat this process for each of the faulty plugins.
-- Close **Wrye Mash**.
-
-### Cleaning mods
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- Right-click **The Publicans.ESP**, and click **Clean with TES3cmd**.
-- After the process is finished, click **OK**.
 - Close **Wrye Mash**.
 
 ### Conflict resolution
