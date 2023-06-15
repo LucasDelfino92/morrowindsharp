@@ -29,18 +29,20 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 
 > ℹ️ By default, use the name provided by Mod Organizer 2 when installing a mod, unless stated otherwise. These names are required for the last step in our installation, that of sorting mods according to a provided text file, to work correctly.
 
-## PATCHES
-
-### General fixes
+## BUG FIXES
 
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
 [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information. Made by the author of Patch for Purists, not included in the main mod because of the scope of the change.
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in. Made by the author of Patch for Purists, not included in the main mod for compatibility with other mods that edit inns.
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+- BAIN setup:
+  - [X] Core
+  - [X] Delightful Earthly Delights
+    - Adds a new NPC who offers her "services" to the PC. Optional.
 
 [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
 Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
@@ -50,19 +52,17 @@ Restores missing stages during the construction of Great House strongholds. Cons
 
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
-- Check the following option in the BAIN installer:
-  - [X] 00 Vanilla Ghostgate
+- BAIN setup:
+  - [X] Vanilla Ghostgate
 
 [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
 
 [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
-Checks the "Calculate from level <= Player level" flag on a handful of leveled lists that were missing the flag, as is the case for the majority of creature leveled lists in the game. Increases variety of enemies at higher levels, and ensures the player can get a steady supply of enchanted arrows from Skeleton Archers.
+Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
 
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-### Mesh fixes
 
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 Restores visual effects on creatures that weren't displayed for technical reasons.
@@ -76,39 +76,36 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 
 [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)  
 Greatly improves performance and fixes some mesh errors.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Lake Fjalding Anti-Suck
-  - [X] 02 Weapon Sheathing Patch (required for **Weapon Sheathing**, listed in the **Visuals** section)
-  - [X] 03 Chuzei Fix
-  - [X] 04 Better Vanilla Textures
-  - [X] 05 Graphic Herbalism Patch (required for **Graphic Herbalism**, listed in the **QOL Improvements** section)
+- BAIN setup:
+  - [X] Core
+  - [X] Lake Fjalding Anti-Suck
+  - [X] Chuzei Fix
+  - [X] Better Vanilla Textures
 
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
 - Install **Project Atlas** (Main files).
-  - Check the following options in the BAIN installer:
-    - [X] 00 BATs
-    - [X] 00 Core
-    - [X] 01 Textures - Vanilla
-    - [X] 06 Glow in the Dahrk Patch (required for **Glow in the Dahrk**, listed in the **Visuals** section)
-    - [X] 07 Graphic Herbalism Patch (required for **Graphic Herbalism MWSE**, listed in the **QOL Improvements** section)
+  - BAIN setup:
+    - [X] Core
+    - [X] Textures - Vanilla
 - Install **Hotfix 0.7.2** (Update files). Merge when prompted.
-
-> ⚠️ Attempting to launch the game at this stage will be met with errors, unless you install **Glow in the Dahrk**, or omit installing the patch for now.
 
 > ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. 
 
 [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Smoke and Steam Emitters
+- BAIN setup:
+  - [X] Core
+  - [X] Smoke and Steam Emitters
 
-### MWSE fixes
+[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
+When the player or the player's companions are attacked, any companions will launch into action in defense.
 
 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
 Avoids actors getting stuck while opening doors.
+
+[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)  
+Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
 Forces the game to instantly close on exit.
@@ -173,38 +170,6 @@ Adds a cancel button to Temple shrines and Imperial Cult altars.
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 Adds tooltips to shrines on hovering over the different options, describing the effects a blessing has.
 
-## QOL IMPROVEMENTS
-
-[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
-When the player or the player's companions are attacked, any companions will launch into action in defense.
-
-[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)  
-Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-
-[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
-In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings. Required for the configuration preset we will install later.
-
-[**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)  
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-- Check the following option in the BAIN installer:
-  - [X] 00 Core + Vanilla Meshes
-
-[**Graphic Herbalism - Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)  
-Removes collision from harvested Ash Yams.
-
-[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)  
-Removes the glow light from harvested glowing plants.
-
-[**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-
-[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
-Makes road signs legible. Uses high resolution vanilla-friendly textures.
-- Check the following options in the BAIN installer:
-  - [X] 00 Meshes
-  - [X] 01 Textures - High Resolution
-  - [X] 02 ESP - Vvardenfell only
-
 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 Adds a hotkey for equipping a selected inventory item.
 
@@ -219,42 +184,15 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
 Adds a hotkey for equipping light sources, prioritizing already used lights.
-
-## AUDIO
-
-[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
-Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
-- Install **AURA 5.2.1** (Main files).
-- Install **AURA 5.2.2 Patch** (Update files). Merge when prompted.
-
-[**Quieter Spell Sound Effects**](https://www.nexusmods.com/morrowind/mods/51790)  
-Because AURA is dependent on Master and Effects SFX being at 100%, it makes spells far too relatively loud. This mod addresses this by reducing spell sound effect files to about a third of their original volume.
-
-[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
-Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
-
-[**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z)  
-Implements footstep sounds for the atlased textures from Project Atlas.
-
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
-
-[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
 - Install manually with MO2.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
-
-[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
-Reduces the frequency of idle Cliff Racer screeches.
 
 ## VISUALS
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 High resolution replacer for the scroll and journal textures.
 - Install **Pete's Journal and Scroll** (Optional files).
-- Check the following options in the BAIN installer:
-  - [X] 01 Journal and Scroll - 2K
+- BAIN setup:
+  - [X] Journal and Scroll - 2K
 
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
@@ -263,44 +201,54 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Install **Morrowind Enhanced Textures** (Main files).
-- Install **MET Meshes** (Optional files). Merge when prompted.  
-
-[**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)  
-Compatibility patch for Morrowind Enhanced Textures.
-- Install **Textures - MET** (Main files). Merge into **Project Atlas** when prompted.
-
-[**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)  
-Fixes a missing atlased texture in the latest Nexus release.
+- Install **MET Meshes** (Optional files). Merge when prompted.
+- Additionally install [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?).
+  - Merge into **Project Atlas** when prompted.
+- Additionally install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z).
 
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
+- BAIN setup:
+  - [X] Core
 
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 Makes vanilla windows glow in the dark.
-- Check the following options in the FOMOD installer:
+- FOMOD setup:
   - [X] Nord Glass Windows  
   - [X] Raven Rock Glass Windows  
   - [X] Telvanni Tower Interior Glow MGE XE
+- Aditionally install **Project Atlas Glow in the Dahrk Patch**.
+  - Under your MO2 Downloads tab, click the **Project Atlas** file and install it.
+    - BAIN setup:
+      - [X] Glow in the Dahrk Patch
+    - Rename the mod to **Project Atlas Glow in the Dahrk Patch** before clicking Ok.
+    - This will install the patch as a separate mod.
 
 [**Here Comes the Sun... Glare**](https://www.nexusmods.com/morrowind/mods/48574)  
 Improves the Sun, particularly when using shaders.
 
 [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
+- BAIN setup:
+  - [X] Core
 
 [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)  
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+- Install manually with MO2.
+
+[**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+- BAIN setup:
+  - [X] Meshes
+  - [X] Textures - High Resolution
+  - [X] ESP - Vvardenfell only
 
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862)  
 Makes projectiles visually stick to whatever they hit, be it creatures, NPCs, or surfaces. These projectiles can't be picked up, and disappear upon resting or reloading a save.
 
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
-- Check the following option in the BAIN installer:
+- BAIN setup:
   - [X] fade  
 
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
@@ -308,11 +256,10 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core
-  - [X] 01 Clouds textures
-  - [X] 03 Weather particles replacer
-- Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**. This MGE XE plugin randomizes the sky colour and sunrise/sunset every day. However, it is no longer needed with Watch the Skies.
+- BAIN setup:
+  - [X] Core
+  - [X] Clouds textures
+  - [X] Weather particles replacer
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
@@ -333,43 +280,94 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 - Install **WeaponSheathing1.6-MWSE** (Main files).
   - On MO2 installation, right-click on **data files** and **Set as data files directory**. Click **OK**.
-
-[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)  
-Places the bows on the back of characters in a way that lines up with the animation. 
-
-[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)  
-Adds sheaths to weapons that previously didn't have any.
-
-## MGE XE
+- Aditionally install **Morrowind Optimization Patch Weapon Sheathing Patch**.
+  - Under your MO2 Downloads tab, click the **Morrowind Optimization Patch** file and install it.
+    - BAIN setup:
+      - [X] Weapon Sheathing Patch
+    - Rename the mod to **Morrowind Optimization Patch Weapon Sheathing Patch** before clicking Ok.
+    - This will install the patch as a separate mod.
+- Additionally install [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473).
+- Additionally install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616).
 
 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
-A compilation of a handful of community-made shaders.
-- Check the following option in the BAIN installer:
-  - [X] 00 Core
-- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.  
-
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 Adds groundcover to almost all regions.
-- Check the following options in the BAIN installer:
-  - [X] 00 Core MGE XE
-  - [X] 01b Thicker Grass MGE XE
+- BAIN setup:
+  - [X] Core MGE XE
+  - [X] Thicker Grass MGE XE
 - After installation, uncheck the mod's plugins in your load order. They shouldn't be active during normal gameplay, but they still need to be present for Distant Land generation to use them.
 - Requires [**Distant Land**](main.md#re-running-distant-land) generation to work as intended.
 
+[**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
+A compilation of a handful of community-made shaders.
+- BAIN setup:
+  - [X] Core
+- Requires [**Shader Setup**](main.md#shader-setup) to work as intended.  
+
+## AUDIO
+
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
+Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
+- BAIN setup:
+  - [X] Core
+  - [X] Replacer 
+
+[**Quieter Spell Sound Effects**](https://www.nexusmods.com/morrowind/mods/51790)  
+Reduces the volume of vanilla spell soundfiles, to account for AURA depending on Master and Effects SFX being at 100%.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
+Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
+- Additionally install [**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z).
+
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
+
+[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
+- Install manually with MO2.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
+Reduces the frequency of idle Cliff Racer screeches.
+
 ## GAMEPLAY
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
-Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
-- Install as **Controlled Consumption**.
+[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
+In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings. Required for the configuration preset we will install later.
 
 [**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
 Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
 
 [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+
+[**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599)  
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+- BAIN setup:
+  - [X] Core + Vanilla Meshes
+- Additionally install [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154).
+- Additionally install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864).
+
+[**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended for use with **Expansion Delay**.
+
+## OVERHAULS
+
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
+- Install as **Controlled Consumption**.
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
@@ -386,14 +384,14 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 A lua-based framework for creating new, fully functional magic effects.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Framework
+- BAIN setup:
+   Framework
 
-[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
+[**Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
-- Check the following options in the BAIN installer:
-  - [X] 00 - Core
-  - [X] 01 - Cast VFX
+- BAIN setup:
+  - [X] Core
+  - [X] Cast VFX
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
@@ -414,7 +412,7 @@ Adds a custom real-time menu to pickpocketing and restores a formerly-useless me
 
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
 Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-- Check the following options in the BAIN installer:
+- BAIN setup:
   - [X] Core
   - [X] Labelled Potions
 
@@ -425,19 +423,10 @@ Overhauls the repair mechanic, by making it so that repair hammers can only be u
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-Allows travel to Mournhold before the Dark Brotherhood attacks begin. Intended for use with **Expansion Delay**.
-
-[**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)  
+[**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with mort's expansion rebalances, listed below.
 
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
