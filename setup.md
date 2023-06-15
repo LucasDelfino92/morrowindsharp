@@ -235,7 +235,7 @@ Follow these steps for **TES3Merge**:
 
 ### In-game tab
 
-![Screenshot](pictures/In-game.png)
+- Enable **Allow yes to all load errors**.
 
 > ℹ️ **Disable MGE in-game** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to change your resolution in the **Graphics** tab.
 
@@ -243,44 +243,19 @@ Follow these steps for **TES3Merge**:
 
 > ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
-### Config tab
-
-**Information**
-- Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
-
 ### Graphics tab
 
-![Screenshot](pictures/Graphics.png)
-
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
-
-**Display**
-- You should select your resolution and refresh rate.
-- **Antialiasing** and **Anisotropic filtering** settings should be set to the values reported in the **Config** tab.
-
-**Windowed mode**
-- Most users like to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
-
-**Renderer**
+- Set **Resolution** according to your monitor or preferred windowed resolution.
+- Enable **Windowed Mode**. This allows for safe ALT+TAB during gameplay, at the cost of minimal performance drops (unnoticeable depending on your setup).
+- Enable **VSync**. Set it to On.
+- Set **Antialiasing** to x8.
+- Set **Anisotropic Filtering** to x16.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
-**Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- For now, set your shader combination as follows by double-clicking on the shaders.
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-```
-- Click **Save** after setting up your shader chain.
-
-> ⚠️ Note that **VSync** and shaders are the most performance intensive options in this tab.
-
 ### Distant Land tab
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+This tab lets you generate distant land, letting you see beyond the vanilla Morrowind fog. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
 
