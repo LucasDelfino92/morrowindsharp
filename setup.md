@@ -111,6 +111,8 @@ Solves conflicts by merging conflicting records into a separate plugin, **Merged
 
 - Manually download **TES3Merge** (Main files).
 - Extract the contents of the file to **Morrowind Mods\TES3Merge**.
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
+- Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
 
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
