@@ -374,9 +374,6 @@ Reduces the volume of vanilla spell soundfiles, to account for AURA depending on
 Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
 - Additionally install [**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z).
 
-[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)  
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files. 
-
 [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
 - Install manually with MO2.
