@@ -404,7 +404,7 @@ Takes into account the distance to target when calculating the hit chance for ra
 Fixes the biggest exploits and balance issues in the game.
 
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful, especially when combined with a needs mod that requires the player to sleep (such as [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057)).
+Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful.
 
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
@@ -451,7 +451,7 @@ Includes configuration files and patches for mods included in the guide.
 
 [**Morrowind Sharp**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp.7z)  
 Adjusts mod order and load order for Morrowind Sharp to work as intended.
-- Extract the files into **C:\Games\Morrowind Mods\MO2\profiles\Morrowind Sharp**, overwriting when prompted.
+- Extract the files into **MO2\profiles\Morrowind Sharp**, overwriting when prompted.
 
 ### Synchronizing mod masters
 
@@ -464,8 +464,6 @@ Adjusts mod order and load order for Morrowind Sharp to work as intended.
 
 ### Conflict resolution
 
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
-- Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with a handful of mods in the guide.
 - Run **TES3Merge** in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
@@ -501,6 +499,8 @@ Eye Adaptation (HDR)
 
 ### Updating MWSE
 
+Always remember to update MWSE when you install a new MWSE mod. Updates are pushed regularly, so there's a chance MWSE may have been updated since you first installed MGE XE in Setup.
+
 - Run **MWSE-Update.exe** from your game's **Root** folder.
 - A command window will open and close shortly after, having updated MWSE to the latest version.
 
@@ -521,9 +521,9 @@ To launch the game, make sure to have the **Morrowind** executable selected from
   - Set the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
   - Set the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 - Select the **Audio** tab.
-  - Set the **Master** slider all the way to the right. This is required for AURA.
-  - Set the **Effects** slider all the way to the right. This is required for AURA.
-  - Set the **Footsteps** slider all the way to the left. This is recommended for Character Sound Overhaul.
+  - Set the **Master** slider all the way to the right. AURA's sound mixing was designed with this in mind.
+  - Set the **Effects** slider all the way to the right. AURA's sound mixing was designed with this in mind.
+  - Set the **Footsteps** slider all the way to the left. Character Sound Overhaul's scripted footstep sounds will otherwise overlap with the vanilla footsteps.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
