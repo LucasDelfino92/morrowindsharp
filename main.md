@@ -103,11 +103,9 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
   - [X] Core
   - [X] Smoke and Steam Emitters
 
-[**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
-Tweaks how Restore/Damage Attribute works on the player. Required by certain mods.
-
 [**Fortify Max**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+- Requires you install [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
 
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 Carries over unique item information, such as condition and script data when enchanting items.
@@ -296,12 +294,27 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
+[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
+Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+
+[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil. 
+
+[**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
+Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
+
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437)  
+Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
+
 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
 - BAIN setup:
   - [X] Core
   - [X] Clouds textures
   - [X] Weather particles replacer
+
+[**Window to Aetherius**](https://www.nexusmods.com/morrowind/mods/52941)  
+Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
 
 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
@@ -405,6 +418,9 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
 
+[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
+Drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu. Also configure the normal timescale.
+
 [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 - After installation, hide the **Quick Char (Necro Timescale6 Edit).ESP** plugin.
@@ -445,6 +461,18 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla detectio
 - BAIN setup:
   - [X] Core
   - [X] Cast VFX
+- Also install [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471).
+  - BAIN setup:
+    - [X] Enhanced Detection Lite
+
+[**Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
+Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you.
+
+[**Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
+Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
+- BAIN setup:
+  - [X] Core
+  - [X] Cast VFX
 
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
@@ -465,9 +493,15 @@ Opens up an entire new facet of gameplay by granting the ability to use potions 
   - [X] Core
   - [X] Labelled Potions
 
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
 - After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
+
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
+Modifies critical strike coefficient depending on the weapon you use. Long and heavy weapons are less suitable for critical strikes. 
 
 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
@@ -486,6 +520,13 @@ Rebalances Tribunal as if it shipped with Morrowind.
 
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind.
+
+[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
+Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
+- Install **Ashfall** (Main files).
+- Install **Ashfall Trees** (Optional files). Merge when prompted.
+- Requires you install [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034).
+- Requires you install [**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009).
 
 ## FINISHING TOUCHES
 
@@ -587,6 +628,7 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
 K | Sends companions to attack target | Kill Command
+Y | Fast-forward time | Pass the Time
 Alt+Left Click | Equips/unequips item in inventory | Quick Equip
 Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
@@ -594,6 +636,7 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 Alt + F4 | Creates a permanent save | Sophisticated Save System
+Ctrl + Y ] Turbo fast-forward time | Pass the Time
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
