@@ -41,8 +41,6 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 - BAIN setup:
   - [X] Core
-  - [X] Delightful Earthly Delights
-    - Adds a new NPC who offers her "services" to the PC. Optional.
 
 [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
 Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
