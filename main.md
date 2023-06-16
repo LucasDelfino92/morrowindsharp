@@ -47,6 +47,11 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
 Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
 
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+Fixes the puzzle in the Corprusarium.
+- FOMOD setup:
+  - [X] Patch for Purists
+
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Restores missing stages during the construction of Great House strongholds. Construction materials and scaffolding are now visible during construction of the later stages.
 
@@ -98,6 +103,15 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
   - [X] Core
   - [X] Smoke and Steam Emitters
 
+[**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
+Tweaks how Restore/Damage Attribute works on the player. Required by certain mods.
+
+[**Fortify Max**](https://www.nexusmods.com/morrowind/mods/49825)  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
+Carries over unique item information, such as condition and script data when enchanting items.
+
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 
@@ -113,6 +127,9 @@ Forces the game to instantly close on exit.
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
+[**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
+Empties the magic chance fillbar when you don't have enough magicka to cast the spell. 
+
 [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 Fixes a bug where the cost of the first effect is doubled in enchantments with multiple effects.
 
@@ -121,6 +138,12 @@ Fixes Willpower not affecting your ability to resist magic, giving all in-game a
 - Install manually with MO2.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)  
+Makes the game treat skill increases from quests as if there were raised via normal means. 
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)  
+Fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book. 
 
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
@@ -136,8 +159,20 @@ High resolution replacer for the Daedric font used in scrolls.
 - On MO2 installation, right-click **data files** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into it.
 
+[**Oblivion Crosshair**](https://www.nexusmods.com/morrowind/mods/45662)  
+Replaces the standard crosshair for one more suitable to an RPG.
+
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
+
+[**Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49853)  
+Renames potions so they'll sort rationally in the inventory, first by effect and then by quality.
+
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)  
+Renames soulgems so they'll group together in the inventory.
 
 [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
@@ -187,6 +222,13 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 - Install manually with MO2.
 
 ## VISUALS
+
+[**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+High resolution replacer for the title screen and intro video.
+- Install **Title Screen Reworked (Widescreen)** (Main files).
+
+[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
+High resolution replacer for the splash loading screens.
 
 [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
 High resolution replacer for the scroll and journal textures.
@@ -360,6 +402,13 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 [**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
 
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+[**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
+Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
+- After installation, hide the **Quick Char (Necro Timescale6 Edit).ESP** plugin.
+
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
@@ -400,9 +449,6 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla detectio
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
-[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-Fixes the biggest exploits and balance issues in the game.
-
 [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful.
 
@@ -428,6 +474,9 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+
+[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+Fixes the biggest exploits and balance issues in the game.
 
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
 Makes the Sixth House, properly, the most difficult content in the game. Intended for use with mort's expansion rebalances, listed below.
@@ -537,6 +586,7 @@ G | Toggle cast-on-strike enchantments on/off | Controlled Weapon Enchants
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
+K | Sends companions to attack target | Kill Command
 Alt+Left Click | Equips/unequips item in inventory | Quick Equip
 Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
