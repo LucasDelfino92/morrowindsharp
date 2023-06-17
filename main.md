@@ -1,11 +1,11 @@
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
 
-> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+> Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # MORROWIND S#ARP
 
-## PREAMBLE
+## BEFORE WE BEGIN
 
 ### Disclaimer
 
@@ -49,6 +49,12 @@ Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Te
 Fixes the puzzle in the Corprusarium.
 - FOMOD setup:
   - [X] Patch for Purists
+
+[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
+- Install manually with MO2.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Restores missing stages during the construction of Great House strongholds. Construction materials and scaffolding are now visible during construction of the later stages.
@@ -232,8 +238,11 @@ High resolution replacer for the scroll and journal textures.
 - BAIN setup:
   - [X] Journal and Scroll - 2K
 
+[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game. Also fixes distortion and clipping issues with body meshes.
+
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall. More vanilla-friendly than **Familiar Faces**, but does not cover body, hair, and Khajiit meshes.
 - Install **kart_facelift_meshes** (Main files).
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
@@ -377,12 +386,6 @@ Reduces the volume of vanilla spell soundfiles, to account for AURA depending on
 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
 Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
 - Additionally install [**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z).
-
-[**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
-- Install manually with MO2.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47767) to original mod by **Von Djangos**. The featured version includes typo fixes and punctuation tweaks by **spockthewok**.
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 Reduces the frequency of idle Cliff Racer screeches.
