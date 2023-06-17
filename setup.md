@@ -14,7 +14,6 @@
   - A free account will work just fine.
 - A file archiver, such as [**7-Zip**](https://www.7-zip.org/).
 - A text editor, such as [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
-- [**.NET 6 Runtime**](https://dotnet.microsoft.com/en-us/download) (required by TES3Merge, a conflict resolution tool).
 
 > ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](pictures/map.jpg)
 
@@ -109,7 +108,8 @@ Cleans plugins by automatically deleting identical-to-master records (records th
 
 Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
-- Manually download **TES3Merge** (Main files).
+- First, download and install [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download). Be sure to install 6.0 and *not* 7.0, or else TES3Merge won't run.
+- Now manually download **TES3Merge** (Main files) from the Nexus page.
 - Extract the contents of the file to **Morrowind Mods\TES3Merge**.
 - Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
 - Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
