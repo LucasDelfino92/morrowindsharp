@@ -2,7 +2,7 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: June 14th, 2023*.
+*Last updated: June 16th, 2023*.
 
 ## About
 
@@ -11,10 +11,10 @@
 - Bugs and stability: includes all major bug fixes released for the game so far.
 - User interface: improved functionality and expanded hotkeys.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
-- Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 - DLCs: reworked implementation, expansions delayed and rebalanced.
+- Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 
-Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
+This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
 
 [**Click here to get started**](setup.md).
 
@@ -35,7 +35,7 @@ SSD | Kingston KC3000 1TB
 
 ### How much space do I need to install these mods?
 
-Roughly 9GB. Morrowind Enhanced Textures and AURA accounts for most of the space, and are entirely optional (as all nearly all mods recommended).
+Roughly 9GB, of which Morrowind Enhanced Textures and AURA account for the majority of space needed.
 
 ### Is this modlist compatible with OpenMW?
 
