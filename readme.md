@@ -20,7 +20,7 @@ This modlist is offered "as is" and considered complete. I won't be answering co
 
 ## Performance
 
-When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 30fps (at worst, in the Grazelands) to 60fps (indoors), through 50fps outdoors.
+When installing this modlist, including the recommended shaders, my framerate sits at a stable 60fps, even in the worst performing areas in the game (commonly known to be Vivec city and the Grazelands).
 
 System | My Specs
 ------------ | -------------
