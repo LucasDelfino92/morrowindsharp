@@ -294,6 +294,10 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+- Right-click on the installed mod and select Open in Explorer.
+- Navigate to MWSE\mods\RFD\LetThereBeDarkness, and double-click **main.lua**.
+- Using **Notepad++**, write -- at the start of line 415. This will remove the LiveLightEditing functionality, which conflicts with one of the keybindings from Security Enhanced.
+- Save the edited text file.
 
 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
 Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil. 
@@ -631,14 +635,15 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 Alt + F4 | Creates a permanent save | Sophisticated Save System
-Ctrl + Y ] Turbo fast-forward time | Pass the Time
+Ctrl + Y | Turbo fast-forward time | Pass the Time
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 ## CHANGELOG
 
-[**Click here to see the changelog.**](https://docs.google.com/spreadsheets/d/1IQ9lrjDw2kKbzQo20zi2zudhofKyjM4sj686gbNNRb4/edit?usp=sharing)
+June 16th 2023
+- Revamp of the guide.
   
 [<< Back to Readme](readme.md)  
 [<< Back to Setup](setup.md)  
