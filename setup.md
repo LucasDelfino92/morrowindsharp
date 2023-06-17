@@ -1,10 +1,8 @@
 [<< Back to Readme](readme.md)
 
-> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+> Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # THE ELDER SCROLLS III: MORROWIND SETUP
-
-![Banner](pictures/gog_banner.jpg)
 
 ## REQUIREMENTS
 
