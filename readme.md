@@ -2,7 +2,7 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: December 26th, 2022*.
+*Last updated: June 16th, 2023*.
 
 ## About
 
@@ -11,39 +11,35 @@
 - Bugs and stability: includes all major bug fixes released for the game so far.
 - User interface: improved functionality and expanded hotkeys.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
-- Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 - DLCs: reworked implementation, expansions delayed and rebalanced.
+- Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 
-Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
-
-Two versions of this modlist are available:
-- The Morrowind Sharp version, consisting of roughly 100 mods.
-- The Hail Resdaynia version, consisting of roughly 60 mods.
+This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
 
 [**Click here to get started**](setup.md).
 
-## My setup
+## Performance
 
-When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 10fps (at worst, in the Grazelands) to 30fps (indoors), through 20fps outdoors. For reference, here is a my setup.
+When installing this modlist, including the recommended shaders, my framerate ranges anywhere from 30fps (at worst, in the Grazelands) to 60fps (indoors), through 50fps outdoors.
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 8.1 Pro 64-bit
-CPU | Intel Core i5 4440
-RAM | 8GB
-Graphics | 1GB ATI AMD Radeon HD 7700 Series
-HDD | 1TB
+OS | Windows 10 Pro 64-bit
+CPU | AMD Ryzen 5 5600
+GPU | ASUS DUAL OC RX 6600 XT 8GB 
 Monitor | Samsung 24" 1080p @ 60Hz
+RAM | 16GB DDR4
+SSD | Kingston KC3000 1TB
 
 ## Frequently asked questions
 
 ### How much space do I need to install these mods?
 
-Roughly 9GB. Morrowind Enhanced Textures and AURA accounts for most of the space, and are entirely optional (as all nearly all mods recommended).
+Roughly 9GB, of which Morrowind Enhanced Textures and AURA account for the majority of space needed.
 
 ### Is this modlist compatible with OpenMW?
 
-Unfortunately many mods require MWSE to work, so the answer is "No".
+No. Many mods require MWSE to work, which isn't supported by OpenMW.
 
 ## Suggested readings
 

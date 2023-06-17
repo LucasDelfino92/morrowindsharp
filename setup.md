@@ -1,24 +1,25 @@
 [<< Back to Readme](readme.md)
 
-> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+> Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # THE ELDER SCROLLS III: MORROWIND SETUP
 
-![Banner](pictures/gog_banner.jpg)
-
 ## REQUIREMENTS
 
-- An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
+- An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE) or [**Steam**](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/).
   - Installation instructions are found on the next section. 
 - A [**Nexus**](https://users.nexusmods.com/register) account.
   - A free account will work just fine.
 - A file archiver, such as [**7-Zip**](https://www.7-zip.org/).
 - A text editor, such as [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
-- [**.NET 6 Runtime**](https://dotnet.microsoft.com/en-us/download) (required by TES3Merge, a conflict resolution tool).
 
 > ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](pictures/map.jpg)
 
 ## INSTALLATION
+
+Both **GOG** and **Steam** installations are supported. For this guide, we will use the default installation paths. Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+
+### GOG
 
 Install Morrowind to GOG's default directory:
 ```
@@ -30,16 +31,7 @@ C:\Games\Morrowind
 ```
 This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 
-Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
-
-Finally, we need to create a folder where to store our mods. Create it in the following path:
-```
-C:\Games\Morrowind Mods
-```
-
-## POST-INSTALLATION
-
-The GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
+Note that the GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
 
 Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
 
@@ -53,6 +45,18 @@ Delete the following files from your **Morrowind\Data Files** folder in order to
 Your Data Files folder should now look like this.
 
 ![Screenshot](pictures/Data_Files.png)
+
+### Steam
+
+Install Morrowind to Steam's default directory:
+```
+C:\Games\Steam
+```
+This will create a folder in the following path, which we will refer to as our **Root** folder.
+```
+C:\Games\Steam\steamapps\common\Morrowind
+```
+This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
 
 ## NEXUS DOWNLOADS
 
@@ -75,11 +79,11 @@ For this first part of the guide, files will be downloaded using the manual down
 Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by installing mods.
 
 - Manually download **Morrowind Code Patch** (Main files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**). Doing so correctly should place a **Morrowind Code Patch.exe** in the same folder as your **Morrowind.exe**.
+- Extract the contents of the file in your **Root** folder. Doing so correctly should place a **Morrowind Code Patch.exe** in the same folder as your **Morrowind.exe**.
 - Manually download **MCP beta** (Update files) from [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This will update the Morrowind Code Patch to the latest beta version. Despite being a beta version, it is perfectly stable and encouraged to install.
+- Extract the contents of the file in your **Root** folder, and overwrite when prompted. This will update the Morrowind Code Patch to the latest beta version. Despite being a beta version, it is perfectly stable and encouraged to install.
 - Execute **Morrowind Code Patch.exe**. The program will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
-- When you are finished, click **Apply chosen patches**. Close the application.
+- When you are finished, click **Apply chosen patches**. Close the application when the process is finished.
 
 > ℹ️ A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
 
@@ -88,48 +92,58 @@ Directly patches bugs in Morrowind.exe, which can't be otherwise fixed by instal
 Allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
 - Manually download **MGE XE Manual Install** (Main files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
+- Extract the contents of the file in your **Root** folder, and overwrite when prompted. Doing so correctly should place a **MGEXEgui.exe** in the same folder as your **Morrowind.exe**.
+- Run **MWSE-Update.exe**. This will update MWSE to the latest version.
+- Delete **XE Sky Variations.esp** from your **Data Files** folder. This plugin added by MGE XE won't be necessary after we install one of the mods in the main guide.
 
 ### [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/download/v0.40-pre-release-2/tes3cmd.exe)
 
 Cleans plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods).
 
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
+- Place tes3cmd.exe in **Morrowind\Data Files**, *not* the Root folder.
 
 ### [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)
 
 Solves conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
-- Manually download **TES3Merge** (Main files).
+- First, download and install [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download). Be sure to install 6.0 and *not* 7.0, or else TES3Merge won't run.
+- Now manually download **TES3Merge** (Main files) from the Nexus page.
 - Extract the contents of the file to **Morrowind Mods\TES3Merge**.
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
+- Extract the contents of the file into your **TES3Merge** folder, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
 
 ### [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
-Repairs and updates saves, updates the masters of mods, and runs tes3cmd in order to clean plugins and generate a **multipatch**.
+Repairs and updates saves, updates the masters of mods, and runs **tes3cmd.exe** in order to clean plugins and generate a **multipatch.esp**, which fixes a number of issues with mod setups.
 
 - Manually download **Wrye Mash 2021 - x64 - beta6 - manual installation archive** (Update files).
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted. This is the latest beta version of Wrye Mash, so none of the main files are needed.
-- Execute **mash64.exe**, found in **C:\Games\Morrowind\Mopy**.
+- Extract the contents of the file in your **Root** folder, and overwrite when prompted. This is the latest beta version of Wrye Mash, so none of the main files are needed.
+- Execute **mash64.exe**, found in **Morrowind\Mopy**.
 - Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that **morrowind.ini** and the **Data files** folder were found.
-   - **Mods Installers directory**: select your Morrowind Mods folder (**C:\Games\Morrowind Mods**).
+   - **Morrowind directory**: select your **Root** folder. A message should state that **morrowind.ini** and the **Data Files** folder were found.
+   - **Mods Installers directory**: select your **Morrowind Mods** folder.
 - Click **Next** and then click **Finish**. Wrye Mash will now launch.
+
+As soon as WryeMash launches, you should get a pop-up stating MWSE was detected on your Morrowind installation. Simply click **Yes** to proceed. If you are not greeted with this pop-up, proceed as follows:
 - Click the cog wheel button on the bottom of the window, opening the **Settings** window.
 - Click the **Advanced** tab, and check the option to add support for up to 1024 plugins. Failing to enable this option can cause you to be unable to repair your saves.
 - Click **OK**, and close the program.
 
-> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**.
+> ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**, as I'll provide the optimal load order for the mods recommended here.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
 
 - Manually download **Mod Organizer 2** (Main files), and run the executable.
-- When prompted to choose an install location, choose **C:\Games\Morrowind Mods\MO2**.
+- When prompted to choose an install location, choose **C:\Games\MO2**.
 - When installation has finished, click **Finish**.
-- The **Instance manager** window will appear. Click the **Create a new instance** button on the upper left.
-- Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
-- You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Morrowind Mods\MO2**) is fine.
+
+MO2 will now launch.
+
+- The **Instance manager** window will appear. Choose **Create a portable instance**.
+- You will be asked to select a game to manage. Click **Morrowind** if present. Else, click **Browse...** and choose your game's **Root** folder.
+- You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 
 > ℹ️ If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
@@ -181,19 +195,14 @@ Max Snowflakes=1500
 
 ### Setting up Profiles
 
-Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another. This modding guide has two installations available:
-
-- The classic **Morrowind Sharp** installation. A longer modding guide for people who want to go the extra mile in modding their game.
-- The new **Hail Resdaynia** installation, considerably horter, ideal if you want to keep your experience mostly intact or you simply want to dive in quickly into the game.
-
-You can follow both versions of the guide by creating multiple profiles. The first step is to create them.
+Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
 - Click the **Configure profiles** ![Profiles](MO2/MO_Profiles.png) button.
 - Check the following options:
   - [ ] Use profile-specific Save Games.
   - [X] Use profile-specific Game INI files.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** or **Hail Resdaynia**, depending on which setup you want to follow, and click **OK**.
+- With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**.
 - With this new profile highlighted, click **Select**. The window will now close.
 
 > ℹ️ Note that you can always revert to the **Default** profile to quickly deactivate all installed mods.
@@ -206,20 +215,17 @@ Follow these steps for **Wrye Mash**:
 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate to Wrye Mash's folder (**C:\Games\Morrowind\Mopy**) and double click **mash64.exe**.
+- Navigate to Wrye Mash's folder (**Morrowind\Mopy**) and double click **mash64.exe**.
 - Click **Apply**.
+
+> ℹ️ **tes3cmd** doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
 
 Follow these steps for **TES3Merge**:
 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
-- In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
+- Navigate to TES3Merge's folder (**Morrowind\TES3Merge**) and double click **TES3Merge.exe**.
 - Click **Apply**.
-- Repeat the above process for the remaining tools.
-- Click **OK** to close the window.
-
-> ℹ️ Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
 
 ### Configuring MGE XE in Mod Organizer 2
 
@@ -228,7 +234,7 @@ Follow these steps for **TES3Merge**:
 
 ### In-game tab
 
-![Screenshot](pictures/In-game.png)
+- Enable **Allow yes to all load errors**.
 
 > ℹ️ **Disable MGE in-game** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to change your resolution in the **Graphics** tab.
 
@@ -236,44 +242,19 @@ Follow these steps for **TES3Merge**:
 
 > ⚠️ You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
 
-### Config tab
-
-**Information**
-- Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
-
 ### Graphics tab
 
-![Screenshot](pictures/Graphics.png)
-
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
-
-**Display**
-- You should select your resolution and refresh rate.
-- **Antialiasing** and **Anisotropic filtering** settings should be set to the values reported in the **Config** tab.
-
-**Windowed mode**
-- Most users like to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
-
-**Renderer**
+- Set **Resolution** according to your monitor or preferred windowed resolution.
+- Enable **Windowed Mode**. This allows for safe ALT+TAB during gameplay, at the cost of minimal performance drops (unnoticeable depending on your setup).
+- Enable **VSync**. Set it to On.
+- Set **Antialiasing** to x8.
+- Set **Anisotropic Filtering** to x16.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
-**Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- For now, set your shader combination as follows by double-clicking on the shaders.
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-```
-- Click **Save** after setting up your shader chain.
-
-> ⚠️ Note that **VSync** and shaders are the most performance intensive options in this tab.
-
 ### Distant Land tab
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+This tab lets you generate distant land, letting you see beyond the vanilla Morrowind fog. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
 
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
 
@@ -309,5 +290,4 @@ To launch the game, make sure to have the **Morrowind** executable selected from
 # MOVING ON TO THE NEXT SECTION
 
 [To Morrowind Sharp >>](main.md)  
-[To Hail Resdaynia >>](hr.md)  
 [<< Back to Readme](readme.md)
