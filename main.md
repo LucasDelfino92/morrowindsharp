@@ -290,9 +290,6 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   - [X] Textures - High Resolution
   - [X] ESP - Vvardenfell only
 
-[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862)  
-Makes projectiles visually stick to whatever they hit, be it creatures, NPCs, or surfaces. These projectiles can't be picked up, and disappear upon resting or reloading a save.
-
 [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
 - BAIN setup:
@@ -307,9 +304,6 @@ Configurable mod for automatical adjustment of lighting, including override valu
 - Navigate to MWSE\mods\RFD\LetThereBeDarkness, and double-click **main.lua**.
 - Using [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/), write -- at the start of line 415. This will remove the LiveLightEditing functionality, which conflicts with one of the keybindings from Security Enhanced.
 - Save the edited text file.
-
-[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
-Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil. 
 
 [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
 Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
@@ -466,16 +460,6 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla detectio
 - Also install [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471).
   - BAIN setup:
     - [X] Enhanced Detection Lite
-
-[**Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
-Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you.
-
-[**Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
-Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
-- BAIN setup:
-  - [X] Core
-  - [X] Cast VFX
-
 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
@@ -522,13 +506,6 @@ Rebalances Tribunal as if it shipped with Morrowind.
 
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 Rebalances Bloodmoon as if it shipped with Morrowind.
-
-[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)  
-Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-- Install **Ashfall** (Main files).
-- Install **Ashfall Trees** (Optional files). Merge when prompted.
-- Requires you install [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034).
-- Requires you install [**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009).
 
 ## FINISHING TOUCHES
 
