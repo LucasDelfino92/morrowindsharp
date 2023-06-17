@@ -15,7 +15,7 @@ This guide is the second step in the installation of **Morrowind Sharp**. Please
 
 Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be. Separators can also be collapsed to keep your mod list clean and tidy. I suggest creating a separator for each mod category we will be installing (category names are highlighted in CAPS).
 
-To create a separator, follow these stpes:
+To create a separator, follow these steps:
 
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
