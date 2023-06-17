@@ -296,7 +296,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 - Right-click on the installed mod and select Open in Explorer.
 - Navigate to MWSE\mods\RFD\LetThereBeDarkness, and double-click **main.lua**.
-- Using **Notepad++**, write -- at the start of line 415. This will remove the LiveLightEditing functionality, which conflicts with one of the keybindings from Security Enhanced.
+- Using [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/), write -- at the start of line 415. This will remove the LiveLightEditing functionality, which conflicts with one of the keybindings from Security Enhanced.
 - Save the edited text file.
 
 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)  
