@@ -52,11 +52,13 @@ Fixes the puzzle in the Corprusarium.
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. 
 - Install manually with MO2.
 
-> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/47767) by **Von Djangos**, omitting typo fixes and punctuation tweaks by **spockthewok**.
+> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/47767) by **Von Djangos**, lacking typo fixes and punctuation tweaks by **spockthewok**.
+
+[**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
+Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify Max**.
 
 [**Fortify Max**](https://www.nexusmods.com/morrowind/mods/49825)  
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
-- Requires you install [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161).
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 Restores missing stages during the construction of Great House strongholds. Construction materials and scaffolding are now visible during construction of the later stages.
@@ -79,7 +81,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 - Install manually with MO2.
 
-> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/45742) by **R-Zero**, omitting fixes by **Necrolesian**.
+> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/45742) by **R-Zero**, lacking fixes by **Necrolesian**.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
@@ -184,7 +186,7 @@ Adds a cancel button to Temple shrines and Imperial Cult altars.
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 - Install manually with MO2.
 
-> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/49912) by **RingComics**, omitting fixes by **Necrolesian**.
+> ℹ️ [**Original mod**](https://www.nexusmods.com/morrowind/mods/49912) by **RingComics**, lacking fixes by **Necrolesian**.
 
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -247,7 +249,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 - Install **Morrowind Enhanced Textures** (Main files).
 - Install **MET Meshes** (Optional files). Merge when prompted.
-- Additionally install [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?).
+- Additionally install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?).
   - Install as **Project Atlas - MET**.
 - Additionally install [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z).
 
@@ -441,7 +443,7 @@ Fixes the issue of corpses respawning in dungeons on save load, and adds a coold
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-A lua-based framework for creating new, fully functional magic effects.
+A lua-based framework for creating new, fully functional magic effects. Required by **Enhanced Detection**.
 - BAIN setup:
    - [X] Framework
 
