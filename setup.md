@@ -1,4 +1,4 @@
-## [<< Back to Readme](readme.md)
+## [<< Readme](readme.md)
 
 # Setup
 
@@ -311,4 +311,4 @@ Run the game using the **Morrowind** option in MO2.
 
 ![Executables](MO2/MO_Morrowind.png)
 
-## [<< Back to Readme](readme.md) | [To Morrowind Sharp >>](main.md)  
+## [<< Readme](readme.md) | [Morrowind Sharp >>](main.md)  
