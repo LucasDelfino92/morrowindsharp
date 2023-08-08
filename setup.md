@@ -2,6 +2,8 @@
 
 # Setup
 
+In this step, we will do a clean installation and configuration of the game, which is required for the guide.
+
 ## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE) or [**Steam**](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/).
@@ -13,48 +15,95 @@
 
 > ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](pictures/map.jpg)
 
-## Installation
+## Install Location
 
-Both **GOG** and **Steam** installations are supported. For this guide, we will use the default installation paths. Should you decide to install Morrowind someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+A clean installation is not only required to get rid of any potential leftover mod files, but also to make sure the game is installed in a safe location. Here is what you need to know when choosing where to install your game:
 
-### GOG
+- **Avoid any default Windows folders:** This includes but is not limited to C:\Program Files, C:\Program Files x86, your Desktop and your Documents folders. This is due to Windows UAC (or User Account Control), which heavily monitors and protects these folders. This can cause many issues with the game and any modding tools. An example of a safe location is C:\Games\Steam and C:\Games\GOG Galaxy.
+- **Install on an SSD if possible:** Having the game on an SSD will drastically improve loading times and decrease stuttering.
 
-Install Morrowind to GOG's default directory:
-```
-C:\Games
-```
-This will create a folder in the following path, which we will refer to as our **Root** folder.
-```
-C:\Games\Morrowind
-```
-This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
+## Uninstalling the Game
 
-Note that the GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
-
-Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
-
-- **BookArt** folder.
-- **Icons** folder.
-- **Meshes** folder.
-- **Textures** folder.
-- All **.esp** files. There should be 8 of them, corresponding to the official plugins.
-- All **.txt** files. There should be 8 of them, corresponding to the official plugins.
-
-Your Data Files folder should now look like this.
-
-![Screenshot](pictures/Data_Files.png)
+> ℹ️ If you do not have the game installed yet, skip this step.
 
 ### Steam
 
-Install Morrowind to Steam's default directory:
-```
-C:\Games\Steam
-```
-This will create a folder in the following path, which we will refer to as our **Root** folder.
-```
-C:\Games\Steam\steamapps\common\Morrowind
-```
-This is where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), and **Data Files** folder will be found.
+- Open Steam and go to your **Library**.
+- Find **The Elder Scrolls III: Morrowind** in the list.
+- Right-click on it and select **Manage** -> **Uninstall**.
+- Navigate to Steam\steamapps\common\ and, if present, delete the **Morrowind** folder.
+
+### GOG
+
+- Open GOG Galaxy and go to your **Installed** games.
+- Find **Morrowind** in the list.
+- Right-click on it and select **Manage installation** -> **Uninstall**.
+- Navigate to GOG Galaxy\Games\ and, if present, delete the **Morrowind** folder.
+
+## Installing the Game
+
+> ℹ️ It is strongly recommended to install the game outside of any default Windows folders (such as Program Files (x86)), as the the strict Windows file protections of these folders can break certain mods/tools.
+
+### Steam
+
+> ℹ️ We will use a tool called Steam Library Setup Tool to create a new Steam library folder outside of any default Windows folders. If you already have Steam installed outside of any default windows folders then skip this step and simply install the game to your custom Steam library.
+
+- Completely exit out of Steam using Task Manager or System Tray.
+- Download the **steam_library_setup_tool-3.2.exe** file from [**here**](https://github.com/LostDragonist/steam-library-setup-tool/releases).
+- Once downloaded, run the file and add a new entry by clicking **Add Row**.
+- Type the chosen path under **Path**, e.g. C:\Games\Steam
+- Click **Accept** then **Yes** if prompted to create a new folder.
+- The tool will ask to exit, select **OK**.
+- Open Steam and go to your **Library**.
+- Find **The Elder Scrolls III: Morrowind** in the list and select **Install**.
+- Under **Install to:**, select the library folder created with the tool - the second C:\ entry if you are installing on the main drive.
+
+> ℹ️ If you still do not see your new library, restart your PC.
+
+- Select **Next** then wait for the install to finish.
+
+### GOG
+
+- Open GOG Galaxy and go to your **Owned Games**.
+- Find **Morrowind** in the list and select **Install**.
+- Under **Install to**, select **C:\Games\GOG Galaxy\Games**.
+- Select **Install** then wait for the install to finish.
+
+Note that the GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
+
+- Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
+  - **BookArt** folder.
+  - **Icons** folder.
+  - **Meshes** folder.
+  - **Textures** folder.
+  - All **.esp** files. There should be 8 of them, corresponding to the official plugins.
+  - All **.txt** files. There should be 8 of them, corresponding to the official plugins.
+- Your **Data Files** folder should now look like this.
+
+![Screenshot](pictures/Data_Files.png)
+
+## Post-Installation
+
+### Key Terminology
+
+Now that the game is installed, there are two folders from it that will be referred to in the guide often:
+
+- **Root** folder: Where the game is installed.
+> Steam\steamapps\common\Morrowind
+
+> GOG Galaxy\Games\Morrowind
+- **Data Files** folder: Where all of the game's assets are located.
+> Steam\steamapps\common\Morrowind\Data Files
+
+> GOG Galaxy\Games\Morrowind\Data Files
+
+### Enabling File Extensions
+
+By default, File Explorer will not show file extensions (such as .exe, .dll, or .esp). These extensions are very important when going through the guide, so it is highly recommended to enable visible file extensions:
+
+- Open File Explorer.
+- Select the **View** tab at the top.
+- Enable **File name extensions** in the **Show** section.
 
 # Utilities
 
