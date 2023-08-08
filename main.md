@@ -787,7 +787,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 ### Installation instructions:
 - **Main files - Remiros' Groundcover**
 - You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**
-- After installation, disable the mod's plugins in your load order. These plugins should only be active during Distant Land generation
+- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation
 - We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section
 
 Adds groundcover to almost all regions.
@@ -963,15 +963,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 - Extract the files from the downloaded archive to the folder you opened and overwrite when prompted.
 - Once the file is extracted, click **F5** while you are on MO2 without any menu open.
 - Right-click in the right pane of MO2 and select **Enable all**.
-
-## Synchronizing Mod Masters
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
-- Once the window has closed, click on the **Save** button further below the same panel.
-- Repeat this process for each of the faulty plugins.
-- Close **Wrye Mash**.
+- Disable the plugins from **Remiros' Groundcover** (those starting with Rem_).
 
 ## Conflict Resolution
 
