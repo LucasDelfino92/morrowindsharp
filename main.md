@@ -932,51 +932,51 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 # Finishing Touches
 
-## [**Morrowind Sharp Mod Setup**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
+## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2
-- You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed
+- Install the downloaded archive using manual install in Mod Organizer 2.
+- You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed.
 
-Includes configuration files and patches for mods included in the guide.
-
-## [**Morrowind Sharp MO2 Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp.7z)  
+## [**Mod Order and Load Order**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp.7z)  
 
 ### Installation instructions:
-- Extract the files into **MO2\profiles\Morrowind Sharp**, overwriting when prompted
-
-Adjusts mod order and load order for Morrowind Sharp to work as intended.
+- Download the file.
+- Once it has finished downloading, click the folders button at the top of MO2 and select **Open Profile folder**.
+- Extract the files from the downloaded archive to the folder you opened and overwrite when prompted.
+- Once the file is extracted, click **F5** while you are on MO2 without any menu open.
+- Right-click in the right pane of MO2 and select **Enable all**.
 
 ## Synchronizing Mod Masters
 
-- Run Wrye Mash (**mash64**) in Mod Organizer 2
-- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color
-- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**
-- Once the window has closed, click on the **Save** button further below the same panel
-- Repeat this process for each of the faulty plugins
-- Close **Wrye Mash**
+- Run Wrye Mash (**mash64**) in Mod Organizer 2.
+- In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
+- Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
+- Once the window has closed, click on the **Save** button further below the same panel.
+- Repeat this process for each of the faulty plugins.
+- Close **Wrye Mash**.
 
 ## Conflict Resolution
 
-- Run **TES3Merge** in Mod Organizer 2
-- The tool will generate a Merged Objects.esp, solving conflicts in your load order
-- Activate **Merged Objects.esp** at the end of your load order
+- Run **TES3Merge** in Mod Organizer 2.
+- The tool will generate a Merged Objects.esp, solving conflicts in your load order.
+- Activate **Merged Objects.esp** at the end of your load order.
 
 ## Re-running Distant Land
 
-- Run **MGE XE** in Mod Organizer 2
-- In the **Distant Land** tab, click **Distant land generator wizard**
-- Click **Select all**. This will select all plugins for distant land generation, both active and unactive
-- Click **Continue**
-- Click **Run above steps using saved / default settings**
-- Click **Finish** when the process is over
+- Run **MGE XE** in Mod Organizer 2.
+- In the **Distant Land** tab, click **Distant land generator wizard**.
+- Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
+- Click **Continue**.
+- Click **Run above steps using saved / default settings**.
+- Click **Finish** when the process is over.
 
 ## Shader Setup
 
-- Run **MGE XE** in Mod Organizer 2
-- In the **Graphics tab**, click **Enable shaders**
-- Click **Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**
+- Run **MGE XE** in Mod Organizer 2.
+- In the **Graphics tab**, click **Enable shaders**.
+- Click **Shader setup...**.
+- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
 ```
 SSAO HQ
 Underwater Interior Effects
@@ -987,37 +987,35 @@ Sunshafts
 Special Process
 Eye Adaptation (HDR)
 ```
-- Click **Save** after setting up your shader chain
+- Click **Save** after setting up your shader chain.
 
 > ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
 
-## Update MWSE
+## Updating MWSE
 
 Always remember to update MWSE when you install a new MWSE mod. Updates are pushed regularly, so there's a chance MWSE may have been updated since you first installed MGE XE in Setup.
 
-- Run **MWSE-Update.exe** from your game's **Root** folder
-- A command window will open and close shortly after, having updated MWSE to the latest version
+- Run **MWSE-Update.exe** from your game's **Root** folder.
+- A command window will open and close shortly after, having updated MWSE to the latest version.
 
 > ℹ️ Make it a habit to update MWSE whenever you play Morrowind, and particularly when you download recent mods which rely on MWSE. These may have been developed with the latest update in mind.
 
-# Running Morrowind
+# Runnning Morrowind
 
-From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your Morrowind installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
-
-To launch the game, make sure to have the **Morrowind** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+REMINDER: Run the game using the **Morrowind** option in MO2.
 
 ![Executables](MO2/MO_Morrowind.png)
 
 ## In-game Configuration
 
-- Click **Options**
-- Select the **Video** tab
-  - Set the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit
-  - Set the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics
-- Select the **Audio** tab
-  - Set the **Master** slider all the way to the right. AURA's sound mixing was designed with this in mind
-  - Set the **Effects** slider all the way to the right. AURA's sound mixing was designed with this in mind
-  - Set the **Footsteps** slider all the way to the left. Character Sound Overhaul's scripted footstep sounds will otherwise overlap with the vanilla footsteps
+- Click **Options**.
+- Select the **Video** tab.
+  - Set the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
+  - Set the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
+- Select the **Audio** tab.
+  - Set the **Master** slider all the way to the right. AURA's sound mixing was designed with this in mind.
+  - Set the **Effects** slider all the way to the right. AURA's sound mixing was designed with this in mind.
+  - Set the **Footsteps** slider all the way to the left. Character Sound Overhaul's scripted footstep sounds will otherwise overlap with the vanilla footsteps.
 
 > ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
 
@@ -1047,7 +1045,7 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 # Changelog
 
-August 6th, 2023
+August 6th & 7th, 2023
 - Reformat of the guide.
 
 June 16th, 2023
