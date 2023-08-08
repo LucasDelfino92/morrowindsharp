@@ -127,7 +127,7 @@ In this step, we will download and run the Morrowind Code Patch, which directly 
 In this step, we will download and run MGE XE, which allows Morrowind to render distant views, scenery shadows, high quality shaders and other features, as well as install the latest MWSE version, which allows Lua-based mods to function.
 
 - Download [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) (Manual Install, Manual Download).
-- From the downloaded archive, extract everything to the game's **Root** folder, and overwrite when prompted.
+- From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **MWSE-Update.exe**. This will update MWSE to the latest version.
 - Delete **XE Sky Variations.esp** from your **Data Files** folder. This plugin won't be necessary after we install **Weather Adjuster** in the main guide.
 
@@ -144,25 +144,27 @@ In this step, we will download and install TES3Merge, which solves conflicts by 
 
 - Install [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download). Be sure to install 6.0 and *not* 7.0, or else TES3Merge won't run.
 - Download [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870) (Manual Download).
-- From the downloaded archive, extract everything to **Morrowind Mods\TES3Merge**.
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z)
-- From the downloaded archive, extract everything to **Morrowind Mods\TES3Merge**, overwriting when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
+- From the downloaded archive, extract everything to the game's **Root** folder.
+- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
+- From the downloaded archive, extract everything to the game's **Root** folder, and overwrite when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
 
 ## Installing Wrye Mash
 
 In this step, we will download and install Wrye Mash, which repairs and updates saves, updates the masters of mods, and runs tes3cmd.exe in order to clean plugins and generate a plugin which fixes a number of issues with mod setups.
 
 - Download [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439) (Update files, x64 version).
-- From the downloaded archive, extract everything to the game's **Root** folder, and overwrite when prompted.
+- From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **mash64.exe**, found in **Morrowind\Mopy**.
-- Eventually the installation wizard will ask you to fill the following entries:
+- Click **Next**.
+- Fill the paths as follows:
    - **Morrowind directory**: select your **Root** folder. A message should state that **morrowind.ini** and the **Data Files** folder were found.
-   - **Mods Installers directory**: select your **Morrowind Mods** folder.
+   - **Mods Installers directory**: select your **Games** folder. This path is indistinct, as we will not use Wrye Mash to install mods.
 - Click **Next** and then click **Finish**.
-- Click **Yes** on the MWSE pop-up. If you are not greeted with this pop-up or misclicked, do the following:
-  - Click the cog wheel button on the bottom of the window, opening the **Settings** window.
+- Click **Yes** on the MWSE detected pop-up. If you are not greeted with this pop-up or misclicked, do the following:
+  - Click the cog wheel button at the bottom of the window to open the **Wrye Mash Settings** window.
   - Click the **Advanced** tab, and check the option to add support for up to 1024 plugins. Failing to enable this option can cause you to be unable to repair your saves.
-  - Click **OK**, and close the program.
+  - Click **OK**.
+- Close Wrye Mash.
 
 > ℹ️ **Mlox** is a tool to analyze and sort your plugin order. However, there's no need to install it when following **Morrowind Sharp**, as I'll provide the optimal load order for the mods recommended here.
 
