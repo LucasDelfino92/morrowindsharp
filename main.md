@@ -42,7 +42,7 @@ Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Te
 
 ### Installation instructions:
 - **Main files - Divayth Fyr Puzzle Fixed**
-- You will be prompted with a **FOMOD** installer, here select **Patch for Purists** and click **Install**
+- You will be prompted with a **FOMOD** installer, here select **Patch for Purists**, click **Next** and then **Install**
 
 Fixes the puzzle in the Corprusarium.
 
@@ -442,7 +442,7 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
 - Click **Replace** when prompted.
 
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
@@ -476,7 +476,7 @@ A lua-based framework for creating new, fully functional magic effects. Required
 - You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**
 - Additionally install the following files
   - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
-  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Lite** and click **Ok**
+  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**
 
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects.
 
@@ -512,7 +512,8 @@ Takes into account the distance to target when calculating the hit chance for ra
 
 ### Installation instructions:
 - **Main files - Realistic Repair**
-- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
+- Once the mod has been installed, double-click on it in the left pane of MO2
+- In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**
 
 Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
 
@@ -549,7 +550,8 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 ### Installation instructions:
 - **Main files - Quick Char (Timescale6 Edit)**
-- After installation, hide the **Quick Char (Necro Timescale6 Edit).ESP** plugin.
+- Once the mod has been installed, double-click on it in the left pane of MO2
+- In the **Filetree** tab, right-click Quick Char (Necro Timescale6 Edit).ESP and select **Hide**
 
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 
@@ -885,7 +887,7 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
 - Click **Replace** when prompted.
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
