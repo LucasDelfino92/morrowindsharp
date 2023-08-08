@@ -392,6 +392,259 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
+# Gameplay
+
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**
+- Name the separator **Gameplay**
+
+## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+
+### Installation instructions:
+- **Main files - Expansion Delay**
+
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+## [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
+
+### Installation instructions:
+- **Main files - Diseases Restored**
+
+Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+
+## [**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
+
+### Installation instructions:
+- **Main files - Controlled Weapon Enchants**
+
+Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
+
+## [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
+
+### Installation instructions:
+- **Main files - DungeonsRest**
+
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
+
+## [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599)  
+
+### Installation instructions:
+- **Main files - Graphic Herbalism MWSE - OpenMW**
+- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**
+- Additionally install the following files
+  - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
+  - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
+
+Patching Graphic Herbalism with Morrowind Optimization Patch:
+
+- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
+- Click **Replace** when prompted.
+
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+
+## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
+
+### Installation instructions:
+- **Main files - Less Lame Leveled Spawns v1.0.0**
+
+Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
+
+## [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
+
+### Installation instructions:
+- **Main files - Magicka Based Skill Progression**
+
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+## [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
+
+### Installation instructions:
+- **Main files - Magicka Expanded**
+- You will be prompted with a **BAIN** installer, here select **Framework** and click **Ok**
+
+A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
+
+## [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
+
+### Installation instructions:
+- **Main files - Enhanced Detection**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**
+- Additionally install the following files
+  - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
+  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Lite** and click **Ok**
+
+Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects.
+
+## [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
+
+### Installation instructions:
+- **Main files - Realistic Movement Speeds**
+
+Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
+
+## [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
+
+### Installation instructions:
+- **Main files - GMST Menu**
+
+In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings. Required for the configuration preset we will install later.
+
+## [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
+
+### Installation instructions:
+- **Main files - Kill Command**
+
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
+
+### Installation instructions:
+- **Main files - Marksman Rebalanced**
+
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
+
+## [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
+
+### Installation instructions:
+- **Main files - Realistic Repair**
+- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
+
+Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
+
+## [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
+
+### Installation instructions:
+- **Main files - Poison Crafting**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Labelled Potions** and click **Ok**
+
+Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+
+## [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
+
+### Installation instructions:
+- **Main files - sneaky-strike**
+
+Modifies critical strike coefficient depending on the weapon you use. Long and heavy weapons are less suitable for critical strikes. 
+
+## [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
+
+### Installation instructions:
+- **Main files - Pickpocket**
+
+Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.
+
+## [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
+
+### Installation instructions:
+- **Main files - Stealth**
+
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
+
+## [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
+
+### Installation instructions:
+- **Main files - Quick Char (Timescale6 Edit)**
+- After installation, hide the **Quick Char (Necro Timescale6 Edit).ESP** plugin.
+
+Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
+
+## [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
+
+### Installation instructions:
+- **Main files - Pass the Time**
+
+Adds configurable hotkeys to speed up time, a more natural way to wait than the vanilla wait menu. Also allows you to configure the game's timescale.
+
+## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
+
+### Installation instructions:
+- **Main files - MWSE Hide the Skooma**
+
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+
+## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+
+### Installation instructions:
+- **Main files - Useful Bound Armor**
+
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+## [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
+
+### Installation instructions:
+- **Main files - Early Transport to Mournhold**
+
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
+# Overhauls
+
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**
+- Name the separator **Overhauls**
+
+## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+
+### Installation instructions:
+- **Main files - Controlled Consumption**
+- Rename to its respective filename when installing
+
+Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
+
+## [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
+
+### Installation instructions:
+- **Main files - No Rest Without Beds**
+
+Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful.
+
+## [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
+
+### Installation instructions:
+- **Main files - Ownership Overhaul**
+- After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+
+## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+
+### Installation instructions:
+- **Main files - Morrowind Anti-Cheese**
+- Rename to its respective filename when installing
+
+Fixes the biggest exploits and balance issues in the game.
+
+## [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
+
+### Installation instructions:
+- **Main files - Harder Barter**
+- Rename to its respective filename when installing
+
+Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
+
+## [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
+
+### Installation instructions:
+- **Main files - Beware the Sixth House**
+
+Makes the Sixth House, properly, the most difficult content in the game. Intended for use with mort's expansion rebalances, listed below.
+
+## [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
+
+### Installation instructions:
+- **Main files - Tribunal Rebalance**
+
+Rebalances Tribunal as if it shipped with Morrowind.
+
+## [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
+
+### Installation instructions:
+- **Main files - Bloodmoon Rebalance - Patch for Purists version**
+
+Rebalances Bloodmoon as if it shipped with Morrowind.
+
 # Visuals
 
 ## Creating a Separator in MO2
@@ -614,6 +867,13 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
+## [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
+
+### Installation instructions:
+- **Main files - Yet Another Guard Diversity - Regular**
+
+Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+
 ## [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)  
 
 ### Installation instructions:
@@ -669,266 +929,6 @@ Implements unique, varied terrain-based footstep sounds; armor rattling sounds b
 - **Main files - STFUCR v1.0**
 
 Reduces the frequency of idle Cliff Racer screeches.
-
-# Gameplay
-
-## Creating a Separator in MO2
-
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Gameplay**
-
-## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-
-### Installation instructions:
-- **Main files - Expansion Delay**
-
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
-## [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-
-### Installation instructions:
-- **Main files - Early Transport to Mournhold**
-
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
-## [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
-
-### Installation instructions:
-- **Main files - GMST Menu**
-
-In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings. Required for the configuration preset we will install later.
-
-## [**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
-
-### Installation instructions:
-- **Main files - Controlled Weapon Enchants**
-
-Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
-
-## [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
-
-### Installation instructions:
-- **Main files - Diseases Restored**
-
-Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
-
-## [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599)  
-
-### Installation instructions:
-- **Main files - Graphic Herbalism MWSE - OpenMW**
-- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**
-- Additionally install the following files
-  - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
-  - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
-
-Patching Graphic Herbalism with Morrowind Optimization Patch:
-
-- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
-- Click **Replace** when prompted.
-
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-
-## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
-
-### Installation instructions:
-- **Main files - MWSE Hide the Skooma**
-
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-
-## [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-
-### Installation instructions:
-- **Main files - Kill Command**
-
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-## [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
-
-### Installation instructions:
-- **Main files - Pass the Time**
-
-Adds configurable hotkeys to speed up time, a more natural way to wait than the vanilla wait menu. Also allows you to configure the game's timescale.
-
-## [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-
-### Installation instructions:
-- **Main files - Quick Char (Timescale6 Edit)**
-- After installation, hide the **Quick Char (Necro Timescale6 Edit).ESP** plugin. Use **Pass the Time** for your timescale configuration needs.
-
-Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-
-## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-
-### Installation instructions:
-- **Main files - Useful Bound Armor**
-
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
-# Overhauls
-
-## Creating a Separator in MO2
-
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Overhauls**
-
-## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
-
-### Installation instructions:
-- **Main files - Controlled Consumption**
-- Rename to its respective filename when installing
-
-Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
-
-## [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
-
-### Installation instructions:
-- **Main files - DungeonsRest**
-
-Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
-
-### Installation instructions:
-- **Main files - Less Lame Leveled Spawns v1.0.0**
-
-Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
-
-## [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
-
-### Installation instructions:
-- **Main files - Magicka Based Skill Progression**
-
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
-
-## [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
-
-### Installation instructions:
-- **Main files - Magicka Expanded**
-- You will be prompted with a **BAIN** installer, here select **Framework** and click **Ok**
-
-A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
-
-## [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)  
-
-### Installation instructions:
-- **Main files - Enhanced Detection**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**
-- Additionally install the following files
-  - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
-  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Lite** and click **Ok**
-
-Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects.
-
-## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-
-### Installation instructions:
-- **Main files - Marksman Rebalanced**
-
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
-
-## [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-
-### Installation instructions:
-- **Main files - No Rest Without Beds**
-
-Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful.
-
-## [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
-
-### Installation instructions:
-- **Main files - Ownership Overhaul**
-- After installation, hide the **Ownership Overhaul.ESP** plugin.
-
-Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
-
-## [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-
-### Installation instructions:
-- **Main files - Poison Crafting**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Labelled Potions** and click **Ok**
-
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-
-## [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
-
-### Installation instructions:
-- **Main files - Realistic Movement Speeds**
-
-Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-## [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
-
-### Installation instructions:
-- **Main files - Realistic Repair**
-- After installation, hide the **Realistic_Repair_Optional.ESP** plugin.
-
-Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
-
-## [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
-
-### Installation instructions:
-- **Main files - sneaky-strike**
-
-Modifies critical strike coefficient depending on the weapon you use. Long and heavy weapons are less suitable for critical strikes. 
-
-## [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)  
-
-### Installation instructions:
-- **Main files - Yet Another Guard Diversity - Regular**
-
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
-
-## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
-
-### Installation instructions:
-- **Main files - Morrowind Anti-Cheese**
-- Rename to its respective filename when installing
-
-Fixes the biggest exploits and balance issues in the game.
-
-## [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
-
-### Installation instructions:
-- **Main files - Harder Barter**
-- Rename to its respective filename when installing
-
-Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
-
-## [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)  
-
-### Installation instructions:
-- **Main files - Pickpocket**
-
-Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.
-
-## [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)  
-
-### Installation instructions:
-- **Main files - Stealth**
-
-Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
-
-## [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
-
-### Installation instructions:
-- **Main files - Beware the Sixth House**
-
-Makes the Sixth House, properly, the most difficult content in the game. Intended for use with mort's expansion rebalances, listed below.
-
-## [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)  
-
-### Installation instructions:
-- **Main files - Tribunal Rebalance**
-
-Rebalances Tribunal as if it shipped with Morrowind.
-
-## [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
-
-### Installation instructions:
-- **Main files - Bloodmoon Rebalance - Patch for Purists version**
-
-Rebalances Bloodmoon as if it shipped with Morrowind.
 
 # Finishing Touches
 
