@@ -597,6 +597,8 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
+> ℹ️ This is the first mod in the guide from a mod compilation page, remember to **Rename** each file to match what it actually is.
+
 ## [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
 
 ### Installation instructions:
