@@ -356,10 +356,4 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 
 > ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
-# Runnning Morrowind
-
-Run the game using the **Morrowind** option in MO2.
-
-![Executables](MO2/MO_Morrowind.png)
-
 ## [<< Readme](readme.md) | [Morrowind Sharp >>](main.md)  
