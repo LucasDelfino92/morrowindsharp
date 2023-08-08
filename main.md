@@ -445,6 +445,12 @@ Patching Graphic Herbalism with Morrowind Optimization Patch:
 - You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
 - Click **Replace** when prompted.
 
+Patching Graphic Herbalism with Project Atlas:
+
+- Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla**, **Graphic Herbalism Patch** and click **Ok**
+- Click **Replace** when prompted.
+
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 
 ## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
@@ -610,7 +616,8 @@ Prevents the player from being able to Rest without using a bed. This encourages
 
 ### Installation instructions:
 - **Main files - Ownership Overhaul**
-- After installation, hide the **Ownership Overhaul.ESP** plugin.
+- Once the mod has been installed, double-click on it in the left pane of MO2
+- In the **Filetree** tab, right-click Ownership Overhaul.ESP and select **Hide**
 
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
@@ -625,7 +632,6 @@ Fixes the biggest exploits and balance issues in the game.
 
 ### Installation instructions:
 - **Main files - Harder Barter**
-- Rename to its respective filename when installing
 
 Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
 
@@ -714,11 +720,16 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 ### Installation instructions:
 - **Main files - Morrowind Enhanced Textures 6**
 - **Optional files - MET Meshes**
-- Merge into the main file
 - Additionally install the following files
   - [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
   - [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)
   - Install the downloaded archive using manual install in Mod Organizer 2
+
+Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
+
+- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Graphic Herbalism Patch** and click **Ok**
+- Click **Replace** when prompted.
 
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
@@ -734,12 +745,16 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 
 ### Installation instructions:
 - **Main files - Glow in the Dahrk**
-- You will be prompted with a **FOMOD** installer, here select **Nord Glass Windows**, **Raven Rock Glass Windows**, **Telvanni Tower Interior Glow MGE XE** and click **Install**
+- You will be prompted with a **FOMOD** installer:
+  - Select **Nord Glass Windows** and click **Next**.
+  - Select **Raven Rock Glass Windows** and click **Next**.
+  - Click **Next**.
+  - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**
 
 Patching Glow in the Dahrk with Project Atlas:
 
 - Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla**, **Glow in the Dahrk Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla**, **Glow in the Dahrk Patch**, **Graphic Herbalism Patch** and click **Ok**
 - Click **Replace** when prompted.
 
 Makes vanilla windows glow in the dark.
@@ -847,7 +862,7 @@ Replaces the night sky using MWSE with one that changes every month over the cou
 
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
-## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete_Armor_Joints.rar)  
+## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
 
 ### Installation instructions:
 - Install the downloaded archive using manual install in Mod Organizer 2.
@@ -859,7 +874,6 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 ### Installation instructions:
 - **Main files - Alex's Better Fitted Female Armors v.1.3**
 - **Main files - Alex's Better Fitted Female Armors - Tribunal**
-- Merge into the main file
 
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
@@ -889,7 +903,7 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Graphic Herbalism Patch** and click **Ok**
 - Click **Replace** when prompted.
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
@@ -941,7 +955,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 - Install the downloaded archive using manual install in Mod Organizer 2.
 - You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed.
 
-## [**Mod Order and Load Order**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp.7z)  
+## [**Mod Order and Load Order**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Mod%20Order%20and%20Load%20Order.7z)  
 
 ### Installation instructions:
 - Download the file.
