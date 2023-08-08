@@ -265,7 +265,7 @@ Follow these steps for **Wrye Mash**:
 
 - Click the ![Executables](MO2/MO_Executables.png) at the top of MO2 to open the executables menu.
 - Click the ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate to Wrye Mash's folder (**Morrowind\Mopy**) and double click **mash64.exe**.
+- Navigate to **Morrowind\Mopy** and double click **mash64.exe**.
 - Click **Apply**.
 
 > ℹ️ **tes3cmd** doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
@@ -274,7 +274,7 @@ Follow these steps for **TES3Merge**:
 
 - Click the ![Executables](MO2/MO_Executables.png) button.
 - Click the ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate to TES3Merge's folder (**Morrowind\TES3Merge**) and double click **TES3Merge.exe**.
+- Navigate to **Morrowind** and double click **TES3Merge.exe**.
 - Click **Apply**.
 
 ## Mod Installation Instructions
@@ -312,9 +312,9 @@ In this step, we will run MGE XE through Mod Organizer 2 to configure it.
 
 ### In-game tab
 
-- Enable **Allow yes to all load errors**.
+- Enable **Allow yes to all load errors** under **Morrowind engine settings**.
 
-> ℹ️ **Disable MGE in-game** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to change your resolution in the **Graphics** tab.
+> ℹ️ **Use D3D8To9 proxy only** essentially enables "purist mode". All graphical enhancements, including shaders and the distant land features, will be disabled. However, MWSE will remain enabled, which is crucial to run some of the latest and most advanced mods. Feel free to enable this option if you are looking for a purist visual setup. You will still be able to change your resolution in the **Graphics** tab.
 
 > ⚠️ Do note that certain mods *require* MGE XE to work as intended, and your game may crash with MGE disabled in-game.
 
@@ -324,10 +324,11 @@ In this step, we will run MGE XE through Mod Organizer 2 to configure it.
 
 - Set **Resolution** according to your monitor or preferred windowed resolution.
 - Enable **Windowed Mode**. This allows for safe ALT+TAB during gameplay, at the cost of minimal performance drops (unnoticeable depending on your setup).
-- Enable **VSync**. Set it to On.
+- Set **VSync** to On.
 - Set **Antialiasing** to x8.
-- Set **Anisotropic Filtering** to x16.
+- Set **Anisotropic Filtering** to x8.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
+- If playing in widescreen, I recommend setting **Horz. FOV** to 90.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
 ### Distant Land Tab
@@ -337,17 +338,17 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 - Click **Distant land generator wizard**.
 - On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
 - Click **Continue**. This will open the **Distant Land Generation** window.
-- In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
-- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
+- In the **Land Textures** tab, click **Create Land Textures**.
+- In the **Land Meshes** tab, set **World mesh detail** to **Ultra High** then click **Create Land Meshes**.
 - In the **Statics** tab:
   - Set **Minimum Static Size** to 100.
   - Check **Include reflective water in interiors**.
   - Click **Create Statics**.
-- Once the statics have been created, click **Finish**.
+- Wait then click **Finish**.
 
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
-![Screenshot](pictures/Distant_Land.png?)
+![Screenshot](pictures/Distant_Land2.png?)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
