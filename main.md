@@ -14,6 +14,8 @@
 
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
+> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
+
 ## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 
 ### Installation instructions:
@@ -144,9 +146,10 @@ Greatly improves performance and fixes some mesh errors.
 - **Main files - Project Atlas**
 - You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla** and click **Ok**
 - **Update files - Hotfix 0.7.2**
-- Rename to its respective filename when installing
 
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
+
+> ℹ️ This is the first mod in the guide you need multiple files from, remember to **Rename** each file to match what it actually is.
 
 > ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. Mods installed in this guide are already compatible with **Project Atlas**, or have texture patches available which will be installed in due time.
 
@@ -589,7 +592,6 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ### Installation instructions:
 - **Main files - Controlled Consumption**
-- Rename to its respective filename when installing
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -612,7 +614,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 ### Installation instructions:
 - **Main files - Morrowind Anti-Cheese**
-- Rename to its respective filename when installing
 
 Fixes the biggest exploits and balance issues in the game.
 
@@ -712,7 +713,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 - Merge into the main file
 - Additionally install the following files
   - [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
-  - Rename to its respective filename when installing
   - [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)
   - Install the downloaded archive using manual install in Mod Organizer 2
 
@@ -760,7 +760,6 @@ Improves the Sun, particularly when using shaders.
 ### Installation instructions:
 - **Main files - Mist Retexture**
 - Install the downloaded archive using manual install in Mod Organizer 2
-- Rename to its respective filename when installing
 
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
