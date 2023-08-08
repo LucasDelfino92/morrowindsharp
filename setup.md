@@ -182,8 +182,7 @@ In this step, we will install and configure Mod Organizer 2.
 ### MO2 Setup
 
 - Run **ModOrganizer.exe** inside the Mod Organizer 2 folder you extracted before.
-- You will be prompted with a pop-up called **Creating an instance**, in which you should just select **Next**.
-- On the next page, select **Create a portable instance**.
+- You will be prompted with a pop-up called **Creating an instance**. Select **Create a portable instance**.
 - On the next page, select **Morrowind**.
 - On the next page, keep the **Location** file path default.
 
@@ -207,12 +206,6 @@ In this step, we will install and configure Mod Organizer 2.
 
 ### Setting Up Plugins
 
-- Order the plugins in the left pane as follows:
-```
-DLC: Tribunal
-DLC: Bloodmoon
-```
-
 - Once Mod Organizer 2 has loaded, right-click in the right pane and select **Enable all**.
 - Order the plugins in the right pane as follows:
 
@@ -220,6 +213,12 @@ DLC: Bloodmoon
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
+```
+
+- Order the plugins in the left pane as follows:
+```
+DLC: Tribunal
+DLC: Bloodmoon
 ```
 
 ### Adjusting Morrowind.ini
