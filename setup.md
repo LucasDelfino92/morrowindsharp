@@ -348,7 +348,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 
-![Screenshot](pictures/Distant_Land2.png?)
+![Screenshot](pictures/DistantLand2.png?)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
