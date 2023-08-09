@@ -124,7 +124,7 @@ In this step, we will download and run the Morrowind Code Patch, which directly 
 
 ## Installing MGE XE
 
-In this step, we will download and run MGE XE, which allows Morrowind to render distant views, scenery shadows, high quality shaders and other features, as well as install the latest MWSE version, which allows Lua-based mods to function.
+In this step, we will download and install MGE XE, which allows Morrowind to render distant views, scenery shadows, high quality shaders and other features, as well as install the latest MWSE version, which allows Lua-based mods to function.
 
 - Download [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) (Manual Install, Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
