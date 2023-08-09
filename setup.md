@@ -7,13 +7,11 @@ In this step, we will do a clean installation and configuration of the game, whi
 ## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE) or [**Steam**](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/).
-  - Installation instructions are found on the next section. 
-- A [**Nexus**](https://users.nexusmods.com/register) account.
-  - A free account will work just fine.
-- A file archiver, such as [**7-Zip**](https://www.7-zip.org/).
-- A text editor, such as [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
-
-> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](pictures/map.jpg)
+  - Only the English version of the game is supported for maximum compatibility; translations can conflict with mods and cause issues.
+- At least 13.0 GB of free drive space.
+- A text editor ([**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/) is recommended, but the default Windows notepad will work).
+- An archiving tool ([**7-Zip**](https://www.7-zip.org/) is recommended. If you use Windows 11 then [**NanaZip**](https://apps.microsoft.com/store/detail/nanazip/9N8G7TSCL18R?hl=en-us&gl=us) is a better option).
+- A [**Nexus Mods**](https://users.nexusmods.com/register) account (a Premium subscription will allow uncapped speeds).
 
 ## Install Location
 
@@ -83,6 +81,10 @@ Note that the GOG release of Morrowind ships with files we do not need, includin
 ![Screenshot](pictures/Data_Files.png)
 
 ## Post-Installation
+
+### Official Map
+
+Morrowind originally shipped with a detailed map which is absent from digital stores. You can get this map [**here**](pictures/map.jpg).
 
 ### Key Terminology
 
