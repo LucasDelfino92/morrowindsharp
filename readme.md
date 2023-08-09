@@ -14,7 +14,7 @@
 - DLCs: reworked implementation, expansions delayed and rebalanced.
 - Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 
-This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#checking-for-conflicts) are provided. Use that tool to detect and solve conflicts.
+This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#tes3view) are provided. Use that tool to detect and solve conflicts.
 
 Many of the instructions in this guide are taken verbatim from **VishVadeva**'s **The Midnight Ride** guide for Fallout 4, which explains in detail how to install mods using Mod Organizer 2. All credits go to him.
 
