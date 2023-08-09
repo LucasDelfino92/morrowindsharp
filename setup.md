@@ -78,7 +78,7 @@ Note that the GOG release of Morrowind ships with files we do not need, includin
   - All **.txt** files. There should be 8 of them, corresponding to the official plugins.
 - Your **Data Files** folder should now look like this.
 
-![Screenshot](pictures/Data_Files.png)
+![Screenshot](pictures/DataFiles.png)
 
 ## Post-Installation
 
