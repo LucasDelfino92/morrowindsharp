@@ -722,8 +722,6 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 - **Optional files - MET Meshes**
 - Additionally install the following files
   - [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
-  - [**Project Atlas - MET Velothi Fix**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Project%20Atlas%20MET%20Velothi%20Fix.7z)
-  - Install the downloaded archive using manual install in Mod Organizer 2
 
 Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
 
@@ -1054,10 +1052,19 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 # Changelog
 
-August 6th & 7th, 2023
+## August 9th, 2023
+
+### Bug Fixes
+- Removed Project Atlas - MET Velothi Fix because it is no longer needed with the last Project Atlas update.
+
+## August 6th & 7th, 2023
+
+### General
 - Reformat of the guide.
 
-June 16th, 2023
+## June 16th, 2023
+
+### General
 - Revamp of the guide.
   
 ## [<< Setup](setup.md)  
