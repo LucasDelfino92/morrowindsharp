@@ -692,15 +692,6 @@ High resolution replacer for the scroll and journal textures.
 
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-## [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**
-- We will finishing installation in the [**Shader Setup**](main.md#shader-setup) section
-
-A compilation of a handful of community-made shaders.
-
 ## [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
 
 ### Installation instructions:
@@ -965,11 +956,24 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## Conflict Resolution
 
+In this step we will use **TES3Merge** and **Wrye Mash** to solve conflicts in our load order, ensuring our installed mods work as intended.
+
+### Running TES3Merge
+
 - Run **TES3Merge** in Mod Organizer 2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
 
+### Running Wrye Mash
+
+- Run **mash64** in Mod Organizer 2.
+- Click the **Misc** tab, then go to **TES3cmd** and **Create MultiPatch**.
+- Click **Yes** to the prompt then **OK** once the process is finished.
+- Exit Wrye Mash, and activate **multipatch.esp** at the end of your load order.
+
 ## Re-running Distant Land
+
+In this step we will regenerate Distant Land (generated during the **Setup** section of the guide) to account for our newly installed mods. 
 
 - Run **MGE XE** in Mod Organizer 2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
@@ -980,6 +984,11 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## Shader Setup
 
+In this step we will install additional shaders to **MGE XE** and configure our shader chain.
+
+- Download [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z).
+- Install the downloaded archive using manual install in Mod Organizer 2.
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 - Run **MGE XE** in Mod Organizer 2.
 - In the **Graphics tab**, click **Enable shaders**.
 - Click **Shader setup...**.
@@ -996,11 +1005,9 @@ Eye Adaptation (HDR)
 ```
 - Click **Save** after setting up your shader chain.
 
-> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
-
 ## Updating MWSE
 
-Always remember to update MWSE when you install a new MWSE mod. Updates are pushed regularly, so there's a chance MWSE may have been updated since you first installed MGE XE in Setup.
+Always remember to update MWSE when you install a new MWSE mod. Updates are pushed regularly, so there's a chance MWSE may have been updated since you first installed MGE XE in the **Setup** section.
 
 - Run **MWSE-Update.exe** from your game's **Root** folder.
 - A command window will open and close shortly after, having updated MWSE to the latest version.
@@ -1051,6 +1058,15 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## August 10th, 2023
+
+### General
+- Updated mod order to include Weather Adjuster.
+
+### Finishing Touches
+- Added multipatch.esp generation instructions.
+- Moved MGE XE Shader Pack installation to this section.
 
 ## August 9th, 2023
 
