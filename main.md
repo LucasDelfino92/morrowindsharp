@@ -458,7 +458,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 ### Installation instructions:
 - **Main files - Less Lame Leveled Spawns v1.0.0**
 
-Fixes the issue of corpses respawning in dungeons on save load, and adds a cooldown to leveled creature spawns.
+Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
 
 ## [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
 
@@ -521,15 +521,7 @@ Takes into account the distance to target when calculating the hit chance for ra
 - Once the mod has been installed, double-click on it in the left pane of MO2
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**
 
-Overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Additionally, when an NPC dies, all their equipped gear is damaged. Fully customizable.
-
-## [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)  
-
-### Installation instructions:
-- **Main files - Poison Crafting**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Labelled Potions** and click **Ok**
-
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
+When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
 
 ## [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 
@@ -582,13 +574,6 @@ Automatically hides your drugs so you don't have to dump them on the floor in or
 
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-## [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)  
-
-### Installation instructions:
-- **Main files - Early Transport to Mournhold**
-
-Allows travel to Mournhold before the Dark Brotherhood attacks begin.
-
 # Overhauls
 
 ## Creating a Separator in MO2
@@ -605,13 +590,6 @@ Provides a configurable restriction on the amount of potions and ingredients the
 
 > ℹ️ This is the first mod in the guide from a mod compilation page, remember to **Rename** each file to match what it actually is.
 
-## [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724)  
-
-### Installation instructions:
-- **Main files - No Rest Without Beds**
-
-Prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful.
-
 ## [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 
 ### Installation instructions:
@@ -627,13 +605,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - **Main files - Morrowind Anti-Cheese**
 
 Fixes the biggest exploits and balance issues in the game.
-
-## [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/49232)  
-
-### Installation instructions:
-- **Main files - Harder Barter**
-
-Dynamically adjusts how much merchants will pay for items. Expensive items are much less valuable and cheap items sell for more or less the same price.
 
 ## [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
 
@@ -1058,6 +1029,17 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## August 27th, 2023
+
+### Gameplay
+- Removed Poison Crafting because it's not a must-have mod even though the balance tweaks were nice.
+- Removed Early Transport to Mournhold because it's not a must-have mod and Tribunal makes more sense as a middle to end-game expansion.
+- Adjusted Less Lame Leveled Spawns configuration to remove cooldown on enemy respawn.
+
+### Overhauls
+- Removed No Rest Without Beds because it drastically changes the gameplay flow and it is particularly punishing unless one pairs it with a bedroll mod such as Ashfall.
+- Removed Harder Barter because the dynamic value adjustments on barter can be jarring and infuriating.
 
 ## August 10th, 2023
 
