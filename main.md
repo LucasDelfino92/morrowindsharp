@@ -210,13 +210,6 @@ Avoids actors getting stuck while opening doors.
 
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
-## [**Magican't**](https://www.nexusmods.com/morrowind/mods/50990)  
-
-### Installation instructions:
-- **Main files - Magican't 1.1.1**
-
-Empties the magic chance fillbar when you don't have enough magicka to cast the spell. 
-
 ## [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 
 ### Installation instructions:
@@ -260,13 +253,6 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into the created folder then click **Ok**
 
 High resolution replacer for the Daedric font used in scrolls. 
-
-## [**Oblivion Crosshair**](https://www.nexusmods.com/morrowind/mods/45662)  
-
-### Installation instructions:
-- **Main files - Oblivion Crosshair**
-
-Replaces the standard crosshair for one more suitable to an RPG.
 
 ## [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 
@@ -416,13 +402,6 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 
 Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
 
-## [**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142?tab=posts)  
-
-### Installation instructions:
-- **Main files - Controlled Weapon Enchants**
-
-Cast When Strikes weapon enchants will only release a charge when wanted, controlled by a toggle on/off button.
-
 ## [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 
 ### Installation instructions:
@@ -459,13 +438,6 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 - **Main files - Less Lame Leveled Spawns v1.0.0**
 
 Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
-
-## [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330)  
-
-### Installation instructions:
-- **Main files - Magicka Based Skill Progression**
-
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 ## [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 
@@ -1010,7 +982,6 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-G | Toggle cast-on-strike enchantments on/off | Controlled Weapon Enchants
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
@@ -1029,6 +1000,18 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## September 25th, 2023
+
+### Bug Fixes
+- Removed Magican't because I don't think anyone ever notices the presence of the mod.
+
+### User Interface
+- Removed Oblivion Crosshair because it's up to preference.
+
+### Gameplay
+- Removed Controlled Weapon Enchants because it removes some strategy involved in using enchanted weapons.
+- Removed Magicka-Based Skill Progression because there are other mods that do the same plus other tweaks (like reducing Magicka as your skill advances) and it is up to preference. 
 
 ## August 27th, 2023
 
