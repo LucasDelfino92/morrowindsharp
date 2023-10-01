@@ -550,6 +550,8 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 
+> ℹ️ Do note this mod is incompatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
+
 ## [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 
 ### Installation instructions:
