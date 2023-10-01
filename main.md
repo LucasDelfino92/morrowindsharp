@@ -136,7 +136,11 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 
 ### Installation instructions:
 - **Main files - Morrowind Optimization Patch**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Better Vanilla Textures** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Lake Fjalding Anti-Suck** (required)
+   - [X] **Chuzei Fix** (required)
+   - [X] **Better Vanilla Textures** (required)
 
 Greatly improves performance and fixes some mesh errors.
 
@@ -422,13 +426,21 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Better Vanilla Textures**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Lake Fjalding Anti-Suck** (required)
+   - [X] **Chuzei Fix** (required)
+   - [X] **Better Vanilla Textures** (required)
+   - [X] **Graphic Herbalism Patch** (required)
 - Click **Replace** when prompted.
 
 Patching Graphic Herbalism with Project Atlas:
 
 - Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Textures - Vanilla** (required)
+   - [X] **Graphic Herbalism Patch** (required)
 - Click **Replace** when prompted.
 
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
@@ -655,13 +667,24 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 ### Installation instructions:
 - **Main files - Morrowind Enhanced Textures 6**
 - **Optional files - MET Meshes**
-- Additionally install the following files
-  - [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
 
 Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Chuzei Fix**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Lake Fjalding Anti-Suck** (required)
+   - [X] **Chuzei Fix** (required)
+   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
+- Click **Replace** when prompted.
+
+Patching Morrowind Enhanced Textures with Project Atlas:
+
+- Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
+- Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+  - [X] **Core** (required)
+  - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
@@ -687,7 +710,11 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 Patching Glow in the Dahrk with Project Atlas:
 
 - Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla**, **Glow in the Dahrk Patch**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+  - [X] **Core** (required)
+  - [X] **Textures - Vanilla** (only if you didn't install Morrowind Enhanced Textures in Visuals)
+  - [X] **Glow in the Dahrk Patch** (required)
+  - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
 Makes vanilla windows glow in the dark.
@@ -836,7 +863,13 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select **Core**, **Lake Fjalding Anti-Suck**, **Weapon Sheathing Patch**, **Chuzei Fix**, **Graphic Herbalism Patch** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Lake Fjalding Anti-Suck** (required)
+   - [X] **Weapon Sheathing Patch** (required) 
+   - [X] **Chuzei Fix** (required)
+   - [X] **Better Vanilla Textures** (only if you didn't install Morrowind Enhanced Textures in Visuals) 
+   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
