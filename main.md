@@ -918,7 +918,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 - Install the downloaded archive using manual install in Mod Organizer 2.
 - You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed.
 
-## [**Mod Order and Load Order**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Mod%20Order%20and%20Load%20Order.7z)  
+## [**Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Profile%20Files.7z)  
 
 ### Installation instructions:
 - Download the file.
