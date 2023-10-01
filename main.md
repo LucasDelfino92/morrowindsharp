@@ -912,7 +912,7 @@ Reduces the frequency of idle Cliff Racer screeches.
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**
 - Name the separator **Mod Configuration**
 
-## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Configuration.7z)  
+## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Mod%20Configuration.7z)  
 
 ### Installation instructions:
 - Install the downloaded archive using manual install in Mod Organizer 2.
