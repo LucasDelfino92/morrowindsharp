@@ -792,6 +792,13 @@ Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
 
 Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
 
+## [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
+
+### Installation instructions:
+- **Main files - Weather Adjuster**
+
+Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
+
 ## [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 
 ### Installation instructions:
@@ -806,13 +813,6 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 - **Main files - Window to Aetherius**
 
 Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
-
-## [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
-
-### Installation instructions:
-- **Main files - Weather Adjuster**
-
-Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
 ## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
 
