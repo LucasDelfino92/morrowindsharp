@@ -707,17 +707,9 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
   - Click **Next**.
   - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**
 
-Patching Glow in the Dahrk with Project Atlas:
-
-- Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-  - [X] **Core** (required)
-  - [X] **Textures - Vanilla** (only if you didn't install Morrowind Enhanced Textures in Visuals)
-  - [X] **Glow in the Dahrk Patch** (required)
-  - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
-- Click **Replace** when prompted.
-
 Makes vanilla windows glow in the dark.
+
+> ℹ️ At the time of writing, Project Atlas' patch for Glow in the Dahrk is outdated, leading to missing features from Glow in the Dahrk and a bug with a missing Velothi atlas texture, hence why we are not installing the patch.
 
 ## [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
 
