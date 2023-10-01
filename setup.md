@@ -67,7 +67,7 @@ A clean installation is not only required to get rid of any potential leftover m
 - Under **Install to**, select **C:\Games\GOG Galaxy\Games**.
 - Select **Install** then wait for the install to finish.
 
-Note that the GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time.
+Note that the GOG release of Morrowind ships with files we do not need, including the [**official plugins**](https://en.uesp.net/wiki/Morrowind:Plugins) Bethesda released for Morrowind. The general opinion is that these low quality plugins and not worth your time. For the purpose of this guide, we will delete the official plugins.
 
 - Delete the following files from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
   - **BookArt** folder.
