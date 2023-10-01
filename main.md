@@ -970,6 +970,8 @@ In this step we will regenerate Distant Land (generated during the **Setup** sec
 
 ## Shader Setup
 
+> ⚠️ It is encouraged to skip this section unless your computer has more than 2GB VRAM, otherwise expect less than 30fps outdoors. At 8GB VRAM, I can hit a consistent 60fps even in the most performance intensive areas of the game.
+
 In this step we will install additional shaders to **MGE XE** and configure our shader chain.
 
 - Download [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z).
