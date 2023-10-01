@@ -132,7 +132,6 @@ In this step, we will download and install MGE XE, which allows Morrowind to ren
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Right-click **MGEXEgui.exe** in the **Root** folder.
 - Open properties and navigate to the **Compatibility** tab.
-- Enable **Run this program as an Administrator**.
 - Run **MWSE-Update.exe**. This will update MWSE to the latest version.
 - Delete **XE Sky Variations.esp** from your **Data Files** folder. This plugin won't be necessary after we install **Weather Adjuster** in the main guide.
 
@@ -181,9 +180,6 @@ In this step, we will install and configure Mod Organizer 2.
 
 - Download the **Mod Organizer 2** main file from [**here**](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE).
 - Once the download has finished, extract the archive and put the folder in any location outside of any default Window folders (like Program Files x86) and outside of the game's **Root** folder (if you are not sure, you can put it in a modding folder on your C drive).
-- Right-click **ModOrganizer.exe** inside the Mod Organizer 2 folder you extracted before.
-- Open properties and navigate to the **Compatibility** tab.
-- Enable **Run this program as an Administrator**.
 
 ## Configuring Mod Organizer 2
 
