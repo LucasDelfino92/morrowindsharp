@@ -907,6 +907,11 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 # Finishing Touches
 
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**
+- Name the separator **Mod Configuration**
+
 ## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Morrowind%20Sharp%20Mod%20Setup.7z)  
 
 ### Installation instructions:
