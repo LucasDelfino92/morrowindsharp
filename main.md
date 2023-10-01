@@ -1032,6 +1032,14 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 # Changelog
 
+## October 1st, 2023
+
+### General
+- Reworked instructions for mods relying on Morrowind Optimization Patch and Project Atlas.
+
+### Visuals
+- Removed instruction to install the Project Atlas patch for Glow in the Dahrk, as it is outdated and causes missing features and a missing texture bug in MGE XE.
+
 ## September 25th, 2023
 
 ### Bug Fixes
