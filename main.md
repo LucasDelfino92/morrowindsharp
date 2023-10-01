@@ -16,6 +16,18 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 
 > ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
 
+## [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
+
+### Installation instructions:
+- **Unofficial Morrowind Official Plugins Patched**
+- You will be prompted with a **FOMOD** installer:
+  - Select **UMOPP Merged** and click **Next**.
+  - Select **Yes** to Compatibility Version and click **Next**.
+  - Select **No** to Better Armor Compatibility and click **Next**.
+  - Click **Install**
+
+An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
+
 ## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 
 ### Installation instructions:
@@ -1036,6 +1048,9 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 ### General
 - Reworked instructions for mods relying on Morrowind Optimization Patch and Project Atlas.
+
+### Bug Fixes
+- Added Unofficial Morrowind Official Plugins patched. Load immediately after Patch for Purists.
 
 ### Visuals
 - Removed instruction to install the Project Atlas patch for Glow in the Dahrk, as it is outdated and causes missing features and a missing texture bug in MGE XE.
