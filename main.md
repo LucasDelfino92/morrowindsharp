@@ -146,6 +146,7 @@ Greatly improves performance and fixes some mesh errors.
 - **Main files - Project Atlas**
 - You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla** and click **Ok**
 - **Update files - Hotfix 0.7.2**
+  - Remember not to merge this file into the main mod, and instead install it as a separate file.
 
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
 
