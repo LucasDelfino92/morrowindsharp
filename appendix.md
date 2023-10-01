@@ -23,7 +23,7 @@ In this step, we will install and run TES3View, which allows us to check for con
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **TES3View**. 
 - Run **TES3View**.
 - Right click anywhere in the plugin list, click **Select All** then click **OK**.
-- Wait for TES3View to load all plugins, indicated by the **Background Loader: finished** mesage.
+- Wait for TES3View to load all plugins, indicated by the **Background Loader: finished** message.
 - Right-click on any of the plugins then click **Apply Filter to show Conflicts**.
 
 > ℹ️ This will show all plugins with conflicting records.
