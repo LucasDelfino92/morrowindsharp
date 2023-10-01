@@ -204,7 +204,7 @@ In this step, we will install and configure Mod Organizer 2.
 ### Configuring Settings
 
 - Select the **X** in the bottom right of MO2 to close the log window.
-- Select the MO2 settings button at the top of MO2 to open the settings.
+- Select the ![settings](MO2/MO_Settings.png) button at the top of MO2 to open the settings.
 - In the **Theme** tab, you can select a different style of your choosing from the drop-down menu at the top.
 - In the **Nexus** tab, select **Connect to Nexus**.
   - This option will not show up if you have already connected your Nexus account on a different MO2 instance.
