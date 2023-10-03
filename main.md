@@ -28,6 +28,8 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
 
+> ℹ️ This mod is listed for completionism purposes. The general opinion in the community is that the Bethesda official plugins are of low quality and not worth playing. You can safely skip this mod and continue with the rest of the guide.
+
 ## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 
 ### Installation instructions:
