@@ -1061,6 +1061,9 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 ## October 2nd, 2023
 
+### Setup
+- Updated Height of waves MGE XE setting from 5 to 50 for Wonders of Water to have a noticeable effect.
+
 ### Visuals
 - Added Wonders of Water.
 
