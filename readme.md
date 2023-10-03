@@ -26,10 +26,10 @@ System | My Specs
 ------------ | -------------
 OS | Windows 10 Pro 64-bit
 CPU | AMD Ryzen 5 5600
-GPU | ASUS DUAL OC RX 6600 XT 8GB 
+GPU | RX 6600 XT 8GB 
 Monitor | Samsung 24" 1080p @ 60Hz
 RAM | 16GB DDR4
-SSD | Kingston KC3000 1TB
+SSD | 1TB NVMe
 
 Roughly 9GB of space are required to install this modlist. Should you skip Morrowind Enhanced Textures and AURA, space needed will dramatically drop in size.
 
