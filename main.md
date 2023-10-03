@@ -21,9 +21,9 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 ### Installation instructions:
 - **Unofficial Morrowind Official Plugins Patched**
 - You will be prompted with a **FOMOD** installer:
-  - Select **UMOPP Merged** and click **Next**.
-  - Select **Yes** to Compatibility Version and click **Next**.
-  - Select **No** to Better Armor Compatibility and click **Next**.
+  - Select **UMOPP Merged** and click **Next**
+  - Select **Yes** to Compatibility Version and click **Next**
+  - Select **No** to Better Armor Compatibility and click **Next**
   - Click **Install**
 
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
@@ -54,7 +54,7 @@ Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Te
 
 ### Installation instructions:
 - **Main files - Divayth Fyr Puzzle Fixed**
-- You will be prompted with a **FOMOD** installer, here select **Patch for Purists**, click **Next** and then **Install**
+- You will be prompted with a **** installer, here select **Patch for Purists**, click **Next** and then **Install**
 
 Fixes the puzzle in the Corprusarium.
 
@@ -550,7 +550,7 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 
-> ℹ️ Do note this mod is incompatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
+> ⚠️  This mod is not compatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
 
 ## [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
 
@@ -716,9 +716,9 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 ### Installation instructions:
 - **Main files - Glow in the Dahrk**
 - You will be prompted with a **FOMOD** installer:
-  - Select **Nord Glass Windows** and click **Next**.
-  - Select **Raven Rock Glass Windows** and click **Next**.
-  - Click **Next**.
+  - Select **Nord Glass Windows** and click **Next**
+  - Select **Raven Rock Glass Windows** and click **Next**
+  - Click **Next**
   - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**
 
 Makes vanilla windows glow in the dark.
@@ -757,6 +757,8 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 - We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section
 
 Adds groundcover to almost all regions.
+
+> ⚠️ It is encouraged to skip this mod if your computer has less than 1GB VRAM, otherwise expect a framerate drop outdoors.
 
 ## [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 
