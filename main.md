@@ -820,7 +820,7 @@ Visual weather editor which allows for user-made presets. Required for the confi
 ## [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 
 ### Installation instructions:
-- **Main files - Watch the Skies 4.4.0**
+- **Main files - Watch the Skies 4.5.0**
 - You will be prompted with a **BAIN** installer, here select **Core**, **Clouds textures**, **Weather particles replacer** and click **Ok**
 
 A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
@@ -831,6 +831,13 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 - **Main files - Window to Aetherius**
 
 Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
+
+## [**Wonders of Water**](https://www.nexusmods.com/morrowind/mods/52815)  
+
+### Installation instructions:
+- **Main files - Wonders of Water v1.0**
+
+When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.
 
 ## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
 
@@ -894,7 +901,7 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 ## [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 
 ### Installation instructions:
-- **Main files - AURA 5.3.2**
+- **Main files - AURA 5.4.0**
 - You will be prompted with a **BAIN** installer, here select **Core**, **Replacer** and click **Ok**
 
 Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
@@ -1051,6 +1058,11 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## October 2nd, 2023
+
+### Visuals
+- Added Wonders of Water.
 
 ## October 1st, 2023
 
