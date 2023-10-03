@@ -348,7 +348,7 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
   - Click **Create Statics**.
 - Wait then click **Finish**.
 
-![Screenshot](pictures/DistantLand2.png?)
+![Screenshot](pictures/DistantLand3.png?)
 
 Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
 
