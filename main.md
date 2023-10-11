@@ -619,7 +619,7 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 ### Installation instructions:
 - **Main files - Tribunal Rebalance**
 - Additionally install the following files:
-  - [**Gedna Script Fix and Goblin Potion Rebalance**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Tribunal%20Rebalance%20Gedna%20Script%20Fix%20and%20Goblin%20Potion%20Rebalance.7z).
+  - [**Gedna Script Fix and Goblin Potion Rebalance**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Tribunal%20Rebalance%20Gedna%20Script%20Fix%20and%20Goblin%20Potion%20Rebalance.7z)
   - Install the downloaded archive using manual install in MO2.
 
 Rebalances Tribunal as if it shipped with Morrowind. The additional file fixes a bug regarding the stat calculation of Gedna and reduces the quality of potions carried by goblins, as they are much weaker enemies now.
