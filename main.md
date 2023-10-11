@@ -4,31 +4,31 @@
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Bug Fixes**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Bug Fixes**.
 
 ## [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
+
+> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
 
 ### Installation instructions:
 - **Main files - Patch for Purists**
 
 Unofficial patch that aims to make the game completely bug-free, within the abilities of Construction Set. It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
-
 ## [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931)  
+
+> ℹ️ This mod is listed for completionism purposes. The general opinion in the community is that the Bethesda official plugins are of low quality and not worth playing. You can safely skip this mod and continue with the rest of the guide.
 
 ### Installation instructions:
 - **Unofficial Morrowind Official Plugins Patched**
 - You will be prompted with a **FOMOD** installer:
-  - Select **UMOPP Merged** and click **Next**
-  - Select **Yes** to Compatibility Version and click **Next**
-  - Select **No** to Better Armor Compatibility and click **Next**
-  - Click **Install**
+  - Select **UMOPP Merged** and click **Next**.
+  - Select **Yes** to Compatibility Version and click **Next**.
+  - Select **No** to Better Armor Compatibility and click **Next**.
+  - Click **Install**.
 
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
-
-> ℹ️ This mod is listed for completionism purposes. The general opinion in the community is that the Bethesda official plugins are of low quality and not worth playing. You can safely skip this mod and continue with the rest of the guide.
 
 ## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
 
@@ -41,7 +41,7 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 ### Installation instructions:
 - **Main files - The Publicans**
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
@@ -56,14 +56,14 @@ Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Te
 
 ### Installation instructions:
 - **Main files - Divayth Fyr Puzzle Fixed**
-- You will be prompted with a **** installer, here select **Patch for Purists**, click **Next** and then **Install**
+- You will be prompted with a **FOMOD** installer, here select **Patch for Purists**, click **Next** and then **Install**.
 
 Fixes the puzzle in the Corprusarium.
 
 ## [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2
+- Install the downloaded archive using manual install in MO2.
 
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Includes typo fixes and punctuation tweaks by **spockthewok**.
 
@@ -92,7 +92,7 @@ Restores missing stages during the construction of Great House strongholds. Cons
 
 ### Installation instructions:
 - **Main files - Improved Temple Experience**
-- You will be prompted with a **BAIN** installer, here select **Vanilla Ghostgate** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Vanilla Ghostgate** and click **Ok**.
 
 Adds shrines and Almsivi Intervention markers to temples that were missing them.
 
@@ -120,7 +120,7 @@ Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance
 ## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2
+- Install the downloaded archive using manual install in MO2.
 
 Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
 
@@ -128,7 +128,7 @@ Fixes Willpower not affecting your ability to resist magic, giving all in-game a
 
 ### Installation instructions:
 - **Main files - Improved Thrown Weapon Projectiles**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**
+- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
 
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 
@@ -160,15 +160,15 @@ Greatly improves performance and fixes some mesh errors.
 
 ## [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 
+> ℹ️ This is the first mod in the guide you need multiple files from, remember to **Rename** each file to match what it actually is.
+
 ### Installation instructions:
 - **Main files - Project Atlas**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla** and click **Ok**.
 - **Update files - Hotfix 0.7.2**
-  - Remember not to merge this file into the main mod, and instead install it as a separate file.
+  - Install this file as a separate file instead of merging it into the main file.
 
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
-
-> ℹ️ This is the first mod in the guide you need multiple files from, remember to **Rename** each file to match what it actually is.
 
 > ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. Mods installed in this guide are already compatible with **Project Atlas**, or have texture patches available which will be installed in due time.
 
@@ -176,7 +176,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 ### Installation instructions:
 - **Main files - ILFAS**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Smoke and Steam Emitters** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Smoke and Steam Emitters** and click **Ok**.
 
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
 
@@ -254,8 +254,8 @@ Fixes a bug where GMST values are not applied properly when raising a skill via 
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **User Interface**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **User Interface**.
 
 ## [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
 
@@ -268,8 +268,8 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 ### Installation instructions:
 - **Main files - Better Daedric Font**
-- You will be asked to select a data directory, right-click on **Data Files** and create a **Fonts** folder
-- Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into the created folder then click **Ok**
+- You will be asked to select a data directory, right-click on **Data Files** and create a **Fonts** folder.
+- Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into the created folder then click **Ok**.
 
 High resolution replacer for the Daedric font used in scrolls. 
 
@@ -318,7 +318,7 @@ Adds a cancel button to Temple shrines and Imperial Cult altars.
 ## [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2
+- Install the downloaded archive using manual install in MO2.
 
 Adds an Attribute and Description widget to the Race menu so you can better plan your character. Includes fixes by **Necrolesian**.
 
@@ -396,7 +396,7 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ### Installation instructions:
 - **Main files - Torch Hotkey**
-- Install the downloaded archive using manual install in Mod Organizer 2
+- Install the downloaded archive using manual install in MO2.
 
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
@@ -404,8 +404,8 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Gameplay**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Gameplay**.
 
 ## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 
@@ -432,14 +432,16 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 ### Installation instructions:
 - **Main files - Graphic Herbalism MWSE - OpenMW**
-- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**
-- Additionally install the following files
+- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**.
+- Additionally install the following files:
   - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
   - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
 
-Patching Graphic Herbalism with Morrowind Optimization Patch:
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
 
-- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+> ℹ️ Patching Graphic Herbalism with Morrowind Optimization Patch
+
+- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
    - [X] **Core** (required)
    - [X] **Lake Fjalding Anti-Suck** (required)
@@ -448,16 +450,14 @@ Patching Graphic Herbalism with Morrowind Optimization Patch:
    - [X] **Graphic Herbalism Patch** (required)
 - Click **Replace** when prompted.
 
-Patching Graphic Herbalism with Project Atlas:
+> ℹ️ Patching Graphic Herbalism with Project Atlas
 
-- Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
    - [X] **Core** (required)
    - [X] **Textures - Vanilla** (required)
    - [X] **Graphic Herbalism Patch** (required)
 - Click **Replace** when prompted.
-
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 
 ## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
 
@@ -470,7 +470,7 @@ Fixes the issue of corpses respawning in dungeons on save load, and optionally a
 
 ### Installation instructions:
 - **Main files - Magicka Expanded**
-- You will be prompted with a **BAIN** installer, here select **Framework** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Framework** and click **Ok**.
 
 A lua-based framework for creating new, fully functional magic effects. Required by **MM - Enhanced Detection**.
 
@@ -478,12 +478,12 @@ A lua-based framework for creating new, fully functional magic effects. Required
 
 ### Installation instructions:
 - **Main files - Enhanced Detection**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**
-- Additionally install the following files
+- You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**.
+- Additionally install the following files:
   - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
-  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**
+  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
 
-Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects.
+Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects. The additional file reduces the amount of new Detection spells added by the mod.
 
 ## [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 
@@ -517,8 +517,8 @@ Takes into account the distance to target when calculating the hit chance for ra
 
 ### Installation instructions:
 - **Main files - Realistic Repair**
-- Once the mod has been installed, double-click on it in the left pane of MO2
-- In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**
+- Once the mod has been installed, double-click on it in the left pane of MO2.
+- In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
 
 When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
 
@@ -547,8 +547,8 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 
 ### Installation instructions:
 - **Main files - Quick Char (Timescale6 Edit)**
-- Once the mod has been installed, double-click on it in the left pane of MO2
-- In the **Filetree** tab, right-click Quick Char (Necro Timescale6 Edit).ESP and select **Hide**
+- Once the mod has been installed, double-click on it in the left pane of MO2.
+- In the **Filetree** tab, right-click Quick Char (Necro Timescale6 Edit).ESP and select **Hide**.
 
 Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 
@@ -579,8 +579,8 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Overhauls**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Overhauls**.
 
 ## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 
@@ -595,8 +595,8 @@ Provides a configurable restriction on the amount of potions and ingredients the
 
 ### Installation instructions:
 - **Main files - Ownership Overhaul**
-- Once the mod has been installed, double-click on it in the left pane of MO2
-- In the **Filetree** tab, right-click Ownership Overhaul.ESP and select **Hide**
+- Once the mod has been installed, double-click on it in the left pane of MO2.
+- In the **Filetree** tab, right-click Ownership Overhaul.ESP and select **Hide**.
 
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
@@ -618,8 +618,11 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 ### Installation instructions:
 - **Main files - Tribunal Rebalance**
+- Additionally install the following files:
+  - [**Gedna Script Fix and Goblin Potion Rebalance**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Tribunal%20Rebalance%20Gedna%20Script%20Fix%20and%20Goblin%20Potion%20Rebalance.7z).
+  - Install the downloaded archive using manual install in MO2.
 
-Rebalances Tribunal as if it shipped with Morrowind.
+Rebalances Tribunal as if it shipped with Morrowind. The additional file fixes a bug regarding the stat calculation of Gedna and reduces the quality of potions carried by goblins, as they are much weaker enemies now.
 
 ## [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 
@@ -632,8 +635,8 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Visuals**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Visuals**.
 
 ## [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
 
@@ -653,7 +656,7 @@ High resolution replacer for the splash loading screens.
 
 ### Installation instructions:
 - **Optional files - Pete's Journal and Scroll**
-- You will be prompted with a **BAIN** installer, here select **Journal and Scroll - 2K** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Journal and Scroll - 2K** and click **Ok**.
 
 High resolution replacer for the scroll and journal textures.
 
@@ -684,9 +687,11 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 - **Main files - Morrowind Enhanced Textures 6**
 - **Optional files - MET Meshes**
 
-Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
-- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+> ℹ️ Patching Morrowind Enhanced Textures with Morrowind Optimization Patch
+
+- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
    - [X] **Core** (required)
    - [X] **Lake Fjalding Anti-Suck** (required)
@@ -694,22 +699,20 @@ Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
    - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
-Patching Morrowind Enhanced Textures with Project Atlas:
+> ℹ️ Patching Morrowind Enhanced Textures with Project Atlas
 
 - Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
-- Right-click **Project Atlas** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+- Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
   - [X] **Core** (required)
   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
 ## [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 
 ### Installation instructions:
 - **Main files - Better Waterfalls**
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 
@@ -718,10 +721,10 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 ### Installation instructions:
 - **Main files - Glow in the Dahrk**
 - You will be prompted with a **FOMOD** installer:
-  - Select **Nord Glass Windows** and click **Next**
-  - Select **Raven Rock Glass Windows** and click **Next**
-  - Click **Next**
-  - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**
+  - Select **Nord Glass Windows** and click **Next**.
+  - Select **Raven Rock Glass Windows** and click **Next**.
+  - Click **Next**.
+  - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**.
 
 Makes vanilla windows glow in the dark.
 
@@ -731,7 +734,7 @@ Makes vanilla windows glow in the dark.
 
 ### Installation instructions:
 - **Main files - I Lava Good Mesh Replacer**
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
@@ -746,7 +749,7 @@ Improves the Sun, particularly when using shaders.
 
 ### Installation instructions:
 - **Main files - Mist Retexture**
-- Install the downloaded archive using manual install in Mod Organizer 2
+- Install the downloaded archive using manual install in MO2.
 
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
@@ -754,9 +757,9 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 
 ### Installation instructions:
 - **Main files - Remiros' Groundcover**
-- You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**
-- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation
-- We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section
+- You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**.
+- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation.
+- We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section.
 
 Adds groundcover to almost all regions.
 
@@ -766,7 +769,7 @@ Adds groundcover to almost all regions.
 
 ### Installation instructions:
 - **Main files - Near Vanilla Road Sign Replacer**
-- You will be prompted with a **BAIN** installer, here select **Meshes**, **Textures - High Resolution**, **ESP - Vvardenfell only** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Meshes**, **Textures - High Resolution**, **ESP - Vvardenfell only** and click **Ok**.
 
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
@@ -774,7 +777,7 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
 ### Installation instructions:
 - **Main files - Subtle Magic Glow**
-- You will be prompted with a **BAIN** installer, here select **fade** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **fade** and click **Ok**.
 
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
 
@@ -789,12 +792,15 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ### Installation instructions:
 - **Main files - LTBD**
+
+Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
+
+> ℹ️ Patching Let There Be Darkness for compatibility with Security Enhanced
+
 - Right-click on the installed mod and select **Open in Explorer**
 - Navigate to MWSE\mods\RFD\LetThereBeDarkness, and double-click **main.lua**
 - Using [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/), write -- at the start of line 415. This will remove the LiveLightEditing functionality, which conflicts with one of the keybindings from Security Enhanced
 - Save the edited text file
-
-Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 ## [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
 
@@ -821,7 +827,7 @@ Visual weather editor which allows for user-made presets. Required for the confi
 
 ### Installation instructions:
 - **Main files - Watch the Skies 4.5.0**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Clouds textures**, **Weather particles replacer** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Clouds textures**, **Weather particles replacer** and click **Ok**.
 
 A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
 
@@ -842,7 +848,7 @@ When using MGE XE's water, different weathers will produce different wave height
 ## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2.
+- Install the downloaded archive using manual install in MO2.
 
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
@@ -872,14 +878,16 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 
 ### Installation instructions:
 - **Main files - WeaponSheathing1.6-MWSE**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**
-- Additionally install the following files
+- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
+- Additionally install the following files:
   - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
   - [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
 
-Patching Weapon Sheathing with Morrowind Optimization Patch:
+Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets. The additional files improve the position of sheathed bows, and increase the amount of weapons covered by the mod.
 
-- Right-click **Morrowind Optimization Patch** under your list's **Bug Fixes** separator, then click **Reinstall Mod**.
+> ℹ️ Patching Weapon Sheathing with Morrowind Optimization Patch
+
+- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
    - [X] **Core** (required)
    - [X] **Lake Fjalding Anti-Suck** (required)
@@ -889,20 +897,18 @@ Patching Weapon Sheathing with Morrowind Optimization Patch:
    - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
-Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-
 # Audio
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Audio**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Audio**.
 
 ## [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 
 ### Installation instructions:
 - **Main files - AURA 5.4.0**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Replacer** and click **Ok**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Replacer** and click **Ok**.
 
 Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
 
@@ -917,11 +923,11 @@ Reduces the volume of vanilla spell soundfiles, to account for AURA depending on
 
 ### Installation instructions:
 - **Main files - CSO**
-- Additionally install the following files
+- Additionally install the following files:
   - [**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z)
-  - Install the downloaded archive using manual install in Mod Organizer 2.
+  - Install the downloaded archive using manual install in MO2.
 
-Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
+Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable. The additional file ensures the meshes used by Project Atlas have footstep sounds assigned to them.
 
 ## [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 
@@ -934,13 +940,13 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 ## Creating a Separator in MO2
 
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**
-- Name the separator **Mod Configuration**
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Mod Configuration**.
 
 ## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Mod%20Configuration.7z)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in Mod Organizer 2.
+- Install the downloaded archive using manual install in MO2.
 - You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed.
 
 ## [**Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Profile%20Files.7z)  
@@ -959,13 +965,13 @@ In this step we will use **TES3Merge** and **Wrye Mash** to solve conflicts in o
 
 ### Running TES3Merge
 
-- Run **TES3Merge** in Mod Organizer 2.
+- Run **TES3Merge** in MO2.
 - The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 - Activate **Merged Objects.esp** at the end of your load order.
 
 ### Running Wrye Mash
 
-- Run **mash64** in Mod Organizer 2.
+- Run **mash64** in MO2.
 - Click the **Misc** tab, then go to **TES3cmd** and **Create MultiPatch**.
 - Click **Yes** to the prompt then **OK** once the process is finished.
 - Exit Wrye Mash, and activate **multipatch.esp** at the end of your load order.
@@ -974,7 +980,7 @@ In this step we will use **TES3Merge** and **Wrye Mash** to solve conflicts in o
 
 In this step we will regenerate Distant Land (generated during the **Setup** section of the guide) to account for our newly installed mods. 
 
-- Run **MGE XE** in Mod Organizer 2.
+- Run **MGE XE** in MO2.
 - In the **Distant Land** tab, click **Distant land generator wizard**.
 - Click **Select all**. This will select all plugins for distant land generation, both active and unactive.
 - Click **Continue**.
@@ -988,9 +994,9 @@ In this step we will regenerate Distant Land (generated during the **Setup** sec
 In this step we will install additional shaders to **MGE XE** and configure our shader chain.
 
 - Download [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z).
-- Install the downloaded archive using manual install in Mod Organizer 2.
+- Install the downloaded archive using manual install in MO2.
 - You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
-- Run **MGE XE** in Mod Organizer 2.
+- Run **MGE XE** in MO2.
 - In the **Graphics tab**, click **Enable shaders**.
 - Click **Shader setup...**.
 - On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
@@ -1058,6 +1064,11 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## October 11th, 2023
+
+### Overhauls
+- Added Gedna Script Fix and Goblin Potion Rebalance.
 
 ## October 2nd, 2023
 
