@@ -154,7 +154,7 @@ In this step, we will download and install TES3Merge, which solves conflicts by 
 
 In this step, we will download and install Wrye Mash, which repairs and updates saves, updates the masters of mods, and runs tes3cmd.exe in order to clean plugins and generate a plugin which fixes a number of issues with mod setups.
 
-- Download [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439) (Update files, x64 version).
+- Download [**Wrye Mash 2021 - x64**](https://www.nexusmods.com/morrowind/mods/45439) (Update files).
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **mash64.exe**, found in **Morrowind\Mopy**.
 - Click **Next**.
