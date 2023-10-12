@@ -128,7 +128,7 @@ In this step, we will download and run the Morrowind Code Patch, which directly 
 
 In this step, we will download and install MGE XE, which allows Morrowind to render distant views, scenery shadows, high quality shaders and other features, as well as install the latest MWSE version, which allows Lua-based mods to function.
 
-- Download [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?) (Manual Install, Manual Download).
+- Download [**MGE XE Manual Install**](https://www.nexusmods.com/morrowind/mods/41102?) (Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **MWSE-Update.exe**. This will update MWSE to the latest version.
 - Delete **XE Sky Variations.esp** from your **Data Files** folder. This plugin won't be necessary after we install **Weather Adjuster** in the main guide.
