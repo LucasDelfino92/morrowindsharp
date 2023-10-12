@@ -56,7 +56,9 @@ Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Te
 
 ### Installation instructions:
 - **Main files - Divayth Fyr Puzzle Fixed**
-- You will be prompted with a **FOMOD** installer, here select **Patch for Purists**, click **Next** and then **Install**.
+- You will be prompted with a **FOMOD** installer:
+  - Select **Patch for Purists** for Base Files and click **Next**.
+  - Skip **Ownership Overhaul** Patch and click **Install**.
 
 Fixes the puzzle in the Corprusarium.
 
