@@ -279,32 +279,6 @@ Follow these steps for **TES3Merge**:
 - Navigate to **Morrowind** and double click **TES3Merge.exe**.
 - Click **Apply**.
 
-## Mod Installation Instructions
-
-When the guide says to install a mod, it will be formatted as follows: **Main File - Example 1.5**. This is referring to the mod's category on Nexus and file name.
-The guide will list a mod's specific file name, category and version if you need to do more than just download the latest main file.
-
-Standard mod installation procedure:
-
-1. Unless instructed otherwise by the guide, download a mod's latest main file using the **Mod Manager Download** button.
-2. Once the download has finished, open **Downloads** tab in MO2 (right pane, below executable selector).
-3. Double-click on the mod to install it.
-4. Enable the mod on the left pane.
-
-Sometimes, a mod will not have a **Mod Manager Download**, or will be hosted on a site other than Nexus.
-If that is the case, do the following:
-
-1. Click the **Manual Download** button (or whatever the download button is for the respective site).
-2. Once the download has finished, click the ![Install](MO2/MO_Archive.png) button at the top of MO2.
-3. From the new window, navigate to where the file was downloaded to and double-click it.
-4. Finish the install as you would with a **Mod Manager Download** mod.
-
-When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options **Merge**, **Replace** and **Rename**.
-
-- You should select the **Rename** option and rename the mod to its respective file name, this will make MO2 install them as separate files for easier management.
-- If you are updating from an old version of a mod, you should select **Replace**, this will automatically delete all the files from the old version of the mod and replace them with the ones from the new version.
-- **Merge** should only be used when you are sure the mod will not be updated and in situations where a hotfix is uploaded as separate file.
-
 ## Configuring MGE XE
 
 In this step, we will run MGE XE through Mod Organizer 2 to configure it.
@@ -357,5 +331,31 @@ Now that you are back on the **Distant Land** tab you will see all previously un
 > ⚠️ Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
 
 > ℹ️ A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
+
+## Mod Installation Instructions
+
+When the guide says to install a mod, it will be formatted as follows: **Main File - Example 1.5**. This is referring to the mod's category on Nexus and file name.
+The guide will list a mod's specific file name, category and version if you need to do more than just download the latest main file.
+
+Standard mod installation procedure:
+
+1. Unless instructed otherwise by the guide, download a mod's latest main file using the **Mod Manager Download** button.
+2. Once the download has finished, open **Downloads** tab in MO2 (right pane, below executable selector).
+3. Double-click on the mod to install it.
+4. Enable the mod on the left pane.
+
+Sometimes, a mod will not have a **Mod Manager Download**, or will be hosted on a site other than Nexus.
+If that is the case, do the following:
+
+1. Click the **Manual Download** button (or whatever the download button is for the respective site).
+2. Once the download has finished, click the ![Install](MO2/MO_Archive.png) button at the top of MO2.
+3. From the new window, navigate to where the file was downloaded to and double-click it.
+4. Finish the install as you would with a **Mod Manager Download** mod.
+
+When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options **Merge**, **Replace** and **Rename**.
+
+- You should select the **Rename** option and rename the mod to its respective file name, this will make MO2 install them as separate files for easier management.
+- If you are updating from an old version of a mod, you should select **Replace**, this will automatically delete all the files from the old version of the mod and replace them with the ones from the new version.
+- **Merge** should only be used when you are sure the mod will not be updated and in situations where a hotfix is uploaded as separate file.
 
 ## [<< Readme](readme.md) | [Morrowind Sharp >>](main.md)  
