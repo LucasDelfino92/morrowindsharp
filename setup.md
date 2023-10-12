@@ -299,12 +299,11 @@ In this step, we will run MGE XE through Mod Organizer 2 to configure it.
 ### Graphics Tab
 
 - Set **Resolution** according to your monitor or preferred windowed resolution.
-- Enable **Windowed Mode**. This allows for safe ALT+TAB during gameplay, at the cost of minimal performance drops (unnoticeable depending on your setup).
+- Enable **Windowed Mode** and **Borderless window**. This allows for safe ALT+TAB during gameplay, at the cost of minimal performance drops (unnoticeable depending on your setup).
 - Set **VSync** to On.
 - Set **Antialiasing** to x8.
 - Set **Anisotropic Filtering** to x8.
 - Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
-- If playing in widescreen, I recommend setting **Horz. FOV** to 90.
 - Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
 
 ### Distant Land Tab
