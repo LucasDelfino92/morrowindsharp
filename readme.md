@@ -2,21 +2,21 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: October 2nd, 2023*.
+*Last updated: October 11th, 2023*.
 
 ## About
 
-**Morrowind Sharp** is a modular modlist for **The Elder Scrolls III: Morrowind**. It addresses a number of significant issues with the game:
+**Morrowind Sharp** is a modding guide for **The Elder Scrolls III: Morrowind**. It addresses a number of issues with the game and improves on other aspects, namely:
 
 - Bugs and stability: includes all major bug fixes released for the game so far.
 - User interface: improved functionality and expanded hotkeys.
-- Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, more immersive lighting.
-- DLCs: reworked implementation, expansions delayed and rebalanced.
+- Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, and more immersive lighting.
+- DLCs: expansions are delayed and rebalanced for better integration with the base game.
 - Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 
 This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#tes3view) are provided. Use that tool to detect and solve conflicts.
 
-Many of the instructions in this guide are taken verbatim from **VishVadeva**'s **The Midnight Ride** guide for Fallout 4, which explains in detail how to install mods using Mod Organizer 2. All credits go to him.
+Many of the instructions in this guide are taken verbatim from **VishVadeva**'s modding guides for Bethesda games released after Morrowind, which explain in detail how to install mods using Mod Organizer 2. All credits go to him.
 
 ## Performance
 
