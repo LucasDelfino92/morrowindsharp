@@ -441,7 +441,7 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
 
-> ℹ️ Patching Graphic Herbalism with Morrowind Optimization Patch
+### Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
@@ -452,7 +452,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
    - [X] **Graphic Herbalism Patch** (required)
 - Click **Replace** when prompted.
 
-> ℹ️ Patching Graphic Herbalism with Project Atlas
+### Patching Graphic Herbalism with Project Atlas:
 
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
@@ -691,7 +691,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
-> ℹ️ Patching Morrowind Enhanced Textures with Morrowind Optimization Patch
+### Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
@@ -701,7 +701,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
    - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
-> ℹ️ Patching Morrowind Enhanced Textures with Project Atlas
+### Patching Morrowind Enhanced Textures with Project Atlas:
 
 - Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
@@ -797,7 +797,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
-> ℹ️ Patching Let There Be Darkness for compatibility with Security Enhanced
+### Patching Let There Be Darkness for compatibility with Security Enhanced:
 
 - Right-click on the installed mod and select **Open in Explorer**
 - Navigate to MWSE\mods\RFD\LetThereBeDarkness, and double-click **main.lua**
@@ -887,7 +887,7 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets. The additional files improve the position of sheathed bows, and increase the amount of weapons covered by the mod.
 
-> ℹ️ Patching Weapon Sheathing with Morrowind Optimization Patch
+### Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
