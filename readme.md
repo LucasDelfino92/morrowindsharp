@@ -2,7 +2,7 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: October 11th, 2023*.
+*Last updated: October 13th, 2023*.
 
 ## About
 
@@ -10,9 +10,9 @@
 
 - Bugs and stability: includes all major bug fixes released for the game so far.
 - User interface: improved functionality and expanded hotkeys.
-- Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, and more immersive lighting.
 - DLCs: expansions are delayed and rebalanced for better integration with the base game.
 - Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
+- Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, and more immersive lighting.
 
 This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#tes3view) are provided. Use that tool to detect and solve conflicts.
 
