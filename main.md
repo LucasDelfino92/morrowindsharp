@@ -244,22 +244,14 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 ### Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Chuzei Fix** (required)
-   - [X] **Better Vanilla Textures** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
+- You will be prompted with a **BAIN** installer, here select ONLY **Graphic Herbalism Patch** and click **Ok**.
+- Click **Rename** when prompted and change the name to something like **Morrowind Optimization Patch - Graphic Herbalism Patch** then click **Ok**.
 
 ### Patching Graphic Herbalism with Project Atlas:
 
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Textures - Vanilla** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
+- You will be prompted with a **BAIN** installer, here select ONLY **Graphic Herbalism Patch** and click **Ok**.
+- Click **Rename** when prompted and change the name to something like **Project Atlas - Graphic Herbalism Patch** then click **Ok**.
 
 ## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 
