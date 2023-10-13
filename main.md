@@ -740,13 +740,6 @@ Makes vanilla windows glow in the dark.
 
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
-## [**Here Comes the Sun... Glare**](https://www.nexusmods.com/morrowind/mods/48574)  
-
-### Installation instructions:
-- **Main files - HCTSG**
-
-Improves the Sun, particularly when using shaders.
-
 ## [**Remiros' Minor Retextures**](https://www.nexusmods.com/morrowind/mods/44322)  
 
 ### Installation instructions:
@@ -1066,6 +1059,11 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## October 13th, 2023
+
+### Visuals
+- Removed Here Comes the Sun... Glare as the sun has looked just fine in MGE XE for quite a while already.
 
 ## October 11th, 2023
 
