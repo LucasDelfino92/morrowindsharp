@@ -703,7 +703,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 ### Patching Morrowind Enhanced Textures with Project Atlas:
 
-- Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?)
+- Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?) (Main files).
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
 - You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
   - [X] **Core** (required)
