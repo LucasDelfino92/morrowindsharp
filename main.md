@@ -41,6 +41,8 @@ Includes install additional shaders for MGE XE.
 
 ## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 
+> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
+
 ### Installation instructions:
 - **Main files - Pixel Shader Style Water for MGE XE**
 
@@ -54,8 +56,6 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 - Name the separator **Bug Fixes**.
 
 ## [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)  
-
-> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
 
 ### Installation instructions:
 - **Main files - Patch for Purists**
