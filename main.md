@@ -1,5 +1,51 @@
 ## [<< Setup](setup.md)  
 
+# MGE XE
+
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **MGE XE**.
+
+## [**MWSE MWS Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MWSE%20MWS%20Config.7z)
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Enables letterboxing for in-game cinematics.
+
+## [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)
+
+> ⚠️ It is encouraged to skip this section unless your computer has more than 2GB VRAM, otherwise expect less than 30fps outdoors. At 8GB VRAM, I can hit a consistent 60fps even in the most performance intensive areas of the game.
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
+- Run **MGE XE** in MO2.
+- In the **Graphics tab**, click **Enable shaders**.
+- Click **Shader setup...**.
+- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
+```
+SSAO HQ
+Underwater Interior Effects
+EdgeAA
+deband_fogawarev3
+Underwater Effects
+Sunshafts
+Special Process
+Eye Adaptation (HDR)
+```
+- Click **Save** after setting up your shader chain.
+
+Includes install additional shaders for MGE XE.
+
+## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+
+### Installation instructions:
+- **Main files - Pixel Shader Style Water for MGE XE**
+
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+
 # Bug Fixes
 
 ## Creating a Separator in MO2
@@ -155,6 +201,20 @@ Fixes the issue of corpses respawning in dungeons on save load, and optionally a
 
 Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
 
+## [**Container Respawn Timescale GMST Tweak**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Container%20Respawn%20Timescale%20GMST%20Tweak.7z)
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Increases the duration it takes for containers to respawn from 3 days to 7 days.
+
+## [**QOL GMST Tweaks**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/QOL%20GMST%20Tweaks.7z)
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Increases the distance required for NPCs to greet you; reduces sneak height to make it more obvious to the player when they are sneaking.
+
 ## [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
 
 ### Installation instructions:
@@ -166,6 +226,7 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 
 ### Installation instructions:
 - **Main files - Sophisticated Save System v2.0**
+- Additionally install [**Sophisticated Save System MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Sophisticated%20Save%20System%20MWS%20Config.7z).
 
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
@@ -281,20 +342,6 @@ Adds shrines and Almsivi Intervention markers to temples that were missing them.
 
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
-## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-
-### Installation instructions:
-- **Main files - Marksman Rebalanced**
-
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
-
-## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
-
-Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
-
 ## [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
 
 ### Installation instructions:
@@ -310,12 +357,34 @@ Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thie
 
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
+
+### Installation instructions:
+- **Main files - Marksman Rebalanced**
+- Additionally install [**Marksman Rebalanced MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Marksman%20Rebalanced%20MWS%20Config.7z).
+
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
+
+## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
+
 ## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 
 ### Installation instructions:
 - **Main files - Useful Bound Armor**
 
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+## [**Wings of Will**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Wings%20of%20Will.7z)
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+ Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same. Includes fixes by **Necrolesian**.
 
 # User Interface
 
@@ -344,6 +413,7 @@ High resolution replacer for the Daedric font used in scrolls.
 
 ### Installation instructions:
 - **Main files - Improved Main Menu**
+- Additionally install [**Improved Main Menu MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Improved%20Main%20Menu%20MWS%20Config.7z).
 
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
@@ -351,6 +421,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.6.4**
+- Additionally install [**UI Expansion MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/UI%20Expansion%20MWS%20Config.7z).
 
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -421,6 +492,7 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ### Installation instructions:
 - **Main files - Quick Equip**
+- Additionally install [**Quick Equip MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Quick%20Equip%20MWS%20Config.7z).
 
 Adds a hotkey for equipping a selected inventory item.
 
@@ -435,6 +507,7 @@ Adds a hotkey for exiting any menu.
 
 ### Installation instructions:
 - **Main files - Security Enhanced**
+- Additionally install [**Security Enhanced MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Security%20Enhanced%20MWS%20Config.7z).
 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
@@ -489,6 +562,7 @@ Gives you the option of speeding through the character generation process, and o
 
 ### Installation instructions:
 - **Main files - Controlled Consumption**
+- Additionally install [**Controlled Consumption MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Controlled%20Consumption%20MWS%20Config.7z).
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -533,6 +607,7 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 - **Main files - Realistic Repair**
 - Once the mod has been installed, double-click on it in the left pane of MO2.
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
+- Additionally install [**Realistic Repair MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Realistic%20Repair%20MWS%20Config.7z).
 
 When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
 
@@ -572,6 +647,13 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - **Main files - Morrowind Anti-Cheese**
 
 Fixes the biggest exploits and balance issues in the game.
+
+## [**Gameplay GMST Tweaks**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Gameplay%20GMST%20Tweaks.7z)
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Reduces the value of self-made potions; removes disposition gain on succesful barter.
 
 ## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
 
@@ -727,13 +809,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 
 When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.
 
-## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
-
-### Installation instructions:
-- **Main files - Pixel Shader Style Water for MGE XE**
-
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
-
 ## [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
 
 ### Installation instructions:
@@ -772,6 +847,7 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 ### Installation instructions:
 - **Main files - LTBD**
+- Additionally install [**Let There Be Darkness MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Let%20There%20Be%20Darkness%20MWS%20Config.7z).
 
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
@@ -800,6 +876,7 @@ Removes the inexplicable glowing blue lights around waterfalls in Vivec and Mola
 
 ### Installation instructions:
 - **Main files - Weather Adjuster**
+- Additionally install [**Weather Adjuster MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Weather%20Adjuster%20MWS%20Config.7z).
 
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
@@ -911,17 +988,6 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 # Finishing Touches
 
-## Creating a Separator in MO2
-
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
-- Name the separator **Mod Configuration**.
-
-## [**Mod Configuration**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Mod%20Configuration.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
-- You will be prompted with a **FOMOD** installer, check the corresponding options based on the mods you have installed.
-
 ## [**Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Profile%20Files.7z)  
 
 ### Installation instructions:
@@ -959,31 +1025,6 @@ In this step we will regenerate Distant Land (generated during the **Setup** sec
 - Click **Continue**.
 - Click **Run above steps using saved / default settings**.
 - Click **Finish** when the process is over.
-
-## Shader Setup
-
-> ⚠️ It is encouraged to skip this section unless your computer has more than 2GB VRAM, otherwise expect less than 30fps outdoors. At 8GB VRAM, I can hit a consistent 60fps even in the most performance intensive areas of the game.
-
-In this step we will install additional shaders to **MGE XE** and configure our shader chain.
-
-- Download [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z).
-- Install the downloaded archive using manual install in MO2.
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
-- Run **MGE XE** in MO2.
-- In the **Graphics tab**, click **Enable shaders**.
-- Click **Shader setup...**.
-- On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
-```
-SSAO HQ
-Underwater Interior Effects
-EdgeAA
-deband_fogawarev3
-Underwater Effects
-Sunshafts
-Special Process
-Eye Adaptation (HDR)
-```
-- Click **Save** after setting up your shader chain.
 
 ## Updating MWSE
 
@@ -1039,11 +1080,18 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 ## October 13th, 2023
 
 ### General
+- Added MGE XE category. Moved a few mods here.
 - Added Tweaks category. Moved many mods here.
+- Removed GMST Menu, as I will add custom GMSTs as individual plugins.
+
+### Tweaks
+- Added Container Timescale Respawn GMST Tweak.
+- Added QOL GMST Tweaks.
+- Added Wings of Will.
 
 ## Gameplay
+- Added Gameplay GMST Tweaks.
 - Removed Pass the Time, nice but not needed.
-- Removed GMST Menu, as I will add custom GMSTs as individual plugins.
 
 ### Visuals
 - Removed Here Comes the Sun... Glare as the sun has looked just fine in MGE XE for quite a while already.
