@@ -30,101 +30,12 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
 
-## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
-
-### Installation instructions:
-- **Main files - Dubdilla Location Fix**
-
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
-
-## [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
-
-### Installation instructions:
-- **Main files - The Publicans**
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
-
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-## [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
-
-### Installation instructions:
-- **Main files - Cinia.zip**
-
-Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
-
-## [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
-
-### Installation instructions:
-- **Main files - Divayth Fyr Puzzle Fixed**
-- You will be prompted with a **FOMOD** installer:
-  - Select **Patch for Purists** for Base Files and click **Next**.
-  - Skip **Ownership Overhaul** Patch and click **Install**.
-
-Fixes the puzzle in the Corprusarium.
-
-## [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
-
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Includes typo fixes and punctuation tweaks by **spockthewok**.
-
-## [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
-
-### Installation instructions:
-- **Main files - Attribute Effect Tweaks**
-
-Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify Max**.
-
-## [**Fortify Max**](https://www.nexusmods.com/morrowind/mods/49825)  
-
-### Installation instructions:
-- **Main files - Fortify MAX**
-
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
-
 ## [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)  
 
 ### Installation instructions:
 - **Main files - Under Construction**
 
 Restores missing stages during the construction of Great House strongholds. Construction materials and scaffolding are now visible during construction of the later stages.
-
-## [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
-
-### Installation instructions:
-- **Main files - Improved Temple Experience**
-- You will be prompted with a **BAIN** installer, here select **Vanilla Ghostgate** and click **Ok**.
-
-Adds shrines and Almsivi Intervention markers to temples that were missing them.
-
-## [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
-
-### Installation instructions:
-- **Main files - All Reputation Fixes**
-
-Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
-
-## [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
-
-### Installation instructions:
-- **Main files - Calculated List Fix**
-
-Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
-
-## [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
-
-### Installation instructions:
-- **Main files - LDM - Context Matters**
-
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
-
-Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
 
 ## [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)  
 
@@ -133,13 +44,6 @@ Fixes Willpower not affecting your ability to resist magic, giving all in-game a
 - You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
 
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-
-## [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
-
-### Installation instructions:
-- **Main files - Creature VFX restoration**
-
-Restores visual effects on creatures that weren't displayed for technical reasons.
 
 ## [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)  
 
@@ -174,62 +78,12 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 
 > ⚠️ **Project Atlas**' meshes utilize their own textures. Any retexture of the vanilla textures will require a patch to convert them to Project Atlas-compatible texture sets. Mods installed in this guide are already compatible with **Project Atlas**, or have texture patches available which will be installed in due time.
 
-## [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
-
-### Installation instructions:
-- **Main files - ILFAS**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Smoke and Steam Emitters** and click **Ok**.
-
-Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
-
 ## [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)  
 
 ### Installation instructions:
 - **Main files - Consistent Enchanting v1.2**
 
 Carries over unique item information, such as condition and script data when enchanting items.
-
-## [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
-
-### Installation instructions:
-- **Main files - Diligent Defenders v1.2**
-
-When the player or the player's companions are attacked, any companions will launch into action in defense.
-
-## [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)  
-
-### Installation instructions:
-- **Main files - Easy Escort v1.3**
-
-Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-
-## [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
-
-### Installation instructions:
-- **Main files - Expeditious Exit v1.3.0**
-
-Forces the game to instantly close on exit.
-
-## [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
-
-### Installation instructions:
-- **Main files - Sophisticated Save System v2.0**
-
-Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
-
-## [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
-
-### Installation instructions:
-- **Main files - Sophisticated Save System v2.0**
-
-Avoids actors getting stuck while opening doors.
-
-## [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
-
-### Installation instructions:
-- **Main files - Just Drop It**
-
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
 ## [**MultiEnchant**](https://www.nexusmods.com/morrowind/mods/51022)  
 
@@ -251,6 +105,217 @@ Makes the game treat skill increases from quests as if there were raised via nor
 - **Main files - Skill Increase GMST Fix**
 
 Fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book. 
+
+## [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)  
+
+### Installation instructions:
+- **Main files - Sophisticated Save System v2.0**
+
+Avoids actors getting stuck while opening doors.
+
+## [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)  
+
+### Installation instructions:
+- **Main files - Expeditious Exit v1.3.0**
+
+Forces the game to instantly close on exit.
+
+# Tweaks
+
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Tweaks**.
+
+## [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161)  
+
+### Installation instructions:
+- **Main files - Attribute Effect Tweaks**
+
+Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify Max**.
+
+## [**Fortify Max**](https://www.nexusmods.com/morrowind/mods/49825)  
+
+### Installation instructions:
+- **Main files - Fortify MAX**
+
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
+
+### Installation instructions:
+- **Main files - Less Lame Leveled Spawns v1.0.0**
+
+Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
+
+## [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
+
+### Installation instructions:
+- **Main files - Calculated List Fix**
+
+Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
+
+## [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)  
+
+### Installation instructions:
+- **Main files - Just Drop It**
+
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+## [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)  
+
+### Installation instructions:
+- **Main files - Sophisticated Save System v2.0**
+
+Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
+
+## [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599)  
+
+### Installation instructions:
+- **Main files - Graphic Herbalism MWSE - OpenMW**
+- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**.
+- Additionally install the following files:
+  - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
+  - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
+
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
+
+### Patching Graphic Herbalism with Morrowind Optimization Patch:
+
+- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Lake Fjalding Anti-Suck** (required)
+   - [X] **Chuzei Fix** (required)
+   - [X] **Better Vanilla Textures** (required)
+   - [X] **Graphic Herbalism Patch** (required)
+- Click **Replace** when prompted.
+
+### Patching Graphic Herbalism with Project Atlas:
+
+- Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
+- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
+   - [X] **Core** (required)
+   - [X] **Textures - Vanilla** (required)
+   - [X] **Graphic Herbalism Patch** (required)
+- Click **Replace** when prompted.
+
+## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
+
+### Installation instructions:
+- **Main files - MWSE Hide the Skooma**
+
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
+
+## [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)  
+
+### Installation instructions:
+- **Main files - Diligent Defenders v1.2**
+
+When the player or the player's companions are attacked, any companions will launch into action in defense.
+
+## [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)  
+
+### Installation instructions:
+- **Main files - Easy Escort v1.3**
+
+Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
+
+## [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
+
+### Installation instructions:
+- **Main files - Kill Command**
+
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+## [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
+
+### Installation instructions:
+- **Main files - Cinia.zip**
+
+Restores Cinia Urtius, the forgotten master Medium Armor trainer, down at the Tel Fyr docks. She offers training and one-way travel to Sadrith Mora. 
+
+## [**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)  
+
+### Installation instructions:
+- **Main files - Dubdilla Location Fix**
+
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+
+## [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)  
+
+### Installation instructions:
+- **Main files - Divayth Fyr Puzzle Fixed**
+- You will be prompted with a **FOMOD** installer:
+  - Select **Patch for Purists** for Base Files and click **Next**.
+  - Skip **Ownership Overhaul** Patch and click **Install**.
+
+Fixes the puzzle in the Corprusarium.
+
+## [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
+
+### Installation instructions:
+- **Main files - Diseases Restored**
+
+Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+
+## [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Includes typo fixes and punctuation tweaks by **spockthewok**.
+
+## [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
+
+### Installation instructions:
+- **Main files - Improved Temple Experience**
+- You will be prompted with a **BAIN** installer, here select **Vanilla Ghostgate** and click **Ok**.
+
+Adds shrines and Almsivi Intervention markers to temples that were missing them.
+
+## [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)  
+
+### Installation instructions:
+- **Main files - LDM - Context Matters**
+
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
+
+### Installation instructions:
+- **Main files - Marksman Rebalanced**
+
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
+
+## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
+
+### Installation instructions:
+- Install the downloaded archive using manual install in MO2.
+
+Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
+
+## [**Reputation Fixes**](https://www.nexusmods.com/morrowind/mods/51096)  
+
+### Installation instructions:
+- **Main files - All Reputation Fixes**
+
+Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thieves' Guild quests.
+
+## [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)  
+
+### Installation instructions:
+- **Main files - The Publicans**
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
+
+Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
+
+## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+
+### Installation instructions:
+- **Main files - Useful Bound Armor**
+
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 # User Interface
 
@@ -282,12 +347,33 @@ High resolution replacer for the Daedric font used in scrolls.
 
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
+## [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
+
+### Installation instructions:
+- **Main files - UI Expansion v1.6.4**
+
+Expands UI functionality with searching, filtering, and more visual feedback.
+
+## [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
+
+### Installation instructions:
+- **Main files - Better Questlist**
+
+Allows highlighting and hiding quests in the Journal questlist.
+
 ## [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354)  
 
 ### Installation instructions:
 - **Main files - Accurate Tooltip Stats**
 
 Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings. 
+
+## [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
+
+### Installation instructions:
+- **Main files - Alchemical Knowledge**
+
+Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
 
 ## [**Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49853)  
 
@@ -310,34 +396,6 @@ Renames propylon indexes so they'll group together in the inventory.
 
 Renames soulgems so they'll group together in the inventory.
 
-## [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
-
-### Installation instructions:
-- **Main files - No Thank You**
-
-Adds a cancel button to Temple shrines and Imperial Cult altars.
-
-## [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
-
-### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
-
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. Includes fixes by **Necrolesian**.
-
-## [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
-
-### Installation instructions:
-- **Main files - UI Expansion v1.6.4**
-
-Expands UI functionality with searching, filtering, and more visual feedback.
-
-## [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)  
-
-### Installation instructions:
-- **Main files - Alchemical Knowledge**
-
-Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
-
 ## [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)  
 
 ### Installation instructions:
@@ -352,19 +410,12 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 
-## [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
+## [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
 
 ### Installation instructions:
-- **Main files - Better Questlist**
+- Install the downloaded archive using manual install in MO2.
 
-Allows highlighting and hiding quests in the Journal questlist.
-
-## [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
-
-### Installation instructions:
-- **Main files - Shrine Tooltips**
-
-Adds tooltips to shrines on hovering over the different options, describing the effects a blessing has.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character. Includes fixes by **Necrolesian**.
 
 ## [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 
@@ -402,6 +453,20 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
+## [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
+
+### Installation instructions:
+- **Main files - Shrine Tooltips**
+
+Adds tooltips to shrines on hovering over the different options, describing the effects a blessing has.
+
+## [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)  
+
+### Installation instructions:
+- **Main files - No Thank You**
+
+Adds a cancel button to Temple shrines and Imperial Cult altars.
+
 # Gameplay
 
 ## Creating a Separator in MO2
@@ -409,19 +474,25 @@ Adds a hotkey for equipping light sources, prioritizing already used lights.
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **Gameplay**.
 
-## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+## [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
 
 ### Installation instructions:
-- **Main files - Expansion Delay**
+- **Main files - Quick Char (Timescale6 Edit)**
+- Once the mod has been installed, double-click on it in the left pane of MO2.
+- In the **Filetree** tab, right-click Quick Char (Necro Timescale6 Edit).ESP and select **Hide**.
 
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
 
-## [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
+> ⚠️  This mod is not compatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
+
+## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
 
 ### Installation instructions:
-- **Main files - Diseases Restored**
+- **Main files - Controlled Consumption**
 
-Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
+Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
+
+> ℹ️ This is the first mod in the guide from a mod compilation page, remember to **Rename** each file to match what it actually is.
 
 ## [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)  
 
@@ -429,44 +500,6 @@ Restores diseases by assigning them to existing creatures and fixes some other (
 - **Main files - DungeonsRest**
 
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-## [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599)  
-
-### Installation instructions:
-- **Main files - Graphic Herbalism MWSE - OpenMW**
-- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**.
-- Additionally install the following files:
-  - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
-  - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
-
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
-
-### Patching Graphic Herbalism with Morrowind Optimization Patch:
-
-- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Chuzei Fix** (required)
-   - [X] **Better Vanilla Textures** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
-
-### Patching Graphic Herbalism with Project Atlas:
-
-- Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Textures - Vanilla** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
-
-## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
-
-### Installation instructions:
-- **Main files - Less Lame Leveled Spawns v1.0.0**
-
-Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
 
 ## [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)  
 
@@ -493,27 +526,6 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla detectio
 - **Main files - Realistic Movement Speeds**
 
 Modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
-
-## [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)  
-
-### Installation instructions:
-- **Main files - GMST Menu**
-
-In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings. Required for the configuration preset we will install later.
-
-## [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
-
-### Installation instructions:
-- **Main files - Kill Command**
-
-Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
-
-## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-
-### Installation instructions:
-- **Main files - Marksman Rebalanced**
-
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
 ## [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)  
 
@@ -545,54 +557,6 @@ Adds a custom real-time menu to pickpocketing and restores a formerly-useless me
 
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-## [**Quick Char (Necro Edit)**](https://www.nexusmods.com/morrowind/mods/47706)  
-
-### Installation instructions:
-- **Main files - Quick Char (Timescale6 Edit)**
-- Once the mod has been installed, double-click on it in the left pane of MO2.
-- In the **Filetree** tab, right-click Quick Char (Necro Timescale6 Edit).ESP and select **Hide**.
-
-Gives you the option of speeding through the character generation process, and optionally slows down the flow of time in-game.
-
-> ⚠️  This mod is not compatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
-
-## [**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217)  
-
-### Installation instructions:
-- **Main files - Pass the Time**
-
-Adds configurable hotkeys to speed up time, a more natural way to wait than the vanilla wait menu. Also allows you to configure the game's timescale.
-
-## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
-
-### Installation instructions:
-- **Main files - MWSE Hide the Skooma**
-
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-
-## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-
-### Installation instructions:
-- **Main files - Useful Bound Armor**
-
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
-# Overhauls
-
-## Creating a Separator in MO2
-
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
-- Name the separator **Overhauls**.
-
-## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
-
-### Installation instructions:
-- **Main files - Controlled Consumption**
-
-Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
-
-> ℹ️ This is the first mod in the guide from a mod compilation page, remember to **Rename** each file to match what it actually is.
-
 ## [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)  
 
 ### Installation instructions:
@@ -608,6 +572,13 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - **Main files - Morrowind Anti-Cheese**
 
 Fixes the biggest exploits and balance issues in the game.
+
+## [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
+
+### Installation instructions:
+- **Main files - Expansion Delay**
+
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
 
 ## [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036)  
 
@@ -654,35 +625,6 @@ High resolution replacer for the title screen and intro video.
 
 High resolution replacer for the splash loading screens.
 
-## [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
-
-### Installation instructions:
-- **Optional files - Pete's Journal and Scroll**
-- You will be prompted with a **BAIN** installer, here select **Journal and Scroll - 2K** and click **Ok**.
-
-High resolution replacer for the scroll and journal textures.
-
-## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
-
-### Installation instructions:
-- **Main files - Pixel Shader Style Water for MGE XE**
-
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
-
-## [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
-
-### Installation instructions:
-- **Main files - Familiar Faces**
-
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game. Also fixes distortion and clipping issues with body meshes.
-
-## [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-
-### Installation instructions:
-- **Main files - kart_facelift_meshes**
-
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall. Even more vanilla-friendlier than Familiar Faces, but does not cover body, hair, and Khajiit meshes.
-
 ## [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 
 ### Installation instructions:
@@ -710,6 +652,66 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
 - Click **Replace** when prompted.
 
+## [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
+
+### Installation instructions:
+- **Main files - Familiar Faces**
+
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game. Also fixes distortion and clipping issues with body meshes.
+
+## [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
+
+### Installation instructions:
+- **Main files - kart_facelift_meshes**
+
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall. Even more vanilla-friendlier than Familiar Faces, but does not cover body, hair, and Khajiit meshes.
+
+## [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
+
+### Installation instructions:
+- **Main files - Near Vanilla Road Sign Replacer**
+- You will be prompted with a **BAIN** installer, here select **Meshes**, **Textures - High Resolution**, **ESP - Vvardenfell only** and click **Ok**.
+
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+
+## [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
+
+### Installation instructions:
+- **Main files - Creature VFX restoration**
+
+Restores visual effects on creatures that weren't displayed for technical reasons.
+
+## [**Remiros' Minor Retextures**](https://www.nexusmods.com/morrowind/mods/44322)  
+
+### Installation instructions:
+- **Main files - Mist Retexture**
+- Install the downloaded archive using manual install in MO2.
+
+Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
+
+## [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
+
+### Installation instructions:
+- **Main files - Subtle Smoke Main File**
+
+Makes it so many smoke effects are much more laid back and easier on the eyes.
+
+## [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
+
+### Installation instructions:
+- **Main files - Subtle Magic Glow**
+- You will be prompted with a **BAIN** installer, here select **fade** and click **Ok**.
+
+Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
+
+## [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
+
+### Installation instructions:
+- **Main files - I Lava Good Mesh Replacer**
+- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
+
+Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+
 ## [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)  
 
 ### Installation instructions:
@@ -717,6 +719,32 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 - You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
+
+## [**Wonders of Water**](https://www.nexusmods.com/morrowind/mods/52815)  
+
+### Installation instructions:
+- **Main files - Wonders of Water v1.0**
+
+When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.
+
+## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
+
+### Installation instructions:
+- **Main files - Pixel Shader Style Water for MGE XE**
+
+A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+
+## [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
+
+### Installation instructions:
+- **Main files - Remiros' Groundcover**
+- You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**.
+- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation.
+- We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section.
+
+Adds groundcover to almost all regions.
+
+> ⚠️ It is encouraged to skip this mod if your computer has less than 1GB VRAM, otherwise expect a framerate drop outdoors.
 
 ## [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)  
 
@@ -732,56 +760,13 @@ Makes vanilla windows glow in the dark.
 
 > ℹ️ At the time of writing, Project Atlas' patch for Glow in the Dahrk is outdated, leading to missing features from Glow in the Dahrk and a bug with a missing Velothi atlas texture, hence why we are not installing the patch.
 
-## [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)  
+## [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 
 ### Installation instructions:
-- **Main files - I Lava Good Mesh Replacer**
-- You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
+- **Main files - ILFAS**
+- You will be prompted with a **BAIN** installer, here select **Core**, **Smoke and Steam Emitters** and click **Ok**.
 
-Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-
-## [**Remiros' Minor Retextures**](https://www.nexusmods.com/morrowind/mods/44322)  
-
-### Installation instructions:
-- **Main files - Mist Retexture**
-- Install the downloaded archive using manual install in MO2.
-
-Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
-
-## [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)  
-
-### Installation instructions:
-- **Main files - Remiros' Groundcover**
-- You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**.
-- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation.
-- We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section.
-
-Adds groundcover to almost all regions.
-
-> ⚠️ It is encouraged to skip this mod if your computer has less than 1GB VRAM, otherwise expect a framerate drop outdoors.
-
-## [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
-
-### Installation instructions:
-- **Main files - Near Vanilla Road Sign Replacer**
-- You will be prompted with a **BAIN** installer, here select **Meshes**, **Textures - High Resolution**, **ESP - Vvardenfell only** and click **Ok**.
-
-Makes road signs legible. Uses high resolution vanilla-friendly textures.
-
-## [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)  
-
-### Installation instructions:
-- **Main files - Subtle Magic Glow**
-- You will be prompted with a **BAIN** installer, here select **fade** and click **Ok**.
-
-Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with a non-moving effect that fades in and out.
-
-## [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
-
-### Installation instructions:
-- **Main files - Subtle Smoke Main File**
-
-Makes it so many smoke effects are much more laid back and easier on the eyes.
+Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
 
 ## [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912)  
 
@@ -832,13 +817,6 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 - **Main files - Window to Aetherius**
 
 Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
-
-## [**Wonders of Water**](https://www.nexusmods.com/morrowind/mods/52815)  
-
-### Installation instructions:
-- **Main files - Wonders of Water v1.0**
-
-When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.
 
 ## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
 
@@ -1045,7 +1023,6 @@ L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
 C | Equips light sources | Torch Hotkey
 K | Sends companions to attack target | Kill Command
-Y | Fast-forward time | Pass the Time
 Alt+Left Click | Equips/unequips item in inventory | Quick Equip
 Alt+Left Click | Use potion/ingredient in inventory | Quick Equip
 Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
@@ -1053,7 +1030,6 @@ Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
 Alt+Left Click | Transfer entire stack | Morrowind Code Patch
 Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
 Alt + F4 | Creates a permanent save | Sophisticated Save System
-Ctrl + Y | Turbo fast-forward time | Pass the Time
 V | Opens shader controller | MGE XE Shader Pack
 Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
@@ -1062,8 +1038,16 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 ## October 13th, 2023
 
+### General
+- Added Tweaks category. Moved many mods here.
+
+## Gameplay
+- Removed Pass the Time, nice but not needed.
+- Removed GMST Menu, as I will add custom GMSTs as individual plugins.
+
 ### Visuals
 - Removed Here Comes the Sun... Glare as the sun has looked just fine in MGE XE for quite a while already.
+- Removed Pete's Scroll 2018 ...in 2020 because there are plenty of alternatives for players to choose their favorite.
 
 ## October 11th, 2023
 
