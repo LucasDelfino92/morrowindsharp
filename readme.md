@@ -31,6 +31,6 @@ Monitor | Samsung 24" 1080p @ 60Hz
 RAM | 16GB DDR4
 SSD | 1TB NVMe
 
-Roughly 9GB of space are required to install this modlist. Should you skip Morrowind Enhanced Textures and AURA, space needed will dramatically drop in size.
+Roughly 11GB of space are required to install this modlist. Should you skip Morrowind Enhanced Textures and AURA, space needed will dramatically drop in size.
 
 ## [Setup >>](setup.md)  
