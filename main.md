@@ -313,19 +313,14 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 Fixes the puzzle in the Corprusarium.
 
-## [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228)  
+> ℹ️ While **Ownership Overhaul** is included in the guide, **Divayth Fyr Puzzle Fixed** overwrites a questionable change that caused Divayth Fyr to go hostile on the player if they engaged on the treasure hunt sidequest. For this reason, we will skip installing this patch.
 
-### Installation instructions:
-- **Main files - Diseases Restored**
-
-Restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.
-
-## [**Great Service**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Great%20Service.7z)  
+## [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?)  
 
 ### Installation instructions:
 - Install the downloaded archive using manual install in MO2.
 
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Includes typo fixes and punctuation tweaks by **spockthewok**.
+Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Also includes new AI-voiced lines for races not covered.
 
 ## [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373)  
 
@@ -707,6 +702,13 @@ High resolution replacer for the title screen and intro video.
 
 High resolution replacer for the splash loading screens.
 
+## [**Animation Blending**](https://www.nexusmods.com/morrowind/mods/53779)  
+
+### Installation instructions:
+- **Main files - Animation Blending**
+
+Adds animation blending to Morrowind, enabling smooth transitions between animations.
+
 ## [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 
 ### Installation instructions:
@@ -802,6 +804,13 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 
+## [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271?)  
+
+### Installation instructions:
+- **Main files - Waterfalls Tweaks**
+
+Resizes waterfall splashes to reduce clipping and removes unnatural lights from waterfalls in interiors.
+
 ## [**Wonders of Water**](https://www.nexusmods.com/morrowind/mods/52815)  
 
 ### Installation instructions:
@@ -864,13 +873,6 @@ Configurable mod for automatical adjustment of lighting, including override valu
 - **Main files - Transporter Lights**
 
 Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
-
-## [**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437)  
-
-### Installation instructions:
-- **Main files - Waterfall Lights Remover**
-
-Removes the inexplicable glowing blue lights around waterfalls in Vivec and Molag Mar.
 
 ## [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)  
 
@@ -1076,6 +1078,23 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## February 19th, 2024
+
+### Tweaks
+
+- Great Service now links to the updated Nexus release. Note that this release doesn't include the typo fixes by spockthewok.
+- Removed Diseased Restored.
+
+### Gameplay
+
+- Marksman Rebalanced MWSE Config now includes the entire json file.
+
+### Visuals
+
+- Added Animation Blending.
+- Added Waterfalls Tweaks.
+- Removed Waterfall Lights Removed (replaced with Waterfalls Tweaks).
 
 ## October 13th, 2023
 
