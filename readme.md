@@ -2,7 +2,7 @@
 
 ![Banner](pictures/banner.jpg)
 
-*Last updated: October 13th, 2023*.
+*Last updated: February 19th, 2024*.
 
 ## About
 
