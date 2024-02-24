@@ -279,6 +279,13 @@ When the player or the player's companions are attacked, any companions will lau
 
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
+## [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929?)  
+
+### Installation instructions:
+- **Main files - Better Buoyancy**
+
+Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards. 
+
 ## [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)  
 
 ### Installation instructions:
@@ -386,12 +393,12 @@ Levitation speed is now based on Willpower attribute instead of Speed. Calculati
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **User Interface**.
 
-## [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873)  
+## [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
 
 ### Installation instructions:
-- **Main files - Better Dialogue Font**
+- **Main files - Beauty Font.7z**
 
-High resolution replacer for the Magic Cards font, used in most of the user interface.
+High resolution replacer for the Magic Cards font, used in most of the user interface. Particularly easy on the eyes.
 
 ## [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)  
 
@@ -416,6 +423,13 @@ High resolution replacer for the title screen and intro video.
 
 High resolution replacer for the splash loading screens.
 
+## [**Oblivion Crosshair**](https://www.nexusmods.com/morrowind/mods/45662)  
+
+### Installation instructions:
+- **Main files - Oblivion Crosshair**
+
+Replaces the vanilla crosshair with one better fitting an RPG.
+
 ## [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 
 ### Installation instructions:
@@ -428,8 +442,38 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.6.4**
+- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Expands UI functionality with searching, filtering, and more visual feedback.
+
+## [**Been There Done That**](https://www.nexusmods.com/morrowind/mods/52807)  
+
+### Installation instructions:
+- **Main files - Been There Done That**
+
+Shows you which dungeons have been cleared in the tooltip and map menu.
+
+## [**Map Icons - MWSE**](https://www.nexusmods.com/morrowind/mods/53966)  
+
+### Installation instructions:
+- **Main files - Map Icons**
+
+Dynamically changes the local map markers to make them more helpful.
+
+## [**QuickKeys Hotbar - MWSE**](https://www.nexusmods.com/morrowind/mods/51192)  
+
+### Installation instructions:
+- **Update files - QuickKey HotBar - MWSE**
+- [**QuickKeys Hotbar Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+
+Adds a hotbar to the game with all your hotkeys displayed.
+
+## [**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/52776)  
+
+### Installation instructions:
+- **Main files - Tidy Charsheet**
+
+Convenient placement of birthsign, bounty, and factions.
 
 ## [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)  
 
@@ -451,6 +495,13 @@ Implements more accurate, context-dependent tooltip displays for weapon damage a
 - **Main files - Alchemical Knowledge**
 
 Fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
+
+## [**Left Gloves User Interface**](https://www.nexusmods.com/morrowind/mods/52706)  
+
+### Installation instructions:
+- **Main files - Left Gloves User Interface**
+
+Automatically mirrors the inventory icons of left gloves, pauldrons, etc.
 
 ## [**Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49853)  
 
@@ -541,6 +592,20 @@ Gives you the option of speeding through the character generation process, and o
 
 > ⚠️  This mod is not compatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
 
+## [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971?)  
+
+### Installation instructions:
+- **Main files - Borrowed Time**
+
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point. 
+
+## [**Magnitude of a Cure**](https://www.nexusmods.com/morrowind/mods/52419)  
+
+### Installation instructions:
+- **Main files - Magnitude of a Cure**
+
+Adds magnitude to cure effects, making them work similarly to dispel and improve the way alchemy game formulas treat such effects.
+
 ## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/54200)  
 
 ### Installation instructions:
@@ -617,6 +682,20 @@ When an NPC dies, all their equipped gear is damaged. Optionally makes it so tha
 - **Main files - Useful Bound Armor**
 
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+## [**Animated Arrow Denocker**](https://www.nexusmods.com/morrowind/mods/52418)  
+
+### Installation instructions:
+- **Main files - Animated Arrow Denocker**
+
+Reimplements the MCP arrow denocking feature, with full animation and new input options.
+
+## [**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473)  
+
+### Installation instructions:
+- **Main files - Realistic Archery**
+
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range. 
 
 ## [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 
@@ -748,12 +827,33 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
+## [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678?)  
+
+### Installation instructions:
+- **Main files - Know Thy Ancestors**
+
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs. 
+
+## [**Immersive Grotto Entrances**](https://www.nexusmods.com/morrowind/mods/54014?)  
+
+### Installation instructions:
+- **Main files - Immersive Grotto Entrances - Vanilla Version**
+
+A replacement of doors with natural passages to serve as entrances and exits for grottos.
+
 ## [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)  
 
 ### Installation instructions:
 - **Main files - Creature VFX restoration**
 
 Restores visual effects on creatures that weren't displayed for technical reasons.
+
+## [**Flies - MWSE**](https://www.nexusmods.com/morrowind/mods/53927)  
+
+### Installation instructions:
+- **Main files - Flies**
+
+Adds a visual effect to all vanilla flies sound emitters. Does the same thing for NPCs and creatures killed by the Player. Flies will appear above the corpse after ~24h and stay there until the corpse disappear.
 
 ## [**Remiros' Minor Retextures**](https://www.nexusmods.com/morrowind/mods/44322)  
 
@@ -835,6 +935,16 @@ Adds groundcover to almost all regions.
 Makes vanilla windows glow in the dark.
 
 > ℹ️ At the time of writing, Project Atlas' patch for Glow in the Dahrk is outdated, leading to missing features from Glow in the Dahrk and a bug with a missing Velothi atlas texture, hence why we are not installing the patch.
+
+## [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087?)  
+
+### Installation instructions:
+- **Main files - Nords shut your windows**
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **00 Core**
+  - [X] **05 Purist Sunrays**
+
+Nord windows have a wooden shutter, open in the day and closed at night. 
 
 ## [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463?)  
 
@@ -1076,6 +1186,23 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 - Almost every GitHub linked download is now linked to a Nexus page.
 - Adjusted instructions for multiple mods. Many had outdated instructions, and certain mods are unavailable for download altogether.
+- Added Better Readable Beauty Font.
+- Added Oblivion Crosshair.
+- Added Better Buoyancy.
+- Added Borrowed Time.
+- Added Magnitude of a Cure.
+- Added Left Gloves User Interface.
+- Added Tidy Charsheet.
+- Added Map Icons - MWSE.
+- Added QuickKeys Hotbar - MWSE.
+- Added Been There Done That.
+- Added Animated Arrow Denocker.
+- Added Realistic Archery.
+- Added Immersive Grotto Entrances.
+- Added Nords Shut Your Windows.
+- Added Flies - MWSE.
+- Removed Better Dialogue Font.
+- Removed Marksman Rebalanced.
 
 ## February 19th, 2024
 
