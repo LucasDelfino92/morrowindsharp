@@ -564,11 +564,11 @@ Gives you the option of speeding through the character generation process, and o
 
 > ⚠️  This mod is not compatible with Unofficial Morrowind Official Plugins Merged, but it is listed here for those who don't use UMOPP.
 
-## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/49232)  
+## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/54200)  
 
 ### Installation instructions:
 - **Main files - Controlled Consumption**
-- [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- **Main files - Controlled Consumption Config**
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -655,7 +655,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **Overhauls**.
 
-## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
+## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/54200)  
 
 ### Installation instructions:
 - **Main files - Morrowind Anti-Cheese**
