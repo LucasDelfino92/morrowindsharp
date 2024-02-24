@@ -950,8 +950,10 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 ## [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)  
 
 ### Installation instructions:
-- **Main files - AURA 5.4.0**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Replacer** and click **Ok**.
+- **Main files - AURA 5.4.1**
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **00 Core**
+  - [X] **01 Replacer**
 
 Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
 
@@ -979,12 +981,12 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 # Finishing Touches
 
-## [**Profile Files**](https://www.nexusmods.com/morrowind/mods/54200/?)  
+## [**Load Order**](https://www.nexusmods.com/morrowind/mods/54200/?)  
 
 ### Installation instructions:
-- Download **Profile Files** (Optional files - Manual Download).
+- Download **Load Order** (Optional files - Manual Download).
 - Once it has finished downloading, click the folders button at the top of MO2 and select **Open Profile folder**.
-- Extract the files from the downloaded archive to the folder you opened and overwrite when prompted.
+- Extract the file from the downloaded archive to the folder you opened and overwrite when prompted.
 - Once the file is extracted, click **F5** while you are on MO2 without any menu open.
 - Right-click in the right pane of MO2 and select **Enable all**.
 - Disable the plugins from **Remiros' Groundcover** (those starting with Rem_).
@@ -1073,6 +1075,7 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 ### General
 
 - Almost every GitHub linked download is now linked to a Nexus page.
+- Adjusted instructions for multiple mods. Many had outdated instructions, and certain mods are unavailable for download altogether.
 
 ## February 19th, 2024
 
