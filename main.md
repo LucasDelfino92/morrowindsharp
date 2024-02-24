@@ -635,21 +635,12 @@ A lua-based framework for creating new, fully functional magic effects. Required
 
 ### Installation instructions:
 - **Main files - Enhanced Detection**
-- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+- You will be prompted with a **BAIN** installer, here select only the following option and click **Ok**:
   - [X] **Core**
-  - [X] **Cast VFX**
 - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
 - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
 
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects. The additional file reduces the amount of new Detection spells added by the mod.
-
-## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-
-### Installation instructions:
-- **Main files - Marksman Rebalanced**
-- [**Marksman Rebalanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
-
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
 ## [**Putting Power in Willpower 2**](https://www.nexusmods.com/morrowind/mods/45742?)  
 
