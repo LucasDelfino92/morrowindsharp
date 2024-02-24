@@ -1067,13 +1067,6 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 
 Sounds overhaul, with ambient sounds, interior weather, extended voices, and more. Fully customizable.
 
-## [**Quieter Spell Sound Effects**](https://www.nexusmods.com/morrowind/mods/51790)  
-
-### Installation instructions:
-- **Main files - Quieter Spells**
-
-Reduces the volume of vanilla spell soundfiles, to account for AURA depending on Master and Effects SFX being at 100%.
-
 ## [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)  
 
 ### Installation instructions:
@@ -1215,6 +1208,10 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 - Added Immersive Grotto Entrances.
 - Added Nords Shut Your Windows.
 - Added Flies - MWSE.
+
+### Audio
+
+- Removed Quieter Spell Sound Effects.
 
 ## February 19th, 2024
 
