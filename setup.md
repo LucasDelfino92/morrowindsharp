@@ -177,7 +177,7 @@ In this step, we will install and configure Mod Organizer 2.
 ## Installing Mod Organizer 2
 
 - Download the **Mod Organizer 2** main file from [**here**](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE).
-- Once the download has finished, extract the archive and put the folder in any location outside of any default Window folders (like Program Files x86) and outside of the game's **Root** folder (if you are not sure, you can put it in a modding folder on your C drive).
+- Once the download has finished, extract the archive and put the folder in any location outside of any default Window folders (like Program Files x86) and outside of the game's **Root** folder, e.g.  **Games\Morrowind Modding\MO2**
 
 ## Configuring Mod Organizer 2
 
