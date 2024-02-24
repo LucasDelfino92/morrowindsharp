@@ -372,29 +372,6 @@ Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thie
 
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
-
-### Installation instructions:
-- **Main files - Marksman Rebalanced**
-- [**Marksman Rebalanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
-
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
-
-## [**Putting Power in Willpower 2**](https://www.nexusmods.com/morrowind/mods/45742?)  
-
-### Installation instructions:
-- **Main files - Putting Power in Willpower 2**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
-
-Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
-
-## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
-
-### Installation instructions:
-- **Main files - Useful Bound Armor**
-
-Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
-
 ## [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
@@ -601,6 +578,22 @@ A lua-based framework for creating new, fully functional magic effects. Required
 
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects. The additional file reduces the amount of new Detection spells added by the mod.
 
+## [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)  
+
+### Installation instructions:
+- **Main files - Marksman Rebalanced**
+- [**Marksman Rebalanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+
+Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
+
+## [**Putting Power in Willpower 2**](https://www.nexusmods.com/morrowind/mods/45742?)  
+
+### Installation instructions:
+- **Main files - Putting Power in Willpower 2**
+- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
+
+Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+
 ## [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)  
 
 ### Installation instructions:
@@ -617,6 +610,13 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
 
 When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
+
+## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
+
+### Installation instructions:
+- **Main files - Useful Bound Armor**
+
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
 ## [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)  
 
