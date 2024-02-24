@@ -7,10 +7,10 @@
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **MGE XE**.
 
-## [**MWSE MWS Mod Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MWSE%20MWS%20Config.7z)
+## [**MWSE Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - MWSE Config**
 
 Enables letterboxing for in-game cinematics.
 
@@ -201,17 +201,17 @@ Fixes the issue of corpses respawning in dungeons on save load, and optionally a
 
 Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
 
-## [**Container Respawn Timescale GMST Tweak**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Container%20Respawn%20Timescale%20GMST%20Tweak.7z)
+## [**Container Respawn Timescale GMST Tweak**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Container Respawn Timescale GMST Tweak**
 
 Increases the duration it takes for containers to respawn from 3 days to 7 days.
 
-## [**QOL GMST Tweaks**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/QOL%20GMST%20Tweaks.7z)
+## [**QOL GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - QOL GMST Tweaks**
 
 Increases the distance required for NPCs to greet you; reduces sneak height to make it more obvious to the player when they are sneaking.
 
@@ -226,7 +226,6 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 
 ### Installation instructions:
 - **Main files - Sophisticated Save System v2.0**
-- Additionally install [**Sophisticated Save System MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Sophisticated%20Save%20System%20MWS%20Config.7z).
 
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
@@ -235,9 +234,8 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 ### Installation instructions:
 - **Main files - Graphic Herbalism MWSE - OpenMW**
 - You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**.
-- Additionally install the following files:
-  - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
-  - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
+- [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
+- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
 
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
 
@@ -318,7 +316,7 @@ Fixes the puzzle in the Corprusarium.
 ## [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Great Service**
 
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used. Also includes new AI-voiced lines for races not covered.
 
@@ -356,16 +354,16 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 
 ### Installation instructions:
 - **Main files - Marksman Rebalanced**
-- Additionally install [**Marksman Rebalanced MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Marksman%20Rebalanced%20MWS%20Config.7z).
+- [**Marksman Rebalanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance. 
 
-## [**Putting Power in Willpower**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Putting%20Power%20in%20Willpower.7z)  
+## [**Putting Power in Willpower 2**](https://www.nexusmods.com/morrowind/mods/45742?)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Putting Power in Willpower 2**
 
-Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will. Includes fixes by **Necrolesian**.
+Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
 ## [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)  
 
@@ -374,12 +372,12 @@ Fixes Willpower not affecting your ability to resist magic, giving all in-game a
 
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-## [**Wings of Will**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Wings%20of%20Will.7z)
+## [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Wings of Will**
 
- Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same. Includes fixes by **Necrolesian**.
+Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same. Includes underwater speed fix by **Necrolesian**.
 
 # User Interface
 
@@ -404,11 +402,25 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 High resolution replacer for the Daedric font used in scrolls. 
 
+## [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
+
+### Installation instructions:
+- **Main files - Title Screen Reworked (Widescreen).**
+
+High resolution replacer for the title screen and intro video.
+
+## [**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
+
+### Installation instructions:
+- **Main files - NZdawghaus' Widescreen Splash Replacer**
+
+High resolution replacer for the splash loading screens.
+
 ## [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)  
 
 ### Installation instructions:
 - **Main files - Improved Main Menu**
-- Additionally install [**Improved Main Menu MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Improved%20Main%20Menu%20MWS%20Config.7z).
+- [**Improved Main Menu Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
@@ -416,7 +428,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.6.4**
-- Additionally install [**UI Expansion MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/UI%20Expansion%20MWS%20Config.7z).
+- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
 
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -476,18 +488,18 @@ Adds a bar to the UI that shows the currently equipped weapon's charge under the
 
 Adds bars to the UI that displays your companions and summoned creatures' health, magicka, and fatigue, as well as their currently equipped weapon.
 
-## [**What Are My Attributes**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/What%20Are%20My%20Attributes.7z)  
+## [**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912?)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - WAMA**
 
-Adds an Attribute and Description widget to the Race menu so you can better plan your character. Includes fixes by **Necrolesian**.
+Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 ## [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)  
 
 ### Installation instructions:
 - **Main files - Quick Equip**
-- Additionally install [**Quick Equip MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Quick%20Equip%20MWS%20Config.7z).
+- [**Quick Equip Config**]().
 
 Adds a hotkey for equipping a selected inventory item.
 
@@ -502,7 +514,7 @@ Adds a hotkey for exiting any menu.
 
 ### Installation instructions:
 - **Main files - Security Enhanced**
-- Additionally install [**Security Enhanced MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Security%20Enhanced%20MWS%20Config.7z).
+- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
@@ -557,7 +569,7 @@ Gives you the option of speeding through the character generation process, and o
 
 ### Installation instructions:
 - **Main files - Controlled Consumption**
-- Additionally install [**Controlled Consumption MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Controlled%20Consumption%20MWS%20Config.7z).
+- [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -583,9 +595,8 @@ A lua-based framework for creating new, fully functional magic effects. Required
 ### Installation instructions:
 - **Main files - Enhanced Detection**
 - You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**.
-- Additionally install the following files:
-  - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
-  - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
+- [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
+- You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
 
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects. The additional file reduces the amount of new Detection spells added by the mod.
 
@@ -600,9 +611,9 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 
 ### Installation instructions:
 - **Main files - Realistic Repair**
+- [**Realistic Repair Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 - Once the mod has been installed, double-click on it in the left pane of MO2.
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
-- Additionally install [**Realistic Repair MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Realistic%20Repair%20MWS%20Config.7z).
 
 When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
 
@@ -643,10 +654,10 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 Fixes the biggest exploits and balance issues in the game.
 
-## [**Gameplay GMST Tweaks**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Gameplay%20GMST%20Tweaks.7z)
+## [**Gameplay GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Gameplay GMST Tweaks**
 
 Reduces the value of self-made potions; removes disposition gain on succesful barter.
 
@@ -668,11 +679,9 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 ### Installation instructions:
 - **Main files - Tribunal Rebalance**
-- Additionally install the following files:
-  - [**Gedna Script Fix and Goblin Potion Rebalance**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Tribunal%20Rebalance%20Gedna%20Script%20Fix%20and%20Goblin%20Potion%20Rebalance.7z)
-  - Install the downloaded archive using manual install in MO2.
+- [**Gedna Script Fix and Goblin Potion Rebalance**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
-Rebalances Tribunal as if it shipped with Morrowind. The additional file fixes a bug regarding the stat calculation of Gedna and reduces the quality of potions carried by goblins, as they are much weaker enemies now.
+Rebalances Tribunal as if it shipped with Morrowind.
 
 ## [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)  
 
@@ -687,20 +696,6 @@ Rebalances Bloodmoon as if it shipped with Morrowind.
 
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **Visuals**.
-
-## [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)  
-
-### Installation instructions:
-- **Main files - Title Screen Reworked (Widescreen).**
-
-High resolution replacer for the title screen and intro video.
-
-## [**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
-
-### Installation instructions:
-- **Main files - NZdawghaus' Widescreen Splash Replacer**
-
-High resolution replacer for the splash loading screens.
 
 ## [**Animation Blending**](https://www.nexusmods.com/morrowind/mods/53779)  
 
@@ -856,7 +851,7 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 ### Installation instructions:
 - **Main files - LTBD**
-- Additionally install [**Let There Be Darkness MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Let%20There%20Be%20Darkness%20MWS%20Config.7z).
+- [**Let There Be Darkness Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
@@ -878,7 +873,7 @@ Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
 
 ### Installation instructions:
 - **Main files - Weather Adjuster**
-- Additionally install [**Weather Adjuster MWS Config**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Weather%20Adjuster%20MWS%20Config.7z).
+- [**Weather Adjuster Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
@@ -897,10 +892,10 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 
 Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
 
-## [**Complete Armor Joints**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Complete%20Armor%20Joints.7z)  
+## [**Complete Armor Joints**](https://www.nexusmods.com/morrowind/mods/54200/?)  
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- **Main files - Complete Armor Joints**
 
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
@@ -931,9 +926,8 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 ### Installation instructions:
 - **Main files - WeaponSheathing1.6-MWSE**
 - You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
-- Additionally install the following files:
-  - [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
-  - [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
+- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
+- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets. The additional files improve the position of sheathed bows, and increase the amount of weapons covered by the mod.
 
@@ -975,11 +969,9 @@ Reduces the volume of vanilla spell soundfiles, to account for AURA depending on
 
 ### Installation instructions:
 - **Main files - CSO**
-- Additionally install the following files:
-  - [**Character Sound Overhaul - Project Atlas Patch**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Character%20Sound%20Overhaul%20Project%20Atlas%20Patch.7z)
-  - Install the downloaded archive using manual install in MO2.
+- [**Character Sound Overhaul - Project Atlas Patch**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
-Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable. The additional file ensures the meshes used by Project Atlas have footstep sounds assigned to them.
+Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
 
 ## [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)  
 
@@ -990,10 +982,10 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 # Finishing Touches
 
-## [**Profile Files**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/Profile%20Files.7z)  
+## [**Profile Files**](https://www.nexusmods.com/morrowind/mods/54200/?)  
 
 ### Installation instructions:
-- Download the file.
+- Download **Profile Files** (Optional files - Manual Download).
 - Once it has finished downloading, click the folders button at the top of MO2 and select **Open Profile folder**.
 - Extract the files from the downloaded archive to the folder you opened and overwrite when prompted.
 - Once the file is extracted, click **F5** while you are on MO2 without any menu open.
@@ -1078,6 +1070,12 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## February 24th, 2024
+
+### General
+
+- Almost every GitHub linked download is now linked to a Nexus page.
 
 ## February 19th, 2024
 
