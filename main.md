@@ -14,6 +14,10 @@
 
 Enables letterboxing for in-game cinematics.
 
+> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
+
+> ℹ️ This is the first mod we will install from the **Morrowind Sharp Resources** mod page. Remember to rename it to its respective filename.
+
 ## [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/MGE%20XE%20Shader%20Pack.7z)
 
 > ⚠️ It is encouraged to skip this section unless your computer has more than 2GB VRAM, otherwise expect less than 30fps outdoors. At 8GB VRAM, I can hit a consistent 60fps even in the most performance intensive areas of the game.
@@ -41,8 +45,6 @@ Includes install additional shaders for MGE XE.
 
 ## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 
-> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
-
 ### Installation instructions:
 - **Main files - Pixel Shader Style Water for MGE XE**
 
@@ -67,7 +69,7 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 > ℹ️ This mod is listed for completionism purposes. The general opinion in the community is that the Bethesda official plugins are of low quality and not worth playing. You can safely skip this mod and continue with the rest of the guide.
 
 ### Installation instructions:
-- **Unofficial Morrowind Official Plugins Patched**
+- **Main files - Unofficial Morrowind Official Plugins Patched**
 - You will be prompted with a **FOMOD** installer:
   - Select **UMOPP Merged** and click **Next**.
   - Select **Yes** to Compatibility Version and click **Next**.
@@ -102,23 +104,23 @@ Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to pr
 
 ### Installation instructions:
 - **Main files - Morrowind Optimization Patch**
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Chuzei Fix** (required)
-   - [X] **Better Vanilla Textures** (required)
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+   - [X] **Core**
+   - [X] **Lake Fjalding Anti-Suck**
+   - [X] **Chuzei Fix**
+   - [X] **Better Vanilla Textures**
 
 Greatly improves performance and fixes some mesh errors.
 
 ## [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)  
 
-> ℹ️ This is the first mod in the guide you need multiple files from, remember to **Rename** each file to match what it actually is.
-
 ### Installation instructions:
 - **Main files - Project Atlas**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Textures - Vanilla** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **Core**
+  - [X] **Textures - Vanilla**
 - **Update files - Hotfix 0.7.2**
-  - Install this file as a separate file instead of merging it into the main file.
+  - Install as a separate file.
 
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
 
@@ -233,7 +235,8 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 
 ### Installation instructions:
 - **Main files - Graphic Herbalism MWSE - OpenMW**
-- You will be prompted with a **BAIN** installer, here select **Core + Vanilla Meshes** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following option and click **Ok**:
+  - [X] **Core + Vanilla Meshes**
 - [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
 - [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
 
@@ -242,22 +245,18 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 ### Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Chuzei Fix** (required)
-   - [X] **Better Vanilla Textures** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
+- You will be prompted with a **BAIN** installer. Rename the mod to **Morrowind Optimization Patch - Graphic Herbalism Patch**, then select only the following option and click **Ok**:
+   - [X] **Graphic Herbalism Patch**
+
+> ℹ️ This will install the patch as a separate mod.
 
 ### Patching Graphic Herbalism with Project Atlas:
 
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Textures - Vanilla** (required)
-   - [X] **Graphic Herbalism Patch** (required)
-- Click **Replace** when prompted.
+- You will be prompted with a **BAIN** installer. Rename the mod to **Project Atlas - Graphic Herbalism Patch**, then select only the following option and click **Ok**:
+   - [X] **Graphic Herbalism Patch**
+
+> ℹ️ This will install the patch as a separate mod.
 
 ## [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)  
 
@@ -286,6 +285,29 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 - **Main files - Kill Command**
 
 Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+## [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
+
+### Installation instructions:
+- **Main files - Security Enhanced**
+- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
+
+Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+## [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
+
+### Installation instructions:
+- **Main files - SmartAmmo102**
+
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
+
+## [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
+
+### Installation instructions:
+- **Main files - Torch Hotkey**
+- Install the downloaded archive using manual install in MO2.
+
+Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## [**Cinia**](https://www.nexusmods.com/morrowind/mods/47153)  
 
@@ -362,6 +384,7 @@ Takes into account the distance to target when calculating the hit chance for ra
 
 ### Installation instructions:
 - **Main files - Putting Power in Willpower 2**
+- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
 
 Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
@@ -397,7 +420,7 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 ### Installation instructions:
 - **Main files - Better Daedric Font**
-- You will be asked to select a data directory, right-click on **Data Files** and create a **Fonts** folder.
+- You will be asked to select a data directory, right-click on **<data files\>**, **Create directory...** and create a **Fonts** folder.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into the created folder then click **Ok**.
 
 High resolution replacer for the Daedric font used in scrolls. 
@@ -428,7 +451,6 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.6.4**
-- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
 
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -499,7 +521,7 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ### Installation instructions:
 - **Main files - Quick Equip**
-- [**Quick Equip Config**]().
+- [**Quick Equip Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Adds a hotkey for equipping a selected inventory item.
 
@@ -509,29 +531,6 @@ Adds a hotkey for equipping a selected inventory item.
 - **Main files - Right Click Menu Exit**
 
 Adds a hotkey for exiting any menu.
-
-## [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)  
-
-### Installation instructions:
-- **Main files - Security Enhanced**
-- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
-
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-
-## [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)  
-
-### Installation instructions:
-- **Main files - SmartAmmo102**
-
-Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
-
-## [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)  
-
-### Installation instructions:
-- **Main files - Torch Hotkey**
-- Install the downloaded archive using manual install in MO2.
-
-Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 ## [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)  
 
@@ -594,7 +593,9 @@ A lua-based framework for creating new, fully functional magic effects. Required
 
 ### Installation instructions:
 - **Main files - Enhanced Detection**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Cast VFX** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **Core**
+  - [X] **Cast VFX**
 - [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
 - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
 
@@ -646,6 +647,13 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 - In the **Filetree** tab, right-click Ownership Overhaul.ESP and select **Hide**.
 
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+
+# Overhauls
+
+## Creating a Separator in MO2
+
+- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
+- Name the separator **Overhauls**.
 
 ## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/49232)  
 
@@ -707,29 +715,11 @@ Adds animation blending to Morrowind, enabling smooth transitions between animat
 ## [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)  
 
 ### Installation instructions:
-- **Main files - Morrowind Enhanced Textures 6**
+- **Main files - Morrowind Enhanced Textures 6.1**
 - **Optional files - MET Meshes**
+- **Optional files - MET 6 Atlas textures**
 
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
-### Patching Morrowind Enhanced Textures with Morrowind Optimization Patch:
-
-- Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Chuzei Fix** (required)
-   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
-- Click **Replace** when prompted.
-
-### Patching Morrowind Enhanced Textures with Project Atlas:
-
-- Install [**Textures - MET**](https://www.nexusmods.com/morrowind/mods/45399?) (Main files).
-- Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-  - [X] **Core** (required)
-  - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
-- Click **Replace** when prompted.
 
 ## [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)  
 
@@ -742,6 +732,8 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 
 ### Installation instructions:
 - **Main files - kart_facelift_meshes**
+- **Update files - kart_facelift_meshes**
+  - **Merge** into the main file.
 
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall. Even more vanilla-friendlier than Familiar Faces, but does not cover body, hair, and Khajiit meshes.
 
@@ -749,7 +741,10 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 
 ### Installation instructions:
 - **Main files - Near Vanilla Road Sign Replacer**
-- You will be prompted with a **BAIN** installer, here select **Meshes**, **Textures - High Resolution**, **ESP - Vvardenfell only** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+   - [X] **00 Meshes**
+   - [X] **01 Textures - High Resolution** 
+   - [X] **02 ESP - Vvardenfell only**
 
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
@@ -817,7 +812,9 @@ When using MGE XE's water, different weathers will produce different wave height
 
 ### Installation instructions:
 - **Main files - Remiros' Groundcover**
-- You will be prompted with a **BAIN** installer, here select **Core MGE XE**, **Thicker Grass MGE XE** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **Core MGE XE**
+  - [X] **Thicker Grass MGE XE**
 - After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation.
 - We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section.
 
@@ -833,7 +830,7 @@ Adds groundcover to almost all regions.
   - Select **Nord Glass Windows** and click **Next**.
   - Select **Raven Rock Glass Windows** and click **Next**.
   - Click **Next**.
-  - Select **Telvanni Tower Interior Glow MGE XE** and click **Install**.
+  - Select **Hi-Res Window Texture Replacer** and **Telvanni Tower Interior Glow MGE XE** and click **Install**.
 
 Makes vanilla windows glow in the dark.
 
@@ -843,7 +840,7 @@ Makes vanilla windows glow in the dark.
 
 ### Installation instructions:
 - **Main files - ILFAS**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Smoke and Steam Emitters** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select both options and click **Ok**.
 
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
 
@@ -865,7 +862,7 @@ Configurable mod for automatical adjustment of lighting, including override valu
 ## [**Transporter Lights**](https://www.nexusmods.com/morrowind/mods/48050)  
 
 ### Installation instructions:
-- **Main files - Transporter Lights**
+- **Optional files - Transporter Lights**
 
 Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
 
@@ -881,7 +878,12 @@ Visual weather editor which allows for user-made presets. Required for the confi
 
 ### Installation instructions:
 - **Main files - Watch the Skies 4.5.0**
-- You will be prompted with a **BAIN** installer, here select **Core**, **Clouds textures**, **Weather particles replacer** and click **Ok**.
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+  - [X] **00 Core**
+  - [X] **01 Clouds textures**
+  - [X] **03 Weather particles replacer**
+  - [X] **04 Clouds shader**
+  - [X] **05 Sunshafts shader**
 
 A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes, and more.
 
@@ -926,7 +928,6 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 ### Installation instructions:
 - **Main files - WeaponSheathing1.6-MWSE**
 - You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
-- [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)
 - [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets. The additional files improve the position of sheathed bows, and increase the amount of weapons covered by the mod.
@@ -934,14 +935,10 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 ### Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer, here select the following options and click **Ok**:
-   - [X] **Core** (required)
-   - [X] **Lake Fjalding Anti-Suck** (required)
-   - [X] **Weapon Sheathing Patch** (required) 
-   - [X] **Chuzei Fix** (required)
-   - [X] **Better Vanilla Textures** (only if you didn't install Morrowind Enhanced Textures in Visuals) 
-   - [X] **Graphic Herbalism Patch** (only if you installed Graphic Herbalism in Gameplay)
-- Click **Replace** when prompted.
+- You will be prompted with a **BAIN** installer. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**, then select only the following option and click **Ok**:
+   - [X] **Weapon Sheathing Patch**
+
+> ℹ️ This will install the patch as a separate mod.
 
 # Audio
 
