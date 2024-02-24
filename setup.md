@@ -113,10 +113,10 @@ By default, File Explorer will not show file extensions (such as .exe, .dll, or 
 
 In this step, we will download and run the Morrowind Code Patch, which directly patches bugs in Morrowind.exe which can't be otherwise fixed by installing mods.
 
-- Download the [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) (Main Files - Manual Download).
+- Download the [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) (Main files - Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Additionally install the following files
-  - [**MCP beta**](https://www.nexusmods.com/morrowind/mods/26348) (Update Files - Manual Download)
+  - [**MCP beta**](https://www.nexusmods.com/morrowind/mods/26348) (Update files - Manual Download)
   - From the downloaded archive, extract everything to the game's **Root** folder, and overwrite when prompted.
 - Run **Morrowind Code Patch.exe**.
 - Install the patches listed on this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing).
@@ -128,7 +128,7 @@ In this step, we will download and run the Morrowind Code Patch, which directly 
 
 In this step, we will download and install MGE XE, which allows Morrowind to render distant views, scenery shadows, high quality shaders and other features, as well as install the latest MWSE version, which allows Lua-based mods to function.
 
-- Download [**MGE XE Manual Install**](https://www.nexusmods.com/morrowind/mods/41102?) (Main Files - Manual Download).
+- Download [**MGE XE Manual Install**](https://www.nexusmods.com/morrowind/mods/41102?) (Main files - Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **MWSE-Update.exe**. This will update MWSE to the latest version.
 - Delete **XE Sky Variations.esp** from your **Data Files** folder. This plugin won't be necessary after we install **Weather Adjuster** in the main guide.
@@ -145,16 +145,16 @@ In this step, we will download and install tes3cmd, which cleans plugins by auto
 In this step, we will download and install TES3Merge, which solves conflicts by merging conflicting records into a separate plugin.
 
 - Install [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download). Be sure to install 6.0 and *not* 7.0, or else TES3Merge won't run.
-- Download [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870) (Main Files - Manual Download).
+- Download [**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870) (Main files - Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
-- Download [**TES3Merge Custom INI**](https://github.com/Sigourn/morrowindsharp/raw/main/mods/TES3Merge%20Custom%20INI.7z).
+- Download [**TES3Merge Custom INI**](https://www.nexusmods.com/morrowind/mods/54200/?) (Main files - Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder, and overwrite when prompted. This file includes updated merging rules to ensure no merging issues with the mods installed in the guide.
 
 ## Installing Wrye Mash
 
 In this step, we will download and install Wrye Mash, which repairs and updates saves, updates the masters of mods, and runs tes3cmd.exe in order to clean plugins and generate a plugin which fixes a number of issues with mod setups.
 
-- Download [**Wrye Mash 2021 - x64**](https://www.nexusmods.com/morrowind/mods/45439) (Update Files - Manual Download).
+- Download [**Wrye Mash 2021 - x64**](https://www.nexusmods.com/morrowind/mods/45439) (Update files - Manual Download).
 - From the downloaded archive, extract everything to the game's **Root** folder.
 - Run **mash64.exe**, found in **Morrowind\Mopy**.
 - Click **Next**.
