@@ -297,7 +297,7 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 
 ### Installation instructions:
 - **Main files - Security Enhanced**
-- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?).
+- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
@@ -1186,23 +1186,35 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 - Almost every GitHub linked download is now linked to a Nexus page.
 - Adjusted instructions for multiple mods. Many had outdated instructions, and certain mods are unavailable for download altogether.
+
+### Tweaks
+
+- Added Better Buoyancy.
+
+### User Interface
+
 - Added Better Readable Beauty Font.
 - Added Oblivion Crosshair.
-- Added Better Buoyancy.
-- Added Borrowed Time.
-- Added Magnitude of a Cure.
 - Added Left Gloves User Interface.
 - Added Tidy Charsheet.
 - Added Map Icons - MWSE.
 - Added QuickKeys Hotbar - MWSE.
 - Added Been There Done That.
+- Removed Better Dialogue Font.
+
+### Gameplay
+
+- Added Borrowed Time.
+- Added Magnitude of a Cure.
 - Added Animated Arrow Denocker.
 - Added Realistic Archery.
+- Removed Marksman Rebalanced.
+
+### Visuals 
+
 - Added Immersive Grotto Entrances.
 - Added Nords Shut Your Windows.
 - Added Flies - MWSE.
-- Removed Better Dialogue Font.
-- Removed Marksman Rebalanced.
 
 ## February 19th, 2024
 
