@@ -867,8 +867,8 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 ### Installation instructions:
 - **Main files - Bitter Coast Scum Replacer**
 - You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
- - [X] **00 Core**
- - [X] **02 Animated Replacer - Greener Color**
+  - [X] **00 Core**
+  - [X] **02 Animated Replacer - Greener Color**
 
 Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
 
@@ -884,8 +884,8 @@ Replaces the static water in the cave pools using the animation method and textu
 ### Installation instructions:
 - **Main files - Vivec Palace Water Replacer**
 - You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
- - [X] **00 Core**
- - [X] **01 Original Color**
+  - [X] **00 Core**
+  - [X] **01 Original Color**
 
 Replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics.
 
