@@ -854,6 +854,41 @@ Adds a visual effect to all vanilla flies sound emitters. Does the same thing fo
 
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
 
+## [**Better Rope Bridges**](https://www.nexusmods.com/morrowind/mods/52117)  
+
+### Installation instructions:
+- **Main files - Better Rope Bridges**
+- You will be prompted with a **BAIN** installer, here select both options and click **Ok**.
+
+ Replaces the gross vanilla rope bridges with better quality ropes.
+
+## [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291?)  
+
+### Installation instructions:
+- **Main files - Bitter Coast Scum Replacer**
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+ - [X] **00 Core**
+ - [X] **02 Animated Replacer - Greener Color**
+
+Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture.
+
+## [**Improved Cave Pools**](https://www.nexusmods.com/morrowind/mods/52142)  
+
+### Installation instructions:
+- **Main files - Improved Cave Pools**
+
+Replaces the static water in the cave pools using the animation method and textures of Tamriel Rebuilt's water statics.
+
+## [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291?)  
+
+### Installation instructions:
+- **Main files - Vivec Palace Water Replacer**
+- You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
+ - [X] **00 Core**
+ - [X] **01 Original Color**
+
+Replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics.
+
 ## [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)  
 
 ### Installation instructions:
@@ -1164,6 +1199,15 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 # Changelog
 
+## February 25th, 2024
+
+### Visuals
+
+- Added Better Rope Bridges.
+- Added Improved Cave Pools.
+- Added Bitter Coast Scum Replacer.
+- Added Vivec Palace Water Replacer.
+
 ## February 24th, 2024
 
 ### General
@@ -1211,10 +1255,6 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 - Great Service now links to the updated Nexus release. Note that this release doesn't include the typo fixes by spockthewok.
 - Removed Diseased Restored.
 
-### Gameplay
-
-- Marksman Rebalanced MWSE Config now includes the entire json file.
-
 ### Visuals
 
 - Added Animation Blending.
@@ -1239,7 +1279,6 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 ### Visuals
 - Removed Here Comes the Sun... Glare as the sun has looked just fine in MGE XE for quite a while already.
-- Removed Pete's Scroll 2018 ...in 2020 because there are plenty of alternatives for players to choose their favorite.
 
 ## October 11th, 2023
 
@@ -1269,9 +1308,6 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 
 ### Bug Fixes
 - Removed Magican't because I don't think anyone ever notices the presence of the mod.
-
-### User Interface
-- Removed Oblivion Crosshair because it's up to preference.
 
 ### Gameplay
 - Removed Controlled Weapon Enchants because it removes some strategy involved in using enchanted weapons.
