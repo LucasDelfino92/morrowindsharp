@@ -1,4 +1,4 @@
-# MORROWIND S#ARP – An Elder Scrolls III: Morrowind Modlist
+# Morrowind Sharp – An Elder Scrolls III: Morrowind Modlist
 
 ![Banner](pictures/banner.jpg)
 
