@@ -340,8 +340,6 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 
 Fixes the puzzle in the Corprusarium.
 
-> ℹ️ While **Ownership Overhaul** is included in the guide, **Divayth Fyr Puzzle Fixed** overwrites a questionable change that caused Divayth Fyr to go hostile on the player if they engaged on the treasure hunt sidequest. For this reason, we will skip installing this patch.
-
 ## [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767?)  
 
 ### Installation instructions:
@@ -717,6 +715,8 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 - In the **Filetree** tab, right-click Ownership Overhaul.ESP and select **Hide**.
 
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+
+> ℹ️ **Divayth Fyr Puzzle Fixed** overwrites a questionable change from Ownership Overhaul that caused Divayth Fyr to go hostile on the player if they engaged on the treasure hunt sidequest. For this reason, we will skip installing that mod's patch, which reintroduces the issue.
 
 # Overhauls
 
