@@ -1110,11 +1110,10 @@ Reduces the frequency of idle Cliff Racer screeches.
 
 # Finishing Touches
 
-## [**Load Order**](https://www.nexusmods.com/morrowind/mods/54200/?)  
+## [**Load Order**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043115&nmm=1)  
 
 ### Installation instructions:
-- Download **Load Order** (Optional files - Manual Download).
-- Once it has finished downloading, click the folders button at the top of MO2 and select **Open Profile folder**.
+- After downloading the file, click the folders button at the top of MO2 and select **Open Profile folder**.
 - Extract the file from the downloaded archive to the folder you opened and overwrite when prompted.
 - Once the file is extracted, click **F5** while you are on MO2 without any menu open.
 - Right-click in the right pane of MO2 and select **Enable all**.
