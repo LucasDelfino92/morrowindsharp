@@ -7,10 +7,10 @@
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **MGE XE**.
 
-## [**MWSE Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+## [**MWSE Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043083&nmm=1)
 
 ### Installation instructions:
-- **Main files - MWSE Config**
+- **Download the mod and install through MO2.**
 
 Enables letterboxing for in-game cinematics.
 
@@ -203,17 +203,17 @@ Fixes the issue of corpses respawning in dungeons on save load, and optionally a
 
 Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
 
-## [**Container Respawn Timescale GMST Tweak**](https://www.nexusmods.com/morrowind/mods/54200/?)
+## [**Container Respawn Timescale GMST Tweak**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043084&nmm=1)
 
 ### Installation instructions:
-- **Main files - Container Respawn Timescale GMST Tweak**
+- **Download the mod and install through MO2.**
 
 Increases the duration it takes for containers to respawn from 3 days to 7 days.
 
-## [**QOL GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200/?)
+## [**QOL GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043085&nmm=1)
 
 ### Installation instructions:
-- **Main files - QOL GMST Tweaks**
+- **Download the mod and install through MO2.**
 
 Increases the distance required for NPCs to greet you; reduces sneak height to make it more obvious to the player when they are sneaking.
 
@@ -297,7 +297,7 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 
 ### Installation instructions:
 - **Main files - Security Enhanced**
-- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043092&nmm=1)
 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
@@ -377,10 +377,10 @@ Adds reputation points for completing Fighter's Guild, Imperial Legion, and Thie
 
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-## [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/54200/?)
+## [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043087&nmm=1)
 
 ### Installation instructions:
-- **Main files - Wings of Will**
+- **Download and install the mod through MO2.**
 
 Levitation speed is now based on Willpower attribute instead of Speed. Calculations are otherwise the same. Includes underwater speed fix by **Necrolesian**.
 
@@ -432,7 +432,7 @@ Replaces the vanilla crosshair with one better fitting an RPG.
 
 ### Installation instructions:
 - **Main files - Improved Main Menu**
-- [**Improved Main Menu Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Improved Main Menu Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043119&nmm=1)
 
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
@@ -440,7 +440,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.6.4**
-- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043113&nmm=1)
 
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -462,7 +462,7 @@ Dynamically changes the local map markers to make them more helpful.
 
 ### Installation instructions:
 - **Update files - QuickKey HotBar - MWSE**
-- [**QuickKeys Hotbar Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**QuickKeys Hotbar Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043112&nmm=1)
 
 Adds a hotbar to the game with all your hotkeys displayed.
 
@@ -547,7 +547,7 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ### Installation instructions:
 - **Main files - Quick Equip**
-- [**Quick Equip Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Quick Equip Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043091&nmm=1)
 
 Adds a hotkey for equipping a selected inventory item.
 
@@ -604,11 +604,11 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 
 Adds magnitude to cure effects, making them work similarly to dispel and improve the way alchemy game formulas treat such effects.
 
-## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/54200)  
+## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043105&nmm=1)  
 
 ### Installation instructions:
-- **Main files - Controlled Consumption**
-- **Main files - Controlled Consumption Config**
+- **Download the mod and install through MO2.**
+- [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043093&nmm=1)
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -659,7 +659,7 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 
 ### Installation instructions:
 - **Main files - Realistic Repair**
-- [**Realistic Repair Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Realistic Repair Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043094&nmm=1)
 - Once the mod has been installed, double-click on it in the left pane of MO2.
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
 
@@ -725,17 +725,17 @@ Assigns ownership to the many, many items and containers that rightly should be 
 - Right-click the empty space in the left pane of MO2 and select **Create Separator**.
 - Name the separator **Overhauls**.
 
-## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/54200)  
+## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043106&nmm=1)  
 
 ### Installation instructions:
-- **Main files - Morrowind Anti-Cheese**
+- **Download and install the mod through MO2.**
 
 Fixes the biggest exploits and balance issues in the game.
 
-## [**Gameplay GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200/?)
+## [**Gameplay GMST Tweaks**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043095&nmm=1)
 
 ### Installation instructions:
-- **Main files - Gameplay GMST Tweaks**
+- **Download and install the mod through MO2.**
 
 Reduces the value of self-made potions; removes disposition gain on succesful barter.
 
@@ -757,7 +757,7 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 ### Installation instructions:
 - **Main files - Tribunal Rebalance**
-- [**Gedna Script Fix and Goblin Potion Rebalance**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Gedna Script Fix and Goblin Potion Rebalance**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043096&nmm=1)
 
 Rebalances Tribunal as if it shipped with Morrowind.
 
@@ -984,7 +984,7 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 ### Installation instructions:
 - **Main files - LTBD**
-- [**Let There Be Darkness Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Let There Be Darkness Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043097&nmm=1)
 
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
@@ -1006,7 +1006,7 @@ Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
 
 ### Installation instructions:
 - **Main files - Weather Adjuster**
-- [**Weather Adjuster Config**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Weather Adjuster Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043114&nmm=1)
 
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
@@ -1030,10 +1030,10 @@ A weather overhaul with randomised cloud textures, weather changes in interiors,
 
 Replaces the night sky using MWSE with one that changes every month over the course of the game year. On day one of every month, the prime constellation will be visible on the eastern horizon and fades away to the next month's constellation as the month progresses.
 
-## [**Complete Armor Joints**](https://www.nexusmods.com/morrowind/mods/54200/?)  
+## [**Complete Armor Joints**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043101&nmm=1)  
 
 ### Installation instructions:
-- **Main files - Complete Armor Joints**
+- **Download the mod and install through MO2.**
 
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
@@ -1097,7 +1097,7 @@ Sounds overhaul, with ambient sounds, interior weather, extended voices, and mor
 
 ### Installation instructions:
 - **Main files - CSO**
-- [**Character Sound Overhaul - Project Atlas Patch**](https://www.nexusmods.com/morrowind/mods/54200/?)
+- [**Character Sound Overhaul - Project Atlas Patch**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043098&nmm=1)
 
 Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
 
