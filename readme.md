@@ -13,6 +13,7 @@
 - DLCs: expansions are delayed and rebalanced for better integration with the base game.
 - Gameplay: basic quality of life improvements, new mechanics, and optional lightweight and ultra-compatible balance tweaks.
 - Visuals: vanilla-friendly high resolution upscaled textures, basic texture and mesh improvements, and more immersive lighting.
+  - Do not be misled into thinking this is a graphics guide. Morrowind Sharp is very much a guide concerning the overall improvement of Morrowind without messing too much with the gameplay and visual experience.
 
 This modlist is offered "as is" and considered complete. I won't be answering compatibility questions. Instructions on the installation and use of [**TES3View**](appendix.md#tes3view) are provided. Use that tool to detect and solve conflicts.
 
