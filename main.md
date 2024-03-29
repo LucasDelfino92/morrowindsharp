@@ -604,13 +604,13 @@ Prevents Fortify Health and Drain Health effects from killing actors outright, l
 
 Adds magnitude to cure effects, making them work similarly to dispel and improve the way alchemy game formulas treat such effects.
 
-## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043105&nmm=1)  
+## [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624?)  
 
 ### Installation instructions:
-- **Download the mod and install through MO2.**
-- Install [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043093&nmm=1)
+- **Main files - Controlled Consumption v1.3.2**
+- Install [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043708&nmm=1)
 
-Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
+Provides a configurable restriction on the amount of potions the player can consume at any one time, removing one of the largest exploits in the game.
 
 > ℹ️ This is the first mod in the guide from a mod compilation page, remember to **Rename** each file to match what it actually is.
 
@@ -1200,6 +1200,10 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 # Changelog
 
 ## February 29th, 2024
+
+### Gameplay
+
+- Reverted back to the original Controlled Consumption mod, because limiting ingredient consumption is more tiresome than balancing.
 
 ### Visuals
 
