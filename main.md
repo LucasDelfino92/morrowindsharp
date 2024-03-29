@@ -799,15 +799,6 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game. Also fixes distortion and clipping issues with body meshes.
 
-## [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)  
-
-### Installation instructions:
-- **Main files - kart_facelift_meshes**
-- **Update files - kart_facelift_meshes**
-  - **Merge** into the main file.
-
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall. Even more vanilla-friendlier than Familiar Faces, but does not cover body, hair, and Khajiit meshes.
-
 ## [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)  
 
 ### Installation instructions:
@@ -1078,6 +1069,14 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 
 > ℹ️ This will install the patch as a separate mod.
 
+## [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)  
+
+### Installation instructions:
+- **Main files - Correct UV Mudcrab**
+- You will be asked to select a data directory. Expand **Correct Mudcrab** -> Expand **Regular** -> Right-click **Data Files** -> **Set as data files directory** -> **OK**.
+
+A fixed Mudcrab mesh, reducing distortion and other UV errors. 
+
 # Audio
 
 ## Creating a Separator in MO2
@@ -1199,6 +1198,13 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## February 29th, 2024
+
+### Visuals
+
+- Removed Facelift in favor of Familiar Faces' meshes (also recommended by the author of Facelift).
+- Added Correct UV Mudcrabs.
 
 ## February 25th, 2024
 
