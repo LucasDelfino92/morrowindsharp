@@ -41,8 +41,6 @@ Eye Adaptation (HDR)
 ```
 - Click **Save** after setting up your shader chain.
 
-Includes install additional shaders for MGE XE.
-
 ## [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)  
 
 ### Installation instructions:
