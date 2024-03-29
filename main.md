@@ -69,9 +69,9 @@ Unofficial patch that aims to make the game completely bug-free, within the abil
 ### Installation instructions:
 - **Main files - Unofficial Morrowind Official Plugins Patched**
 - You will be prompted with a **FOMOD** installer:
-  - Select **UMOPP Merged** and click **Next**.
-  - Select **Yes** to Compatibility Version and click **Next**.
-  - Select **No** to Better Armor Compatibility and click **Next**.
+  - Version -> **UMOPP Merged**
+  - Compatibility Version -> **Yes**
+  - Better Armor Compatibility -> **No**
   - Click **Install**.
 
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well. 
@@ -87,7 +87,7 @@ Restores missing stages during the construction of Great House strongholds. Cons
 
 ### Installation instructions:
 - **Main files - Improved Thrown Weapon Projectiles**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
+- You will be asked to select a data directory. Right-click **Data Files** -> **Set as data files directory** -> **OK**.
 
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 
@@ -166,6 +166,20 @@ Avoids actors getting stuck while opening doors.
 
 Forces the game to instantly close on exit.
 
+## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
+
+### Installation instructions:
+- **Main files - Less Lame Leveled Spawns v1.0.0**
+
+Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
+
+## [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
+
+### Installation instructions:
+- **Main files - Calculated List Fix**
+
+Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
+
 # Tweaks
 
 ## Creating a Separator in MO2
@@ -187,24 +201,11 @@ Tweaks how Restore/Damage Attribute works on the player. Required by **Fortify M
 
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
-## [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)  
-
-### Installation instructions:
-- **Main files - Less Lame Leveled Spawns v1.0.0**
-
-Fixes the issue of corpses respawning in dungeons on save load, and optionally adds a cooldown to leveled creature spawns.
-
-## [**Uncalculated Leveled Creatures Fix**](https://www.nexusmods.com/morrowind/mods/51717?)  
-
-### Installation instructions:
-- **Main files - Calculated List Fix**
-
-Addresses a handful of leveled lists that prevented lower level enemies from spawning at higher character levels, as is the norm for most monster leveled lists in the game. As a side effect, the player can now get a steady supply of enchanted arrows from Skeleton Archers, a low level enemy.
-
 ## [**Container Respawn Timescale GMST Tweak**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043084&nmm=1)
 
 ### Installation instructions:
 - **Download the mod and install through MO2.**
+- If you get a message saying the mod is already installed, it is because you haven't renamed the mod to distinguish it from previously installed mods from the same page.
 
 Increases the duration it takes for containers to respawn from 3 days to 7 days.
 
@@ -243,7 +244,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 ### Patching Graphic Herbalism with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer. Rename the mod to **Morrowind Optimization Patch - Graphic Herbalism Patch**, then select only the following option and click **Ok**:
+- You will be prompted with a **BAIN** installer. Rename the mod to **MOP - GH Patch**, then select only the following option and click **Ok**:
    - [X] **Graphic Herbalism Patch**
 
 > ℹ️ This will install the patch as a separate mod.
@@ -251,7 +252,7 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 ### Patching Graphic Herbalism with Project Atlas:
 
 - Right-click **Project Atlas** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer. Rename the mod to **Project Atlas - Graphic Herbalism Patch**, then select only the following option and click **Ok**:
+- You will be prompted with a **BAIN** installer. Rename the mod to **Project Atlas - GH Patch**, then select only the following option and click **Ok**:
    - [X] **Graphic Herbalism Patch**
 
 > ℹ️ This will install the patch as a separate mod.
@@ -333,8 +334,8 @@ Moves the entrance to the cavern of Dubdilla to a more logical place according t
 ### Installation instructions:
 - **Main files - Divayth Fyr Puzzle Fixed**
 - You will be prompted with a **FOMOD** installer:
-  - Select **Patch for Purists** for Base Files and click **Next**.
-  - Skip **Ownership Overhaul** Patch and click **Install**.
+  - Base Files -> **Patch for Purists**
+  - Click **Install**.
 
 Fixes the puzzle in the Corprusarium.
 
@@ -400,7 +401,8 @@ High resolution replacer for the Magic Cards font, used in most of the user inte
 
 ### Installation instructions:
 - **Main files - Better Daedric Font**
-- You will be asked to select a data directory, right-click on **<data files\>**, **Create directory...** and create a **Fonts** folder.
+- You will be asked to select a data directory. Right-click **Data Files** -> **Set as data files directory** -> **OK**.
+- You will be asked to select a data directory. Right-click **<data files\>** -> **Create directory...** -> **Fonts** -> **OK**.
 - Drag and drop **daedric_font.fnt** and **daedric_font_obw.tex** into the created folder then click **Ok**.
 
 High resolution replacer for the Daedric font used in scrolls. 
@@ -410,7 +412,7 @@ High resolution replacer for the Daedric font used in scrolls.
 ### Installation instructions:
 - **Main files - Title Screen Reworked (Widescreen).**
 
-High resolution replacer for the title screen and intro video.
+High resolution replacer for the title screen.
 
 ## [**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966)  
 
@@ -437,7 +439,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 ## [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)  
 
 ### Installation instructions:
-- **Main files - UI Expansion v1.6.4**
+- **Main files - UI Expansion v1.7.2**
 - [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043113&nmm=1)
 
 Expands UI functionality with searching, filtering, and more visual feedback.
@@ -642,7 +644,7 @@ Adds new Oblivion-inspired visual effects and mechanics for the vanilla detectio
 
 ### Installation instructions:
 - **Main files - Putting Power in Willpower 2**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
+- You will be asked to select a data directory. Right-click **Data Files** -> **Set as data files directory** -> **OK**.
 
 Fixes Willpower not affecting your ability to resist magic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
 
@@ -674,6 +676,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 ### Installation instructions:
 - **Main files - Animated Arrow Denocker**
+- Install the downloaded archive using manual install in MO2.
 
 Reimplements the MCP arrow denocking feature, with full animation and new input options.
 
