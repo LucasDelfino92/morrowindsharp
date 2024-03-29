@@ -954,10 +954,11 @@ Adds groundcover to almost all regions.
 ### Installation instructions:
 - **Main files - Glow in the Dahrk**
 - You will be prompted with a **FOMOD** installer:
-  - Select **Nord Glass Windows** and click **Next**.
-  - Select **Raven Rock Glass Windows** and click **Next**.
-  - Click **Next**.
-  - Select **Hi-Res Window Texture Replacer** and **Telvanni Tower Interior Glow MGE XE** and click **Install**.
+  - Nord Glass Windows -> **Yes**
+  - Raven Rock Glass Windows -> **Yes**
+  - Optional files -> **Hi-Res Window Texture Replacer**
+  - Telvanni Tower Interior Glow -> **MGE XE**
+  - Install.
 
 Makes vanilla windows glow in the dark.
 
