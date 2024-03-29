@@ -236,8 +236,8 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 - **Main files - Graphic Herbalism MWSE - OpenMW**
 - You will be prompted with a **BAIN** installer, here select only the following option and click **Ok**:
   - [X] **Core + Vanilla Meshes**
-- [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)
-- [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)
+- Install [**Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154) (Main files).
+- Install [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) (Main files).
 
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn). The additional files fix a number of issues with the mod.
 
@@ -296,7 +296,7 @@ Adds a configurable hotkey that will send all companions to attack whatever you 
 
 ### Installation instructions:
 - **Main files - Security Enhanced**
-- [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043092&nmm=1)
+- Install [**Security Enhanced Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043092&nmm=1).
 
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
@@ -432,7 +432,7 @@ Replaces the vanilla crosshair with one better fitting an RPG.
 
 ### Installation instructions:
 - **Main files - Improved Main Menu**
-- [**Improved Main Menu Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043119&nmm=1)
+- Install [**Improved Main Menu Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043119&nmm=1)
 
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
@@ -440,7 +440,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 
 ### Installation instructions:
 - **Main files - UI Expansion v1.7.2**
-- [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043113&nmm=1)
+- Install [**UI Expansion Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043113&nmm=1)
 
 Expands UI functionality with searching, filtering, and more visual feedback.
 
@@ -462,7 +462,7 @@ Dynamically changes the local map markers to make them more helpful.
 
 ### Installation instructions:
 - **Update files - QuickKey HotBar - MWSE**
-- [**QuickKeys Hotbar Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043112&nmm=1)
+- Install [**QuickKeys Hotbar Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043112&nmm=1)
 
 Adds a hotbar to the game with all your hotkeys displayed.
 
@@ -547,7 +547,7 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ### Installation instructions:
 - **Main files - Quick Equip**
-- [**Quick Equip Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043091&nmm=1)
+- Install [**Quick Equip Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043091&nmm=1)
 
 Adds a hotkey for equipping a selected inventory item.
 
@@ -608,7 +608,7 @@ Adds magnitude to cure effects, making them work similarly to dispel and improve
 
 ### Installation instructions:
 - **Download the mod and install through MO2.**
-- [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043093&nmm=1)
+- Install [**Controlled Consumption Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043093&nmm=1)
 
 Provides a configurable restriction on the amount of potions and ingredients the player can consume at any one time, removing one of the largest exploits in the game.
 
@@ -635,7 +635,7 @@ A lua-based framework for creating new, fully functional magic effects. Required
 - **Main files - Enhanced Detection**
 - You will be prompted with a **BAIN** installer, here select only the following option and click **Ok**:
   - [X] **Core**
-- [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)
+- Install [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471) (Main files)
 - You will be prompted with a **BAIN** installer, here select **Enhanced Detection Less Lite** and click **Ok**.
 
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects. The additional file reduces the amount of new Detection spells added by the mod.
@@ -659,9 +659,9 @@ Modifies movement speeds when strafing or backpedalling so that they are more re
 
 ### Installation instructions:
 - **Main files - Realistic Repair**
-- [**Realistic Repair Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043094&nmm=1)
 - Once the mod has been installed, double-click on it in the left pane of MO2.
 - In the **Filetree** tab, right-click Realistic_Repair_Optional.ESP and select **Hide**.
+- Install [**Realistic Repair Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043094&nmm=1)
 
 When an NPC dies, all their equipped gear is damaged. Optionally makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Fully customizable.
 
@@ -758,7 +758,7 @@ Makes the Sixth House, properly, the most difficult content in the game. Intende
 
 ### Installation instructions:
 - **Main files - Tribunal Rebalance**
-- [**Gedna Script Fix and Goblin Potion Rebalance**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043096&nmm=1)
+- Install [**Gedna Script Fix and Goblin Potion Rebalance**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043096&nmm=1)
 
 Rebalances Tribunal as if it shipped with Morrowind.
 
@@ -942,7 +942,7 @@ When using MGE XE's water, different weathers will produce different wave height
 - You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
   - [X] **Core MGE XE**
   - [X] **Thicker Grass MGE XE**
-- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should only be active during Distant Land generation.
+- After installation, disable the mod's plugins in your load order (those starting with Rem_). These plugins should not be enabled during normal gameplay.
 - We will finish installation in the [**Distant Land**](main.md#re-running-distant-land) section.
 
 Adds groundcover to almost all regions.
@@ -986,7 +986,7 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 ### Installation instructions:
 - **Main files - LTBD**
-- [**Let There Be Darkness Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043097&nmm=1)
+- Install [**Let There Be Darkness Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043097&nmm=1)
 
 Configurable mod for automatical adjustment of lighting, including override values, cell whitelist, and light object editing.
 
@@ -1008,14 +1008,14 @@ Caravaners, Gondoliers, and Shipmasters equip light at night for more immersion.
 
 ### Installation instructions:
 - **Main files - Weather Adjuster**
-- [**Weather Adjuster Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043114&nmm=1)
+- Install [**Weather Adjuster Config**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043114&nmm=1)
 
 Visual weather editor which allows for user-made presets. Required for the configuration preset we will install later.
 
 ## [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)  
 
 ### Installation instructions:
-- **Main files - Watch the Skies 4.5.0**
+- **Main files - Watch the Skies 5.0.0**
 - You will be prompted with a **BAIN** installer, here select only the following options and click **Ok**:
   - [X] **00 Core**
   - [X] **01 Clouds textures**
@@ -1065,8 +1065,8 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 
 ### Installation instructions:
 - **Main files - WeaponSheathing1.6-MWSE**
-- You will be asked to select a data directory, right-click on **Data Files** and **Set as data files directory**, then click **OK**.
-- [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)
+- You will be asked to select a data directory. Right-click **Data Files** -> **Set as data files directory** -> **OK**.
+- Install [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616) (Main files).
 
 Equipped weapons will be shown on player and NPCs' hips or backs. Additionally features a comprehensive set of high quality quiver and scabbard assets. The additional files improve the position of sheathed bows, and increase the amount of weapons covered by the mod.
 
@@ -1099,7 +1099,7 @@ Sounds overhaul, with ambient sounds, interior weather, extended voices, and mor
 
 ### Installation instructions:
 - **Main files - CSO**
-- [**Character Sound Overhaul - Project Atlas Patch**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043098&nmm=1)
+- Install [**Character Sound Overhaul - Project Atlas Patch**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043098&nmm=1)
 
 Implements unique, varied terrain-based footstep sounds; armor rattling sounds based on equipped items; additional effects for weather patterns such as rain; diverse array of sounds for each weapon's behaviors, open/close sounds for looting corpses; and more. Fully customizable.
 
