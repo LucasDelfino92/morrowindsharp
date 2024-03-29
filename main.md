@@ -1073,7 +1073,7 @@ Equipped weapons will be shown on player and NPCs' hips or backs. Additionally f
 ### Patching Weapon Sheathing with Morrowind Optimization Patch:
 
 - Right-click **Morrowind Optimization Patch** under your **Bug Fixes** separator, then click **Reinstall Mod**.
-- You will be prompted with a **BAIN** installer. Rename the mod to **Morrowind Optimization Patch - Weapon Sheathing Patch**, then select only the following option and click **Ok**:
+- You will be prompted with a **BAIN** installer. Rename the mod to **MOP - Weapon Sheathing Patch**, then select only the following option and click **Ok**:
    - [X] **Weapon Sheathing Patch**
 
 > ℹ️ This will install the patch as a separate mod.
