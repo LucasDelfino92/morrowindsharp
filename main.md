@@ -790,6 +790,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 
 ### Installation instructions:
 - **Main files - Familiar Faces**
+- Install [**Familiar Faces - Whiskers**](https://www.nexusmods.com/morrowind/mods/49232?tab=files&file_id=1000026828&nmm=1).
 
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game. Also fixes distortion and clipping issues with body meshes.
 
@@ -1198,6 +1199,10 @@ Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Sha
 ### Gameplay
 
 - Merged the Overhauls category into this one.
+
+### Visuals
+
+- Added Familiar Faces - Whiskers.
 
 ## March 29th, 2024
 
