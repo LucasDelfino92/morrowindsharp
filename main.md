@@ -11,10 +11,11 @@
 
 ### Installation instructions:
 - **Download the mod and install through MO2.**
+- If MO2 tells you no category has been found, click **Disable** to proceed.
 
 Enables letterboxing for in-game cinematics.
 
-> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button, you will need to click that button then head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
+> ℹ️ This is the first mod in the guide that is installed with the **Mod Manager Download** button. After downloading the mod, head to the **Downloads** section of Mod Organizer 2 to install it. Once installed, make sure you check the box next to it in the left pane of MO2 to enable it.
 
 > ℹ️ This is the first mod we will install from the **Morrowind Sharp Resources** mod page. Remember to rename it to its respective filename.
 
