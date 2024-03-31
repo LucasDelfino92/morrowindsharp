@@ -24,7 +24,7 @@ Enables letterboxing for in-game cinematics.
 > ⚠️ It is encouraged to skip this section unless your computer has more than 2GB VRAM, otherwise expect less than 30fps outdoors. At 8GB VRAM, I can hit a consistent 60fps even in the most performance intensive areas of the game.
 
 ### Installation instructions:
-- Install the downloaded archive using manual install in MO2.
+- Install the downloaded archive using the manual install button ![manual](MO2/MO_Archive.png) in MO2.
 - You will be prompted with a **BAIN** installer, here select **Core** and click **Ok**.
 - Run **MGE XE** in MO2.
 - In the **Graphics tab**, click **Enable shaders**.
