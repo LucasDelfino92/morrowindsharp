@@ -720,13 +720,6 @@ Assigns ownership to the many, many items and containers that rightly should be 
 
 > ℹ️ **Divayth Fyr Puzzle Fixed** overwrites a questionable change from Ownership Overhaul that caused Divayth Fyr to go hostile on the player if they engaged on the treasure hunt sidequest. For this reason, we will skip installing that mod's patch, which reintroduces the issue.
 
-# Overhauls
-
-## Creating a Separator in MO2
-
-- Right-click the empty space in the left pane of MO2 and select **Create Separator**.
-- Name the separator **Overhauls**.
-
 ## [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/54200?tab=files&file_id=1000043106&nmm=1)  
 
 ### Installation instructions:
@@ -1199,6 +1192,12 @@ Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader 
 Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
 
 # Changelog
+
+## March 31st, 2024
+
+### Gameplay
+
+- Merged the Overhauls category into this one.
 
 ## March 29th, 2024
 
